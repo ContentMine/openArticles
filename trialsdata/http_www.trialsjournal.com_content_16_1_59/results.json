@@ -1,0 +1,115 @@
+{
+  "publisher": {
+    "value": [
+      "BioMed Central Ltd"
+    ]
+  },
+  "journal": {
+    "value": [
+      "Trials"
+    ]
+  },
+  "title": {
+    "value": [
+      "‘Fit Moms/Mamás Activas’ internet-based weight control program with group support to reduce postpartum weight retention in low-income women: study protocol for a randomized controlled trial"
+    ]
+  },
+  "authors": {
+    "value": [
+      "Suzanne Phelan",
+      "Anna Brannen",
+      "Karen Erickson",
+      "Molly Diamond",
+      "Andrew Schaffner",
+      "Karen Muñoz-Christian",
+      "Ana Stewart",
+      "Teresa Sanchez",
+      "Vanessa C Rodriguez",
+      "Dalila I Ramos",
+      "Linda McClure",
+      "Caro Stinson",
+      "Deborah F Tate"
+    ]
+  },
+  "date": {
+    "value": [
+      "2015-02-25"
+    ]
+  },
+  "doi": {
+    "value": [
+      "10.1186/s13063-015-0573-9"
+    ]
+  },
+  "volume": {
+    "value": [
+      "16"
+    ]
+  },
+  "issue": {
+    "value": [
+      "1"
+    ]
+  },
+  "firstpage": {
+    "value": [
+      "59"
+    ]
+  },
+  "description": {
+    "value": [
+      "High postpartum weight retention is a strong independent risk factor for lifetime obesity, cardiovascular disease, and type 2 diabetes in women. Interventions to promote postpartum weight loss have met with some success but have been limited by high attrition. Internet-based treatment has the potential to overcome this barrier and reduce postpartum weight retention, but no study has evaluated the effects of an internet-based program to prevent high postpartum weight retention in women."
+    ]
+  },
+  "abstract": {
+    "value": [
+      "High postpartum weight retention is a strong independent risk factor for lifetime obesity, cardiovascular disease, and type 2 diabetes in women. Interventions to promote postpartum weight loss have met with some success but have been limited by high attrition. Internet-based treatment has the potential to overcome this barrier and reduce postpartum weight retention, but no study has evaluated the effects of an internet-based program to prevent high postpartum weight retention in women."
+    ]
+  },
+  "fulltext_html": {
+    "value": [
+      "http://www.trialsjournal.com/content/16/1/59"
+    ]
+  },
+  "fulltext_pdf": {
+    "value": [
+      "http://www.trialsjournal.com/content/pdf/s13063-015-0573-9.pdf"
+    ]
+  },
+  "fulltext_xml": {
+    "value": [
+      "/content/download/xml/s13063-015-0573-9.xml"
+    ]
+  },
+  "supplementary_material": {
+    "value": []
+  },
+  "figure": {
+    "value": [
+      "/content/figures/s13063-015-0573-9-1.gif",
+      "/content/figures/s13063-015-0573-9-2.gif"
+    ]
+  },
+  "figure_caption": {
+    "value": [
+      "Figure 1.",
+      "Fit Moms/",
+      "Mamás Activas",
+      "cluster randomized design.",
+      "Figure 2.",
+      "Overview of Fit Moms/",
+      "Mamás Activas",
+      "."
+    ]
+  },
+  "license": {
+    "value": [
+      "\r\n\t\t\t\tThis is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.\r\n\t\t\t"
+    ]
+  },
+  "copyright": {
+    "value": [
+      "\r\n            © 2015 Phelan et al.; licensee BioMed Central. \r\n        "
+    ]
+  }
+}

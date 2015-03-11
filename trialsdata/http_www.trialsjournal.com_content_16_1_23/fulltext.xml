@@ -1,0 +1,3503 @@
+<?xml version='1.0'?>
+<!DOCTYPE art SYSTEM 'http://www.biomedcentral.com/xml/article.dtd'>
+<art>
+    <ui>s13063-014-0540-x</ui>
+    <ji>1745-6215</ji>
+    <fm>
+       <dochead>Study protocol</dochead>
+       <bibl>
+          <title>
+             <p>The efficacy of motivational counseling and SMS-reminders on daily sitting time in patients with rheumatoid arthritis: protocol for a randomized controlled trial</p>
+          </title>
+          <aug>
+             <au id="A1" ca="yes">
+                <snm>Esbensen</snm>
+                <mnm>Appel</mnm>
+                <fnm>Bente</fnm>
+                <insr iid="I1"/>
+                <insr iid="I2"/>
+                <insr iid="I3"/>
+                <email>bente.appel.esbensen@regionh.dk</email>
+             </au>
+             <au id="A2">
+                <snm>Thomsen</snm>
+                <fnm>Tanja</fnm>
+                <insr iid="I1"/>
+                <insr iid="I2"/>
+                <insr iid="I4"/>
+                <email>tanja.thomsen.01@regionh.dk</email>
+             </au>
+             <au id="A3">
+                <snm>Hetland</snm>
+                <mi>L</mi>
+                <fnm>Merete</fnm>
+                <insr iid="I2"/>
+                <insr iid="I3"/>
+                <insr iid="I6"/>
+                <email>merete.hetland@dadlnet.dk</email>
+             </au>
+             <au id="A4">
+                <snm>Beyer</snm>
+                <fnm>Nina</fnm>
+                <insr iid="I3"/>
+                <insr iid="I7"/>
+                <email>ninabeyer.privat@gmail.com</email>
+             </au>
+             <au id="A5">
+                <snm>Midtgaard</snm>
+                <fnm>Julie</fnm>
+                <insr iid="I5"/>
+                <insr iid="I8"/>
+                <email>julie@ucsf.dk</email>
+             </au>
+             <au id="A6">
+                <snm>L&#248;ppenthin</snm>
+                <fnm>Katrine</fnm>
+                <insr iid="I1"/>
+                <insr iid="I2"/>
+                <insr iid="I9"/>
+                <email>katrine.bjerre.loeppenthin@regionh.dk</email>
+             </au>
+             <au id="A7">
+                <snm>Jennum</snm>
+                <fnm>Poul</fnm>
+                <insr iid="I3"/>
+                <insr iid="I9"/>
+                <email>poul.joergen.jennum@regionh.dk</email>
+             </au>
+             <au id="A8">
+                <snm>&#216;stergaard</snm>
+                <fnm>Mikkel</fnm>
+                <insr iid="I2"/>
+                <insr iid="I3"/>
+                <email>mo@dadlnet.dk</email>
+             </au>
+             <au id="A9">
+                <snm>S&#248;rensen</snm>
+                <fnm>Jan</fnm>
+                <insr iid="I10"/>
+                <email>jas@sdu.dk</email>
+             </au>
+             <au id="A10">
+                <snm>Christensen</snm>
+                <fnm>Robin</fnm>
+                <insr iid="I11"/>
+                <email>Robin.Christensen@regionh.dk</email>
+             </au>
+             <au id="A11">
+                <snm>Aadahl</snm>
+                <fnm>Mette</fnm>
+                <insr iid="I5"/>
+                <insr iid="I12"/>
+                <email>mette.aadahl@regionh.dk</email>
+             </au>
+          </aug>
+          <insg>
+             <ins id="I1">
+                <p>Nursing and Health Science Research Unit, Glostrup Hospital, University of Copenhagen, Glostrup, Denmark</p>
+             </ins>
+             <ins id="I2">
+                <p>Copenhagen Center for Arthritis Research (COPECARE), Center for Rheumatology and Spine Diseases, Glostrup Hospital University of Copenhagen, Glostrup, Denmark</p>
+             </ins>
+             <ins id="I3">
+                <p>Department of Clinical Medicine, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark</p>
+             </ins>
+             <ins id="I4">
+                <p>Department of Physio- and Occupational Therapy, Glostrup Hospital, University of Copenhagen, Glostrup, Denmark</p>
+             </ins>
+             <ins id="I5">
+                <p>Department of Public Health, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark</p>
+             </ins>
+             <ins id="I6">
+                <p>DANBIO registry, Center for Rheumatology and Spine Diseases, Glostrup Hospital, University of Copenhagen, Copenhagen, Denmark</p>
+             </ins>
+             <ins id="I7">
+                <p>Department of Physical Therapy, Musculoskeletal Rehabilitation Research Unit, Bispebjerg and Frederiksberg Hospital, University of Copenhagen, Copenhagen, Denmark</p>
+             </ins>
+             <ins id="I8">
+                <p>Center for Health Research, Copenhagen University Hospital, Rigshospitalet, Copenhagen, Denmark</p>
+             </ins>
+             <ins id="I9">
+                <p>Department of Clinical Neurophysiology, Danish Center for Sleep Medicine, Glostrup Hospital, University of Copenhagen, Copenhagen, Denmark</p>
+             </ins>
+             <ins id="I10">
+                <p>Center for Applied Health Services Research, University of Southern Denmark, Odense, Denmark</p>
+             </ins>
+             <ins id="I11">
+                <p>Department of Rheumatology, Bispebjerg and Frederiksberg Hospital, Musculoskeletal Statistics Unit, the Parker Institute, University of Copenhagen, Copenhagen, Denmark</p>
+             </ins>
+             <ins id="I12">
+                <p>Research Center for Prevention and Health, The Capital Region of Denmark, Glostrup Hospital, University of Copenhagen, Copenhagen, Denmark</p>
+             </ins>
+          </insg>
+          <source>Trials</source>
+          <issn>1745-6215</issn>
+          <pubdate>2015</pubdate>
+          <volume>16</volume>
+          <issue>1</issue>
+          <fpage>23</fpage>
+          <url>http://www.trialsjournal.com/content/16/1/23</url>
+          <xrefbib>
+             <pubidlist>
+                <pubid idtype="doi">10.1186/s13063-014-0540-x</pubid>
+             </pubidlist>
+          </xrefbib>
+       </bibl>
+       <history>
+          <rec>
+             <date>
+                <day>29</day>
+                <month>5</month>
+                <year>2014</year>
+             </date>
+          </rec>
+          <acc>
+             <date>
+                <day>22</day>
+                <month>12</month>
+                <year>2014</year>
+             </date>
+          </acc>
+          <pub>
+             <date>
+                <day>27</day>
+                <month>1</month>
+                <year>2015</year>
+             </date>
+          </pub>
+       </history>
+       <cpyrt>
+          <year>2015</year>
+          <collab>Esbensen et al.; licensee BioMed Central.</collab>
+          <note>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/4.0</url>), which permits unrestricted use, distribution, and reproduction in any medium,  provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (<url>http://creativecommons.org/publicdomain/zero/1.0/</url>) applies to the data made available in this article, unless otherwise stated.</note>
+       </cpyrt>
+       <kwdg>
+          <kwd>Sedentary behavior</kwd>
+          <kwd>Short text message service</kwd>
+          <kwd>Fatigue</kwd>
+          <kwd>Pain</kwd>
+          <kwd>Self-efficacy</kwd>
+          <kwd>ActivPAL</kwd>
+          <kwd>HR-QoL</kwd>
+       </kwdg>
+       <abs>
+          <sec>
+             <st>
+                <p>Abstract</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Background</p>
+                </st>
+                <p>Patients with RA (Rheumatoid Arthritis) are more sedentary than the general population. Reduction of Sedentary Behaviour (SB) has been suggested as a mean for improvement of health in patients with chronic diseases and mobility problems. Short-term intervention studies have demonstrated that SB can be reduced by behavioural interventions in healthy populations. However, it remains unexplored whether it is valid for patients with RA also.</p>
+                <p>Therefore, the aim of this trial is to investigate the efficacy of an individually tailored, theory-based motivational counseling intervention on reducing daily sitting time in sedentary patients with RA. Additionally, to explore whether a reduction in daily sitting time is associated with reduced pain and fatigue, self-reported physical function, self-efficacy, improved health-related quality of life (HR-QoL) and cardiovascular biomarker levels, and finally to assess the cost-effectiveness of the intervention.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Methods/Design</p>
+                </st>
+                <p>For this parallel group randomized trial, 150 patients with RA and at least 5 hours of sitting time per day, will be recruited from a rheumatology outpatient clinic, and block-randomized to the intervention group or the control group receiving usual care. The intervention includes: 1) individual motivational counseling (in total 3 sessions) on reduction of daily sitting time in combination with 2) individual Short Text Message Service (SMS) reminders over a 16-week intervention period. Primary outcome is change in daily sitting time (minutes) from baseline to 16 weeks measured objectively using an ActivPAL&#174; Activity Monitor. Secondary outcomes include fatigue, pain, physical function, HR-QoL, self-efficacy, costs and cost-effectiveness. Furthermore, anthropometric measures will be included as well as measurement of blood pressure and serum lipids. All outcomes are assessed at baseline and repeated after 16 weeks. Follow-up assessments are made at 6 and 18 months post-intervention.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Discussion</p>
+                </st>
+                <p>The intervention is simple, non-invasive and may be implemented at low costs. If the study confirms the positive results expected, the intervention might be implemented in clinical practice and potentially transferred to other clinical populations.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Trial registration</p>
+                </st>
+                <p>ClinicalTrial.gov registration number: <url>NCT01969604</url>. Date of registration: 17 October 2013.</p>
+             </sec>
+          </sec>
+       </abs>
+    </fm>
+    <bdy>
+       <sec>
+          <st>
+             <p>Background</p>
+          </st>
+          <sec>
+             <st>
+                <p>Background and rationale</p>
+             </st>
+             <p>Physical inactivity is an established risk factor for chronic disease and premature death <abbrgrp>
+                   <abbr bid="B1">1</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B2">2</abbr>
+                </abbrgrp>. In addition to physical inactivity, an increasing number of population-based observational studies <abbrgrp>
+                   <abbr bid="B3">3</abbr>
+                </abbrgrp>-<abbrgrp>
+                   <abbr bid="B5">5</abbr>
+                </abbrgrp> have shown that sedentary behavior is a distinct and independent risk factor for cardiovascular morbidity and mortality. Patients with rheumatoid arthritis (RA) have an increased risk of cardiovascular disease and premature death <abbrgrp>
+                   <abbr bid="B6">6</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B7">7</abbr>
+                </abbrgrp>. The increased risk is partly caused by the chronic inflammatory rheumatic disease itself and partly by traditional risk factors; for example, hyperlipidemia and hypertension, but may also be attributed to physical inactivity <abbrgrp>
+                   <abbr bid="B8">8</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B9">9</abbr>
+                </abbrgrp>. In Denmark, 67% of patients with RA do not meet the public health recommendations for daily moderate and vigorous physical activity (MVPA), and similar proportions of physically inactive RA patients are found in Germany (68%) and the United Kingdom (67%) <abbrgrp>
+                   <abbr bid="B9">9</abbr>
+                </abbrgrp>.</p>
+             <p>The everyday life of patients with RA is periodically influenced by increased disease activity (flares) with symptoms such as swelling and stiffness of the joints accompanied by intense pain, which can lead to severe limitations in physical functioning and potential progressive joint destruction <abbrgrp>
+                   <abbr bid="B10">10</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B11">11</abbr>
+                </abbrgrp>. Intervention studies in patients with RA have documented a positive effect of exercise on pain and physical functioning <abbrgrp>
+                   <abbr bid="B12">12</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B13">13</abbr>
+                </abbrgrp>. However, studies have also demonstrated that exercise and increased activity levels are difficult to maintain over time <abbrgrp>
+                   <abbr bid="B12">12</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B13">13</abbr>
+                </abbrgrp> and have identified pain as a main barrier against adaptation and maintenance of a physically active lifestyle in patients with RA <abbrgrp>
+                   <abbr bid="B14">14</abbr>
+                </abbrgrp>. Sedentary behavior has been defined as any waking behavior characterized by an energy expenditure&#8201;&#8804;&#8201;1.5 METs (Metabolic Equivalent of Task) while in a sitting or reclining position <abbrgrp>
+                   <abbr bid="B15">15</abbr>
+                </abbrgrp>. Such behavior has become increasingly prevalent in modern society, and recent population studies <abbrgrp>
+                   <abbr bid="B16">16</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B17">17</abbr>
+                </abbrgrp> using self-reported questionnaires estimate a mean daily sitting time of 8 to 9 hours, corresponding to 50 to 60% of waking hours. Likewise, a US population-based study among 4,757 adults measured objectively daily sitting time to be on mean 8.44 hours <abbrgrp>
+                   <abbr bid="B18">18</abbr>
+                </abbrgrp>. A few studies have measured sitting time objectively in patients with chronic disease, and these studies generally find that patients with various types of physical disability have higher proportions of sitting time during waking hours; for example, stroke (86 to 88% of waking hours) <abbrgrp>
+                   <abbr bid="B19">19</abbr>
+                </abbrgrp>, multiple sclerosis (75 to 85% of waking hours) <abbrgrp>
+                   <abbr bid="B20">20</abbr>
+                </abbrgrp> and Parkinson&#8217;s disease (76% of waking hours) <abbrgrp>
+                   <abbr bid="B21">21</abbr>
+                </abbrgrp>. In RA patients, Pioreschi <it>et al</it>. found that 71% of waking hours were spent sedentary compared to 62% of waking hours in healthy controls <abbrgrp>
+                   <abbr bid="B22">22</abbr>
+                </abbrgrp>. Objective measures of physical activity and sedentary behavior have been applied in a few other studies in RA patients <abbrgrp>
+                   <abbr bid="B23">23</abbr>
+                </abbrgrp>-<abbrgrp>
+                   <abbr bid="B25">25</abbr>
+                </abbrgrp>. A review from 2011 suggests that aiming to increase physical activity levels among patients with physical disability should not solely focus on increasing MVPA (moderate and vigorous physical activity) but should also target reduction of sedentary behavior and increase in light intensity activity as this approach may prove feasible for improving health and well-being <abbrgrp>
+                   <abbr bid="B26">26</abbr>
+                </abbrgrp>.</p>
+             <p>A few short-term intervention studies applying objective measures of sitting time in older people <abbrgrp>
+                   <abbr bid="B27">27</abbr>
+                </abbrgrp>, and in overweight or obese adults <abbrgrp>
+                   <abbr bid="B28">28</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B29">29</abbr>
+                </abbrgrp> have demonstrated that sedentary behavior can be reduced through behavioral intervention <abbrgrp>
+                   <abbr bid="B27">27</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B28">28</abbr>
+                </abbrgrp> and that physical activity energy expenditure may be increased by reduction of TV-viewing time <abbrgrp>
+                   <abbr bid="B29">29</abbr>
+                </abbrgrp>. Accordingly, we hypothesize that sedentary behavior can be reduced through lifestyle change in patients with RA.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Objectives</p>
+             </st>
+             <p>The primary objective of this trial is to investigate the efficacy of an individually tailored, theory-based motivational counseling intervention on reducing daily sitting time in sedentary patients with RA. The secondary objectives are to explore whether a reduction in daily sitting time is related to reduction in pain and fatigue, improved health-related quality of life (HR-QoL), self-reported physical function, self-efficacy and improved cardiovascular biomarker levels, and to assess the cost-effectiveness of the intervention.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Methods</p>
+          </st>
+          <sec>
+             <st>
+                <p>Trial design</p>
+             </st>
+             <p>The current study is part of the &#8216;Joint Resources&#8217; research program devoted to health promotion studies in patients with RA <abbrgrp>
+                   <abbr bid="B30">30</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B31">31</abbr>
+                </abbrgrp> and initiated in 2009 at Glostrup Hospital. The study is designed as a randomized, controlled, observer-blinded trial with two parallel groups and a primary endpoint of changes in objectively measured daily sitting time. Patient-reported outcomes and other measured variables will be collected before randomization, soon after the intervention (after 16 weeks), and 6 and 18 months post-intervention. Randomization will be performed with a 1:1 allocation (blocks of 10 patients) <abbrgrp>
+                   <abbr bid="B32">32</abbr>
+                </abbrgrp>.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Study setting</p>
+             </st>
+             <p>Patients will be recruited from lists of RA patients from the rheumatology outpatient clinic at Copenhagen University Hospital, Glostrup, the Capital Region of Denmark (approximately 2,000 patients per year).</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Eligibility criteria</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Inclusion criteria</p>
+                </st>
+                <p>Patients can be included in the study if they have been diagnosed with RA (defined by the American College of Rheumatology (ACR) 1987 criteria <abbrgrp>
+                      <abbr bid="B33">33</abbr>
+                   </abbrgrp>), are over the age of 18, have self-reported sitting time of 5 hours or more per day (measured by Physical Activity Scale), (PAS version 2.1) <abbrgrp>
+                      <abbr bid="B34">34</abbr>
+                   </abbrgrp> have a physical function score&#8201;&lt;&#8201;2.5 (measured by Health Assessment Questionnaire, HAQ <abbrgrp>
+                      <abbr bid="B35">35</abbr>
+                   </abbrgrp>), are able to give informed consent, understand and speak Danish, and have access to a mobile phone.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Exclusion criteria</p>
+                </st>
+                <p>Patients will be excluded from the study if they have severe physical disability (HAQ score&#8201;&gt;&#8201;2.5) that would prevent them from reducing daily sitting time (for example, use of wheelchair); are pregnant; participate in vigorous physical activity in their leisure time for more than 8 hours a week (measured by PAS 2.1). Excluded patients or eligible ones who do not want to participate will be registered in one of the following three categories: 1) not meeting the inclusion criteria, 2) refused to participate, or 3) other reasons <abbrgrp>
+                      <abbr bid="B36">36</abbr>
+                   </abbrgrp>.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Recruitment, screening and enrollment</p>
+             </st>
+             <p>The patients will be recruited from the Danish National Board of Health biological therapies (DANBIO) database, a nationwide registry that has included&#8201;&gt;&#8201;30,000 patients with inflammatory arthritis in a longitudinal observational cohort <abbrgrp>
+                   <abbr bid="B37">37</abbr>
+                </abbrgrp>. The patients will be screened for diagnosis code and the latest HAQ score in DANBIO (Figure&#160;<figr fid="F1">1</figr>). In accordance with the guidelines of the Danish Research Ethics Committee, potentially eligible patients will receive a letter with an invitation to participate, an information leaflet and a folder with basic information about trials and personal rights. A few days later the Project Leader (TT) will contact them by telephone and inquire whether they are interested in participating in the study. If interested, patients answer two &#8216;screening questions&#8217; on 1) self-reported daily sitting time during leisure time and work, and 2) self-reported participation in vigorous physical activity (both questions are from the Physical Activity Scale (PAS 2.1)) <abbrgrp>
+                   <abbr bid="B34">34</abbr>
+                </abbrgrp> to assess eligibility. If eligible, the patients will be invited to an information session with the Project Leader. It will be possible for the patients to sign the consent form immediately following the session or during the following 2 days. Informed consent will be obtained from each patient prior to the trial.
+                  </p>
+             
+                <fig id="F1">
+                   <title>
+                      <p>Figure 1</p>
+                   </title>
+                   <caption>
+                      <p>Recruitment, screening, enrollment, and randomization. </p>
+                   </caption>
+                   <text>
+                      <p>
+                            <b>Recruitment, screening, enrollment, and randomization.</b> Figure&#160;<figr fid="F1">1</figr> illustrates the procedure of recruitment, screening, enrollment and randomization of patients in the trial.</p>
+                   </text>
+                   <graphic file="s13063-014-0540-x-1"/>
+                </fig>
+             
+          </sec>
+          <sec>
+             <st>
+                <p>Feasibility study and power calculation</p>
+             </st>
+             <p>A feasibility study has been conducted with the aim of testing and evaluating selected methods and instruments for this trial, as well as testing all elements of the planned study (November 2012 to May 2013). The feasibility study included 19 patients with RA with an average daily sitting time at baseline of 10.13&#8201;&#177;&#8201;1.7 hours (mean&#8201;&#177;&#8201;SD). The SD for calculation of sample size in the current trial was based on ActivPAL&#174; data from the feasibility study measured as total daily sitting time. We expect a reduction in average daily sitting time of 50 minutes in the intervention group. This estimated reduction in sitting time is based on a US pilot study from 2012 on obese office workers who reduced their daily sitting time by 48 minutes as a result of a behavioral intervention <abbrgrp>
+                   <abbr bid="B28">28</abbr>
+                </abbrgrp>. For a 2-sample pooled <it>t</it>-test of a normal mean difference with a 2-sided significance level of 0.05, assuming a common standard deviation of 102 minutes, a sample size of 67 RA patients per group is required to obtain a power of at least 80% to detect a group mean difference of 50 minutes. Enrolling a sample size of 75 in the intention-to-treat (ITT) population per group has a reasonable power (84.7%) to detect a mean difference of 50 minutes (SAS Power and Sample Size, v. 3.1; SAS Institute Inc., Cary, NC, USA).</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Randomization and blinding</p>
+             </st>
+             <p>Immediately following the baseline measurements, randomization to either (A) the intervention group (N&#8201;=&#8201;75) or (B) the control group (N&#8201;=&#8201;75) will be performed via computer-generated &#8216;random numbers&#8217; for each of the 2 groups (blocks of 10 patients). Patients will be informed by TT about their group allocation 1 week after baseline measurements. Patients will not be blinded to the intervention; however, all measurements will be conducted by two occupational therapists who will be blinded to group allocation.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Intervention and control group</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Intervention</p>
+                </st>
+                <p>The intervention includes: 1) Individual motivational counseling including hand-outs of 4 key messages regarding reduction of daily sitting time <abbrgrp>
+                      <abbr bid="B38">38</abbr>
+                   </abbrgrp> in combination with 2) Individual Short Text Message Service (SMS) reminders.</p><p>1) Individual motivational counseling</p>
+                <p>The intervention consists of 3 individual motivational counseling sessions (60 to 90 minutes), conducted by one of the project staff (4 nurses or occupational therapists), who have been trained and calibrated in motivational interviewing (MI) techniques <abbrgrp>
+                      <abbr bid="B38">38</abbr>
+                   </abbrgrp> for this specific intervention.</p>
+                <p>Counselors will simultaneously be trained and supervised by a psychologist to ensure that the intervention will be delivered in a similar way based on the theoretical understanding of MI. The first counseling will take place immediately after randomization to the intervention group, the second will be 2 weeks after, and the third 10 weeks after the first counseling (Figure&#160;<figr fid="F1">1</figr>). The motivational counseling sessions will take place in an undisturbed room at the hospital.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Contents of motivational counseling</p>
+                </st>
+                <p>The intervention will focus on individual goal setting and self-efficacy, where participants describe their everyday life in terms of sitting time and decide how to reduce it, how to overcome barriers and what behavioral goal, in terms of reducing sitting time, they aim for <abbrgrp>
+                      <abbr bid="B39">39</abbr>
+                   </abbrgrp>. Motivational counseling techniques will be used <abbrgrp>
+                      <abbr bid="B38">38</abbr>
+                   </abbrgrp>.</p>
+                <p>First, the project staff will introduce the patients to the possible benefits of reducing their daily sitting time. Secondly, they will ask the patients to describe their typical day in order to identify resources and barriers for reduction of daily sitting time and to discuss possible solutions to overcome those barriers and to use the available resources. Thirdly, the patients will set their own behavioral goals for reduction of daily sitting time using a &#8216;catalogue of ideas&#8217;, which contains proposals to reduce and create breaks in sitting time. Specific proposals to reduce daily sitting time are, for example, to stand up during phone conversations or TV-watching, to get up frequently to go to the printer, to get up and walk around at least once every half hour, to get up to change the TV channel, to make only one cup of coffee at a time. During the second and third motivational counseling sessions patients&#8217; own behavioral goals will be evaluated, new goals will be set and possible solution strategies will be discussed. The patients&#8217; motivation and confidence in their own ability to change will be in focus during the last two sessions.</p>
+                <p>In addition to the motivational counseling, four key messages or themes including ideas and suggestions for reduction of sitting time (that are written in booklets) will be handed to the patients at each session. The 4 key messages are: 1) reduce daily TV-viewing, 2) substitute sitting with standing when possible - at work and/or at home, 3) break up prolonged sitting - by standing up frequently and 4) maximum 30 minutes of sitting per episode <abbrgrp>
+                      <abbr bid="B40">40</abbr>
+                   </abbrgrp>. All intervention group participants will fill out a questionnaire on process, side-effects, quality and impact of the intervention when the intervention program is completed.</p><p>2) Individual SMS reminders</p>
+                <p>Based on the patients&#8217; own individual behavioral goals the patients will decide how many weekly SMS reminders they want to receive during the 16-week intervention period and at what time of the day. Examples of SMSs are shown below:</p><p> Hello X. Stand up and allow gravity to assist you to digest your lunch. Bonus: you burn more energy when you stand</p>
+                   <p> Hi X. Regard vacuum cleaning as a free fitness hour. Make a playlist, put music in your ears and do not stop until the list and the cleaning are done</p>
+                   <p> Hi X. You have some truly privileged colleagues who will be able to see you stand up by your table this afternoon. Show them how to do it, and they might follow your good example</p>
+                   <p> Hey X. Put the remote control next to the TV if you turn on the television today. Every time you change the channel your entire body gets some exercise</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Control group</p>
+                </st>
+                <p>The control group will be encouraged to maintain their usual lifestyle during the 16-week intervention period. When the last follow-up examination is completed they will be offered the opportunity to join an information session (in groups) about the principles of the intervention.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Primary outcome measure</p>
+             </st>
+             <p>Change in total daily sitting time in minutes <abbrgrp>
+                   <abbr bid="B41">41</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B42">42</abbr>
+                </abbrgrp> from baseline to 16 weeks.</p>
+             <sec>
+                <st>
+                   <p>Changes in objectively measured sitting time</p>
+                </st>
+                <p>Measurements will be obtained using an ActivPAL&#174; 3 TM Activity Monitor (PAL Technologies, Glasgow, UK). This is a small (2.0 &#215; 1.4 &#215; 0.3 inches) and light (20.1 grams) uniaxial accelerometer-based device <abbrgrp>
+                      <abbr bid="B43">43</abbr>
+                   </abbrgrp> that is worn anteriorly on the upper right thigh and kept in place by waterproof dressing and adhesive tape. The monitor registers total physical activity level over a 7-day period. The monitor uses accelerometer-derived information about thigh position to estimate time spent in different body positions (that are sitting/lying, standing and walking; sleeping time will be deducted from data). Data will be processed as 0.1 second events data using the ActivPAL&#174; software (version 6.4.1; PAL Technologies, Glasgow, UK). The ActivPAL&#174; monitor has previously been validated against direct observation and compared with the Actigraph&#174; GT3X Activity Monitor accelerometer (Pensacola, FL, USA) <abbrgrp>
+                      <abbr bid="B42">42</abbr>
+                   </abbrgrp>,<abbrgrp>
+                      <abbr bid="B44">44</abbr>
+                   </abbrgrp>. It is currently considered the best choice for objective measurement of sitting/lying. The ActivPAL&#174; has also been found sensitive to change in sitting time <abbrgrp>
+                      <abbr bid="B44">44</abbr>
+                   </abbrgrp>.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Secondary outcome measures</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Changes in self-reported sitting time</p>
+                </st>
+                <p>Changes in self-reported daily sitting time at work and during leisure time will be measured by the Physical Activity Scale 2.1 (PAS 2.1) <abbrgrp>
+                      <abbr bid="B34">34</abbr>
+                   </abbrgrp>, a modified version of the original PAS questionnaire, which has previously been validated against accelerometer, physical activity logs and maximum oxygen uptake <abbrgrp>
+                      <abbr bid="B45">45</abbr>
+                   </abbrgrp>,<abbrgrp>
+                      <abbr bid="B46">46</abbr>
+                   </abbrgrp>. Respondents will be asked to specify number of hours and minutes in an average 24-hour day spent sitting at work and during leisure time.</p>
+                <sec>
+                   <st>
+                      <p>Fatigue</p>
+                   </st>
+                   <p>The 20-item Multi-dimensional Fatigue Inventory (MFI 20) <abbrgrp>
+                         <abbr bid="B47">47</abbr>
+                      </abbrgrp> will be included to measure fatigue. MFI 20 consists of 20 statements such as &#8216;I feel enthusiastic&#8217; and classifies fatigue in five dimensions: 1) general fatigue 2) physical fatigue 3) mental fatigue 4) reduced activity 5) reduced motivation.</p>
+                </sec>
+                <sec>
+                   <st>
+                      <p>Pain</p>
+                   </st>
+                   <p>The Visual Analogue Scale (VAS) <abbrgrp>
+                         <abbr bid="B48">48</abbr>
+                      </abbrgrp> transforms the subjective experience of pain to a measurable quantity. The participant indicates his or her pain by putting a mark on the line where the ends are marked with &#8216;no pain&#8217; to &#8216;worst imaginable pain&#8217;. VAS is included in the HAQ (see below).</p>
+                </sec>
+                <sec>
+                   <st>
+                      <p>Physical function</p>
+                   </st>
+                   <p>Health Assessment Questionnaire (HAQ) <abbrgrp>
+                         <abbr bid="B35">35</abbr>
+                      </abbrgrp> is an instrument that contains twenty items with four possible answers in eight categories of functions within the ADL (regular daily activities): dressing, rising from a seat, eating, walking, personal hygiene, stretching for an object, grabbing objects and everyday activities. In addition, the HAQ includes VAS scales pain, fatigue and general health.</p>
+                </sec>
+                <sec>
+                   <st>
+                      <p>Health-related quality of life (HR-QoL)</p>
+                   </st>
+                   <p>HR-QoL is assessed with: 1) SF-36 (The Short Form <abbrgrp>
+                         <abbr bid="B36">36</abbr>
+                      </abbrgrp> Health Survey) <abbrgrp>
+                         <abbr bid="B49">49</abbr>
+                      </abbrgrp> which will be included to measure QoL, which is a generic instrument consisting of 36 items divided into 8 scales: physical function, physical activity limitations, pain, general health, vitality, social function, emotional activity limitations and mental health <abbrgrp>
+                         <abbr bid="B49">49</abbr>
+                      </abbrgrp>; 2) EuroQol (EQ-5D-5 L) is a standardized 5-item instrument developed to provide a simple, generic measure of HR-QoL for clinical and economic appraisal <abbrgrp>
+                         <abbr bid="B50">50</abbr>
+                      </abbrgrp>. The EQ-5D-5 L descriptive system comprises the following 5 dimensions: mobility, self-care, usual activities, pain/discomfort and anxiety/depression. Each dimension has five levels: no problems, slight problems, moderate problems, severe problems and extreme problems. The responses can be scored into a single utility index based on Danish preference data <abbrgrp>
+                         <abbr bid="B51">51</abbr>
+                      </abbrgrp>.</p>
+                </sec>
+                <sec>
+                   <st>
+                      <p>Self-efficacy</p>
+                   </st>
+                   <p>The General Self-Efficacy Scale (GSES) <abbrgrp>
+                         <abbr bid="B52">52</abbr>
+                      </abbrgrp> assesses a general sense of perceived self-efficacy with the aim of predicting coping with daily hassles and adaptation after experiencing stressful life events. The instrument is a 10-item scale with statements such as &#8216;I can usually handle whatever comes my way&#8217; and &#8216;I am confident that I could deal efficiently with unexpected events&#8217;. The response format is &#8217;not at all true&#8217;, &#8216;hardly true&#8217;, &#8216;moderately true&#8217;, &#8216;exactly true&#8217;. The instrument is translated and validated in a Danish context.</p>
+                </sec>
+                <sec>
+                   <st>
+                      <p>Additional questions on sedentary behavior</p>
+                   </st>
+                   <p>Additional questions on duration of sitting time and interruptions in sitting time on weekdays and in weekends are included. The questions have been validated against Actigraph (Pensacola, FL, USA) accelerometers in a recent Danish Study <abbrgrp>
+                         <abbr bid="B53">53</abbr>
+                      </abbrgrp>.</p>
+                </sec>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Self-administered retrospective questionnaire</p>
+             </st>
+             <p>At termination of the objective diurnal measurements, a self-administered questionnaire is applied regarding specific recall of time sitting during the measurement period. Time spent sitting during working hours is obtained by the question: &#8216;during working hours in the measuring period, in average per day, how long time did you spent sitting?&#8217; <abbrgrp>
+                   <abbr bid="B5">5</abbr>
+                </abbrgrp>-<abbrgrp>
+                   <abbr bid="B7">7</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B11">11</abbr>
+                </abbrgrp> reported in hours and minutes. The longest continuous time with uninterrupted sitting is obtained from the question: &#8216;during working hours in the measuring period, how long is the longest uninterrupted time you have spent sitting?&#8217; reported in hours and minutes. Both questions are also asked for leisure time before/after a workday and leisure time on a complete leisure day <abbrgrp>
+                   <abbr bid="B7">7</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B11">11</abbr>
+                </abbrgrp>. The questions used in this study are inspired both by International Physical Activity Questionnaire (IPAQ) <abbrgrp>
+                   <abbr bid="B11">11</abbr>
+                </abbrgrp> and Medical Outcomes Study Patient Assessment Questionnaire MOSPAQ <abbrgrp>
+                   <abbr bid="B5">5</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B24">24</abbr>
+                </abbrgrp> (modified Occupational Physical Activity Questionnaire (OPAQ) to specially measure sitting time) together with the new possibilities of the improved objective measurements, that allow specific measurement of sitting during work and leisure time.</p>
+             <sec>
+                <st>
+                   <p>Anthropometric measures</p>
+                </st>
+                <p>Height is measured without shoes to the nearest centimeter; weight is measured in light clothing without shoes to the nearest 0.1 kg (OBH Nordica, Slim Light, 150 kg; Taastrup, Denmark); waist circumference is measured midway between the lower rib margin and the iliac crest to the nearest 0.5 centimeter, without any pressure to the skin and with an unstretched tape measure; hip circumference is measured at the point yielding the maximum circumference over the buttocks to the nearest 0.5 centimeter. The tape should be held in a horizontal plane touching the skin but not indenting the soft tissue. Body mass index (BMI, kg/m<sup>2</sup>) and waist-hip ratio are calculated.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Serum lipids</p>
+                </st>
+                <p>A venous blood sample will be drawn (not fasting). Total cholesterol, high-density lipoprotein cholesterol (HDL), and triglycerides will be measured by an enzymatic method on the Vitros 5.1 FS from Ortho Clinical Diagnostics (Birker&#248;d, Denmark). Low-density lipoprotein cholesterol (LDL) and very low-density lipoprotein cholesterol (VLDL) will be calculated by the formulae:</p><p><display-formula>
+                      <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" name="s13063-014-0540-x-i1">
+                         <m:mi mathvariant="italic">VLDL</m:mi>
+                         <m:mspace width="0.25em"/>
+                         <m:mo>=</m:mo>
+                         <m:mspace width="0.25em"/>
+                         <m:mi mathvariant="italic">Triglyceride</m:mi>
+                         <m:mspace width="0.25em"/>
+                         <m:mo>&#215;</m:mo>
+                         <m:mspace width="0.25em"/>
+                         <m:mn>0.45</m:mn>
+                      </m:math>
+                   </display-formula></p><p><display-formula>
+                      <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" name="s13063-014-0540-x-i2">
+                         <m:mi>L</m:mi>
+                         <m:mi>D</m:mi>
+                         <m:mi>L</m:mi>
+                         <m:mspace width="0.25em"/>
+                         <m:mo>=</m:mo>
+                         <m:mspace width="0.25em"/>
+                         <m:mi mathvariant="italic">Total</m:mi>
+                         <m:mspace width="0.25em"/>
+                         <m:mi mathvariant="italic">cholesterol</m:mi>
+                         <m:mspace width="0.25em"/>
+                         <m:mo>&#8722;</m:mo>
+                         <m:mspace width="0.25em"/>
+                         <m:mi>H</m:mi>
+                         <m:mi>D</m:mi>
+                         <m:mi>L</m:mi>
+                         <m:mspace width="0.25em"/>
+                         <m:mo>+</m:mo>
+                         <m:mspace width="0.25em"/>
+                         <m:mi mathvariant="italic">VLDL</m:mi>
+                      </m:math>
+                   </display-formula></p>
+                <p>In addition, C-reactive protein (CRP) and glycosylated hemoglobin, type A1c (HbA1c) will be measured on Vitros 5.1 FS (Birker&#248;d, Denmark) and G8 HPLC Analyzer from TOSOH (Aarhus, Denmark).</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Blood pressure</p>
+                </st>
+                <p>Blood pressure will be measured, after 5 to 10 minutes of rest, 3 times at the right upper arm (average of the 3 measurements) with the participant in a sitting/lying position.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Additional information</p>
+                </st>
+                <p>In addition, information regarding demographics, lifestyle, time of diagnosis, consumption of pain killers and comorbidity (which are diabetes, hypertension, heart attack, stroke, chronic obstructive pulmonary disease (COPD), cancer, osteoarthritis, osteoporosis, asthma and depression) will be obtained; all self-reported. Information about DAS 28 (Disease Activity Score Based on 28 Joints and 4 variables including CRP <abbrgrp>
+                      <abbr bid="B54">54</abbr>
+                   </abbrgrp>, actual medical treatment and status of RA (for example, IgM-RF (rheumatoid factor of the immunoglobulin M class and/or ACPA (anti-citrullinated protein antibody)) will be obtained from the DANBIO registry <abbrgrp>
+                      <abbr bid="B37">37</abbr>
+                   </abbrgrp> and the medical record.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Cost data</p>
+                </st>
+                <p>For the analysis of intervention costs, activities related to the intervention will be registered for each individual patient by the health care providers. In addition, data will be collected on time use related to each activity and relevant unit cost of resources. Other resource use and costs related to health care provisions will be obtained for each patient from the national health registries for hospitals, primary care, and purchase of prescription medication will be obtained from primary care pharmacies. These data will be obtained from the National Board of Health. Due to the confidentiality of these data (prescription data) they will be stored and analyzed through Statistics Denmark&#8217;s Research computer.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Participant timeline</p>
+             </st>
+             <p>The trial will last 22 months including a 16-week intervention, and 6 and 18 months follow-up (Figure&#160;<figr fid="F1">1</figr>).</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Data collection</p>
+             </st>
+             <p>Measurements will be repeated 4 times during the 22 months: 1) at baseline; 2) at the end of the intervention (16 weeks after intervention start); 3) 6 months post intervention and finally (4) 18 months post intervention (Table&#160;<tblr tid="T1">1</tblr>). At each time point patients will complete self-reported questionnaires regarding demographics, lifestyle, sitting time at work and in leisure time, physical activity, physical function, pain, fatigue, health-related quality of life (HR-QoL) and general self-efficacy. Blood pressure, height, weight, waist circumference will be measured subsequently. Blood samples will be drawn and stored at the Department of Diagnostics, Division of Clinical Biochemistry, Glostrup Hospital, University of Copenhagen.
+                  </p>
+             
+                <table id="T1">
+                   <title>
+                      <p>Table 1</p>
+                   </title>
+                   <caption>
+                      <p>
+                            <b>Collection of patient characteristics and outcome measures</b>                          
+                      </p>
+                   </caption>
+                   <tgroup align="left" cols="6">
+                      <colspec align="left" colname="c1" colnum="1" colwidth="*"/>
+                      <colspec align="left" colname="c2" colnum="2" colwidth="*"/>
+                      <colspec align="left" colname="c3" colnum="3" colwidth="*"/>
+                      <colspec align="left" colname="c4" colnum="4" colwidth="*"/>
+                      <colspec align="left" colname="c5" colnum="5" colwidth="*"/>
+                      <colspec align="left" colname="c6" colnum="6" colwidth="*"/>
+                      <thead>
+                         <row valign="top">
+                            <entry colname="c1"/>
+                            <entry colname="c2">
+                               <p>
+                                  <b>Screening</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>
+                                  <b>Baseline</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>
+                                  <b>4 months by end of intervention</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>
+                                  <b>6 months post intervention</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>
+                                  <b>18 months post intervention</b>                              
+                               </p>
+                            </entry>
+                         </row>
+                      </thead>
+                      <tfoot>
+                         <p>Table&#160;<tblr tid="T1">1</tblr> shows the procedure of collecting data (objectively measured and self-reported) about the trial patients from baseline to 18 months follow-up.</p>
+                      </tfoot>
+                      <tbody>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Background</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3"/>
+                            <entry colname="c4"/>
+                            <entry colname="c5"/>
+                            <entry colname="c6"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Marital status</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4"/>
+                            <entry colname="c5"/>
+                            <entry colname="c6"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Age</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4"/>
+                            <entry colname="c5"/>
+                            <entry colname="c6"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Country of birth</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4"/>
+                            <entry colname="c5"/>
+                            <entry colname="c6"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Cohabiting</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4"/>
+                            <entry colname="c5"/>
+                            <entry colname="c6"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Level of education</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4"/>
+                            <entry colname="c5"/>
+                            <entry colname="c6"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Employment status</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4"/>
+                            <entry colname="c5"/>
+                            <entry colname="c6"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Annual household income</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4"/>
+                            <entry colname="c5"/>
+                            <entry colname="c6"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Health-related issues</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3"/>
+                            <entry colname="c4"/>
+                            <entry colname="c5"/>
+                            <entry colname="c6"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Smoking</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>X</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Alcohol consumption</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>X</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Medical history</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3"/>
+                            <entry colname="c4"/>
+                            <entry colname="c5"/>
+                            <entry colname="c6"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Diagnosed with RA</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c3"/>
+                            <entry colname="c4"/>
+                            <entry colname="c5"/>
+                            <entry colname="c6"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Actual treatment for RA</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>X</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>DAS 28</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>X</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>IgM-Rheumatoid Factor</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4"/>
+                            <entry colname="c5"/>
+                            <entry colname="c6"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>ACPA</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4"/>
+                            <entry colname="c5"/>
+                            <entry colname="c6"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Co-morbidities</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3"/>
+                            <entry colname="c4"/>
+                            <entry colname="c5"/>
+                            <entry colname="c6"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Diabetes</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>X</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Hypertension</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>X</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Heart attack</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>X</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Stroke</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>X</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>COPD</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>X</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Cancer</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>X</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Osteoarthritis</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>X</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Osteoporosis</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>X</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Asthma</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>X</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Depression</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>X</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Medicine</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3"/>
+                            <entry colname="c4"/>
+                            <entry colname="c5"/>
+                            <entry colname="c6"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Consumption of painkillers</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>X</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Serum lipids</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3"/>
+                            <entry colname="c4"/>
+                            <entry colname="c5"/>
+                            <entry colname="c6"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Total cholesterol</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>X</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>High-density lipoprotein cholesterol (HDL)</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>X</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Triglycerides</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>X</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Low-density lipoprotein cholesterol (LDL)</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>X</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Very low-density lipoprotein cholesterol (VLDL)</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>X</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>C-reactive protein (CRP)</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>X</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>HbA1c</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>X</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Anthropometric measures</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3"/>
+                            <entry colname="c4"/>
+                            <entry colname="c5"/>
+                            <entry colname="c6"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Weight</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>X</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Height</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4"/>
+                            <entry colname="c5"/>
+                            <entry colname="c6"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Blood pressure</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>X</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Waist circumference</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>X</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Body mass index; BMI</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>X</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Daily sitting time</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3"/>
+                            <entry colname="c4"/>
+                            <entry colname="c5"/>
+                            <entry colname="c6"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Measured total sitting time in hours and minutes (measured by ActivePAL&#174;)</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>X</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Self-reported daily sitting time (measured by physical activity - PAS, item 4)</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>X</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Questionnaires (self-reported)</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3"/>
+                            <entry colname="c4"/>
+                            <entry colname="c5"/>
+                            <entry colname="c6"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Physical Activity Scale - PAS</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>X</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Fatigue - MFI</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>X</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Pain - VAS</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>X</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Physical function - HAQ</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>X</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>HR-QoL - SF-36</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>X</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>HR-QoL - EuroQol/EQ-5D</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>X</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>General Self-Efficacy Scale - GSES</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>X</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Specific questions on sedentary behavior at work and leisure</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>X</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>X</p>
+                            </entry>
+                         </row>
+                      </tbody>
+                   </tgroup>
+                </table>
+             
+             <p>Anti-CCP, anti-citrullinated peptide antibody; DAS 28: Disease Activity Score Based on 28 Joints; GSES: The General Self-Efficacy Scale; HAQ: Health Assessment Questionnaire; HR-QoL, health-related quality of life; MFI: Multi-dimensional Fatigue Inventory; RA: rheumatoid arthritis; SF-36: The Short Form <abbrgrp>
+                   <abbr bid="B36">36</abbr>
+                </abbrgrp> Health Survey.</p>
+             <p>Baseline demographic characteristics of patients are collected (electronically) via a self-report questionnaire (using tablets). Two occupational therapists will attach the ActivPAL&#174; monitor <abbrgrp>
+                   <abbr bid="B41">41</abbr>
+                </abbrgrp> and instruct patients in how to wear the monitor 24 hours per day for 7 days. All ActivPAL&#174; will be coded to start from midnight following the first day of application. One week (7 days) after baseline measurements the patient will return to the hospital for removal of the ActivPAL&#174;. At the same time the patient will be informed by the Project Leader (TT) about the group allocation. One week after each of the follow-up measurements the patients will return the ActivPAL&#174; in a closed envelope. During each 7 day-period with ActivPal&#174; the patients fill a diary about their resting time and sleeping time in order to isolate their sitting time from sleeping time. At each medical visit to the outpatient clinic, the treating rheumatologist registers information in DANBIO including data regarding disease characteristics (for example, patient-reported outcomes, disease activity, functional status, disease course) and medical treatment <abbrgrp>
+                   <abbr bid="B37">37</abbr>
+                </abbrgrp>. Patients will not be blinded to the intervention; however, all assessors will be blinded for the two participating groups.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Data management</p>
+             </st>
+             <p>Since all data will be supplied directly by the patients and the assessors through an online interface via a tablet there is no risk of data loss or distortion along the way. Data will be stored encrypted and in unidentifiable form (using participant-numbers) in the server at Glostrup Hospital, University of Copenhagen. Standard missing data analysis will determine whether or not unexpected but missing data due to participant drop-out are random.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Statistical analysis</p>
+             </st>
+             <p>The scoring of the standardized questionnaires will be carried out according to the guidelines from instrument developers. All data analyses will be carried out according to a pre-established analysis plan; all analyses will be done applying SAS software (v. 9.3; SAS Institute Inc., Cary, NC, USA). All descriptive statistics and tests will be reported in accordance with the recommendations of the &#8216;Enhancing the QUAlity and Transparency Of health Research&#8217; (EQUATOR) network: the CONSORT statement <abbrgrp>
+                   <abbr bid="B55">55</abbr>
+                </abbrgrp>. In order to evaluate the empirical distributions of the continuous outcomes, visual inspection will be used to suggest whether the assumption of normality is reasonable. The univariate procedure (PROC UNIVARIATE) statement will be used for summarizing the data. All analyses will be conducted according to the ITT principle; that is analyzing participant outcomes according to the group to which they are randomized, even if some participants do not receive the intervention according to the randomization. We will run the analyses where missing data are imputed by multiple imputation. For sensitivity we will also perform analyses &#8216;as observed&#8217; analyses where we will not use any missing data imputation. All reported <it>P</it>-values and 95% confidence intervals (95% CI) will be 2-sided and will not be adjusted for multiple comparisons. Unless stated otherwise, results will be expressed as the difference between the group means and 95% CI with the associated <it>P</it>-values, based on a general linear model (GLM). Data will be analyzed using a one-factor &#8216;Analysis of Covariance&#8217; (ANCOVA), with a factor for Group, using the baseline value as covariate to reduce the random variation and increase the statistical power.</p>
+             <p>Proportions will be compared by estimating the risk difference with 95% CIs for each dichotomous outcome; including a Wald-Z-test for the null hypothesis that there is no difference between the proportions.</p>
+             <p>Secondly, to relate the results to compliance, a &#8216;per protocol&#8217; analysis will also be used. The &#8216;per protocol&#8217; population is defined as the patients who have &#8216;completed&#8217; the intervention to which they were allocated according to the principles described in the intervention section above.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Cost analysis</p>
+             </st>
+             <p>The cost analysis will report the resource use and cost of the intervention. For the intervention and control group, survey and registry-based data on resource use, including services provided in the health care sector (primary and secondary care) and pharmaceuticals, will be aggregated for each individual in intervals determined by the time of data collection. Cost data will be interpolated to total cost for the whole observation period (18 months). The aggregated cost data will be analyzed as costs attributable to the intervention (that is difference in difference) and reported as mean values with 95% (bootstrap) CIs. Due to the non-normal distribution of cost data generalized linear models will be employed with appropriate choice of link function.</p>
+             <p>The analysis of cost-effectiveness will compare the observed gain in Quality-Adjusted Life Years (QALYs) (HR-QoL over 18 months) with the observed incremental cost (over 18 months) by estimating incremental cost-effectiveness ratios (ICER). To express statistical uncertainty in the ICER estimates acceptability curves will be developed to express the likelihood of the intervention being cost-effective at various QALY threshold values.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Monitoring</p>
+          </st>
+          <sec>
+             <st>
+                <p>Ethics, confidentiality and dissemination</p>
+             </st>
+             <p>The trial will be performed in accordance with the Helsinki Declaration. The project has been approved by the Regional Committee on Biomedical Research Ethics September 2012 as registry-based research (REC; reference number, H-2-2012-112, document number, 37276). The study was approved by the Danish Data Protection Agency (ref number 711-1-08). All formal and safety rules in the process from data collected for publication are observed (Danish Data Protection Agency, Research Ethics Committee, Clinicaltrial.gov, information technology (IT) issues, and so on). Anyone who has access to the full relevant data sets (chief executive, all supervisors, and project staff) is familiar with the formal and safety rules. All information collected during the course of the study will be kept strictly confidential in accordance with Danish Data Protection Agency rules; operationally, this will include consent from the patients.</p>
+             <p>It is planned to publish at least four scientific papers based on the trial in peer-reviewed journals.</p>
+             <p>In addition, the following sources are included in the communication plan:</p><p> Papers (peer-reviewed and popular science)</p>
+                <p> Presentations at conferences (national and international) or similar</p>
+                <p> Collaboration with the Danish Rheumatism Association - both members and groups of employees</p>
+                <p> Other relevant patient organizations covering patients with musculoskeletal diseases, and press</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Access to data</p>
+             </st>
+             <p>RC will analyze data in collaboration with TT, BAE, MA. JS will analyze the cost-effectiveness data. The project group will have access to data as well as to the DANBIO registry <abbrgrp>
+                   <abbr bid="B37">37</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B56">56</abbr>
+                </abbrgrp>. The patient data in DANBIO are protected by a unique log-in for each user. Data are encrypted and logged. Data generated in the trial belong to Glostrup Hospital, University of Copenhagen. The steering group &#8216;Joint Resources&#8217; will be involved in the case of query about access to data.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Discussion</p>
+          </st>
+          <p>This trial protocol describes the design of an innovative randomized controlled trial, which aims to test whether sedentary behavior can be reduced in patients with RA through behavioral lifestyle change. To the best of our knowledge, this is the first randomized trial to investigate the effect of an individually tailored motivational counseling intervention on daily sitting time in patients with RA. The intervention is developed and based upon results from studies in population-based samples of sedentary adults and in elderly and obese sedentary populations. The population under study, men and women with RA, represents a group of patients with chronic disease and increased risk of developing diabetes and cardiovascular diseases. In addition, a large proportion of patients with RA struggle with strained joints and immobility in daily life. If effective, the intervention may reduce the risk of cardiovascular disease and type 2 diabetes in patients with RA by reducing their daily sitting time. It should be noted that a possible reduction in sitting time, the primary outcome, does not necessarily imply a reduction in cardiovascular disease (CVD) risk. However, a possible effect of the intervention on secondary outcomes, CVD biomarkers (cholesterol and so on) will be simultaneously registered and studied.</p>
+          <p>We cannot rule out that wearing an ActivPAL&#174; may cause reactivity and as such in itself act as a &#8216;behavioral intervention&#8217;. However, participants in both groups are measured at baseline and follow-up, and the size of the between arm difference is, therefore, not likely to be affected or considered in the sample size calculation. Also ActivPAL&#174; monitors start measuring from midnight following the first day of application in order to minimize reactivity by allowing participants to get used to wearing the device. Finally, the ActivPAL&#174; measurements are not shown to participants until after the study is completed.</p>
+          <p>It should be noted that in behavioral intervention RCTs patients are difficult to blind. We could have offered the control group participants a &#8216;sham&#8217; counseling intervention with counseling on something else than reduction of sedentary behavior. However, this could potentially induce an effect in the control group which we wanted to avoid.</p>
+          <p>We expect the intervention to result in reduced pain (less use of painkillers), reduced fatigue, increased daily physical functioning, improved self-efficacy and better general health status. The intervention is simple and could relatively easily be implemented in clinical practice along with lifestyle advice and recommendations on physical activity, sports and exercise, diet and smoking habits. In addition, we expect the intervention method to be transferable to other groups of chronically ill individuals with prolonged sitting time and mobility limitations.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Trial status</p>
+          </st>
+          <p>Recruitment for the trial is planned to start in April 2013 and will end in December 2014.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Abbreviations</p>
+          </st>
+          <p>ACPA: anti-citrullinated protein antibody</p>
+          <p>ACR: American College of Rheumatology</p>
+          <p>ANCOVA: Analysis of Covariance</p>
+          <p>BMI: body mass index</p>
+          <p>COPD: chronic obstructive pulmonary disease</p>
+          <p>CRP: C-reactive protein</p>
+          <p>CVD: cardiovascular disease</p>
+          <p>DANBIO: Danish National Board of Health biological therapies database</p>
+          <p>DAS 28: Disease Activity Score Based on 28 Joints</p>
+          <p>EQUATOR: Enhancing the QUAlity and Transparency Of health Research</p>
+          <p>EQ-5D-5 L: EuroQol</p>
+          <p>GLM: general linear model</p>
+          <p>GSES: The General Self-Efficacy Scale</p>
+          <p>HAQ: Health assessment questionnaire</p>
+          <p>HbA1c: glycosylated hemoglobin, type A1c</p>
+          <p>HR-QoL: health-related quality of life</p>
+          <p>ICER: incremental cost-effectiveness ratios</p>
+          <p>IgM-RF: rheumatoid factor of the immunoglobulin M class</p>
+          <p>IPAQ: International Physical Activity Questionnaire</p>
+          <p>IT: information technology</p>
+          <p>ITT: intention-to-treat</p>
+          <p>LDL: low-density lipoprotein cholesterol</p>
+          <p>METs: Metabolic Equivalent of Task</p>
+          <p>MFI: Multi-dimensional Fatigue Inventory</p>
+          <p>MI: motivational interviewing</p>
+          <p>MOSPAQ: Medical Outcomes Study Patient Assessment Questionnaire</p>
+          <p>MVPA: moderate and vigorous physical activity</p>
+          <p>OPAQ: Occupational Physical Activity Questionnaire</p>
+          <p>PAS: Physical Activity Scale</p>
+          <p>PROC UNIVARIATE: univariate procedure</p>
+          <p>QALYs: Quality-Adjusted Life Years</p>
+          <p>RA: rheumatoid arthritis</p>
+          <p>SF-36: The Short Form Health Survey</p>
+          <p>SMS: Short Text Message Service</p>
+          <p>VAS: The Visual Analogue Scale</p>
+          <p>VLDL: very low-density lipoprotein cholesterol</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Competing interests</p>
+          </st>
+          <p>The authors declare that they have no competing interests.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Authors&#8217; contributions</p>
+          </st>
+          <p>BAE, TT and MA drafted the first version of the manuscript and MLH and NB contributed substantially to the subsequent versions. BAE, MA, TT, MLH, NB, JM, KL, RC and M&#216; participated in the design of the study and provided input into the main ideas of this paper. BAE, MA, TT, MLH, NB, JM, KL, PJ, JS, RC and M&#216; read and commented on drafts, and approved the final version of the manuscript.</p>
+       </sec>
+    </bdy>
+    <bm>
+       <ack>
+          <sec>
+             <st>
+                <p>Acknowledgements</p>
+             </st>
+             <p>We conducted 15 qualitative interviews in RA patients as part of the preparation process for the present trial (scientific publication under preparation). We wish to express our gratitude to the patients who participated in the feasibility study and to project manager Connie Ziegler from the Danish Rheumatism Association for giving her perspective on the intervention as well as commenting on the information leaflet.</p>
+             <sec>
+                <st>
+                   <p>Funding</p>
+                </st>
+                <p>The study is supported by grants from the Danish Rheumatism Association, the Novo Nordic Foundation, the Lundbeck Foundation, the Research Foundation of the Capital Region of Denmark, the Bevica Foundation, Maersk McKinney M&#248;ller Foundation, the Tryg Foundation (external scientific review process), Glostrup Hospital, University of Copenhagen, and Capital Region of Denmark. The funders had no role in the design or management of the study. The Musculoskeletal Statistics Unit at the Parker Institute is supported by grants from the Oak Foundation.</p>
+             </sec>
+          </sec>
+       </ack>
+       <refgrp>
+          
+          <bibl id="B1">
+             <title>
+                <p>The pandemic of physical inactivity: global action for public health</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kohl</snm>
+                   <fnm>HW</fnm>
+                   <suf>3rd</suf>
+                </au>
+                <au>
+                   <snm>Craig</snm>
+                   <fnm>CL</fnm>
+                </au>
+                <au>
+                   <snm>Lambert</snm>
+                   <fnm>EV</fnm>
+                </au>
+                <au>
+                   <snm>Inoue</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Alkandari</snm>
+                   <fnm>JR</fnm>
+                </au>
+                <au>
+                   <snm>Leetongin</snm>
+                   <fnm>G</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Lancet</source>
+             <pubdate>2012</pubdate>
+             <volume>380</volume>
+             <issue>9838</issue>
+             <fpage>294</fpage>
+             <lpage>305</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0140-6736(12)60898-8</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22818941</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B2">
+             <note>WHO. Global health risks. Mortality and burden of disease attributable to selected major risks. World Health Organisation;2009.</note>
+          </bibl>
+          <bibl id="B3">
+             <title>
+                <p>Sedentary behaviour and cardiovascular disease: a review of prospective studies</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Ford</snm>
+                   <fnm>ES</fnm>
+                </au>
+                <au>
+                   <snm>Caspersen</snm>
+                   <fnm>CJ</fnm>
+                </au>
+             </aug>
+             <source>Int J Epidemiol</source>
+             <pubdate>2012</pubdate>
+             <volume>41</volume>
+             <issue>5</issue>
+             <fpage>1338</fpage>
+             <lpage>53</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/ije/dys078</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22634869</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B4">
+             <title>
+                <p>Television viewing and risk of type 2 diabetes, cardiovascular disease, and all-cause mortality: a meta-analysis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Grontved</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Hu</snm>
+                   <fnm>FB</fnm>
+                </au>
+             </aug>
+             <source>JAMA</source>
+             <pubdate>2011</pubdate>
+             <volume>305</volume>
+             <issue>23</issue>
+             <fpage>2448</fpage>
+             <lpage>55</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1001/jama.2011.812</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21673296</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B5">
+             <title>
+                <p>Sedentary time in adults and the association with diabetes, cardiovascular disease and death: systematic review and meta-analysis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Wilmot</snm>
+                   <fnm>EG</fnm>
+                </au>
+                <au>
+                   <snm>Edwardson</snm>
+                   <fnm>CL</fnm>
+                </au>
+                <au>
+                   <snm>Achana</snm>
+                   <fnm>FA</fnm>
+                </au>
+                <au>
+                   <snm>Davies</snm>
+                   <fnm>MJ</fnm>
+                </au>
+                <au>
+                   <snm>Gorely</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Gray</snm>
+                   <fnm>LJ</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Diabetologia</source>
+             <pubdate>2012</pubdate>
+             <volume>55</volume>
+             <issue>11</issue>
+             <fpage>2895</fpage>
+             <lpage>905</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1007/s00125-012-2677-z</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22890825</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B6">
+             <title>
+                <p>Rheumatoid arthritis: is it a coronary heart disease equivalent?</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>John</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Toms</snm>
+                   <fnm>TE</fnm>
+                </au>
+                <au>
+                   <snm>Kitas</snm>
+                   <fnm>GD</fnm>
+                </au>
+             </aug>
+             <source>Curr Opin Cardiol</source>
+             <pubdate>2011</pubdate>
+             <volume>26</volume>
+             <issue>4</issue>
+             <fpage>327</fpage>
+             <lpage>33</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/HCO.0b013e32834703b5</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21499088</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B7">
+             <title>
+                <p>Cardiovascular comorbidities antedating the diagnosis of rheumatoid arthritis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kerola</snm>
+                   <fnm>AM</fnm>
+                </au>
+                <au>
+                   <snm>Kerola</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Kauppi</snm>
+                   <fnm>MJ</fnm>
+                </au>
+                <au>
+                   <snm>Kautiainen</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Virta</snm>
+                   <fnm>LJ</fnm>
+                </au>
+                <au>
+                   <snm>Puolakka</snm>
+                   <fnm>K</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Ann Rheum Dis</source>
+             <pubdate>2013</pubdate>
+             <volume>72</volume>
+             <issue>11</issue>
+             <fpage>1826</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/annrheumdis-2012-202398</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23178207</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B8">
+             <title>
+                <p>Rheumatoid arthritis, cardiovascular disease and physical exercise: a systematic review</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Metsios</snm>
+                   <fnm>GS</fnm>
+                </au>
+                <au>
+                   <snm>Stavropoulos-Kalinoglou</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>van Zanten</snm>
+                   <fnm>JJV</fnm>
+                </au>
+                <au>
+                   <snm>Treharne</snm>
+                   <fnm>GJ</fnm>
+                </au>
+                <au>
+                   <snm>Panoulas</snm>
+                   <fnm>VF</fnm>
+                </au>
+                <au>
+                   <snm>Douglas</snm>
+                   <fnm>KM</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Rheumatology (Oxford)</source>
+             <pubdate>2008</pubdate>
+             <volume>47</volume>
+             <issue>3</issue>
+             <fpage>239</fpage>
+             <lpage>48</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/rheumatology/kem260</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B9">
+             <title>
+                <p>Physical inactivity in patients with rheumatoid arthritis: data from twenty-one countries in a cross-sectional, international study</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Sokka</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Hakkinen</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Kautiainen</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Maillefert</snm>
+                   <fnm>JF</fnm>
+                </au>
+                <au>
+                   <snm>Toloza</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Mork Hansen</snm>
+                   <fnm>T</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Arthritis Rheum</source>
+             <pubdate>2008</pubdate>
+             <volume>59</volume>
+             <issue>1</issue>
+             <fpage>42</fpage>
+             <lpage>50</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1002/art.23255</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18163412</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B10">
+             <title>
+                <p>&#8216;I&#8217;m hurting, I want to kill myself&#8217;: rheumatoid arthritis flare is more than a high joint count - an international patient perspective on flare where medical help is sought</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hewlett</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Sanderson</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>May</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Alten</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Bingham</snm>
+                   <fnm>CO</fnm>
+                   <suf>3rd</suf>
+                </au>
+                <au>
+                   <snm>Cross</snm>
+                   <fnm>M</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Rheumatology (Oxford)</source>
+             <pubdate>2012</pubdate>
+             <volume>51</volume>
+             <issue>1</issue>
+             <fpage>69</fpage>
+             <lpage>76</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/rheumatology/keq455</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B11">
+             <title>
+                <p>Self-management strategies used during flares of rheumatoid arthritis in an ethnically diverse population</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kett</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Flint</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Openshaw</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Raza</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Kumar</snm>
+                   <fnm>K</fnm>
+                </au>
+             </aug>
+             <source>Musculoskeletal Care</source>
+             <pubdate>2010</pubdate>
+             <volume>8</volume>
+             <issue>4</issue>
+             <fpage>204</fpage>
+             <lpage>14</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1002/msc.185</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20799370</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B12">
+             <title>
+                <p>Dynamic exercise programs (aerobic capacity and/or muscle strength training) in patients with rheumatoid arthritis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hurkmans</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>van der Giesen</snm>
+                   <fnm>FJ</fnm>
+                </au>
+                <au>
+                   <snm>Vliet Vlieland</snm>
+                   <fnm>TP</fnm>
+                </au>
+                <au>
+                   <snm>Schoones</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Van den Ende</snm>
+                   <fnm>EC</fnm>
+                </au>
+             </aug>
+             <source>Cochrane Database Syst Rev</source>
+             <pubdate>2009</pubdate>
+             <volume>4</volume>
+             <fpage>CD006853</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">19821388</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B13">
+             <title>
+                <p>A systematic review of the effects of dynamic exercise in rheumatoid arthritis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Cairns</snm>
+                   <fnm>AP</fnm>
+                </au>
+                <au>
+                   <snm>McVeigh</snm>
+                   <fnm>JG</fnm>
+                </au>
+             </aug>
+             <source>Rheumatol Int</source>
+             <pubdate>2009</pubdate>
+             <volume>30</volume>
+             <issue>2</issue>
+             <fpage>147</fpage>
+             <lpage>58</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1007/s00296-009-1090-5</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19701638</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B14">
+             <title>
+                <p>Perceived exercise barriers, enablers, and benefits among exercising and nonexercising adults with arthritis: results from a qualitative study</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Wilcox</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Der Ananian</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Abbott</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Vrazel</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Ramsey</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Sharpe</snm>
+                   <fnm>PA</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Arthritis Rheum</source>
+             <pubdate>2006</pubdate>
+             <volume>55</volume>
+             <issue>4</issue>
+             <fpage>616</fpage>
+             <lpage>27</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1002/art.22098</pubid>
+                   <pubid idtype="pmpid" link="fulltext">16874785</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B15">
+             <title>
+                <p>Letter to the editor: standardized use of the terms &#8216;sedentary&#8217; and &#8216;sedentary behaviours&#8217;</p>
+             </title>
+             <insg>
+                <ins>
+                   <p>Sedentary Behaviour Research N</p>
+                </ins>
+             </insg>
+             <source>Appl Physiol Nutr Metab</source>
+             <pubdate>2012</pubdate>
+             <volume>37</volume>
+             <issue>3</issue>
+             <fpage>540</fpage>
+             <lpage>2</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1139/h2012-024</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B16">
+             <title>
+                <p>The descriptive epidemiology of sitting. A 20-country comparison using the International Physical Activity Questionnaire (IPAQ)</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bauman</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Ainsworth</snm>
+                   <fnm>BE</fnm>
+                </au>
+                <au>
+                   <snm>Sallis</snm>
+                   <fnm>JF</fnm>
+                </au>
+                <au>
+                   <snm>Hagstromer</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Craig</snm>
+                   <fnm>CL</fnm>
+                </au>
+                <au>
+                   <snm>Bull</snm>
+                   <fnm>FC</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Am J Prev Med</source>
+             <pubdate>2011</pubdate>
+             <volume>41</volume>
+             <issue>2</issue>
+             <fpage>228</fpage>
+             <lpage>35</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.amepre.2011.05.003</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21767731</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B17">
+             <title>
+                <p>Amount of time spent in sedentary behaviors in the United States, 2003&#8211;2004</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Matthews</snm>
+                   <fnm>CE</fnm>
+                </au>
+                <au>
+                   <snm>Chen</snm>
+                   <fnm>KY</fnm>
+                </au>
+                <au>
+                   <snm>Freedson</snm>
+                   <fnm>PS</fnm>
+                </au>
+                <au>
+                   <snm>Buchowski</snm>
+                   <fnm>MS</fnm>
+                </au>
+                <au>
+                   <snm>Beech</snm>
+                   <fnm>BM</fnm>
+                </au>
+                <au>
+                   <snm>Pate</snm>
+                   <fnm>RR</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Am J Epidemiol</source>
+             <pubdate>2008</pubdate>
+             <volume>167</volume>
+             <issue>7</issue>
+             <fpage>875</fpage>
+             <lpage>81</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/aje/kwm390</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18303006</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B18">
+             <title>
+                <p>Sedentary time and cardio-metabolic biomarkers in US adults: NHANES 2003&#8211;06</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Healy</snm>
+                   <fnm>GN</fnm>
+                </au>
+                <au>
+                   <snm>Matthews</snm>
+                   <fnm>CE</fnm>
+                </au>
+                <au>
+                   <snm>Dunstan</snm>
+                   <fnm>DW</fnm>
+                </au>
+                <au>
+                   <snm>Winkler</snm>
+                   <fnm>EA</fnm>
+                </au>
+                <au>
+                   <snm>Owen</snm>
+                   <fnm>N</fnm>
+                </au>
+             </aug>
+             <source>Eur Heart J</source>
+             <pubdate>2011</pubdate>
+             <volume>32</volume>
+             <issue>5</issue>
+             <fpage>590</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/eurheartj/ehq451</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21224291</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B19">
+             <title>
+                <p>How active are people with stroke?: use of accelerometers to assess physical activity</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Rand</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Eng</snm>
+                   <fnm>JJ</fnm>
+                </au>
+                <au>
+                   <snm>Tang</snm>
+                   <fnm>PF</fnm>
+                </au>
+                <au>
+                   <snm>Jeng</snm>
+                   <fnm>JS</fnm>
+                </au>
+                <au>
+                   <snm>Hung</snm>
+                   <fnm>C</fnm>
+                </au>
+             </aug>
+             <source>Stroke</source>
+             <pubdate>2009</pubdate>
+             <volume>40</volume>
+             <issue>1</issue>
+             <fpage>163</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1161/STROKEAHA.108.523621</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18948606</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B20">
+             <title>
+                <p>Using step activity monitoring to characterize ambulatory activity in community-dwelling older adults</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Cavanaugh</snm>
+                   <fnm>JT</fnm>
+                </au>
+                <au>
+                   <snm>Coleman</snm>
+                   <fnm>KL</fnm>
+                </au>
+                <au>
+                   <snm>Gaines</snm>
+                   <fnm>JM</fnm>
+                </au>
+                <au>
+                   <snm>Laing</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Morey</snm>
+                   <fnm>MC</fnm>
+                </au>
+             </aug>
+             <source>J Am Geriatr Soc</source>
+             <pubdate>2007</pubdate>
+             <volume>55</volume>
+             <issue>1</issue>
+             <fpage>120</fpage>
+             <lpage>4</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1532-5415.2006.00997.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">17233695</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B21">
+             <title>
+                <p>The pattern of habitual sedentary behavior is different in advanced Parkinson&#8217;s disease</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Chastin</snm>
+                   <fnm>SF</fnm>
+                </au>
+                <au>
+                   <snm>Baker</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Jones</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Burn</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Granat</snm>
+                   <fnm>MH</fnm>
+                </au>
+                <au>
+                   <snm>Rochester</snm>
+                   <fnm>L</fnm>
+                </au>
+             </aug>
+             <source>Mov Disord</source>
+             <pubdate>2010</pubdate>
+             <volume>25</volume>
+             <issue>13</issue>
+             <fpage>2114</fpage>
+             <lpage>20</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1002/mds.23146</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20721926</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B22">
+             <title>
+                <p>The clinical utility of accelerometry in patients with rheumatoid arthritis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Prioreschi</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Hodkinson</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Avidon</snm>
+                   <fnm>I</fnm>
+                </au>
+                <au>
+                   <snm>Tikly</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>McVeigh</snm>
+                   <fnm>JA</fnm>
+                </au>
+             </aug>
+             <source>Rheumatology (Oxford)</source>
+             <pubdate>2013</pubdate>
+             <volume>52</volume>
+             <issue>9</issue>
+             <fpage>1721</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/rheumatology/ket216</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B23">
+             <title>
+                <p>Physical activity measured by the SenseWear Armband in women with rheumatoid arthritis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Almeida</snm>
+                   <fnm>GJ</fnm>
+                </au>
+                <au>
+                   <snm>Wasko</snm>
+                   <fnm>MC</fnm>
+                </au>
+                <au>
+                   <snm>Jeong</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Moore</snm>
+                   <fnm>CG</fnm>
+                </au>
+                <au>
+                   <snm>Piva</snm>
+                   <fnm>SR</fnm>
+                </au>
+             </aug>
+             <source>Phys Ther</source>
+             <pubdate>2011</pubdate>
+             <volume>91</volume>
+             <issue>9</issue>
+             <fpage>1367</fpage>
+             <lpage>76</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.2522/ptj.20100291</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21719635</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B24">
+             <title>
+                <p>Oxygen cost of walking, physical activity, and sedentary behaviours in rheumatoid arthritis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Paul</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Rafferty</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Marshall-McKenna</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Gill</snm>
+                   <fnm>JM</fnm>
+                </au>
+                <au>
+                   <snm>McInnes</snm>
+                   <fnm>I</fnm>
+                </au>
+                <au>
+                   <snm>Porter</snm>
+                   <fnm>D</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Scand J Rheumatol</source>
+             <pubdate>2014</pubdate>
+             <volume>43</volume>
+             <issue>1</issue>
+             <fpage>28</fpage>
+             <lpage>34</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.3109/03009742.2013.802009</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23848142</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B25">
+             <title>
+                <p>Changes in physical activity measured by accelerometry following initiation of DMARD therapy in rheumatoid arthritis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Prioreschi</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Hodkinson</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Tikly</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>McVeigh</snm>
+                   <fnm>JA</fnm>
+                </au>
+             </aug>
+             <source>Rheumatology (Oxford)</source>
+             <pubdate>2014</pubdate>
+             <volume>53</volume>
+             <issue>5</issue>
+             <fpage>923</fpage>
+             <lpage>6</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/rheumatology/ket457</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B26">
+             <title>
+                <p>Addressing the nonexercise part of the activity continuum: a more realistic and achievable approach to activity programming for adults with mobility disability?</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Manns</snm>
+                   <fnm>PJ</fnm>
+                </au>
+                <au>
+                   <snm>Dunstan</snm>
+                   <fnm>DW</fnm>
+                </au>
+                <au>
+                   <snm>Owen</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Healy</snm>
+                   <fnm>GN</fnm>
+                </au>
+             </aug>
+             <source>Phys Ther</source>
+             <pubdate>2012</pubdate>
+             <volume>92</volume>
+             <issue>4</issue>
+             <fpage>614</fpage>
+             <lpage>25</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.2522/ptj.20110284</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22156025</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B27">
+             <title>
+                <p>Feasibility of reducing older adults&#8217; sedentary time</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Gardiner</snm>
+                   <fnm>PA</fnm>
+                </au>
+                <au>
+                   <snm>Eakin</snm>
+                   <fnm>EG</fnm>
+                </au>
+                <au>
+                   <snm>Healy</snm>
+                   <fnm>GN</fnm>
+                </au>
+                <au>
+                   <snm>Owen</snm>
+                   <fnm>N</fnm>
+                </au>
+             </aug>
+             <source>Am J Prev Med</source>
+             <pubdate>2011</pubdate>
+             <volume>41</volume>
+             <issue>2</issue>
+             <fpage>174</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.amepre.2011.03.020</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21767725</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B28">
+             <title>
+                <p>The feasibility of reducing and measuring sedentary time among overweight, non-exercising office workers</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kozey-Keadle</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Libertine</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Staudenmayer</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Freedson</snm>
+                   <fnm>P</fnm>
+                </au>
+             </aug>
+             <source>J Obes</source>
+             <pubdate>2012</pubdate>
+             <volume>2012</volume>
+             <fpage>282303</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1155/2012/282303</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22175004</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B29">
+             <title>
+                <p>Effects of television viewing reduction on energy intake and expenditure in overweight and obese adults: a randomized controlled trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Otten</snm>
+                   <fnm>JJ</fnm>
+                </au>
+                <au>
+                   <snm>Jones</snm>
+                   <fnm>KE</fnm>
+                </au>
+                <au>
+                   <snm>Littenberg</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Harvey-Berino</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>Arch Intern Med</source>
+             <pubdate>2009</pubdate>
+             <volume>169</volume>
+             <issue>22</issue>
+             <fpage>2109</fpage>
+             <lpage>15</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1001/archinternmed.2009.430</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20008695</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B30">
+             <title>
+                <p>Physical activity maintenance in patients with rheumatoid arthritis: a qualitative study</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Loeppenthin</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Esbensen</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Ostergaard</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Jennum</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Thomsen</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Midtgaard</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>Clin Rehabil</source>
+             <pubdate>2014</pubdate>
+             <volume>28</volume>
+             <issue>3</issue>
+             <fpage>289</fpage>
+             <lpage>99</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1177/0269215513501526</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24013270</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B31">
+             <title>
+                <p>Effect of intermittent aerobic exercise on sleep quality and sleep disturbances in patients with rheumatoid arthritis - design of a randomized controlled trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Loppenthin</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Esbensen</snm>
+                   <fnm>BA</fnm>
+                </au>
+                <au>
+                   <snm>Jennum</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Ostergaard</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Christensen</snm>
+                   <fnm>JF</fnm>
+                </au>
+                <au>
+                   <snm>Thomsen</snm>
+                   <fnm>T</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>BMC Musculoskelet Disord</source>
+             <pubdate>2014</pubdate>
+             <volume>15</volume>
+             <fpage>49</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1186/1471-2474-15-49</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24559487</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B32">
+             <title>
+                <p>SPIRIT 2013 explanation and elaboration: guidance for protocols of clinical trials</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Chan</snm>
+                   <fnm>AW</fnm>
+                </au>
+                <au>
+                   <snm>Tetzlaff</snm>
+                   <fnm>JM</fnm>
+                </au>
+                <au>
+                   <snm>Gotzsche</snm>
+                   <fnm>PC</fnm>
+                </au>
+                <au>
+                   <snm>Altman</snm>
+                   <fnm>DG</fnm>
+                </au>
+                <au>
+                   <snm>Mann</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Berlin</snm>
+                   <fnm>JA</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>BMJ</source>
+             <pubdate>2013</pubdate>
+             <volume>346</volume>
+             <fpage>e7586</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/bmj.e7586</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23303884</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B33">
+             <title>
+                <p>The American rheumatism association 1987 revised criteria for the classification of rheumatoid arthritis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Arnett</snm>
+                   <fnm>FC</fnm>
+                </au>
+                <au>
+                   <snm>Edworthy</snm>
+                   <fnm>SM</fnm>
+                </au>
+                <au>
+                   <snm>Bloch</snm>
+                   <fnm>DA</fnm>
+                </au>
+                <au>
+                   <snm>McShane</snm>
+                   <fnm>DJ</fnm>
+                </au>
+                <au>
+                   <snm>Fries</snm>
+                   <fnm>JF</fnm>
+                </au>
+                <au>
+                   <snm>Cooper</snm>
+                   <fnm>NS</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Arthritis Rheum</source>
+             <pubdate>1988</pubdate>
+             <volume>31</volume>
+             <issue>3</issue>
+             <fpage>315</fpage>
+             <lpage>24</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1002/art.1780310302</pubid>
+                   <pubid idtype="pmpid" link="fulltext">3358796</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B34">
+             <title>
+                <p>Construct validity of a revised physical activity scale and testing by cognitive interviewing</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Andersen</snm>
+                   <fnm>LG</fnm>
+                </au>
+                <au>
+                   <snm>Groenvold</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Jorgensen</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Aadahl</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>Scand J Public Health</source>
+             <pubdate>2010</pubdate>
+             <volume>38</volume>
+             <issue>7</issue>
+             <fpage>707</fpage>
+             <lpage>14</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1177/1403494810380099</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20823047</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B35">
+             <title>
+                <p>The Stanford health assessment questionnaire: a review of its history, issues, progress, and documentation</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bruce</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Fries</snm>
+                   <fnm>JF</fnm>
+                </au>
+             </aug>
+             <source>J Rheumatol</source>
+             <pubdate>2003</pubdate>
+             <volume>30</volume>
+             <issue>1</issue>
+             <fpage>167</fpage>
+             <lpage>78</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">12508408</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B36">
+             <title>
+                <p>CONSORT 2010 statement: updated guidelines for reporting parallel group randomised trials</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Schulz</snm>
+                   <fnm>KF</fnm>
+                </au>
+                <au>
+                   <snm>Altman</snm>
+                   <fnm>DG</fnm>
+                </au>
+                <au>
+                   <snm>Moher</snm>
+                   <fnm>D</fnm>
+                </au>
+             </aug>
+             <source>Int J Surg</source>
+             <pubdate>2011</pubdate>
+             <volume>9</volume>
+             <issue>8</issue>
+             <fpage>672</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.ijsu.2011.09.004</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22019563</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B37">
+             <title>
+                <p>DANBIO - powerful research database and electronic patient record</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hetland</snm>
+                   <fnm>ML</fnm>
+                </au>
+             </aug>
+             <source>Rheumatology (Oxford)</source>
+             <pubdate>2011</pubdate>
+             <volume>50</volume>
+             <issue>1</issue>
+             <fpage>69</fpage>
+             <lpage>77</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/rheumatology/keq309</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B38">
+             <note>Rollnick S, Miller WR, CC. B. Motivational interviewing in health care - helping patients change behaviour. The Guildford Press;2008.</note>
+          </bibl>
+          <bibl id="B39">
+             <aug>
+                <au>
+                   <snm>Bandura</snm>
+                   <fnm>A</fnm>
+                </au>
+             </aug>
+             <source>Social foundation of thoughts and action: a social cognitive theory</source>
+             <publisher>Prentice Hall, New York</publisher>
+             <pubdate>1986</pubdate>
+          </bibl>
+          <bibl id="B40">
+             <title>
+                <p>Reducing sedentary behavior: role in modifying physical activity</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Epstein</snm>
+                   <fnm>LH</fnm>
+                </au>
+                <au>
+                   <snm>Roemmich</snm>
+                   <fnm>JN</fnm>
+                </au>
+             </aug>
+             <source>Exerc Sport Sci Rev</source>
+             <pubdate>2001</pubdate>
+             <volume>29</volume>
+             <issue>3</issue>
+             <fpage>103</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/00003677-200107000-00003</pubid>
+                   <pubid idtype="pmpid" link="fulltext">11474956</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B41">
+             <title>
+                <p>Comparison of the performance of the ActivPAL professional physical activity logger to a discrete accelerometer-based activity monitor</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Godfrey</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Culhane</snm>
+                   <fnm>KM</fnm>
+                </au>
+                <au>
+                   <snm>Lyons</snm>
+                   <fnm>GM</fnm>
+                </au>
+             </aug>
+             <source>Med Eng Phys</source>
+             <pubdate>2007</pubdate>
+             <volume>29</volume>
+             <issue>8</issue>
+             <fpage>930</fpage>
+             <lpage>4</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.medengphy.2006.10.001</pubid>
+                   <pubid idtype="pmpid" link="fulltext">17134934</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B42">
+             <title>
+                <p>The validation of a novel activity monitor in the measurement of posture and motion during everyday activities</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Grant</snm>
+                   <fnm>PM</fnm>
+                </au>
+                <au>
+                   <snm>Ryan</snm>
+                   <fnm>CG</fnm>
+                </au>
+                <au>
+                   <snm>Tigbe</snm>
+                   <fnm>WW</fnm>
+                </au>
+                <au>
+                   <snm>Granat</snm>
+                   <fnm>MH</fnm>
+                </au>
+             </aug>
+             <source>Br J Sports Med</source>
+             <pubdate>2006</pubdate>
+             <volume>40</volume>
+             <issue>12</issue>
+             <fpage>992</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/bjsm.2006.030262</pubid>
+                   <pubid idtype="pmpid" link="fulltext">16980531</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B43">
+             <note>PAL Technologies. Providing the evidence. Glasgow 2014. <url>http://www.paltechnologies.com</url>. Cited 23 May 2014.</note>
+          </bibl>
+          <bibl id="B44">
+             <title>
+                <p>Validation of wearable monitors for assessing sedentary behavior</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kozey-Keadle</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Libertine</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Lyden</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Staudenmayer</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Freedson</snm>
+                   <fnm>PS</fnm>
+                </au>
+             </aug>
+             <source>Med Sci Sports Exerc</source>
+             <pubdate>2011</pubdate>
+             <volume>43</volume>
+             <issue>8</issue>
+             <fpage>1561</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1249/MSS.0b013e31820ce174</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21233777</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B45">
+             <title>
+                <p>Validation of a new self-report instrument for measuring physical activity</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Aadahl</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Jorgensen</snm>
+                   <fnm>T</fnm>
+                </au>
+             </aug>
+             <source>Med Sci Sports Exerc</source>
+             <pubdate>2003</pubdate>
+             <volume>35</volume>
+             <issue>7</issue>
+             <fpage>1196</fpage>
+             <lpage>202</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1249/01.MSS.0000074446.02192.14</pubid>
+                   <pubid idtype="pmpid" link="fulltext">12840642</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B46">
+             <title>
+                <p>Self-reported physical activity compared with maximal oxygen uptake in adults</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Aadahl</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Kjaer</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Kristensen</snm>
+                   <fnm>JH</fnm>
+                </au>
+                <au>
+                   <snm>Mollerup</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Jorgensen</snm>
+                   <fnm>T</fnm>
+                </au>
+             </aug>
+             <source>Eur J Cardiovasc Prev Rehabil</source>
+             <pubdate>2007</pubdate>
+             <volume>14</volume>
+             <issue>3</issue>
+             <fpage>422</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/HJR.0b013e3280128d00</pubid>
+                   <pubid idtype="pmpid" link="fulltext">17568243</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B47">
+             <title>
+                <p>The Multidimensional Fatigue Inventory (MFI) psychometric qualities of an instrument to assess fatigue</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Smets</snm>
+                   <fnm>EM</fnm>
+                </au>
+                <au>
+                   <snm>Garssen</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Bonke</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>De Haes</snm>
+                   <fnm>JC</fnm>
+                </au>
+             </aug>
+             <source>J Psychosom Res</source>
+             <pubdate>1995</pubdate>
+             <volume>39</volume>
+             <issue>3</issue>
+             <fpage>315</fpage>
+             <lpage>25</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/0022-3999(94)00125-O</pubid>
+                   <pubid idtype="pmpid" link="fulltext">7636775</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B48">
+             <title>
+                <p>The validation of visual analogue scales as ratio scale measures for chronic and experimental pain</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Price</snm>
+                   <fnm>DD</fnm>
+                </au>
+                <au>
+                   <snm>McGrath</snm>
+                   <fnm>PA</fnm>
+                </au>
+                <au>
+                   <snm>Rafii</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Buckingham</snm>
+                   <fnm>B</fnm>
+                </au>
+             </aug>
+             <source>Pain</source>
+             <pubdate>1983</pubdate>
+             <volume>17</volume>
+             <issue>1</issue>
+             <fpage>45</fpage>
+             <lpage>56</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/0304-3959(83)90126-4</pubid>
+                   <pubid idtype="pmpid" link="fulltext">6226917</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B49">
+             <title>
+                <p>Health-related quality of life associated with chronic conditions in eight countries: results from the International Quality of Life Assessment (IQOLA) Project</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Alonso</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Ferrer</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Gandek</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Ware</snm>
+                   <fnm>JE</fnm>
+                   <suf>Jr</suf>
+                </au>
+                <au>
+                   <snm>Aaronson</snm>
+                   <fnm>NK</fnm>
+                </au>
+                <au>
+                   <snm>Mosconi</snm>
+                   <fnm>P</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Qual Life Res</source>
+             <pubdate>2004</pubdate>
+             <volume>13</volume>
+             <issue>2</issue>
+             <fpage>283</fpage>
+             <lpage>98</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1023/B:QURE.0000018472.46236.05</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15085901</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B50">
+             <note>EuroQol - a new facility for the measurement of health-related quality of life. Health Policy. 1990;16(3):199&#8211;208.</note>
+          </bibl>
+          <bibl id="B51">
+             <title>
+                <p>Generation of a Danish TTO value set for EQ-5D health states</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Wittrup-Jensen</snm>
+                   <fnm>KU</fnm>
+                </au>
+                <au>
+                   <snm>Lauridsen</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Gudex</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Pedersen</snm>
+                   <fnm>KM</fnm>
+                </au>
+             </aug>
+             <source>Scand J Public Health</source>
+             <pubdate>2009</pubdate>
+             <volume>37</volume>
+             <issue>5</issue>
+             <fpage>459</fpage>
+             <lpage>66</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1177/1403494809105287</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19411320</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B52">
+             <title>
+                <p>The general self-efficacy scale: multicultural validation studies</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Luszczynska</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Scholz</snm>
+                   <fnm>U</fnm>
+                </au>
+                <au>
+                   <snm>Schwarzer</snm>
+                   <fnm>R</fnm>
+                </au>
+             </aug>
+             <source>J Psychol</source>
+             <pubdate>2005</pubdate>
+             <volume>139</volume>
+             <issue>5</issue>
+             <fpage>439</fpage>
+             <lpage>57</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.3200/JRLP.139.5.439-457</pubid>
+                   <pubid idtype="pmpid" link="fulltext">16285214</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B53">
+             <note> Lagersted-Olsen J, Korshoj M, Skotte J, Carneiro IG, Sogaard K, Holtermann A. Comparison of objectively measured and self-reported time spent sitting. Int J Sports Med. 2013.</note>
+          </bibl>
+          <bibl id="B54">
+             <note>The Disease Activity Score (DAS). Nijmegen: Radboud University Nijmegen, Medical Centre. 2014. <url>http://www.das-score.nl</url>. Cited 23 May 2014.</note>
+          </bibl>
+          <bibl id="B55">
+             <title>
+                <p>CONSORT 2010 explanation and elaboration: updated guidelines for reporting parallel group randomised trials</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Moher</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Hopewell</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Schulz</snm>
+                   <fnm>KF</fnm>
+                </au>
+                <au>
+                   <snm>Montori</snm>
+                   <fnm>V</fnm>
+                </au>
+                <au>
+                   <snm>Gotzsche</snm>
+                   <fnm>PC</fnm>
+                </au>
+                <au>
+                   <snm>Devereaux</snm>
+                   <fnm>PJ</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>BMJ</source>
+             <pubdate>2010</pubdate>
+             <volume>340</volume>
+             <fpage>c869</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/bmj.c869</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20332511</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B56">
+             <note>DANBIO Database. Glostrup: DANBIO;2014. <url>https://danbio-online.dk</url>. Cited 23 May 2014.</note>
+          </bibl>
+       </refgrp>
+    </bm>
+ </art>

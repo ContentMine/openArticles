@@ -1,0 +1,113 @@
+{
+  "publisher": {
+    "value": [
+      "BioMed Central Ltd"
+    ]
+  },
+  "journal": {
+    "value": [
+      "Trials"
+    ]
+  },
+  "title": {
+    "value": [
+      "Meropenem versus piperacillin-tazobactam for definitive treatment of bloodstream infections due to ceftriaxone non-susceptible Escherichia coli and Klebsiella spp (the MERINO trial): study protocol for a randomised controlled trial"
+    ]
+  },
+  "authors": {
+    "value": [
+      "Patrick NA Harris",
+      "Anton Y Peleg",
+      "Jon Iredell",
+      "Paul R Ingram",
+      "Spiros Miyakis",
+      "Andrew J Stewardson",
+      "Benjamin A Rogers",
+      "Emma S McBryde",
+      "Jason A Roberts",
+      "Jeff Lipman",
+      "Eugene Athan",
+      "Sanjoy K Paul",
+      "Peter Baker",
+      "Tiffany Harris-Brown",
+      "David L Paterson"
+    ]
+  },
+  "date": {
+    "value": [
+      "2015-01-27"
+    ]
+  },
+  "doi": {
+    "value": [
+      "10.1186/s13063-014-0541-9"
+    ]
+  },
+  "volume": {
+    "value": [
+      "16"
+    ]
+  },
+  "issue": {
+    "value": [
+      "1"
+    ]
+  },
+  "firstpage": {
+    "value": [
+      "24"
+    ]
+  },
+  "description": {
+    "value": [
+      "Gram-negative bacteria such as Escherichia coli or Klebsiella spp. frequently cause bloodstream infections. There has been a worldwide increase in resistance in these species to antibiotics such as third generation cephalosporins, largely driven by the acquisition of extended-spectrum beta-lactamase or plasmid-mediated AmpC enzymes. Carbapenems have been considered the most effective therapy for serious infections caused by such resistant bacteria; however, increased use creates selection pressure for carbapenem resistance, an emerging threat arising predominantly from the dissemination of genes encoding carbapenemases. Recent retrospective data suggest that beta-lactam/beta-lactamase inhibitor combinations, such as piperacillin-tazobactam, may be non-inferior to carbapenems for the treatment of bloodstream infection caused by extended-spectrum beta-lactamase-producers, if susceptible in vitro. This study aims to test this hypothesis in an effort to define carbapenem-sparing alternatives for these infections."
+    ]
+  },
+  "abstract": {
+    "value": [
+      "Gram-negative bacteria such as Escherichia coli or Klebsiella spp. frequently cause bloodstream infections. There has been a worldwide increase in resistance in these species to antibiotics such as third generation cephalosporins, largely driven by the acquisition of extended-spectrum beta-lactamase or plasmid-mediated AmpC enzymes. Carbapenems have been considered the most effective therapy for serious infections caused by such resistant bacteria; however, increased use creates selection pressure for carbapenem resistance, an emerging threat arising predominantly from the dissemination of genes encoding carbapenemases. Recent retrospective data suggest that beta-lactam/beta-lactamase inhibitor combinations, such as piperacillin-tazobactam, may be non-inferior to carbapenems for the treatment of bloodstream infection caused by extended-spectrum beta-lactamase-producers, if susceptible in vitro. This study aims to test this hypothesis in an effort to define carbapenem-sparing alternatives for these infections."
+    ]
+  },
+  "fulltext_html": {
+    "value": [
+      "http://www.trialsjournal.com/content/16/1/24"
+    ]
+  },
+  "fulltext_pdf": {
+    "value": [
+      "http://www.trialsjournal.com/content/pdf/s13063-014-0541-9.pdf"
+    ]
+  },
+  "fulltext_xml": {
+    "value": [
+      "/content/download/xml/s13063-014-0541-9.xml"
+    ]
+  },
+  "supplementary_material": {
+    "value": [
+      "http://trialsjournal.com/content/download/supplementary/s13063-014-0541-9-s1.docx",
+      "http://trialsjournal.com/content/download/supplementary/s13063-014-0541-9-s2.docx"
+    ]
+  },
+  "figure": {
+    "value": [
+      "/content/figures/s13063-014-0541-9-1.gif"
+    ]
+  },
+  "figure_caption": {
+    "value": [
+      "Figure 1.",
+      "Patient stratification at enrolment."
+    ]
+  },
+  "license": {
+    "value": [
+      "\r\n\t\t\t\tThis is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.\r\n\t\t\t"
+    ]
+  },
+  "copyright": {
+    "value": [
+      "\r\n            © 2015 Harris et al.; licensee BioMed Central. \r\n        "
+    ]
+  }
+}

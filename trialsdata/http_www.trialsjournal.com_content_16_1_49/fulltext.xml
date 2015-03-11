@@ -1,0 +1,2275 @@
+<?xml version='1.0'?>
+<!DOCTYPE art SYSTEM 'http://www.biomedcentral.com/xml/article.dtd'>
+<art>
+    <ui>s13063-015-0566-8</ui>
+    <ji>1745-6215</ji>
+    <fm>
+       <dochead>Study protocol</dochead>
+       <bibl>
+          <title>
+             <p>Effectiveness and cost-effectiveness of cognitive adaptation training as a nursing intervention in long-term residential patients with severe mental illness: study protocol for a randomized controlled trial</p>
+          </title>
+          <aug>
+             <au id="A1" ca="yes">
+                <snm>Stiekema</snm>
+                <mnm>PM</mnm>
+                <fnm>Annemarie</fnm>
+                <insr iid="I1"/>
+                <insr iid="I2"/>
+                <email>a.stiekema@lentis.nl</email>
+             </au>
+             <au id="A2">
+                <snm>Quee</snm>
+                <mi>J</mi>
+                <fnm>Piotr</fnm>
+                <insr iid="I3"/>
+                <email>pj.quee@lentis.nl</email>
+             </au>
+             <au id="A3">
+                <snm>Dethmers</snm>
+                <fnm>Marian</fnm>
+                <insr iid="I1"/>
+                <email>am.dethmers@lentis.nl</email>
+             </au>
+             <au id="A4">
+                <snm>van den Heuvel</snm>
+                <mi>R</mi>
+                <fnm>Edwin</fnm>
+                <insr iid="I4"/>
+                <email>e.r.van.den.heuvel@umcg.nl</email>
+             </au>
+             <au id="A5">
+                <snm>Redmeijer</snm>
+                <mi>E</mi>
+                <fnm>Jeroen</fnm>
+                <insr iid="I1"/>
+                <email>je.redmeyer@lentis.nl</email>
+             </au>
+             <au id="A6">
+                <snm>Rietberg</snm>
+                <fnm>Kees</fnm>
+                <insr iid="I1"/>
+                <email>cm.rietberg@lentis.nl</email>
+             </au>
+             <au id="A7">
+                <snm>Stant</snm>
+                <mnm>Dennis</mnm>
+                <fnm>A</fnm>
+                <insr iid="I4"/>
+                <email>a.d.stant@umcg.nl</email>
+             </au>
+             <au id="A8">
+                <snm>Swart</snm>
+                <fnm>Marte</fnm>
+                <insr iid="I5"/>
+                <email>m.swart@lentis.nl</email>
+             </au>
+             <au id="A9">
+                <snm>van Weeghel</snm>
+                <fnm>Jaap</fnm>
+                <insr iid="I6"/>
+                <email>J.vanWeeghel@uvt.nl</email>
+             </au>
+             <au id="A10">
+                <snm>Aleman</snm>
+                <fnm>Andr&#233;</fnm>
+                <insr iid="I7"/>
+                <insr iid="I8"/>
+                <email>a.aleman@umcg.nl</email>
+             </au>
+             <au id="A11">
+                <snm>Velligan</snm>
+                <mi>I</mi>
+                <fnm>Dawn</fnm>
+                <insr iid="I9"/>
+                <email>velligand@uthscsa.edu</email>
+             </au>
+             <au id="A12">
+                <snm>Schoevers</snm>
+                <mi>A</mi>
+                <fnm>Robert</fnm>
+                <insr iid="I2"/>
+                <insr iid="I10"/>
+                <email>r.a.schoevers@umcg.nl</email>
+             </au>
+             <au id="A13">
+                <snm>Bruggeman</snm>
+                <fnm>Richard</fnm>
+                <insr iid="I2"/>
+                <insr iid="I10"/>
+                <email>r.bruggeman@umcg.nl</email>
+             </au>
+             <au id="A14">
+                <snm>van der Meer</snm>
+                <fnm>Lisette</fnm>
+                <insr iid="I1"/>
+                <insr iid="I2"/>
+                <insr iid="I7"/>
+                <email>l.vandermeer@lentis.nl</email>
+             </au>
+          </aug>
+          <insg>
+             <ins id="I1">
+                <p>Department of Rehabilitation, Lentis Center for Mental Health, Lentis Psychiatric Institute, Lagerhout E35, Zuidlaren, 9741 KE, The Netherlands</p>
+             </ins>
+             <ins id="I2">
+                <p>Rob Giel Research Center, University of Groningen, University Medical Center Groningen, Hanzeplein 1, Groningen, 9713 GZ, The Netherlands</p>
+             </ins>
+             <ins id="I3">
+                <p>Department of Depression, PsyQ, Lentis Psychiatric Institute, Hereweg 76, Groningen, 9725 AG, The Netherlands</p>
+             </ins>
+             <ins id="I4">
+                <p>Department of Epidemiology, University of Groningen, University Medical Center Groningen, Hanzeplein 1, Groningen, 9713 GZ, The Netherlands</p>
+             </ins>
+             <ins id="I5">
+                <p>Research Department, Lentis Psychiatric Institute, Hereweg 80, Groningen, 9725 AG, The Netherlands</p>
+             </ins>
+             <ins id="I6">
+                <p>Department of TRANZO, Tilburg School of Social and Behavioral Sciences, Dijk en Duin Psychiatric Institute, Tilburg University, Warandelaan 2, Tilburg, 5037 AB, The Netherlands</p>
+             </ins>
+             <ins id="I7">
+                <p>Department of Neuroscience, University of Groningen, University Medical Center Groningen, Antonius Deusinglaan 2, Groningen, 9713 AW, The Netherlands</p>
+             </ins>
+             <ins id="I8">
+                <p>Department of Clinical Psychology and Experimental Psychopathology, University of Groningen, Grote Kruisstraat 2/1, Groningen, 9712 TS, The Netherlands</p>
+             </ins>
+             <ins id="I9">
+                <p>Division of Schizophrenia and Related Disorders, Department of Psychiatry, University of Texas, 7703 Floyd Curl Drive, San Antonio, TX, USA</p>
+             </ins>
+             <ins id="I10">
+                <p>University of Groningen, University Medical Center Groningen, University Center of Psychiatry, Hanzeplein 1, Groningen, 9713 GZ, The Netherlands</p>
+             </ins>
+          </insg>
+          <source>Trials</source>
+          <issn>1745-6215</issn>
+          <pubdate>2015</pubdate>
+          <volume>16</volume>
+          <issue>1</issue>
+          <fpage>49</fpage>
+          <url>http://www.trialsjournal.com/content/16/1/49</url>
+          <xrefbib>
+             <pubidlist>
+                <pubid idtype="doi">10.1186/s13063-015-0566-8</pubid>
+             </pubidlist>
+          </xrefbib>
+       </bibl>
+       <history>
+          <rec>
+             <date>
+                <day>28</day>
+                <month>11</month>
+                <year>2014</year>
+             </date>
+          </rec>
+          <acc>
+             <date>
+                <day>14</day>
+                <month>1</month>
+                <year>2015</year>
+             </date>
+          </acc>
+          <pub>
+             <date>
+                <day>12</day>
+                <month>2</month>
+                <year>2015</year>
+             </date>
+          </pub>
+       </history>
+       <cpyrt>
+          <year>2015</year>
+          <collab>Stiekema et al.; licensee BioMed Central.</collab>
+          <note>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/4.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (<url>http://creativecommons.org/publicdomain/zero/1.0/</url>) applies to the data made available in this article, unless otherwise stated.</note>
+       </cpyrt>
+       <kwdg>
+          <kwd>Cognitive adaptation training</kwd>
+          <kwd>CAT</kwd>
+          <kwd>Functioning</kwd>
+          <kwd>Severe mental illness</kwd>
+          <kwd>Schizophrenia</kwd>
+          <kwd>Quality of life</kwd>
+          <kwd>Nursing intervention</kwd>
+          <kwd>Cognitive remediation</kwd>
+       </kwdg>
+       <abs>
+          <sec>
+             <st>
+                <p>Abstract</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Background</p>
+                </st>
+                <p>Despite the well-known importance of cognitive deficits for everyday functioning in patients with severe mental illness (SMI), evidence-based interventions directed at these problems are especially scarce for SMI patients in long-term clinical facilities. Cognitive adaptation Training (CAT) is a compensatory approach that aims at creating new routines in patients&#8217; living environments through the use of environmental supports. Previous studies on CAT showed that CAT is effective in improving everyday functioning in outpatients with schizophrenia. The aim of this study is to evaluate the effect of CAT as a nursing intervention in SMI patients who reside in long-term clinical facilities.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Methods/Design</p>
+                </st>
+                <p>This is a multicenter cluster randomized controlled trial comparing CAT (intervention group) as a nursing intervention to treatment as usual (control group). The primary goal is to evaluate the effectiveness of CAT on everyday functioning. Secondary outcomes are quality of life, empowerment and apathy. Further, an economic evaluation will be performed. The study has a duration of one year, with four follow-up assessments at 15, 18, 21 and 24&#160;months for the intervention group.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Discussion</p>
+                </st>
+                <p>There is a need for evidence-based interventions that contribute to the improvement of the functional recovery of long-term residential patients. If our hypotheses are confirmed, it may be recommended to include CAT in the guidelines for SMI care and to implement the method in standardized care.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Trial registration</p>
+                </st>
+                <p>Nederlands Trial Register (identifier: <url>NTR3308</url>). Date registered: 12 February 2012.</p>
+             </sec>
+          </sec>
+       </abs>
+    </fm>
+    <bdy>
+       <sec>
+          <st>
+             <p>Background</p>
+          </st>
+          <p>The term severe mental illness (SMI) defines a range of psychiatric disorders, characterized by serious mental, social and vocational problems that influence each other and create a need for long-term continuous care by mental health professionals <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>. The majority of the SMI population suffers from schizophrenia or related psychotic disorders, which are characterized by positive symptoms (such as hallucinations and/or delusions), negative symptoms (such as amotivation, social withdrawal and/or blunted affect) and cognitive deficits (such as planning, memory and/or attention issues). Furthermore, people with autism, obsessive compulsive disorder, personality disorder, bipolar disorder or major depression are also considered to be suffering from SMI when they follow a severe course of the illness <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>. In the Netherlands, patients with SMI are admitted to long-stay facilities when they are unable to live independently and need more support than can be provided at assisted or sheltered living facilities. Based on the most recent estimations, approximately 10% of the adult SMI population is living in long-stay clinical facilities in the Netherlands <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp>. The degree of care dependency strongly relates to everyday functioning <abbrgrp>
+                <abbr bid="B3">3</abbr>
+             </abbrgrp>, and is predicted by cognitive impairments, common in the majority of SMI patients <abbrgrp>
+                <abbr bid="B4">4</abbr>
+             </abbrgrp>. Despite the strong relationship between cognition and everyday functioning, evidence-based interventions are scarce, especially for those who reside in long-stay clinical facilities. Two main approaches can be distinguished with regard to interventions for cognitive problems in SMI: restorative and compensatory.</p>
+          <p>Restorative approaches, such as cognitive remediation, aim to improve functional outcomes through enhanced cognitive functioning. In cognitive remediation, people are typically trained using computer training software. Cognitive remediation techniques have been extensively studied and though they attain small positive effects on cognition, recent (meta-analytic) studies demonstrated that these improvements do not generalize to functional improvements <abbrgrp>
+                <abbr bid="B5">5</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B6">6</abbr>
+             </abbrgrp>. Significant and larger effect sizes are achieved when cognitive remediation is combined with some form of rehabilitation program, which questions the specific therapeutic effects of cognitive remediation programs on global and real-world functioning <abbrgrp>
+                <abbr bid="B5">5</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B6">6</abbr>
+             </abbrgrp>.</p>
+          <p>Compensatory approaches do not aim to improve cognitive functions per se. Instead, they aim to bypass the cognitive deficits that hinder patients in performing their activities of daily living. Cognitive adaptation training (CAT) is such an approach <abbrgrp>
+                <abbr bid="B7">7</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B8">8</abbr>
+             </abbrgrp>. CAT is an in-home intervention that targets real-world problems in a real-world setting, namely the patient&#8217;s own living environment. With the use of environmental supports, the patient is taught new routines that appeal less to cognitive functions. Furthermore, CAT interventions are strongly individualized, taking into account the specific problems in activities of daily living of the individual patient. Effects of CAT include improvements in everyday functioning, quality of life, medication adherence and relapse in outpatients with schizophrenia <abbrgrp>
+                <abbr bid="B7">7</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B9">9</abbr>
+             </abbrgrp>.</p>
+          <p>CAT starts with composing an individually tailored treatment plan, based on the patient&#8217;s specific problems with respect to behavior, cognitive or executive functioning and everyday functioning. If the patient&#8217;s behavior type is predominantly characterized by apathy (amotivation, lack of initiative and/or lack of goal-directed behavior), compensation strategies will focus on cueing and prompting behavior. Patients whose behavior is predominantly characterized by disinhibition (easily distracted by irrelevant stimuli and/or behaving inappropriate in a situation) may benefit from removal of distracting stimuli. For patients with a mixed behavior type, both intervention strategies can be used. The form of the intervention is based on the level of executive functioning of the patient (such as planning, goal-directed behavior and mental flexibility). Interventions for patients with poor executive functioning are more easily noticeable (for example, larger signs), more specific (for example, stepwise instructions) and more numerous, compared to interventions for patients with fair executive functioning, which can be more subtle (for example, smaller signs) and less specific (for example, global instructions).</p>
+          <p>Information about the patient&#8217;s cognitive strengths and weaknesses in attention and memory is used to further individualize the interventions. For example, if a patient has strong visual attention but their auditory attention is weak, they would probably benefit more from visual cues and/or signs than from verbal reminders. The specific individual problems in everyday functioning determine the individual goals at which the interventions are directed. Commonly used environmental supports are watches, calendars, electronic devices, signs, household supplies (such as boxes and cleaning supplies) and means of transportation (for example, the bus or a taxi pass). A CAT manual includes examples of specific environmental supports for 16 domains of daily living <abbrgrp>
+                <abbr bid="B10">10</abbr>
+             </abbrgrp>, and was slightly adapted (by authors APMS and PQ) for practical use by psychiatric nurses.</p>
+          <p>Despite the well-established effectiveness of CAT for outpatients, it remains unclear whether long-term residential patients can benefit from CAT in a similar way. In this population, the cognitive and functional deficits can be considered to be most severe. Therefore, CAT may bridge the gap between the current knowledge about these deficits and the lack of evidence-based interventions for this patient group. At the same time, long-stay facilities may be better able to deal with the need for ongoing support, which is necessary to maintain the functional improvements made with CAT <abbrgrp>
+                <abbr bid="B9">9</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B11">11</abbr>
+             </abbrgrp>.</p>
+          <p>In the usual care of long-stay facilities, ongoing support is often provided by psychiatric nurses. Supporting patients in performing everyday tasks is part of their daily working routine. While in previous studies CAT was delivered by psychologists with a minimum of a bachelor&#8217;s level education, the current study aims to train psychiatric nurses for CAT. Involving nurses should integrate CAT in the daily working routine and thereby provide the continuous support which is necessary to sustain improvements that are made with CAT. A pilot study conducted by our group provided tentative evidence that CAT as a nursing intervention can improve everyday functioning in long-term residential patients in the Netherlands <abbrgrp>
+                <abbr bid="B12">12</abbr>
+             </abbrgrp>. Furthermore, a recent Canadian study demonstrated that case manager support can sustain CAT interventions after a period of CAT-specialized intervention <abbrgrp>
+                <abbr bid="B13">13</abbr>
+             </abbrgrp>.</p>
+          <p>The abovementioned studies only included patients with a diagnosis in the schizophrenia spectrum, which leaves the effect of CAT on SMI patients with a different diagnosis unknown. However, cognitive impairments are also present in patients with other psychiatric disorders <abbrgrp>
+                <abbr bid="B14">14</abbr>
+             </abbrgrp>. Therefore we expect that SMI patients with cognitive deficits, but without the psychotic symptoms that characterize schizophrenia, may similarly benefit from CAT.</p>
+          <p>The primary goal of the current study is to assess the effect of CAT as a nursing intervention on everyday functioning in long-term residential patients with SMI. The secondary goals are to evaluate the effect of CAT on quality of life, empowerment and apathy. Follow-up measurements will be conducted to evaluate whether obtained effects on primary and secondary outcome measures can be retained, as well as to evaluate the feasibility of integrating CAT support into the daily working routine of the nurses. We expect CAT as a nursing intervention to lead to improvements in everyday functioning and apathy, and thereby an improved quality of life for patients with SMI. As CAT is not designed to alter cognitive functioning (rather to bypass cognitive problems) or to improve positive symptoms, we do not expect these to change. Finally, we will assess the long-term cost-effectiveness and cost-utility of the intervention. Importantly, in a time where available funding for mental healthcare is diminishing, evaluation of the costs and benefits of CAT is necessary. With this information available, mental health institutions will be able to make well-considered decisions with regard to the type of treatments and interventions that they offer.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Methods/Design</p>
+          </st>
+          <p>The methods and design of the intervention study are described using the Consolidated Standards for Reporting Trials (CONSORT) statement and the extension for reporting cluster randomized controlled trials <abbrgrp>
+                <abbr bid="B15">15</abbr>
+             </abbrgrp>.</p>
+          <sec>
+             <st>
+                <p>Design</p>
+             </st>
+             <p>This is a two-arm, multicenter, cluster randomized controlled trial assessing CAT as a nursing intervention in long-term residential patients with SMI. Patients in the intervention group will receive CAT in addition to treatment as usual ((TAU) CAT&#8201;+&#8201;TAU) and will be compared to the control group who will only receive TAU. Assessments take place at baseline and every three months thereafter. This study has a duration of one year. For the intervention group, four additional assessments take place at 15, 18, 21 and 24&#160;months in order to investigate the long-term effects.</p>
+             <p>The Medical Ethics Review Committee of the University Medical Center Groningen in the Netherlands approved the study design, research protocol, information brochure and informed consent procedure (approval number M13.143271). The study is funded by a NutsOhra grant (grant number: 1303&#8211;041).</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Recruitment and inclusion of patients</p>
+             </st>
+             <p>A total of 100 long-term residential patients suffering from SMI will be included in the study. Patients who participated in the pilot study or patients who are under 18&#160;years of age are excluded from participation. There are no other criteria held.</p>
+             <p>Patients are recruited from the long-stay departments of three institutions in the Netherlands: Lentis Psychiatric Institute (Zuidlaren), Dijk en Duin Psychiatric Institute (Castricum) and GGZ Drenthe (Assen). The departments typically provide long-term pharmacological and psychosocial treatment and focus on rehabilitation and recovery for adult SMI patients. Admitted patients have often insufficiently recovered during several previous hospitalizations and/or periods of sheltered living, and experienced educational, vocational and social problems early in life. The majority of the patients suffer from psychotic disorders. Other diagnoses include severe major depression, personality disorders, bipolar disorder and autism.</p>
+             <p>Patients are informed about the study by nurses from the concerning department. Patients are informed that participation is voluntary and that they are free to withdraw at any time without providing a reason and without consequence for the usual treatment. Questions can be directed at the nurses or the researchers (contact information is provided in a patient folder). Participants are required to provide written informed consent at baseline.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Sample size calculation</p>
+             </st>
+             <p>This sample size is based on a power analysis using the effect size (0.79) calculated from Multnomah Community Ability Scale (MCAS) scores from our pilot study <abbrgrp>
+                   <abbr bid="B12">12</abbr>
+                </abbrgrp>. To detect a significant change in daily functioning measured by the MCAS with &#945; set at 0.05 and a power of 0.9, 35 patients should complete the intervention. Studies have shown that withdrawal from psychosocial interventions in psychiatric patients can be substantial. Therefore we have taken into account a conservative drop-out rate of 30% and will include at least 50 patients in each condition. Analyses are performed when both groups completed the assessments at 12&#160;months and at the study end when follow-up assessments of the intervention group have been completed (24&#160;months).</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Randomization</p>
+             </st>
+             <p>With regard to the randomization procedure, several issues were to be considered. Each location employed several nursing teams, with separate offices, patient units and caseloads. Cluster randomization was applied on a nursing team level for each of the three institutions. This resulted in an equal distribution in the number of nursing teams allocated to CAT and TAU within each institution. Not only does this approach prevent contamination between nurses in the intervention and control groups, it also enhances implementation of the intervention since all nurses within each intervention team are trained in CAT and regular nursing meetings can be used for informing colleagues about the progression of the intervention. The nursing teams are randomly allocated to either the intervention or the control group by an independent staff member (without interest in or knowledge about the outcome of the allocation) who blindly draws a ticket from a basket containing a CAT ticket and a blank ticket. No inclusion or exclusion criteria are applied for nurses.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Cognitive adaption training nurses and specialists</p>
+             </st>
+             <p>Nurses in the intervention teams are responsible for setting up and evaluating the intervention for a maximum of one to three patients, while all nurses are responsible for supporting the daily use of interventions of all patients. Hereafter, the term CAT case manager refers to the former role, while the term nurse refers to the general tasks of all nurses in the team. CAT specialists are professionals educated to at least bachelor level, who have knowledge about the relationship between cognition and general functioning, and who are knowledgeable with regard to the underlying principles of CAT. Besides supervising CAT case managers in the development and implementation of the intervention for each individual patient, CAT specialists guard the underlying principles of CAT in the interventions that are applied. CAT specialists APMS and JER, both psychologists at Lentis Psychiatric Institute, were trained by Dr Velligan, the developer of CAT. They provided additional training for CAT specialists at the other institutions.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Blinding</p>
+             </st>
+             <p>Blinding will take place at the level of assessors of outcome variables. Blinding of patients and nurses is not possible due to the nature of the intervention. Similarly, blinding of the researcher is not possible due to the researcher&#8217;s (APMS) role in the training of nurses and CAT meetings with nurses. Research assistants (psychology students educated to at least bachelors level) are trained to administer the assessments. They are blind to the treatment arm in which the patient is included and do not receive any information with regard to the content and aims of the intervention. Nurses and patients are requested not to disclose any information about the allocation of conditions or the content of the intervention to the students. Students are instructed to inform the researcher immediately when they suspect blinds are broken, in which case the measurement is finished by another student who is still blind to the allocation of the patient. Furthermore, guessing of the allocation group by raters after each assessment will be used to evaluate whether blinding was successful.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Tests and measures</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Testing procedure</p>
+                </st>
+                <p>All participants (intervention and control group) are measured at baseline and after three, six, nine and 12&#160;months. Additionally, to determine whether any obtained results in the intervention group can be retained, follow-up assessments are planned after 15, 18, 21 and 24&#160;months. Although CAT is not designed to alter cognitive functioning (rather to bypass cognitive problems) nor to improve symptoms, cognitive functioning and symptomatology are measured again at six and 12&#160;months to evaluate any unexpected changes. The schedule of enrollment, interventions and content of the assessments is shown in Table&#160;<tblr tid="T1">1</tblr>. For all patients, interviews and cognitive tests are assessed in separate sessions. In the intervention group, environmental and functional problems in everyday functioning are assessed in an additional session. Level of everyday functioning is chosen as the primary outcome. All tests and measures are described below. Secondary outcome measures are quality of life, empowerment and apathy. Assessment outcomes for the control group will not be used in their treatment plan for the duration of the trial.
+                    </p>
+                
+                   <table id="T1">
+                      <title>
+                         <p>Table 1</p>
+                      </title>
+                      <caption>
+                         <p>
+                              <b>Schedule of enrollment, interventions and assessments</b>                            
+                         </p>
+                      </caption>
+                      <tgroup align="left" cols="11">
+                         <colspec align="left" colname="c1" colnum="1" colwidth="*"/>
+                         <colspec align="left" colname="c2" colnum="2" colwidth="*"/>
+                         <colspec align="left" colname="c3" colnum="3" colwidth="*"/>
+                         <colspec align="left" colname="c4" colnum="4" colwidth="*"/>
+                         <colspec align="left" colname="c5" colnum="5" colwidth="*"/>
+                         <colspec align="left" colname="c6" colnum="6" colwidth="*"/>
+                         <colspec align="left" colname="c7" colnum="7" colwidth="*"/>
+                         <colspec align="left" colname="c8" colnum="8" colwidth="*"/>
+                         <colspec align="left" colname="c9" colnum="9" colwidth="*"/>
+                         <colspec align="left" colname="c10" colnum="10" colwidth="*"/>
+                         <colspec align="left" colname="c11" colnum="11" colwidth="*"/>
+                         <thead>
+                            <row valign="top">
+                               <entry colname="c1"/>
+                               <entry nameend="c11" namest="c2" rowsep="1">
+                                  <p>
+                                     <b>Study period</b>                                
+                                  </p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1"/>
+                               <entry colname="c2"/>
+                               <entry nameend="c7" namest="c3" rowsep="1">
+                                  <p>
+                                     <b>Intervention period</b>                                
+                                  </p>
+                               </entry>
+                               <entry nameend="c11" namest="c8" rowsep="1">
+                                  <p>
+                                     <b>Follow-up</b>                                  
+                                     <sup>
+                                        <b>b</b> 
+                                     </sup>
+                                  </p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>
+                                     <b>Time point</b>                                  
+                                     <sup>
+                                        <b>a</b> 
+                                     </sup>
+                                  </p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>
+                                     <b>&lt; T</b>                                  
+                                     <sub>
+                                        <b>0</b> 
+                                     </sub>
+                                  </p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>
+                                     <b>T</b>                                  
+                                     <sub>
+                                        <b>0</b> 
+                                     </sub>
+                                  </p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>
+                                     <b>T</b>                                  
+                                     <sub>
+                                        <b>3</b> 
+                                     </sub>
+                                  </p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>
+                                     <b>T</b>                                  
+                                     <sub>
+                                        <b>6</b> 
+                                     </sub>
+                                  </p>
+                               </entry>
+                               <entry colname="c6">
+                                  <p>
+                                     <b>T</b>                                  
+                                     <sub>
+                                        <b>9</b> 
+                                     </sub>
+                                  </p>
+                               </entry>
+                               <entry colname="c7">
+                                  <p>
+                                     <b>T</b>                                  
+                                     <sub>
+                                        <b>12</b> 
+                                     </sub>
+                                  </p>
+                               </entry>
+                               <entry colname="c8">
+                                  <p>
+                                     <b>T</b>                                  
+                                     <sub>
+                                        <b>15</b> 
+                                     </sub>
+                                  </p>
+                               </entry>
+                               <entry colname="c9">
+                                  <p>
+                                     <b>T</b>                                  
+                                     <sub>
+                                        <b>18</b> 
+                                     </sub>
+                                  </p>
+                               </entry>
+                               <entry colname="c10">
+                                  <p>
+                                     <b>T</b>                                  
+                                     <sub>
+                                        <b>21</b> 
+                                     </sub>
+                                  </p>
+                               </entry>
+                               <entry colname="c11">
+                                  <p>
+                                     <b>T</b>                                  
+                                     <sub>
+                                        <b>24</b> 
+                                     </sub>
+                                  </p>
+                               </entry>
+                            </row>
+                         </thead>
+                         <tfoot>
+                            <p>
+                               <sup>a</sup>Number illustrates number of months after baseline.</p>
+                            <p>
+                               <sup>b</sup>Assessed for the intervention group only.</p>
+                            <p>
+                               <sup>c</sup>
+                               <it>Abbreviations</it>: <it>TAU</it> treatment as usual, <it>CAT</it> Cognitive Adaptation Training.</p>
+                         </tfoot>
+                         <tbody>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>
+                                     <b>Enrollment:</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3"/>
+                               <entry colname="c4"/>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                               <entry colname="c7"/>
+                               <entry colname="c8"/>
+                               <entry colname="c9"/>
+                               <entry colname="c10"/>
+                               <entry colname="c11"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Randomization</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c3"/>
+                               <entry colname="c4"/>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                               <entry colname="c7"/>
+                               <entry colname="c8"/>
+                               <entry colname="c9"/>
+                               <entry colname="c10"/>
+                               <entry colname="c11"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Informed consent</p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c4"/>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                               <entry colname="c7"/>
+                               <entry colname="c8"/>
+                               <entry colname="c9"/>
+                               <entry colname="c10"/>
+                               <entry colname="c11"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>
+                                     <b>Groups:</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3"/>
+                               <entry colname="c4"/>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                               <entry colname="c7"/>
+                               <entry colname="c8"/>
+                               <entry colname="c9"/>
+                               <entry colname="c10"/>
+                               <entry colname="c11"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Control (TAU)</p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c6">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c7">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c8"/>
+                               <entry colname="c9"/>
+                               <entry colname="c10"/>
+                               <entry colname="c11"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Intervention (TAU&#8201;+&#8201;CAT)<sup>c</sup>
+                                  </p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c6">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c7">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c8">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c9">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c10">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c11">
+                                  <p>X</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>
+                                     <b>Assessments:</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3"/>
+                               <entry colname="c4"/>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                               <entry colname="c7"/>
+                               <entry colname="c8"/>
+                               <entry colname="c9"/>
+                               <entry colname="c10"/>
+                               <entry colname="c11"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Environmental/functional problems<sup>b</sup> and behavior type</p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c4"/>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                               <entry colname="c7"/>
+                               <entry colname="c8"/>
+                               <entry colname="c9"/>
+                               <entry colname="c10"/>
+                               <entry colname="c11"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Clinical and cognitive characteristics</p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c4"/>
+                               <entry colname="c5">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c6"/>
+                               <entry colname="c7">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c8"/>
+                               <entry colname="c9"/>
+                               <entry colname="c10"/>
+                               <entry colname="c11"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Demographical information</p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c4"/>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                               <entry colname="c7"/>
+                               <entry colname="c8"/>
+                               <entry colname="c9"/>
+                               <entry colname="c10"/>
+                               <entry colname="c11"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Everyday functioning</p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c6">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c7">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c8">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c9">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c10">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c11">
+                                  <p>X</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Quality of life and empowerment</p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c4"/>
+                               <entry colname="c5">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c6"/>
+                               <entry colname="c7">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c8"/>
+                               <entry colname="c9"/>
+                               <entry colname="c10"/>
+                               <entry colname="c11"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Apathy</p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c4"/>
+                               <entry colname="c5">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c6"/>
+                               <entry colname="c7">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c8"/>
+                               <entry colname="c9"/>
+                               <entry colname="c10"/>
+                               <entry colname="c11"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Healthcare costs</p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c6">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c7">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c8">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c9">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c10">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c11">
+                                  <p>X</p>
+                               </entry>
+                            </row>
+                         </tbody>
+                      </tgroup>
+                   </table>
+                
+             </sec>
+             <sec>
+                <st>
+                   <p>Demographical information</p>
+                </st>
+                <p>Demographical information (date of birth, gender, nationality, level of education, main diagnosis, comorbid diagnoses, age of onset, psychiatric disorders of parents and siblings, relevant medical events, neurological disorders and alcohol and drug use) is partly obtained from the patient file and completed at baseline assessment (T0).</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Severity of current psychotic symptoms</p>
+                </st>
+                <p>The presence and severity of psychotic symptoms is measured using the Positive and Negative Syndrome Scale (PANSS) <abbrgrp>
+                      <abbr bid="B16">16</abbr>
+                   </abbrgrp> by trained blind raters (psychology students educated to at least bachelors level). The PANSS is a semi-structured interview that consists of three subscales: positive symptoms, negative symptoms and general psychopathology. The PANSS is a widely used instrument with good psychometric properties <abbrgrp>
+                      <abbr bid="B16">16</abbr>
+                   </abbrgrp>. The PANSS is administered for patients with a psychotic disorder or a disorder with psychotic features only.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Behavior type</p>
+                </st>
+                <p>The Frontal Systems Behavior Scale (FrSBe) <abbrgrp>
+                      <abbr bid="B17">17</abbr>
+                   </abbrgrp>, which is filled out by the CAT case manager, is used to determine the behavior type. This scale consists of 46 statements on apathy, disinhibition and executive functioning. Each statement can be scored on a scale ranging from one (almost never) to five (almost always). The apathy and disinhibition scores determine whether the patient&#8217;s behavior type is best characterized as apathy, disinhibition or mixed (combination of apathy and disinhibition).</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Executive functioning</p>
+                </st>
+                <p>The level of executive functioning is determined with the Modified Card Sorting Test (MCST) <abbrgrp>
+                      <abbr bid="B18">18</abbr>
+                   </abbrgrp> and the letter fluency task <abbrgrp>
+                      <abbr bid="B19">19</abbr>
+                   </abbrgrp>. The perseveration and categories score of the MCST and the total score of the letter fluency task are used to determine the level of executive functioning. A division is made between poor (problems with planning and performing the steps of basic everyday tasks such as showering and dressing) and fair (problems on higher level functions, such as management of money and work skills). When the participant is not able or willing to participate in the tests, the score on the executive subscale of the FrSBe is used to determine the level of executive functioning.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Cognitive strengths and weaknesses</p>
+                </st>
+                <p>Complementary cognitive tests are administered to determine strengths and weaknesses in visual attention (Picture Completion; Wechsler Adult Intelligence Scale IV (WAIS-IV)) <abbrgrp>
+                      <abbr bid="B20">20</abbr>
+                   </abbrgrp>, auditory attention (Digit Span forward; WAIS-IV) <abbrgrp>
+                      <abbr bid="B20">20</abbr>
+                   </abbrgrp>, working memory (Digit Span Backward; WAIS-IV) <abbrgrp>
+                      <abbr bid="B20">20</abbr>
+                   </abbrgrp> and verbal short term memory (Word Learning Task) <abbrgrp>
+                      <abbr bid="B21">21</abbr>
+                   </abbrgrp>. Strengths and weaknesses in auditory attention and working memory are determined with cut-off scores identical to those used by Dr Velligan (personal communication, A.P.M. Stiekema) (auditory attention: &lt;4&#8201;=&#8201;weak, &gt;7&#8201;=&#8201;strong and 4 to 7&#8201;=&#8201;average; working memory: &lt;2&#8201;=&#8201;weak, &gt;5&#8201;=&#8201;strong and 2 to 5&#8201;=&#8201;average). For visual attention, we use transformed raw scores to scale scores on the picture completion task according to the Dutch norms <abbrgrp>
+                      <abbr bid="B20">20</abbr>
+                   </abbrgrp> and set cut-off points for the scale scores (&lt;5&#8201;=&#8201;weak, &gt;10&#8201;=&#8201;strong and 5 to 10&#8201;=&#8201;average). Finally, for verbal short term memory, we use the available Dutch norms <abbrgrp>
+                      <abbr bid="B21">21</abbr>
+                   </abbrgrp> to set cut-off points at percentiles (&lt;25&#8201;=&#8201;weak, &gt;50&#8201;=&#8201;strong and 25 to 50&#8201;=&#8201;average).</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Environmental and functional assessment</p>
+                </st>
+                <p>The individual problems with everyday functioning are assessed with the Environmental and Functional Assessment (EFA) by Velligan <it>et al</it>. <abbrgrp>
+                      <abbr bid="B10">10</abbr>
+                   </abbrgrp>. The EFA is an extensive interview on daily activities, functional skills and the presence of necessary skills to perform these activities. We slightly adjusted the EFA so that the given examples reflect situations that are common for the study population in the Netherlands. In addition, we now explicitly ask for the patient&#8217;s wishes with regard to the every tasks. The EFA is administered in the patient&#8217;s residence by a CAT specialist together with the CAT case manager. If necessary, the CAT case manager supports the patient in answering the questions during the interview.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Everyday functioning</p>
+                </st>
+                <p>Level of everyday functioning is measured with a number of instruments. First, the Multnomah Community Ability Scale (MCAS) <abbrgrp>
+                      <abbr bid="B22">22</abbr>
+                   </abbrgrp> is used to enable us to compare results with previous CAT studies. The MCAS is a semi-structured interview containing 17 items and assesses a variety of domains of community adjustment. As reports of mental healthcare professionals who are in frequent contact with patients tend to be more linked to performance on everyday tasks than self-reports <abbrgrp>
+                      <abbr bid="B23">23</abbr>
+                   </abbrgrp>, a comparison of patients&#8217; reports and nurses&#8217; observations (measured with observational questionnaires described below) is used to determine possible discrepancies between answers and to adapt MCAS scores if necessary. The instrument was translated into Dutch (PQ) and back-translated by a professional translator. The English version has proven to be reliable and valid <abbrgrp>
+                      <abbr bid="B24">24</abbr>
+                   </abbrgrp>.</p>
+                <p>The second instrument used to measure everyday functioning is the Social and Occupational Functioning Scale (SOFAS) <abbrgrp>
+                      <abbr bid="B25">25</abbr>
+                   </abbrgrp>. The SOFAS is a reliable and valid instrument for measuring social, occupational and interpersonal functioning on a single-item scale (range: 0 to 100) <abbrgrp>
+                      <abbr bid="B26">26</abbr>
+                   </abbrgrp>.</p>
+                <p>Third, engagement in work-related activities is used as an indication of everyday functioning. Engagement in work-related activities is measured in number of partial days a week (a partial day consists of three hours) and is registered daily by the staff.</p>
+                <p>Finally, two observational questionnaires are filled out by a nurse (the CAT case manager in the intervention group; for the intervention group individual nurses are allocated between one and three patients for whom to complete the observational questionnaires). The Social Functioning Scale-other (SFS) <abbrgrp>
+                      <abbr bid="B27">27</abbr>
+                   </abbrgrp> measures functioning in society. It contains seven subscales: (1) social engagement, (2) interpersonal behavior, (3) pro-social activities, (4) recreation, (5) independence-competence, (6) independence-performance and (7) employment and/or occupation. The SFS has good psychometric properties <abbrgrp>
+                      <abbr bid="B27">27</abbr>
+                   </abbrgrp>. The second observational questionnaire is the Life Skills Profile (LSP) <abbrgrp>
+                      <abbr bid="B28">28</abbr>
+                   </abbrgrp>. The LSP is a questionnaire consisting of 39 questions on a four-point scale (lower scores indicate better life skills) and measures a range of aspects related to successful community or hospital living: (1) self-care, (2) non-turbulence, (3) social contact, (4) communication and (5) responsibility. The scale has shown good psychometric properties when completed by case workers and residential staff <abbrgrp>
+                      <abbr bid="B29">29</abbr>
+                   </abbrgrp>.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Quality of life</p>
+                </st>
+                <p>Quality of life is measured with the Short Form Health Survey (SF-12) <abbrgrp>
+                      <abbr bid="B30">30</abbr>
+                   </abbrgrp>. The SF-12 is a self-report questionnaire with 12 items measuring subjective physical, psychological and social well-being. The SF-12 has good psychometric properties for use in SMI populations <abbrgrp>
+                      <abbr bid="B31">31</abbr>
+                   </abbrgrp>.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Empowerment</p>
+                </st>
+                <p>Empowerment is measured by a self-report questionnaire, the Dutch Empowerment Questionnaire ((DEQ) <it>Nederlandse Empowerment vragenLijst</it>) <abbrgrp>
+                      <abbr bid="B32">32</abbr>
+                   </abbrgrp>. Three of the six subscales are used in the current study, namely professional help, self-knowledge and belonging. Items are scored on a five-point scale ranging from one (strongly disagree) to five (strongly agree). The validity and reliability of the DEQ is sufficient <abbrgrp>
+                      <abbr bid="B32">32</abbr>
+                   </abbrgrp>.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Apathy</p>
+                </st>
+                <p>The avolition-apathy subscale of the Scale for the Assessment of Negative Symptoms (SANS) <abbrgrp>
+                      <abbr bid="B33">33</abbr>
+                   </abbrgrp> is administered to measure apathy. The four items of this subscale can be rated from 0 (absent) to four (severe). The SANS is a valid and reliable instrument <abbrgrp>
+                      <abbr bid="B34">34</abbr>
+                   </abbrgrp>.</p>
+                <p>Motivation to engage in activities is assessed using the motivation subscale from the Negative Symptom Assessment, a semi-structured interview (NSA-16) <abbrgrp>
+                      <abbr bid="B35">35</abbr>
+                   </abbrgrp>. The motivation subscale contains four items that can be rated from one (no evidence of this symptom) to six (severe). The validity and reliability of the NSA-16 is good <abbrgrp>
+                      <abbr bid="B36">36</abbr>
+                   </abbrgrp>.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Treatment as usual</p>
+             </st>
+             <p>Although the institutions vary somewhat in the treatments they offer, all patients have access to pharmacotherapy. The range of psychological, psychosocial and non-verbal therapies (such as psycho-education, cognitive behavioral therapy, Liberman training, peer support groups, psychomotor therapy, music therapy, creative arts therapy and sports groups), as well as educational or work projects (such as a framing center, graphic design and copy center, a farmhouse, catering and site and garden maintenance) differs somewhat between locations, which will be accounted for in the analyses. For each patient, treatment is aimed at a combination of therapies and daily activities that best matches the needs, goals and wishes of the patient in order to reach an optimal recovery process. Treatment and progress are evaluated at least once per year.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Cognitive adaptation training: the intervention</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Preparation: training of nurses and cognitive adaptation training specialists</p>
+                </st>
+                <p>To optimize the implementation of CAT and to ensure CAT would be included in the working routine, all nurses in the intervention groups were trained in CAT, though not screened for eligibility. Nurses participate in a didactical group training prior to the recruitment of patients. The training is delivered by the CAT specialists who were trained in CAT by Dr Velligan, the developer of CAT (APMS and JER). Translated PowerPoint presentations and video demonstrations of Dr Velligan serve as the basis of the didactical training, to ensure fidelity to the CAT treatment model. The didactical training includes the theoretical background and principles, assessments, use of the CAT manual, intervention strategies, CAT visits and continuity of the intervention. APMS and JER provided an additional training on assessing the EFA, composing the CAT treatment plan (see below) and continuity of CAT in daily care for the CAT specialists at all intervention locations.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Designing the cognitive adaptation training treatment plan</p>
+                </st>
+                <p>The protocol developed by Dr Velligan and her group (personal communication, A.P.M Stiekema, P.J. Quee) is followed to design the CAT treatment plan, with some minor modifications due to the availability of tests translated into Dutch. The CAT plan and starting point of the intervention is based on: (1) behavior type, (2) level of executive functioning, (3) goals for improving everyday functioning and (4) cognitive strengths and weaknesses that are assessed at T0. Upon completion of this assessment, a CAT specialist summarizes the outcomes of the cognitive assessment and discusses these with the CAT case manager during the first CAT meeting. Based on the wishes and problems reported by the patient during the EFA, the CAT specialist and the CAT case manager discuss the priority of problems and make an initial priority of goals that may be targeted with the intervention. In the next step of the intervention process, the CAT case manager discusses the assessments with the patient during the first CAT visit. The patient is encouraged to formulate their own goal, however if they are unable to do so, the CAT case manager suggests a goal according to the priority of the initial CAT plan. If necessary, the priority on the CAT plan is adapted following the wishes of the patient after the first or subsequent CAT visits.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Implementing the cognitive adaptation training treatment plan</p>
+                </st>
+                <p>Once the CAT treatment plan is formed and discussed with the patient, the CAT specialist and CAT case manager discuss possible interventions using the CAT manual and taking individual characteristics into account. Possible intervention strategies are discussed and set up together with the patient when in any way possible. Intervention strategies are limited to one goal at a time to ensure patients are not faced with more than they can handle. After the first intervention the CAT case manager is responsible for setting up and organizing environmental supports and evaluating the interventions with the patients in their caseload. CAT visits to the patients are planned within the daily routine of the nurses. Based on our pilot study, a duration of CAT visits of approximately 45&#160;minutes a week per patient in total (time may be divided over a number of CAT visits) is deemed to be sufficient. In addition, the CAT case manager makes a record of the CAT visits in the patient file, based upon four questions: what interventions worked, what interventions did not work, what changes are made in the intervention strategies and what issues need to be kept in mind.</p>
+                <p>During the implementation phase (one to two months), the CAT specialist and CAT case manager plan CAT discussion meetings at least once a month. The nursing team as a whole is informed of, and responsible for, and supports the daily use of the interventions of all patients (for example, checking and reporting on whether a recorded message leads to the targeted behavior, or changing a weekly checklist). In the securing phase (up to 12&#160;months), CAT group meetings are incorporated into regular staff meetings for at least another six months, to stimulate the exchange of knowledge and interventions between nurses. Finally, after the securing phase (after 12&#160;months), a CAT focus group including the researchers and clinicians (APM, JER and LM) and a delegation of nurses, will determine the form and frequency of CAT meetings in the follow-up phase (12 to 48&#160;months).</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Statistical analysis plan</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Primary and secondary outcomes</p>
+                </st>
+                <p>Mean differences in the outcomes between the intervention and control group will be investigated by applying a marginal linear mixed model (modeling mean scores for both groups) using restricted maximum likelihood estimation to the outcomes at each time point after baseline. The analyses are corrected for baseline scores to eliminate the effect of possible (average) differences between the intervention and control group at baseline. The treatment effect is essentially estimated for each time point by subtracting the estimated mean scores of the control group from the estimated mean scores of the intervention group, reflecting the estimated mean difference between the groups over time.</p>
+                <p>Sub-analyses will be performed to evaluate individual improvement in everyday functioning. To this end, we will specifically evaluate only those items of the MCAS, SFS and LSP that measure the domain(s) that are recorded as goals in the CAT treatment plan. That is, we will evaluate whether patients have indeed improved on the activities they have been working on with CAT, and for which individually tailored interventions were set up. Sum scores of items of the LSP, and SFS reflecting a certain goal will be computed. Differences in these sum scores over time will reflect whether patients&#8217; performance on these domains have improved, did not change or have deteriorated. Generalized linear models will be used to determine whether there is a statistically significant proportion of improvement target behaviors compared to no change or deterioration.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Economic evaluation</p>
+                </st>
+                <p>An economic evaluation will be conducted alongside the clinical study to assess the balance between costs and health outcomes of CAT&#8201;+&#8201;TAU compared to TAU.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Healthcare consumption and costs</p>
+                </st>
+                <p>This study is conducted from a healthcare perspective, since costs within the healthcare system are most relevant for the current study population. Medical costs that will be assessed include costs of the interventions (costs of personnel, materials and housing), inpatient care and medication use. In order to calculate costs, Dutch standard prices for each cost unit <abbrgrp>
+                      <abbr bid="B37">37</abbr>
+                   </abbrgrp> are combined with information on healthcare consumption. Healthcare consumption will be prospectively registered for all the included patients by means of a detailed questionnaire adapted to the context of the current study. This questionnaire is completed by each CAT case manager at baseline and at three, six, nine and 12&#160;months for both groups and at 15, 18, 21 and 24&#160;months for the intervention group.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Cost-effectiveness and cost-utility analysis</p>
+                </st>
+                <p>The primary outcome measure of the planned cost-effectiveness analysis (CEA) is the MCAS. Results of the CEA are expressed in terms of incremental costs per point change in MCAS score. Furthermore, a cost-utility analysis will be conducted with quality adjusted life years (QALY) as the primary outcome measure. In order to estimate QALYs, utility scores are derived from the SF-12 <abbrgrp>
+                      <abbr bid="B38">38</abbr>
+                   </abbrgrp>. The uncertainty surrounding the cost-effectiveness and cost-utility ratios will be estimated by bootstrap analyses. In addition, cost-effectiveness acceptability curves will be used to inform decision-makers on the probability that CAT is cost-effective.</p>
+             </sec>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Discussion</p>
+          </st>
+          <p>In SMI care, especially in the chronic stage of the disease, there is a necessity for practical hands-on interventions that target the functional impairments resulting from cognitive deficits in such a way that functional improvements are made, and can also be sustained after a study period. Primarily the latter aspect made us choose an intervention that can be applied by those healthcare professionals who support patients in their daily routine, namely psychiatric nurses. The current, multicenter, cluster randomized controlled trial meets with these needs by assessing the efficacy of CAT as a nursing intervention on everyday functioning in residential patients with SMI. We hypothesize that CAT as a nursing intervention leads to improvements in everyday functioning (primary outcome) and apathy, and thereby in quality of life and empowerment (secondary outcomes).</p>
+          <p>A strength of this study is that patients are recruited from multiple psychiatric institutions spread across the Netherlands, increasing representativeness and thus increasing generalizability. An additional strength is that it addresses the long-term effects of the intervention (up to two years). The length of the study takes into account that rehabilitation in long-term residential patients is a slow process <abbrgrp>
+                <abbr bid="B39">39</abbr>
+             </abbrgrp>. Furthermore, by following up on everyday functioning for up to two years (one year after completion of the study), we will evaluate whether CAT has been successfully incorporated in the working routine of nurses. This is important because the nurses will have to provide ongoing support to sustain improvements. Another strength is that the outcomes of everyday functioning are not solely based on self-reports, but are also assessed by the number of work-related activities per week, and by observational questionnaires that are filled out by the CAT case manager. As such, we use various measures to substantiate our impression of the level of everyday functioning of the patients. Furthermore, this approach allows us to collect data even if the patient misses an assessment. Finally, because of our choice not to hold common eligibility criteria, for example with regard to diagnosis or (prior) comorbid psychiatric or somatic disorders, our results will be better generalizable to the whole SMI population, instead of only pertaining to schizophrenia patients. This is important since it increases the clinical importance and external validity of our findings.</p>
+          <p>Possible weaknesses of the study are the lack of measurements focusing on the nurses who carry out the intervention. Motivation, self-efficacy and empowerment of the nurses may mediate the effect of the intervention, but an absence of appropriate instruments in this regard leaves us unable to take these aspects into account. Moreover, there are few instruments that are specifically designed for measuring everyday functioning of patients residing in long-stay clinical facilities, whose problems and needs may differ from patients living in the community. Finding a suitable instrument is further complicated by the fact that areas for interventions are individually determined and therefore differ for each patient. Due to the global nature of the measures of everyday functioning, our instruments may not be sensitive enough to assess improvements because CAT aims to improve one or two areas of functioning at a time. For this reason, we included the additional sub-analyses in the statistical analysis plan that specifically evaluate improvements in targeted domains (as described in the statistical analysis section).</p>
+          <p>If evidence yields support for CAT, this may fulfill a need for a hands-on intervention that can contribute to the functional recovery of patients living in long-stay clinical facilities.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Trial status</p>
+          </st>
+          <p>Recruitment is currently ongoing. Patient enrollment started in September 2013 and will continue until 100 patients are included in the study.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Abbreviations</p>
+          </st>
+          <p>CAT: Cognitive adaptation training</p>
+          <p>CONSORT: Consolidated standards of reporting trials</p>
+          <p>DEQ: Dutch empowerment questionnaire</p>
+          <p>EFA: Environmental and functional assessment</p>
+          <p>FrSBe: Frontal systems behavior scale</p>
+          <p>LSP: Life skills profile</p>
+          <p>MCAS: Multnomah community ability scale</p>
+          <p>MCST: Modified card sorting test</p>
+          <p>NSA: Negative symptom assessment</p>
+          <p>PANSS: The positive and negative syndrome scale</p>
+          <p>QALY: Quality adjusted life years</p>
+          <p>SANS: Scale for the assessment of negative symptoms</p>
+          <p>SF-12: Short form health survey</p>
+          <p>SFS: Social functioning scale</p>
+          <p>SMI: Severe mental illness</p>
+          <p>SOFAS: Social and occupational functioning scale</p>
+          <p>TAU: Treatment as usual</p>
+          <p>WAIS-IV: Wechsler adult intelligence scale IV</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Competing interests</p>
+          </st>
+          <p>The authors declare that they have no competing interests.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Authors&#8217; contributions</p>
+          </st>
+          <p>LvdM obtained funding for this study. All authors (APMS, PJQ, MD, EvdH, JER, KR, ADS, MS, JvW, AA, DIV, RAS, RB and LvdM) participated in the design of the study and measurement procedures of patients. APMS and JER have undertaken the intervention (training of nurses and CAT specialists and CAT meetings with the nurses at Lentis). APMS wrote the first draft of the protocol, which was then revised and optimized by LvdM, MS, and RB. All authors (APMS, PJQ, MD, EvdH, JER, KR, ADS, MS, JvW, AA, DIV, RAS, RB and LvdM) read and revised the first draft of this article and read and approved the final manuscript.</p>
+       </sec>
+    </bdy>
+    <bm>
+       <ack>
+          <sec>
+             <st>
+                <p>Acknowledgements</p>
+             </st>
+             <p>This study is receiving funding from NutsOhra (grant number: 1303&#8211;041). The authors wish to thank Dr Sean Kidd for his advice regarding the training of the nursing staff.</p>
+          </sec>
+       </ack>
+       <refgrp>
+          
+          <bibl id="B1">
+             <title>
+                <p>Consensus over de definitie van mensen met een ernstige psychische aandoening (epa) en hun aantal in Nederland</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Delespaul</snm>
+                   <fnm>PH</fnm>
+                </au>
+                <au>
+                   <snm>de Consensusgroep</snm>
+                   <fnm>EPA</fnm>
+                </au>
+             </aug>
+             <source>Tijdschr Psychiatr</source>
+             <pubdate>2013</pubdate>
+             <volume>55</volume>
+             <fpage>427</fpage>
+             <lpage>38</lpage>
+             <note> Dutch</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">23864410</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B2">
+             <title>
+                <p>Langverblijvers in de psychiatrie. Een epidemiologische beschouwing over hun omvang en samenstelling</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Wiersma</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Pijl</snm>
+                   <fnm>YJ</fnm>
+                </au>
+             </aug>
+             <source>Tijdschr Voor Rehabil</source>
+             <pubdate>2008</pubdate>
+             <volume>3</volume>
+             <fpage>4</fpage>
+             <lpage>12</lpage>
+             <note> Dutch</note>
+          </bibl>
+          <bibl id="B3">
+             <title>
+                <p>Cognitive functioning predicts outpatient service utilization in schizophrenia</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>McGurk</snm>
+                   <fnm>SR</fnm>
+                </au>
+                <au>
+                   <snm>Mueser</snm>
+                   <fnm>KT</fnm>
+                </au>
+                <au>
+                   <snm>Walling</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Harvey</snm>
+                   <fnm>PD</fnm>
+                </au>
+                <au>
+                   <snm>Meltzer</snm>
+                   <fnm>HY</fnm>
+                </au>
+             </aug>
+             <source>Ment Health Serv Res</source>
+             <pubdate>2004</pubdate>
+             <volume>6</volume>
+             <fpage>185</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1023/B:MHSR.0000036491.58918.71</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15473104</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B4">
+             <title>
+                <p>The relationship between neurocognition and social cognition with functional outcomes in schizophrenia: a meta-analysis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Fett</snm>
+                   <fnm>A-KJ</fnm>
+                </au>
+                <au>
+                   <snm>Viechtbauer</snm>
+                   <fnm>W</fnm>
+                </au>
+                <au>
+                   <snm>Dominguez</snm>
+                   <fnm>M-G</fnm>
+                </au>
+                <au>
+                   <snm>Penn</snm>
+                   <fnm>DL</fnm>
+                </au>
+                <au>
+                   <snm>van Os</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Krabbendam</snm>
+                   <fnm>L</fnm>
+                </au>
+             </aug>
+             <source>Neurosci Biobehav Rev</source>
+             <pubdate>2011</pubdate>
+             <volume>35</volume>
+             <fpage>573</fpage>
+             <lpage>88</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.neubiorev.2010.07.001</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20620163</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B5">
+             <title>
+                <p>A meta-analysis of cognitive remediation for schizophrenia: methodology and effect sizes</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Wykes</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Huddy</snm>
+                   <fnm>V</fnm>
+                </au>
+                <au>
+                   <snm>Cellard</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Mcgurk</snm>
+                   <fnm>SR</fnm>
+                </au>
+                <au>
+                   <snm>Czobor</snm>
+                   <fnm>P</fnm>
+                </au>
+             </aug>
+             <source>Am J Psychiatry</source>
+             <pubdate>2011</pubdate>
+             <volume>168</volume>
+             <fpage>472</fpage>
+             <lpage>85</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1176/appi.ajp.2010.10060855</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21406461</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B6">
+             <title>
+                <p>Does cognitive remediation for schizophrenia improve functional outcomes?</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Medalia</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Saperstein</snm>
+                   <fnm>AM</fnm>
+                </au>
+             </aug>
+             <source>Curr Opin Psychiatry</source>
+             <pubdate>2013</pubdate>
+             <volume>26</volume>
+             <fpage>151</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/YCO.0b013e32835dcbd4</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23318663</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B7">
+             <title>
+                <p>A randomized single-blind pilot study of compensatory strategies in schizophrenia outpatients</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Velligan</snm>
+                   <fnm>DI</fnm>
+                </au>
+                <au>
+                   <snm>Prihoda</snm>
+                   <fnm>TJ</fnm>
+                </au>
+                <au>
+                   <snm>Ritch</snm>
+                   <fnm>JL</fnm>
+                </au>
+                <au>
+                   <snm>Maples</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Bow-Thomas</snm>
+                   <fnm>CC</fnm>
+                </au>
+                <au>
+                   <snm>Dassori</snm>
+                   <fnm>A</fnm>
+                </au>
+             </aug>
+             <source>Schizophr Bull</source>
+             <pubdate>2002</pubdate>
+             <volume>28</volume>
+             <fpage>283</fpage>
+             <lpage>92</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/oxfordjournals.schbul.a006938</pubid>
+                   <pubid idtype="pmpid" link="fulltext">12693434</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B8">
+             <title>
+                <p>Randomized controlled trial of the use of compensatory strategies to enhance adaptive functioning in outpatients with schizophrenia</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Velligan</snm>
+                   <fnm>DI</fnm>
+                </au>
+                <au>
+                   <snm>Bow-thomas</snm>
+                   <fnm>CC</fnm>
+                </au>
+                <au>
+                   <snm>Huntzinger</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Ritch</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Ledbetter</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Prihoda</snm>
+                   <fnm>TJ</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Am J Psychiatry</source>
+             <pubdate>2000</pubdate>
+             <volume>157</volume>
+             <fpage>1317</fpage>
+             <lpage>23</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1176/appi.ajp.157.8.1317</pubid>
+                   <pubid idtype="pmpid" link="fulltext">10910797</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B9">
+             <title>
+                <p>Comparing the efficacy of interventions that use environmental supports to improve outcomes in patients with schizophrenia</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Velligan</snm>
+                   <fnm>DI</fnm>
+                </au>
+                <au>
+                   <snm>Diamond</snm>
+                   <fnm>PM</fnm>
+                </au>
+                <au>
+                   <snm>Maples</snm>
+                   <fnm>NJ</fnm>
+                </au>
+                <au>
+                   <snm>Mintz</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Li</snm>
+                   <fnm>X</fnm>
+                </au>
+                <au>
+                   <snm>Glahn</snm>
+                   <fnm>DC</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Schizophr Res</source>
+             <pubdate>2008</pubdate>
+             <volume>102</volume>
+             <fpage>312</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.schres.2008.02.005</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18374542</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B10">
+             <aug>
+                <au>
+                   <snm>Velligan</snm>
+                   <fnm>DI</fnm>
+                </au>
+                <au>
+                   <snm>Maples</snm>
+                   <fnm>NJ</fnm>
+                </au>
+                <au>
+                   <snm>Ritch</snm>
+                   <fnm>JL</fnm>
+                </au>
+             </aug>
+             <source>Cognitive adaptation training: the use of compensatory strategies in the psychosocial rehabilitation of patients with schizophrenia (Manual)</source>
+             <publisher>University of Texas Health Science Center San Antonio, Department of Psychiatry, San Antonio, TX</publisher>
+             <pubdate>2010</pubdate>
+          </bibl>
+          <bibl id="B11">
+             <title>
+                <p>The use of individually tailored environmental supports to improve medication adherence and outcomes in schizophrenia</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Velligan</snm>
+                   <fnm>DI</fnm>
+                </au>
+                <au>
+                   <snm>Diamond</snm>
+                   <fnm>PM</fnm>
+                </au>
+                <au>
+                   <snm>Mintz</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Maples</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Li</snm>
+                   <fnm>X</fnm>
+                </au>
+                <au>
+                   <snm>Zeber</snm>
+                   <fnm>J</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Schizophr Bull</source>
+             <pubdate>2008</pubdate>
+             <volume>34</volume>
+             <fpage>483</fpage>
+             <lpage>93</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/schbul/sbm111</pubid>
+                   <pubid idtype="pmpid" link="fulltext">17932089</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B12">
+             <title>
+                <p>Improving functional outcomes for schizophrenia patients in the Netherlands using Cognitive Adaptation Training as a nursing intervention - A pilot study</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Quee</snm>
+                   <fnm>PJ</fnm>
+                </au>
+                <au>
+                   <snm>Stiekema</snm>
+                   <fnm>APM</fnm>
+                </au>
+                <au>
+                   <snm>Wigman</snm>
+                   <fnm>JTW</fnm>
+                </au>
+                <au>
+                   <snm>Schneider</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>van der Meer</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Maples</snm>
+                   <fnm>NJ</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Schizophr Res</source>
+             <pubdate>2014</pubdate>
+             <volume>158</volume>
+             <fpage>120</fpage>
+             <lpage>5</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.schres.2014.06.020</pubid>
+                   <pubid idtype="pmpid" link="fulltext">25000912</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B13">
+             <title>
+                <p>Testing a modification of cognitive adaptation training: streamlining the model for broader implementation</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kidd</snm>
+                   <fnm>SA</fnm>
+                </au>
+                <au>
+                   <snm>Herman</snm>
+                   <fnm>Y</fnm>
+                </au>
+                <au>
+                   <snm>Barbic</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Ganguli</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>George</snm>
+                   <fnm>TP</fnm>
+                </au>
+                <au>
+                   <snm>Hassan</snm>
+                   <fnm>S</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Schizophr Res</source>
+             <pubdate>2014</pubdate>
+             <volume>156</volume>
+             <fpage>46</fpage>
+             <lpage>50</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.schres.2014.03.026</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24794880</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B14">
+             <title>
+                <p>Cognitive dysfunction in psychiatric disorders: characteristics, causes and the quest for improved therapy</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Millan</snm>
+                   <fnm>MJ</fnm>
+                </au>
+                <au>
+                   <snm>Agid</snm>
+                   <fnm>Y</fnm>
+                </au>
+                <au>
+                   <snm>Br&#252;ne</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Bullmore</snm>
+                   <fnm>ET</fnm>
+                </au>
+                <au>
+                   <snm>Carter</snm>
+                   <fnm>CS</fnm>
+                </au>
+                <au>
+                   <snm>Clayton</snm>
+                   <fnm>NS</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Nat Rev Drug Discov</source>
+             <pubdate>2012</pubdate>
+             <volume>11</volume>
+             <fpage>141</fpage>
+             <lpage>68</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1038/nrd3628</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22293568</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B15">
+             <title>
+                <p>Consort 2010 statement: extension to cluster randomised trials</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Campbell</snm>
+                   <fnm>MK</fnm>
+                </au>
+                <au>
+                   <snm>Piaggio</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Elbourne</snm>
+                   <fnm>DR</fnm>
+                </au>
+                <au>
+                   <snm>Altman</snm>
+                   <fnm>DG</fnm>
+                </au>
+             </aug>
+             <source>BMJ</source>
+             <pubdate>2012</pubdate>
+             <volume>345</volume>
+             <fpage>e5661</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/bmj.e5661</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22951546</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B16">
+             <title>
+                <p>a. The positive and negative syndrome scale (PANSS) for schizophrenia</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kay</snm>
+                   <fnm>SR</fnm>
+                </au>
+                <au>
+                   <snm>Fiszbein</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Opler</snm>
+                   <fnm>L</fnm>
+                </au>
+             </aug>
+             <source>Schizophr Bull</source>
+             <pubdate>1987</pubdate>
+             <volume>13</volume>
+             <fpage>261</fpage>
+             <lpage>76</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/schbul/13.2.261</pubid>
+                   <pubid idtype="pmpid" link="fulltext">3616518</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B17">
+             <title>
+                <p>Factor analysis of the frontal systems behavior scale (FrSBe)</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Stout</snm>
+                   <fnm>JC</fnm>
+                </au>
+                <au>
+                   <snm>Ready</snm>
+                   <fnm>RE</fnm>
+                </au>
+                <au>
+                   <snm>Grace</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Malloy</snm>
+                   <fnm>PF</fnm>
+                </au>
+                <au>
+                   <snm>Paulsen</snm>
+                   <fnm>JS</fnm>
+                </au>
+             </aug>
+             <source>Assessment</source>
+             <pubdate>2003</pubdate>
+             <volume>10</volume>
+             <fpage>79</fpage>
+             <lpage>85</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1177/1073191102250339</pubid>
+                   <pubid idtype="pmpid" link="fulltext">12675387</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B18">
+             <title>
+                <p>A modified card sorting test sensitive to frontal lobe defects</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Nelson</snm>
+                   <fnm>HE</fnm>
+                </au>
+             </aug>
+             <source>Cortex</source>
+             <pubdate>1976</pubdate>
+             <volume>12</volume>
+             <fpage>313</fpage>
+             <lpage>24</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0010-9452(76)80035-4</pubid>
+                   <pubid idtype="pmpid" link="fulltext">1009768</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B19">
+             <title>
+                <p>Letter fluency: Psychometrische eigenschappen en Nederlandse normen</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Schmand</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Groening</snm>
+                   <fnm>SC</fnm>
+                </au>
+                <au>
+                   <snm>van den Dungen</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>Tijdschr Gerontol Geriatr</source>
+             <pubdate>2008</pubdate>
+             <volume>39</volume>
+             <fpage>65</fpage>
+             <lpage>77</lpage>
+             <note> Dutch</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1007/BF03078128</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B20">
+             <aug>
+                <au>
+                   <snm>Wechsler</snm>
+                   <fnm>D</fnm>
+                </au>
+             </aug>
+             <source>Wechsler adult intelligence scale&#8211;fourth edition (WAIS&#8211;IV)</source>
+             <publisher>NCS Pearson, San Antonio, TX</publisher>
+             <pubdate>2008</pubdate>
+          </bibl>
+          <bibl id="B21">
+             <title>
+                <p>Neuro-psychologische diagnostiek Handb</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Saan</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Deelman</snm>
+                   <fnm>B</fnm>
+                </au>
+             </aug>
+             <publisher>Swets &amp; Zeitlinger Publishers, Lisse</publisher>
+             <editor>Bauma A, Mulder J, Lindeboom J</editor>
+             <pubdate>1986</pubdate>
+             <fpage>13</fpage>
+             <lpage>28</lpage>
+             <note>Dutch</note>
+          </bibl>
+          <bibl id="B22">
+             <title>
+                <p>An expanded version of the Multnomah Community Ability Scale: anchors and interview probes for the assessment of adults with serious mental illness</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Dickerson</snm>
+                   <fnm>FB</fnm>
+                </au>
+                <au>
+                   <snm>Origoni</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Pater</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Friedman</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Kordonski</snm>
+                   <fnm>W</fnm>
+                </au>
+             </aug>
+             <source>Community Ment Health J</source>
+             <pubdate>2003</pubdate>
+             <volume>39</volume>
+             <fpage>131</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1023/A:1022610620391</pubid>
+                   <pubid idtype="pmpid" link="fulltext">12723847</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B23">
+             <title>
+                <p>Assessing everyday functioning in schizophrenia: not all informants seem equally informative</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Sabbag</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Twamley</snm>
+                   <fnm>EM</fnm>
+                </au>
+                <au>
+                   <snm>Vella</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Heaton</snm>
+                   <fnm>RK</fnm>
+                </au>
+                <au>
+                   <snm>Patterson</snm>
+                   <fnm>TL</fnm>
+                </au>
+                <au>
+                   <snm>Harvey</snm>
+                   <fnm>PD</fnm>
+                </au>
+             </aug>
+             <source>Schizophr Res</source>
+             <pubdate>2011</pubdate>
+             <volume>131</volume>
+             <fpage>250</fpage>
+             <lpage>5</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.schres.2011.05.003</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21620682</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B24">
+             <title>
+                <p>A community ability scale for chronically mentally ill consumers: part I. Reliability and validity</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Barker</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Barron</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>McFarland</snm>
+                   <fnm>BH</fnm>
+                </au>
+                <au>
+                   <snm>Bigelow</snm>
+                   <fnm>DA</fnm>
+                </au>
+             </aug>
+             <source>Community Ment Health J</source>
+             <pubdate>1994</pubdate>
+             <volume>30</volume>
+             <fpage>363</fpage>
+             <lpage>83</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1007/BF02207489</pubid>
+                   <pubid idtype="pmpid" link="fulltext">7956112</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B25">
+             <insg>
+                <ins>
+                   <p>American Psychiatric Association</p>
+                </ins>
+             </insg>
+             <source>Diagnostic and statistical manual of mental health disorders</source>
+             <publisher>Author, Washington DC</publisher>
+             <edition>4</edition>
+             <pubdate>1994</pubdate>
+          </bibl>
+          <bibl id="B26">
+             <title>
+                <p>Reliability and validity of DSM-IV axis V</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hilsenroth</snm>
+                   <fnm>MJ</fnm>
+                </au>
+                <au>
+                   <snm>Ackerman</snm>
+                   <fnm>SJ</fnm>
+                </au>
+                <au>
+                   <snm>Blagys</snm>
+                   <fnm>MD</fnm>
+                </au>
+                <au>
+                   <snm>Baumann</snm>
+                   <fnm>BD</fnm>
+                </au>
+                <au>
+                   <snm>Baity</snm>
+                   <fnm>MR</fnm>
+                </au>
+                <au>
+                   <snm>Smith</snm>
+                   <fnm>SR</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Am J Psychiatry</source>
+             <pubdate>2000</pubdate>
+             <volume>157</volume>
+             <fpage>1858</fpage>
+             <lpage>63</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1176/appi.ajp.157.11.1858</pubid>
+                   <pubid idtype="pmpid" link="fulltext">11058486</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B27">
+             <title>
+                <p>The social functioning scale. The development and validation of a new scale of social adjustment for use in family intervention programmes with schizophrenic patients</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Birchwood</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Smith</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Cochrane</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Wetton</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Copestake</snm>
+                   <fnm>S</fnm>
+                </au>
+             </aug>
+             <source>Br J Psychiatry</source>
+             <pubdate>1990</pubdate>
+             <volume>157</volume>
+             <fpage>853</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1192/bjp.157.6.853</pubid>
+                   <pubid idtype="pmpid" link="fulltext">2289094</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B28">
+             <title>
+                <p>The life skills profile</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Rosen</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Hadzi-Pavlov</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Parker</snm>
+                   <fnm>G</fnm>
+                </au>
+             </aug>
+             <source>Schizophr Bull</source>
+             <pubdate>1989</pubdate>
+             <volume>15</volume>
+             <fpage>325</fpage>
+             <lpage>37</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/schbul/15.2.325</pubid>
+                   <pubid idtype="pmpid" link="fulltext">2749191</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B29">
+             <title>
+                <p>The Life Skills Profile: psychometric properties of a measure assessing function and disability in schizophrenia</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Parker</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Rosen</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Emdur</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Hadzi-Pavlov</snm>
+                   <fnm>D</fnm>
+                </au>
+             </aug>
+             <source>Acta Psychiatr Scand</source>
+             <pubdate>1991</pubdate>
+             <volume>83</volume>
+             <fpage>145</fpage>
+             <lpage>52</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1600-0447.1991.tb07381.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">2017913</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B30">
+             <aug>
+                <au>
+                   <snm>Ware</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Kosinski</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Keller</snm>
+                   <fnm>S</fnm>
+                </au>
+             </aug>
+             <source>SF-12: How to score the SF-12 physical and mental health summary scales</source>
+             <publisher>The Health Institute, Boston</publisher>
+             <pubdate>1995</pubdate>
+          </bibl>
+          <bibl id="B31">
+             <title>
+                <p>Reliability and validity of the SF-12 health survey among people with severe mental illness</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Salyers</snm>
+                   <fnm>MP</fnm>
+                </au>
+                <au>
+                   <snm>Bosworth</snm>
+                   <fnm>HB</fnm>
+                </au>
+                <au>
+                   <snm>Swanson</snm>
+                   <fnm>JW</fnm>
+                </au>
+                <au>
+                   <snm>Lamb-Pagone</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Osher</snm>
+                   <fnm>FC</fnm>
+                </au>
+             </aug>
+             <source>Med Care</source>
+             <pubdate>2000</pubdate>
+             <volume>38</volume>
+             <fpage>1141</fpage>
+             <lpage>50</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/00005650-200011000-00008</pubid>
+                   <pubid idtype="pmpid" link="fulltext">11078054</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B32">
+             <aug>
+                <au>
+                   <snm>Boevink</snm>
+                   <fnm>W</fnm>
+                </au>
+                <au>
+                   <snm>Kroon</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Giesen</snm>
+                   <fnm>F</fnm>
+                </au>
+             </aug>
+             <source>De Nederlandse empowerment vragenlijst</source>
+             <publisher>Trimbos-instituut, Utrecht, The Netherlands</publisher>
+             <pubdate>2008</pubdate>
+          </bibl>
+          <bibl id="B33">
+             <aug>
+                <au>
+                   <snm>Andreasen</snm>
+                   <fnm>NC</fnm>
+                </au>
+             </aug>
+             <source>Scale for the assessment of negative symptoms (SANS)</source>
+             <publisher>University of Iowa, Iowa City</publisher>
+             <pubdate>1983</pubdate>
+          </bibl>
+          <bibl id="B34">
+             <title>
+                <p>Assessment of negative symptoms and depression in schizophrenia: revision of the SANS and how it relates to the PANSS and CDSS</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Rabany</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Weiser</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Werbeloff</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Levkovitz</snm>
+                   <fnm>Y</fnm>
+                </au>
+             </aug>
+             <source>Schizophr Res</source>
+             <pubdate>2011</pubdate>
+             <volume>126</volume>
+             <fpage>226</fpage>
+             <lpage>30</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.schres.2010.09.023</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21115328</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B35">
+             <title>
+                <p>The negative symptom assessment: a new instrument to assess negative symptoms of schizophrenia</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Alphs</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Summerfelt</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Lann</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Muller</snm>
+                   <fnm>HJ</fnm>
+                </au>
+             </aug>
+             <source>Psychopharmacol Bull</source>
+             <pubdate>1989</pubdate>
+             <volume>25</volume>
+             <fpage>159</fpage>
+             <lpage>63</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">2602512</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B36">
+             <title>
+                <p>Validation of the 16-item negative symptom assessment</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Axelrod</snm>
+                   <fnm>BN</fnm>
+                </au>
+                <au>
+                   <snm>Goldman</snm>
+                   <fnm>RS</fnm>
+                </au>
+                <au>
+                   <snm>Alphs</snm>
+                   <fnm>LD</fnm>
+                </au>
+             </aug>
+             <source>J Psychiatr Res</source>
+             <pubdate>1993</pubdate>
+             <volume>27</volume>
+             <fpage>253</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/0022-3956(93)90036-2</pubid>
+                   <pubid idtype="pmpid" link="fulltext">7905033</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B37">
+             <aug>
+                <au>
+                   <snm>Hakkaart-van Roijen</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Tan</snm>
+                   <fnm>SS</fnm>
+                </au>
+                <au>
+                   <snm>Bouwmans</snm>
+                   <fnm>CAM</fnm>
+                </au>
+             </aug>
+             <source>Manual for cost studies, methods and standard prices for economic Evaluation in Healthcare (In Dutch)</source>
+             <publisher>Healthcare Insurance Council, Amstelveen</publisher>
+             <pubdate>2010</pubdate>
+          </bibl>
+          <bibl id="B38">
+             <title>
+                <p>The estimation of a preference-based index from the SF-12</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Brazier</snm>
+                   <fnm>JE</fnm>
+                </au>
+                <au>
+                   <snm>Roberts</snm>
+                   <fnm>JR</fnm>
+                </au>
+             </aug>
+             <source>Med Care</source>
+             <pubdate>2004</pubdate>
+             <volume>42</volume>
+             <fpage>851</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/01.mlr.0000135827.18610.0d</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15319610</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B39">
+             <aug>
+                <au>
+                   <snm>Onken</snm>
+                   <fnm>SJ</fnm>
+                </au>
+                <au>
+                   <snm>Dumont</snm>
+                   <fnm>JM</fnm>
+                </au>
+                <au>
+                   <snm>Ridgway</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Dornan</snm>
+                   <fnm>DH</fnm>
+                </au>
+                <au>
+                   <snm>Ralph</snm>
+                   <fnm>RO</fnm>
+                </au>
+             </aug>
+             <source>Mental health recovery: what helps and what hinders? A national research project for the development of recovery facilitating system performance indicators</source>
+             <publisher>National Association of State Mental Health Program Directors and the National Technical Assistance Center for State Mental Health Planning, Alexandria (VA)</publisher>
+             <pubdate>2002</pubdate>
+          </bibl>
+       </refgrp>
+    </bm>
+ </art>

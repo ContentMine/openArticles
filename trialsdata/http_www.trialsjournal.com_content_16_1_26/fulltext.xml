@@ -1,0 +1,2271 @@
+<?xml version='1.0'?>
+<!DOCTYPE art SYSTEM 'http://www.biomedcentral.com/xml/article.dtd'>
+<art>
+    <ui>s13063-014-0543-7</ui>
+    <ji>1745-6215</ji>
+    <fm>
+       <dochead>Study protocol</dochead>
+       <bibl>
+          <title>
+             <p>A phase II trial for the efficacy of physiotherapy intervention for early-onset hip osteoarthritis: study protocol for a randomised controlled trial</p>
+          </title>
+          <aug>
+             <au id="A1" ca="yes">
+                <snm>Kemp</snm>
+                <mi>L</mi>
+                <fnm>Joanne</fnm>
+                <insr iid="I1"/>
+                <insr iid="I2"/>
+                <email>jkemp@federation.edu.au</email>
+             </au>
+             <au id="A2">
+                <snm>Moore</snm>
+                <fnm>Kate</fnm>
+                <insr iid="I2"/>
+                <email>katemoore@bodysystem.com.au</email>
+             </au>
+             <au id="A3">
+                <snm>Fransen</snm>
+                <fnm>Marlene</fnm>
+                <insr iid="I3"/>
+                <email>marlene.fransen@sydney.edu.au</email>
+             </au>
+             <au id="A4">
+                <snm>Russell</snm>
+                <mi>G</mi>
+                <fnm>Trevor</fnm>
+                <insr iid="I4"/>
+                <email>t.russell1@uq.edu.au</email>
+             </au>
+             <au id="A5">
+                <snm>Crossley</snm>
+                <mi>M</mi>
+                <fnm>Kay</fnm>
+                <insr iid="I4"/>
+                <email>k.crossley@uq.edu.au</email>
+             </au>
+          </aug>
+          <insg>
+             <ins id="I1">
+                <p>Australian Centre for Research into Injury in Sport and its Prevention (ACRISP), Federation University Australia, Ballarat 3350, VIC, Australia</p>
+             </ins>
+             <ins id="I2">
+                <p>Bodysystem Physiotherapy, 38 Collins St, Hobart 7000, TAS, Australia</p>
+             </ins>
+             <ins id="I3">
+                <p>School of Physiotherapy, University of Sydney, 75 East St, Lidcombe, Sydney 2141, NSW, Australia</p>
+             </ins>
+             <ins id="I4">
+                <p>School of Health and Rehabilitation Sciences, University of Queensland, St Lucia, Brisbane 4067, QLD, Australia</p>
+             </ins>
+          </insg>
+          <source>Trials</source>
+          <issn>1745-6215</issn>
+          <pubdate>2015</pubdate>
+          <volume>16</volume>
+          <issue>1</issue>
+          <fpage>26</fpage>
+          <url>http://www.trialsjournal.com/content/16/1/26</url>
+          <xrefbib>
+             <pubidlist>
+                <pubid idtype="doi">10.1186/s13063-014-0543-7</pubid>
+             </pubidlist>
+          </xrefbib>
+       </bibl>
+       <history>
+          <rec>
+             <date>
+                <day>21</day>
+                <month>8</month>
+                <year>2014</year>
+             </date>
+          </rec>
+          <acc>
+             <date>
+                <day>23</day>
+                <month>12</month>
+                <year>2014</year>
+             </date>
+          </acc>
+          <pub>
+             <date>
+                <day>27</day>
+                <month>1</month>
+                <year>2015</year>
+             </date>
+          </pub>
+       </history>
+       <cpyrt>
+          <year>2015</year>
+          <collab>Kemp et al.; licensee BioMed Central.</collab>
+          <note>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/4.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (<url>http://creativecommons.org/publicdomain/zero/1.0/</url>) applies to the data made available in this article, unless otherwise stated.</note>
+       </cpyrt>
+       <kwdg>
+          <kwd>Osteoarthritis</kwd>
+          <kwd>Hip joint</kwd>
+          <kwd>Hip arthroscopy</kwd>
+          <kwd>Randomised controlled trial</kwd>
+          <kwd>Physiotherapy</kwd>
+       </kwdg>
+       <abs>
+          <sec>
+             <st>
+                <p>Abstract</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Background</p>
+                </st>
+                <p>Early-onset hip osteoarthritis is commonly seen in people undergoing hip arthroscopy and is associated with increased pain, reduced ability to participate in physical activity, reduced quality of life and reduced range of motion and muscle strength. Despite this, the efficacy of non-surgical interventions such as exercise therapies remains unknown. The primary aim is to establish the feasibility of a phase III randomised controlled trial investigating a targeted physiotherapy intervention for people with early-onset hip osteoarthritis. The secondary aims are to determine the size of treatment effects of a physiotherapy intervention, targeted to improve hip joint range and hip-related symptoms in early-onset hip osteoarthritis following hip arthroscopy, compared to a health-education control.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Methods</p>
+                </st>
+                <p>This protocol describes a randomised, assessor- and participant-blind, controlled clinical trial. We will include 20 participants who are (i) aged between 18 and 50&#160;years; (ii) have undergone hip arthroscopy during the past six to 12&#160;months; (iii) have early-onset hip osteoarthritis (defined as chondrolabral pathology) at the time of hip arthroscopy; and (iv) experience hip-related pain during activities. Primary outcome will be the feasibility of a phase III clinical trial. Secondary outcomes will be (i) perceived global change score; (ii) hip-related symptoms (measured using the Hip disability and Osteoarthritis Outcome Score (HOOS) pain subscale, activity subscale, and sport and recreation subscale); (iii) hip quality of life (measured using the HOOS quality of life subscale and International Hip Outcome tool; (iv) hip muscle strength and (v) hip range of motion. The physiotherapy intervention is semi-standardised, including joint and soft tissue mobilisation and stretching, hip and trunk muscle retraining and functional and activity-specific retraining and education. The control intervention encompasses individualised health education, with the same frequency and duration as the intervention. The trial primary end-point is the conclusion of the 12-week intervention, and follow-up measures will be collected at the 12-week post-baseline assessment.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Discussion</p>
+                </st>
+                <p>The findings of this study will provide guidance regarding the feasibility of a full-scale phase III randomised controlled trial, prior to its undertaking.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Trial registration</p>
+                </st>
+                <p>The trial protocol was registered with the Australian Clinical Trials Registry (number: <url>12614000426684</url>) on 17 April 2014.</p>
+             </sec>
+          </sec>
+       </abs>
+    </fm>
+    <bdy>
+       <sec>
+          <st>
+             <p>Background</p>
+          </st>
+          <p>Hip pathology is a common cause of hip pain <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp>, and is associated with considerable morbidity in people aged between 18 and 50&#160;years <abbrgrp>
+                <abbr bid="B3">3</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B4">4</abbr>
+             </abbrgrp>. In recent years, arthroscopic surgery has contributed to advancements in assessment and management of hip pain <abbrgrp>
+                <abbr bid="B5">5</abbr>
+             </abbrgrp>. Recently, the number of hip arthroscopic procedures performed in the United States <abbrgrp>
+                <abbr bid="B6">6</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B8">8</abbr>
+             </abbrgrp>, United Kingdom, Australia <abbrgrp>
+                <abbr bid="B9">9</abbr>
+             </abbrgrp> and Asia <abbrgrp>
+                <abbr bid="B10">10</abbr>
+             </abbrgrp> has increased dramatically. In Australia, Medicare data indicate that between 2010 and 2013 the number of people undergoing hip arthroscopy increased by over 50% <abbrgrp>
+                <abbr bid="B9">9</abbr>
+             </abbrgrp>, while in the United States the rate of hip arthroscopic surgery increased six-fold between 2006 and 2010 <abbrgrp>
+                <abbr bid="B7">7</abbr>
+             </abbrgrp>. Despite good results at between five and 10&#160;years post-arthroscopy years, those with osteoarthritis (OA) at arthroscopy consistently report less favourable outcomes when compared to those without OA <abbrgrp>
+                <abbr bid="B11">11</abbr>
+             </abbrgrp>. In addition, we recently observed that early-onset hip OA is associated with worse outcomes in people who have undergone hip arthroscopy <abbrgrp>
+                <abbr bid="B12">12</abbr>
+             </abbrgrp>.</p>
+          <p>Musculoskeletal conditions are second only to mental and behavioural disorders, as global contributors to years lived with disability <abbrgrp>
+                <abbr bid="B13">13</abbr>
+             </abbrgrp>. Due to its negative impact on individual functioning and health service expenditure, OA has been designated a National Health priority area <abbrgrp>
+                <abbr bid="B14">14</abbr>
+             </abbrgrp>. The hip joint is a common site for OA <abbrgrp>
+                <abbr bid="B15">15</abbr>
+             </abbrgrp>, affecting approximately 12% of adults in the United Kingdom <abbrgrp>
+                <abbr bid="B16">16</abbr>
+             </abbrgrp> and the United States of America <abbrgrp>
+                <abbr bid="B17">17</abbr>
+             </abbrgrp>. As there is no cure for hip OA, the identification of non-surgical interventions that can reduce the progression of hip-related symptoms is important, as this will reduce disease burden <abbrgrp>
+                <abbr bid="B18">18</abbr>
+             </abbrgrp>.</p>
+          <p>We recently reported that chondrolabral pathology, a marker of early-onset hip OA, is common in people who undergo hip arthroscopy for hip pain, and is associated with worse pain, difficulty participating in physical activity and reduced quality-of-life compared to healthy controls <abbrgrp>
+                <abbr bid="B19">19</abbr>
+             </abbrgrp>. Moreover, it appears that early onset hip OA has a significant impact on young and middle-aged people being able to participate in physical activities without difficulty, which could ultimately lead to physical inactivity. Inactivity is associated with adverse health outcomes, which include type two diabetes, ischaemic heat disease, stroke, depression and certain cancers <abbrgrp>
+                <abbr bid="B20">20</abbr>
+             </abbrgrp>. If the progression of hip OA symptoms can be slowed in its early stages, people with hip OA may participate in greater levels of physical activity, limiting the public health burden of this disease <abbrgrp>
+                <abbr bid="B21">21</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B22">22</abbr>
+             </abbrgrp>.</p>
+          <p>A full-scale phase III randomised controlled trial (RCT) is costly, and before undertaking such a study it is important to establish its feasibility <abbrgrp>
+                <abbr bid="B23">23</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B24">24</abbr>
+             </abbrgrp>. In Australia, hip arthroscopy is mostly conducted in the private sector and such patients may be unwilling to participate in an RCT. In addition, no RCT examining the effects of a physiotherapy intervention has been undertaken in this population, and adherence with the intervention is unknown. The treatment algorithm has not been tested within the constraints of a clinical trial and the adverse events are not known. Therefore, before committing to a full-scale RCT, the feasibility of such a study should be established by undertaking a phase II RCT <abbrgrp>
+                <abbr bid="B24">24</abbr>
+             </abbrgrp>.</p>
+          <p>The primary aim of this study is to establish the feasibility of a phase III RCT investigating a targeted physiotherapy intervention for people with early-onset hip OA. The secondary aims are to determine the size of treatment effects of a physiotherapy intervention, targeted to improve hip joint range and hip-related symptoms in early-onset hip OA following hip arthroscopy, compared to a health-education control.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Methods/Design</p>
+          </st>
+          <sec>
+             <st>
+                <p>Experimental design</p>
+             </st>
+             <p>This protocol describes a randomised, assessor- and participant--blind, controlled clinical trial conforming to Standard Protocol Items: Recommendations for Interventional Trials (SPIRIT) <abbrgrp>
+                   <abbr bid="B25">25</abbr>
+                </abbrgrp> guidelines. The trial protocol was registered with the Australian Clinical Trials Registry (ACTR number: 12614000426684) on 17 April 2014. Ethics approval was obtained through the University of Queensland Medical Research Ethics Committee (number: 2013001553).</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Participants</p>
+             </st>
+             <p>A total of 20 participants will be recruited through a single orthopedic surgeon (MGP) in Hobart, Australia, with extensive expertise in hip arthroscopy. This number of participants was chosen in order to determine the feasibility of recruitment into a larger scale phase III trial, as we estimate that 20 participants represents 30% of eligible patients from a single surgeon. In addition, 20 participants will allow for observation of sample variability and any possible adverse responses to the intervention. A project investigator (KM) will screen for eligibility based on history and examination.</p>
+             <sec>
+                <st>
+                   <p>Inclusion criteria</p>
+                </st>
+                <p>The inclusion criteria are as follows: (i) aged between 18 and 50&#160;years; (ii) arthroscopy for intra-articular hip pathology during the past six to 12&#160;months; (iii) evidence of early-onset hip OA (defined as chondrolabral pathology) at time of hip arthroscopy; (iv) hip-related pain during activities such as sitting, squatting, stair ambulation or twisting on the leg and (v) hip-related pain score of over 30 on a 100&#160;mm visual analogue scale (VAS).</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Exclusion criteria</p>
+                </st>
+                <p>The exclusion criteria are as follows: (i) pain that is not confirmed by physical examination of the hip <abbrgrp>
+                      <abbr bid="B26">26</abbr>
+                   </abbrgrp>,<abbrgrp>
+                      <abbr bid="B27">27</abbr>
+                   </abbrgrp>; (ii) concurrent symptoms of hip bursitis or tendinitis; (iii) surgical complications, including infection; (iv) planned lower limb surgery in the following 12&#160;months (such as an arthroplasty); (v) physical inability to weight-bear fully or undertake testing procedures and (vi) inability to understand written and spoken English.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Procedure</p>
+             </st>
+             <p>Potential participants will be identified by the surgeon and invited to contact the project coordinator (JK). (Figure&#160;<figr fid="F1">1</figr>) The project coordinator will contact potential participants by phone if they do not respond to the initial invitation. Volunteers will be screened via telephone interview, followed by a clinical examination to confirm eligibility (KM). The randomisation schedule will be generated and maintained centrally by the University of Queensland, School of Health and Rehabilitation Sciences, and will be revealed to the project coordinator (JK) via telephone following the baseline assessment. The blinded researcher (KM) will obtain informed consent (Additional file <supplr sid="S1">1</supplr>) and will perform outcome assessments at baseline and three months. Participants will be instructed not to divulge their group allocation to the assessor. While physiotherapists cannot be blinded to group allocation, participants will be informed that they can receive one of two possible interventions. Thus, participants will remain blinded to treatment allocation. Participants will be asked to refrain from other treatments, but stable drug doses will be permitted. Physiotherapists will record per protocol treatment. Participants will record adherence with home exercises, adverse events and any co-interventions in a log book.
+                  </p>
+                <fig id="F1">
+                   <title>
+                      <p>Figure 1</p>
+                   </title>
+                   <caption>
+                      <p>Flowchart of trial. </p>
+                   </caption>
+                   <text>
+                      <p>
+                            <b>Flowchart of trial.</b>                          
+                      </p>
+                   </text>
+                   <graphic file="s13063-014-0543-7-1"/>
+                </fig>
+             
+          </sec>
+          <sec>
+             <st>
+                <p>Outcome assessment</p>
+             </st>
+             <p>Outcomes will be assessed at baseline and at the trial primary end-point, which is at the conclusion of the 12-week intervention.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Primary outcome measure: feasibility of a full-scale randomized controlled trial</p>
+             </st>
+             <p>Feasibility will be assessed by evaluating the willingness of participants to enrol; the number of eligible participants; the recruitment rate; adherence to the intervention, home exercises and log-book completion and the drop-out rate. Adverse events will be recorded.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Secondary outcome measures: perceived global change score</p>
+             </st>
+             <p>Participants will rate their perceived change following treatment on a six-point ordinal scale (completely recovered, much improved, improved, no change, worse and much worse) <abbrgrp>
+                   <abbr bid="B28">28</abbr>
+                </abbrgrp>. Measuring patient-perceived change using such scales has been shown to be clinically relevant and a stable concept for interpreting meaningful improvements from an individual perspective <abbrgrp>
+                   <abbr bid="B29">29</abbr>
+                </abbrgrp>.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Secondary outcome measure: hip-related symptoms</p>
+             </st>
+             <p>The Hip disability and Osteoarthritis Outcome Score HOOS-pain <abbrgrp>
+                   <abbr bid="B30">30</abbr>
+                </abbrgrp> will measure hip-related symptoms. The HOOS was evaluated in younger adults with OA <abbrgrp>
+                   <abbr bid="B30">30</abbr>
+                </abbrgrp>, and incorporates the Western Ontario MacMaster Universities Osteoarthritis Index (WOMAC) 3.0LK <abbrgrp>
+                   <abbr bid="B31">31</abbr>
+                </abbrgrp>. The HOOS-pain subscale is equivalent to the WOMAC pain subscale. We have determined that the HOOS-pain subscale is reliable (intraclass correlation coefficient (ICC)&#8201;=&#8201;0.96; 95% confidence interval (CI): 0.93 to 0.98), with a low standard error of measurement (SEM) of four points out of 100, and is valid and responsive, with a minimal clinically important change (MCIC) of nine points <abbrgrp>
+                   <abbr bid="B32">32</abbr>
+                </abbrgrp>.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Secondary outcome measures: hip-related quality of life</p>
+             </st>
+             <p>The International Hip Outcome tool (iHOT-33) and HOOS quality of life subscale (HOOS-Q) will measure hip-related quality of life. The iHOT-33 is a composite score that was developed for specific use in the hip arthroscopy population <abbrgrp>
+                   <abbr bid="B33">33</abbr>
+                </abbrgrp>. We determined that it is reliable (ICC&#8201;=&#8201;0.93; 95% CI: 0.87 to 0.96), with a low SEM of six points out of 100, and is valid and responsive, with an MCIC of 10 points <abbrgrp>
+                   <abbr bid="B32">32</abbr>
+                </abbrgrp>. The HOOS-Q <abbrgrp>
+                   <abbr bid="B30">30</abbr>
+                </abbrgrp> is reliable (ICC&#8201;=&#8201;0.95; 95% CI: 0.84 to 0.97), with a low SEM of five points out of 100, and is valid and responsive, with an MCIC of 11 points <abbrgrp>
+                   <abbr bid="B32">32</abbr>
+                </abbrgrp>.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Secondary outcome measures: other hip-related symptoms</p>
+             </st>
+             <p>Other hip-related symptoms will include the HOOS activity of daily living subscale (HOOS-A), the HOOS sport and recreation subscale (HOOS-Sp) and HOOS symptoms and stiffness subscale (HOOS-S). We determined these subscales were reliable (ICC: 0.93 to 0.96), with low SEMs of three to six points, and have MCICs ranging from six to 10 points <abbrgrp>
+                   <abbr bid="B34">34</abbr>
+                </abbrgrp>.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Secondary outcome measures: hip muscle strength and hip joint range</p>
+             </st>
+             <p>Hip abduction, extension and external rotation strength and hip flexion range will be measured using our previously published methods <abbrgrp>
+                   <abbr bid="B35">35</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B36">36</abbr>
+                </abbrgrp>, with high reliability (ICC: 0.87 to 0.95). Briefly, all strength tests will be performed with a Commander Power track II (J-Tech medical, Salt Lake City, Utah, USA) hand-held dynamometer. The tester will match the force generated by the participant performing an isometric muscle contraction (the &#8216;make&#8217; test) <abbrgrp>
+                   <abbr bid="B37">37</abbr>
+                </abbrgrp> and the best of three tests will be recorded. Strength will be recorded as a torque measure, calculated by multiplying the force (measured in Newtons (N)) by the length of the moment arm (measured in metres (m)), and then data will be normalized for body weight (measured in kilograms ((kg) Nm/kg). Specifically, abductor strength will be measured in the supine position, with stabilisation of the contra-lateral thigh, and external rotation strength will be measured in the prone position, with stabilisation of the contra-lateral thigh <abbrgrp>
+                   <abbr bid="B35">35</abbr>
+                </abbrgrp>. Hip flexion range will be measured in the supine position as an active range of motion measure, with stabilisation of the contra-lateral thigh. It will be measured using a Plurimeter inclinometer (Dr Rippstein, La Conversion, Switzerland) as the mean of three measures <abbrgrp>
+                   <abbr bid="B36">36</abbr>
+                </abbrgrp>.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Other measures</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Potential covariates for statistical analyses</p>
+                </st>
+                <p>The potential covariates for statistical analyses are body anthropometry: weight, height, body mass index and waist girth.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Interventions</p>
+                </st>
+                <p>Each participant will be treated by experienced physiotherapists who will be trained and proficient in both interventions (physiotherapy and control). The physiotherapists will receive two training sessions prior to the commencement of the study. Monthly meetings between the treating physiotherapists and the project coordinator (JK) will occur throughout the trial to ensure that the physiotherapy intervention remains consistent. The intervention is a face-to-face physiotherapy intervention, which will be delivered in eight sessions over three months (once per week for four weeks, then once per fortnight for eight weeks). This semi-standardised type of intervention has been described previously in an RCT protocol for post-operative physiotherapy in patients with femoro-acetabular impingement <abbrgrp>
+                      <abbr bid="B38">38</abbr>
+                   </abbrgrp>. Participants will be asked to refrain from other physiotherapy interventions during the trial. All participants will be able to discuss concerns regarding their condition with the project coordinator (JK) throughout the trial if needed.</p>
+                <sec>
+                   <st>
+                      <p>Physiotherapy intervention</p>
+                   </st>
+                   <p>Physiotherapy interventions are detailed in Tables&#160;<tblr tid="T1">1</tblr>, <tblr tid="T2">2</tblr> and Additional file <supplr sid="S2">2</supplr>. These consist of (i) manual hip joint and soft tissue mobilisation and stretching; (ii) hip muscle retraining; (iii) trunk muscle retraining; (iv) functional, proprioceptive and sports- or activity- specific retraining; (v) enhancing physical activity and (vi) education. The treatment will be tailored according to each patient&#8217;s clinical presentation (such as strength, pain severity, sporting and functional needs), the presence of co-morbidities (such as back and other lower limb pain or pathology), and progressed based on response to exercise load, thus maximising the training effects. The physiotherapist will supervise exercises during each visit. A home exercise program will be performed independently at home four times per week. An exercise manual will be made accessible to each participant.
+                        
+                      </p>
+                      <table id="T1">
+                         <title>
+                            <p>Table 1</p>
+                         </title>
+                         <caption>
+                            <p>
+                                <b>Manual therapy techniques: a semi-standardised approach</b>                              
+                            </p>
+                         </caption>
+                         <tgroup align="left" cols="5">
+                            <colspec align="left" colname="c1" colnum="1" colwidth="*"/>
+                            <colspec align="left" colname="c2" colnum="2" colwidth="*"/>
+                            <colspec align="left" colname="c3" colnum="3" colwidth="*"/>
+                            <colspec align="left" colname="c4" colnum="4" colwidth="*"/>
+                            <colspec align="left" colname="c5" colnum="5" colwidth="*"/>
+                            <thead>
+                               <row valign="top">
+                                  <entry nameend="c5" namest="c1" rowsep="1">
+                                     <p>
+                                        <b>Manual therapy techniques</b>                                  
+                                     </p>
+                                  </entry>
+                               </row>
+                               <row valign="top">
+                                  <entry colname="c1">
+                                     <p>
+                                        <b>Technique</b>                                  
+                                     </p>
+                                  </entry>
+                                  <entry colname="c2">
+                                     <p>
+                                        <b>Aim</b>                                  
+                                     </p>
+                                  </entry>
+                                  <entry colname="c3">
+                                     <p>
+                                        <b>Description</b>                                  
+                                     </p>
+                                  </entry>
+                                  <entry colname="c4">
+                                     <p>
+                                        <b>Dosage</b>                                  
+                                     </p>
+                                  </entry>
+                                  <entry colname="c5">
+                                     <p>
+                                        <b>Timeframe</b>                                  
+                                     </p>
+                                  </entry>
+                               </row>
+                            </thead>
+                            <tfoot>
+                               <p>Legend: IR&#8201;=&#8201;internal rotation; ER&#8201;=&#8201;external rotation.</p>
+                            </tfoot>
+                            <tbody>
+                               <row valign="top">
+                                  <entry colname="c1" morerows="1">
+                                     <p>Soft tissue massage and trigger point release of iliopsoas, adductor group, gluteus minimus, gluteus medius, piriformis and tensor fascia latae</p>
+                                  </entry>
+                                  <entry colname="c2" morerows="1">
+                                     <p>Address soft tissue restrictions with the aim of reducing pain and increasing hip joint range of movement</p>
+                                  </entry>
+                                  <entry colname="c3">
+                                     <p>Sustained digital pressure to each trigger point, with the muscle positioned on stretch</p>
+                                  </entry>
+                                  <entry colname="c4">
+                                     <p>30 - 60&#160;seconds digital pressure per trigger point</p>
+                                  </entry>
+                                  <entry colname="c5" morerows="1">
+                                     <p>Session 1 - 8</p>
+                                  </entry>
+                               </row>
+                               <row valign="top">
+                                  <entry colname="c3">
+                                     <p>Massage longitudinally along the muscle belly</p>
+                                  </entry>
+                                  <entry colname="c4">
+                                     <p>2 - 5&#160;minutes of massage per muscle</p>
+                                  </entry>
+                               </row>
+                               <row valign="top">
+                                  <entry colname="c1">
+                                     <p>Mobilisation of lumbar spine</p>
+                                  </entry>
+                                  <entry colname="c2">
+                                     <p>To improve lumbar spine mobility and restore normal lumbo-pelvic movement</p>
+                                  </entry>
+                                  <entry colname="c3">
+                                     <p>Unilateral postero-anterior accessory glides, Grade III or IV</p>
+                                  </entry>
+                                  <entry colname="c4">
+                                     <p>3 - 5 sets of 30 - 60&#160;seconds</p>
+                                  </entry>
+                                  <entry colname="c5">
+                                     <p>Session 1 - 8</p>
+                                  </entry>
+                               </row>
+                               <row valign="top">
+                                  <entry colname="c1" morerows="1">
+                                     <p>Correction of sacro-iliac joint asymmetries</p>
+                                  </entry>
+                                  <entry colname="c2" morerows="1">
+                                     <p>To optimise the position of the ilium and therefore the orientation of the acetabulum</p>
+                                  </entry>
+                                  <entry colname="c3">
+                                     <p>Massage to iliopsoas</p>
+                                  </entry>
+                                  <entry colname="c4" morerows="1">
+                                     <p>2 - 5&#160;minutes of massage</p>
+                                  </entry>
+                                  <entry colname="c5" morerows="1">
+                                     <p>Session 1 - 8</p>
+                                  </entry>
+                               </row>
+                               <row valign="top">
+                                  <entry colname="c3">
+                                     <p>Mobilisation of sacrum</p>
+                                  </entry>
+                               </row>
+                               <row valign="top">
+                                  <entry colname="c1">
+                                     <p>Manual traction if ligamentum teres is intact or ligated and patient is &gt;3&#160;months post-labral repair</p>
+                                  </entry>
+                                  <entry colname="c2">
+                                     <p>Increase hip flexion and/or IR/ER range of motion</p>
+                                  </entry>
+                                  <entry colname="c3">
+                                     <p>Seatbelt around patient's proximal femur and therapist's hips. Gentle inferior and/or lateral traction force applied. May include patient actively moving hip into flexion as traction is applied</p>
+                                  </entry>
+                                  <entry colname="c4">
+                                     <p>3 sets of 10&#160;seconds. If tolerated, increase by 1 set per treatment session to a maximum of 6 sets in total</p>
+                                  </entry>
+                                  <entry colname="c5">
+                                     <p>Session 1 - 8</p>
+                                  </entry>
+                               </row>
+                            </tbody>
+                         </tgroup>
+                      </table>
+                   
+                   
+                      <table id="T2">
+                         <title>
+                            <p>Table 2</p>
+                         </title>
+                         <caption>
+                            <p>
+                                <b>Home exercise program for hip muscle retraining, trunk muscle retraining, functional and activity specific retraining and stretching: a semi-standardised approach</b>                              
+                            </p>
+                         </caption>
+                         <tgroup align="left" cols="4">
+                            <colspec align="left" colname="c1" colnum="1" colwidth="*"/>
+                            <colspec align="left" colname="c2" colnum="2" colwidth="*"/>
+                            <colspec align="left" colname="c3" colnum="3" colwidth="*"/>
+                            <colspec align="left" colname="c4" colnum="4" colwidth="*"/>
+                            <thead>
+                               <row valign="top">
+                                  <entry nameend="c4" namest="c1" rowsep="1">
+                                     <p>
+                                        <b>Home exercise program</b>                                  
+                                     </p>
+                                  </entry>
+                               </row>
+                               <row valign="top">
+                                  <entry colname="c1">
+                                     <p>
+                                        <b>Exercise</b>                                  
+                                     </p>
+                                  </entry>
+                                  <entry colname="c2">
+                                     <p>
+                                        <b>Aim</b>                                  
+                                     </p>
+                                  </entry>
+                                  <entry colname="c3">
+                                     <p>
+                                        <b>Description</b>                                  
+                                     </p>
+                                  </entry>
+                                  <entry colname="c4">
+                                     <p>
+                                        <b>Timeframe</b>                                  
+                                     </p>
+                                  </entry>
+                               </row>
+                            </thead>
+                            <tbody>
+                               <row valign="top">
+                                  <entry colname="c1">
+                                     <p>Deep hip rotator strengthening</p>
+                                  </entry>
+                                  <entry colname="c2">
+                                     <p>Optimize hip neuromuscular control and improve dynamic stability of hip</p>
+                                  </entry>
+                                  <entry colname="c3">
+                                     <p>See Additional file <supplr sid="S2">2</supplr>
+                                     </p>
+                                  </entry>
+                                  <entry colname="c4">
+                                     <p>Session 1 - 4</p>
+                                  </entry>
+                               </row>
+                               <row valign="top">
+                                  <entry colname="c1">
+                                     <p>Hip extensor muscle strengthening</p>
+                                  </entry>
+                                  <entry colname="c2">
+                                     <p>Optimize hip neuromuscular control and improve dynamic stability of hip</p>
+                                  </entry>
+                                  <entry colname="c3">
+                                     <p>See Additional file <supplr sid="S2">2</supplr>
+                                     </p>
+                                  </entry>
+                                  <entry colname="c4">
+                                     <p>Session 1 - 6</p>
+                                  </entry>
+                               </row>
+                               <row valign="top">
+                                  <entry colname="c1">
+                                     <p>Hip abductor muscle strengthening</p>
+                                  </entry>
+                                  <entry colname="c2">
+                                     <p>Optimize hip neuromuscular control and improve dynamic stability of hip</p>
+                                  </entry>
+                                  <entry colname="c3">
+                                     <p>See Additional file <supplr sid="S2">2</supplr>
+                                     </p>
+                                  </entry>
+                                  <entry colname="c4">
+                                     <p>Session 2 - 8</p>
+                                  </entry>
+                               </row>
+                               <row valign="top">
+                                  <entry colname="c1">
+                                     <p>Functional strengthening</p>
+                                  </entry>
+                                  <entry colname="c2">
+                                     <p>Improve gluteal and lower limb strength. Practice movement patterns required for optimal daily function</p>
+                                  </entry>
+                                  <entry colname="c3">
+                                     <p>See Additional file <supplr sid="S2">2</supplr>
+                                     </p>
+                                  </entry>
+                                  <entry colname="c4">
+                                     <p>Session 3 - 8</p>
+                                  </entry>
+                               </row>
+                               <row valign="top">
+                                  <entry colname="c1">
+                                     <p>Balance exercises</p>
+                                  </entry>
+                                  <entry colname="c2">
+                                     <p>Improve proprioception and dynamic stability of hip and pelvis</p>
+                                  </entry>
+                                  <entry colname="c3">
+                                     <p>See Additional file <supplr sid="S2">2</supplr>
+                                     </p>
+                                  </entry>
+                                  <entry colname="c4">
+                                     <p>Session 2 - 8</p>
+                                  </entry>
+                               </row>
+                               <row valign="top">
+                                  <entry colname="c1">
+                                     <p>Anterior hip stretch</p>
+                                  </entry>
+                                  <entry colname="c2">
+                                     <p>Assist in regaining full hip extension range of movement</p>
+                                  </entry>
+                                  <entry colname="c3">
+                                     <p>See Additional file <supplr sid="S2">2</supplr>
+                                     </p>
+                                  </entry>
+                                  <entry colname="c4">
+                                     <p>Session 2 - 8</p>
+                                  </entry>
+                               </row>
+                            </tbody>
+                         </tgroup>
+                      </table>
+                   
+                </sec>
+                <p>Specific aspects of the treatment include:</p><p>1. Manual hip joint and soft tissue mobilisation and stretching to provide optimal joint range and facilitate control of movement patterns. Within each treatment session, the therapist will measure range of motion (with an inclinometer), and monitor the immediate effects of treatment modalities.</p>
+                   <p>2. Hip muscle retraining, including exercise to improve hip abduction, extension and external rotator coordination and strength. In order to accommodate a heterogeneous cohort, the hip muscle retraining may be performed statically and/or dynamically in various functional activities (for example, step up and down, squat and/or sit to stand). Resistance will be progressed based on individual responses, and is detailed in Figure&#160;<figr fid="F2">2</figr>.</p>
+                   <p>3. Trunk muscle retraining to improve strength, endurance and control of the trunk muscles. The exercise selection and progression will follow similar principles to the hip muscle retraining.</p>
+                   <p>4. Functional, proprioceptive and sports-specific retraining. The exercise selection and progression will follow similar principles to the hip and trunk muscle retraining. For example, a person aiming to return to football may perform single leg activities with direction change and pain-free, graduated return to kicking, whilst maintaining good movement control.</p>
+                
+                   <fig id="F2">
+                      <title>
+                         <p>Figure 2</p>
+                      </title>
+                      <caption>
+                         <p>Examples of hip exercise progression from non-weight bearing to functional tasks. </p>
+                      </caption>
+                      <text>
+                         <p>
+                              <b>Examples of hip exercise progression from non-weight bearing to functional tasks.</b>                            
+                         </p>
+                      </text>
+                      <graphic file="s13063-014-0543-7-2"/>
+                   </fig>
+                
+                <sec>
+                   <st>
+                      <p>Control</p>
+                   </st>
+                   <p>In order to control for the psychosocial contact inherent with the physiotherapy treatment, the control treatment will encompass individualised health education sessions covering topics such as exercise, diet, weight loss and appropriate stretching, in a similar fashion to previously published clinical trials looking at physiotherapy management in older people with advanced hip OA <abbrgrp>
+                         <abbr bid="B39">39</abbr>
+                      </abbrgrp>,<abbrgrp>
+                         <abbr bid="B40">40</abbr>
+                      </abbrgrp>. The information sheets have been modified to be appropriate for this younger age group. The control sessions will be provided with the same frequency and duration as the physiotherapy sessions.</p>
+                </sec>
+                <sec>
+                   <st>
+                      <p>Data management, monitoring and statistical analyses</p>
+                   </st>
+                   <p>Treatment efficacy will be evaluated by comparing change on primary outcome measures between groups. Baseline characteristics of participating patients of the two groups will be evaluated for their influence on outcomes and included as covariates in statistical analyses if required. Outcomes of interest will be analysed on an intention-to-treat basis for all participants. SPSS software (Version 21, SPSS Inc, Chicago, IL, USA) will be used for all analyses, and significance will be set at <it>P</it> &lt;0.05. Data monitoring will be conducted by an independent investigator (KC), and data will be stored in a locked cabinet and password-secured server. Adverse events will be recorded by the treating physiotherapists who will inform the project coordinator (JK). Trial results will be made available to participants and will be published in a peer-reviewed journal.</p>
+                </sec>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Consent</p>
+             </st>
+             <p>Written informed consent was obtained from the patients for publication of this manuscript and accompanying images. A copy of the written consent is available for review by the Editor-in-Chief of this journal.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Discussion</p>
+          </st>
+          <p>This study provides detail of the protocol for a phase II RCT investigating the efficacy of a physiotherapy intervention for early-onset hip OA <abbrgrp>
+                <abbr bid="B24">24</abbr>
+             </abbrgrp>. This phase II study will identify the willingness of patients to enter a phase III RCT, adherence to the interventions and possible drop-out rates. In addition, this study will provide information regarding the treatment effects sizes of the semi-individualised physiotherapy intervention described, and assist in power calculations which will inform future larger scale RCTs.</p>
+          <p>The physiotherapy intervention described herein is semi-individualised, wherein a standardised program is tailored to the individual patient&#8217;s needs, based on assessment and reassessment undertaken at each physiotherapy session. Impairments in hip range of motion and hip muscle strength have been identified previously in people with chondropathy of the hip <abbrgrp>
+                <abbr bid="B41">41</abbr>
+             </abbrgrp>. Therefore we have included therapeutic interventions targeted to address these impairments in the physiotherapy intervention.</p>
+          <p>The control intervention is an alternative physiotherapy intervention, focussing on education and guidance, rather than a &#8216;wait and see&#8217; control group. This will control for both the attention and advice provided by physiotherapists during individual treatment sessions and may facilitate recruitment, since all patients will receive an active intervention regardless of treatment allocation.</p>
+          <p>The findings of this study will provide guidance regarding the feasibility of a full-scale phase III RCT, prior to its undertaking <abbrgrp>
+                <abbr bid="B24">24</abbr>
+             </abbrgrp>. It will also provide pilot data on the efficacy of the physiotherapy intervention described herein.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Trial status</p>
+          </st>
+          <p>This trial is ongoing. At the time of submission of this protocol, 17 patients had been recruited into the study over a four-month recruitment period, and 16 patients had completed the follow-up period. There have been no reported adverse events, drop-outs or patients lost to follow-up to date.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Abbreviations</p>
+          </st>
+          <p>HOOS: Hip disability and osteoarthritis outcome score</p>
+          <p>ICC: Intraclass correlation coefficient</p>
+          <p>iHOT: International Hip Outcome tool</p>
+          <p>MCIC: Minimal clinically important change</p>
+          <p>N: Newton</p>
+          <p>OA: Osteoarthritis</p>
+          <p>RCT: Randomised controlled trial</p>
+          <p>SEM: Standard error of measurement</p>
+          <p>VAS: Visual analogue scale</p>
+          <p>WOMAC: Western Ontario MacMaster Universities Osteoarthritis Index</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Competing interests</p>
+          </st>
+          <p>The authors declare that they have no competing interests.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Authors&#8217; contributions</p>
+          </st>
+          <p>JK contributed to conception and design of the trial, the acquisition of data, and will contribute to the analysis and interpretation of data; has been involved in drafting the manuscript and revising it critically for important intellectual content; and has given final approval of the version to be published. KM contributed to conception and design of the trial, the acquisition of data, and will contribute to the analysis and interpretation of data; has been involved in revising the manuscript critically for important intellectual content; and has given final approval of the version to be published. MF contributed to conception and design of the trial and will contribute to the interpretation of data; has been involved in revising the manuscript critically for important intellectual content; and has given final approval of the version to be published. TR contributed to conception and design of the trial and will contribute to the interpretation of data; has been involved in revising the manuscript critically for important intellectual content; and has given final approval of the version to be published. KC contributed to conception and design of the trial, the acquisition of data, and will contribute to the analysis and interpretation of data; has been involved in drafting the manuscript and revising it critically for important intellectual content; and has given final approval of the version to be published.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Additional files</p>
+          </st>
+          <suppl id="S1">
+             <title>
+                <p>Additional file 1:</p>
+             </title>
+             <text>
+                <p>
+                              <b>A randomized clinical trial of physiotherapy intervention for early-onset hip osteoarthritis.</b>                            
+                </p>
+             </text>
+             <file name="s13063-014-0543-7-S1.docx">
+                <p>Click here for file</p>
+             </file>
+          </suppl>
+          <suppl id="S2">
+             <title>
+                <p>Additional file 2:</p>
+             </title>
+             <text>
+                <p>
+                              <b>Specific examples of exercises included in home exercise program.</b>                            
+                </p>
+             </text>
+             <file name="s13063-014-0543-7-S2.docx">
+                <p>Click here for file</p>
+             </file>
+          </suppl>
+          
+       </sec>
+    </bdy>
+    <bm>
+       <ack>
+          <sec>
+             <st>
+                <p>Acknowledgements</p>
+             </st>
+             <p>We would like to acknowledge Mr Michael Pritchard for assistance with participant recruitment.</p>
+             <p>This trial was funded by the Australian Physiotherapy Research Foundation Beryl Haynes Memorial Grant (grant number T13-BH007), and Bodysystem Pty Ltd. Funders will not play a role in the publication or dissemination of study findings.</p>
+          </sec>
+       </ack>
+       <refgrp>
+          
+          <bibl id="B1">
+             <title>
+                <p>Femoroacetabular impingement: a cause for osteoarthritis of the Hip</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Ganz</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Parvizi</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Beck</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Leunig</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>N&#246;tzli</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Siebenrock</snm>
+                   <fnm>KA</fnm>
+                </au>
+             </aug>
+             <source>Clin Orthop Relat Res.</source>
+             <pubdate>2003</pubdate>
+             <volume>417</volume>
+             <fpage>112</fpage>
+             <lpage>20</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">14646708</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B2">
+             <title>
+                <p>Arthroscopy for labral tears in patients with developmental dysplasia of the hip: a cautionary note</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Parvizi</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Bican</snm>
+                   <fnm>O</fnm>
+                </au>
+                <au>
+                   <snm>Bender</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Mortazavi</snm>
+                   <fnm>SMJ</fnm>
+                </au>
+                <au>
+                   <snm>Purtill</snm>
+                   <fnm>JJ</fnm>
+                </au>
+                <au>
+                   <snm>Erickson</snm>
+                   <fnm>J</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>J Arthroplasty.</source>
+             <pubdate>2009</pubdate>
+             <volume>24</volume>
+             <issue>Suppl 6</issue>
+             <fpage>110</fpage>
+             <lpage>3</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.arth.2009.05.021</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19596542</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B3">
+             <title>
+                <p>Clinical presentation of patients with tears of the acetabular labrum</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Burnett</snm>
+                   <fnm>RSJ</fnm>
+                </au>
+                <au>
+                   <snm>Della Rocca</snm>
+                   <fnm>GJ</fnm>
+                </au>
+                <au>
+                   <snm>Prather</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Curry</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Maloney</snm>
+                   <fnm>WJ</fnm>
+                </au>
+                <au>
+                   <snm>Clohisy</snm>
+                   <fnm>JC</fnm>
+                </au>
+             </aug>
+             <source>J Bone Joint Surg Am</source>
+             <pubdate>2006</pubdate>
+             <volume>88</volume>
+             <issue>7</issue>
+             <fpage>1448</fpage>
+             <lpage>57</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.2106/JBJS.D.02806</pubid>
+                   <pubid idtype="pmpid" link="fulltext">16818969</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B4">
+             <title>
+                <p>Arthroscopic labral repair and treatment of femoroacetabular impingement in professional hockey players</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Philippon</snm>
+                   <fnm>MJ</fnm>
+                </au>
+                <au>
+                   <snm>Weiss</snm>
+                   <fnm>DR</fnm>
+                </au>
+                <au>
+                   <snm>Kuppersmith</snm>
+                   <fnm>DA</fnm>
+                </au>
+                <au>
+                   <snm>Briggs</snm>
+                   <fnm>KK</fnm>
+                </au>
+                <au>
+                   <snm>Hay</snm>
+                   <fnm>CJ</fnm>
+                </au>
+             </aug>
+             <source>Am J Sports Med</source>
+             <pubdate>2010</pubdate>
+             <volume>38</volume>
+             <issue>1</issue>
+             <fpage>99</fpage>
+             <lpage>104</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1177/0363546509346393</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19966097</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B5">
+             <title>
+                <p>The diagnosis of longstanding groin pain: a prospective clinical cohort study</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bradshaw</snm>
+                   <fnm>CJ</fnm>
+                </au>
+                <au>
+                   <snm>Bundy</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Falvey</snm>
+                   <fnm>E</fnm>
+                </au>
+             </aug>
+             <source>Br J Sports Med</source>
+             <pubdate>2008</pubdate>
+             <volume>42</volume>
+             <issue>10</issue>
+             <fpage>551</fpage>
+             <lpage>4</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/bjsm.2007.039685</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B6">
+             <title>
+                <p>Descriptive epidemiology of femoroacetabular impingement: a North American cohort of patients undergoing surgery</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Clohisy</snm>
+                   <fnm>JC</fnm>
+                </au>
+                <au>
+                   <snm>Baca</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Beaul&#233;</snm>
+                   <fnm>PE</fnm>
+                </au>
+                <au>
+                   <snm>Kim</snm>
+                   <fnm>Y-J</fnm>
+                </au>
+                <au>
+                   <snm>Larson</snm>
+                   <fnm>CM</fnm>
+                </au>
+                <au>
+                   <snm>Millis</snm>
+                   <fnm>MB</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Am J Sports Med.</source>
+             <pubdate>2013</pubdate>
+             <volume>41</volume>
+             <fpage>1348</fpage>
+             <lpage>56</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1177/0363546513488861</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23669751</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B7">
+             <title>
+                <p>Trends in hip arthroscopy utilization in the United States</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bozic</snm>
+                   <fnm>KJ</fnm>
+                </au>
+                <au>
+                   <snm>Chan</snm>
+                   <fnm>V</fnm>
+                </au>
+                <au>
+                   <snm>Valone</snm>
+                   <fnm>FH</fnm>
+                   <suf>3rd</suf>
+                </au>
+                <au>
+                   <snm>Feeley</snm>
+                   <fnm>BT</fnm>
+                </au>
+                <au>
+                   <snm>Vail</snm>
+                   <fnm>TP</fnm>
+                </au>
+             </aug>
+             <source>J Arthroplasty.</source>
+             <pubdate>2013</pubdate>
+             <volume>28</volume>
+             <issue>Suppl 8</issue>
+             <fpage>140</fpage>
+             <lpage>3</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.arth.2013.02.039</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23916639</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B8">
+             <title>
+                <p>Trends and demographics in hip arthroscopy in the United States</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Montgomery</snm>
+                   <fnm>SR</fnm>
+                </au>
+                <au>
+                   <snm>Ngo</snm>
+                   <fnm>SS</fnm>
+                </au>
+                <au>
+                   <snm>Hobson</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Nguyen</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Alluri</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Wang</snm>
+                   <fnm>JC</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Arthroscopy.</source>
+             <pubdate>2013</pubdate>
+             <volume>29</volume>
+             <fpage>661</fpage>
+             <lpage>5</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.arthro.2012.11.005</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23375668</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B9">
+             <note>Medicare Australia. Medicare Item 49366 processed from July 2007 to June 2010. 2014. <url>http://www.medicareaustralia.gov.au/cgi-bin/broker.exe?_PROGRAM=sas.mbs_item_age_gender_report.sas&amp;_SERVICE=default&amp;_DEBUG=0&amp;VAR=services&amp;STAT=count&amp;PTYPE=finyear&amp;START_DT=200707&amp;END_DT=201006&amp;RPT_FMT=by+state&amp;GROUP=49366</url>. Accessed 13 Jan 2014.</note>
+          </bibl>
+          <bibl id="B10">
+             <title>
+                <p>National trends of hip arthroscopy in Korea</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Lee</snm>
+                   <fnm>YK</fnm>
+                </au>
+                <au>
+                   <snm>Ha</snm>
+                   <fnm>YC</fnm>
+                </au>
+                <au>
+                   <snm>Yoon</snm>
+                   <fnm>BH</fnm>
+                </au>
+                <au>
+                   <snm>Koo</snm>
+                   <fnm>KH</fnm>
+                </au>
+             </aug>
+             <source>J Korean Med Sci</source>
+             <pubdate>2014</pubdate>
+             <volume>29</volume>
+             <issue>2</issue>
+             <fpage>277</fpage>
+             <lpage>80</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.3346/jkms.2014.29.2.277</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24550658</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B11">
+             <title>
+                <p>Hip arthroscopy for hip osteoarthritis: a systematic review of outcomes and factors influencing outcomes</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kemp</snm>
+                   <fnm>JL</fnm>
+                </au>
+                <au>
+                   <snm>MacDonald</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Collins</snm>
+                   <fnm>NJ</fnm>
+                </au>
+                <au>
+                   <snm>Hatton</snm>
+                   <fnm>AL</fnm>
+                </au>
+                <au>
+                   <snm>Crossley</snm>
+                   <fnm>KM</fnm>
+                </au>
+             </aug>
+             <source>Osteoarthritis Cartilage.</source>
+             <pubdate>2014</pubdate>
+             <volume>22 Suppl</volume>
+             <fpage>S182</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.joca.2014.02.344</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B12">
+             <title>
+                <p>Hip arthroscopy for intra-articular pathology: a systematic review of outcomes with and without femoral osteoplasty</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kemp</snm>
+                   <fnm>JL</fnm>
+                </au>
+                <au>
+                   <snm>Collins</snm>
+                   <fnm>NJ</fnm>
+                </au>
+                <au>
+                   <snm>Makdissi</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Schache</snm>
+                   <fnm>AG</fnm>
+                </au>
+                <au>
+                   <snm>Machotka</snm>
+                   <fnm>Z</fnm>
+                </au>
+                <au>
+                   <snm>Crossley</snm>
+                   <fnm>K</fnm>
+                </au>
+             </aug>
+             <source>Br J Sports Med</source>
+             <pubdate>2012</pubdate>
+             <volume>46</volume>
+             <issue>9</issue>
+             <fpage>632</fpage>
+             <lpage>43</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/bjsports-2011-090428</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22194221</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B13">
+             <title>
+                <p>Years lived with disability (YLDs) for 1160 sequelae of 289 diseases and injuries 1990&#8211;2010: a systematic analysis for the Global Burden of Disease Study 2010</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Vos</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Flaxman</snm>
+                   <fnm>AD</fnm>
+                </au>
+                <au>
+                   <snm>Naghavi</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Lozano</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Michaud</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Ezzati</snm>
+                   <fnm>M</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Lancet</source>
+             <pubdate>2012</pubdate>
+             <volume>380</volume>
+             <issue>9859</issue>
+             <fpage>2163</fpage>
+             <lpage>96</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0140-6736(12)61729-2</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23245607</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B14">
+             <title>
+                <p>Epidemiology of osteoarthritis in Australia</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>March</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Bagga</snm>
+                   <fnm>H</fnm>
+                </au>
+             </aug>
+             <source>Med J Aust.</source>
+             <pubdate>2004</pubdate>
+             <volume>180</volume>
+             <issue>Suppl 5</issue>
+             <fpage>S6</fpage>
+             <lpage>10</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">14984356</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B15">
+             <title>
+                <p>Osteoarthritis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Busija</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Bridgett</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Williams</snm>
+                   <fnm>SRM</fnm>
+                </au>
+                <au>
+                   <snm>Osborne</snm>
+                   <fnm>RH</fnm>
+                </au>
+                <au>
+                   <snm>Buchbinder</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>March</snm>
+                   <fnm>L</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Best Pract Re: Clin Rheumatol</source>
+             <pubdate>2010</pubdate>
+             <volume>24</volume>
+             <issue>6</issue>
+             <fpage>757</fpage>
+             <lpage>68</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.berh.2010.11.001</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B16">
+             <title>
+                <p>Associations of radiographical osteoarthritis of the hip and knee with locomotor disability in the Rotterdam Study</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Odding</snm>
+                   <fnm>E</fnm>
+                </au>
+             </aug>
+             <source>Ann Rheum Dis</source>
+             <pubdate>1998</pubdate>
+             <volume>57</volume>
+             <issue>4</issue>
+             <fpage>203</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/ard.57.4.203</pubid>
+                   <pubid idtype="pmpid" link="fulltext">9709175</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B17">
+             <title>
+                <p>Estimates of the prevalence of arthritis and selected musculoskeletal disorders in the United States</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Lawrence</snm>
+                   <fnm>RC</fnm>
+                </au>
+                <au>
+                   <snm>Helmick</snm>
+                   <fnm>CG</fnm>
+                </au>
+                <au>
+                   <snm>Arnett</snm>
+                   <fnm>FC</fnm>
+                </au>
+                <au>
+                   <snm>Deyo</snm>
+                   <fnm>RA</fnm>
+                </au>
+                <au>
+                   <snm>Felson</snm>
+                   <fnm>DT</fnm>
+                </au>
+                <au>
+                   <snm>Giannini</snm>
+                   <fnm>EH</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Arthritis Rheum.</source>
+             <pubdate>1998</pubdate>
+             <volume>41</volume>
+             <fpage>778</fpage>
+             <lpage>99</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1002/1529-0131(199805)41:5&lt;778::AID-ART4&gt;3.0.CO;2-V</pubid>
+                   <pubid idtype="pmpid" link="fulltext">9588729</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B18">
+             <title>
+                <p>OARSI recommendations for the management of hip and knee osteoarthritis, Part II: OARSI evidence-based, expert consensus guidelines</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Zhang</snm>
+                   <fnm>W</fnm>
+                </au>
+                <au>
+                   <snm>Moskowitz</snm>
+                   <fnm>RW</fnm>
+                </au>
+                <au>
+                   <snm>Nuki</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Abramson</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Altman</snm>
+                   <fnm>RD</fnm>
+                </au>
+                <au>
+                   <snm>Arden</snm>
+                   <fnm>N</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Osteoarthritis Cartilage</source>
+             <pubdate>2008</pubdate>
+             <volume>16</volume>
+             <issue>2</issue>
+             <fpage>137</fpage>
+             <lpage>62</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.joca.2007.12.013</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18279766</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B19">
+             <title>
+                <p>Chondropathy of the hip at arthroscopy: prevalence and relationship to labral pathology, femoro-acetabular impingement and patient-reported outcomes</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kemp</snm>
+                   <fnm>JL</fnm>
+                </au>
+                <au>
+                   <snm>Makdissi</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Pritchard</snm>
+                   <fnm>MG</fnm>
+                </au>
+                <au>
+                   <snm>Schache</snm>
+                   <fnm>AG</fnm>
+                </au>
+                <au>
+                   <snm>Pollard</snm>
+                   <fnm>TCB</fnm>
+                </au>
+                <au>
+                   <snm>Crossley</snm>
+                   <fnm>KM</fnm>
+                </au>
+             </aug>
+             <source>Br J Sports Med.</source>
+             <pubdate>2014</pubdate>
+             <volume>48</volume>
+             <fpage>1102</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/bjsports-2013-093312</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24659505</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B20">
+             <title>
+                <p>The cost of physical inactivity: moving into the 21st century</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Pratt</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Norris</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Lobelo</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Roux</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Wang</snm>
+                   <fnm>G</fnm>
+                </au>
+             </aug>
+             <source>Br J Sports Med</source>
+             <pubdate>2014</pubdate>
+             <volume>48</volume>
+             <issue>3</issue>
+             <fpage>171</fpage>
+             <lpage>3</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/bjsports-2012-091810</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23134760</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B21">
+             <title>
+                <p>150&#8197;minutes of vigorous physical activity per week predicts survival and successful ageing: a population-based 11-year longitudinal study of 12&#8197;201 older Australian men</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Almeida</snm>
+                   <fnm>OP</fnm>
+                </au>
+                <au>
+                   <snm>Khan</snm>
+                   <fnm>KM</fnm>
+                </au>
+                <au>
+                   <snm>Hankey</snm>
+                   <fnm>GJ</fnm>
+                </au>
+                <au>
+                   <snm>Yeap</snm>
+                   <fnm>BB</fnm>
+                </au>
+                <au>
+                   <snm>Golledge</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Flicker</snm>
+                   <fnm>L</fnm>
+                </au>
+             </aug>
+             <source>Br J Sports Med</source>
+             <pubdate>2014</pubdate>
+             <volume>48</volume>
+             <issue>3</issue>
+             <fpage>220</fpage>
+             <lpage>5</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/bjsports-2013-092814</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24002240</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B22">
+             <title>
+                <p>The importance of non-exercise physical activity for cardiovascular health and longevity</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Ekblom-Bak</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Ekblom</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Vikstr&#246;m</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>de Faire</snm>
+                   <fnm>U</fnm>
+                </au>
+                <au>
+                   <snm>Hell&#233;nius</snm>
+                   <fnm>M-L</fnm>
+                </au>
+             </aug>
+             <source>Br J Sports Med</source>
+             <pubdate>2014</pubdate>
+             <volume>48</volume>
+             <issue>3</issue>
+             <fpage>233</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/bjsports-2012-092038</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24167194</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B23">
+             <title>
+                <p>The feasibility of performing a randomised controlled trial for femoroacetabular impingement surgery</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Palmer</snm>
+                   <fnm>AJR</fnm>
+                </au>
+                <au>
+                   <snm>Thomas</snm>
+                   <fnm>GER</fnm>
+                </au>
+                <au>
+                   <snm>Pollard</snm>
+                   <fnm>TCB</fnm>
+                </au>
+                <au>
+                   <snm>Rombach</snm>
+                   <fnm>I</fnm>
+                </au>
+                <au>
+                   <snm>Taylor</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Arden</snm>
+                   <fnm>N</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Bone Joint Res</source>
+             <pubdate>2013</pubdate>
+             <volume>2</volume>
+             <issue>2</issue>
+             <fpage>33</fpage>
+             <lpage>40</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1302/2046-3758.22.2000137</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23610700</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B24">
+             <note>National Health and Medical Research Council clinical trials centre. Clinical trial designs and sample size. Sydney: University of Sydney; 22 September 2009. Report No.</note>
+          </bibl>
+          <bibl id="B25">
+             <title>
+                <p>SPIRIT 2013 explanation and elaboration: guidance for protocols of clinical trials</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Chan</snm>
+                   <fnm>AW</fnm>
+                </au>
+                <au>
+                   <snm>Tetzlaff</snm>
+                   <fnm>JM</fnm>
+                </au>
+                <au>
+                   <snm>Gotzsche</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Altman</snm>
+                   <fnm>DG</fnm>
+                </au>
+                <au>
+                   <snm>Mann</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Berlin</snm>
+                   <fnm>JA</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>BMJ.</source>
+             <pubdate>2013</pubdate>
+             <volume>346</volume>
+             <fpage>e7586</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/bmj.e7586</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23303884</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B26">
+             <title>
+                <p>Hip-related pain</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kemp</snm>
+                   <fnm>JL</fnm>
+                </au>
+                <au>
+                   <snm>Crossley</snm>
+                   <fnm>KM</fnm>
+                </au>
+                <au>
+                   <snm>Schache</snm>
+                   <fnm>AG</fnm>
+                </au>
+                <au>
+                   <snm>Pritchard</snm>
+                   <fnm>M</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Clinical sports medicine</source>
+             <publisher>McGraw-Hill, Sydney</publisher>
+             <editor>Brukner PD, Bahr R, Blair S, Cook JL, Crossley KM, McConnell J</editor>
+             <edition>4</edition>
+             <pubdate>2012</pubdate>
+             <fpage>510</fpage>
+             <lpage>44</lpage>
+          </bibl>
+          <bibl id="B27">
+             <title>
+                <p>The development of hip osteoarthritis: implications for conservative management</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Sims</snm>
+                   <fnm>K</fnm>
+                </au>
+             </aug>
+             <source>Man Ther</source>
+             <pubdate>1999</pubdate>
+             <volume>4</volume>
+             <issue>3</issue>
+             <fpage>127</fpage>
+             <lpage>35</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1054/math.1999.0191</pubid>
+                   <pubid idtype="pmpid" link="fulltext">10513442</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B28">
+             <title>
+                <p>Mobilisation with movement and exercise, corticosteroid injection, or wait and see for tennis elbow: randomised trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bisset</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Beller</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Jull</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Brooks</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Darnell</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Vicenzino</snm>
+                   <fnm>B</fnm>
+                </au>
+             </aug>
+             <source>BMJ</source>
+             <pubdate>2006</pubdate>
+             <volume>333</volume>
+             <issue>7575</issue>
+             <fpage>939</fpage>
+             <lpage>41</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/bmj.38961.584653.AE</pubid>
+                   <pubid idtype="pmpid" link="fulltext">17012266</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B29">
+             <title>
+                <p>Patient-perceived satisfactory improvement (PPSI): interpreting meaningful change in pain from the patient's perspective</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>ten Klooster</snm>
+                   <fnm>PM</fnm>
+                </au>
+                <au>
+                   <snm>Drossaers-Bakker</snm>
+                   <fnm>KW</fnm>
+                </au>
+                <au>
+                   <snm>Taal</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>van de Laar</snm>
+                   <fnm>MA</fnm>
+                </au>
+             </aug>
+             <source>Pain</source>
+             <pubdate>2006</pubdate>
+             <volume>121</volume>
+             <issue>1&#8211;2</issue>
+             <fpage>151</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.pain.2005.12.021</pubid>
+                   <pubid idtype="pmpid" link="fulltext">16472915</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B30">
+             <title>
+                <p>Measures of hip function and symptoms</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Nilsdotter</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Bremander</snm>
+                   <fnm>A</fnm>
+                </au>
+             </aug>
+             <source>Arthritis Care Res.</source>
+             <pubdate>2011</pubdate>
+             <volume>63</volume>
+             <issue>Suppl 11</issue>
+             <fpage>S200</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1002/acr.20549</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B31">
+             <title>
+                <p>Validation study of WOMAC: a health status instrument for measuring clinically-important patient-relevant outcomes following total hip or knee arthroplasty in osteoarthritis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bellamy</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Buchanon</snm>
+                   <fnm>WW</fnm>
+                </au>
+                <au>
+                   <snm>Goldsmith</snm>
+                   <fnm>CH</fnm>
+                </au>
+                <au>
+                   <snm>Campbell</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Stitt</snm>
+                   <fnm>L</fnm>
+                </au>
+             </aug>
+             <source>J Rheumatol.</source>
+             <pubdate>1988</pubdate>
+             <volume>15</volume>
+             <fpage>1833</fpage>
+             <lpage>40</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">3068365</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B32">
+             <aug>
+                <au>
+                   <snm>Kemp</snm>
+                   <fnm>JL</fnm>
+                </au>
+                <au>
+                   <snm>Collins</snm>
+                   <fnm>NJ</fnm>
+                </au>
+                <au>
+                   <snm>Roos</snm>
+                   <fnm>EM</fnm>
+                </au>
+                <au>
+                   <snm>Pritchard</snm>
+                   <fnm>MG</fnm>
+                </au>
+                <au>
+                   <snm>Crossley</snm>
+                   <fnm>KM</fnm>
+                </au>
+             </aug>
+             <source>Patient-reported outcome scores for hip arthroscopy demonstrate adequate psychometric properties</source>
+             <publisher>Osteoarthritis Research Society International, Philadelphia</publisher>
+             <pubdate>2013</pubdate>
+          </bibl>
+          <bibl id="B33">
+             <title>
+                <p>The development and validation of a self-administered quality-of-life outcome measure for young, active patients with symptomatic hip disease: the International Hip Outcome Tool (iHOT-33)</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Mohtadi</snm>
+                   <fnm>NGH</fnm>
+                </au>
+                <au>
+                   <snm>Griffin</snm>
+                   <fnm>DR</fnm>
+                </au>
+                <au>
+                   <snm>Pedersen</snm>
+                   <fnm>ME</fnm>
+                </au>
+                <au>
+                   <snm>Chan</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Safran</snm>
+                   <fnm>MR</fnm>
+                </au>
+                <au>
+                   <snm>Parsons</snm>
+                   <fnm>N</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Arthroscopy</source>
+             <pubdate>2012</pubdate>
+             <volume>28</volume>
+             <issue>5</issue>
+             <fpage>595</fpage>
+             <lpage>610</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.arthro.2012.03.013</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22542433</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B34">
+             <title>
+                <p>Psychometric properties of patient-reported outcome measures for hip arthroscopy</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kemp</snm>
+                   <fnm>JL</fnm>
+                </au>
+                <au>
+                   <snm>Collins</snm>
+                   <fnm>NJ</fnm>
+                </au>
+                <au>
+                   <snm>Roos</snm>
+                   <fnm>EM</fnm>
+                </au>
+                <au>
+                   <snm>Crossley</snm>
+                   <fnm>KM</fnm>
+                </au>
+             </aug>
+             <source>Am J Sports Med.</source>
+             <pubdate>2013</pubdate>
+             <volume>41</volume>
+             <fpage>2065</fpage>
+             <lpage>73</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1177/0363546513494173</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23835268</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B35">
+             <title>
+                <p>Greater understanding of normal hip physical function may guide clinicians in providing targeted rehabilitation programmes</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kemp</snm>
+                   <fnm>JL</fnm>
+                </au>
+                <au>
+                   <snm>Schache</snm>
+                   <fnm>AG</fnm>
+                </au>
+                <au>
+                   <snm>Makdissi</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Sims</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Crossley</snm>
+                   <fnm>KM</fnm>
+                </au>
+             </aug>
+             <source>J Sci Med Sport.</source>
+             <pubdate>2013</pubdate>
+             <volume>16</volume>
+             <fpage>292</fpage>
+             <lpage>6</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.jsams.2012.11.887</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23266242</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B36">
+             <title>
+                <p>Dynamic single-leg balance performance is impaired in individuals with hip chondropathy</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hatton</snm>
+                   <fnm>AL</fnm>
+                </au>
+                <au>
+                   <snm>Kemp</snm>
+                   <fnm>JL</fnm>
+                </au>
+                <au>
+                   <snm>Brauer</snm>
+                   <fnm>SG</fnm>
+                </au>
+                <au>
+                   <snm>Clark</snm>
+                   <fnm>RA</fnm>
+                </au>
+                <au>
+                   <snm>Crossley</snm>
+                   <fnm>KM</fnm>
+                </au>
+             </aug>
+             <source>Arthritis Care Res</source>
+             <pubdate>2014</pubdate>
+             <volume>66</volume>
+             <issue>5</issue>
+             <fpage>709</fpage>
+             <lpage>16</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1002/acr.22193</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B37">
+             <title>
+                <p>Hip adduction and abduction strength profiles in elite soccer players: implications for clinical evaluation of hip adductor muscle recovery after injury</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Thorborg</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Serner</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Petersen</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Madsen</snm>
+                   <fnm>TM</fnm>
+                </au>
+                <au>
+                   <snm>Magnusson</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>H&#246;lmich</snm>
+                   <fnm>P</fnm>
+                </au>
+             </aug>
+             <source>Am J Sports Med.</source>
+             <pubdate>2011</pubdate>
+             <volume>39</volume>
+             <fpage>121</fpage>
+             <lpage>6</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1177/0363546510378081</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20929931</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B38">
+             <title>
+                <p>Efficacy of a physiotherapy rehabilitation program for individuals undergoing arthroscopic management of femoroacetabular impingement &#8211; the FAIR trial: a randomised controlled trial protocol</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bennell</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>O'Donnell</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Takla</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Spiers</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Hunter</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Staples</snm>
+                   <fnm>M</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>BMC Musculoskelet Disord.</source>
+             <pubdate>2014</pubdate>
+             <volume>15</volume>
+             <fpage>58</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1186/1471-2474-15-58</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24571824</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B39">
+             <title>
+                <p>Non-surgical treatment of hip osteoarthritis. hip school, with or without the addition of manual therapy, in comparison to a minimal control intervention: protocol for a three-armed randomized clinical trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Poulsen</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Christensen</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Roos</snm>
+                   <fnm>EM</fnm>
+                </au>
+                <au>
+                   <snm>Vach</snm>
+                   <fnm>W</fnm>
+                </au>
+                <au>
+                   <snm>Overgaard</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Hartvigsen</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>BMC Musculoskeletal Disorders.</source>
+             <pubdate>2011</pubdate>
+             <volume>12</volume>
+             <fpage>88</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1186/1471-2474-12-88</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21542914</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B40">
+             <title>
+                <p>A pragmatic randomized controlled study of the effectiveness and cost consequences of exercise therapy in hip osteoarthritis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Juhakoski</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Malmivaara</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Kiviniemi</snm>
+                   <fnm>V</fnm>
+                </au>
+                <au>
+                   <snm>Anttonen</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Arokoski</snm>
+                   <fnm>JP</fnm>
+                </au>
+             </aug>
+             <source>Clin Rehabil.</source>
+             <pubdate>2011</pubdate>
+             <volume>25</volume>
+             <fpage>370</fpage>
+             <lpage>83</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1177/0269215510388313</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21078702</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B41">
+             <title>
+                <p>People with chondropathy have greater physical impairments than those without following hip arthroscopy</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kemp</snm>
+                   <fnm>JL</fnm>
+                </au>
+                <au>
+                   <snm>Schache</snm>
+                   <fnm>AG</fnm>
+                </au>
+                <au>
+                   <snm>Makdissi</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Pritchard</snm>
+                   <fnm>MG</fnm>
+                </au>
+                <au>
+                   <snm>Crossley</snm>
+                   <fnm>KM</fnm>
+                </au>
+             </aug>
+             <source>Osteoarthritis Cartilage.</source>
+             <pubdate>2013</pubdate>
+             <volume>21 Suppl</volume>
+             <fpage>S274</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.joca.2013.02.574</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+       </refgrp>
+    </bm>
+ </art>

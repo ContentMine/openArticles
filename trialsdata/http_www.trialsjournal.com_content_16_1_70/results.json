@@ -1,0 +1,106 @@
+{
+  "publisher": {
+    "value": [
+      "BioMed Central Ltd"
+    ]
+  },
+  "journal": {
+    "value": [
+      "Trials"
+    ]
+  },
+  "title": {
+    "value": [
+      "The gametocytocidal efficacy of primaquine in malaria asymptomatic carriers treated with dihydroartemisinin-piperaquine in The Gambia (PRINOGAM): study protocol for a randomised controlled trial"
+    ]
+  },
+  "authors": {
+    "value": [
+      "Joseph Okebe",
+      "Teun Bousema",
+      "Muna Affara",
+      "GianLuca DiTanna",
+      "Alice C Eziefula",
+      "Musa Jawara",
+      "Davis Nwakanma",
+      "Alfred Amambua-Ngwa",
+      "Jean-Pierre Van geertruyden",
+      "Chris Drakeley",
+      "Umberto D’Alessandro"
+    ]
+  },
+  "date": {
+    "value": [
+      "2015-03-01"
+    ]
+  },
+  "doi": {
+    "value": [
+      "10.1186/s13063-015-0597-1"
+    ]
+  },
+  "volume": {
+    "value": [
+      "16"
+    ]
+  },
+  "issue": {
+    "value": [
+      "1"
+    ]
+  },
+  "firstpage": {
+    "value": [
+      "70"
+    ]
+  },
+  "description": {
+    "value": [
+      "Finding efficacious tools to decrease and interrupt malaria transmission is essential to sustain the gains in malaria control and contain the emergence of artemisinin resistance. Primaquine is effective against Plasmodium falciparum gametocytes and recommended for treatment campaigns in (pre-)elimination settings. Safety concerns preclude its use in endemic African countries with variable proportions of glucose-6-phosphate dehydrogenase (G6PD)-deficient individuals. The efficacy of the current recommended dose needs to be evaluated, particularly in individuals with an asymptomatic malaria infection."
+    ]
+  },
+  "abstract": {
+    "value": [
+      "Finding efficacious tools to decrease and interrupt malaria transmission is essential to sustain the gains in malaria control and contain the emergence of artemisinin resistance. Primaquine is effective against Plasmodium falciparum gametocytes and recommended for treatment campaigns in (pre-)elimination settings. Safety concerns preclude its use in endemic African countries with variable proportions of glucose-6-phosphate dehydrogenase (G6PD)-deficient individuals. The efficacy of the current recommended dose needs to be evaluated, particularly in individuals with an asymptomatic malaria infection."
+    ]
+  },
+  "fulltext_html": {
+    "value": [
+      "http://www.trialsjournal.com/content/16/1/70"
+    ]
+  },
+  "fulltext_pdf": {
+    "value": [
+      "http://www.trialsjournal.com/content/pdf/s13063-015-0597-1.pdf"
+    ]
+  },
+  "fulltext_xml": {
+    "value": [
+      "/content/download/xml/s13063-015-0597-1.xml"
+    ]
+  },
+  "supplementary_material": {
+    "value": []
+  },
+  "figure": {
+    "value": [
+      "/content/figures/s13063-015-0597-1-1.gif"
+    ]
+  },
+  "figure_caption": {
+    "value": [
+      "Figure 1.",
+      "DHA-PPQ, dihydroartemisinin-piperaquine; DMFA, direct membrane feeding assay; Hb,\n            haemoglobin; G6PD, glucose-6-phosphate dehydrogenase; PCR, polymerase chain reaction;\n            PQ, primaquine; RDT, rapid diagnostic test."
+    ]
+  },
+  "license": {
+    "value": [
+      "\r\n\t\t\t\tThis is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.\r\n\t\t\t"
+    ]
+  },
+  "copyright": {
+    "value": [
+      "\r\n            © 2015 Okebe et al.; licensee BioMed Central. \r\n        "
+    ]
+  }
+}

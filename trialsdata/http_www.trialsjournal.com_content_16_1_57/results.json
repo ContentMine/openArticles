@@ -1,0 +1,89 @@
+{
+  "publisher": {
+    "value": [
+      "BioMed Central Ltd"
+    ]
+  },
+  "journal": {
+    "value": [
+      "Trials"
+    ]
+  },
+  "title": {
+    "value": [
+      "Is the relationship among outcome variables shown in randomized trials?"
+    ]
+  },
+  "authors": {
+    "value": [
+      "David L Schriger",
+      "Richelle J Cooper",
+      "Ana Lopez-O’Sullivan",
+      "Carter Wystrach",
+      "Douglas G Altman"
+    ]
+  },
+  "date": {
+    "value": [
+      "2015-02-22"
+    ]
+  },
+  "doi": {
+    "value": [
+      "10.1186/s13063-015-0584-6"
+    ]
+  },
+  "volume": {
+    "value": [
+      "16"
+    ]
+  },
+  "issue": {
+    "value": [
+      "1"
+    ]
+  },
+  "firstpage": {
+    "value": [
+      "57"
+    ]
+  },
+  "description": {
+    "value": [
+      "Randomized controlled trials (RCTs) often have more than one primary outcome and frequently have secondary and harm outcomes. Comparison of outcomes between study arms is the primary focus of RCTs, but there are times when the relation between outcomes is important, such as determining whether an intermediate outcome and a clinical outcome have a strong association. We sought to determine how often reports of RCTs depict the relations among outcomes at the individual patient level and, for those studies that use composite outcomes, how often the relations between component elements are depicted."
+    ]
+  },
+  "abstract": {
+    "value": [
+      "Randomized controlled trials (RCTs) often have more than one primary outcome and frequently have secondary and harm outcomes. Comparison of outcomes between study arms is the primary focus of RCTs, but there are times when the relation between outcomes is important, such as determining whether an intermediate outcome and a clinical outcome have a strong association. We sought to determine how often reports of RCTs depict the relations among outcomes at the individual patient level and, for those studies that use composite outcomes, how often the relations between component elements are depicted."
+    ]
+  },
+  "fulltext_html": {
+    "value": []
+  },
+  "fulltext_pdf": {
+    "value": [
+      "http://www.trialsjournal.com/content/pdf/s13063-015-0584-6.pdf"
+    ]
+  },
+  "fulltext_xml": {
+    "value": []
+  },
+  "supplementary_material": {
+    "value": [
+      "http://trialsjournal.com/content/download/supplementary/s13063-015-0584-6-s1.doc"
+    ]
+  },
+  "figure": {
+    "value": []
+  },
+  "figure_caption": {
+    "value": []
+  },
+  "license": {
+    "value": []
+  },
+  "copyright": {
+    "value": []
+  }
+}

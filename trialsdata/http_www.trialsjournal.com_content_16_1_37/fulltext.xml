@@ -1,0 +1,1605 @@
+<?xml version='1.0'?>
+<!DOCTYPE art SYSTEM 'http://www.biomedcentral.com/xml/article.dtd'>
+<art>
+    <ui>s13063-015-0561-0</ui>
+    <ji>1745-6215</ji>
+    <fm>
+       <dochead>Study protocol</dochead>
+       <bibl>
+          <title>
+             <p>Effects and cost-effectiveness of pharmacogenetic screening for CYP2D6 among older adults starting therapy with nortriptyline or venlafaxine: study protocol for a pragmatic randomized controlled trial (CYSCEtrial)</p>
+          </title>
+          <aug>
+             <au id="A1">
+                <snm>Berm</snm>
+                <mnm>JJ</mnm>
+                <fnm>Elizabeth</fnm>
+                <insr iid="I1"/>
+                <email>e.j.j.berm@rug.nl</email>
+             </au>
+             <au id="A2">
+                <snm>Hak</snm>
+                <fnm>Eelko</fnm>
+                <insr iid="I2"/>
+                <insr iid="I3"/>
+                <email>e.hak@rug.nl</email>
+             </au>
+             <au id="A3">
+                <snm>Postma</snm>
+                <fnm>Maarten</fnm>
+                <insr iid="I2"/>
+                <insr iid="I3"/>
+                <email>m.j.postma@rug.nl</email>
+             </au>
+             <au id="A4">
+                <snm>Boshuisen</snm>
+                <fnm>Marjolein</fnm>
+                <insr iid="I4"/>
+                <email>m.boshuisen@lentis.nl</email>
+             </au>
+             <au id="A5">
+                <snm>Breuning</snm>
+                <fnm>Laura</fnm>
+                <insr iid="I5"/>
+                <email>l.breuning@rvagroep.nl</email>
+             </au>
+             <au id="A6">
+                <snm>Brouwers</snm>
+                <mnm>RBJ</mnm>
+                <fnm>Jacobus</fnm>
+                <insr iid="I1"/>
+                <insr iid="I6"/>
+                <email>jrbjbrouwers@stbebo.nl</email>
+             </au>
+             <au id="A7">
+                <snm>Dhondt</snm>
+                <fnm>Ton</fnm>
+                <insr iid="I7"/>
+                <email>a.dhondt@ggz-nhn.nl</email>
+             </au>
+             <au id="A8">
+                <snm>Jansen</snm>
+                <mnm>AF</mnm>
+                <fnm>Paul</fnm>
+                <insr iid="I6"/>
+                <email>p.a.f.jansen@umcutrecht.nl</email>
+             </au>
+             <au id="A9">
+                <snm>Kok</snm>
+                <mi>M</mi>
+                <fnm>Rob</fnm>
+                <insr iid="I8"/>
+                <email>r.kok@parnassia.nl</email>
+             </au>
+             <au id="A10">
+                <snm>Maring</snm>
+                <mi>G</mi>
+                <fnm>Jan</fnm>
+                <insr iid="I9"/>
+                <email>maring@noorderboog.nl</email>
+             </au>
+             <au id="A11">
+                <snm>van Marum</snm>
+                <fnm>Rob</fnm>
+                <insr iid="I10"/>
+                <insr iid="I11"/>
+                <email>r.v.marum@jbz.nl</email>
+             </au>
+             <au id="A12">
+                <snm>Mulder</snm>
+                <fnm>Hans</fnm>
+                <insr iid="I12"/>
+                <email>hans.mulder@wza.nl</email>
+             </au>
+             <au id="A13">
+                <snm>Voshaar</snm>
+                <mi>C Oude</mi>
+                <fnm>Richard</fnm>
+                <insr iid="I13"/>
+                <email>r.c.oude.voshaar@umcg.nl</email>
+             </au>
+             <au id="A14">
+                <snm>Risselada</snm>
+                <mi>J</mi>
+                <fnm>Arne</fnm>
+                <insr iid="I12"/>
+                <email>arne.risselada@wza.nl</email>
+             </au>
+             <au id="A15">
+                <snm>Venema</snm>
+                <fnm>Harry</fnm>
+                <insr iid="I14"/>
+                <email>harry.venema@ggzfriesland.nl</email>
+             </au>
+             <au id="A16">
+                <snm>Vleugel</snm>
+                <fnm>Liesbeth</fnm>
+                <insr iid="I15"/>
+                <email>l.vleugel@ggzingeest.nl</email>
+             </au>
+             <au id="A17" ca="yes">
+                <snm>Wilffert</snm>
+                <fnm>Bob</fnm>
+                <insr iid="I1"/>
+                <insr iid="I16"/>
+                <email>b.wilffert@rug.nl</email>
+             </au>
+          </aug>
+          <insg>
+             <ins id="I1">
+                <p>Groningen Institute of Pharmacy, University of Groningen, Unit of Pharmacotherapy &amp; Pharmaceutical Care, Antonius Deusinglaan 1, Groningen, 9713AV, The Netherlands</p>
+             </ins>
+             <ins id="I2">
+                <p>Groningen Institute of Pharmacy, University of Groningen, Unit of Pharmacoepidemiology &amp; Pharmacoeconomics, Groningen, The Netherlands</p>
+             </ins>
+             <ins id="I3">
+                <p>Department of Epidemiology, University Medical Center Groningen, Groningen, The Netherlands</p>
+             </ins>
+             <ins id="I4">
+                <p>Lentis, Dignis, Groningen, The Netherlands</p>
+             </ins>
+             <ins id="I5">
+                <p>Departement of Old Age and Clinical Psychiatry, Reinier van Arkel Group, &#8216;s-Hertogenbosch, The Netherlands</p>
+             </ins>
+             <ins id="I6">
+                <p>Department of Geriatric Medicine and Expertise Centere Pharmacotherapy in Old Persons, UMC Utrecht, Utrecht, The Netherlands</p>
+             </ins>
+             <ins id="I7">
+                <p>Department of Old-age Psychiatry, GGZ-Noord Holland Noord, Heerhugowaard, The Netherlands</p>
+             </ins>
+             <ins id="I8">
+                <p>Department of Old Age, Parnassia Psychiatric Institute, The Hague, The Netherlands</p>
+             </ins>
+             <ins id="I9">
+                <p>Laboratory for Drug Analysis &amp; Toxicology, Diaconessen Hospital Meppel &amp; Bethesda Hospital Hoogeveen, Meppel, The Netherlands</p>
+             </ins>
+             <ins id="I10">
+                <p>Department of Geriatric Medicine, Jeroen Bosch Hospital, &#8216;s Hertogenbosch, The Netherlands</p>
+             </ins>
+             <ins id="I11">
+                <p>Department of General Practice &amp; Elderly Care Medicine, VU University, Amsterdam, The Netherlands</p>
+             </ins>
+             <ins id="I12">
+                <p>Clinical Pharmacy, Wilhelmina Hospital Assen, Assen, The Netherlands</p>
+             </ins>
+             <ins id="I13">
+                <p>University of Groningen, University Medical Center Groningen, University Center for Psychiatry, Groningen, The Netherlands</p>
+             </ins>
+             <ins id="I14">
+                <p>Department of Old Age Psychiatry, GGZ Friesland, Leeuwarden, The Netherlands</p>
+             </ins>
+             <ins id="I15">
+                <p>Department of Old Age Psychiatry, GGZ inGeest, Haarlem, The Netherlands</p>
+             </ins>
+             <ins id="I16">
+                <p>Department of Clinical Pharmacy and Pharmacology, University Medical Center Groningen, Groningen, The Netherlands</p>
+             </ins>
+          </insg>
+          <source>Trials</source>
+          <issn>1745-6215</issn>
+          <pubdate>2015</pubdate>
+          <volume>16</volume>
+          <issue>1</issue>
+          <fpage>37</fpage>
+          <url>http://www.trialsjournal.com/content/16/1/37</url>
+          <xrefbib>
+             <pubidlist>
+                <pubid idtype="doi">10.1186/s13063-015-0561-0</pubid>
+             </pubidlist>
+          </xrefbib>
+       </bibl>
+       <history>
+          <rec>
+             <date>
+                <day>15</day>
+                <month>10</month>
+                <year>2014</year>
+             </date>
+          </rec>
+          <acc>
+             <date>
+                <day>12</day>
+                <month>1</month>
+                <year>2015</year>
+             </date>
+          </acc>
+          <pub>
+             <date>
+                <day>31</day>
+                <month>1</month>
+                <year>2015</year>
+             </date>
+          </pub>
+       </history>
+       <cpyrt>
+          <year>2015</year>
+          <collab>Berm et al.; licensee BioMed Central.</collab>
+          <note>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/4.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (<url>http://creativecommons.org/publicdomain/zero/1.0/</url>) applies to the data made available in this article, unless otherwise stated.</note>
+       </cpyrt>
+       <kwdg>
+          <kwd>CYP2D6</kwd>
+          <kwd>Pharmacogenetics</kwd>
+          <kwd>Depression</kwd>
+          <kwd>Nortriptyline</kwd>
+          <kwd>Venlafaxine</kwd>
+       </kwdg>
+       <abs>
+          <sec>
+             <st>
+                <p>Abstract</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Background</p>
+                </st>
+                <p>Nortriptyline and venlafaxine are commonly used antidepressants for treatment of depression in older patients. Both drugs are metabolized by the polymorphic cytochrome P450-2D6 (CYP2D6) enzyme and guidelines for dose adaptations based on the <it>CYP2D6</it> genotype have been developed. The CYP2D6 Screening Among Elderly (CYSCE) trial is designed to address the potential health and economic value of genotyping for <it>CYP2D6</it> in optimizing dose-finding of nortriptyline and venlafaxine.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Methods/Design</p>
+                </st>
+                <p>In a pragmatic randomized controlled trial, patients diagnosed with a major depressive disorder according to the DSM-IV and aged 60&#160;years or older will be recruited from psychiatric centers across the Netherlands. After <it>CYP2D6</it> genotyping determined in peripheral blood obtained by finger-prick, patients will be grouped into poor, intermediate, extensive, or ultrarapid metabolizers. Patients with deviant genotype (that is poor, intermediate or ultrarapid genotype) will be randomly allocated to an intervention group in which the genotype and dosing advice is communicated to the treating physician, or to a control group in which patients receive care as usual. Additionally, an external reference group of patients with the extensive metabolizer genotype is included. Primary outcome in all groups is time needed to obtain an adequate blood level of the antidepressant drug. Secondary outcomes include adverse drug reactions measured by a shortened Antidepressant Side-Effects Checklist (ASEC), and cost-effectiveness of the screening.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Discussion</p>
+                </st>
+                <p>Results of this trial will guide policy-making with regard to pharmacogenetic screening prior to treatment with nortriptyline or venlafaxine among older patients with depression.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Trial registration</p>
+                </st>
+                <p>ClinicalTrials.gov: <url>NCT01778907</url>; registration date: 22 January 2013.</p>
+             </sec>
+          </sec>
+       </abs>
+    </fm>
+    <bdy>
+       <sec>
+          <st>
+             <p>Background</p>
+          </st>
+          <p>Depressive disorder is a chronic disease with a considerable impact on mental and physical health as well as quality of life <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>. The 1-month prevalence of major depressive disorder (MDD) in the Dutch population (aged 55 to 85&#160;years) is estimated around 2.0% <abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp>. From a meta-analysis (studies included from 1999 to 2009) a higher point prevalence estimation of 7.2 % has been reported for late life depression (75+ years) <abbrgrp>
+                <abbr bid="B3">3</abbr>
+             </abbrgrp>. Among all mental diseases, MDD is ranked as a very disabling disease <abbrgrp>
+                <abbr bid="B4">4</abbr>
+             </abbrgrp> and depressive disorders are projected to be the largest cause for disability by 2030 in high-income countries <abbrgrp>
+                <abbr bid="B5">5</abbr>
+             </abbrgrp>.</p>
+          <p>MDD can be treated with antidepressants, which are classified into different groups: selective serotonin reuptake inhibitors (SSRIs), tricyclic antidepressant (TCAs) and others (for example,. selective serotonin-noradrenaline reuptake inhibitors (SNRIs), mirtazapine, monoamine oxidase inhibitors). Although overall efficacy estimates are virtually similar between these drug groups, adverse drug profiles differ <abbrgrp>
+                <abbr bid="B6">6</abbr>
+             </abbrgrp>. Worldwide, clinical guidelines usually advise first-step treatment with an SSRI because of a more favorable adverse effect profile compared to other antidepressants (for example, fewer cardiac side-effects and often lower drug anticholinergic side-effects) <abbrgrp>
+                <abbr bid="B7">7</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B8">8</abbr>
+             </abbrgrp>. If the chosen SSRI is not effective, switching to a TCA, preferably nortriptyline, or an SNRI, mostly venlafaxine, is an option <abbrgrp>
+                <abbr bid="B7">7</abbr>
+             </abbrgrp>.</p>
+          <p>Venlafaxine and nortriptyline are both metabolized by the polymorphic cytochrome P450 (CYP2D6) iso-enzyme <abbrgrp>
+                <abbr bid="B8">8</abbr>
+             </abbrgrp>. Its polymorphic differences are generally classified into four different phenotypes: poor metabolizers (PM), intermediate metabolizers (IM), extensive metabolizers (EM), and ultrarapid metabolizers (UM). With respect to EM, PM and IM have a decreased enzymatic activity whereas UM have a higher activity, which is described in more depth elsewhere <abbrgrp>
+                <abbr bid="B9">9</abbr>
+             </abbrgrp>. As a result of the variation in metabolizing capacity, as well as differences in gender, age, co-medication, and comorbidity among patients, different pharmacokinetics are observed <abbrgrp>
+                <abbr bid="B9">9</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B10">10</abbr>
+             </abbrgrp>. These differences can be monitored by therapeutic drug monitoring (TDM), which helps to find the right dosage for an individual patient. TDM of nortriptyline is &#8216;strongly recommended&#8217; and for venlafaxine it is recommended especially during start of therapy <abbrgrp>
+                <abbr bid="B11">11</abbr>
+             </abbrgrp>. Prior and in addition to TDM, information about the metabolic CYP2D6 activity could further improve this dose-finding. Since it is possible to detect polymorphic differences of <it>CYP2D6</it> based on genetic material, it is not dependent on the actual antidepressant intake (patient compliance) or collection time of the sample, like TDM samples are.</p>
+          <p>For nortriptyline and venlafaxine genotyped-based dose adjustment guidelines have been formulated <abbrgrp>
+                <abbr bid="B10">10</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B12">12</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B13">13</abbr>
+             </abbrgrp>. In the Netherlands, the Royal Dutch Pharmacist Association (KNMP) has made such guidelines available for current clinical practice <abbrgrp>
+                <abbr bid="B14">14</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B15">15</abbr>
+             </abbrgrp>.</p>
+          <p>Despite the large number of studies that assessed the relationship between pharmacogenetics and pharmacokinetics of antidepressants, implementation of pharmacogenetic knowledge into clinical practice is still scarce. The hypothesized clinical improvements facilitated by genotype-based dose adjustments in addition to current TDM, like improved efficacy and prevention of adverse drug reactions, are still a matter of controversy and discussion <abbrgrp>
+                <abbr bid="B16">16</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B17">17</abbr>
+             </abbrgrp>. There is a need to test this hypothesis in daily clinical practice. Therefore, we designed a pragmatic multicenter randomized controlled trial to determine the effects of a pharmacogenetic screening for <it>CYP2D6</it> on the time needed to obtain adequate blood levels of nortriptyline or venlafaxine. Since older persons are more vulnerable for adverse drug reactions, beneficial effects of genotype adjusted dosing are expected to be more apparent in this population. Therefore, the trial is conducted among older depressed patients starting with nortriptyline or venlafaxine. The cost-effectiveness of this screening will be assessed to support decision-making on the potential implementation of screening for <it>CYP2D6</it> genotype in daily clinical practice. The trial is designed to allow reporting according to the CONSORT guidelines <abbrgrp>
+                <abbr bid="B18">18</abbr>
+             </abbrgrp>.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Method/Design</p>
+          </st>
+          <sec>
+             <st>
+                <p>Study design</p>
+             </st>
+             <p>The study is a multicenter randomized controlled trial across multiple old age psychiatry and geriatric mental health care institutions in the Netherlands. Patients will be recruited by their treating physician or a specialized trial nurse. The study consists of two parts and for both parts separate written informed consent will be obtained. The first part is a basic genotype screening study in which each eligible patient (see description in Participants below) starting with nortriptyline or venlafaxine will be asked permission for genotyping. Patients with a PM, IM and UM genotype will be selected for participation in the second (trial) part of the study. After giving the second informed consent, the trial entails a follow-up period of 6&#160;weeks or longer in order to monitor the blood levels and adverse reactions of either nortriptyline or venlafaxine. A random selection of patients with an EM genotype will be allocated to an additional reference group (Figure&#160;<figr fid="F1">1</figr>). Recruitment is expected to be completed within approximately 3&#160;years. If selected for the trial part of the study, eligible patients are invited for a baseline visit. At baseline, 2&#160;weeks, and 4&#160;weeks after baseline blood samples are collected to estimate the blood level of the drug by a &#8216;Dried Blood Spot&#8217; (DBS) method. Additionally, questionnaires concerning adverse drug reactions, quality of life, productivity and health care use, and severity of depression are completed. Patients who do not complete dose-finding after 6&#160;weeks will be followed for additional 2-week measurements until dose-finding is completed. These additional 2-week samples will be collected only for those patients who had a dose change 3&#160;weeks or less prior to the moment the sample was collected, since it can take up to 2 to 3&#160;weeks for PMs of nortriptyline to reach steady state concentration <abbrgrp>
+                   <abbr bid="B19">19</abbr>
+                </abbrgrp>. When the follow-up period is finished for an individual patient, the genotype information will be supplied to the treating physician. Ethical approval was obtained by an Independent Ethics Committee (RTPO-Leeuwarden-NL; file number: NL40925.099.12) and the study will be conducted in accordance with the Declaration of Helsinki.
+                  </p>
+             
+                <fig id="F1">
+                   <title>
+                      <p>Figure 1</p>
+                   </title>
+                   <caption>
+                      <p>Flowchart for inclusion of patients. </p>
+                   </caption>
+                   <text>
+                      <p>
+                            <b>Flowchart for inclusion of patients.</b>                          
+                      </p>
+                   </text>
+                   <graphic file="s13063-015-0561-0-1"/>
+                </fig>
+             
+          </sec>
+          <sec>
+             <st>
+                <p>Participants</p>
+             </st>
+             <p>Patients 60&#160;years or older and diagnosed with a major depression according to the <it>Diagnostic and Statistical Manual of Mental Disorders, fourth edition text revision</it> (DSM-IV TR) <abbrgrp>
+                   <abbr bid="B20">20</abbr>
+                </abbrgrp>, criteria (code: 296.2x or 296.3x) diagnosed by the treating physician, are eligible for inclusion. Patients should be starting with either nortriptyline or venlafaxine and competent to understand the two separate informed consent procedures. Patients with known liver cell damage, which in clinical practice often serves as a proxy for a poor hepatic function (aspartate aminotransferase and alanine aminotransferase (ASAT/ALAT) or gamma-glutamyl transferase (&#947;-GT)&#8201;&#8805;&#8201;twice the maximal reference value), impaired renal function (eGFR&#8201;&lt;&#8201;30&#160;mL/minute) in combination with venlafaxine use, or currently using drugs influencing blood levels of nortriptyline or venlafaxine are excluded for trial participation. Patients using terbinafine, ketoconazole, voriconazole, kinidine, propafenon, cimetidine, fluoxetine, paroxetine, bupropion, duloxetine, sertraline, abirateron, cinacalcet, rifampicine, and ritanovir are excluded for trial participation. For these drugs, interactions can be expected based on pharmacy interaction monitoring software (G-standaard, Z-index BV, The Hague, The Netherlands), summary of product characteristics, and Flockhart&#8217;s interaction table <abbrgrp>
+                   <abbr bid="B21">21</abbr>
+                </abbrgrp>.</p>
+             <sec>
+                <st>
+                   <p>
+                      <it>CYP2D6</it> genotyping</p>
+                </st>
+                <p>In the first part of the study, a DBS sample for genotyping will be taken at the time of prescription of nortriptyline or venlafaxine by means of a finger-prick <abbrgrp>
+                      <abbr bid="B22">22</abbr>
+                   </abbrgrp>. The sample will be sent to the Pharmacogenetic lab of the Wilhelmina Hospital Assen (Assen, the Netherlands), for analysis. Single nuclear polymorphism (SNPs) will be assessed for the *3, *4, *5, *6, *10, *17, *41 alleles, as well as duplications of the <it>CYP2D6</it> gene. Presence of an allele that completely lacks enzyme activity (*3, *4, *5, *6 ) paired with another allele completely lacking enzyme activity results in a PM phenotype prediction and in an IM phenotype prediction if paired with an allele with decreased enzyme activity (*10, *17, *41). Presence of only one allele lacking enzyme activity, or two alleles with decreased enzyme activity also results in an IM phenotype prediction. Duplications of the <it>CYP2D6</it> gene results in an UM phenotype prediction unless it is combined with any allele with reduced or lacking enzyme activity. Duplications combined with any allele with reduced or lacking enzyme activity results in exclusion of the patient from follow-up because no adequate dosing advice can be given for these genotypes. After inclusion, genotype information will be available for randomization within 6 to 9&#160;days.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Baseline</p>
+             </st>
+             <p>Baseline assessment will include a severity of depression score measured by the Montgomery-Asberg Depression Rating Scale and measurement of symptoms which are followed-up as adverse events during the further trial <abbrgrp>
+                   <abbr bid="B23">23</abbr>
+                </abbrgrp>. In addition, comorbidities and drug use other than nortriptyline and venlafaxine will be collected by the Short Form Health and Labor Questionnaire <abbrgrp>
+                   <abbr bid="B24">24</abbr>
+                </abbrgrp>.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Randomization and allocation</p>
+             </st>
+             <p>After the genotype is determined, patients with a PM, IM, or UM genotype are selected and randomly allocated by computer to the &#8216;deviating genotype-intervention arm&#8217; (DG-I) or &#8216;deviating genotype-control arm&#8217; (DG-C) for participation in the main study (Figure&#160;<figr fid="F1">1</figr>). An additional sample of patients with the EM genotype is allocated to a third &#8216;normal genotype- control&#8217; arm (NG-C). The PM, IM and UM genotypes for <it>CYP2D6</it> are expected to be found in approximately 30% of the population <abbrgrp>
+                   <abbr bid="B9">9</abbr>
+                </abbrgrp>. Therefore, it is expected that patients with the EM genotype will be found more frequently than patients with a deviating genotype. To prevent any potential time-dependent bias, the selection of patients with an EM genotype allocated to the NG-C arm is dependent on the number of patients in the other trial arms.</p>
+             <sec>
+                <st>
+                   <p>Deviating genotype-intervention arm (DG-I)</p>
+                </st>
+                <p>The DG-I arm includes patients with a PM, IM, or UM genotype. The specific genotype accompanied by dosing advice is directly communicated to the treating physician. This should preferably take place 14&#160;days after inclusion. The dosing advice is based on the genotype and drug only, meaning some standard advice depending on these two variables is given by an automatically generated message (see Additional file <supplr sid="S1">1</supplr>).</p></sec>
+             <sec>
+                <st>
+                   <p>Deviating genotype-control arm (DG-C) and normal genotype-control arm (NG-C)</p>
+                </st>
+                <p>The DG-C arm includes patients with a deviating genotype and the NG-C arm will include patients with a normal genotype. In contrast to patients in the intervention arm, the treating physician will not be informed about the genotype of patients in one of the control arms. Although methodologically there is a different approach for deviating and normal genotype patients, for the physician, patients will appears as one control group. This ensures that patients in the control group can have any genotype as in the normal population.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Outcomes</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Primary outcome</p>
+                </st>
+                <p>Primary outcome will be the time needed to reach adequate blood levels of nortriptyline or venlafaxine, which will be determined by a DBS sample <abbrgrp>
+                      <abbr bid="B25">25</abbr>
+                   </abbrgrp>,<abbrgrp>
+                      <abbr bid="B26">26</abbr>
+                   </abbrgrp>. The use of DBS for therapeutic drug monitoring is described in more depth elsewhere <abbrgrp>
+                      <abbr bid="B27">27</abbr>
+                   </abbrgrp>. Blood samples will be sent to the Laboratory for Drug Analysis &amp; Toxicology of the Diaconessen Hospital (Meppel, the Netherlands). Advised therapeutic ranges follow the current Dutch Clinical Pharmacy guidelines (NVZA), indicating for nortriptyline levels between 50 to 150&#160;&#956;g/L and for venlafaxine&#8201;+&#8201;O-desmethylvenlafaxine between 100 to 400&#160;&#956;g/L. We defined adequate drug levels as <abbrgrp>
+                      <abbr bid="B1">1</abbr>
+                   </abbrgrp> being within the therapeutic range and <abbrgrp>
+                      <abbr bid="B2">2</abbr>
+                   </abbrgrp> no dose changes during the previous 3&#160;weeks.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Secondary outcome</p>
+                </st>
+                <p>Secondary outcomes will be adverse drug reactions measured by a shorter and modified version of the Antidepressant Side-Effect Checklist (ASEC) <abbrgrp>
+                      <abbr bid="B28">28</abbr>
+                   </abbrgrp>, quality of life measured by the EuroQol 5D (EQ5D) <abbrgrp>
+                      <abbr bid="B29">29</abbr>
+                   </abbrgrp>, and productivity and cost of health care use measured by the Trimbos/iMTA questionnaire for Cost associated with Psychiatric Illness (TiC-P) <abbrgrp>
+                      <abbr bid="B24">24</abbr>
+                   </abbrgrp>. Severity of depression will be measured to control for possible differences between groups related to the severity of depression instead of the genotype-based intervention, by the Quick Inventory of Depressive Symptomatology Self-Reported Questionnaire (QIDS-SR) <abbrgrp>
+                      <abbr bid="B30">30</abbr>
+                   </abbrgrp>. Secondary outcomes will all be measured by a telephone interview from baseline till endpoint, every 2&#160;weeks, except for the side-effects. Side-effects will be assessed by the treating physician and will additionally be collected before start of the treatment. In this way we will be able to correct for symptoms of depression or other underlying physical diseases, which are often perceived by the patient as side-effects of the antidepressant <abbrgrp>
+                      <abbr bid="B28">28</abbr>
+                   </abbrgrp>.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Sample size calculation</p>
+             </st>
+             <p>Based on clinical experience in the research setting it is expected that on average it takes 4&#160;weeks for patients with a deviating genotype to reach adequate serum drug levels. It is hypothesized that time to reach adequate levels will be reduced by 50% (2&#160;weeks) if we provide the screening information to the physician within 6 to 9&#160;days. To obtain 90% power to detect a 50% reduction from 4 to 2&#160;weeks (SD 3&#160;weeks) with a type-1 error of 2.5% to account for multiple testing (within trial and externaltrial), a minimum of 48 patients per arm is needed. To account for loss to follow-up we intend to include at least 75 patients per arm.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Statistical analysis and report</p>
+             </st>
+             <p>Reporting and analysis of the data from this trial will be in accordance with the CONSORT 2010 guidelines <abbrgrp>
+                   <abbr bid="B18">18</abbr>
+                </abbrgrp>.</p>
+             <sec>
+                <st>
+                   <p>Baseline</p>
+                </st>
+                <p>Baseline characteristics will be presented using descriptive statistics including means or medians for continuous variables and percentages for categorical variables. Analytical statistics to estimate difference between the group of patients who were lost to follow-up versus patients who completed the trial as well as between the different study arms will be determined by <it>t</it>-tests or non-parametric alternatives for continuous variables and Chi-square tests for categorical variables.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Primary analysis</p>
+                </st>
+                <p>The primary analysis will assess the mean time needed to obtain adequate drug levels. The first time drug blood levels are within the therapeutic range and dose is not increased or decreased in the following 3&#160;weeks is the moment that is considered as the time needed to obtain adequate drug levels. Mean differences in time to reach adequate drug levels between trial groups will be estimated using the <it>t</it>-test or a non-parametric alternative if not normally distributed. Analysis of variance (ANOVA) or Kruskal-Wallis test will be applied to test for potential differences between the trial groups and the external reference group.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Secondary analyses</p>
+                </st>
+                <p>Secondary analysis will focus on statistical differences in median number and severity scores of side-effects of the drug. Since the side-effect profile is different for nortriptyline and venlafaxine, these analyses will be drug-specific.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Cost-effectiveness analyses</p>
+                </st>
+                <p>Effects and costs will be determined from a societal perspective including both indirect and direct costs. Data on health care associated resource use will be collected and effects on productivity and quality of life (EQ5D) will be investigated. To determine the incremental cost-effectiveness ratio for intervention versus control strategy from a societal perspective, guideline unit costs will be linked to these resource use data. Incremental cost-effectiveness will be calculated using state-of-the-art methods including uncertainty analysis (bootstrapping, Fieller&#8217;s estimates), scenario analysis, (probabilistic) sensitivity analysis and presentation in cost-effectiveness acceptability curves.</p>
+             </sec>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Discussion</p>
+          </st>
+          <p>To the best of our knowledge, this is the first pragmatic randomized controlled trial designed to test whether <it>CYP2D6</it> polymorphism genotyping among older depressed patients starting with nortriptyline or venlafaxine in clinical practice adds value to regular care. Results of this trial will generate evidence as to whether routinely-based genotype testing can reduce the time needed for dose-finding at the start of treatment and as a result reduce adverse drug reactions.</p>
+          <p>A possible limitation of this study is that the genotype information is given to the physician after treatment with the antidepressant has already been started for several days. For the purpose of this trial, it would be ideal to give the genotype information before treatment has started. However, in clinical practice due to the urgency of the disease, time between initiating a therapy with nortriptyline or venlafaxine and actual start is limited. Waiting for the genotype information before starting pharmacotherapy could delay pharmacotherapy and is, therefore, unwanted. Nevertheless, an effect of genotype is still expected, because at start of treatment a low dose is generally prescribed. When the treating physician has to evaluate therapy and to decide if the dosage should be increased, the genotype information will be available <abbrgrp>
+                <abbr bid="B31">31</abbr>
+             </abbrgrp>.</p>
+          <p>Another limitation of this study is the study domain represented by a heterogeneous group of severely depressed patients, since the disease shows much variation in symptomatology, severity and co-existing psychiatric diseases like anxiety disorders and physical diseases, especially in secondary care <abbrgrp>
+                <abbr bid="B32">32</abbr>
+             </abbrgrp>. However, a strict selection of patients who suffer from depression without the presence of certain comorbid physical or psychiatric disorders would exclude a lot of patients from this study and limit applicability of the results to daily practice. Therefore, inclusion is not limited by severity of depression, co-existing psychiatric diseases or other comorbidities. This is a common characteristic of pragmatic trials and gives results which are better generalizable to actual clinical practice <abbrgrp>
+                <abbr bid="B33">33</abbr>
+             </abbrgrp>.</p>
+          <p>Furthermore, the drug concentration-effect relationship for venlafaxine is still a subject of debate <abbrgrp>
+                <abbr bid="B34">34</abbr>
+             </abbrgrp>. This is illustrated by different advised therapeutic windows. Some refer to a therapeutic window between 250 to 750&#160;&#956;g/L, whereas recent guidelines advice a therapeutic window between 100 to 400&#160;&#956;g/L, which is also incorporated in current Dutch guidelines <abbrgrp>
+                <abbr bid="B11">11</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B35">35</abbr>
+             </abbrgrp>. Nevertheless, current guidelines advise a smaller therapeutic window, indicating the need for a more accurate drug dosing. To facilitate this, genotyping may play an important role.</p>
+          <p>Strengths of this study are the random allocation of subjects to receive genetic information that avoids incomparability of groups, strict protocolled design with regular measurements, and a large number of patients to detect statistically significant differences. We also included an external control arm (NG-C) including patients with the EM genotype. This ensures physicians do not know the genotype of control patients or that it deviates from EM.</p>
+          <p>The overall impact of <it>CYP2D6</it> screening may be underestimated in this trial, since the genotype is a lifelong characteristic and is, therefore, affecting the metabolism of many other drugs than the drugs studied in this trial. We only look at a short drug-specific time effect in this study; however, it is not unlikely that patients might benefit from their genotype information during further pharmacotherapy.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Trial status</p>
+          </st>
+          <p>The recruitment of patients started in spring 2013 and is expected to continue until spring 2016.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Abbreviations</p>
+          </st>
+          <p>ALT: alanine aminotransferase</p>
+          <p>ANOVA: analysis of variance</p>
+          <p>ASEC: Antidepressants Side-Effect Checklist</p>
+          <p>AST: aspartate aminotransferase</p>
+          <p>DBS: Dried Blood Spot</p>
+          <p>DG-C: deviating genotype control</p>
+          <p>DG-I: deviating genotype intervention</p>
+          <p>DSM: 
+                        <it>Diagnostic and Statistical Manual of Mental Disorders</it>                      
+          </p>
+          <p>EQ5D: EuroQol 5D quality of life quesionnaire</p>
+          <p>EM: extensive metabolizer</p>
+          <p>&#947;GT: gamma-glutamyl transferase</p>
+          <p>IM: intermediate metabolizer</p>
+          <p>KNMP: Royal Dutch Pharmacist Association</p>
+          <p>NG-EC: normal genotype-external control</p>
+          <p>MDD: major depressive disorder</p>
+          <p>NVZA: Dutch Clinical Pharmacy guidelines</p>
+          <p>PM: poor metabolizer</p>
+          <p>QIDS-SR: Quick Inventory of Depressive Symptomatology Self-Reported Questionnaire</p>
+          <p>SNRI: selective serotonin-noradrenaline reuptake inhibitor</p>
+          <p>SSRI: selective serotonin reuptake inhibitor</p>
+          <p>SNP: single nuclear polymorphism</p>
+          <p>TCA: tricyclic antidepressant</p>
+          <p>TiC-P: Cost associated with Psychiatric Illness</p>
+          <p>TDM: therapeutic drug monitoring</p>
+          <p>UM: ultrarapid metabolizer</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Competing interests</p>
+          </st>
+          <p>The authors declare that they have no competing interests.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Authors&#8217; contributions</p>
+          </st>
+          <p>EB, EH, MP, MB, LB, JB, TD, PJ, RK, JGM, RvM, HM, ROV, AR, HV, LV, and BW designed the study. EH contributed to the sample size calculation and statistical analysis. EB, EH and BW made two amendments to the first protocol. HM and AR facilitate the genotyping and JGM the determination of venlafaxine or nortriptyline in the blood samples. EB, HM, AR and BW wrote the standardized advice based on the genotype and existing guidelines for the intervention group (see Additional file <supplr sid="S1">1</supplr>). EB drafted the manuscript, which was critically revised by EH, JB and BW. MB, LB, TD, RK, RvM, ROV, HV and LV coordinate enrollment of patients at clinical centers. All authors read and approved the final version of the manuscript.</p></sec>
+       <sec>
+          <st>
+             <p>Additional file</p>
+          </st>
+          <suppl id="S1">
+             <title>
+                <p>Additional file 1:</p>
+             </title>
+             <text>
+                <p>
+                              <b>Advice based on the Dutch KNMP&#8217;s pharmacogenetic guidelines, specified for this specific study purpose with the help of experts in the field.</b> Description: this file contains the advice that was communicated to the treating physicians during the study period.</p>
+             </text>
+             <file name="s13063-015-0561-0-S1.docx">
+                <p>Click here for file</p>
+             </file>
+          </suppl>
+          
+       </sec>
+    </bdy>
+    <bm>
+       <ack>
+          <sec>
+             <st>
+                <p>Acknowledgements</p>
+             </st>
+             <p>
+                  <it>Funding</it>                
+             </p>
+             <p>This study was funded by a grant from &#8216;Netherlands Organization for Health Research and Development (ZonMw, project number: 113102002) as a part of the &#8216;Priority Medicines in Elderly Program&#8217;. We acknowledge the work by Inge van Doornik, MSc, in supporting the organization of the logistics and implementation of the trial. We thank Ren&#233; Schutte, Ellen Brummel-Mulder, and Jolanda Paardekooper for their help in organizing the laboratory facilities during the trial.</p>
+          </sec>
+       </ack>
+       <refgrp>
+          
+          <bibl id="B1">
+             <title>
+                <p>Age and anxiety and depressive symptoms: the effect on domains of quality of life</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Brown</snm>
+                   <fnm>PJ</fnm>
+                </au>
+                <au>
+                   <snm>Roose</snm>
+                   <fnm>SP</fnm>
+                </au>
+             </aug>
+             <source>Int J Geriatr Psychiatry</source>
+             <pubdate>2011</pubdate>
+             <volume>26</volume>
+             <issue>12</issue>
+             <fpage>1260</fpage>
+             <lpage>6</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1002/gps.2675</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21351152</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B2">
+             <title>
+                <p>Review of community prevalence of depression in later life</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Beekman</snm>
+                   <fnm>AT</fnm>
+                </au>
+                <au>
+                   <snm>Copeland</snm>
+                   <fnm>JR</fnm>
+                </au>
+                <au>
+                   <snm>Prince</snm>
+                   <fnm>MJ</fnm>
+                </au>
+             </aug>
+             <source>Br J Psychiatry</source>
+             <pubdate>1999</pubdate>
+             <volume>174</volume>
+             <fpage>307</fpage>
+             <lpage>11</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1192/bjp.174.4.307</pubid>
+                   <pubid idtype="pmpid" link="fulltext">10533549</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B3">
+             <title>
+                <p>Age- and gender-specific prevalence of depression in latest-life - systematic review and meta-analysis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Luppa</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Sikorski</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Luck</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Ehreke</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Konnopka</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Wiese</snm>
+                   <fnm>B</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>J Affect Disord</source>
+             <pubdate>2012</pubdate>
+             <volume>136</volume>
+             <issue>3</issue>
+             <fpage>212</fpage>
+             <lpage>21</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.jad.2010.11.033</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21194754</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B4">
+             <title>
+                <p>Disability-adjusted life years (DALYs) for 291 diseases and injuries in 21 regions, 1990&#8211;2010: a systematic analysis for the global burden of disease study 2010</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Murray</snm>
+                   <fnm>CJ</fnm>
+                </au>
+                <au>
+                   <snm>Vos</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Lozano</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Naghavi</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Flaxman</snm>
+                   <fnm>AD</fnm>
+                </au>
+                <au>
+                   <snm>Michaud</snm>
+                   <fnm>C</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Lancet</source>
+             <pubdate>2012</pubdate>
+             <volume>380</volume>
+             <issue>9859</issue>
+             <fpage>2197</fpage>
+             <lpage>223</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0140-6736(12)61689-4</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23245608</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B5">
+             <title>
+                <p>Projections of global mortality and burden of disease from 2002 to 2030</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Mathers</snm>
+                   <fnm>CD</fnm>
+                </au>
+                <au>
+                   <snm>Loncar</snm>
+                   <fnm>D</fnm>
+                </au>
+             </aug>
+             <source>PLoS Med</source>
+             <pubdate>2006</pubdate>
+             <volume>3</volume>
+             <issue>11</issue>
+             <fpage>e442</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1371/journal.pmed.0030442</pubid>
+                   <pubid idtype="pmpid" link="fulltext">17132052</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B6">
+             <title>
+                <p>Efficacy of treatment in older depressed patients: a systematic review and meta-analysis of double-blind randomized controlled trials with antidepressants</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kok</snm>
+                   <fnm>RM</fnm>
+                </au>
+                <au>
+                   <snm>Nolen</snm>
+                   <fnm>WA</fnm>
+                </au>
+                <au>
+                   <snm>Heeren</snm>
+                   <fnm>TJ</fnm>
+                </au>
+             </aug>
+             <source>J Affect Disord</source>
+             <pubdate>2012</pubdate>
+             <volume>141</volume>
+             <issue>2&#8211;3</issue>
+             <fpage>103</fpage>
+             <lpage>15</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.jad.2012.02.036</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22480823</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B7">
+             <note>Reuben D, Herr K, Pacala J, Pollock B, Potter J, Semla T. Depression. Geriatrics at your fingertips. 16th ed. American Geriatrics Society; 2014.</note>
+          </bibl>
+          <bibl id="B8">
+             <note>Landelijke stuurgroep multidiciplinaire richtlijnontwikkeling in de GGZ. Dutch Guideline Depression (Addendum Elderly) Addendum Ouderen bij MDR derpessie. 2008.</note>
+          </bibl>
+          <bibl id="B9">
+             <title>
+                <p>Genetic polymorphisms of cytochrome P450 2D6 (CYP2D6): clinical consequences, evolutionary aspects and functional diversity</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Ingelman-Sundberg</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>Pharmacogenomics J</source>
+             <pubdate>2005</pubdate>
+             <volume>5</volume>
+             <issue>1</issue>
+             <fpage>6</fpage>
+             <lpage>13</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1038/sj.tpj.6500285</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15492763</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B10">
+             <title>
+                <p>Pharmacogenetics of antidepressants and antipsychotics: the contribution of allelic variations to the phenotype of drug response</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kirchheiner</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Nickchen</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Bauer</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Wong</snm>
+                   <fnm>ML</fnm>
+                </au>
+                <au>
+                   <snm>Licinio</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Roots</snm>
+                   <fnm>I</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Mol Psychiatry</source>
+             <pubdate>2004</pubdate>
+             <volume>9</volume>
+             <issue>5</issue>
+             <fpage>442</fpage>
+             <lpage>73</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1038/sj.mp.4001494</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15037866</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B11">
+             <title>
+                <p>AGNP consensus guidelines for therapeutic drug monitoring in psychiatry: update 2011</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hiemke</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Baumann</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Bergemann</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Conca</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Dietmaier</snm>
+                   <fnm>O</fnm>
+                </au>
+                <au>
+                   <snm>Egberts</snm>
+                   <fnm>K</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Pharmacopsychiatry</source>
+             <pubdate>2011</pubdate>
+             <volume>44</volume>
+             <issue>6</issue>
+             <fpage>195</fpage>
+             <lpage>235</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1055/s-0031-1286287</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B12">
+             <title>
+                <p>Clinical guidelines for psychiatrists for the use of pharmacogenetic testing for CYP450 2D6 and CYP450 2C19</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>de Leon</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Armstrong</snm>
+                   <fnm>SC</fnm>
+                </au>
+                <au>
+                   <snm>Cozza</snm>
+                   <fnm>KL</fnm>
+                </au>
+             </aug>
+             <source>Psychosomatics</source>
+             <pubdate>2006</pubdate>
+             <volume>47</volume>
+             <issue>1</issue>
+             <fpage>75</fpage>
+             <lpage>85</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1176/appi.psy.47.1.75</pubid>
+                   <pubid idtype="pmpid" link="fulltext">16384813</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B13">
+             <note>Hicks JK, Swen JJ, Thorn CF, Sangkuhl K, Kharasch ED, Ellingrod VL, et al. Clinical pharmacogenetics implementation consortium guideline for CYP2D6 and CYP2C19 genotypes and dosing of tricyclic antidepressants. Clin Pharmacol Ther. 2013.</note>
+          </bibl>
+          <bibl id="B14">
+             <title>
+                <p>Pharmacogenetics: from bench to byte - an update of guidelines</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Swen</snm>
+                   <fnm>JJ</fnm>
+                </au>
+                <au>
+                   <snm>Nijenhuis</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>de Boer</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Grandia</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>der Zee AH</snm>
+                   <fnm>M-v</fnm>
+                </au>
+                <au>
+                   <snm>Mulder</snm>
+                   <fnm>H</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Clin Pharmacol Ther</source>
+             <pubdate>2011</pubdate>
+             <volume>89</volume>
+             <issue>5</issue>
+             <fpage>662</fpage>
+             <lpage>73</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1038/clpt.2011.34</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21412232</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B15">
+             <title>
+                <p>Pharmacogenetics: from bench to byte</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Swen</snm>
+                   <fnm>JJ</fnm>
+                </au>
+                <au>
+                   <snm>Wilting</snm>
+                   <fnm>I</fnm>
+                </au>
+                <au>
+                   <snm>de Goede</snm>
+                   <fnm>AL</fnm>
+                </au>
+                <au>
+                   <snm>Grandia</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Mulder</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Touw</snm>
+                   <fnm>DJ</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Clin Pharmacol Ther</source>
+             <pubdate>2008</pubdate>
+             <volume>83</volume>
+             <issue>5</issue>
+             <fpage>781</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1038/sj.clpt.6100507</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18253145</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B16">
+             <title>
+                <p>Pharmacogenetics in psychiatry - a useful clinical tool or wishful thinking for the future?</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kirchheiner</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Seeringer</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Viviani</snm>
+                   <fnm>R</fnm>
+                </au>
+             </aug>
+             <source>Curr Pharm Des</source>
+             <pubdate>2010</pubdate>
+             <volume>16</volume>
+             <issue>2</issue>
+             <fpage>136</fpage>
+             <lpage>44</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.2174/138161210790112728</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20205659</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B17">
+             <title>
+                <p>Genetic differences in cytochrome P450 enzymes and antidepressant treatment response</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hodgson</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Tansey</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Dernovsek</snm>
+                   <fnm>MZ</fnm>
+                </au>
+                <au>
+                   <snm>Hauser</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Henigsberg</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Maier</snm>
+                   <fnm>W</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>J Psychopharmacol</source>
+             <pubdate>2014</pubdate>
+             <volume>28</volume>
+             <issue>2</issue>
+             <fpage>133</fpage>
+             <lpage>41</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1177/0269881113512041</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24257813</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B18">
+             <title>
+                <p>CONSORT Group. CONSORT 2010 statement: updated guidelines for reporting parallel group randomised trials</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Schulz</snm>
+                   <fnm>KF</fnm>
+                </au>
+                <au>
+                   <snm>Altman</snm>
+                   <fnm>DG</fnm>
+                </au>
+                <au>
+                   <snm>Moher</snm>
+                   <fnm>D</fnm>
+                </au>
+             </aug>
+             <source>PLoS Med</source>
+             <pubdate>2010</pubdate>
+             <volume>7</volume>
+             <issue>3</issue>
+             <fpage>e1000251</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1371/journal.pmed.1000251</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20352064</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B19">
+             <title>
+                <p>10-Hydroxylation of nortriptyline in white persons with 0, 1, 2, 3, and 13 functional CYP2D6 genes</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Dalen</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Dahl</snm>
+                   <fnm>ML</fnm>
+                </au>
+                <au>
+                   <snm>Bernal Ruiz</snm>
+                   <fnm>ML</fnm>
+                </au>
+                <au>
+                   <snm>Nordin</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Bertilsson</snm>
+                   <fnm>L</fnm>
+                </au>
+             </aug>
+             <source>Clin Pharmacol Ther</source>
+             <pubdate>1998</pubdate>
+             <volume>63</volume>
+             <issue>4</issue>
+             <fpage>444</fpage>
+             <lpage>52</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0009-9236(98)90040-6</pubid>
+                   <pubid idtype="pmpid" link="fulltext">9585799</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B20">
+             <note>American Psychiatric Association. Diagnostic and statistical manual of mental disorders (4th ed., text rev.). Washington, DC: Author; 2000.</note>
+          </bibl>
+          <bibl id="B21">
+             <note>Flockhart DA. Drug interactions: cytochrome P450 drug interaction table. Indiana University School of Medicine (2007). 2013. Available at: <url>http://medicine.iupui.edu/clinpharm/ddis/table.aspx</url>. Accessed 8 August 2014</note>
+          </bibl>
+          <bibl id="B22">
+             <title>
+                <p>Application of dried blood spot sampling combined with LC-MS/MS for genotyping and phenotyping of CYP450 enzymes in healthy volunteers</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>de Boer</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Wieling</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Meulman</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Reuvers</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Renkema</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>den Daas</snm>
+                   <fnm>I</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Biomed Chromatogr</source>
+             <pubdate>2011</pubdate>
+             <volume>25</volume>
+             <issue>10</issue>
+             <fpage>1112</fpage>
+             <lpage>23</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1002/bmc.1580</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21287583</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B23">
+             <title>
+                <p>A new depression scale designed to be sensitive to change</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Montgomery</snm>
+                   <fnm>SA</fnm>
+                </au>
+                <au>
+                   <snm>Asberg</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>Br J Psychiatry</source>
+             <pubdate>1979</pubdate>
+             <volume>134</volume>
+             <fpage>382</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1192/bjp.134.4.382</pubid>
+                   <pubid idtype="pmpid" link="fulltext">444788</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B24">
+             <aug>
+                <au>
+                   <snm>Hakkaart-Van Roijen</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>van Straten</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Donker</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Tiemens</snm>
+                   <fnm>B</fnm>
+                </au>
+             </aug>
+             <source>Manual Trimbos/iMTA questionnaire for costs asscociated with psychiatric ilness (TiC-P) (in Dutch)</source>
+             <pubdate>2002</pubdate>
+          </bibl>
+          <bibl id="B25">
+             <title>
+                <p>Determination of venlafaxine and O-desmethylvenlafaxine in dried blood spots for TDM purposes, using LC-MS/MS</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Berm</snm>
+                   <fnm>EJ</fnm>
+                </au>
+                <au>
+                   <snm>Brummel-Mulder</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Paardekooper</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Hak</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Wilffert</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Maring</snm>
+                   <fnm>JG</fnm>
+                </au>
+             </aug>
+             <source>Anal Bioanal Chem</source>
+             <pubdate>2014</pubdate>
+             <volume>406</volume>
+             <issue>9&#8211;10</issue>
+             <fpage>2349</fpage>
+             <lpage>53</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1007/s00216-014-7619-9</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24493333</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B26">
+             <note>Berm EJJ, Paardekooper J, Brummel-Mulder E, Hak E, Wilffert B, Maring JG. A simple dried bloodspot method for therapeutic drug monitoring of the tricyclic antidepressants amitriptyline, nortriptyline, imipramine, clomipramine, and their active metabolites using LC-MS/MS. Talanta Advance online publication. doi:10.1016/j.talanta.2014.10.041.</note>
+          </bibl>
+          <bibl id="B27">
+             <title>
+                <p>Dried blood spot methods in therapeutic drug monitoring: methods, assays, and pitfalls</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Edelbroek</snm>
+                   <fnm>PM</fnm>
+                </au>
+                <au>
+                   <snm>van der Heijden</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Stolk</snm>
+                   <fnm>LM</fnm>
+                </au>
+             </aug>
+             <source>Ther Drug Monit</source>
+             <pubdate>2009</pubdate>
+             <volume>31</volume>
+             <issue>3</issue>
+             <fpage>327</fpage>
+             <lpage>36</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/FTD.0b013e31819e91ce</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19349929</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B28">
+             <title>
+                <p>Adverse reactions to antidepressants</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Uher</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Farmer</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Henigsberg</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Rietschel</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Mors</snm>
+                   <fnm>O</fnm>
+                </au>
+                <au>
+                   <snm>Maier</snm>
+                   <fnm>W</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Br J Psychiatry</source>
+             <pubdate>2009</pubdate>
+             <volume>195</volume>
+             <issue>3</issue>
+             <fpage>202</fpage>
+             <lpage>10</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1192/bjp.bp.108.061960</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19721108</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B29">
+             <note>EuroQol - a new facility for the measurement of health-related quality of life. The EuroQol Group. Health Policy. 1990;16(3):199&#8211;8</note>
+          </bibl>
+          <bibl id="B30">
+             <title>
+                <p>The 16-item quick inventory of depressive symptomatology (QIDS), clinician rating (QIDS-C), and self-report (QIDS-SR): a psychometric evaluation in patients with chronic major depression</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Rush</snm>
+                   <fnm>AJ</fnm>
+                </au>
+                <au>
+                   <snm>Trivedi</snm>
+                   <fnm>MH</fnm>
+                </au>
+                <au>
+                   <snm>Ibrahim</snm>
+                   <fnm>HM</fnm>
+                </au>
+                <au>
+                   <snm>Carmody</snm>
+                   <fnm>TJ</fnm>
+                </au>
+                <au>
+                   <snm>Arnow</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Klein</snm>
+                   <fnm>DN</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Biol Psychiatry</source>
+             <pubdate>2003</pubdate>
+             <volume>54</volume>
+             <issue>5</issue>
+             <fpage>573</fpage>
+             <lpage>83</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0006-3223(02)01866-8</pubid>
+                   <pubid idtype="pmpid" link="fulltext">12946886</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B31">
+             <title>
+                <p>Utility and adoption of CYP2D6 and CYP2C19 genotyping and its translation into psychiatric clinical practice</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Jurgens</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Jacobsen</snm>
+                   <fnm>CB</fnm>
+                </au>
+                <au>
+                   <snm>Rasmussen</snm>
+                   <fnm>HB</fnm>
+                </au>
+                <au>
+                   <snm>Werge</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Nordentoft</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Andersen</snm>
+                   <fnm>SE</fnm>
+                </au>
+             </aug>
+             <source>Acta Psychiatr Scand</source>
+             <pubdate>2012</pubdate>
+             <volume>125</volume>
+             <issue>3</issue>
+             <fpage>228</fpage>
+             <lpage>37</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1600-0447.2011.01802.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22128793</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B32">
+             <title>
+                <p>Psychiatric disorders in the elderly</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Skoog</snm>
+                   <fnm>I</fnm>
+                </au>
+             </aug>
+             <source>Can J Psychiatry</source>
+             <pubdate>2011</pubdate>
+             <volume>56</volume>
+             <issue>7</issue>
+             <fpage>387</fpage>
+             <lpage>97</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">21835102</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B33">
+             <title>
+                <p>The case for practical clinical trials in psychiatry</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>March</snm>
+                   <fnm>JS</fnm>
+                </au>
+                <au>
+                   <snm>Silva</snm>
+                   <fnm>SG</fnm>
+                </au>
+                <au>
+                   <snm>Compton</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Shapiro</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Califf</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Krishnan</snm>
+                   <fnm>R</fnm>
+                </au>
+             </aug>
+             <source>Am J Psychiatry</source>
+             <pubdate>2005</pubdate>
+             <volume>162</volume>
+             <issue>5</issue>
+             <fpage>836</fpage>
+             <lpage>46</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1176/appi.ajp.162.5.836</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15863782</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B34">
+             <title>
+                <p>PharmGKB summary: venlafaxine pathway</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Sangkuhl</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Stingl</snm>
+                   <fnm>JC</fnm>
+                </au>
+                <au>
+                   <snm>Turpeinen</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Altman</snm>
+                   <fnm>RB</fnm>
+                </au>
+                <au>
+                   <snm>Klein</snm>
+                   <fnm>TE</fnm>
+                </au>
+             </aug>
+             <source>Pharmacogenet Genomics</source>
+             <pubdate>2014</pubdate>
+             <volume>24</volume>
+             <issue>1</issue>
+             <fpage>62</fpage>
+             <lpage>72</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/FPC.0000000000000003</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24128936</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B35">
+             <title>
+                <p>Relevant issues in the monitoring and the toxicology of antidepressants</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Wille</snm>
+                   <fnm>SM</fnm>
+                </au>
+                <au>
+                   <snm>Cooreman</snm>
+                   <fnm>SG</fnm>
+                </au>
+                <au>
+                   <snm>Neels</snm>
+                   <fnm>HM</fnm>
+                </au>
+                <au>
+                   <snm>Lambert</snm>
+                   <fnm>WE</fnm>
+                </au>
+             </aug>
+             <source>Crit Rev Clin Lab Sci</source>
+             <pubdate>2008</pubdate>
+             <volume>45</volume>
+             <issue>1</issue>
+             <fpage>25</fpage>
+             <lpage>89</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1080/10408360701713112</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18293180</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+       </refgrp>
+    </bm>
+ </art>

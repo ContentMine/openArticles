@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "value": [
+      "BioMed Central Ltd"
+    ]
+  },
+  "journal": {
+    "value": [
+      "Trials"
+    ]
+  },
+  "title": {
+    "value": [
+      "Rehabilitation of Memory following Brain Injury (ReMemBrIn): study protocol for a randomised controlled trial"
+    ]
+  },
+  "authors": {
+    "value": [
+      "Roshan das Nair",
+      "Nadina B Lincoln",
+      "Deborah Ftizsimmons",
+      "Nicola Brain",
+      "Alan Montgomery",
+      "Lucy Bradshaw",
+      "Avril Drummond",
+      "Catherine Sackley",
+      "Gavin Newby",
+      "Jim Thornton",
+      "Sandip Stapleton",
+      "Anthony Pink"
+    ]
+  },
+  "date": {
+    "value": [
+      "2015-01-06"
+    ]
+  },
+  "doi": {
+    "value": [
+      "10.1186/1745-6215-16-6"
+    ]
+  },
+  "volume": {
+    "value": [
+      "16"
+    ]
+  },
+  "issue": {
+    "value": [
+      "1"
+    ]
+  },
+  "firstpage": {
+    "value": [
+      "6"
+    ]
+  },
+  "description": {
+    "value": [
+      "Impairments of memory are commonly reported by people with traumatic brain injuries (TBI). Such deficits are persistent, debilitating, and can severely impact quality of life. Currently, many do not routinely receive follow-up appointments for residual memory problems following discharge."
+    ]
+  },
+  "abstract": {
+    "value": [
+      "Impairments of memory are commonly reported by people with traumatic brain injuries (TBI). Such deficits are persistent, debilitating, and can severely impact quality of life. Currently, many do not routinely receive follow-up appointments for residual memory problems following discharge."
+    ]
+  },
+  "fulltext_html": {
+    "value": [
+      "http://www.trialsjournal.com/content/16/1/6"
+    ]
+  },
+  "fulltext_pdf": {
+    "value": [
+      "http://www.trialsjournal.com/content/pdf/1745-6215-16-6.pdf"
+    ]
+  },
+  "fulltext_xml": {
+    "value": [
+      "/content/download/xml/1745-6215-16-6.xml"
+    ]
+  },
+  "supplementary_material": {
+    "value": []
+  },
+  "figure": {
+    "value": [
+      "/content/figures/1745-6215-16-6-1.gif"
+    ]
+  },
+  "figure_caption": {
+    "value": [
+      "Figure 1.",
+      "CONSORT diagram."
+    ]
+  },
+  "license": {
+    "value": [
+      "\r\n\t\t\t\tThis is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.\r\n\t\t\t"
+    ]
+  },
+  "copyright": {
+    "value": [
+      "\r\n            © 2015 das Nair et al.; licensee BioMed Central. \r\n        "
+    ]
+  }
+}

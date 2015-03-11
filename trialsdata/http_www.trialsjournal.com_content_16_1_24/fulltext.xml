@@ -1,0 +1,1970 @@
+<?xml version='1.0'?>
+<!DOCTYPE art SYSTEM 'http://www.biomedcentral.com/xml/article.dtd'>
+<art>
+    <ui>s13063-014-0541-9</ui>
+    <ji>1745-6215</ji>
+    <fm>
+       <dochead>Study protocol</dochead>
+       <bibl>
+          <title>
+             <p>Meropenem versus piperacillin-tazobactam for definitive treatment of bloodstream infections due to ceftriaxone non-susceptible <it>Escherichia coli</it> and <it>Klebsiella</it> spp (the MERINO trial): study protocol for a randomised controlled trial</p>
+          </title>
+          <aug>
+             <au id="A1" ca="yes">
+                <snm>Harris</snm>
+                <mnm>NA</mnm>
+                <fnm>Patrick</fnm>
+                <insr iid="I1"/>
+                <email>p.harris@uq.edu.au</email>
+             </au>
+             <au id="A2">
+                <snm>Peleg</snm>
+                <mi>Y</mi>
+                <fnm>Anton</fnm>
+                <insr iid="I2"/>
+                <email>anton.peleg@monash.edu</email>
+             </au>
+             <au id="A3">
+                <snm>Iredell</snm>
+                <fnm>Jon</fnm>
+                <insr iid="I3"/>
+                <email>jon.iredell@swahs.health.nsw.gov.au</email>
+             </au>
+             <au id="A4">
+                <snm>Ingram</snm>
+                <mi>R</mi>
+                <fnm>Paul</fnm>
+                <insr iid="I4"/>
+                <insr iid="I5"/>
+                <email>paul.ingram@health.wa.gov.au</email>
+             </au>
+             <au id="A5">
+                <snm>Miyakis</snm>
+                <fnm>Spiros</fnm>
+                <insr iid="I6"/>
+                <email>spiros_miyakis@uow.edu.au</email>
+             </au>
+             <au id="A6">
+                <snm>Stewardson</snm>
+                <mi>J</mi>
+                <fnm>Andrew</fnm>
+                <insr iid="I7"/>
+                <email>andrew.stewardson@gmail.com</email>
+             </au>
+             <au id="A7">
+                <snm>Rogers</snm>
+                <mi>A</mi>
+                <fnm>Benjamin</fnm>
+                <insr iid="I8"/>
+                <email>b.rogers1@uq.edu.au</email>
+             </au>
+             <au id="A8">
+                <snm>McBryde</snm>
+                <mi>S</mi>
+                <fnm>Emma</fnm>
+                <insr iid="I9"/>
+                <email>emma.mcbryde@burnet.edu.au</email>
+             </au>
+             <au id="A9">
+                <snm>Roberts</snm>
+                <mi>A</mi>
+                <fnm>Jason</fnm>
+                <insr iid="I10"/>
+                <email>j.roberts2@uq.edu.au</email>
+             </au>
+             <au id="A10">
+                <snm>Lipman</snm>
+                <fnm>Jeff</fnm>
+                <insr iid="I10"/>
+                <email>j.lipman@uq.edu.au</email>
+             </au>
+             <au id="A11">
+                <snm>Athan</snm>
+                <fnm>Eugene</fnm>
+                <insr iid="I11"/>
+                <email>eugene@barwonhealth.org.au</email>
+             </au>
+             <au id="A12">
+                <snm>Paul</snm>
+                <mi>K</mi>
+                <fnm>Sanjoy</fnm>
+                <insr iid="I12"/>
+                <email>Sanjoy.Paul@qimrberghofer.edu.au</email>
+             </au>
+             <au id="A13">
+                <snm>Baker</snm>
+                <fnm>Peter</fnm>
+                <insr iid="I13"/>
+                <email>p.baker1@uq.edu.au</email>
+             </au>
+             <au id="A14">
+                <snm>Harris-Brown</snm>
+                <fnm>Tiffany</fnm>
+                <insr iid="I1"/>
+                <email>t.brown3@uq.edu.au</email>
+             </au>
+             <au id="A15">
+                <snm>Paterson</snm>
+                <mi>L</mi>
+                <fnm>David</fnm>
+                <insr iid="I1"/>
+                <email>david.antibiotics@gmail.com</email>
+             </au>
+          </aug>
+          <insg>
+             <ins id="I1">
+                <p>University of Queensland Centre for Clinical Research, Building 71/918 Royal Brisbane &amp; Women&#8217;s Hospital Campus, Herston, Brisbane, 4029, QLD, Australia</p>
+             </ins>
+             <ins id="I2">
+                <p>Department of Infectious Diseases, The Alfred Hospital, Melbourne, VIC, Australia</p>
+             </ins>
+             <ins id="I3">
+                <p>Westmead Millenium Institute for Medical Research, Westmead Hospital, Sydney, NSW, Australia</p>
+             </ins>
+             <ins id="I4">
+                <p>Department of Microbiology and Infectious Diseases, Royal Perth Hospital, Perth, WA, Australia</p>
+             </ins>
+             <ins id="I5">
+                <p>School of Pathology and Laboratory Medicine, University of Western Australia, Crawley, WA, Australia</p>
+             </ins>
+             <ins id="I6">
+                <p>Department of Infectious Diseases, School of Medicine, University of Wollongong and The Wollongong Hospital, Wollongong, NSW, Australia</p>
+             </ins>
+             <ins id="I7">
+                <p>Department of Infectious Diseases, Austin Health, Melbourne, VIC, Australia</p>
+             </ins>
+             <ins id="I8">
+                <p>Monash Infectious Disease, Monash Health, Clayton, VIC, Australia</p>
+             </ins>
+             <ins id="I9">
+                <p>Victorian Infectious Diseases Unit, Royal Melbourne Hospital, Melbourne, VIC, Australia</p>
+             </ins>
+             <ins id="I10">
+                <p>Burns Trauma and Critical Care Research Centre, The University of Queensland, Brisbane, QLD, Australia</p>
+             </ins>
+             <ins id="I11">
+                <p>Department of Infectious Disease, Barwon Health, Deakin University, Geelong, VIC, Australia</p>
+             </ins>
+             <ins id="I12">
+                <p>Clinical Trials &amp; Biostatistics Unit, QIMR Berghofer Medical Research Institute, Brisbane, QLD, Australia</p>
+             </ins>
+             <ins id="I13">
+                <p>Queensland Clinical Trials and Biostatistics Centre, University of Queensland, Brisbane, QLD, Australia</p>
+             </ins>
+          </insg>
+          <source>Trials</source>
+          <issn>1745-6215</issn>
+          <pubdate>2015</pubdate>
+          <volume>16</volume>
+          <issue>1</issue>
+          <fpage>24</fpage>
+          <url>http://www.trialsjournal.com/content/16/1/24</url>
+          <xrefbib>
+             <pubidlist>
+                <pubid idtype="doi">10.1186/s13063-014-0541-9</pubid>
+             </pubidlist>
+          </xrefbib>
+       </bibl>
+       <history>
+          <rec>
+             <date>
+                <day>21</day>
+                <month>9</month>
+                <year>2014</year>
+             </date>
+          </rec>
+          <acc>
+             <date>
+                <day>22</day>
+                <month>12</month>
+                <year>2014</year>
+             </date>
+          </acc>
+          <pub>
+             <date>
+                <day>27</day>
+                <month>1</month>
+                <year>2015</year>
+             </date>
+          </pub>
+       </history>
+       <cpyrt>
+          <year>2015</year>
+          <collab>Harris et al.; licensee BioMed Central.</collab>
+          <note>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/4.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (<url>http://creativecommons.org/publicdomain/zero/1.0/</url>) applies to the data made available in this article, unless otherwise stated.</note>
+       </cpyrt>
+       <kwdg>
+          <kwd>Extended-spectrum beta-lactamase</kwd>
+          <kwd>ESBL</kwd>
+          <kwd>Plasmid-AmpC</kwd>
+          <kwd>Therapy</kwd>
+          <kwd>Resistance</kwd>
+          <kwd>Beta-lactam/beta-lactamase inhibitor</kwd>
+          <kwd>Carbapenem</kwd>
+          <kwd>Clinical trial</kwd>
+       </kwdg>
+       <abs>
+          <sec>
+             <st>
+                <p>Abstract</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Background</p>
+                </st>
+                <p>Gram-negative bacteria such as <it>Escherichia coli</it> or <it>Klebsiella</it> spp. frequently cause bloodstream infections. There has been a worldwide increase in resistance in these species to antibiotics such as third generation cephalosporins, largely driven by the acquisition of extended-spectrum beta-lactamase or plasmid-mediated AmpC enzymes. Carbapenems have been considered the most effective therapy for serious infections caused by such resistant bacteria; however, increased use creates selection pressure for carbapenem resistance, an emerging threat arising predominantly from the dissemination of genes encoding carbapenemases. Recent retrospective data suggest that beta-lactam/beta-lactamase inhibitor combinations, such as piperacillin-tazobactam, may be non-inferior to carbapenems for the treatment of bloodstream infection caused by extended-spectrum beta-lactamase-producers, if susceptible <it>in vitro</it>. This study aims to test this hypothesis in an effort to define carbapenem-sparing alternatives for these infections.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Methods/Design</p>
+                </st>
+                <p>The study will use a multicentre randomised controlled open-label non-inferiority trial design comparing two treatments, meropenem (standard arm) and piperacillin-tazobactam (carbapenem-sparing arm) in adult patients with bacteraemia caused by <it>E. coli</it> or <it>Klebsiella</it> spp. demonstrating non-susceptibility to third generation cephalosporins. Recruitment is planned to occur in sites across three countries (Australia, New Zealand and Singapore). A total sample size of 454 patients will be required to achieve 80% power to determine non-inferiority with a margin of 5%. Once randomised, definitive treatment will be for a minimum of 4 days, but up to 14 days with total duration determined by treating clinicians. Data describing demographic information, antibiotic use, co-morbid conditions, illness severity, source of infection and other risk factors will be collected. Vital signs, white cell count, use of vasopressors and days to bacteraemia clearance will be recorded up to day 7. The primary outcome measure will be mortality at 30 days, with secondary outcomes including days to clinical and microbiological resolution, microbiological failure or relapse, isolation of a multi-resistant organism or <it>Clostridium difficile</it> infection.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Trial registration</p>
+                </st>
+                <p>The MERINO trial is registered under the Australian New Zealand Clinical Trials Register (ANZCTR), reference number: <url>ACTRN12613000532707</url> (registered 13 May 2013) and the US National Institute of Health ClinicalTrials.gov register, reference number: <url>NCT02176122</url> (registered 24 June 2014).</p>
+             </sec>
+          </sec>
+       </abs>
+    </fm>
+    <bdy>
+       <sec>
+          <st>
+             <p>Background</p>
+          </st>
+          <p>Bloodstream infections caused by Gram-negative bacteria such as <it>Escherichia coli</it> or <it>Klebsiella</it> spp. are commonly encountered in clinical practice and may be associated with significant mortality <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>. These bacteria may also acquire genes encoding beta-lactamase enzymes that hydrolyse essential beta-lactam antibiotics, rendering such treatment ineffective. Isolates expressing extended-spectrum beta-lactamase (ESBL) or plasmid-mediated AmpC enzymes are increasingly encountered across the world, in both community- and hospital-onset infections <abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp>. ESBL- or AmpC-producers are typically resistant to third generation cephalosporins such as ceftriaxone, but susceptible to carbapenems <abbrgrp>
+                <abbr bid="B3">3</abbr>
+             </abbrgrp>. These bacteria are usually multi-resistant, as beta-lactamase genes are frequently co-located with other resistance mechanisms, leaving few treatment options. Bacteraemia caused by resistant Gram-negative bacteria may carry mortality in excess of those caused by susceptible strains <abbrgrp>
+                <abbr bid="B4">4</abbr>
+             </abbrgrp>. Thus, defining optimal treatment regimens in these serious infections is of clinical importance. However, when selecting antimicrobial therapy, clinicians must consider both efficacy of the chosen agent and downstream risk such as selective pressure for further antimicrobial resistance.</p>
+          <p>In observational studies that have been performed to evaluate antibiotic choices for ESBL-producing Enterobacteriaceae, no agent has been shown to significantly surpass carbapenems <abbrgrp>
+                <abbr bid="B5">5</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B8">8</abbr>
+             </abbrgrp>. However, widespread use of carbapenems may cause selection pressure for carbapenem resistance <abbrgrp>
+                <abbr bid="B9">9</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B10">10</abbr>
+             </abbrgrp>. Carbapenem-resistant Gram-negative bacteria present a great therapeutic challenge, with susceptibility often limited to &#8216;last-line&#8217; antibiotics such as colistin or tigecycline. Some new beta-lactam antibiotics and beta-lactamase inhibitors, which are active against ESBL-, AmpC- and some carbapenemase-producing organisms, are in advanced clinical development <abbrgrp>
+                <abbr bid="B11">11</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B12">12</abbr>
+             </abbrgrp>. However, these antibiotics are likely to be expensive, are not yet on the market and may best be held in reserve for infections without therapeutic alternatives.</p>
+          <p>The susceptibility of AmpC- and ESBL-producers to piperacillin-tazobactam is less predictable than carbapenems. By definition, ESBLs are inhibited by beta-lactamase inhibitors such as clavulanate or tazobactam <abbrgrp>
+                <abbr bid="B3">3</abbr>
+             </abbrgrp>. However, <it>E. coli</it> or <it>Klebsiella</it> spp. may also produce multiple beta-lactamase types, some of which are resistant to inhibition by tazobactam and may not be evident by susceptibility testing alone. There have also been concerns that inoculum effects may overwhelm the activity of beta-lactamase inhibition in infections with a large bacterial burden <abbrgrp>
+                <abbr bid="B13">13</abbr>
+             </abbrgrp>. Additionally, in some cases outer membrane protein loss may contribute to resistance to tazobactam <abbrgrp>
+                <abbr bid="B14">14</abbr>
+             </abbrgrp>. By definition, AmpC enzymes are also not well inhibited by tazobactam <abbrgrp>
+                <abbr bid="B15">15</abbr>
+             </abbrgrp>, and plasmid-mediated AmpC expression has been increasingly recognised as a cause of resistance to expanded spectrum cephalosporins in Enterobacteriaceae <abbrgrp>
+                <abbr bid="B15">15</abbr>
+             </abbrgrp>. However, despite these concerns, approximately 50% or more of ceftriaxone non-susceptible <it>E. coli</it> or <it>Klebsiella</it> spp. remain susceptible to piperacillin-tazobactam <abbrgrp>
+                <abbr bid="B16">16</abbr>
+             </abbrgrp>. Yet, until recently, lack of published clinical experience with the use of beta-lactam/beta-lactamase inhibitor (BLBLI) agents for the treatment of ESBL-producers has limited their use. As a result, carbapenems have been perceived as a superior option. In recent years we have witnessed an alarming increase in the prevalence and global dissemination of carbapenem-resistant Gram-negative bacteria, largely driven by the spread of genes encoding carbapenemase enzymes, transmitted on highly mobile plasmids <abbrgrp>
+                <abbr bid="B17">17</abbr>
+             </abbrgrp>. Thus, defining carbapenem-sparing treatment options for ESBL-producers has become imperative to reduce the selection pressure for carbapenem resistance <abbrgrp>
+                <abbr bid="B10">10</abbr>
+             </abbrgrp>.</p>
+          <p>No randomised controlled trials (RCTs) have yet been performed comparing different treatment options for third generation cephalosporin-resistant Enterobacteriaceae. The largest observational study with an analysis by treatment outcome was published in 2012 by Rodriguez-Bano <it>et al</it>. <abbrgrp>
+                <abbr bid="B18">18</abbr>
+             </abbrgrp>. They performed a <it>post hoc</it> analysis of six prospective cohorts of patients with bacteraemia due to ESBL-producing <it>E. coli</it>. Two non-mutually exclusive cohorts (empirical therapy and definitive therapy) were constructed and analysed separately. In both cohorts, carbapenems were not superior to BLBLI combinations, such as piperacillin-tazobactam. Specifically, in the definitive therapy cohort, mortality rates at 30 days were not significantly different - 9.3% for those who received a BLBLI and 16.7% for those who received a carbapenem (<it>P</it>&#8201;&gt;&#8201;0.20) <abbrgrp>
+                <abbr bid="B18">18</abbr>
+             </abbrgrp>. A subsequent meta-analysis of all published studies examining treatment options for bacteraemia caused by ESBL-producers also concluded that BLBLI agents were non-inferior to carbapenems for both definitive (relative risk (RR) 0.52, 95% confidence interval (CI) 0.23 to 1.13) or empirical therapy (RR 0.91, 95% CI 0.66 to 1.25) with regard to all-cause mortality <abbrgrp>
+                <abbr bid="B6">6</abbr>
+             </abbrgrp>. In contrast, mortality was lower with carbapenems when compared to non-BLBLI antibiotics (for example, quinolones) for both definitive (RR 0.65, 95% CI 0.47 to 0.91) and empirical treatment (RR 0.50, 95% CI 0.33 to 0.77).</p>
+          <p>Both meropenem and piperacillin-tazobactam are antibiotics that have been widely used in clinical practice for many years. They have proven efficacy in a wide range of infectious syndromes, including severe sepsis, febrile neutropenia, ventilator-associated pneumonia and intra-abdominal sepsis. Both agents are licensed for the treatment of serious infections and are available for routine clinical use in generic formulations. A non-inferiority study design was selected because it is not ethically possible to conduct a placebo-controlled trial and piperacillin-tazobactam is not expected to be superior to meropenem with regard to the primary end-point. Instead, potential benefits relate to minimisation of &#8216;collateral damage&#8217; in the form of selection for carbapenem-resistant Enterobacteriaceae.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Methods/Design</p>
+          </st>
+          <p>The trial protocol was developed by the Gram-negative Working Group of the Australasian Society for Infectious Disease Clinical Research Network (ASID-CRN), in accordance with the CONSORT statement extension for &#8216;Non-inferiority and Equivalence Trials&#8217; <abbrgrp>
+                <abbr bid="B19">19</abbr>
+             </abbrgrp>.</p>
+          <sec>
+             <st>
+                <p>Hypothesis</p>
+             </st>
+             <p>Our hypothesis is that piperacillin-tazobactam is non-inferior to meropenem for the definitive treatment of bloodstream infections due to third generation cephalosporin non-susceptible <it>E. coli</it> or <it>Klebsiella</it> spp.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Study design</p>
+             </st>
+             <p>The study design will be a multicentre randomised controlled non-inferiority open-label phase III trial. Both study drugs (meropenem and piperacillin-tazobactam) will be administered intravenously with standard dosing regimens. The study population will be all adult patients (18 years of age or older, or 21 years or older at Singapore sites) admitted to participating hospitals. Inclusion in the study will be determined by the presence of a bloodstream infection with <it>E. coli</it> or <it>Klebsiella</it> spp., as defined by at least one positive blood culture from a peripheral blood draw, where the isolate is confirmed to be third generation cephalosporin non-susceptible, but susceptible to piperacillin-tazobactam and meropenem by European Committee for Antimicrobial Susceptibility Testing (EUCAST) standards <abbrgrp>
+                   <abbr bid="B20">20</abbr>
+                </abbrgrp>.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Setting</p>
+             </st>
+             <p>The trial will be conducted in several centres across Australia, New Zealand and Singapore (see Table&#160;<tblr tid="T1">1</tblr>).
+                  </p>
+             
+                <table id="T1">
+                   <title>
+                      <p>Table 1</p>
+                   </title>
+                   <caption>
+                      <p>
+                            <b>Proposed participating sites</b>                          
+                      </p>
+                   </caption>
+                   <tgroup align="left" cols="2">
+                      <colspec align="left" colname="c1" colnum="1" colwidth="*"/>
+                      <colspec align="left" colname="c2" colnum="2" colwidth="*"/>
+                      <thead>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>
+                                  <b>Country - State</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>
+                                  <b>Facility</b>                              
+                               </p>
+                            </entry>
+                         </row>
+                      </thead>
+                      <tbody>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Australia - Queensland</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Royal Brisbane and Women&#8217;s Hospital</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1"/>
+                            <entry colname="c2">
+                               <p>St. Andrew&#8217;s War Memorial Hospital</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1"/>
+                            <entry colname="c2">
+                               <p>Brisbane Private Hospital</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1"/>
+                            <entry colname="c2">
+                               <p>Princess Alexandra Hospital</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1"/>
+                            <entry colname="c2">
+                               <p>The Mater Hospital</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Australia - New South Wales</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Westmead Hospital</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1"/>
+                            <entry colname="c2">
+                               <p>Wollongong Hospital</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Australia - Victoria</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>The Alfred Hospital</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1"/>
+                            <entry colname="c2">
+                               <p>Monash Medical Centre</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1"/>
+                            <entry colname="c2">
+                               <p>The Austin Hospital</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1"/>
+                            <entry colname="c2">
+                               <p>Peter MacCallum Cancer Centre</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1"/>
+                            <entry colname="c2">
+                               <p>Dandenong Hospital</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1"/>
+                            <entry colname="c2">
+                               <p>Barwon Health</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Australia - Western Australia</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Royal Perth Hospital</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>New Zealand</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>North Shore Hospital, Auckland</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1"/>
+                            <entry colname="c2">
+                               <p>Middlemore Hospital, Auckland</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Singapore</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>National University Hospital, Singapore</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1"/>
+                            <entry colname="c2">
+                               <p>Tan Tock Seng Hospital, Singapore</p>
+                            </entry>
+                         </row>
+                      </tbody>
+                   </tgroup>
+                </table>
+             
+          </sec>
+          <sec>
+             <st>
+                <p>Intervention</p>
+             </st>
+             <p>Meropenem 1 gram will be administered every 8 hours intravenously or piperacillin-tazobactam 4.5 grams administered every 6 hours intravenously. Each dose will be given over 30 minutes. The study drug is to be administered for a minimum of 4 days and can be given for as long as 14 days. The total duration of therapy will be determined by the treating clinician. Dose adjustment for renal impairment will be made according to the criteria in Table&#160;<tblr tid="T2">2</tblr>. Blinding will not be performed as the two antibiotics have different dosing regimens. Follow-up will be for 30 days post enrolment. Other antimicrobials active against Gram-negative bacilli are excluded in the first 4 days after enrolment, except that trimethoprim/sulfamethoxazole may be continued as <it>Pneumocystis</it> prophylaxis.
+                  </p>
+             
+                <table id="T2">
+                   <title>
+                      <p>Table 2</p>
+                   </title>
+                   <caption>
+                      <p>
+                            <b>Dose adjustment for study antibiotics</b>                          
+                      </p>
+                   </caption>
+                   <tgroup align="left" cols="3">
+                      <colspec align="left" colname="c1" colnum="1" colwidth="*"/>
+                      <colspec align="left" colname="c2" colnum="2" colwidth="*"/>
+                      <colspec align="left" colname="c3" colnum="3" colwidth="*"/>
+                      <thead>
+                         <row valign="top">
+                            <entry colname="c1"/>
+                            <entry colname="c2">
+                               <p>
+                                  <b>Meropenem</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>
+                                  <b>Piperacillin-tazobactam</b>                              
+                               </p>
+                            </entry>
+                         </row>
+                      </thead>
+                      <tbody>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Creatinine clearance&#8201;&gt;&#8201;50 mL/min</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>No change</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>No change</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Creatinine clearance 26 to 50 mL/min</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>1 g every 12 hours</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>4.5 g every 8 hours</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Creatinine clearance 10 to 25 mL/min</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>500 mg every 12 hours</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>4.5 g every 12 hours</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Creatinine clearance&#8201;&lt;&#8201;10 mL/min</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>500 mg every 24 hours</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>4.5 g every 12 hours</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Haemodialysis</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>500 mg every 24 hours and 500 mg after each dialysis</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>2.25 g every 8 hours and an additional 0.75 g after each dialysis</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Peritoneal dialysis</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>500 mg every 24 hours</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>2.25 g every 8 hours</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Continuous-renal replacement therapy</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>1 g every 12 hours</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>4.5 g every 8 hours</p>
+                            </entry>
+                         </row>
+                      </tbody>
+                   </tgroup>
+                </table>
+             
+          </sec>
+          <sec>
+             <st>
+                <p>Primary objectives</p>
+             </st>
+             <p> To compare the 30-day mortality post bloodstream infection in patients treated with piperacillin-tazobactam or meropenem</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Secondary objectives</p>
+             </st>
+             <p> To compare the time to clinical and microbiologic resolution of infection for each regimen, defined as: number of days from randomisation to resolution of fever (temperature&#8201;&gt;&#8201;38.0&#176;C) and leucocytosis (white blood cell count&#8201;&gt;&#8201;12 &#215; 10<sup>9</sup>/L) PLUS sterilisation of blood cultures</p>
+                <p> To compare the clinical and microbiologic success of each regimen at day 4 of the intervention, defined as survival PLUS resolution of fever and leucocytosis PLUS sterilisation of blood cultures. All of these criteria will be assessed on day 4, counted from the day of randomisation (day 1) in order to determine a rapid response from the trial drug</p>
+                <p> To compare microbiologic resolution of infection, defined as sterility of blood cultures collected on or before day 4</p>
+                <p> To compare the risk of relapse with each regimen, defined as growth of the same organism as in the original blood culture after the end of the period of study drug administration but before day 30</p>
+                <p> To compare the risk of superinfection with a carbapenem or piperacillin-tazobactam- resistant organism or <it>Clostridium difficile</it>, defined as growth of a meropenem or piperacillin-tazobactam-resistant organism from any clinical specimen collected from day 4 of study drug administration to day 30 or a positive <it>C. difficile</it> stool test (with the method of testing used according to local laboratory protocol). This endpoint is important since one of the purposes of establishing an alternative to carbapenem therapy is to reduce infections with resistant organisms or <it>C. difficile</it>.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Randomisation</p>
+             </st>
+             <p>Patients will be randomly assigned to either meropenem or piperacillin-tazobactam in a 1:1 ratio according to a randomisation list prepared in advance for each recruiting site and stratification. Random sequence will be generated using random permuted blocks of unequal length. The randomisation process will be managed by the Queensland Clinical Trials &amp; Biostatistics Centre (QCTBC) of The University of Queensland, and generated using an online data management system (REDCap). Patients will be stratified into 4 groups according to infecting species (<it>E. coli</it> or <it>Klebsiella</it> spp.) and disease severity (according to a Pitt bacteraemia score <abbrgrp>
+                   <abbr bid="B21">21</abbr>
+                </abbrgrp>&#8201;&#8804;&#8201;4 or&#8201;&gt;&#8201;4; and presumed site of infection from the urinary tract or elsewhere) (see Figure&#160;<figr fid="F1">1</figr>).
+                  </p>
+             
+                <fig id="F1">
+                   <title>
+                      <p>Figure 1</p>
+                   </title>
+                   <caption>
+                      <p>Patient stratification at enrolment. </p>
+                   </caption>
+                   <text>
+                      <p>
+                            <b>Patient stratification at enrolment.</b>                          
+                      </p>
+                   </text>
+                   <graphic file="s13063-014-0541-9-1"/>
+                </fig>
+             
+          </sec>
+          <sec>
+             <st>
+                <p>Safety monitoring plan</p>
+             </st>
+             <p>A Data Monitoring and Safety Board (DMSB) will be established, comprising two independent infectious disease physicians with statistical support provided to them by the QCTBC. An interim analysis - including both efficacy and safety endpoints - will be performed after the first 50 subjects have completed the 30-day study period. The trial statistician will provide details of safety outcomes and any significant differences in primary outcomes according to treatment arm to the DMSB. The stopping rule would be a statistically significant difference in primary outcomes between the two therapies.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Data entry and storage</p>
+             </st>
+             <p>A clinical database using the REDCap trial data management system has been developed with a web hosting facility. Paper case report forms (CRFs) (Additional file <supplr sid="S1">1</supplr>) will be completed and uploaded to the online system to collect all clinical and additional laboratory-related information (see Table&#160;<tblr tid="T3">3</tblr>). To ensure accurate transcription of the CRF, double-data entry will be performed by a second independent researcher. Any discrepancies, missing data or errors will be clarified by discussion with the site principal investigator. To ensure validity, a proportion of CRFs will be checked by the local site investigators against clinical and laboratory records.
+                  </p>
+                <table id="T3">
+                   <title>
+                      <p>Table 3</p>
+                   </title>
+                   <caption>
+                      <p>
+                            <b>Data collection</b>                          
+                      </p>
+                   </caption>
+                   <tgroup align="left" cols="2">
+                      <colspec align="left" colname="c1" colnum="1" colwidth="*"/>
+                      <colspec align="left" colname="c2" colnum="2" colwidth="*"/>
+                      <thead>
+                         <row valign="top">
+                            <entry colname="c1"/>
+                            <entry colname="c2">
+                               <p>
+                                  <b>Variables</b>                              
+                               </p>
+                            </entry>
+                         </row>
+                      </thead>
+                      <tfoot>
+                         <p>
+                            <it>Abbreviations</it>: <it>BP</it> blood pressure, <it>HR</it> heart rate, <it>RR</it> respiratory rate.</p>
+                      </tfoot>
+                      <tbody>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Demographic data</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Age, gender, ethnicity, long-term residential care status, ward location</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Trial characteristics</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Date of screening and enrolment, inclusion criteria and consent details, date and time of randomization</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Co-morbidities and risk factors</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Charlson score, co-morbid conditions, date and type of any surgery within 14 days, use of cytotoxic chemotherapy, immune suppressive medication, radiotherapy, biological agents (for example, monoclonal antibody therapy), presence of intravascular devices or urinary catheters; use of &#8216;not for resuscitation&#8217; order</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Infection parameters</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Bacteraemia acquisition status (community, healthcare-associated or hospital-acquired infection), presumed source of infection, ICU admission, Pitt bacteraemia score, Acute Physiology and Chronic Health Evaluation (APACHE) II score (if in ICU)</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Antibiotic data</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>From 48 hours prior to blood culture collection and up to 30 days; dose/route/frequency recorded</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Clinical observations</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Daily vital signs, (highest temperature, HR, RR; lowest systolic BP), lowest arterial pCO<sub>2</sub> (if ventilated), white cell count, use of pressors; recorded days 1 to 7; patient weight</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Microbiological data</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Date and time of initial blood culture, full susceptibility profile, daily blood culture results days 1 to 3; any further positive blood cultures and species identification/resistance profile; other clinical sites growing <it>E coli</it> or <it>Klebsiella</it>, any multidrug-resistant organism or <it>C. difficile</it> identified up to 30 days</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1" morerows="7">
+                               <p>Outcome data</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Survival at 7 and 30 days post randomisation</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>Date of death or discharge</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>Length of hospital stay</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>Days to clinical and microbiological resolution</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>Clinical and microbiological success at day 4</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>Microbiological resolution or relapse</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>Protocol violations and adverse events</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>Reasons for study withdrawal</p>
+                            </entry>
+                         </row>
+                      </tbody>
+                   </tgroup>
+                </table>
+             
+          </sec>
+          <sec>
+             <st>
+                <p>Determination of sample size</p>
+             </st>
+             <p>As no randomised clinical trial has yet been conducted in this particular field, the sample size estimation has been derived from the retrospective study of bloodstream infection caused by ESBL-producing <it>E. coli</it> performed by Rodriguez-Bano <it>et al</it>. <abbrgrp>
+                   <abbr bid="B7">7</abbr>
+                </abbrgrp>. The overall 30-day mortality in their study was 16.7% in those patients who received a carbapenem (our control group). We have conducted a series of simulations with possible variations in the observed rates between the two treatment groups. Considering a mortality rate of 17% in the control group (rounded from the 16.7% actually observed), and a non-inferiority margin of 5% difference in the 2 groups, we would need 280 patients in total to achieve 80% power with a 1-sided alpha level of 0.025. This allows for 10% dropout. It is likely that mortality rates in observational cohorts may be greater than those in a trial with exclusion criteria. Therefore, if the observed mortality rate in the control group was 14% (3% lower than that seen in the observational cohort), then under the same assumptions, we would need 454 patients in total to achieve 80% power <abbrgrp>
+                   <abbr bid="B22">22</abbr>
+                </abbrgrp>.</p>
+             <p>Actual mortality is expected to be similar in our study population. We have performed a retrospective analysis of 92 bacteraemia episodes caused by ceftriaxone-resistant <it>E. coli</it> or <it>Klebsiella</it> in Singapore (one of the trial sites) over a 12-month period until May 2013, examining patients that would fulfil the MERINO trial inclusion criteria. Average mortality at 30 days was 17.4% in patients given a carbapenem for definitive therapy. However, overall mortality for all treatment groups was lower at 8.7%, including those receiving BLBLIs (8.3%) <abbrgrp>
+                   <abbr bid="B23">23</abbr>
+                </abbrgrp>.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Statistical and analytical plans</p>
+             </st>
+             <p>The intention-to-treat (ITT) analysis approach, supported by the per-protocol approach, will be adopted to make inference on the possible non-inferiority of the treatment arm, compared to the control arm, in terms of 30-day mortality. The proportions of deaths (with 95% CIs) in the 2 study arms will be calculated. Logistic regression with &#8216;treatment group&#8217; as the only covariate will be employed to draw inference on the possible non-inferiority of the intervention treatment compared to the control treatment. The odds ratio (with 95% CIs) will be calculated with the meropenem arm as the reference group. Appropriate parametric or non-parametric statistical techniques will be employed to analyse the data for secondary aims of the study. The Mann&#8211;Whitney <it>U</it>-test will be used to compare median number of days to clinical and microbiological resolution. Logistic regression will be used to compare odds ratios of achieving clinical and microbiological success and microbiological resolution at day 4, as well as the odds ratio for microbiological relapse and superinfection with a resistant organism between each treatment arm. All secondary analyses will be based on an ITT population.</p>
+             <p>An analysis of primary and secondary endpoints as described above will be undertaken in a subgroup of &#8216;high risk&#8217; patients defined by a likely source of infection other than the urinary tract or a Pitt bacteraemia score of &gt;4.</p>
+             <p>Basic statistics in the study report will include information on missing values for all relevant study variables. A summary of baseline patient characteristics with totals and proportions (%) for categorical variables, and minimum, maximum, inter-quartile ranges and standard deviations for continuous variables will be presented. For continuous study variables, box plots and Kernel density plots will also be provided.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Protocol violations</p>
+             </st>
+             <p>All protocol violations occurring after randomisation will be listed in the Clinical Study Report, tabulated by subject and recruitment site. The final assignment of participants to the per-protocol analysis population will be made at a blinded protocol violation review meeting prior to database lock.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Consent</p>
+             </st>
+             <p>Potential study participants will be identified on the basis of positive blood cultures by liaison between the investigators and the clinical microbiologists. All patients who fulfill the microbiological inclusion criteria will be screened for eligibility using a standardised screening form (see Additional file <supplr sid="S2">2</supplr>). The investigators will only approach the patient with the agreement of the treating team. As soon as practically possible after this discussion, the study team representative will approach the patient at the bedside to obtain consent. Typically this will be around 48 to 72 hours after the onset of clinical sepsis and the initial collection of blood cultures. For patients with cognitive impairment secondary to their illness (for example, intubation and ventilation, delirium), consent will be obtained from a legally appropriate representative (for example, spouse), where local regulatory requirements allow recruitment of cognitively-impaired persons to clinical trials.</p></sec>
+          <sec>
+             <st>
+                <p>Study preparation and logistics</p>
+             </st>
+             <p>The trial coordination centre comprises the project management team (THB, PH and DLP) at the University of Queensland Centre for Clinical Research in Brisbane. Site initiation and training will be conducted by PH, DLP and THB via web conferencing and/or site visits. Study sites will be contacted regularly via teleconference to discuss any issues and ensure consistent study practices across sites.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Laboratory studies</p>
+             </st>
+             <p>All blood culture isolates will be made available to the central trial laboratory at the University of Queensland Centre for Clinical Research. Susceptibility testing, including minimum inhibitory concentrations for key antimicrobials, will be repeated in the central laboratory and interpreted according to EUCAST standards. Additional susceptibility testing for agents not tested at the recruiting site laboratories will also be performed. Phenotypic confirmation of ESBL or AmpC production will be performed using combination disc testing <abbrgrp>
+                   <abbr bid="B24">24</abbr>
+                </abbrgrp>. Beta-lactamase genes will be identified and characterized. Isolates will also be screened for carbapenemase genes and other key antimicrobial resistance determinants. Strain typing will be determined using methods such as semi-automated repetitive sequence-based PCR (rep-PCR) (DiversiLab; BioM&#233;rieux, Marcy l&#8217;&#201;toile, France) and multi-locus sequence typing (MLST). Isolates will also be available for whole genome sequencing.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Ethics</p>
+             </st>
+             <p>The protocol has been given ethical approval by the Royal Brisbane and Women&#8217;s Hospital (ref: HREC/12/QRBW/440), the National Healthcare Group (NHG) Domain Specific Review Board (DSRB) in Singapore (NHG DSRB ref: 2013/00453) and the New Zealand Health and Disability Ethics Committee (Ref: 14/NTB/52).</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Discussion</p>
+          </st>
+          <p>The quality and extent of evidence to help define optimal treatment for many significant bacterial infections is surprisingly limited. This is especially true for the treatment of resistant Gram-negative bacteraemia, despite being a major issue in daily practice for clinicians across many specialties. In addition to laboratory data and expert opinion, current practice is almost entirely based on retrospective observational studies, usually conducted in single centres with relatively small numbers of patients. Such studies, though informative, are always prone to bias, thus weakening the strength of conclusions drawn for these analyses. To date, there have been no RCTs reported specifically comparing different treatment options for ceftriaxone-resistant Enterobacteriaceae.</p>
+          <p>There is local support for the conduct of this study. This is highlighted by a recent online survey in which 122 infectious diseases physicians in Australia and New Zealand were asked to rank the research studies of greatest immediate clinical relevance - the proposed trial comparing meropenem and piperacillin-tazobactam was the highest ranked RCT in the field of antibiotic resistance in Gram-negative bacilli <abbrgrp>
+                <abbr bid="B25">25</abbr>
+             </abbrgrp>.</p>
+          <p>Antibiotic resistance is of tremendous public health importance and has been recently described as potentially the greatest current threat to human health <abbrgrp>
+                <abbr bid="B26">26</abbr>
+             </abbrgrp>. The MERINO trial has potential significance for two reasons. Firstly, it addresses treatment of a common but serious antibiotic resistance issue that is associated with 10 to 20% mortality <abbrgrp>
+                <abbr bid="B5">5</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B18">18</abbr>
+             </abbrgrp>. Secondly, proving that a carbapenem-sparing antibiotic regimen is non-inferior to a carbapenem will help encourage use of alternatives to carbapenems. Carbapenem resistance is the &#8216;end-game&#8217; with respect to antibiotic resistance as it eliminates one of our most important antibiotic options and leaves few effective alternative treatments. Evidenced-based strategies to support the clinical management of resistant infections that consider both efficacy and the potential for &#8216;collateral damage&#8217; of treatment options are therefore urgently needed.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Trial status</p>
+          </st>
+          <p>A pilot study based on this protocol has commenced recruitment in both Singapore and Australia in February 2014. The remaining study sites are scheduled to begin enrolment later during 2014 once local regulatory requirements have been completed. It is planned for the pilot phase to be extended to a definitive trial in early 2015. It is aimed that recruitment for the definitive study will be completed by late 2016. Data from the pilot phase will be included in the definitive study analysis.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Abbreviations</p>
+          </st>
+          <p>APACHE: Acute Physiology and Chronic Health Evaluation</p>
+          <p>ASID: Australasian Society for Infectious Disease</p>
+          <p>BLBLI: beta-lactam/beta-lactamase inhibitor</p>
+          <p>CRF: Clinical record form</p>
+          <p>CRN: Clinical Research Network</p>
+          <p>DMSB: Data Monitoring and Safety Board</p>
+          <p>DSRB: Domain Specific Review Board</p>
+          <p>ESBL: extended-spectrum beta-lactamase</p>
+          <p>EUCAST: European Committee for Antimicrobial Susceptibility Testing</p>
+          <p>QCTBC: Queensland Clinical Trials and Biostatistics Unit</p>
+          <p>ITT: intention-to-treat</p>
+          <p>MLST: multi-locus sequence typing</p>
+          <p>NHG: National Healthcare Group</p>
+          <p>PCR: polymerase chain reaction</p>
+          <p>QCTBC: Queensland Clinical Trials and Biostatistics Unit</p>
+          <p>RCTs: randomised controlled trials</p>
+          <p>RR: relative risk</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Competing interests</p>
+          </st>
+          <p>SKP has acted as a consultant and speaker for Novartis and Amylin Pharmaceuticals, LLC. He has received grants in support of investigator and investigator initiated clinical studies from Merck, Novo Nordisk and Pfizer, Bristol Myer Squib, Amylin Pharmaceuticals and Hospira. SKP also received an infrastructure research grant from Therapeutic Innovations Australia. DLP has participated in advisory boards and received honoraria from AstraZeneca, Merck, Pfizer, Bayer, Cubist and Leo Pharmaceuticals. All other authors have no competing interests to declare.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Authors&#8217; contributions</p>
+          </st>
+          <p>PH wrote the initial and final drafts of the manuscript. The concept for the study was proposed by AYP and DLP. The original protocol was developed by the Gram-negative Working Group of the ASID-CRN (AYP, JI, PRI, SM, AS, BAR, ESM, EA, THB and DLP) with additional input from JL and JAR. Statistical support was provided by SKP and PB. All authors have reviewed the final manuscript and approve its contents.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Authors&#8217; information</p>
+          </st>
+          <p>PH is an infectious disease physician and microbiologist and is currently undertaking a PhD with the Paterson group at UQCCR. AYP is an infectious disease physician and NHMRC Career Development Fellow. ESM is an infectious diseases physician and is the head of epidemiology at the Victorian Infectious Diseases Service. SM is a clinical academic infectious diseases and general medicine physician. AJS is an infectious diseases physician. PRI is an infectious diseases physician and microbiologist. BAR is an infectious disease physician. JL is a critical care specialist. JAR is a clinical pharmacist and NHMRC Research Fellow. JI is a physician and microbiologist and runs the NHMRC Centre for Research Excellence in Critical Infection in Sydney. EA is an infectious disease physician. SKP is a clinical trialist and biostatistician. PB is a statistician. THB is a registered nurse and is currently the Clinical Research Manager for the Paterson group at UQCCR. DLP is an infectious disease physician and microbiologist and chairs the ASID-CRN steering committee.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Additional files</p>
+          </st>
+          <suppl id="S1">
+             <title>
+                <p>Additional file 1:</p>
+             </title>
+             <text>
+                <p>
+                              <b>MERINO Trial Clinical Record Form.</b>                            
+                </p>
+             </text>
+             <file name="s13063-014-0541-9-S1.docx">
+                <p>Click here for file</p>
+             </file>
+          </suppl>
+          <suppl id="S2">
+             <title>
+                <p>Additional file 2:</p>
+             </title>
+             <text>
+                <p>
+                              <b>MERINO Trials Initial Screening Form.</b>                            
+                </p>
+             </text>
+             <file name="s13063-014-0541-9-S2.docx">
+                <p>Click here for file</p>
+             </file>
+          </suppl>
+          
+       </sec>
+    </bdy>
+    <bm>
+       <ack>
+          <sec>
+             <st>
+                <p>Acknowledgments</p>
+             </st>
+             <p>Funding for the trial has been received from the Australasian Society for Antimicrobials (ASA) and the International Society for Chemotherapy (ISC). We would like to acknowledge Anna Sartor (UQCCR) and Simon Forsyth (QCTBC) for assistance in setting up the REDCap database and all local site investigators for their involvement.</p>
+             <p>On behalf of the Australasian Society for Infectious Diseases Clinical Research Network (ASID-CRN).</p>
+          </sec>
+       </ack>
+       <refgrp>
+          
+          <bibl id="B1">
+             <title>
+                <p>New method of classifying infections in critically ill patients</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Cohen</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Cristofaro</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Carlet</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Opal</snm>
+                   <fnm>S</fnm>
+                </au>
+             </aug>
+             <source>Crit Care Med</source>
+             <pubdate>2004</pubdate>
+             <volume>32</volume>
+             <issue>7</issue>
+             <fpage>1510</fpage>
+             <lpage>26</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/01.CCM.0000129973.13104.2D</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15241096</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B2">
+             <title>
+                <p>Extended-spectrum beta-lactamase-producing Enterobacteriaceae: an emerging public-health concern</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Pitout</snm>
+                   <fnm>JD</fnm>
+                </au>
+                <au>
+                   <snm>Laupland</snm>
+                   <fnm>KB</fnm>
+                </au>
+             </aug>
+             <source>Lancet Infect Dis</source>
+             <pubdate>2008</pubdate>
+             <volume>8</volume>
+             <issue>3</issue>
+             <fpage>159</fpage>
+             <lpage>66</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S1473-3099(08)70041-0</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18291338</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B3">
+             <title>
+                <p>Extended-spectrum beta-lactamases: a clinical update</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Paterson</snm>
+                   <fnm>DL</fnm>
+                </au>
+                <au>
+                   <snm>Bonomo</snm>
+                   <fnm>RA</fnm>
+                </au>
+             </aug>
+             <source>Clin Microbiol Rev</source>
+             <pubdate>2005</pubdate>
+             <volume>18</volume>
+             <issue>4</issue>
+             <fpage>657</fpage>
+             <lpage>86</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1128/CMR.18.4.657-686.2005</pubid>
+                   <pubid idtype="pmpid" link="fulltext">16223952</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B4">
+             <title>
+                <p>Burden of antimicrobial resistance in European hospitals: excess mortality and length of hospital stay associated with bloodstream infections due to Escherichia coli resistant to third-generation cephalosporins</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>de Kraker</snm>
+                   <fnm>MEA</fnm>
+                </au>
+                <au>
+                   <snm>Wolkewitz</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Davey</snm>
+                   <fnm>PG</fnm>
+                </au>
+                <au>
+                   <snm>Koller</snm>
+                   <fnm>W</fnm>
+                </au>
+                <au>
+                   <snm>Berger</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Nagler</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Icket</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Kalenic</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Horvatic</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Seifert</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Kaasch</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Paniara</snm>
+                   <fnm>O</fnm>
+                </au>
+                <au>
+                   <snm>Argyropoulou</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Bompola</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Smyth</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Skally</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Raglio</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Dumpis</snm>
+                   <fnm>U</fnm>
+                </au>
+                <au>
+                   <snm>Melbarde Kelmere</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Borg</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Xuereb</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Ghita</snm>
+                   <fnm>MC</fnm>
+                </au>
+                <au>
+                   <snm>Noble</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Kolman</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Grabljevec</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Turner</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Lansbury</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Grundmann</snm>
+                   <fnm>H</fnm>
+                </au>
+             </aug>
+             <source>J Antimicrob Chemother</source>
+             <pubdate>2011</pubdate>
+             <volume>66</volume>
+             <issue>2</issue>
+             <fpage>398</fpage>
+             <lpage>407</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/jac/dkq412</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21106563</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B5">
+             <title>
+                <p>Antibiotic therapy for Klebsiella pneumoniae bacteremia: implications of production of extended-spectrum beta-lactamases</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Paterson</snm>
+                   <fnm>DL</fnm>
+                </au>
+                <au>
+                   <snm>Ko</snm>
+                   <fnm>WC</fnm>
+                </au>
+                <au>
+                   <snm>Von Gottberg</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Mohapatra</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Casellas</snm>
+                   <fnm>JM</fnm>
+                </au>
+                <au>
+                   <snm>Goossens</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Mulazimoglu</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Trenholme</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Klugman</snm>
+                   <fnm>KP</fnm>
+                </au>
+                <au>
+                   <snm>Bonomo</snm>
+                   <fnm>RA</fnm>
+                </au>
+                <au>
+                   <snm>Rice</snm>
+                   <fnm>LB</fnm>
+                </au>
+                <au>
+                   <snm>Wagener</snm>
+                   <fnm>MM</fnm>
+                </au>
+                <au>
+                   <snm>McCormack</snm>
+                   <fnm>JG</fnm>
+                </au>
+                <au>
+                   <snm>Yu</snm>
+                   <fnm>VL</fnm>
+                </au>
+             </aug>
+             <source>Clin Infect Dis</source>
+             <pubdate>2004</pubdate>
+             <volume>39</volume>
+             <issue>1</issue>
+             <fpage>31</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1086/420816</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15206050</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B6">
+             <title>
+                <p>Carbapenems versus alternative antibiotics for the treatment of bacteraemia due to Enterobacteriaceae producing extended-spectrum beta-lactamases: a systematic review and meta-analysis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Vardakas</snm>
+                   <fnm>KZ</fnm>
+                </au>
+                <au>
+                   <snm>Tansarli</snm>
+                   <fnm>GS</fnm>
+                </au>
+                <au>
+                   <snm>Rafailidis</snm>
+                   <fnm>PI</fnm>
+                </au>
+                <au>
+                   <snm>Falagas</snm>
+                   <fnm>ME</fnm>
+                </au>
+             </aug>
+             <source>J Antimicrob Chemother</source>
+             <pubdate>2012</pubdate>
+             <volume>67</volume>
+             <issue>12</issue>
+             <fpage>2793</fpage>
+             <lpage>803</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/jac/dks301</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22915465</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B7">
+             <title>
+                <p>beta-Lactam/beta-lactam inhibitor combinations for the treatment of bacteremia due to extended-spectrum beta-lactamase-producing Escherichia coli: a post hoc analysis of prospective cohorts</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Rodriguez-Bano</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Navarro</snm>
+                   <fnm>MD</fnm>
+                </au>
+                <au>
+                   <snm>Retamar</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Picon</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Pascual</snm>
+                   <fnm>A</fnm>
+                </au>
+             </aug>
+             <source>Clin Infect Dis</source>
+             <pubdate>2012</pubdate>
+             <volume>54</volume>
+             <issue>2</issue>
+             <fpage>167</fpage>
+             <lpage>74</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/cid/cir790</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22057701</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B8">
+             <title>
+                <p>Impact of empirical treatment in extended-spectrum beta-lactamase-producing Escherichia coli and Klebsiella spp. bacteremia. A multicentric cohort study</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Peralta</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Lamelo</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Alvarez-Garcia</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Velasco</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Delgado</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Horcajada</snm>
+                   <fnm>JP</fnm>
+                </au>
+                <au>
+                   <snm>Montero</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Roiz</snm>
+                   <fnm>MP</fnm>
+                </au>
+                <au>
+                   <snm>Farinas</snm>
+                   <fnm>MC</fnm>
+                </au>
+                <au>
+                   <snm>Alonso</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Martinez</snm>
+                   <fnm>LM</fnm>
+                </au>
+                <au>
+                   <snm>Gutierrez-Macias</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Alava</snm>
+                   <fnm>JA</fnm>
+                </au>
+                <au>
+                   <snm>Rodriguez</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Fleites</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Navarro</snm>
+                   <fnm>V</fnm>
+                </au>
+                <au>
+                   <snm>Sirvent</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Capdevila</snm>
+                   <fnm>JA</fnm>
+                </au>
+             </aug>
+             <source>BMC Infect Dis</source>
+             <pubdate>2012</pubdate>
+             <volume>12</volume>
+             <fpage>245</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1186/1471-2334-12-245</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23038999</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B9">
+             <title>
+                <p>Correlations of antibiotic use and carbapenem resistance in Enterobacteriaceae</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>McLaughlin</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Advincula</snm>
+                   <fnm>MR</fnm>
+                </au>
+                <au>
+                   <snm>Malczynski</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Qi</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Bolon</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Scheetz</snm>
+                   <fnm>MH</fnm>
+                </au>
+             </aug>
+             <source>Antimicrob Agents Chemother</source>
+             <pubdate>2013</pubdate>
+             <volume>57</volume>
+             <issue>10</issue>
+             <fpage>5131</fpage>
+             <lpage>3</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1128/AAC.00607-13</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23836188</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B10">
+             <title>
+                <p>Carbapenem-resistant Enterobacteriaceae: epidemiology and prevention</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Gupta</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Limbago</snm>
+                   <fnm>BM</fnm>
+                </au>
+                <au>
+                   <snm>Patel</snm>
+                   <fnm>JB</fnm>
+                </au>
+                <au>
+                   <snm>Kallen</snm>
+                   <fnm>AJ</fnm>
+                </au>
+             </aug>
+             <source>Clin Infect Dis</source>
+             <pubdate>2011</pubdate>
+             <volume>53</volume>
+             <issue>1</issue>
+             <fpage>60</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/cid/cir202</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21653305</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B11">
+             <title>
+                <p>Infectious Diseases Society of A: 10&#8201;&#215;&#8201;&#8242;20 progress-development of new drugs active against gram-negative bacilli: an update from the Infectious Diseases Society of America</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Boucher</snm>
+                   <fnm>HW</fnm>
+                </au>
+                <au>
+                   <snm>Talbot</snm>
+                   <fnm>GH</fnm>
+                </au>
+                <au>
+                   <snm>Benjamin</snm>
+                   <fnm>DK</fnm>
+                   <suf>Jr</suf>
+                </au>
+                <au>
+                   <snm>Bradley</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Guidos</snm>
+                   <fnm>RJ</fnm>
+                </au>
+                <au>
+                   <snm>Jones</snm>
+                   <fnm>RN</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Clin Infect Dis</source>
+             <pubdate>2013</pubdate>
+             <volume>56</volume>
+             <issue>12</issue>
+             <fpage>1685</fpage>
+             <lpage>94</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/cid/cit152</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23599308</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B12">
+             <title>
+                <p>New beta-lactamase inhibitors: a therapeutic renaissance in an MDR world</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Drawz</snm>
+                   <fnm>SM</fnm>
+                </au>
+                <au>
+                   <snm>Papp-Wallace</snm>
+                   <fnm>KM</fnm>
+                </au>
+                <au>
+                   <snm>Bonomo</snm>
+                   <fnm>RA</fnm>
+                </au>
+             </aug>
+             <source>Antimicrob Agents Chemother</source>
+             <pubdate>2014</pubdate>
+             <volume>58</volume>
+             <issue>4</issue>
+             <fpage>1835</fpage>
+             <lpage>46</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1128/AAC.00826-13</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24379206</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B13">
+             <title>
+                <p>Killing of Escherichia coli by beta-lactams at different inocula</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Tam</snm>
+                   <fnm>VH</fnm>
+                </au>
+                <au>
+                   <snm>Ledesma</snm>
+                   <fnm>KR</fnm>
+                </au>
+                <au>
+                   <snm>Chang</snm>
+                   <fnm>KT</fnm>
+                </au>
+                <au>
+                   <snm>Wang</snm>
+                   <fnm>TY</fnm>
+                </au>
+                <au>
+                   <snm>Quinn</snm>
+                   <fnm>JP</fnm>
+                </au>
+             </aug>
+             <source>Diagn Microbiol Infect Dis</source>
+             <pubdate>2009</pubdate>
+             <volume>64</volume>
+             <issue>2</issue>
+             <fpage>166</fpage>
+             <lpage>71</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.diagmicrobio.2009.01.018</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19304437</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B14">
+             <title>
+                <p>High-level expression of chromosomally encoded SHV-1 beta-lactamase and an outer membrane protein change confer resistance to ceftazidime and piperacillin-tazobactam in a clinical isolate of Klebsiella pneumoniae</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Rice</snm>
+                   <fnm>LB</fnm>
+                </au>
+                <au>
+                   <snm>Carias</snm>
+                   <fnm>LL</fnm>
+                </au>
+                <au>
+                   <snm>Hujer</snm>
+                   <fnm>AM</fnm>
+                </au>
+                <au>
+                   <snm>Bonafede</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Hutton</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Hoyen</snm>
+                   <fnm>C</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Antimicrob Agents Chemother</source>
+             <pubdate>2000</pubdate>
+             <volume>44</volume>
+             <issue>2</issue>
+             <fpage>362</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1128/AAC.44.2.362-367.2000</pubid>
+                   <pubid idtype="pmpid" link="fulltext">10639363</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B15">
+             <title>
+                <p>AmpC beta-lactamases</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Jacoby</snm>
+                   <fnm>GA</fnm>
+                </au>
+             </aug>
+             <source>Clin Microbiol Rev</source>
+             <pubdate>2009</pubdate>
+             <volume>22</volume>
+             <issue>1</issue>
+             <fpage>161</fpage>
+             <lpage>82</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1128/CMR.00036-08</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19136439</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B16">
+             <title>
+                <p>Antimicrobial susceptibility profiles of aerobic and facultative Gram-negative bacilli isolated from patients with intra-abdominal infections in the Asia-Pacific region according to currently established susceptibility interpretive criteria</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Chen</snm>
+                   <fnm>YH</fnm>
+                </au>
+                <au>
+                   <snm>Hsueh</snm>
+                   <fnm>PR</fnm>
+                </au>
+                <au>
+                   <snm>Badal</snm>
+                   <fnm>RE</fnm>
+                </au>
+                <au>
+                   <snm>Hawser</snm>
+                   <fnm>SP</fnm>
+                </au>
+                <au>
+                   <snm>Hoban</snm>
+                   <fnm>DJ</fnm>
+                </au>
+                <au>
+                   <snm>Bouchillon</snm>
+                   <fnm>SK</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>J Infect</source>
+             <pubdate>2011</pubdate>
+             <volume>62</volume>
+             <issue>4</issue>
+             <fpage>280</fpage>
+             <lpage>91</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.jinf.2011.02.009</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21382411</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B17">
+             <title>
+                <p>Carbapenemases in Klebsiella pneumoniae and other Enterobacteriaceae: an evolving crisis of global dimensions</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Tzouvelekis</snm>
+                   <fnm>LS</fnm>
+                </au>
+                <au>
+                   <snm>Markogiannakis</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Psichogiou</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Tassios</snm>
+                   <fnm>PT</fnm>
+                </au>
+                <au>
+                   <snm>Daikos</snm>
+                   <fnm>GL</fnm>
+                </au>
+             </aug>
+             <source>Clin Microbiol Rev</source>
+             <pubdate>2012</pubdate>
+             <volume>25</volume>
+             <issue>4</issue>
+             <fpage>682</fpage>
+             <lpage>707</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1128/CMR.05035-11</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23034326</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B18">
+             <title>
+                <p>Extended-Spectrum Beta-Lactamases-Red Espanola de Investigacion en Patologia Infecciosa/Grupo de Estudio de Infeccion Hospitalaria G. beta-Lactam/beta-lactam inhibitor combinations for the treatment of bacteremia due to extended-spectrum beta-lactamase-producing Escherichia coli: a post hoc analysis of prospective cohorts</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Rodriguez-Bano</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Navarro</snm>
+                   <fnm>MD</fnm>
+                </au>
+                <au>
+                   <snm>Retamar</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Picon</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Pascual</snm>
+                   <fnm>A</fnm>
+                </au>
+             </aug>
+             <source>Clin Infect Dis</source>
+             <pubdate>2012</pubdate>
+             <volume>54</volume>
+             <issue>2</issue>
+             <fpage>167</fpage>
+             <lpage>74</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/cid/cir790</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22057701</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B19">
+             <title>
+                <p>Reporting of noninferiority and equivalence randomized trials: extension of the CONSORT 2010 statement</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Piaggio</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Elbourne</snm>
+                   <fnm>DR</fnm>
+                </au>
+                <au>
+                   <snm>Pocock</snm>
+                   <fnm>SJ</fnm>
+                </au>
+                <au>
+                   <snm>Evans</snm>
+                   <fnm>SJ</fnm>
+                </au>
+                <au>
+                   <snm>Altman</snm>
+                   <fnm>DG</fnm>
+                </au>
+                <au>
+                   <snm>Group</snm>
+                   <fnm>C</fnm>
+                </au>
+             </aug>
+             <source>JAMA</source>
+             <pubdate>2012</pubdate>
+             <volume>308</volume>
+             <issue>24</issue>
+             <fpage>2594</fpage>
+             <lpage>604</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1001/jama.2012.87802</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23268518</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B20">
+             <note>Breakpoint tables for interpretation of MICs and zone diameters version 4.0. Available from: <url>http://www.eucast.org</url>. Accessed 6<sup>th</sup> December 2014.</note>
+          </bibl>
+          <bibl id="B21">
+             <title>
+                <p>International prospective study of Klebsiella pneumoniae bacteremia: implications of extended-spectrum beta-lactamase production in nosocomial Infections</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Paterson</snm>
+                   <fnm>DL</fnm>
+                </au>
+                <au>
+                   <snm>Ko</snm>
+                   <fnm>WC</fnm>
+                </au>
+                <au>
+                   <snm>Von Gottberg</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Mohapatra</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Casellas</snm>
+                   <fnm>JM</fnm>
+                </au>
+                <au>
+                   <snm>Goossens</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Mulazimoglu</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Trenholme</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Klugman</snm>
+                   <fnm>KP</fnm>
+                </au>
+                <au>
+                   <snm>Bonomo</snm>
+                   <fnm>RA</fnm>
+                </au>
+                <au>
+                   <snm>Rice</snm>
+                   <fnm>LB</fnm>
+                </au>
+                <au>
+                   <snm>Wagener</snm>
+                   <fnm>MM</fnm>
+                </au>
+                <au>
+                   <snm>McCormack</snm>
+                   <fnm>JG</fnm>
+                </au>
+                <au>
+                   <snm>Yu</snm>
+                   <fnm>VL</fnm>
+                </au>
+             </aug>
+             <source>Ann Intern Med</source>
+             <pubdate>2004</pubdate>
+             <volume>140</volume>
+             <issue>1</issue>
+             <fpage>26</fpage>
+             <lpage>32</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.7326/0003-4819-140-1-200401060-00008</pubid>
+                   <pubid idtype="pmpid" link="fulltext">14706969</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B22">
+             <aug>
+                <au>
+                   <snm>Chow</snm>
+                   <fnm>S-C</fnm>
+                </au>
+                <au>
+                   <snm>Hansheng</snm>
+                   <fnm>W</fnm>
+                </au>
+                <au>
+                   <snm>Shao</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>Sample size calculations in clinical research</source>
+             <publisher>Chapman Hall, Boca Raton</publisher>
+             <edition>2</edition>
+             <pubdate>2007</pubdate>
+          </bibl>
+          <bibl id="B23">
+             <note>Harris PNA, Mo Y, Jureen R, Chew J, Ali J, Paterson DL, Tambyah PA. Meropenem and piperacillin-tazobactam have comparable outcomes in treatment of bloodstream infections caused by extended spectrum beta-lactamase producing E.coli and Klebsiellae<b>.</b> Abstract number 486, IDWeek. Philadelphia, PA: 8 to 12 October 2014. Available from: <url>https://idsa.confex.com/idsa/2014/webprogram/Paper46679.html</url>. Accessed 12<sup>th</sup> Jan 2015.</note>
+          </bibl>
+          <bibl id="B24">
+             <note>EUCAST guidelines for detection of resistance mechanisms and specific resistances of clinical and/or epidemiological importance. Available from: <url>http://www.eucast.org/fileadmin/src/media/PDFs/EUCAST_files/Resistance_mechanisms/EUCAST_detection_of_resistance_mechanisms_v1.0_20131211.pdf</url>. Accessed 26<sup>th</sup> Jan 2015.</note>
+          </bibl>
+          <bibl id="B25">
+             <title>
+                <p>Determining research priorities for clinician-initiated trials in infectious diseases</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Paterson</snm>
+                   <fnm>DL</fnm>
+                </au>
+             </aug>
+             <source>Med J Aust</source>
+             <pubdate>2013</pubdate>
+             <volume>198</volume>
+             <issue>5</issue>
+             <fpage>270</fpage>
+             <lpage>2</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.5694/mja12.11703</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23496404</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B26">
+             <title>
+                <p>The future of antibiotics and resistance</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Spellberg</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Bartlett</snm>
+                   <fnm>JG</fnm>
+                </au>
+                <au>
+                   <snm>Gilbert</snm>
+                   <fnm>DN</fnm>
+                </au>
+             </aug>
+             <source>N Engl J Med</source>
+             <pubdate>2013</pubdate>
+             <volume>368</volume>
+             <issue>4</issue>
+             <fpage>299</fpage>
+             <lpage>302</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1056/NEJMp1215093</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23343059</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+       </refgrp>
+    </bm>
+ </art>

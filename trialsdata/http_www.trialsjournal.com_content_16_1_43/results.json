@@ -1,0 +1,101 @@
+{
+  "publisher": {
+    "value": [
+      "BioMed Central Ltd"
+    ]
+  },
+  "journal": {
+    "value": [
+      "Trials"
+    ]
+  },
+  "title": {
+    "value": [
+      "Three donor site dressings in pediatric split-thickness skin grafts: study protocol for a randomised controlled trial"
+    ]
+  },
+  "authors": {
+    "value": [
+      "Craig A McBride",
+      "Roy M Kimble",
+      "Kellie Stockton"
+    ]
+  },
+  "date": {
+    "value": [
+      "2015-02-08"
+    ]
+  },
+  "doi": {
+    "value": [
+      "10.1186/s13063-015-0557-9"
+    ]
+  },
+  "volume": {
+    "value": [
+      "16"
+    ]
+  },
+  "issue": {
+    "value": [
+      "1"
+    ]
+  },
+  "firstpage": {
+    "value": [
+      "43"
+    ]
+  },
+  "description": {
+    "value": [
+      "For children requiring split-thickness skin grafting for burn injury, the optimum donor site dressing is an ongoing subject of debate. The most common dressings in use, both regionally and worldwide, are calcium alginates. We will compare an alginate with two other dressings, all of which are in current use in the Pegg Leditschke Paediatric Burns Centre (PLPBC), to determine which dressing performs the best."
+    ]
+  },
+  "abstract": {
+    "value": [
+      "For children requiring split-thickness skin grafting for burn injury, the optimum donor site dressing is an ongoing subject of debate. The most common dressings in use, both regionally and worldwide, are calcium alginates. We will compare an alginate with two other dressings, all of which are in current use in the Pegg Leditschke Paediatric Burns Centre (PLPBC), to determine which dressing performs the best."
+    ]
+  },
+  "fulltext_html": {
+    "value": [
+      "http://www.trialsjournal.com/content/16/1/43"
+    ]
+  },
+  "fulltext_pdf": {
+    "value": [
+      "http://www.trialsjournal.com/content/pdf/s13063-015-0557-9.pdf"
+    ]
+  },
+  "fulltext_xml": {
+    "value": [
+      "/content/download/xml/s13063-015-0557-9.xml"
+    ]
+  },
+  "supplementary_material": {
+    "value": [
+      "http://trialsjournal.com/content/download/supplementary/s13063-015-0557-9-s1.docx",
+      "http://trialsjournal.com/content/download/supplementary/s13063-015-0557-9-s2.doc"
+    ]
+  },
+  "figure": {
+    "value": [
+      "/content/figures/s13063-015-0557-9-1.gif"
+    ]
+  },
+  "figure_caption": {
+    "value": [
+      "Figure 1.",
+      "Flow diagram of the trial."
+    ]
+  },
+  "license": {
+    "value": [
+      "\r\n\t\t\t\tThis is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.\r\n\t\t\t"
+    ]
+  },
+  "copyright": {
+    "value": [
+      "\r\n            © 2015 McBride et al.; licensee BioMed Central. \r\n        "
+    ]
+  }
+}

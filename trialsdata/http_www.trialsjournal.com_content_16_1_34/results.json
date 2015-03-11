@@ -1,0 +1,103 @@
+{
+  "publisher": {
+    "value": [
+      "BioMed Central Ltd"
+    ]
+  },
+  "journal": {
+    "value": [
+      "Trials"
+    ]
+  },
+  "title": {
+    "value": [
+      "A novel comparative effectiveness study of Tai Chi versus aerobic exercise for fibromyalgia: study protocol for a randomized controlled trial"
+    ]
+  },
+  "authors": {
+    "value": [
+      "Chenchen Wang",
+      "Timothy McAlindon",
+      "Roger A Fielding",
+      "William F Harvey",
+      "Jeffrey B Driban",
+      "Lori L Price",
+      "Robert Kalish",
+      "Anna Schmid",
+      "Tammy M Scott",
+      "Christopher H Schmid"
+    ]
+  },
+  "date": {
+    "value": [
+      "2015-01-30"
+    ]
+  },
+  "doi": {
+    "value": [
+      "10.1186/s13063-015-0548-x"
+    ]
+  },
+  "volume": {
+    "value": [
+      "16"
+    ]
+  },
+  "issue": {
+    "value": [
+      "1"
+    ]
+  },
+  "firstpage": {
+    "value": [
+      "34"
+    ]
+  },
+  "description": {
+    "value": [
+      "Fibromyalgia is a chronic musculoskeletal pain syndrome that causes substantial physical and psychological impairment and costs the US healthcare system over $25 billion annually. Current pharmacological therapies may cause serious adverse effects, are expensive, and fail to effectively improve pain and function. Finding new and effective non-pharmacological treatments for fibromyalgia patients is urgently needed. We are currently conducting the first comparative effectiveness randomized trial of Tai Chi versus aerobic exercise (a recommended component of the current standard of care) in a large fibromyalgia population. This article describes the design and conduct of this trial."
+    ]
+  },
+  "abstract": {
+    "value": [
+      "Fibromyalgia is a chronic musculoskeletal pain syndrome that causes substantial physical and psychological impairment and costs the US healthcare system over $25 billion annually. Current pharmacological therapies may cause serious adverse effects, are expensive, and fail to effectively improve pain and function. Finding new and effective non-pharmacological treatments for fibromyalgia patients is urgently needed. We are currently conducting the first comparative effectiveness randomized trial of Tai Chi versus aerobic exercise (a recommended component of the current standard of care) in a large fibromyalgia population. This article describes the design and conduct of this trial."
+    ]
+  },
+  "fulltext_html": {
+    "value": [
+      "http://www.trialsjournal.com/content/16/1/34"
+    ]
+  },
+  "fulltext_pdf": {
+    "value": [
+      "http://www.trialsjournal.com/content/pdf/s13063-015-0548-x.pdf"
+    ]
+  },
+  "fulltext_xml": {
+    "value": [
+      "/content/download/xml/s13063-015-0548-x.xml"
+    ]
+  },
+  "supplementary_material": {
+    "value": [
+      "http://trialsjournal.com/content/download/supplementary/s13063-015-0548-x-s1.doc",
+      "http://trialsjournal.com/content/download/supplementary/s13063-015-0548-x-s2.doc"
+    ]
+  },
+  "figure": {
+    "value": []
+  },
+  "figure_caption": {
+    "value": []
+  },
+  "license": {
+    "value": [
+      "\r\n\t\t\t\tThis is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.\r\n\t\t\t"
+    ]
+  },
+  "copyright": {
+    "value": [
+      "\r\n            © 2015 Wang et al.; licensee BioMed Central. \r\n        "
+    ]
+  }
+}

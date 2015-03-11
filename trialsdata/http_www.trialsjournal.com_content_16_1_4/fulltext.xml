@@ -1,0 +1,1734 @@
+<?xml version='1.0'?>
+<!DOCTYPE art SYSTEM 'http://www.biomedcentral.com/xml/article.dtd'>
+<art>
+	<ui>1745-6215-16-4</ui>
+	<ji>1745-6215</ji>
+	<fm>
+		<dochead>Study protocol</dochead>
+		<bibl>
+			<title>
+				<p>Derivation and validation phase for the development of clinical prediction rules for rehabilitation in chronic nonspecific low back pain patients: study protocol for a randomized controlled trial</p>
+			</title>
+			<aug>
+				<au id="A1" ca="yes"><snm>Denteneer</snm><fnm>Lenie</fnm><insr iid="I1"/><email>lenie.denteneer@uantwerpen.be</email></au>
+				<au id="A2"><snm>Stassijns</snm><fnm>Gaetane</fnm><insr iid="I1"/><insr iid="I2"/><email>Gaetane.stassijns@uza.be</email></au>
+				<au id="A3"><snm>De Hertogh</snm><fnm>Willem</fnm><insr iid="I1"/><email>willem.dehertogh@uantwerpen.be</email></au>
+				<au id="A4"><snm>Truijen</snm><fnm>Steven</fnm><insr iid="I1"/><email>Steven.truijen@uantwerpen.be</email></au>
+				<au id="A5"><snm>Jansen</snm><fnm>Nienke</fnm><insr iid="I3"/><email>Nienke.jansen@vub.ac.be</email></au>
+				<au id="A6"><snm>Van Daele</snm><fnm>Ulrike</fnm><insr iid="I1"/><email>Ulrike.vandaele@uantwerpen.be</email></au>
+			</aug>
+			<insg>
+				<ins id="I1"><p>Faculty of Medicine and Health Sciences, University of Antwerp, Universiteitsplein 1, 2610 Wirlijk, Belgium</p></ins>
+				<ins id="I2"><p>Department of Physical Medicine and Rehabilitation, Antwerp University Hospital, Universiteitsplein 1, 2610 Wirijk, Belgium</p></ins>
+				<ins id="I3"><p>Faculty of Medicine and Pharmacy, Free University of Brussels, Laarbeeklaan 103, 1090 Jette, Belgium</p></ins>
+			</insg>
+			<source>Trials</source>
+			<issn>1745-6215</issn>
+			<pubdate>2015</pubdate>
+			<volume>16</volume>
+			<issue>1</issue>
+			<fpage>4</fpage>
+			<url>http://www.trialsjournal.com/content/16/1/4</url>
+			<xrefbib><pubidlist><pubid idtype="doi">10.1186/1745-6215-16-4</pubid><pubid idtype="pmpid">25558975</pubid></pubidlist></xrefbib>
+		</bibl>
+		<history><rec><date><day>15</day><month>8</month><year>2014</year></date></rec><acc><date><day>9</day><month>12</month><year>2014</year></date></acc><pub><date><day>6</day><month>1</month><year>2015</year></date></pub></history>
+		<cpyrt><year>2015</year><collab>Denteneer et al.; licensee BioMed Central.</collab><note>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/4.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (<url>http://creativecommons.org/publicdomain/zero/1.0/</url>) applies to the data made available in this article, unless otherwise stated.</note></cpyrt>
+		<kwdg>
+			<kwd>Clinical prediction rule</kwd>
+			<kwd>Nonspecific</kwd>
+			<kwd>Chronic</kwd>
+			<kwd>Low back pain</kwd>
+		</kwdg>
+		<abs>
+			<sec>
+				<st>
+					<p>Abstract</p>
+				</st>
+				<sec>
+					<st>
+						<p>Background</p>
+					</st><p>There is a consensus that exercise therapy should be used as a therapeutic approach in chronic low back pain (CLBP) but little consensus has been reached about the preferential type of therapy. Due to the heterogeneity of the population no clear effect of specific therapy interventions are found. Probably a specific subgroup of the investigated population will benefit from the intervention and another subgroup will not benefit, looking at the total investigated population no significant effects can be found. Therefore there is a need for the development of clinical prediction rules (CPRs). Objectives for this trial are first, the derivation of CPRs to predict treatment response to three forms of exercise therapy for patients with nonspecific CLBP. Secondly, we aim to validate a CPR for the three forms of exercise therapy for patients with nonspecific CLBP.</p>
+				</sec>
+				<sec>
+					<st>
+						<p>Methods/Design</p>
+					</st><p>The study design is a randomized controlled trial. Patients with nonspecific CLBP of more than three months duration are recruited at the Antwerp University Hospital (Belgium) and Apra Rehabilitation Hospital. After examination, patients are randomly assigned to one of three intervention groups: motor control therapy, general active exercise therapy and isometric training therapy. All patients will undergo 18 treatment sessions during nine weeks. Measurements will be taken at baseline, nine weeks, six months and at one year. The primary outcome used is the Modified Oswestry Disability Questionnaire score. For each type of exercise therapy a CPR will be derived and validated. For validation, the CPR will be applied to divide each treatment group into two subgroups (matched and unmatched therapy) using the baseline measurements. We predict a better therapeutic effect for matched therapy.</p>
+				</sec>
+				<sec>
+					<st>
+						<p>Discussion</p>
+					</st><p>A randomized controlled trial has not previously been performed for the development of a CPR for exercise therapy in CLBP patients. Only one CPR was described in a single-arm design for motor control therapy in sub-acute non-radicular LBP patients. In this study, a sufficiently large sample will be included in both the derivation and validation phase.</p>
+				</sec>
+				<sec>
+					<st>
+						<p>Trial registration</p>
+					</st><p>This trial was registered with Clinicaltrials.gov on 10 February 2014, registration number: <a href="https://clinicaltrials.gov/ct2/show/NCT02063503">NCT02063503</a>.</p>
+				</sec>
+			</sec>
+		</abs>
+	</fm>
+	<bdy>
+		<sec>
+			<st>
+				<p>Background</p>
+			</st><p>Low back pain (LBP) can be considered as an epidemic <abbrgrp>
+					<abbr bid="B1">1</abbr>
+				</abbrgrp>. The European guidelines mention a lifetime prevalence of 84% <abbrgrp>
+					<abbr bid="B2">2</abbr>
+				</abbrgrp>. About 5 to 10% of LBP patients develop chronic low back pain (CLBP), and 85% of these patients have nonspecific LBP <abbrgrp>
+					<abbr bid="B2">2</abbr>
+				</abbrgrp>. Based on the European guidelines <abbrgrp>
+					<abbr bid="B2">2</abbr>
+				</abbrgrp> nonspecific CLBP is defined as pain and discomfort localised below the costal margin and above the inferior gluteal folds, with or without referred leg pain, persisting for at least 12&#160;weeks. Nonspecific LBP is not attributable to a known specific pathology such as infection, tumor, osteoporosis, fracture, structural deformity, inflammatory disorder (for example, ankylosing spondylitis), radicular syndrome or cauda equine syndrome.</p><p>The large group of patients meeting these criteria is heterogeneous and therefore these patients represent a treatment challenge for every clinician. There is a consensus that exercise therapy should be used as a therapeutic approach <abbrgrp>
+					<abbr bid="B2">2</abbr>
+				</abbrgrp> but little consensus has been reached about the preferential type of therapy <abbrgrp>
+					<abbr bid="B3">3</abbr>
+					<abbr bid="B4">4</abbr>
+					<abbr bid="B5">5</abbr>
+					<abbr bid="B6">6</abbr>
+					<abbr bid="B7">7</abbr>
+					<abbr bid="B8">8</abbr>
+					<abbr bid="B9">9</abbr>
+					<abbr bid="B10">10</abbr>
+					<abbr bid="B11">11</abbr>
+					<abbr bid="B12">12</abbr>
+					<abbr bid="B13">13</abbr>
+					<abbr bid="B14">14</abbr>
+				</abbrgrp>. Due to the heterogeneity of the population no clear effect of specific therapy interventions are found. Probably a specific subgroup of the investigated population will benefit from the intervention and another subgroup will not benefit, looking at the total investigated population no significant effects can be found. In response to this, the European guidelines <abbrgrp>
+					<abbr bid="B2">2</abbr>
+				</abbrgrp> express the need for the development of tools which improve the classification and identification of specific clinical sub-groups of nonspecific CLBP patients.</p><p>Haskins <it>et al</it>. <abbrgrp>
+					<abbr bid="B15">15</abbr>
+				</abbrgrp> described 23 existing studies on clinical prediction rules (CPR) in LBP patients. Only two of those studies describe the development of CPR&#8217;s for active rehabilitation in LBP patients. One of those two discusses a McKenzie approach, which is not our point of interest since we are focusing on motor control therapy, general active exercises therapy and isometric training therapy.</p><p>The other study, Hicks <it>et al</it>. <abbrgrp>
+					<abbr bid="B16">16</abbr>
+				</abbrgrp>, developed two preliminary CPR&#8217;s in recurrent LBP patients: one for the success and one for the absence of success of motor control therapy. They performed a single-arm intervention study (no control group only motor control therapy) on 54 recurrent non-radicular LBP patients. After therapy, 39 patients were classified as &#8216;improved&#8217; and 15 patients were classified as &#8216;not improved&#8217;. Multivariate regression analysis resulted in four positive prediction factors for motor control therapy. Presence of three or more of the predicting factors led to a positive likelihood ratio (LR+) of 4.0 (95% CI: 1.6 to 10.0) and increased the post-test probability of success with motor control therapy from 33 to 67%. Also, four negative predicting factors with motor control therapy were detected. The presence of two or more predicting factors led to a negative likelihood ratio (LR&#8211;) of 0.18 (95% CI: 0.08 to 0.38).</p><p>Brennan <it>et al</it>. <abbrgrp>
+					<abbr bid="B17">17</abbr>
+				</abbrgrp> investigated the application of CPR&#8217;s in 123 acute and sub-acute nonspecific LBP patients based on the CPR by Hicks <it>et al</it>. <abbrgrp>
+					<abbr bid="B16">16</abbr>
+				</abbrgrp> and Fritz <it>et al.</it>
+				<abbrgrp>
+					<abbr bid="B18">18</abbr>
+				</abbrgrp>. The patients that were assigned to an intervention group that, according to the CPR, was not the best suitable therapy (unmatched) were considered as control patients. The patients that were assigned to an intervention group that, according to the CPR, was the best suitable therapy were considered as test patients (matched). They concluded larger improvements on the Modified Oswestry Disability Questionnaire (MODI) by the patients following the matched treatment, in comparison with those following the unmatched therapy, both at short and longer term (four and 52&#160;weeks, respectively).</p><p>The implementation and validation of a CPR can lead to a decrease of health complaints and an increased quality of life for numerous patients. A higher number and a faster return to work, or less frequent absence of work over time, are expected. If the patient-customized therapy leads to a decrease of recurrence this can lead to a decrease in direct and indirect health costs.</p><p>Our research question is the development (derivation) and validation of a CPR for the choice of an exercise therapy type (motor control therapy, general active exercise therapy and isometric training therapy) in nonspecific CLBP patients. Based on the derived CPR, subgroups will be made, ultimately leading to detection of patients with a high chance for success with a certain type of exercise therapy. The CPR will be developed according to the correct methodological phases <abbrgrp>
+					<abbr bid="B19">19</abbr>
+					<abbr bid="B20">20</abbr>
+				</abbrgrp>.</p>
+		</sec>
+		<sec>
+			<st>
+				<p>Methods/Design</p>
+			</st><p>Ethical approval (B300201215600) was obtained from the local ethics committees of the University of Antwerp, the Antwerp University Hospital and Apra Rehabilitation Hospital. The trial is registered at Clinicaltrials.gov, with the identification number: NCT02063503.</p>
+			<sec>
+				<st>
+					<p>Study design</p>
+				</st><p>The development of a CPR consists of three consecutive phases. The first two are the derivation and validation phase.In the derivation phase a CPR is derived from a number of variables that have predictive potential for therapy outcome. These variables are obtained from baseline measurements and have a multidimensional character (impairments, activities and/or participation and contextual factors). Data analysis is being used to calculate the most powerful combination of these variables to finally form the new derived CPR (see Figure&#160;<figr fid="F1">1</figr> and &#8216;Data analysis&#8217;).In the validation phase the derived CPR will be applied in a new study population. This application will result in matched patients (allocated in accordance with the CPR) and in unmatched patients (not in accordance with the CPR). The treatment success of both groups will be compared. The hypothesis is that treatment success will be higher in the matched group (Figure&#160;<figr fid="F2">2</figr>).</p>
+				<fig id="F1"><title><p>Figure 1</p></title><caption><p>Flow chart representing the design of the derivation phase</p></caption><text>
+   <p>
+      <b>Flow chart representing the design of the derivation phase.</b>
+   </p>
+</text><graphic file="1745-6215-16-4-1"/></fig>
+				<fig id="F2"><title><p>Figure 2</p></title><caption><p>Flow chart representing the design of the validation phase</p></caption><text>
+   <p>
+      <b>Flow chart representing the design of the validation phase.</b>
+   </p>
+</text><graphic file="1745-6215-16-4-2"/></fig><p>For both phases, a single blinded randomized controlled trial study design will be used. The project started in August 2014. Analysis of these data is planned for the end 2015.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Patient recruitment</p>
+				</st><p>Patients will be recruited by doctors at the service of two settings located in Antwerp, the Antwerp University Hospital and the Apra Rehabilitation Hospital. Treatment and measurements will be performed at the site where the patient has been recruited.</p>
+				<sec>
+					<st>
+						<p><it>Inclusion criteria</it></p>
+					</st><p>The inclusion criteria for this study are as follows: current nonspecific LBP persisting for at least three months, consulted a medical doctor during the last month because of the persistent LBP, aged between 18 and 65&#160;years, sufficient fluency in Dutch to follow treatment instructions and answer survey questions (Table&#160;<tblr tid="T1">1</tblr>).</p>
+					<table id="T1">
+						<title>
+							<p>Table 1</p>
+						</title>
+						<caption>
+							<p>
+								<b>Inclusion criteria</b>
+							</p>
+						</caption>
+						<tgroup align="left" cols="2">
+							<colspec align="left" colname="c1" colnum="1" colwidth="1*"/>
+							<colspec align="left" colname="c2" colnum="2" colwidth="1*"/>
+							<thead valign="top">
+								<row rowsep="1">
+									<entry colname="c1">
+										<p>
+											<b>Inclusion criteria</b>
+										</p>
+									</entry>
+									<entry colname="c2">
+										<p>
+											<b>Rationale</b>
+										</p>
+									</entry>
+								</row>
+							</thead>
+							<tbody valign="top">
+								<row>
+									<entry colname="c1">
+										<p>18 to 65&#160;years old</p>
+									</entry>
+									<entry colname="c2">
+										<p>Chronic low back pain in older adults is more likely to have specific causes (e.g., spinal canal stenosis)</p>
+									</entry>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Current nonspecific low back pain persisting&#8201;&#8805;&#8201;3&#160;months</p>
+									</entry>
+									<entry colname="c2">
+										<p>Condition studied is specifically chronic</p>
+									</entry>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Consulted a doctor during the last month for persistent low back pain</p>
+									</entry>
+									<entry colname="c2">
+										<p>Back pain severe enough and motivation from the patient itself to seek treatment</p>
+									</entry>
+								</row>
+								<row rowsep="1">
+									<entry colname="c1">
+										<p>Dutch fluency sufficient to follow treatment instructions and answer survey questions</p>
+									</entry>
+									<entry colname="c2">
+										<p>Fully informed consent and data collection</p>
+									</entry>
+								</row>
+							</tbody>
+						</tgroup>
+					</table>
+				</sec>
+				<sec>
+					<st>
+						<p><it>Exclusion criteria</it></p>
+					</st><p>The exclusion criteria for this study are as follows: spinal canal stenosis, spondylolisthesis and spondylitis, large herniated disc sciatica, radiating pain below the knee, previous back surgery, a history of known spinal fractures, malignancy, known muscle-, nerve-, skin-, or joint diseases, pregnancy and lack of consent (Table&#160;<tblr tid="T2">2</tblr>).</p>
+					<table id="T2">
+						<title>
+							<p>Table 2</p>
+						</title>
+						<caption>
+							<p>
+								<b>Exclusion criteria</b>
+							</p>
+						</caption>
+						<tgroup align="left" cols="2">
+							<colspec align="left" colname="c1" colnum="1" colwidth="1*"/>
+							<colspec align="left" colname="c2" colnum="2" colwidth="1*"/>
+							<thead valign="top">
+								<row rowsep="1">
+									<entry colname="c1">
+										<p>
+											<b>Exclusion criteria</b>
+										</p>
+									</entry>
+									<entry colname="c2">
+										<p>
+											<b>Rationale</b>
+										</p>
+									</entry>
+								</row>
+							</thead>
+							<tbody valign="top">
+								<row>
+									<entry colname="c1">
+										<p>Spinal canal stenosis</p>
+									</entry>
+									<entry colname="c2">
+										<p>Back pain possibly due to, specific disease</p>
+									</entry>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Spondylolisthesis</p>
+									</entry>
+									<entry colname="c2"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Spondylitis</p>
+									</entry>
+									<entry colname="c2"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Large herniated disc sciatica</p>
+									</entry>
+									<entry colname="c2"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Radiating pain below the knee</p>
+									</entry>
+									<entry colname="c2"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Previous back surgery</p>
+									</entry>
+									<entry colname="c2"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>History of vertebral fracture</p>
+									</entry>
+									<entry colname="c2"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Malignancy</p>
+									</entry>
+									<entry colname="c2"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Muscle-, nerve-, skin- or joint diseases</p>
+									</entry>
+									<entry colname="c2"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Known pregnacy</p>
+									</entry>
+									<entry colname="c2">
+										<p>Pregnancy-related low back pain is different in etiology and time course than the target condition for the study (nonspecific chronic low back pain)</p>
+									</entry>
+								</row>
+								<row rowsep="1">
+									<entry colname="c1">
+										<p>Lack of consent</p>
+									</entry>
+									<entry colname="c2">
+										<p>Research policy</p>
+									</entry>
+								</row>
+							</tbody>
+						</tgroup>
+					</table>
+				</sec>
+			</sec>
+			<sec>
+				<st>
+					<p>Measurements</p>
+				</st>
+				<sec>
+					<st>
+						<p><it>Baseline testing</it></p>
+					</st><p>The Modified Oswestry Disability Questionnaire (MODI) score will be used as the primary (dependent outcome measure). The MODI is a disease-specific questionnaire to measure disability in LBP patients. The modified version of the Oswestry Disability Questionnaire replaces the sex life item with an employment or homemaking item and has an excellent reliability and good construct validity <abbrgrp>
+							<abbr bid="B21">21</abbr>
+							<abbr bid="B22">22</abbr>
+							<abbr bid="B23">23</abbr>
+						</abbrgrp>. As secondary (independent) outcome measures the following tests are used:</p><p indent="1">1. Measurement of impairments: duration of the LBP, pelvis impairments and respiratory impairments (all three items through anamnesis). Prone instability test, straight leg raise, beighton scale, active straight leg raise, sitting knee extension test, waiters bow, pelvic tilt, side support test, extensor endurance test, active sit-up and visual analogue scale for pain (VAS).</p><p indent="1">2. Measurement of limitations in activities and participation: hours of physical activity per week (trough anamnesis). Short Form 36 Health Survey (SF36), Roland Morris Disability Questionnaire (RMDQ).</p><p indent="1">3. Measurement of contextual factors: gender, age, height, weight, body mass index, smoking, profession, underwent previous therapy and comorbidity (trough anamnesis), Tampa scale for kinesiophobia and Fear Avoidance Belief Questionnaire (FABQ),</p><p>We performed a literature search to select all used clinical tests based on their reliability and validity <abbrgrp>
+							<abbr bid="B24">24</abbr>
+						</abbrgrp>. Further, clinical tests used by Hicks <it>et al</it>. <abbrgrp>
+							<abbr bid="B16">16</abbr>
+						</abbrgrp> were also included in our study design. The baseline testing takes about 30&#160;minutes.</p>
+				</sec>
+				<sec>
+					<st>
+						<p>Follow-up</p>
+					</st><p>Short-term follow-up will take place after completion of the treatment program at nine weeks. All primary and secondary outcome measures from the baseline testing will be reevaluated at this time point.</p><p>Long-term follow-up will take place at six months and one year after entering the study. The following outcome measurements will be inventoried: age, weight, hours of physical activity per week, profession, duration of LBP, MODI, Tampa scale for kinesiophobia and VAS. The patients will initially be contacted by mail, and by phone if they do not respond to the mail within two weeks to make an appointment (Table&#160;<tblr tid="T3">3</tblr>).</p>
+					<table id="T3">
+						<title>
+							<p>Table 3</p>
+						</title>
+						<caption>
+							<p>
+								<b>primary (dependent) and secondary (independent) outcome</b>
+							</p>
+						</caption>
+						<tgroup align="left" cols="5">
+							<colspec align="left" colname="c1" colnum="1" colwidth="1*"/>
+							<colspec align="center" colname="c2" colnum="2" colwidth="1*"/>
+							<colspec align="center" colname="c3" colnum="3" colwidth="1*"/>
+							<colspec align="center" colname="c4" colnum="4" colwidth="1*"/>
+							<colspec align="center" colname="c5" colnum="5" colwidth="1*"/>
+							<thead valign="top">
+								<row rowsep="1">
+									<entry colname="c1">
+										<p>
+											<b>Measures</b>
+										</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>
+											<b>0&#160;weeks</b>
+										</p>
+									</entry>
+									<entry align="center" colname="c3">
+										<p>
+											<b>9&#160;weeks</b>
+										</p>
+									</entry>
+									<entry align="center" colname="c4">
+										<p>
+											<b>6&#160;months</b>
+										</p>
+									</entry>
+									<entry align="center" colname="c5">
+										<p>
+											<b>1&#160;year</b>
+										</p>
+									</entry>
+								</row>
+							</thead>
+							<tfoot>
+								<p>
+									<it>*Information obtained through anamnesis.</it>
+								</p><p>
+									<it>MODI: modified oswestry disability questionnaire, PIT: prone instability test, SLR: straight leg raise, ASLR: active straight leg raise, SKET: sitting knee extension test, VAS: visual analogue scale, RMDQ: roland morris disability questionnaire, FABQ: fear avoidance belief questionnaire, BMI: body mass index.</it>
+								</p>
+							</tfoot>
+							<tbody valign="top">
+								<row>
+									<entry colname="c1">
+										<p>
+											<b>
+												<it>Primary outcome:</it>
+											</b>
+										</p>
+									</entry>
+									<entry align="center" colname="c2"/>
+									<entry align="center" colname="c3"/>
+									<entry align="center" colname="c4"/>
+									<entry align="center" colname="c5"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>MODI</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c5">
+										<p>X</p>
+									</entry>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>
+											<b>
+												<it>Secondary outcome</it>
+											</b>
+										</p>
+									</entry>
+									<entry align="center" colname="c2"/>
+									<entry align="center" colname="c3"/>
+									<entry align="center" colname="c4"/>
+									<entry align="center" colname="c5"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>
+											<b>
+												<it>Impairments:</it>
+											</b>
+										</p>
+									</entry>
+									<entry align="center" colname="c2"/>
+									<entry align="center" colname="c3"/>
+									<entry align="center" colname="c4"/>
+									<entry align="center" colname="c5"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Duration low back pain*</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c5">
+										<p>X</p>
+									</entry>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Pelvis impairments*</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4"/>
+									<entry align="center" colname="c5"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Respiratory impairments*</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4"/>
+									<entry align="center" colname="c5"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>PIT</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4"/>
+									<entry align="center" colname="c5"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>SLR</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4"/>
+									<entry align="center" colname="c5"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Beighton scale</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4"/>
+									<entry align="center" colname="c5"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>ASLR</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4"/>
+									<entry align="center" colname="c5"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>SKET</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4"/>
+									<entry align="center" colname="c5"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Waiters bow</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4"/>
+									<entry align="center" colname="c5"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Pelvic tilt</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4"/>
+									<entry align="center" colname="c5"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Side support test</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4"/>
+									<entry align="center" colname="c5"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Extensor endurance test</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4"/>
+									<entry align="center" colname="c5"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Active sit up</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4"/>
+									<entry align="center" colname="c5"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>VAS*</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c5">
+										<p>X</p>
+									</entry>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>
+											<b>
+												<it>Secondary outcome</it>
+											</b>
+										</p>
+									</entry>
+									<entry align="center" colname="c2"/>
+									<entry align="center" colname="c3"/>
+									<entry align="center" colname="c4"/>
+									<entry align="center" colname="c5"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>
+											<b>
+												<it>Activities and participation:</it>
+											</b>
+										</p>
+									</entry>
+									<entry align="center" colname="c2"/>
+									<entry align="center" colname="c3"/>
+									<entry align="center" colname="c4"/>
+									<entry align="center" colname="c5"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>RMDQ</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4"/>
+									<entry align="center" colname="c5"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>SF-36</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4"/>
+									<entry align="center" colname="c5"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Hours physical activity/week*</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c5">
+										<p>X</p>
+									</entry>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>
+											<b>
+												<it>Secondary outcome</it>
+											</b>
+										</p>
+									</entry>
+									<entry align="center" colname="c2"/>
+									<entry align="center" colname="c3"/>
+									<entry align="center" colname="c4"/>
+									<entry align="center" colname="c5"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>
+											<b>
+												<it>contextual factors:</it>
+											</b>
+										</p>
+									</entry>
+									<entry align="center" colname="c2"/>
+									<entry align="center" colname="c3"/>
+									<entry align="center" colname="c4"/>
+									<entry align="center" colname="c5"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Tampa scale</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c5">
+										<p>X</p>
+									</entry>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>FABQ</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4"/>
+									<entry align="center" colname="c5"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Gender*</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3"/>
+									<entry align="center" colname="c4"/>
+									<entry align="center" colname="c5"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Age*</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c5">
+										<p>X</p>
+									</entry>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Height*</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3"/>
+									<entry align="center" colname="c4"/>
+									<entry align="center" colname="c5"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Weight*</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c5">
+										<p>X</p>
+									</entry>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>BMI*</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4"/>
+									<entry align="center" colname="c5"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Smoking*</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4"/>
+									<entry align="center" colname="c5"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Profession*</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c5">
+										<p>X</p>
+									</entry>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Previous therapy*</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3"/>
+									<entry align="center" colname="c4"/>
+									<entry align="center" colname="c5"/>
+								</row>
+								<row rowsep="1">
+									<entry colname="c1">
+										<p>Comorbidity*</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4"/>
+									<entry align="center" colname="c5"/>
+								</row>
+							</tbody>
+						</tgroup>
+					</table>
+				</sec>
+			</sec>
+			<sec>
+				<st>
+					<p>Randomization and blinding</p>
+				</st><p>In both phases patients will be randomly assigned to one of the three treatment groups after baseline testing. The responsible researcher will use a randomization list generated with Microsoft Excel&#174; software (version 14.3.9, Microsoft Corporation, Zaventem, Belgium). Physiotherapists responsible for the treatment sessions are blinded for the results of baseline and follow-up measurements, which are being performed by the responsible researcher.In the validation phase a pre stratification will be used to ensure a 50:50 ratio between matched and unmatched therapy within one intervention group. Patients who have a strong preference for one of our intervention groups and therefore cannot be randomized will be asked to participate in a parallel cohort study. In this study similar baseline and follow-up measurements will be used.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Intervention</p>
+				</st><p>During the nine-week intervention, patients will be treated two times a week. Patients will be assigned randomly into one of three intervention groups (motor control therapy, general active exercise therapy and isometric training therapy). Each intervention will take about 70&#160;minutes. A 10&#160;minutes warm up and cool down period will be the same in each treatment regime. Each group receives 50&#160;minutes of therapy-specific intervention. Previously trained physiotherapists will give the treatment. To ensure that all therapists provide the same exercises, a treatment protocol for each treatment group was developed and a treatment diary will be filled out after each session. Interventions in the derivation and validation phase are similar.</p>
+				<sec>
+					<st>
+						<p><it>Motor control therapy</it></p>
+					</st><p>The local stabilizing muscles (such as the multifidus, transversus abdominis, pelvic floor muscles and diaphragm) together with the global muscles (such as the erector spinae and rectus abdominis) are important in creating spinal stability <abbrgrp>
+							<abbr bid="B25">25</abbr>
+							<abbr bid="B26">26</abbr>
+							<abbr bid="B27">27</abbr>
+						</abbrgrp>. An impaired spinal stability is considered an important factor in developing LBP <abbrgrp>
+							<abbr bid="B28">28</abbr>
+							<abbr bid="B29">29</abbr>
+							<abbr bid="B30">30</abbr>
+						</abbrgrp>. This leads to the conceptualization of motor control therapy for the lumbar spine. Such therapy involves very specific low-load exercises of deeper trunk muscles that are dysfunctional in nonspecific CLBP <abbrgrp>
+							<abbr bid="B31">31</abbr>
+							<abbr bid="B32">32</abbr>
+						</abbrgrp> and has proven to be effective in nonspecific LBP <abbrgrp>
+							<abbr bid="B4">4</abbr>
+							<abbr bid="B5">5</abbr>
+							<abbr bid="B6">6</abbr>
+							<abbr bid="B7">7</abbr>
+							<abbr bid="B10">10</abbr>
+						</abbrgrp>.</p><p>Patients in this intervention group follow motor control training based on the work by Richardson and Hides <abbrgrp>
+							<abbr bid="B33">33</abbr>
+						</abbrgrp>. There are three levels to be completed by the patients. To evolve to the next level the patient must be able to correctly execute each exercise described in the former level. However, if the patient is not able to do so in the first level within three weeks of treatment or after six sessions, we will automatically proceed to the second level with the intention to minimalize the drop out and maximize the patient&#8217;s compliance. The first level is based on the isolated contraction of the local motor control muscles. Contraction of the transversus abdominis is performed with low intensity controlled by palpation. The second level is based on the contraction of local and global motor control and global mobilizing muscles. In the third level patients will practice the contraction of local and global motor control and global mobilizing muscles in functional patient specific conditions (for example a patient who has to perform a lot of loaded trunk rotations during work will get specific exercises in a rotation movement direction, similar to the work condition) (Tables&#160;<tblr tid="T4">4</tblr> and <tblr tid="T5">5</tblr>).</p>
+					<table id="T4">
+						<title>
+							<p>Table 4</p>
+						</title>
+						<caption>
+							<p>
+								<b>exercise summary</b>
+							</p>
+						</caption>
+						<tgroup align="left" cols="4">
+							<colspec align="left" colname="c1" colnum="1" colwidth="1*"/>
+							<colspec align="center" colname="c2" colnum="2" colwidth="1*"/>
+							<colspec align="center" colname="c3" colnum="3" colwidth="1*"/>
+							<colspec align="center" colname="c4" colnum="4" colwidth="1*"/>
+							<thead valign="top">
+								<row rowsep="1">
+									<entry colname="c1">
+										<p>
+											<b>Treatment regimens:</b>
+										</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>
+											<b>Motor control therapy</b>
+										</p>
+									</entry>
+									<entry align="center" colname="c3">
+										<p>
+											<b>General active exercise therapy</b>
+										</p>
+									</entry>
+									<entry align="center" colname="c4">
+										<p>
+											<b>Isometric training therapy</b>
+										</p>
+									</entry>
+								</row>
+							</thead>
+							<tfoot>
+								<p>
+									<it>MCT: motor control therapy, ADI: abdominal drawing in, DTM: dimensional trunk movements, TD: Tergumed device.</it>
+								</p>
+							</tfoot>
+							<tbody valign="top">
+								<row>
+									<entry colname="c1">
+										<p>
+											<b>
+												<it>First phase MCT:</it>
+											</b>
+										</p>
+									</entry>
+									<entry align="center" colname="c2"/>
+									<entry align="center" colname="c3"/>
+									<entry align="center" colname="c4"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>ADI in supine position</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3"/>
+									<entry align="center" colname="c4"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>ADI in sitting position</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3"/>
+									<entry align="center" colname="c4"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>ADI in sitting position 1DTM</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3"/>
+									<entry align="center" colname="c4"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>ADI in high squat position</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3"/>
+									<entry align="center" colname="c4"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>ADI in medium squat position</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3"/>
+									<entry align="center" colname="c4"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>ADI in supine position with heel lifts</p>
+									</entry>
+									<entry align="center" colname="c2"/>
+									<entry align="center" colname="c3"/>
+									<entry align="center" colname="c4"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>ADI in supine position with heelslide</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3"/>
+									<entry align="center" colname="c4"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>ADI with superman exercise</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3"/>
+									<entry align="center" colname="c4"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>ADI with top leg turn out</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3"/>
+									<entry align="center" colname="c4"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>
+											<b>
+												<it>Second phase MCT:</it>
+											</b>
+										</p>
+									</entry>
+									<entry align="center" colname="c2"/>
+									<entry align="center" colname="c3"/>
+									<entry align="center" colname="c4"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>ADI with side bridging</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3"/>
+									<entry align="center" colname="c4"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>ADI with back bridging</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3"/>
+									<entry align="center" colname="c4"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>ADI in sitting position 3DTM</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3"/>
+									<entry align="center" colname="c4"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Hip extension</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3"/>
+									<entry align="center" colname="c4"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Side-squat</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3"/>
+									<entry align="center" colname="c4"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Reverse lunge</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3"/>
+									<entry align="center" colname="c4"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Star excursion exercise</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3"/>
+									<entry align="center" colname="c4"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>
+											<b>
+												<it>Third phase MCT:</it>
+											</b>
+										</p>
+									</entry>
+									<entry align="center" colname="c2"/>
+									<entry align="center" colname="c3"/>
+									<entry align="center" colname="c4"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>ADI in functional movements</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3"/>
+									<entry align="center" colname="c4"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Leg-press</p>
+									</entry>
+									<entry align="center" colname="c2"/>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Leg-extension</p>
+									</entry>
+									<entry align="center" colname="c2"/>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Calf raise</p>
+									</entry>
+									<entry align="center" colname="c2"/>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Standing abduction</p>
+									</entry>
+									<entry align="center" colname="c2"/>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Standing adduction</p>
+									</entry>
+									<entry align="center" colname="c2"/>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Lat pull down</p>
+									</entry>
+									<entry align="center" colname="c2"/>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Low row</p>
+									</entry>
+									<entry align="center" colname="c2"/>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Triceps</p>
+									</entry>
+									<entry align="center" colname="c2"/>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Biceps</p>
+									</entry>
+									<entry align="center" colname="c2"/>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Chest press</p>
+									</entry>
+									<entry align="center" colname="c2"/>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Shoulder press</p>
+									</entry>
+									<entry align="center" colname="c2"/>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Fly</p>
+									</entry>
+									<entry align="center" colname="c2"/>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Front raise</p>
+									</entry>
+									<entry align="center" colname="c2"/>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Side raise</p>
+									</entry>
+									<entry align="center" colname="c2"/>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Active sit up</p>
+									</entry>
+									<entry align="center" colname="c2"/>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Hamstring stretch</p>
+									</entry>
+									<entry align="center" colname="c2"/>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Quadriceps stretch</p>
+									</entry>
+									<entry align="center" colname="c2"/>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Adductor stretch</p>
+									</entry>
+									<entry align="center" colname="c2"/>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Latissimus dorsi stretch</p>
+									</entry>
+									<entry align="center" colname="c2"/>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Trapezius stretch</p>
+									</entry>
+									<entry align="center" colname="c2"/>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4"/>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>TD for lumbar flexion</p>
+									</entry>
+									<entry align="center" colname="c2"/>
+									<entry align="center" colname="c3"/>
+									<entry align="center" colname="c4">
+										<p>X</p>
+									</entry>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>TD for lumbar extension</p>
+									</entry>
+									<entry align="center" colname="c2"/>
+									<entry align="center" colname="c3"/>
+									<entry align="center" colname="c4">
+										<p>X</p>
+									</entry>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>TD for lumbar rotation</p>
+									</entry>
+									<entry align="center" colname="c2"/>
+									<entry align="center" colname="c3"/>
+									<entry align="center" colname="c4">
+										<p>X</p>
+									</entry>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>TD for lumbar lateroflexion</p>
+									</entry>
+									<entry align="center" colname="c2"/>
+									<entry align="center" colname="c3"/>
+									<entry align="center" colname="c4">
+										<p>X</p>
+									</entry>
+								</row>
+								<row rowsep="1">
+									<entry colname="c1">
+										<p>Stationary bike</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c3">
+										<p>X</p>
+									</entry>
+									<entry align="center" colname="c4">
+										<p>X</p>
+									</entry>
+								</row>
+							</tbody>
+						</tgroup>
+					</table>
+					<table id="T5">
+						<title>
+							<p>Table 5</p>
+						</title>
+						<caption>
+							<p>
+								<b>exercise modalities</b>
+							</p>
+						</caption>
+						<tgroup align="left" cols="4">
+							<colspec align="left" colname="c1" colnum="1" colwidth="1*"/>
+							<colspec align="center" colname="c2" colnum="2" colwidth="1*"/>
+							<colspec align="center" colname="c3" colnum="3" colwidth="1*"/>
+							<colspec align="center" colname="c4" colnum="4" colwidth="1*"/>
+							<thead valign="top">
+								<row rowsep="1">
+									<entry colname="c1">
+										<p>
+											<b>Treatment regimens:</b>
+										</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>
+											<b>Motor control therapy</b>
+										</p>
+									</entry>
+									<entry align="center" colname="c3">
+										<p>
+											<b>General active exercise therapy</b>
+										</p>
+									</entry>
+									<entry align="center" colname="c4">
+										<p>
+											<b>Isometric training therapy</b>
+										</p>
+									</entry>
+								</row>
+							</thead>
+							<tfoot>
+								<p>
+									<it>1RM: one repetition maximum, MIS: maximal isometric strength.</it>
+								</p>
+							</tfoot>
+							<tbody valign="top">
+								<row>
+									<entry colname="c1">
+										<p>Total intervention time</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>70&#160;minutes</p>
+									</entry>
+									<entry align="center" colname="c3">
+										<p>70&#160;minutes</p>
+									</entry>
+									<entry align="center" colname="c4">
+										<p>70&#160;minutes</p>
+									</entry>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Warming up</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>10&#160;minutes</p>
+									</entry>
+									<entry align="center" colname="c3">
+										<p>10&#160;minutes</p>
+									</entry>
+									<entry align="center" colname="c4">
+										<p>10&#160;minutes</p>
+									</entry>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Cooling down</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>10&#160;minutes</p>
+									</entry>
+									<entry align="center" colname="c3">
+										<p>10&#160;minutes</p>
+									</entry>
+									<entry align="center" colname="c4">
+										<p>10&#160;minutes</p>
+									</entry>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Regime specific intervention time</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>50&#160;minutes</p>
+									</entry>
+									<entry align="center" colname="c3">
+										<p>50&#160;minutes</p>
+									</entry>
+									<entry align="center" colname="c4">
+										<p>50&#160;minutes</p>
+									</entry>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Intensity</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>Low load</p>
+									</entry>
+									<entry align="center" colname="c3">
+										<p>60% 1RM</p>
+									</entry>
+									<entry align="center" colname="c4">
+										<p>30-40% MIS</p>
+									</entry>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Number of sets</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>2</p>
+									</entry>
+									<entry align="center" colname="c3">
+										<p>3</p>
+									</entry>
+									<entry align="center" colname="c4">
+										<p>2</p>
+									</entry>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Number of repetitions</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>20</p>
+									</entry>
+									<entry align="center" colname="c3">
+										<p>20</p>
+									</entry>
+									<entry align="center" colname="c4">
+										<p>20</p>
+									</entry>
+								</row>
+								<row>
+									<entry colname="c1">
+										<p>Duration of one repetition</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>6&#160;seconds</p>
+									</entry>
+									<entry align="center" colname="c3">
+										<p>-</p>
+									</entry>
+									<entry align="center" colname="c4">
+										<p>5&#160;seconds</p>
+									</entry>
+								</row>
+								<row rowsep="1">
+									<entry colname="c1">
+										<p>Rest between sets</p>
+									</entry>
+									<entry align="center" colname="c2">
+										<p>30&#160;seconds</p>
+									</entry>
+									<entry align="center" colname="c3">
+										<p>30&#160;seconds</p>
+									</entry>
+									<entry align="center" colname="c4">
+										<p>30&#160;seconds</p>
+									</entry>
+								</row>
+							</tbody>
+						</tgroup>
+					</table>
+				</sec>
+				<sec>
+					<st>
+						<p><it>General active exercise therapy</it></p>
+					</st><p>General active therapy has proven to be an effective therapeutic approach in nonspecific LBP <abbrgrp>
+							<abbr bid="B5">5</abbr>
+							<abbr bid="B6">6</abbr>
+							<abbr bid="B14">14</abbr>
+						</abbrgrp>. These patients receive a global form of exercise therapy existing of all kinds of active exercises. These exercises do not have the direct purpose of contracting the multifidus or transversus abdominis. Aerobic conditioning exercises will be performed for lower and upper limbs, strength training of the back and abdominal muscles and stretching (Tables&#160;<tblr tid="T4">4</tblr> and <tblr tid="T5">5</tblr>).</p>
+				</sec>
+				<sec>
+					<st>
+						<p><it>Isometric training therapy</it></p>
+					</st><p>Effectiveness of isometric training therapy has been proven in nonspecific LBP <abbrgrp>
+							<abbr bid="B11">11</abbr>
+							<abbr bid="B12">12</abbr>
+							<abbr bid="B13">13</abbr>
+						</abbrgrp>. The Tergumed&#8482; (version 1.0, Enraf-Nonius NV, Boom, Belgium) training protocol is followed. It contains progressive resistance isometric training of lumbar trunk muscles on devices in the directions flexion, extension, rotation and lateral flexion. In the first session, the maximal isometric strength is determined in all movement directions to set the level of resistance for training. During the first to fourth week, patients train at 30%, and during the fifth till ninth week, at 40% of their maximal isometric strength. When the difference in maximal isometric power for rotation or lateral flexion direction between abdominal and back muscles exceeds 20%, the weaker side has to perform five sets and the stronger side has to perform four sets (Tables&#160;<tblr tid="T4">4</tblr> and <tblr tid="T5">5</tblr>). Exercises mentioned in Table&#160;<tblr tid="T4">4</tblr> are further explained in Additional file <supplr sid="S1">1</supplr>, which explains the performance of each exercise.</p>
+					<suppl id="S1">
+						<title>
+							<p>Additional file 1</p>
+						</title>
+						<text>
+							<p>
+								<b>Performance exercises Table 4.</b>
+							</p>
+						</text>
+						<file name="1745-6215-16-4-S1.pdf">
+   <p>Click here for file</p>
+</file>
+					</suppl>
+				</sec>
+			</sec>
+			<sec>
+				<st>
+					<p>Power analysis</p>
+				</st>
+				<sec>
+					<st>
+						<p><it>Derivation phase</it></p>
+					</st><p>As we cannot predict the therapeutic effect in the derivation phase, we use a two-tailed hypothesis to calculate the power. A pilot study showed that the standard deviation of our primary outcome measure, the MODI, is comparable to the results of Brennan <it>et al</it>. <abbrgrp>
+							<abbr bid="B17">17</abbr>
+						</abbrgrp>. Given these estimates, 120 patients are needed to detect a minimum clinically important difference (effect size 0.43) with 80% power using a two-tailed hypothesis. This means that three groups of 40 patients are needed to complete the whole trial. Since Van der Wouden <it>et al</it>. <abbrgrp>
+							<abbr bid="B34">34</abbr>
+						</abbrgrp> mentioned a dropout rate of 54%, we aim to include 260 patients.</p>
+				</sec>
+				<sec>
+					<st>
+						<p><it>Validation phase</it></p>
+					</st><p>In the validation phase the intervention therapy stays the same, but new patients will be included. In this study design, the interest is that treatment success will be higher in the matched group than the unmatched group, which means a one-tailed hypothesis is used to calculate the power. In the validation phase we need 105 patients to detect a minimum clinically important difference (effect size 0.43) with 80% power using a one-tailed hypothesis. This means that three groups of 35 patients are needed to complete the whole trial. Again we assume a dropout rate of 54% into account and therefore aim to include 229 patients.</p>
+				</sec>
+			</sec>
+			<sec>
+				<st>
+					<p>Data analysis</p>
+				</st>
+				<sec>
+					<st>
+						<p><it>Derivation phase</it></p>
+					</st><p>This phase aims to detect potential predictive variables for treatment success (dichotomous, yes or no) in a set of baseline measurements. A minimal decrease in the MODI score of six points is considered as treatment success <abbrgrp>
+							<abbr bid="B35">35</abbr>
+						</abbrgrp>.</p><p>Potential predictive variables are selected as follows: first, individual variables from the self-reports, history and physical examination are tested for their bivariate association with the reference standard using independent sample t tests, Mann-Whitney U tests or chi-square tests based on the nature of the data. Variables with a significance level of <it>P</it> &lt;0.10 are retained as potential prediction variables. We chose a more liberal significance level at this stage to avoid excluding potential predictive variables.</p><p>Next, selected potential prediction variables and known predictors as determined in the study of Hicks <it>et al</it>. <abbrgrp>
+							<abbr bid="B16">16</abbr>
+						</abbrgrp> are entered into a multiple linear regression equation to determine the optimal set of predictors. A significance of <it>P &lt;</it>0.05 is used in this stage. Variables retained in the regression model are used to develop a multiple CPR for classifying patients as likely responders to treatment. This statistical analysis is performed for each treatment group (motor control therapy, general active exercise therapy and isometric training therapy).</p>
+				</sec>
+				<sec>
+					<st>
+						<p><it>Validation phase</it></p>
+					</st><p>In the validation phase new patients will be again assigned randomly into one of the three treatment groups. Based on the derived CPR determined in phase one, each intervention group will be divided into either &#8216;matched therapy&#8217; or &#8216;unmatched therapy&#8217;. The recruitment, information form, informed consent, measurements, blinding and intervention procedure will be the same for both derivation and validation phase.</p><p>To verify intergroup differences at baseline, variables will be compared between groups using independent t tests, Mann-Whitney U tests, or chi-square tests of independence based on the nature of the data.</p><p>To examine the principle hypothesis (difference in treatment effect between matched and unmatched groups), a three-way repeated-measures analysis of variance will be performed with treatment group (motor control versus general active exercise therapy vs. isometric therapy) and classification subgroup (motor control versus general active exercise therapy versus isometric therapy) as between-subject variables and time (baseline, nine weeks, six months and one year) as the within-subject variable. The dependent variable is disability (MODI score). The hypothesis of interest is the three-way interaction, and the two-way interactions between time and treatment group and between time and classification subgroup. We hypothesize that outcome over time will not differ based on the randomized treatment group, or the classification subgroup, but will depend on the interaction between the treatment group and classification subgroup, such that patients randomized to matched treatment will have better outcomes than patients randomized to unmatched treatment. This hypothesis will be supported if the three-way interaction is significant, but the two-way interactions are not. Pairwise <it>post-hoc</it> comparisons will be performed at each follow-up period to further explore any significant interaction terms. In both the derivation and validation phase we will use an intention-to-treat analysis.</p>
+				</sec>
+			</sec>
+			<sec>
+				<st>
+					<p>Information form and informed consent</p>
+				</st><p>If patients meet the inclusion and exclusion criteria they are scheduled for an interview with one of our researchers to be informed about the trial. If patients decide to participate they will sign an informed consent. Information form and informed consent are made and have been approved by the ethics committee of the University of Antwerp, the Antwerp University Hospital and Apra Rehabilitation Hospital.</p>
+			</sec>
+		</sec>
+		<sec>
+			<st>
+				<p>Discussion</p>
+			</st><p>The goal of this trial is the derivation and validation of a CPR for the choice of an exercise therapy type in nonspecific CLBP patients. Our study protocol differs from previous studies on several points.</p><p>First, a randomized clinical trial with several treatment options is used. So far, only one CPR for motor control therapy is derived in patients with non-radicular LBP <abbrgrp>
+					<abbr bid="B16">16</abbr>
+				</abbrgrp>. A single-arm intervention study design was used. The derivation of a CPR for exercise therapy should be repeated in a randomized controlled trial design to confirm and reinforce findings. If a randomized controlled trial design is used, differences between different intervention groups can be made, and patients are randomly allocated into these groups to ensure there is no difference between the groups for success outcome.</p><p>Second, we target CLBP patients with a sufficiently long history of LBP. Hicks <it>et al</it>.&#8217;s <abbrgrp>
+					<abbr bid="B16">16</abbr>
+				</abbrgrp> study sample had a mean duration of current symptoms for 40.6&#160;days. Patients with symptoms for 40.6&#160;days are classified as having sub-acute LBP <abbrgrp>
+					<abbr bid="B2">2</abbr>
+				</abbrgrp>. Brennan <it>et al</it>.&#8217;s <abbrgrp>
+					<abbr bid="B17">17</abbr>
+				</abbrgrp> study sample had a mean duration of current symptoms for 16&#160;days, which are acute and sub-acute LBP problems <abbrgrp>
+					<abbr bid="B2">2</abbr>
+				</abbrgrp>. In contrast, we aim to include patients with persisting LBP for at least three months to ensure we only target genuine CLBP patients <abbrgrp>
+					<abbr bid="B2">2</abbr>
+				</abbrgrp>. We target CLBP patients because these patients are a big challenge for adequate treatment and they bring high health-related costs to society. Since both studies describe an acute and sub-acute study sample, our study results might differ from theirs <abbrgrp>
+					<abbr bid="B16">16</abbr>
+					<abbr bid="B17">17</abbr>
+				</abbrgrp>. In conclusion we state that derivation, validation and impact phase of the development of a CPR for exercise therapy in a chronic LBP study sample has not yet been described in the literature.</p><p>Third, we aim to include a sufficiently large sample, based on a power analysis. Hicks <it>et al</it>. <abbrgrp>
+					<abbr bid="B16">16</abbr>
+				</abbrgrp> included 54 patients in their study but no power analysis is mentioned in their paper. If there are not enough patients included, the CPR is unlikely to be valid. We compared our calculated sample size with the sample size calculated in Brennan <it>et al</it>.&#8217;s <abbrgrp>
+					<abbr bid="B17">17</abbr>
+				</abbrgrp> study design and found comparable results. In addition, we use an extra 54% inclusion target to compensate for the possible dropout rate <abbrgrp>
+					<abbr bid="B34">34</abbr>
+				</abbrgrp>. We aim to recruit 489 patients in total (combined total for both phases of the study). We calculated that each year around 200 LBP patients start the back revalidation program in the Antwerp University Hospital. This is the same for the Apra Rehabilitation Hospital. Out of these 400 LBP patients around 50% have nonspecific complaints. This means that we need around 18&#160;months to finish each phase. We will closely follow the inclusion procedure to make sure we meet our goals. The current study protocol describes only the derivation and validation phase, and not the impact phase. Future research should target this impact phase. The impact phase needs a completely different approach since it investigates the economic consequences of the implication of the CPR. It also depends on the outcome of the derivation and validation phase. Consequently, it is beyond the scope of the present paper.</p>
+		</sec>
+		<sec>
+			<st>
+				<p>Trial status</p>
+			</st><p>This study is currently recruiting patients. The project started in August 2014. As we need around 18&#160;months to finish each phase, we expect the study to finish end 2017.</p>
+			<sec>
+				<st>
+					<p>Consent</p>
+				</st><p>Written informed consent was obtained from the patient(s) for publication of this manuscript and accompanying images. A copy of the written consent is available for review by the Editor-in-Chief of this journal.</p>
+			</sec>
+		</sec>
+		<sec>
+			<st>
+				<p>Abbreviations</p>
+			</st><p>CI: Confidence interval; CLBP: Chronic low back pain; CPR: Clinical prediction rule; FABQ: Fear Avoidance Believe Questionnaire; LBP: Low back pain; LR: Likelihood ratio; MODI: Modified Oswestry Disability Questionnaire; RMDQ: Roland Morris Disability Questionnaire; SF36: Short Form 36 Health Survey; VAS: Visual Analogue Scale.</p>
+		</sec>
+		<sec>
+			<st>
+				<p>Competing interests</p>
+			</st><p>The authors declare that they do not have competing interests.</p>
+		</sec>
+		<sec>
+			<st>
+				<p>Authors&#8217; contributions</p>
+			</st><p>LD was involved in drafting and made substantial contributions to conception and design of the study. She also handled publication issues of the protocol. UVD was substantially involved in drafting the manuscript, revised it critically for important intellectual content and made substantial contributions to conception and design of the study. GS revised the manuscript critically for important intellectual content and made substantial contributions to conception and design of the study. WDH revised the manuscript critically for important intellectual content and made substantial contributions to conception and design of the study. ST revised the manuscript critically for important intellectual content. He also contributed valuable information for statistical approaches. NJ revised the manuscript critically for important intellectual content and made substantial contributions to conception and design of the study. All authors read and approved the final manuscript.</p>
+		</sec>
+	</bdy>
+	<bm>
+		<ack>
+			<sec>
+				<st>
+					<p>Acknowledgements</p>
+				</st><p>The University of Antwerp gave a full time doctorate mandate to a PhD student for the next four years. This project is a collaboration between the University of Antwerp and the Antwerp University Hospital. The project will take place in the Antwerp University Hospital at the back pain revalidation program organized by the Physical Medicine and Rehabilitation department.</p>
+			</sec>
+		</ack>
+		<refgrp><bibl id="B1"><aug><au><snm>Waddel</snm><fnm>G</fnm></au></aug><source>The Back Pain Revolution</source><publisher>London: Churchill Livingstone</publisher><pubdate>1998</pubdate></bibl><bibl id="B2"><title><p>European guidelines for the management of chronic non-specific low back pain</p></title><aug><au><snm>Airaksinen</snm><fnm>OBJ</fnm></au><au><snm>Cedraschi</snm><fnm>C</fnm></au><au><snm>Hildebrandt</snm><fnm>J</fnm></au><au><snm>Klaber-Moffett</snm><fnm>J</fnm></au><au><snm>Kovacs</snm><fnm>F</fnm></au><au><snm>Mannion</snm><fnm>AF</fnm></au><etal/></aug><source>Eur Spine J</source><pubdate>2004</pubdate><volume>15</volume><issue>Suppl 2</issue><fpage>S192</fpage><lpage>300</lpage></bibl><bibl id="B3"><title><p>Randomized controlled trial of specific spinal stabilization exercises and conventional physiotherapy for recurrent low back pain</p></title><aug><au><snm>Cairns</snm><fnm>MC</fnm></au><au><snm>Foster</snm><fnm>NE</fnm></au><au><snm>Wright</snm><fnm>C</fnm></au></aug><source>Spine</source><pubdate>2006</pubdate><volume>31</volume><fpage>E670</fpage><lpage>81</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1097/01.brs.0000232787.71938.5d</pubid><pubid idtype="pmpid" link="fulltext">16946640</pubid></pubidlist></xrefbib></bibl><bibl id="B4"><title><p>Motor control exercise for chronic low back pain: a randomized placebo-controlled trial</p></title><aug><au><snm>Costa</snm><fnm>LO</fnm></au><au><snm>Maher</snm><fnm>CG</fnm></au><au><snm>Latimer</snm><fnm>J</fnm></au><au><snm>Hodges</snm><fnm>PW</fnm></au><au><snm>Herbert</snm><fnm>RD</fnm></au><au><snm>Refshauge</snm><fnm>KM</fnm></au><etal/></aug><source>Phys Ther</source><pubdate>2009</pubdate><volume>89</volume><fpage>1275</fpage><lpage>86</lpage><xrefbib><pubidlist><pubid idtype="doi">10.2522/ptj.20090218</pubid><pubid idtype="pmpid" link="fulltext">19892856</pubid></pubidlist></xrefbib></bibl><bibl id="B5"><title><p>Comparison of general exercise, motor control exercise and spinal manipulative therapy for chronic low back pain: A randomized trial</p></title><aug><au><snm>Ferreira</snm><fnm>ML</fnm></au><au><snm>Ferreira</snm><fnm>PH</fnm></au><au><snm>Latimer</snm><fnm>J</fnm></au><au><snm>Herbert</snm><fnm>RD</fnm></au><au><snm>Hodges</snm><fnm>PW</fnm></au><au><snm>Jennings</snm><fnm>MD</fnm></au><etal/></aug><source>Pain</source><pubdate>2007</pubdate><volume>131</volume><fpage>31</fpage><lpage>7</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1016/j.pain.2006.12.008</pubid><pubid idtype="pmpid">17250965</pubid></pubidlist></xrefbib></bibl><bibl id="B6"><title><p>Trunk muscle stabilization training plus general exercise versus general exercise only: randomized controlled trial of patients with recurrent low back pain</p></title><aug><au><snm>Koumantakis</snm><fnm>GA</fnm></au><au><snm>Watson</snm><fnm>PJ</fnm></au><au><snm>Oldham</snm><fnm>JA</fnm></au></aug><source>Phys Ther</source><pubdate>2005</pubdate><volume>85</volume><fpage>209</fpage><lpage>25</lpage><xrefbib><pubid idtype="pmpid" link="fulltext">15733046</pubid></xrefbib></bibl><bibl id="B7"><title><p>Motor control exercise for persistent, nonspecific low back pain: a systematic review</p></title><aug><au><snm>Macedo</snm><fnm>LG</fnm></au><au><snm>Maher</snm><fnm>CG</fnm></au><au><snm>Latimer</snm><fnm>J</fnm></au><au><snm>McAuley</snm><fnm>JH</fnm></au></aug><source>Phys Ther</source><pubdate>2009</pubdate><volume>89</volume><fpage>9</fpage><lpage>25</lpage><xrefbib><pubidlist><pubid idtype="doi">10.2522/ptj.20080103</pubid><pubid idtype="pmpid" link="fulltext">19056854</pubid></pubidlist></xrefbib></bibl><bibl id="B8"><title><p>Graded exercise for recurrent low-back pain: a randomized, controlled trial with 6-, 12-, and 36-month follow-ups</p></title><aug><au><snm>Rasmussen-Barr</snm><fnm>E</fnm></au><au><snm>Ang</snm><fnm>B</fnm></au><au><snm>Arvidsson</snm><fnm>I</fnm></au><au><snm>Nilsson-Wikmar</snm><fnm>L</fnm></au></aug><source>Spine</source><pubdate>2009</pubdate><volume>34</volume><fpage>221</fpage><lpage>8</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1097/BRS.0b013e318191e7cb</pubid><pubid idtype="pmpid" link="fulltext">19179916</pubid></pubidlist></xrefbib></bibl><bibl id="B9"><title><p>Pilates-based therapeutic exercise: effect on subjects with nonspecific chronic low back pain and functional disability: a randomized controlled trial</p></title><aug><au><snm>Rydeard</snm><fnm>R</fnm></au><au><snm>Leger</snm><fnm>A</fnm></au><au><snm>Smith</snm><fnm>D</fnm></au></aug><source>J Orthop Sports Phys Ther</source><pubdate>2006</pubdate><volume>36</volume><fpage>472</fpage><lpage>84</lpage><xrefbib><pubidlist><pubid idtype="doi">10.2519/jospt.2006.2144</pubid><pubid idtype="pmpid" link="fulltext">16881464</pubid></pubidlist></xrefbib></bibl><bibl id="B10"><title><p>Motor control exercises, sling exercises, and general exercises for patients with chronic low back pain: a randomized controlled trial with 1-year follow-up</p></title><aug><au><snm>Unsgaard-Tondel</snm><fnm>M</fnm></au><au><snm>Fladmark</snm><fnm>AM</fnm></au><au><snm>Salvesen</snm><fnm>O</fnm></au><au><snm>Vasseljen</snm><fnm>O</fnm></au></aug><source>Phys Ther</source><pubdate>2010</pubdate><volume>90</volume><fpage>1426</fpage><lpage>40</lpage><xrefbib><pubidlist><pubid idtype="doi">10.2522/ptj.20090421</pubid><pubid idtype="pmpid" link="fulltext">20671099</pubid></pubidlist></xrefbib></bibl><bibl id="B11"><title><p>Back schools for nonspecific low back pain: a systematic review within the framework of the Cochrane Collaboration Back Review Group</p></title><aug><au><snm>Heymans</snm><fnm>MW</fnm></au><au><snm>van Tulder</snm><fnm>MW</fnm></au><au><snm>Esmail</snm><fnm>R</fnm></au><au><snm>Bombardier</snm><fnm>C</fnm></au><au><snm>Koes</snm><fnm>BW</fnm></au></aug><source>Spine</source><pubdate>2005</pubdate><volume>30</volume><fpage>2153</fpage><lpage>63</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1097/01.brs.0000182227.33627.15</pubid><pubid idtype="pmpid" link="fulltext">16205340</pubid></pubidlist></xrefbib></bibl><bibl id="B12"><title><p>Comparison of three active therapies for chronic low back pain: results of a randomized clinical trial with one-year follow-up</p></title><aug><au><snm>Mannion</snm><fnm>AF</fnm></au><au><snm>Muntener</snm><fnm>M</fnm></au><au><snm>Taimela</snm><fnm>S</fnm></au><au><snm>Dvorak</snm><fnm>J</fnm></au></aug><source>Rheumatology (Oxford)</source><pubdate>2001</pubdate><volume>40</volume><fpage>772</fpage><lpage>8</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1093/rheumatology/40.7.772</pubid><pubid idtype="pmpid" link="fulltext">11477282</pubid></pubidlist></xrefbib></bibl><bibl id="B13"><title><p>The effect of increasing resistance on trunk muscle activity during extension and flexion exercises on training devices</p></title><aug><au><snm>Stevens</snm><fnm>VK</fnm></au><au><snm>Parlevliet</snm><fnm>TG</fnm></au><au><snm>Coorevits</snm><fnm>PL</fnm></au><au><snm>Mahieu</snm><fnm>NN</fnm></au><au><snm>Bouche</snm><fnm>KG</fnm></au><au><snm>Vanderstraeten</snm><fnm>GG</fnm></au><etal/></aug><source>J Electromyogr Kinesiol</source><pubdate>2008</pubdate><volume>18</volume><fpage>434</fpage><lpage>45</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1016/j.jelekin.2006.10.009</pubid><pubid idtype="pmpid" link="fulltext">17196829</pubid></pubidlist></xrefbib></bibl><bibl id="B14"><title><p>Efficacy of aerobic exercise for treatment of chronic Low back pain: a meta-analysis</p></title><aug><au><snm>Meng</snm><fnm>XG</fnm></au><au><snm>Yue</snm><fnm>SW</fnm></au></aug><source>Am J Phys Med Rehabil</source><pubdate>2014</pubdate><note>doi:10.1097/PHM.0000000000000188</note></bibl><bibl id="B15"><title><p>Clinical prediction rules in the physiotherapy management of low back pain: a systematic review</p></title><aug><au><snm>Haskins</snm><fnm>R</fnm></au><au><snm>Rivett</snm><fnm>DA</fnm></au><au><snm>Osmotherly</snm><fnm>PG</fnm></au></aug><source>Man Ther</source><pubdate>2012</pubdate><volume>17</volume><fpage>9</fpage><lpage>21</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1016/j.math.2011.05.001</pubid><pubid idtype="pmpid" link="fulltext">21641849</pubid></pubidlist></xrefbib></bibl><bibl id="B16"><title><p>Preliminary development of a clinical prediction rule for determining which patients with low back pain will respond to a stabilization exercise program</p></title><aug><au><snm>Hicks</snm><fnm>GE</fnm></au><au><snm>Fritz</snm><fnm>JM</fnm></au><au><snm>Delitto</snm><fnm>A</fnm></au><au><snm>McGill</snm><fnm>SM</fnm></au></aug><source>Arch Phys Med Rehabil</source><pubdate>2005</pubdate><volume>86</volume><fpage>1753</fpage><lpage>62</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1016/j.apmr.2005.03.033</pubid><pubid idtype="pmpid" link="fulltext">16181938</pubid></pubidlist></xrefbib></bibl><bibl id="B17"><title><p>Identifying subgroups of patients with acute/subacute &#8220;nonspecific&#8221; low back pain: results of a randomized clinical trial</p></title><aug><au><snm>Brennan</snm><fnm>GP</fnm></au><au><snm>Fritz</snm><fnm>JM</fnm></au><au><snm>Hunter</snm><fnm>SJ</fnm></au><au><snm>Thackeray</snm><fnm>A</fnm></au><au><snm>Delitto</snm><fnm>A</fnm></au><au><snm>Erhard</snm><fnm>RE</fnm></au></aug><source>Spine</source><pubdate>2006</pubdate><volume>31</volume><fpage>623</fpage><lpage>31</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1097/01.brs.0000202807.72292.a8</pubid><pubid idtype="pmpid" link="fulltext">16540864</pubid></pubidlist></xrefbib></bibl><bibl id="B18"><title><p>Pragmatic application of a clinical prediction rule in primary care to identify patients with low back pain with a good prognosis following a brief spinal manipulation intervention</p></title><aug><au><snm>Fritz</snm><fnm>JM</fnm></au><au><snm>Childs</snm><fnm>JD</fnm></au><au><snm>Flynn</snm><fnm>TW</fnm></au></aug><source>BMC Fam Pract</source><pubdate>2005</pubdate><volume>6</volume><fpage>29</fpage><xrefbib><pubidlist><pubid idtype="doi">10.1186/1471-2296-6-29</pubid><pubid idtype="pmcid">1180432</pubid><pubid idtype="pmpid" link="fulltext">16018809</pubid></pubidlist></xrefbib></bibl><bibl id="B19"><title><p>Development and application of clinical prediction rules to improve decision making in physical therapist practice</p></title><aug><au><snm>Childs</snm><fnm>JD</fnm></au><au><snm>Cleland</snm><fnm>JA</fnm></au></aug><source>Phys Ther</source><pubdate>2006</pubdate><volume>86</volume><fpage>122</fpage><lpage>31</lpage><xrefbib><pubid idtype="pmpid" link="fulltext">16386067</pubid></xrefbib></bibl><bibl id="B20"><title><p>Validation, updating and impact of clinical prediction rules: a review</p></title><aug><au><snm>Toll</snm><fnm>DB</fnm></au><au><snm>Janssen</snm><fnm>KJ</fnm></au><au><snm>Vergouwe</snm><fnm>Y</fnm></au><au><snm>Moons</snm><fnm>KG</fnm></au></aug><source>J Clin Epidemiol</source><pubdate>2008</pubdate><volume>61</volume><fpage>1085</fpage><lpage>94</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1016/j.jclinepi.2008.04.008</pubid><pubid idtype="pmpid" link="fulltext">19208371</pubid></pubidlist></xrefbib></bibl><bibl id="B21"><title><p>A comparison of five low back disability questionnaires: reliability and responsiveness</p></title><aug><au><snm>Davidson</snm><fnm>M</fnm></au><au><snm>Keating</snm><fnm>JL</fnm></au></aug><source>Phys Ther</source><pubdate>2002</pubdate><volume>82</volume><fpage>8</fpage><lpage>24</lpage><xrefbib><pubid idtype="pmpid" link="fulltext">11784274</pubid></xrefbib></bibl><bibl id="B22"><title><p>A comparison of a modified oswestry low back pain disability questionnaire and the Quebec back pain disability scale</p></title><aug><au><snm>Fritz</snm><fnm>JM</fnm></au><au><snm>Irrgang</snm><fnm>JJ</fnm></au></aug><source>Phys Ther</source><pubdate>2001</pubdate><volume>81</volume><fpage>776</fpage><lpage>88</lpage><xrefbib><pubid idtype="pmpid" link="fulltext">11175676</pubid></xrefbib></bibl><bibl id="B23"><title><p>Use of health status measures in patients with low back pain in clinical settings. Comparison of specific, generic and preference based instruments</p></title><aug><au><snm>Suarez-Almazor</snm><fnm>ME</fnm></au><au><snm>Kendall</snm><fnm>C</fnm></au><au><snm>Johnson</snm><fnm>JA</fnm></au><au><snm>Skeith</snm><fnm>K</fnm></au><au><snm>Vincent</snm><fnm>D</fnm></au></aug><source>Rheumatology</source><pubdate>2000</pubdate><volume>39</volume><fpage>783</fpage><lpage>90</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1093/rheumatology/39.7.783</pubid><pubid idtype="pmpid" link="fulltext">10908699</pubid></pubidlist></xrefbib></bibl><bibl id="B24"><aug><au><snm>Jansen</snm><fnm>LDN</fnm></au><au><snm>Stassijns</snm><fnm>G</fnm></au><au><snm>Vandaele</snm><fnm>U</fnm></au></aug><source>Validiteit en betrouwbaarheid van testen en testbatterijen ter evaluatie van pati&#235;nten met aspecifieke chronische lage rugklachten: een systematische literatuurstudie</source><pubdate>2012</pubdate><note>[in Dutch]</note></bibl><bibl id="B25"><title><p>Experimental muscle pain changes feedforward postural responses of the trunk muscles</p></title><aug><au><snm>Hodges</snm><fnm>PW</fnm></au><au><snm>Moseley</snm><fnm>GL</fnm></au><au><snm>Gabrielsson</snm><fnm>A</fnm></au><au><snm>Gandevia</snm><fnm>SC</fnm></au></aug><source>Exp Brain Res</source><pubdate>2003</pubdate><volume>151</volume><fpage>262</fpage><lpage>71</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1007/s00221-003-1457-x</pubid><pubid idtype="pmpid" link="fulltext">12783146</pubid></pubidlist></xrefbib></bibl><bibl id="B26"><title><p>Feedforward contraction of transversus abdominis is not influenced by the direction of arm movement</p></title><aug><au><snm>Hodges</snm><fnm>PW</fnm></au><au><snm>Richardson</snm><fnm>CA</fnm></au></aug><source>Exp Brain Res</source><pubdate>1997</pubdate><volume>114</volume><fpage>362</fpage><lpage>70</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1007/PL00005644</pubid><pubid idtype="pmpid" link="fulltext">9166925</pubid></pubidlist></xrefbib></bibl><bibl id="B27"><title><p>Stability of the lumbar spine. A study in mechanical engineering</p></title><aug><au><snm>Bergmark</snm><fnm>A</fnm></au></aug><source>Acta Orthop Scand Suppl</source><pubdate>1989</pubdate><volume>230</volume><fpage>1</fpage><lpage>54</lpage><xrefbib><pubid idtype="pmpid">2658468</pubid></xrefbib></bibl><bibl id="B28"><title><p>The stabilizing system of the spine. Part I. Function, dysfunction, adaptation, and enhancement</p></title><aug><au><snm>Panjabi</snm><fnm>MM</fnm></au></aug><source>J Spinal Disord</source><pubdate>1992</pubdate><volume>5</volume><fpage>383</fpage><lpage>9</lpage><note>discussion 397</note><xrefbib><pubidlist><pubid idtype="doi">10.1097/00002517-199212000-00001</pubid><pubid idtype="pmpid">1490034</pubid></pubidlist></xrefbib></bibl><bibl id="B29"><title><p>The stabilizing system of the spine. Part II. Neutral zone and instability hypothesis</p></title><aug><au><snm>Panjabi</snm><fnm>MM</fnm></au></aug><source>J Spinal Disord</source><pubdate>1992</pubdate><volume>5</volume><fpage>390</fpage><lpage>6</lpage><note>discussion 397</note><xrefbib><pubidlist><pubid idtype="doi">10.1097/00002517-199212000-00002</pubid><pubid idtype="pmpid">1490035</pubid></pubidlist></xrefbib></bibl><bibl id="B30"><title><p>Clinical spinal instability and low back pain</p></title><aug><au><snm>Panjabi</snm><fnm>MM</fnm></au></aug><source>J Electromyogr Kinesiol</source><pubdate>2003</pubdate><volume>13</volume><fpage>371</fpage><lpage>9</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1016/S1050-6411(03)00044-0</pubid><pubid idtype="pmpid" link="fulltext">12832167</pubid></pubidlist></xrefbib></bibl><bibl id="B31"><title><p>Dysfunction of the neuromuscular system in the presence of low back pain &#8211; implications for physical therapy management</p></title><aug><au><snm>O&#8217;Sullivan</snm><fnm>PBTLT</fnm></au></aug><source>J Manual Manipul Ther</source><pubdate>1997</pubdate><volume>5</volume><fpage>20</fpage><lpage>6</lpage><xrefbib><pubid idtype="doi">10.1179/jmt.1997.5.1.20</pubid></xrefbib></bibl><bibl id="B32"><title><p>Long-term effects of specific stabilizing exercises for first-episode low back pain</p></title><aug><au><snm>Hides</snm><fnm>JA</fnm></au><au><snm>Jull</snm><fnm>GA</fnm></au><au><snm>Richardson</snm><fnm>CA</fnm></au></aug><source>Spine (Phila Pa 1976)</source><pubdate>2001</pubdate><volume>26</volume><fpage>E243</fpage><lpage>8</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1097/00007632-200106010-00004</pubid><pubid idtype="pmpid" link="fulltext">11389408</pubid></pubidlist></xrefbib></bibl><bibl id="B33"><aug><au><snm>Richardson</snm><fnm>CHP</fnm></au><au><snm>Hides</snm><fnm>J</fnm></au></aug><source>Therapeutic Exercise for Lumbopelvic Stabilization. A Motor Control Approach for the Treatment and Prevention of Low Back Pain</source><publisher>Edinburgh, London, New York, Oxford, Philadelphia, St. Louis, Sydney, Toronto: Churchill Livingstone</publisher><edition>2</edition><isbn>ISBN ISBN 0443072930</isbn><pubdate>2004</pubdate></bibl><bibl id="B34"><title><p>De wet van Lasagna. Problemen bij het werven van pati&#235;nten voor onderzoek in de huisartsenpraktijk</p></title><aug><au><snm>van der Wouden</snm><fnm>NBH</fnm></au><au><snm>Huibers</snm><fnm>M</fnm></au><au><snm>van der Windt</snm><fnm>D</fnm></au><au><snm>Stalman</snm><fnm>W</fnm></au><au><snm>Verhagen</snm><fnm>A</fnm></au></aug><source>Huisarts Wetenschap</source><pubdate>2007</pubdate><volume>50</volume><fpage>650</fpage><lpage>5</lpage><note>[in Dutch]</note></bibl><bibl id="B35"><title><p>Outcome measures in chronic low back pain</p></title><aug><au><snm>Maughan</snm><fnm>EF</fnm></au><au><snm>Lewis</snm><fnm>JS</fnm></au></aug><source>Eur Spine J</source><pubdate>2010</pubdate><volume>19</volume><fpage>1484</fpage><lpage>94</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1007/s00586-010-1353-6</pubid><pubid idtype="pmcid">2989277</pubid><pubid idtype="pmpid" link="fulltext">20397032</pubid></pubidlist></xrefbib></bibl></refgrp>
+	</bm>
+</art>

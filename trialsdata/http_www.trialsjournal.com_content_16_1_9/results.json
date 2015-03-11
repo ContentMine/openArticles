@@ -1,0 +1,105 @@
+{
+  "publisher": {
+    "value": [
+      "BioMed Central Ltd"
+    ]
+  },
+  "journal": {
+    "value": [
+      "Trials"
+    ]
+  },
+  "title": {
+    "value": [
+      "A randomised double-blind placebo-controlled 12- week feasibility trial of methotrexate added to treatment as usual in early schizophrenia: study protocol for a randomised controlled trial"
+    ]
+  },
+  "authors": {
+    "value": [
+      "Imran B Chaudhry",
+      "Nusrat Husain",
+      "Raza ur Rahman",
+      "Mohammed O Husain",
+      "Mohammed M Hamirani",
+      "Ajmal Kazmi",
+      "Shakeel Baig",
+      "Peter M Haddad",
+      "Maya H Buch",
+      "Inti Qureshi",
+      "Nasir Mehmood",
+      "Tayyeba Kiran",
+      "Bo Fu",
+      "Salahuddin Afsar",
+      "Bill Deakin"
+    ]
+  },
+  "date": {
+    "value": [
+      "2015-01-07"
+    ]
+  },
+  "doi": {
+    "value": [
+      "10.1186/1745-6215-16-9"
+    ]
+  },
+  "volume": {
+    "value": [
+      "16"
+    ]
+  },
+  "issue": {
+    "value": [
+      "1"
+    ]
+  },
+  "firstpage": {
+    "value": [
+      "9"
+    ]
+  },
+  "description": {
+    "value": [
+      "Methotrexate is a commonly used anti-inflammatory and immunosuppressive drug. There is growing evidence that inflammatory processes are involved in the pathogenesis of schizophrenia. In our recent randomised double-blind placebo-controlled clinical trial in Pakistan and Brazil, the addition of minocycline (antibiotic and anti-inflammatory drug) for 1 year to treatment as usual reduced negative symptoms and improved some cognitive measures. A meta-analysis of cytokine changes in the peripheral blood has identified IL-2, IFN-gamma, TNF-alpha and soluble IL-2 receptor as trait markers of schizophrenia because their levels were elevated during acute exacerbations and reduced in remission. This suggests immune activation and an inflammatory syndrome in schizophrenia. Based on the evidence of the strong anti-inflammatory properties of methotrexate, we propose that low-dose methotrexate may be an effective therapy in early schizophrenia."
+    ]
+  },
+  "abstract": {
+    "value": [
+      "Methotrexate is a commonly used anti-inflammatory and immunosuppressive drug. There is growing evidence that inflammatory processes are involved in the pathogenesis of schizophrenia. In our recent randomised double-blind placebo-controlled clinical trial in Pakistan and Brazil, the addition of minocycline (antibiotic and anti-inflammatory drug) for 1 year to treatment as usual reduced negative symptoms and improved some cognitive measures. A meta-analysis of cytokine changes in the peripheral blood has identified IL-2, IFN-gamma, TNF-alpha and soluble IL-2 receptor as trait markers of schizophrenia because their levels were elevated during acute exacerbations and reduced in remission. This suggests immune activation and an inflammatory syndrome in schizophrenia. Based on the evidence of the strong anti-inflammatory properties of methotrexate, we propose that low-dose methotrexate may be an effective therapy in early schizophrenia."
+    ]
+  },
+  "fulltext_html": {
+    "value": [
+      "http://www.trialsjournal.com/content/16/1/9"
+    ]
+  },
+  "fulltext_pdf": {
+    "value": [
+      "http://www.trialsjournal.com/content/pdf/1745-6215-16-9.pdf"
+    ]
+  },
+  "fulltext_xml": {
+    "value": [
+      "/content/download/xml/1745-6215-16-9.xml"
+    ]
+  },
+  "supplementary_material": {
+    "value": []
+  },
+  "figure": {
+    "value": []
+  },
+  "figure_caption": {
+    "value": []
+  },
+  "license": {
+    "value": [
+      "\r\n\t\t\t\tThis is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.\r\n\t\t\t"
+    ]
+  },
+  "copyright": {
+    "value": [
+      "\r\n            © 2015 Chaudhry et al.; licensee BioMed Central. \r\n        "
+    ]
+  }
+}

@@ -1,0 +1,3424 @@
+<?xml version='1.0'?>
+<!DOCTYPE art SYSTEM 'http://www.biomedcentral.com/xml/article.dtd'>
+<art>
+    <ui>s13063-015-0554-z</ui>
+    <ji>1745-6215</ji>
+    <fm>
+       <dochead>Study protocol</dochead>
+       <bibl>
+          <title>
+             <p>A mindfulness-based stress management program and treatment with omega-3 fatty acids to maintain a healthy mental state in hospital nurses (Happy Nurse Project): study protocol for a randomized controlled trial</p>
+          </title>
+          <aug>
+             <au id="A1" ca="yes">
+                <snm>Watanabe</snm>
+                <fnm>Norio</fnm>
+                <insr iid="I1"/>
+                <email>noriow@ncnp.go.jp</email>
+             </au>
+             <au id="A2">
+                <snm>Furukawa</snm>
+                <mi>A</mi>
+                <fnm>Toshi</fnm>
+                <insr iid="I2"/>
+                <email>furukawa@kuhp.kyoto-u.ac.jp</email>
+             </au>
+             <au id="A3">
+                <snm>Horikoshi</snm>
+                <fnm>Masaru</fnm>
+                <insr iid="I3"/>
+                <email>mhorikoshi@ncnp.go.jp</email>
+             </au>
+             <au id="A4">
+                <snm>Katsuki</snm>
+                <fnm>Fujika</fnm>
+                <insr iid="I4"/>
+                <email>katsuki@med.nagoya-cu.ac.jp</email>
+             </au>
+             <au id="A5">
+                <snm>Narisawa</snm>
+                <fnm>Tomomi</fnm>
+                <insr iid="I1"/>
+                <email>narisawa@ncncp.go.jp</email>
+             </au>
+             <au id="A6">
+                <snm>Kumachi</snm>
+                <fnm>Mie</fnm>
+                <insr iid="I5"/>
+                <email>kumachim@ncnp.go.jp</email>
+             </au>
+             <au id="A7">
+                <snm>Oe</snm>
+                <fnm>Yuki</fnm>
+                <insr iid="I3"/>
+                <email>yukioe@ncnp.go.jp</email>
+             </au>
+             <au id="A8">
+                <snm>Shinmei</snm>
+                <fnm>Issei</fnm>
+                <insr iid="I3"/>
+                <email>issei@ncnp.go.jp</email>
+             </au>
+             <au id="A9">
+                <snm>Noguchi</snm>
+                <fnm>Hiroko</fnm>
+                <insr iid="I6"/>
+                <email>hnoguchi@musashino-u.ac.jp</email>
+             </au>
+             <au id="A10">
+                <snm>Hamazaki</snm>
+                <fnm>Kei</fnm>
+                <insr iid="I7"/>
+                <email>keihama@med.u-toyama.ac.jp</email>
+             </au>
+             <au id="A11">
+                <snm>Matsuoka</snm>
+                <fnm>Yutaka</fnm>
+                <insr iid="I1"/>
+                <email>yutaka@ncnp.go.jp</email>
+             </au>
+          </aug>
+          <insg>
+             <ins id="I1">
+                <p>Department of Clinical Epidemiology, Translational Medical Center, National Center of Neurology and Psychiatry, 4-1-1 Ogawa-higashi, Kodaira Tokyo 187-8551, Tokyo, Japan</p>
+             </ins>
+             <ins id="I2">
+                <p>Departments of Health Promotion and Human Behavior and of Clinical Epidemiology, Kyoto University Graduate School of Medicine/School of Public Health, Yoshida Konoe-cho, Sakyo-ku, Kyoto 606-8501, Japan</p>
+             </ins>
+             <ins id="I3">
+                <p>National Center for Cognitive Behavior Therapy and Research, National Center of Neurology and Psychiatry, 4-1-1 Ogawa-higashi, Kodaira 187-8551, Tokyo, Japan</p>
+             </ins>
+             <ins id="I4">
+                <p>Department of Psychiatric and Mental Health Nursing, Nagoya City University School of Nursing, 1 Kawasumi, Mizuho-ku, Nagoya 467-0001, Japan</p>
+             </ins>
+             <ins id="I5">
+                <p>Department of Clinical Research, Translational Medical Center, National Center of Neurology and Psychiatry, 4-1-1 Ogawa-higashi, Kodaira, Tokyo, Japan</p>
+             </ins>
+             <ins id="I6">
+                <p>Correspondence Division, Musashino University, 1-1-20 Shinmachi, Nishitokyo 202-8585, Tokyo, Japan</p>
+             </ins>
+             <ins id="I7">
+                <p>Department of Public Health, Faculty of Medicine, University of Toyama, 2630 Sugitani, Toyama 930-0194, Japan</p>
+             </ins>
+          </insg>
+          <source>Trials</source>
+          <issn>1745-6215</issn>
+          <pubdate>2015</pubdate>
+          <volume>16</volume>
+          <issue>1</issue>
+          <fpage>36</fpage>
+          <url>http://www.trialsjournal.com/content/16/1/36</url>
+          <xrefbib>
+             <pubidlist>
+                <pubid idtype="doi">10.1186/s13063-015-0554-z</pubid>
+             </pubidlist>
+          </xrefbib>
+       </bibl>
+       <history>
+          <rec>
+             <date>
+                <day>27</day>
+                <month>8</month>
+                <year>2014</year>
+             </date>
+          </rec>
+          <acc>
+             <date>
+                <day>7</day>
+                <month>1</month>
+                <year>2015</year>
+             </date>
+          </acc>
+          <pub>
+             <date>
+                <day>31</day>
+                <month>1</month>
+                <year>2015</year>
+             </date>
+          </pub>
+       </history>
+       <cpyrt>
+          <year>2015</year>
+          <collab>Watanabe et al.; licensee BioMed Central.</collab>
+          <note>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/4.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (<url>http://creativecommons.org/publicdomain/zero/1.0/</url>) applies to the data made available in this article, unless otherwise stated.</note>
+       </cpyrt>
+       <kwdg>
+          <kwd>Anxiety</kwd>
+          <kwd>Behavior therapy</kwd>
+          <kwd>Depression</kwd>
+          <kwd>Fatty acids</kwd>
+          <kwd>Omega-3</kwd>
+          <kwd>Mindfulness</kwd>
+          <kwd>Prevention and control</kwd>
+       </kwdg>
+       <abs>
+          <sec>
+             <st>
+                <p>Abstract</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Background</p>
+                </st>
+                <p>It is reported that nursing is one of the most vulnerable jobs for developing depression. While they may not be clinically diagnosed as depressed, nurses often suffer from depression and anxiety symptoms, which can lead to a low level of patient care. However, there is no rigorous evidence base for determining an effective prevention strategy for these symptoms in nurses. After reviewing previous literature, we chose a strategy of treatment with omega-3 fatty acids and a mindfulness-based stress management program for this purpose. We aim to explore the effectiveness of these intervention options for junior nurses working in hospital wards in Japan.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Methods/Design</p>
+                </st>
+                <p>A factorial-design multi-center randomized trial is currently being conducted. A total of 120 nurses without a managerial position, who work for general hospitals and gave informed consent, have been randomly allocated to a stress management program or psychoeducation using a leaflet, and to omega-3 fatty acids or identical placebo pills. The stress management program has been developed according to mindfulness cognitive therapy and consists of four 30-minute individual sessions conducted using a detailed manual. These sessions are conducted by nurses with a managerial position. Participants allocated to the omega-3 fatty acid groups are provided with 1,200 mg/day of eicosapentaenoic acid and 600 mg/day of docosahexaenoic acid for 90 days.</p>
+                <p>The primary outcome is the change in the total score of the Hospital Anxiety and Depression Scale (HADS), determined by a blinded rater via the telephone at week 26. Secondary outcomes include the change in HADS score at 13 and 52 weeks; presence of a major depressive episode; severity of depression, anxiety, insomnia, burnout, and presenteeism; utility scores and adverse events at 13, 26 and 52 weeks.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Discussion</p>
+                </st>
+                <p>An effective preventive intervention may not only lead to the maintenance of a healthy mental state in nurses, but also to better quality of care for inpatients. This paper outlines the background and methods of a randomized trial that evaluates the possible additive value of omega-3 fatty acids and a mindfulness-based stress management program for reducing depression in nurses.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Trial registration</p>
+                </st>
+                <p>Clinicaltrials.gov: <url>NCT02151162</url> (registered on 27 May 2014).</p>
+             </sec>
+          </sec>
+       </abs>
+    </fm>
+    <bdy>
+       <sec>
+          <st>
+             <p>Background</p>
+          </st>
+          <p>Hospital nurses are vulnerable to psychological stress and mental disorders <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>. In early reports, the suicide rate of female nurses was significantly higher than that of average workers, and their life expectancy at the age of 45 years was 26.9 years, which is only one year more than that of miners <abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp>. In a cross-sectional survey conducted in Cyprus, 65% of nurses reported that their job was stressful, and the prevalence of fatigue was higher in females (93%) than in males (88%) <abbrgrp>
+                <abbr bid="B3">3</abbr>
+             </abbrgrp>.</p>
+          <p>Consequently, nursing is highly associated with depression. The prevalence of depressive symptoms above a clinical cut-off among hospital-employed nurses is 18% in the United States <abbrgrp>
+                <abbr bid="B4">4</abbr>
+             </abbrgrp>. Nurses with depression are not only likely to suffer personally, but their illness may also have an impact on the quality of care for patients, through an increase in presenteeism. In terms of the monetary burden of patient care, the costs due to increased falls and medication errors that are caused by presenteeism are estimated at 1,346 USD per nurse annually <abbrgrp>
+                <abbr bid="B5">5</abbr>
+             </abbrgrp>.</p>
+          <p>A systematic review conducted on psychological distress among hospital nurses in the United States reported that emotional fatigue and burnout in nurses is associated with lack of support from senior management in the form of safety programs, and support from supervisors, respectively <abbrgrp>
+                <abbr bid="B6">6</abbr>
+             </abbrgrp>. Less-experienced junior nurses need support from senior colleagues and require interventions to empower resilience in order to alleviate their psychological distress.</p>
+          <p>When considering the possible options for intervention in depression, pharmacological treatments can be discounted because they are not useful as a preventive intervention due to their adverse side effects. Instead, lifestyle interventions, such as exercise and diet, are highly likely to be easily implemented and are promising options. With regard to exercise, according to a systematic review of randomized controlled trials (RCTs), depressive symptoms among patients with a chronic illness and functioning problems were reduced <abbrgrp>
+                <abbr bid="B7">7</abbr>
+             </abbrgrp>; however, rigorous evidence has not supported exercise as a preventive measure for depression and anxiety symptoms among the elderly <abbrgrp>
+                <abbr bid="B8">8</abbr>
+             </abbrgrp> or children and young people <abbrgrp>
+                <abbr bid="B9">9</abbr>
+             </abbrgrp>. In addition, intensive exercise may not be feasible due to the busy schedule of nurses working in hospitals. In contrast, the most feasible interventions may be diet. Omega-3 polyunsaturated fatty acids (PUFAs), in particular eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA), have been most frequently evaluated for their effects on depression and anxiety disorders. Many previous systematic reviews that have accumulated data from RCTs have been published; however, there are some reviews that show a positive effect of omega-3 PUFAs <abbrgrp>
+                <abbr bid="B10">10</abbr>
+             </abbrgrp> and others that do not <abbrgrp>
+                <abbr bid="B11">11</abbr>
+             </abbrgrp>. In addition, these reviews did not focus on preventative interventions.</p>
+          <p>In a recently published comprehensive meta-analysis <abbrgrp>
+                <abbr bid="B12">12</abbr>
+             </abbrgrp>, omega-3 PUFAs were effective in patients with a diagnosis of major depressive disorder, but not effective at preventing depression in healthy subjects. In this analysis, three parallel design RCTs for the prevention of depression in healthy subjects were assessed, with a follow-up duration of over three months. The studies employed a daily dose of 1.093 g EPA and 0.226 g DHA <abbrgrp>
+                <abbr bid="B13">13</abbr>
+             </abbrgrp>, 3.0 g EPA and 0.6 g DHA <abbrgrp>
+                <abbr bid="B14">14</abbr>
+             </abbrgrp> or 3.0 g EPA and 0.6 g DHA <abbrgrp>
+                <abbr bid="B15">15</abbr>
+             </abbrgrp>. However, a high daily EPA dose of between 1,000 and 1,500 mg/d with a ratio of 2:1 DHA is argued as optimal for affective disorders <abbrgrp>
+                <abbr bid="B16">16</abbr>
+             </abbrgrp>. Based on the current evidence for omega-3 PUFAs as a preventive tool for anxiety and depressive symptoms, we believe that methodologically rigorous trials employing optimal doses of EPA and DHA are still needed.</p>
+          <p>On the other hand, psychological interventions, such as stress management, problem solving and support should be considered as possible interventions in workplace settings because of their feasibility and accessibility. A Cochrane review <abbrgrp>
+                <abbr bid="B17">17</abbr>
+             </abbrgrp> has revealed that a psychological intervention to alleviate stress among workers in the workplace can be efficacious according to several small RCTs; however, this review concluded that the methodological quality of these trials was not sufficient, and further methodologically sound trials with a larger sample size are needed to reach firm conclusions.</p>
+          <p>Among the various types of psychotherapy, mindfulness-based cognitive therapy and meditation have been given particular attention by both clinicians and researchers. In a systematic review, mindfulness meditation programs have shown moderate evidence of improvements in depression, with an effect size of 0.30 (95% confidence interval (CI): 0.00 to 0.59) at post-treatment), when compared with nonspecific active controls <abbrgrp>
+                <abbr bid="B18">18</abbr>
+             </abbrgrp>; however, the review focused on a clinical sample and therefore was not able to conclude any preventive effects of the psychotherapy. To the best of our knowledge, there has been no systematic review focusing on the prevention of depression and anxiety symptoms in the workplace. Although the efficacy of mindfulness-based cognitive therapy in nurses has been examined in a previous RCT <abbrgrp>
+                <abbr bid="B19">19</abbr>
+             </abbrgrp>, the trial included only a small number of participants and no firm conclusions could be drawn. For this reason, a conclusive RCT is necessary to establish evidence of an effective psychological intervention that can help to maintain a healthy mental state in hospital nurses.</p>
+          <p>Hence, the present study aims to conduct a methodologically rigorous factorial-design trial with 1:1:1:1 allocation to explore the effectiveness of omega-3 PUFAs, and a mindfulness-based stress management program for maintaining a healthy mental state in hospital nurses.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Methods/Design</p>
+          </st>
+          <sec>
+             <st>
+                <p>Trial design</p>
+             </st>
+             <p>A parallel-arms factorial-design RCT with a 52-week follow-up period has been planned. Participants will be randomly allocated to one of the four intervention arms: 1) mindfulness-based stress management program plus omega-3 PUFAs; 2) mindfulness-based stress management program plus placebo; 3) psychoeducation leaflet plus omega-3 PUFAs and 4) psychoeducation leaflet plus placebo. A total of 30 participants will be allocated to each arm. These interventions will terminate within three months from the registration of the participant. The primary outcome will be the depression and anxiety severity at 26 weeks (rated blindly), assessed using the 14-item Hospital Anxiety and Depression Scale (HADS). After each assessment, an assessor will guess which group the participant has been assigned to, making it possible to examine if the blinding is successful.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Inclusion criteria</p>
+             </st>
+             <p>The inclusion criteria for participants are as follows:</p><p>1. Aged between 20 and 59 years at entry to the study and of female gender. We will limit participants to the female gender because a previous study investigating the prevention of post-traumatic stress among emergency workers has demonstrated that omega-3 fatty acids are effective in females but not males <abbrgrp>
+                      <abbr bid="B20">20</abbr>
+                   </abbrgrp>. This is the first study to examine the effectiveness of omega-3 fatty acids among nurses, therefore we have decided to focus on females to maximize the benefit.</p>
+                <p>2. Nurses who work in inpatient wards at four general hospitals in the Tama region of Japan, including the National Center of Neurology and Psychiatry Hospital, National Disaster Medical Center, Tokyo Metropolitan Tama Medical Center and Tama-Hokubu Medical Center.</p>
+                <p>3. Those who are mainly engaged in caring for patients, but not in administrative responsibilities. Thus, head nurses in wards and senior nurses who are mainly engaged in supporting administrative work of the head nurses are excluded. A previous study has shown that senior nurses have less burnout than junior nurses <abbrgrp>
+                      <abbr bid="B21">21</abbr>
+                   </abbrgrp>, and senior nurses are engaged in administrative work in the hospitals included in our study.</p>
+                <p>4. Those who have given written informed consent to participate in the study.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Exclusion criteria</p>
+             </st>
+             <p>The exclusion criteria are as follows:</p><p>1. Plans to take sick leave, leave for other reasons or retirement within 26 weeks from entry to the study;</p>
+                <p>2. Already engaging in structured psychotherapy (such as cognitive behavioral therapy, interpersonal therapy or brief psychodynamic therapy) at entry;</p>
+                <p>3. Seeing a physician regularly for the treatment of any mood or anxiety disorders at entry;</p>
+                <p>4. Taking antidepressants, mood stabilizers, anticonvulsants or antipsychotics at entry;</p>
+                <p>5. Any history of taking nutrient supplements, including omega-3 fatty acids, for four or more weeks within 52 weeks from entry;</p>
+                <p>6. Clinical depression, based on a total score of 11 or more on the HADS - Depression Subscale <abbrgrp>
+                      <abbr bid="B22">22</abbr>
+                   </abbrgrp> and 15 or more on the Primary Health Care Questionnaire <abbrgrp>
+                      <abbr bid="B23">23</abbr>
+                   </abbrgrp>;</p>
+                <p>7. Consumption of fish as the main course of a meal four or more times per a week;</p>
+                <p>8. Taking anticoagulant drugs at entry or history of stroke or myocardial infarction or</p>
+                <p>9. Judged ineligible by a clinical research coordinator (CRC) for any reason.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Procedures</p>
+             </st>
+             <p>Information about the study will be presented to the head of the hospital, the director of the nursing service department and head nurses in explanatory meetings at the recruiting hospitals. Leaflets with information about the study will be distributed to nurses in hospital wards and interested nurses will be contacted by a CRC. Each nurse will input her data, except the HADS criterion, into an electronic data capturing (EDC) system via the internet, with some assistance by the CRC, and if she satisfies all of the inclusion criteria and none of the exclusion criteria, provisional written informed consent will be obtained. The participants will then be interviewed using the HADS through their mobile phone by a rater located in Kyoto University. If the nurse does not satisfy the HADS exclusion criterion, formal written informed consent will be obtained.</p>
+             <p>The participants will be randomly allocated to one of the four intervention arms via the EDC using a minimization method. Minimization is an adaptive stratified allocation system that is used in clinical trials <abbrgrp>
+                   <abbr bid="B24">24</abbr>
+                </abbrgrp>. Minimization can reduce the imbalance between the numbers of patients in each treatment group over possible confounding factors. The participant&#8217;s place of work, total score on the HADS of 11 or higher <abbrgrp>
+                   <abbr bid="B22">22</abbr>
+                </abbrgrp>, and whether they have been working as a nurse for one year or more will be used as stratification variables (Figure&#160;<figr fid="F1">1</figr>).
+                  </p>
+             
+                <fig id="F1">
+                   <title>
+                      <p>Figure 1</p>
+                   </title>
+                   <caption>
+                      <p>Flowchart of the trial. </p>
+                   </caption>
+                   <text>
+                      <p>
+                            <b>Flowchart of the trial.</b> EDC, electronic data capturing.</p>
+                   </text>
+                   <graphic file="s13063-015-0554-z-1"/>
+                </fig>
+             
+          </sec>
+          <sec>
+             <st>
+                <p>Interventions</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Psychological interventions</p>
+                </st>
+                <p>In the present factorial-design RCT, the effects of two forms of psychological intervention will be compared: mindfulness-based stress management program and a psychoeducation leaflet.</p>
+                <p>The stress management program has been developed combining mindfulness-based self-regulation of attention <abbrgrp>
+                      <abbr bid="B25">25</abbr>
+                   </abbrgrp> and the cognitive behavioral model of depression adapted from a previously established manual <abbrgrp>
+                      <abbr bid="B26">26</abbr>
+                   </abbrgrp>. Although a previous trial of 41 nursing students <abbrgrp>
+                      <abbr bid="B27">27</abbr>
+                   </abbrgrp> employed mindfulness meditation with the non-judgmental awareness of moment-to-moment experiences as the central axis <abbrgrp>
+                      <abbr bid="B28">28</abbr>
+                   </abbrgrp>, we extracted the treatment components of body scan and breathing meditation from mindfulness meditation because these techniques are considered easy to learn and helpful for nurses, in our experience. The stress management program consists of four weekly 30-minute individual sessions and is highly structured, with a detailed manual. The contents of each session are as follows: 1) understanding the cognitive behavioral model of stress and emotion of the participant, 2) reviewing the model and conducting body scanning and breathing exercises, 3) reviewing the results of model and body scanning and then promoting awareness of the cognition of the participant and 4) reviewing the model, providing suggestions about increasing pleasant behaviors and planning a strategy to manage future stress. The feasibility of the program has been examined by employing five nurses as participants in a pilot run, the protocol of which was approved by the institutional review boards of the National Center of Neurology and Psychiatry on 15 November 2013 (approval number: A2013-102). No dropouts due to the program were observed. All the participants reported that the program might be helpful for nurses to manage stress from their work. Some rewordings have been done to the program according to comments from the participants.</p>
+                <p>The stress management program will be conducted by senior nurses in four individual sessions within the first three months. Senior nurses will have taken a seven-hour workshop, including lectures and role-playing sessions. The detailed manual and videos, including lectures, will be provided to the senior nurses. The senior nurses will be supervised monthly by email once the program commences. All sessions will be audiotaped and 20% of them will be randomly selected and evaluated by two independent researchers to assess the integrity of the program. They will check for adherence to the treatment manual with a checklist for each session.</p>
+                <p>A leaflet has been prepared for the psychoeducation leaflet groups. This is based on a freely distributed psychoeducation leaflet about healthy mental state written by the Japanese Ministry of Health, Labor and Welfare <abbrgrp>
+                      <abbr bid="B29">29</abbr>
+                   </abbrgrp>. The leaflet includes information about checking for signs of stress, relaxation and sleep hygiene, and suggestions for stress management such as exercise, laughter and meeting intimate friends. It also includes a list of consultants for mental health. We have adapted this leaflet to be applicable to our study by adding advice from senior nurses about working without stress. Participants allocated to the leaflet groups will be instructed to read this often, especially when they feel anxious or stressed.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Supplements interventions</p>
+             </st>
+             <p>Omega-3 PUFA capsules have been formulated to contain 1,200 mg EPA and 600 mg DHA (Kentech Co. Ltd., Toyama, Japan) according to recommendations from experts <abbrgrp>
+                   <abbr bid="B16">16</abbr>
+                </abbrgrp>. The participants will take the capsules once a day for 90 days from entry into the study. Placebo capsules contain rapeseed oil (47%), soybean oil (25%), olive oil (25%) and fish oil (3%), and have an identical appearance and similar odor (Kentech Co. Ltd., Toyama, Japan).</p>
+             <p>Adherence to the regimens will be checked among nurses working for the National Center of Neurology and Psychiatry Hospital and National Disaster Medical Center from results of blood tests. At baseline and at the three-month assessment, red blood cells (RBCs) will be obtained from EDTA-anticoagulated blood (Terumo Corporation, Tokyo, Japan), washed twice with saline and frozen at &#8722;80&#176;C until analysis. The fatty acid composition of the total phospholipid fraction of the RBCs will be determined as described previously, with slight modifications <abbrgrp>
+                   <abbr bid="B30">30</abbr>
+                </abbrgrp>. Briefly, the total lipid content will be extracted from RBCs according to the method used by Bligh and Dyer <abbrgrp>
+                   <abbr bid="B31">31</abbr>
+                </abbrgrp>. The total phospholipid fraction will be separated by thin-layer chromatography. After transmethylation with HCl-methanol, the fatty acid composition will be analyzed using a gas chromatography system (GC14A Shimadzu Corporation, Kyoto, Japan) equipped with a capillary column DB-225 (length: 30 m; internal diameter: 0.25 mm; film: 0.25 &#956;m; J&amp;W Scientific, Folsom, California, United States); the entire system was controlled using gas chromatography software CLASS-GC10 version 1.3 (Shimadzu Corporation). In addition, to assess adherence to the regimen, all the remaining capsules will be collected from all the participants after the three-month assessment.</p>
+             <p>Participants who decide to leave the allocated intervention due to adverse events or any other reason within the first 13 weeks will be classified as dropouts from the intervention, but will still be asked to complete the assessments. Participants allocated to the leaflet and placebo capsule groups will not be allowed to take the stress management program and omega-3 PUFA capsules respectively, after 26 weeks. However, they will be allowed to take these interventions thereafter, and information will be collected from these participants.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Assessment measures</p>
+             </st>
+             <p>Information about depression and anxiety symptoms (primary outcome), insomnia, burnout, presenteeism, quality of life, sick leave, consultation about the mental state of the participant and oxidative stress will be collected at baseline, three months, six months (primary time point) and 12 months from registration for each participant (Table&#160;<tblr tid="T1">1</tblr>).
+                  </p>
+             
+                <table id="T1">
+                   <title>
+                      <p>Table 1</p>
+                   </title>
+                   <caption>
+                      <p>
+                            <b>Schedule for the assessments</b>                          
+                      </p>
+                   </caption>
+                   <tgroup align="left" cols="7">
+                      <colspec align="left" colname="c1" colnum="1" colwidth="*"/>
+                      <colspec align="left" colname="c2" colnum="2" colwidth="*"/>
+                      <colspec align="left" colname="c3" colnum="3" colwidth="*"/>
+                      <colspec align="left" colname="c4" colnum="4" colwidth="*"/>
+                      <colspec align="left" colname="c5" colnum="5" colwidth="*"/>
+                      <colspec align="left" colname="c6" colnum="6" colwidth="*"/>
+                      <colspec align="left" colname="c7" colnum="7" colwidth="*"/>
+                      <thead>
+                         <row valign="top">
+                            <entry colname="c1"/>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>
+                                  <b>Entry</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>
+                                  <b>7 to 21 days after entry</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>
+                                  <b>13 weeks from entry (allowing for subsequent 14 days)</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>
+                                  <b>26 weeks from entry (allowing for subsequent 30 days)</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c7">
+                               <p>
+                                  <b>52 weeks from entry (allowing for subsequent 30 days)</b>                              
+                               </p>
+                            </entry>
+                         </row>
+                      </thead>
+                      <tfoot>
+                         <p>BSI, Bradford Somatic Inventory; CRC, clinical research coordinator; EDC, electronic data capturing; EQ-5D, EuroQol; GAD-7, Generalized Anxiety Disorder 7-item scale; HADS, Hospital Anxiety and Depression Scale; HPQ, World Health Organization Heath and Work Performance Questionnaire; ISI, Insomnia Severity Index; MBI, Maslach&#8217;s Burnout Inventory; PHQ-9, Patient Health Questionnaire; PRIME-MD, Primary Care Evaluation of Mental Disorders.</p>
+                      </tfoot>
+                      <tbody>
+                         <row valign="top">
+                            <entry colname="c1" morerows="1">
+                               <p>Kyoto University</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>HADS assessed through telephone</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c4"/>
+                            <entry colname="c5">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c7">
+                               <p>x</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>Allocation guessed by raters</p>
+                            </entry>
+                            <entry colname="c3"/>
+                            <entry colname="c4"/>
+                            <entry colname="c5">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c7">
+                               <p>x</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1" morerows="3">
+                               <p>CRC</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Informed consent, registration to EDC, information about allocated group</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c4"/>
+                            <entry colname="c5"/>
+                            <entry colname="c6"/>
+                            <entry colname="c7"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>Socio-demographic variables (such as age, academic status, marital status and partners)</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c4"/>
+                            <entry colname="c5"/>
+                            <entry colname="c6"/>
+                            <entry colname="c7"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2" morerows="1">
+                               <p>Concentrations of omega-3 fatty acids in membrane of RBC, oxidative stress, and antioxidant status</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c4"/>
+                            <entry colname="c5">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c6" morerows="1"/>
+                            <entry colname="c7" morerows="1"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c3">
+                               <p>(2 hospitals)</p>
+                            </entry>
+                            <entry colname="c4"/>
+                            <entry colname="c5">
+                               <p>(2 hospitals)</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1" morerows="11">
+                               <p>Participants&#8217; input through EDC</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>PHQ-9</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c4"/>
+                            <entry colname="c5">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c7">
+                               <p>x</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>GAD-7</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c4"/>
+                            <entry colname="c5">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c7">
+                               <p>x</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>ISI</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c4"/>
+                            <entry colname="c5">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c7">
+                               <p>x</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>MBI</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c4"/>
+                            <entry colname="c5">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c7">
+                               <p>x</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>BSI</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c7">
+                               <p>x</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>HPQ</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c4"/>
+                            <entry colname="c5">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c7">
+                               <p>x</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>EQ-5D</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c4"/>
+                            <entry colname="c5">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c7">
+                               <p>x</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>Numbers of incidents and accidents</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c4"/>
+                            <entry colname="c5">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c7">
+                               <p>x</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>Numbers of visits to clinics</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c4"/>
+                            <entry colname="c5">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c7">
+                               <p>x</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>Numbers of absent days due to any reason</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c4"/>
+                            <entry colname="c5">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c7">
+                               <p>x</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>History of taking psychotropic drugs</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c4"/>
+                            <entry colname="c5">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c7">
+                               <p>x</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>Adverse events</p>
+                            </entry>
+                            <entry colname="c3"/>
+                            <entry colname="c4">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>x</p>
+                            </entry>
+                            <entry colname="c7">
+                               <p>x</p>
+                            </entry>
+                         </row>
+                      </tbody>
+                   </tgroup>
+                </table>
+             
+          </sec>
+          <sec>
+             <st>
+                <p>Primary outcome measure</p>
+             </st>
+             <p>The primary outcome will be the total depression and anxiety severity changes at week 26 (rated blindly), assessed using the 14-item HADS <abbrgrp>
+                   <abbr bid="B32">32</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B33">33</abbr>
+                </abbrgrp> through their mobile phone by a blinded rater located at Kyoto University. All the patients will be requested not to reveal the allocated treatment to the assessors, in order to keep the assessors&#8217; blindness to the groups.</p>
+             <p>The total score of the HADS (HADS-T) ranges from 0 to 42, with higher scores indicating more symptoms. The HADS has two sub-scores, each ranging from 0 to 21: HADS-D (depression) and HADS-A (anxiety). The defined cutoffs were eight or higher for mild to moderate symptoms and 11 or higher for severe symptoms of anxiety or depression. The reliability and validity of the Japanese version of the HADS has been confirmed, with Cronbach&#8217;s alpha values of the scale at 0.79 for the HADS-D and at 0.77 for the HADS-A <abbrgrp>
+                   <abbr bid="B22">22</abbr>
+                </abbrgrp>. The total score will be used as a measure of the severity of depression and anxiety symptoms in the present study.</p>
+             <sec>
+                <st>
+                   <p>
+                      <it>Secondary outc</it>o<it>me measures</it> 
+                   </p>
+                </st>
+                <p>All other self-reported measures will be collected through the EDC system, where the participants can enter their own data at home. Participants will be notified at 13, 26 and 52 weeks to fill in the assessment questionnaires within the following 14, 30 and 30 days through the EDC system, respectively.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Depression and anxiety symptoms</p>
+             </st>
+             <p>The HADS will be administered at baseline, 13 and 52 weeks as secondary outcomes, as well as at 26 weeks (the primary outcome).</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Major depressive episode</p>
+             </st>
+             <p>A current major depressive episode, according to (the Diagnostic and Statistical Manual of Mental Disorders, 4th. Edition (DSM-IV) criteria, will be ascertained using the Primary Care Evaluation of Mental Disorders (PRIME-MD) algorithm in the depression module of the Patient Health Questionnaire (PHQ-9) <abbrgrp>
+                   <abbr bid="B23">23</abbr>
+                </abbrgrp> at baseline, 13, 26 and 52 weeks. The PHQ-9 was developed as a self-report version of the PRIME-MD that aims at a DSM-IV diagnosis of several common mental disorders. The PHQ-9 has been used as an assessment of major depressive disorder, according to DSM-5 <abbrgrp>
+                   <abbr bid="B34">34</abbr>
+                </abbrgrp>. The PHQ-9 consists of the nine diagnostic criteria items, which make a total score range between 0 and 27. Good test-retest reliability (intraclass correlation coefficient (ICC)&#8201;=&#8201;0.92) <abbrgrp>
+                   <abbr bid="B35">35</abbr>
+                </abbrgrp> and internal consistency reliability (Cronbach&#8217;s alpha&#8201;=&#8201;0.89) <abbrgrp>
+                   <abbr bid="B23">23</abbr>
+                </abbrgrp> have been reported. The Japanese version has been established through back-translation <abbrgrp>
+                   <abbr bid="B36">36</abbr>
+                </abbrgrp>.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Anxiety</p>
+             </st>
+             <p>The Generalized Anxiety Disorder 7-item scale (GAD-7) <abbrgrp>
+                   <abbr bid="B37">37</abbr>
+                </abbrgrp> will be used to assess the severity of anxiety symptoms in the participants at baseline, 13, 26 and 52 weeks. The GAD-7 was developed to screen for and evaluate the severity of generalized anxiety disorder (GAD) in the general population. The GAD-7 consists of seven items and can give a diagnosis according to DSM-IV and DSM-5. The internal consistency and test-retest reliability of the GAD-7 were a Cronbach&#8217;s alpha of 0.92 and intraclass correlation of 0.83, respectively <abbrgrp>
+                   <abbr bid="B37">37</abbr>
+                </abbrgrp>. Total scores between five and nine, 10 and 14, or 15 and 21 indicate mild, moderate or severe anxiety symptoms, respectively. According to a recently published systematic review, the GAD-7 was the best performing test for GAD, with a positive likelihood ratio of 5.1 (95% CI: 4.3 to 6.0) and a negative likelihood ratio of 0.13 (95% CI: 0.07 to 0.25) <abbrgrp>
+                   <abbr bid="B38">38</abbr>
+                </abbrgrp>. A Japanese version of the GAD-7 has been developed <abbrgrp>
+                   <abbr bid="B39">39</abbr>
+                </abbrgrp> and the agreement rate of diagnosis compared to the Mini International Neuropsychiatric Interview was reported as satisfactory.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Burnout</p>
+             </st>
+             <p>The Maslach&#8217;s Burnout Inventory (MBI) <abbrgrp>
+                   <abbr bid="B40">40</abbr>
+                </abbrgrp> will be used to assess burnout in nurses. The MBI is a tool for detecting and measuring the severity of burnout syndrome. It is a 22-item questionnaire that assesses the degree of burnout in terms of three subscales: emotional exhaustion (EE), depersonalization (DP) and personal accomplishment (PA). EE represents feelings of being emotionally exhausted and having a lack of energy, DP represents feelings of impersonal responses towards recipients of the service and PA represents feeling of incompetence. The original English version has a good validity and reliability, with a Cronbach&#8217;s alpha of 0.71 to 0.90 <abbrgrp>
+                   <abbr bid="B41">41</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B42">42</abbr>
+                </abbrgrp>. The Japanese version also has good reliability, with a Cronbach&#8217;s alpha of 0.77, 0.76 and 0.60 for EE, DP and PA, respectively <abbrgrp>
+                   <abbr bid="B43">43</abbr>
+                </abbrgrp>.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Insomnia</p>
+             </st>
+             <p>The Insomnia Severity Index (ISI) <abbrgrp>
+                   <abbr bid="B44">44</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B45">45</abbr>
+                </abbrgrp> will be used to assess insomnia at baseline, 13, 26 and 52 weeks. The ISI is now considered a standard global measure for assessing the severity of insomnia and is used in many studies <abbrgrp>
+                   <abbr bid="B46">46</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B47">47</abbr>
+                </abbrgrp>. Total scores between eight and 14 and 15 and 28 indicate subthreshold insomnia and clinical insomnia, respectively. The internal consistency of the ISI has a Cronbach&#8217;s alpha of 0.90 in a community population <abbrgrp>
+                   <abbr bid="B48">48</abbr>
+                </abbrgrp>. In a clinical population, a difference in score of &#8722;8.4 points (95% CI: &#8722;7.1 to &#8722;9.4) was associated with a moderate improvement, as rated by an independent assessor after treatment <abbrgrp>
+                   <abbr bid="B48">48</abbr>
+                </abbrgrp>. The Japanese version has been validated <abbrgrp>
+                   <abbr bid="B49">49</abbr>
+                </abbrgrp>.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Somatic symptoms</p>
+             </st>
+             <p>The Bradford Somatic Inventory (BSI) will be used to measure somatic symptoms at baseline, 13, 26 and 52 weeks. The BSI is a 44-item questionnaire for female subjects about symptoms experienced in the previous month, which was designed to detect physical symptoms commonly related to depressed patients <abbrgrp>
+                   <abbr bid="B50">50</abbr>
+                </abbrgrp>. We selected the BSI as a measurement for somatic symptoms because there are no other assessment tools for this purpose in the Japanese language. The original English version of the BSI was translated into Japanese by two Japanese psychiatrists (NW and YM) and back-translated into English by one psychiatrist (TAF). The translations were then checked by the original author of the BSI (Professor David B Mumford). The number of positive items in the BSI will be used as a measure of the severity of somatic symptoms in this study. Data from the BSI will be collected through the EDC on days seven to 21 from entry into the study to check the test-retest reliability.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Presenteeism</p>
+             </st>
+             <p>The World Health Organization Heath and Work Performance Questionnaire (HPQ) will be used to assess presenteeism at baseline, 13, 26 and 52 weeks. The HPQ is a self-report instrument designed to estimate the workplace costs of health problems in terms of self-reported reduced job performance (presenteeism). The HPQ measures of presenteeism can be used to calculate two scores: the absolute presenteeism score, obtained by multiplying the respondent&#8217;s response to the second question by 10, and the relative presenteeism score, obtained by dividing the first response by the second response, then multiplying by 100. Absolute and relative presenteeism scores will be used in this study.</p>
+             <p>The validity of the scale has been confirmed in previous studies <abbrgrp>
+                   <abbr bid="B51">51</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B52">52</abbr>
+                </abbrgrp>. The Japanese version of the HPQ was used in the World Mental Health Survey in Japan <abbrgrp>
+                   <abbr bid="B53">53</abbr>
+                </abbrgrp>. The area under the curve values for absolute and relative presenteeism in relation to future absences due to mental disease were 0.71 (95% CI: 0.62 to 0.80) and 0.65 (95% CI: 0.55 to 0.75), respectively <abbrgrp>
+                   <abbr bid="B54">54</abbr>
+                </abbrgrp>.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Quality of life</p>
+             </st>
+             <p>The EuroQol (EQ-5D) <abbrgrp>
+                   <abbr bid="B55">55</abbr>
+                </abbrgrp> will be used to assess health-related quality of life (QoL) at baseline, 13, 26 and 52 weeks. The EQ-5D is a standardized instrument used as a measure of health outcome and is applicable to a wide range of health conditions and treatments. The five domains include mobility, self-care, usual activities, pain and/or discomfort, and anxiety and/or depression. There are three levels of severity: no problems, some or moderate problems and severe or extreme problems. Each pattern of responses is allocated to an individual utility score, which ranges from 0 (death) to one (perfect health). The Japanese version has been developed <abbrgrp>
+                   <abbr bid="B56">56</abbr>
+                </abbrgrp>. The test-retest reliability of the Japanese version was 0.996, and Cronbach&#8217;s alpha was 0.827 <abbrgrp>
+                   <abbr bid="B57">57</abbr>
+                </abbrgrp>.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Oxidative stress</p>
+             </st>
+             <p>Oxidative stress and antioxidant levels will be evaluated at the baseline and three-month assessments among the nurses working for the National Center of Neurology and Psychiatry Hospital and National Disaster Medical Center. Oxidative stress is the imbalance between oxidative stress and antioxidant defenses. High oxidative stress or low antioxidant status are becoming increasingly recognized as biological mechanisms associated with poor health outcomes and the progression of a wide range of diseases <abbrgrp>
+                   <abbr bid="B58">58</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B59">59</abbr>
+                </abbrgrp>. An association between depression and oxidative stress has been reported in a recently published meta-analysis <abbrgrp>
+                   <abbr bid="B60">60</abbr>
+                </abbrgrp>; however, the conclusions seem inconsistent due to large heterogeneity among the included studies, with an I<sup>2</sup> of 80% and possible selection bias as the studies did not cover a broad range of depression. Moreover, the meta-analysis included only cross-sectional studies; therefore, associations between changes in depression and oxidative stress remain unclear.</p>
+             <p>In the present study, we will use reactive oxygen metabolite-derived compounds (d-ROMs) and biological antioxidant potential (BAP) tests <abbrgrp>
+                   <abbr bid="B61">61</abbr>
+                </abbrgrp> to evaluate oxidative stress and antioxidant levels, respectively, as used in previous studies <abbrgrp>
+                   <abbr bid="B62">62</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B63">63</abbr>
+                </abbrgrp>.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Adverse events</p>
+             </st>
+             <p>An adverse event is defined as any unwanted or unintended signs (including laboratory exams, suicidal and self-harm behaviors and very unstable mental states), symptoms or disease seen in trial participants, regardless of the causal relationship with the study intervention. Information about any possible adverse events will be collected during the intervention period through the EDC. Participants will be encouraged to input these data via emails at fixed intervals. Information about the severity and degree of adverse events affecting normal life will also be collected. When the severity of severe for adverse events or the degree affecting usual life of moderate or severe due to adverse eventsis presented, the participant will be contacted through telephone or email by a CRC, and termination of the intervention will be discussed.</p>
+             <p>Adverse events will be classified into major adverse events if they may lead to death or to enduring severe impairment, depending on participants&#8217; conditions and circumstances. Major adverse events shall be reported to the relevant section of the Ministry of Health, Labor and Welfare, as well as to the heads of all research centers and recruiting hospitals.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Other outcomes</p>
+             </st>
+             <p>Information about sick leave, consultations on personal mental state and about discontinuation of the allocated interventions will be collected through the EDC.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Sample size</p>
+             </st>
+             <p>The sample size was based on a power analysis conducted for the HADS scores. There are no previous reports associated with the stress management program, in terms of nurse-to-nurse interventions, that can contribute to the power calculation of our trial. Based on trials that have used nurses as therapists and the HADS as the primary outcome, one trial has examined the efficacy of cognitive behavioral therapy conducted by nurses for depression in the elderly after lumber fracture operations, and a difference of 3.7 was found compared with treatment as usual <abbrgrp>
+                   <abbr bid="B64">64</abbr>
+                </abbrgrp>. To the best of our knowledge, there have been no reports assessing treatment with omega-3 fatty acids for depression or anxiety in nurses. One systematic review and meta-analysis has shown that treatment with omega-3, &#8805;60% EPA and &#8804;40% DHA led to an effect size of &#8722;0.026 (95% CI: &#8722;0.200 to 0.148), when compared with a placebo <abbrgrp>
+                   <abbr bid="B65">65</abbr>
+                </abbrgrp>. Therefore, the mean difference in the HADS scores was estimated to be 4&#8201;&#177;&#8201;6 (SD) between the stress management program and leaflet groups, and between the omega-3 fatty acids and placebo groups. To detect a significant difference at <it>P</it>&#8201;=&#8201;0.05 (two-tailed) with a power of 0.9, it was calculated that 48 patients would be required for each of the arms in both comparisons. Thus, allowing for a 20% dropout rate, 60 participants would need to be recruited per group. In the present factorial-design RCT, 30 participants would be necessary for each of the four groups.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Data management and analysis</p>
+             </st>
+             <p>All of the participants who are randomized at baseline will be included in the primary analyses (intention-to-treat (ITT)). First, a descriptive analysis of the variables at baseline will be performed. We do not plan any statistical tests to detect a difference at baseline among the trial arms because we aim to avoid multiple tests, and the decision to adjust for baseline data in RCTs should not be determined by whether baseline differences are statistically significant <abbrgrp>
+                   <abbr bid="B66">66</abbr>
+                </abbrgrp>. However, when clinically important differences at baseline are noted from a clinician&#8217;s point of view, a sensitivity analysis will be performed by adjusting for all such possible confounds.</p>
+             <p>Second, for the primary outcome and all the continuous outcomes assessed at 26 and 52 weeks, differences among groups will be examined using a mixed-model repeated measures analysis. When missing data exist for categorical variables, which are all negative outcomes, an ITT principal will be applied by assuming that all dropouts did not satisfy the outcomes. However, per protocol analyses, where only data from completers are incorporated, will also be presented according to a recent recommendation <abbrgrp>
+                   <abbr bid="B67">67</abbr>
+                </abbrgrp>. We also plan to calculate a number needed to treat (NNT) with a 95% CI if a statistically significant difference among the groups is observed in dichotomous data.</p>
+             <p>A <it>P</it> value of &lt;0.05 will be set to test the null hypothesis for all analyses. Although we understand that this decision might lead to errors in multiple tests, the present trial is the first of its kind to examine prevention interventions in this type of workplace; therefore, we have considered that avoiding beta errors is preferable over alpha errors. However, 95% CIs will always be presented for differences among groups. We will not perform interim analyses to examine the study hypotheses.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Sensitivity analysis</p>
+             </st>
+             <p>Per protocol analyses, where only data from completers are incorporated to an analysis of covariance that adjusts for baseline data, will be performed as sensitivity analyses for all the continuous outcomes.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Data monitoring</p>
+             </st>
+             <p>The trial will be supervised by the Data Monitoring and Safety Management Committee. The committee consists of three independent experts in research on psychotherapy and nutrient interventions and research methodology. Data regarding all outcomes will be sent to the committee twice a year and inspected. The members of the committee are independent from the sponsor and competing interests of the present study.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Publication policy</p>
+             </st>
+             <p>The protocol and the results of all outcomes will be published in a peer-reviewed medical journal. The results shall be reflected in treatment guidelines and systematic reviews.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Study period</p>
+             </st>
+             <p>The study period of this trial will be between June 2014 and March 2016, with the participant entry period being between June 2014 and March 2015.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Ethical issues</p>
+             </st>
+             <p>The present study complies with the ethical guidelines for clinical studies published by the Japanese Ministry of Health Labor and Welfare, as well as the ethical principles established for research on humans stipulated in the Declaration of Helsinki and further amendments thereto.</p>
+             <p>The study protocol has been approved by the institutional review boards of the National Center of Neurology and Psychiatry on 16 May 16 2014 (approval number: A2014-017) and of Toyama University on 16 June 2014 (approval number: 26&#8211;24). If important protocol modifications such as changes to eligibility criteria, outcomes or analyses are needed for any reason, the investigators will communicate this with the review boards.</p>
+             <p>Written informed consent will be obtained from all participants included in this study. Participants will be informed that they can withdraw from the study at any time without stating the reason, and that their withdrawal will never lead to refusal of any other services. Data for each participant will be handled with sequentially allocated numbers to keep participant&#8217;s confidentiality. Participants&#8217; personal information will also be anonymized with sequentially allocated numbers.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Discussion</p>
+          </st>
+          <p>To the best of our knowledge, this study represents the first study to investigate the effectiveness of preventive interventions on depression and anxiety symptoms among hospital nurses. In addition to these symptoms, approximately one in four nurses who are shift workers in Japan suffer from shift work disorder <abbrgrp>
+                <abbr bid="B68">68</abbr>
+             </abbrgrp>, which is characterized by excessive sleepiness and/or insomnia associated with their shift work schedule <abbrgrp>
+                <abbr bid="B69">69</abbr>
+             </abbrgrp>. The high prevalence of these common psychiatric symptoms is probably due to the high responsibility, need for high levels of expertise and relatively low reward associated with the nursing profession. A significant association was found between depressive symptoms and effort-reward imbalance, with an odds ratio (OR) of 10.8, and between esteem-reward imbalance, with an OR of 3.2 in nurse managers working in hospitals in France <abbrgrp>
+                <abbr bid="B70">70</abbr>
+             </abbrgrp>.</p>
+          <p>It would be hard to restructure the proportion of hospital workers and increase the number of nurses, or to reduce the responsibility and increase the salary of nurses. However, realistic interventions are needed to empower resilience in order to alleviate psychological distress among nurses. Lifestyle interventions, such as diet and psychotherapeutic approaches, are highly desirable options. When an effective preventive intervention has been established, the results may not only lead to the maintenance of a healthy mental state in nurses, but also a better quality of care for inpatients. We believe that the present study will be able to contribute to this goal.</p>
+          <p>The present study is not without methodological limitations. First, a previous observational study with a large sample size has reported that an increase in a nurses&#8217; workload by one patient, and no bachelor&#8217;s degree-level education led to an increase in preventable hospital deaths <abbrgrp>
+                <abbr bid="B71">71</abbr>
+             </abbrgrp>. We do not plan to collect information about patient outcomes, because inpatients from the hospitals included in the study are usually discharged within approximately 14 days, and many nurses are involved in the care of each patient. Therefore, we have decided <it>a priori</it> not to investigate the efficacy of interventions on patient outcomes.</p>
+          <p>Second, some essential organizational characteristics, including decision-making latitude and quality and quantity of support from peer nurses, are not considered in the study. All of the hospitals that are enrolled in the study are funded by national or local government and located in the capital city of Japan. Neither private nor rural hospitals are included. These may have an effect on the mental health of nurses and therefore these impose a negative impact on the applicability of findings from the study. However, the methodology of quantitatively measuring decision-making latitude, and quality and quantity of support from peer nurses in various disciplines has not been confirmed <abbrgrp>
+                <abbr bid="B6">6</abbr>
+             </abbrgrp>. The hospitals in this study are core general hospitals in the district and we believe that they are representative among hospitals in developed countries.</p>
+          <p>Third, because fish consumption is higher in Japan than in other countries, one may doubt the applicability of the findings about omega-3 PUFAs from the present study. A high consumption of fish has been reported to be correlated with a lower countrywide prevalence of major depression, according to a study published in 1998 <abbrgrp>
+                <abbr bid="B72">72</abbr>
+             </abbrgrp>. However, the Japanese diet has been changing to a more Western diet similar to countries in other parts of the world. Moreover, we have excluded participants who consume fish as the main course of a meal four or more times per week. Therefore, we believe that our findings can be applied to the other countries.</p>
+          <p>In conclusion, this paper outlines the background and methods of a randomized trial evaluating the promising interventions for maintaining a healthy mental state in hospital nurses.</p>
+          <sec>
+             <st>
+                <p>Trial status</p>
+             </st>
+             <p>The randomized trial is currently in the phase of participant enrolment and follow-up.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Abbreviations</p>
+          </st>
+          <p>BAP: Biological antioxidant potential</p>
+          <p>BSI: Bradford Somatic Inventory</p>
+          <p>CI: confidence interval</p>
+          <p>CRC: Clinical research coordinator</p>
+          <p>DHA: Docosahexaenoic acid</p>
+          <p>DSM: Diagnostic and Statistical Manual of Mental Disorders</p>
+          <p>EPA: Eicosapentaenoic acid</p>
+          <p>EDC: Electronic data capturing</p>
+          <p>EQ-5D: EuroQol</p>
+          <p>GAD-7: Generalized Anxiety Disorder 7-item scale</p>
+          <p>HADS: Hospital Anxiety and Depression Scale</p>
+          <p>ICC: Intraclass correlation coefficient</p>
+          <p>ISI: Insomnia Severity Index</p>
+          <p>ITT: Intention-to-treat</p>
+          <p>MBI: Maslach&#8217;s Burnout Inventory</p>
+          <p>NNT: Number needed to treat</p>
+          <p>OR: Odds ratio</p>
+          <p>PHQ-9: Patient Health Questionnaire</p>
+          <p>PUFA: Polyunsaturated fatty acid</p>
+          <p>PRIME-MD: Primary Care Evaluation of Mental Disorders</p>
+          <p>RCT: Randomized controlled trial</p>
+          <p>d-ROM: Reactive oxygen metabolites-derived compound</p>
+          <p>RBCs: Red blood cell</p>
+          <p>HPQ: World Health Organization Heath and Work Performance Questionnaire</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Competing interests</p>
+          </st>
+          <p>The authors have no conflicts of interests to declare that may be affected by the publication of the manuscript. NW has research funds from the Japanese Ministry of Health Labor and Welfare and the Japanese Ministry of Education, Science, and Technology. He has also received royalties from Sogensha, and speaking fees and research funds from Asahi Kasei, Dai-Nippon Sumitomo, Eli Lilly, GlaxoSmithKline, Janssen, Meiji, MSD, Otsuka and Pfizer. TAF has received lecture fees from Eli Lilly, Meiji, Mochida, MSD, Pfizer and Tanabe-Mitsubishi, and consultancy fees from Sekisui and the Takeda Science Foundation. He is a diplomate of the Academy of Cognitive Therapy. He has received royalties from Igaku-Shoin, Seiwa-Shoten and Nihon Bunka Kagaku-sha. The Japanese Ministry of Education, Science and Technology, the Japanese Ministry of Health, Labor and Welfare and the Japan Foundation for Neuroscience and Mental Health have funded his research projects. MH has research funds from the Japanese Ministry of Health, Labor and Welfare and the Japanese Ministry of Education, Science and Technology. He has received royalties from Igaku Shoin, Shogakukan Shueisha Production, Shindan to Chiryosha, Sogensha, Kangokyokai Shuppan, Kitaoji Shobo and Kongo Shuppan. KH has received research support from an Intramural Research Grant for Neurological and Psychiatric Disorders from the National Center of Neurology and Psychiatry, the Japan Society for the Promotion of Science, the Tamura Foundation for Promotion of Science and Technology and the Ichiro Kanehara Foundation for Promotion of Medical Sciences and Medical Care; consultant fees from Polyene Project, Inc.; scholarship donations from Otsuka Pharmaceutical Co. Ltd and speaking fees from the DHA and EPA Association. YM has received research grants from the Japan Science and Technology Agency; the National Center of Neurology and Psychiatry, Japan; and the Ministry of Health, Labor and Welfare of Japan. He has been a paid speaker for Ono Pharmaceutical Co. Ltd., Mochida Pharmaceutical Co. Ltd., Takeda Pharmaceutical Company Ltd., Suntory Wellness Ltd., Otsuka Pharmaceutical Co. Ltd. and the DHA and EPA Association. All the other authors report no conflicts of interest.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Authors&#8217; contributions</p>
+          </st>
+          <p>All authors contributed to the manuscript as follows: NW obtained funding, conceived of and design the study, acquired data, conducted statistical analyses and drafted the manuscript. TAF contributed to study design, acquisition of data and statistical analyses and critically revised the manuscript for important intellectual content. MH contributed to study design and administrative, technical or material development. FK contributed to study design and administrative, technical or material development. TN contributed to study design and drafting the manuscript, acquired data, and contributed to administrative, technical or material development. MK contributed to study design, acquisition of data and administrative, technical or material development. YO, IS and HN contributed to study design and administrative, technical or material development. KH contributed to study design, acquisition of data, drafting the manuscript, administrative, technical or material development and critical revision of the manuscript for important intellectual content. YM contributed to study design, drafting the manuscript, administrative, technical or material development and critical revision of the manuscript for important intellectual content. All authors have read and approved the final manuscript.</p>
+       </sec>
+    </bdy>
+    <bm>
+       <ack>
+          <sec>
+             <st>
+                <p>Acknowledgements</p>
+             </st>
+             <p>This study was funded by Intramural Research Grant (number: 25&#8211;8) for Neurological and Psychiatric Disorders of National Center of Neurology and Psychiatry, Japan. The funding organizations had no role in the design and conduct of the study, collection, management, analysis and interpretation of the data, and preparation, review or approval of the manuscript.</p>
+             <p>We thank all the collaborators (Miyuki Makino, CP, RN at the National Center of Neurology and Psychiatry, and Masato Usuki, MD, PhD at the National Disaster Medical Center), technical assistant staff (Shizuko Takebe at the University of Toyama), the administrative staff (Mayuko Yamano at the National Center of Neurology and Psychiatry) and the members of the Data Monitoring and Safety Management Committee (Masaki Kato, MD, PhD at Kansai Medical University, Atsuo Nakagawa, MD, PhD at Keio University School of Medicine and Daisuke Nishi, MD, PhD at the National Center of Neurology and Psychiatry). We also thank Shinako Ushijima, RN at the National Center of Neurology and Psychiatry Hospital, Keiko Osada, RN and Masami Harasawa, RN at the National Disaster Medical Center, Miyuki Hatada, RN and Noriko Miyajima, RN at the Tokyo Metropolitan Tama Medical Center and Chieko Kosaka, RN and Masako Tanaka, RN at the Tama-Hokubu Medical Center for their decisions to participate in the study.</p>
+          </sec>
+       </ack>
+       <refgrp>
+          
+          <bibl id="B1">
+             <title>
+                <p>Mental health and stress in the workplace: the case of general practice in the UK</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Calnan</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Wainwright</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Forsythe</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Wall</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Almond</snm>
+                   <fnm>S</fnm>
+                </au>
+             </aug>
+             <source>Soc Sci Med</source>
+             <pubdate>2001</pubdate>
+             <volume>52</volume>
+             <issue>4</issue>
+             <fpage>499</fpage>
+             <lpage>507</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0277-9536(00)00155-6</pubid>
+                   <pubid idtype="pmpid" link="fulltext">11206648</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B2">
+             <title>
+                <p>Occupational stress in nursing: a review of the literature</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Clegg</snm>
+                   <fnm>A</fnm>
+                </au>
+             </aug>
+             <source>J Nurs Manag</source>
+             <pubdate>2001</pubdate>
+             <volume>9</volume>
+             <issue>2</issue>
+             <fpage>101</fpage>
+             <lpage>6</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1046/j.1365-2834.2001.00216.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">11879452</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B3">
+             <title>
+                <p>The factors associated with the burnout syndrome and fatigue in Cypriot nurses: a census report</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Raftopoulos</snm>
+                   <fnm>V</fnm>
+                </au>
+                <au>
+                   <snm>Charalambous</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Talias</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>BMC Public Health.</source>
+             <pubdate>2012</pubdate>
+             <volume>12</volume>
+             <fpage>457</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1186/1471-2458-12-457</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22716044</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B4">
+             <title>
+                <p>Depression in hospital-employed nurses</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Letvak</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Ruhm</snm>
+                   <fnm>CJ</fnm>
+                </au>
+                <au>
+                   <snm>McCoy</snm>
+                   <fnm>T</fnm>
+                </au>
+             </aug>
+             <source>Clin Nurse Spec</source>
+             <pubdate>2012</pubdate>
+             <volume>26</volume>
+             <issue>3</issue>
+             <fpage>177</fpage>
+             <lpage>82</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/NUR.0b013e3182503ef0</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22504476</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B5">
+             <title>
+                <p>Nurses&#8217; presenteeism and its effects on self-reported quality of care and costs</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Letvak</snm>
+                   <fnm>SA</fnm>
+                </au>
+                <au>
+                   <snm>Ruhm</snm>
+                   <fnm>CJ</fnm>
+                </au>
+                <au>
+                   <snm>Gupta</snm>
+                   <fnm>SN</fnm>
+                </au>
+             </aug>
+             <source>Am J Nurs</source>
+             <pubdate>2012</pubdate>
+             <volume>112</volume>
+             <issue>2</issue>
+             <fpage>30</fpage>
+             <lpage>8</lpage>
+             <note>quiz 48, 39</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">22261652</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B6">
+             <title>
+                <p>Organizational climate and nurse health outcomes in the United States: a systematic review</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Gershon</snm>
+                   <fnm>RR</fnm>
+                </au>
+                <au>
+                   <snm>Stone</snm>
+                   <fnm>PW</fnm>
+                </au>
+                <au>
+                   <snm>Zeltser</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Faucett</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>MacDavitt</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Chou</snm>
+                   <fnm>SS</fnm>
+                </au>
+             </aug>
+             <source>Ind Health</source>
+             <pubdate>2007</pubdate>
+             <volume>45</volume>
+             <issue>5</issue>
+             <fpage>622</fpage>
+             <lpage>36</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.2486/indhealth.45.622</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18057805</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B7">
+             <title>
+                <p>Effect of exercise training on depressive symptoms among patients with a chronic illness: a systematic review and meta-analysis of randomized controlled trials</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Herring</snm>
+                   <fnm>MP</fnm>
+                </au>
+                <au>
+                   <snm>Puetz</snm>
+                   <fnm>TW</fnm>
+                </au>
+                <au>
+                   <snm>O&#8217;Connor</snm>
+                   <fnm>PJ</fnm>
+                </au>
+                <au>
+                   <snm>Dishman</snm>
+                   <fnm>RK</fnm>
+                </au>
+             </aug>
+             <source>Arch Intern Med</source>
+             <pubdate>2012</pubdate>
+             <volume>172</volume>
+             <issue>2</issue>
+             <fpage>101</fpage>
+             <lpage>11</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1001/archinternmed.2011.696</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22271118</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B8">
+             <title>
+                <p>Psychosocial interventions for the promotion of mental health and the prevention of depression among older adults</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Forsman</snm>
+                   <fnm>AK</fnm>
+                </au>
+                <au>
+                   <snm>Nordmyr</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Wahlbeck</snm>
+                   <fnm>K</fnm>
+                </au>
+             </aug>
+             <source>Health Promot Int.</source>
+             <pubdate>2011</pubdate>
+             <volume>26</volume>
+             <issue>Suppl 1</issue>
+             <fpage>i85</fpage>
+             <lpage>i107</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/heapro/dar074</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22079938</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B9">
+             <title>
+                <p>Exercise in prevention and treatment of anxiety and depression among children and young people</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Larun</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Nordheim</snm>
+                   <fnm>LV</fnm>
+                </au>
+                <au>
+                   <snm>Ekeland</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Hagen</snm>
+                   <fnm>KB</fnm>
+                </au>
+                <au>
+                   <snm>Heian</snm>
+                   <fnm>F</fnm>
+                </au>
+             </aug>
+             <source>Cochrane Database Syst Rev.</source>
+             <pubdate>2006</pubdate>
+             <volume>3</volume>
+             <fpage>CD004691</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">16856055</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B10">
+             <title>
+                <p>Are omega-3 fatty acids antidepressants or just mood-improving agents? The effect depends upon diagnosis, supplement preparation, and severity of depression</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Lin</snm>
+                   <fnm>PY</fnm>
+                </au>
+                <au>
+                   <snm>Mischoulon</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Freeman</snm>
+                   <fnm>MP</fnm>
+                </au>
+                <au>
+                   <snm>Matsuoka</snm>
+                   <fnm>Y</fnm>
+                </au>
+                <au>
+                   <snm>Hibbeln</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Belmaker</snm>
+                   <fnm>RH</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Mol Psychiatry</source>
+             <pubdate>2012</pubdate>
+             <volume>17</volume>
+             <issue>12</issue>
+             <fpage>1161</fpage>
+             <lpage>3</lpage>
+             <note>author reply 1163&#8211;1167</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1038/mp.2012.111</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22824812</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B11">
+             <title>
+                <p>Omega-3 fatty acids for the treatment of depression: systematic review and meta-analysis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bloch</snm>
+                   <fnm>MH</fnm>
+                </au>
+                <au>
+                   <snm>Hannestad</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>Mol Psychiatry</source>
+             <pubdate>2012</pubdate>
+             <volume>17</volume>
+             <issue>12</issue>
+             <fpage>1272</fpage>
+             <lpage>82</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1038/mp.2011.100</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21931319</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B12">
+             <title>
+                <p>Role of omega-3 fatty acids in the treatment of depressive disorders: a comprehensive meta-analysis of randomized clinical trials</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Grosso</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Pajak</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Marventano</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Castellano</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Galvano</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Bucolo</snm>
+                   <fnm>C</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>PLoS ONE</source>
+             <pubdate>2014</pubdate>
+             <volume>9</volume>
+             <issue>5</issue>
+             <fpage>e96905</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1371/journal.pone.0096905</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24805797</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B13">
+             <title>
+                <p>The Mothers, Omega-3, and Mental Health Study: a double-blind, randomized controlled trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Mozurkewich</snm>
+                   <fnm>EL</fnm>
+                </au>
+                <au>
+                   <snm>Clinton</snm>
+                   <fnm>CM</fnm>
+                </au>
+                <au>
+                   <snm>Chilimigras</snm>
+                   <fnm>JL</fnm>
+                </au>
+                <au>
+                   <snm>Hamilton</snm>
+                   <fnm>SE</fnm>
+                </au>
+                <au>
+                   <snm>Allbaugh</snm>
+                   <fnm>LJ</fnm>
+                </au>
+                <au>
+                   <snm>Berman</snm>
+                   <fnm>DR</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Am J Obstet Gynecol</source>
+             <pubdate>2013</pubdate>
+             <volume>208</volume>
+             <issue>4</issue>
+             <fpage>313</fpage>
+             <note>e1&#8211;9</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">23531328</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B14">
+             <title>
+                <p>Effects of omega-3 supplementation in combination with diet and exercise on weight loss and body composition</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>DeFina</snm>
+                   <fnm>LF</fnm>
+                </au>
+                <au>
+                   <snm>Marcoux</snm>
+                   <fnm>LG</fnm>
+                </au>
+                <au>
+                   <snm>Devers</snm>
+                   <fnm>SM</fnm>
+                </au>
+                <au>
+                   <snm>Cleaver</snm>
+                   <fnm>JP</fnm>
+                </au>
+                <au>
+                   <snm>Willis</snm>
+                   <fnm>BL</fnm>
+                </au>
+             </aug>
+             <source>Am J Clin Nutr</source>
+             <pubdate>2011</pubdate>
+             <volume>93</volume>
+             <issue>2</issue>
+             <fpage>455</fpage>
+             <lpage>62</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.3945/ajcn.110.002741</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21159785</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B15">
+             <title>
+                <p>Omega-3 supplementation lowers inflammation in healthy middle-aged and older adults: a randomized controlled trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kiecolt-Glaser</snm>
+                   <fnm>JK</fnm>
+                </au>
+                <au>
+                   <snm>Belury</snm>
+                   <fnm>MA</fnm>
+                </au>
+                <au>
+                   <snm>Andridge</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Malarkey</snm>
+                   <fnm>WB</fnm>
+                </au>
+                <au>
+                   <snm>Hwang</snm>
+                   <fnm>BS</fnm>
+                </au>
+                <au>
+                   <snm>Glaser</snm>
+                   <fnm>R</fnm>
+                </au>
+             </aug>
+             <source>Brain Behav Immun</source>
+             <pubdate>2012</pubdate>
+             <volume>26</volume>
+             <issue>6</issue>
+             <fpage>988</fpage>
+             <lpage>95</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.bbi.2012.05.011</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22640930</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B16">
+             <title>
+                <p>Evaluation of docosahexaenoic acid deficiency as a preventable risk factor for recurrent affective disorders: current status, future directions, and dietary recommendations</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>McNamara</snm>
+                   <fnm>RK</fnm>
+                </au>
+             </aug>
+             <source>Prostaglandins Leukot Essent Fatty Acids</source>
+             <pubdate>2009</pubdate>
+             <volume>81</volume>
+             <issue>2&#8211;3</issue>
+             <fpage>223</fpage>
+             <lpage>31</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.plefa.2009.05.017</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19515544</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B17">
+             <title>
+                <p>Preventing occupational stress in healthcare workers</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Marine</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Ruotsalainen</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Serra</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Verbeek</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>Cochrane Database Syst Rev.</source>
+             <pubdate>2006</pubdate>
+             <volume>4</volume>
+             <fpage>CD002892</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">17054155</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B18">
+             <title>
+                <p>Meditation programs for psychological stress and well-being: a systematic review and meta-analysis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Goyal</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Singh</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Sibinga</snm>
+                   <fnm>EM</fnm>
+                </au>
+                <au>
+                   <snm>Gould</snm>
+                   <fnm>NF</fnm>
+                </au>
+                <au>
+                   <snm>Rowland-Seymour</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Sharma</snm>
+                   <fnm>R</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>JAMA</source>
+             <pubdate>2014</pubdate>
+             <volume>174</volume>
+             <issue>3</issue>
+             <fpage>357</fpage>
+             <lpage>68</lpage>
+          </bibl>
+          <bibl id="B19">
+             <title>
+                <p>A brief mindfulness-based stress reduction intervention for nurses and nurse aides</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Mackenzie</snm>
+                   <fnm>CS</fnm>
+                </au>
+                <au>
+                   <snm>Poulin</snm>
+                   <fnm>PA</fnm>
+                </au>
+                <au>
+                   <snm>Seidman-Carlson</snm>
+                   <fnm>R</fnm>
+                </au>
+             </aug>
+             <source>Appl Nurs Res</source>
+             <pubdate>2006</pubdate>
+             <volume>19</volume>
+             <issue>2</issue>
+             <fpage>105</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.apnr.2005.08.002</pubid>
+                   <pubid idtype="pmpid" link="fulltext">16728295</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B20">
+             <title>
+                <p>Fish oil for attenuating posttraumatic stress symptoms among rescue workers after the great east Japan earthquake: a randomized controlled trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Nishi</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Koido</snm>
+                   <fnm>Y</fnm>
+                </au>
+                <au>
+                   <snm>Nakaya</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Sone</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Noguchi</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Hamazaki</snm>
+                   <fnm>K</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Psychother Psychosom</source>
+             <pubdate>2012</pubdate>
+             <volume>81</volume>
+             <issue>5</issue>
+             <fpage>315</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1159/000336811</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22854784</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B21">
+             <title>
+                <p>Work-related behaviour and experience patterns of nurses in different professional stages and settings compared to physicians in Germany</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Voltmer</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Wingenfeld</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Spahn</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Driessen</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Schulz</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>Int J Ment Health Nurs</source>
+             <pubdate>2013</pubdate>
+             <volume>22</volume>
+             <issue>2</issue>
+             <fpage>180</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1447-0349.2012.00855.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22713110</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B22">
+             <title>
+                <p>Screening for psychological distress in Japanese cancer patients</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kugaya</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Akechi</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Okuyama</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Okamura</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Uchitomi</snm>
+                   <fnm>Y</fnm>
+                </au>
+             </aug>
+             <source>Jpn J Clin Oncol</source>
+             <pubdate>1998</pubdate>
+             <volume>28</volume>
+             <issue>5</issue>
+             <fpage>333</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/jjco/28.5.333</pubid>
+                   <pubid idtype="pmpid" link="fulltext">9703862</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B23">
+             <title>
+                <p>Validation and utility of a self-report version of PRIME-MD: the PHQ primary care study. Primary Care Evaluation of Mental Disorders. Patient Health Questionnaire</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Spitzer</snm>
+                   <fnm>RL</fnm>
+                </au>
+                <au>
+                   <snm>Kroenke</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Williams</snm>
+                   <fnm>JB</fnm>
+                </au>
+             </aug>
+             <source>JAMA.</source>
+             <pubdate>1999</pubdate>
+             <volume>282</volume>
+             <issue>18</issue>
+             <fpage>1737</fpage>
+             <lpage>44</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1001/jama.282.18.1737</pubid>
+                   <pubid idtype="pmpid" link="fulltext">10568646</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B24">
+             <title>
+                <p>Sequential treatment assignment with balancing for prognostic factors in the controlled clinical trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Pocock</snm>
+                   <fnm>SJ</fnm>
+                </au>
+                <au>
+                   <snm>Simon</snm>
+                   <fnm>R</fnm>
+                </au>
+             </aug>
+             <source>Biometrics</source>
+             <pubdate>1975</pubdate>
+             <volume>31</volume>
+             <issue>1</issue>
+             <fpage>103</fpage>
+             <lpage>15</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.2307/2529712</pubid>
+                   <pubid idtype="pmpid" link="fulltext">1100130</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B25">
+             <title>
+                <p>Mindfulness: a proposed operational definition</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bishop</snm>
+                   <fnm>SR</fnm>
+                </au>
+                <au>
+                   <snm>Lau</snm>
+                   <fnm>MA</fnm>
+                </au>
+                <au>
+                   <snm>Shapiro</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Carlson</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Anderson</snm>
+                   <fnm>ND</fnm>
+                </au>
+                <au>
+                   <snm>Carmody</snm>
+                   <fnm>J</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Clin Psychol Sci Pract</source>
+             <pubdate>2004</pubdate>
+             <volume>11</volume>
+             <issue>3</issue>
+             <fpage>230</fpage>
+             <lpage>41</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/clipsy.bph077</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B26">
+             <aug>
+                <au>
+                   <snm>Beck</snm>
+                   <fnm>JS</fnm>
+                </au>
+             </aug>
+             <source>Cognitive Behavior Therapy, In: Basics and Beyond</source>
+             <publisher>The Guilford Press, New York, NY</publisher>
+             <edition>2</edition>
+             <pubdate>2011</pubdate>
+          </bibl>
+          <bibl id="B27">
+             <title>
+                <p>The effectiveness of a stress coping program based on mindfulness meditation on the stress, anxiety, and depression experienced by nursing students in Korea</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kang</snm>
+                   <fnm>YS</fnm>
+                </au>
+                <au>
+                   <snm>Choi</snm>
+                   <fnm>SY</fnm>
+                </au>
+                <au>
+                   <snm>Ryu</snm>
+                   <fnm>E</fnm>
+                </au>
+             </aug>
+             <source>Nurse Educ Today</source>
+             <pubdate>2009</pubdate>
+             <volume>29</volume>
+             <issue>5</issue>
+             <fpage>538</fpage>
+             <lpage>43</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.nedt.2008.12.003</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19141364</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B28">
+             <title>
+                <p>The clinical use of mindfulness meditation for the self-regulation of chronic pain</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kabat-Zinn</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Lipworth</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Burney</snm>
+                   <fnm>R</fnm>
+                </au>
+             </aug>
+             <source>J Behav Med</source>
+             <pubdate>1985</pubdate>
+             <volume>8</volume>
+             <issue>2</issue>
+             <fpage>163</fpage>
+             <lpage>90</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1007/BF00845519</pubid>
+                   <pubid idtype="pmpid" link="fulltext">3897551</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B29">
+             <note>Selfcare for mental health: hints for awareness. Japanese Ministry of Health, Labour and Welfare. 2010. <url>http://www.mhlw.go.jp/new-info/kobetu/roudou/gyousei/anzen/101004-9.html</url>. Accessed 15 Jan 2015.</note>
+          </bibl>
+          <bibl id="B30">
+             <title>
+                <p>Effect of omega-3 fatty acid-containing phospholipids on blood catecholamine concentrations in healthy volunteers: a randomized, placebo-controlled, double-blind trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hamazaki</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Itomura</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Huan</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Nishizawa</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Sawazaki</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Tanouchi</snm>
+                   <fnm>M</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Nutrition</source>
+             <pubdate>2005</pubdate>
+             <volume>21</volume>
+             <issue>6</issue>
+             <fpage>705</fpage>
+             <lpage>10</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.nut.2004.07.020</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15925295</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B31">
+             <title>
+                <p>A rapid method of total lipid extraction and purification</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bligh</snm>
+                   <fnm>EG</fnm>
+                </au>
+                <au>
+                   <snm>Dyer</snm>
+                   <fnm>WJ</fnm>
+                </au>
+             </aug>
+             <source>Can J Biochem Physiol</source>
+             <pubdate>1959</pubdate>
+             <volume>37</volume>
+             <issue>8</issue>
+             <fpage>911</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1139/o59-099</pubid>
+                   <pubid idtype="pmpid" link="fulltext">13671378</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B32">
+             <title>
+                <p>The hospital anxiety and depression scale</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Zigmond</snm>
+                   <fnm>AS</fnm>
+                </au>
+                <au>
+                   <snm>Snaith</snm>
+                   <fnm>RP</fnm>
+                </au>
+             </aug>
+             <source>Acta Psychiatr Scand</source>
+             <pubdate>1983</pubdate>
+             <volume>67</volume>
+             <issue>6</issue>
+             <fpage>361</fpage>
+             <lpage>70</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1600-0447.1983.tb09716.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">6880820</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B33">
+             <title>
+                <p>International experiences with the Hospital Anxiety and Depression Scale&#8211;a review of validation data and clinical results</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Herrmann</snm>
+                   <fnm>C</fnm>
+                </au>
+             </aug>
+             <source>J Psychosom Res</source>
+             <pubdate>1997</pubdate>
+             <volume>42</volume>
+             <issue>1</issue>
+             <fpage>17</fpage>
+             <lpage>41</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0022-3999(96)00216-4</pubid>
+                   <pubid idtype="pmpid" link="fulltext">9055211</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B34">
+             <title>
+                <p>Depression is more than the sum score of its parts: individual DSM symptoms have different risk factors</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Fried</snm>
+                   <fnm>EI</fnm>
+                </au>
+                <au>
+                   <snm>Nesse</snm>
+                   <fnm>RM</fnm>
+                </au>
+                <au>
+                   <snm>Zivin</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Guille</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Sen</snm>
+                   <fnm>S</fnm>
+                </au>
+             </aug>
+             <source>Psychol Med.</source>
+             <pubdate>2013</pubdate>
+             <volume>1</volume>
+             <fpage>10</fpage>
+          </bibl>
+          <bibl id="B35">
+             <title>
+                <p>Assessing depression in primary care with the PHQ-9: can it be carried out over the telephone?</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Pinto-Meza</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Serrano-Blanco</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Penarrubia</snm>
+                   <fnm>MT</fnm>
+                </au>
+                <au>
+                   <snm>Blanco</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Haro</snm>
+                   <fnm>JM</fnm>
+                </au>
+             </aug>
+             <source>J Gen Intern Med</source>
+             <pubdate>2005</pubdate>
+             <volume>20</volume>
+             <issue>8</issue>
+             <fpage>738</fpage>
+             <lpage>42</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1525-1497.2005.0144.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">16050884</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B36">
+             <title>
+                <p>The patient health questionnaire, Japanese version: validity according to the mini-international neuropsychiatric interview-plus</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Muramatsu</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Miyaoka</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Kamijima</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Muramatsu</snm>
+                   <fnm>Y</fnm>
+                </au>
+                <au>
+                   <snm>Yoshida</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Otsubo</snm>
+                   <fnm>T</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Psychol Rep</source>
+             <pubdate>2007</pubdate>
+             <volume>101</volume>
+             <issue>3 Pt 1</issue>
+             <fpage>952</fpage>
+             <lpage>60</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">18232454</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B37">
+             <title>
+                <p>A brief measure for assessing generalized anxiety disorder: the GAD-7</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Spitzer</snm>
+                   <fnm>RL</fnm>
+                </au>
+                <au>
+                   <snm>Kroenke</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Williams</snm>
+                   <fnm>JB</fnm>
+                </au>
+                <au>
+                   <snm>Lowe</snm>
+                   <fnm>B</fnm>
+                </au>
+             </aug>
+             <source>Arch Intern Med</source>
+             <pubdate>2006</pubdate>
+             <volume>166</volume>
+             <issue>10</issue>
+             <fpage>1092</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1001/archinte.166.10.1092</pubid>
+                   <pubid idtype="pmpid" link="fulltext">16717171</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B38">
+             <title>
+                <p>Does this patient have generalized anxiety or panic disorder?: The Rational Clinical Examination systematic review</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Herr</snm>
+                   <fnm>NR</fnm>
+                </au>
+                <au>
+                   <snm>Williams</snm>
+                   <fnm>JW</fnm>
+                   <suf>Jr</suf>
+                </au>
+                <au>
+                   <snm>Benjamin</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>McDuffie</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>JAMA</source>
+             <pubdate>2014</pubdate>
+             <volume>312</volume>
+             <issue>1</issue>
+             <fpage>78</fpage>
+             <lpage>84</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1001/jama.2014.5950</pubid>
+                   <pubid idtype="pmpid" link="fulltext">25058220</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B39">
+             <title>
+                <p>Examination of the validity and the utility of the Japanese version of the GAD-7</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Muramatsu</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Miyaoka</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Kamijima</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Muramatsu</snm>
+                   <fnm>Y</fnm>
+                </au>
+                <au>
+                   <snm>Fuse</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Yoshimine</snm>
+                   <fnm>F</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Psychosom Med</source>
+             <pubdate>2010</pubdate>
+             <volume>50</volume>
+             <issue>6</issue>
+             <fpage>166</fpage>
+          </bibl>
+          <bibl id="B40">
+             <aug>
+                <au>
+                   <snm>Maslach</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Jackson</snm>
+                   <fnm>SE</fnm>
+                </au>
+                <au>
+                   <snm>Leiter</snm>
+                   <fnm>MP</fnm>
+                </au>
+             </aug>
+             <source>Maslach Burnout Inventory Manual</source>
+             <publisher>Psychologists Press, Palo Alto, CA</publisher>
+             <edition>3</edition>
+             <pubdate>1996</pubdate>
+          </bibl>
+          <bibl id="B41">
+             <title>
+                <p>Factorial validity of the Maslach Burnout Inventory (MBI-HSS) among Spanish professionals</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Gil-Monte</snm>
+                   <fnm>PR</fnm>
+                </au>
+             </aug>
+             <source>Rev Saude Publica</source>
+             <pubdate>2005</pubdate>
+             <volume>39</volume>
+             <issue>1</issue>
+             <fpage>1</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1590/S0034-89102005000100001</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15654454</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B42">
+             <title>
+                <p>Six areas of worklife: a model of the organizational context of burnout</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Leiter</snm>
+                   <fnm>MP</fnm>
+                </au>
+                <au>
+                   <snm>Maslach</snm>
+                   <fnm>C</fnm>
+                </au>
+             </aug>
+             <source>J Health Hum Serv Adm</source>
+             <pubdate>1999</pubdate>
+             <volume>21</volume>
+             <issue>4</issue>
+             <fpage>472</fpage>
+             <lpage>89</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">10621016</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B43">
+             <title>
+                <p>Burnout and interpersonal environment of nurses</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Nishibori</snm>
+                   <fnm>Y</fnm>
+                </au>
+                <au>
+                   <snm>Moroi</snm>
+                   <fnm>K</fnm>
+                </au>
+             </aug>
+             <source>Kango Kenkyuu</source>
+             <pubdate>2000</pubdate>
+             <volume>33</volume>
+             <issue>3</issue>
+             <fpage>71</fpage>
+             <lpage>81</lpage>
+          </bibl>
+          <bibl id="B44">
+             <aug>
+                <au>
+                   <snm>Morin</snm>
+                   <fnm>CM</fnm>
+                </au>
+                <au>
+                   <snm>Espie</snm>
+                   <fnm>CA</fnm>
+                </au>
+             </aug>
+             <source>Insomnia: a clinical guide to assessment and treatment</source>
+             <publisher>Guilford Press, New York</publisher>
+             <pubdate>2004</pubdate>
+          </bibl>
+          <bibl id="B45">
+             <title>
+                <p>Validation of the Insomnia Severity Index as an outcome measure for insomnia research</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bastien</snm>
+                   <fnm>CH</fnm>
+                </au>
+                <au>
+                   <snm>Vallieres</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Morin</snm>
+                   <fnm>CM</fnm>
+                </au>
+             </aug>
+             <source>Sleep Med</source>
+             <pubdate>2001</pubdate>
+             <volume>2</volume>
+             <issue>4</issue>
+             <fpage>297</fpage>
+             <lpage>307</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S1389-9457(00)00065-4</pubid>
+                   <pubid idtype="pmpid" link="fulltext">11438246</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B46">
+             <title>
+                <p>Brief behavioral therapy for refractory insomnia in residual depression: an assessor-blind, randomized controlled trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Watanabe</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Furukawa</snm>
+                   <fnm>TA</fnm>
+                </au>
+                <au>
+                   <snm>Shimodera</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Morokuma</snm>
+                   <fnm>I</fnm>
+                </au>
+                <au>
+                   <snm>Katsuki</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Fujita</snm>
+                   <fnm>H</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>J Clin Psychiatry</source>
+             <pubdate>2011</pubdate>
+             <volume>72</volume>
+             <issue>12</issue>
+             <fpage>1651</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.4088/JCP.10m06130gry</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21457679</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B47">
+             <title>
+                <p>Cognitive behavioral therapy, singly and combined with medication, for persistent insomnia: a randomized controlled trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Morin</snm>
+                   <fnm>CM</fnm>
+                </au>
+                <au>
+                   <snm>Vallieres</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Guay</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Ivers</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Savard</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Merette</snm>
+                   <fnm>C</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>JAMA</source>
+             <pubdate>2009</pubdate>
+             <volume>301</volume>
+             <issue>19</issue>
+             <fpage>2005</fpage>
+             <lpage>15</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1001/jama.2009.682</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19454639</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B48">
+             <title>
+                <p>The Insomnia Severity Index: psychometric indicators to detect insomnia cases and evaluate treatment response</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Morin</snm>
+                   <fnm>CM</fnm>
+                </au>
+                <au>
+                   <snm>Belleville</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Belanger</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Ivers</snm>
+                   <fnm>H</fnm>
+                </au>
+             </aug>
+             <source>Sleep</source>
+             <pubdate>2011</pubdate>
+             <volume>34</volume>
+             <issue>5</issue>
+             <fpage>601</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">21532953</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B49">
+             <title>
+                <p>Development of the Japanese version of the Insomnia Severity Index (ISI-J)</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Munezawa</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Morin</snm>
+                   <fnm>CM</fnm>
+                </au>
+                <au>
+                   <snm>Inoue</snm>
+                   <fnm>Y</fnm>
+                </au>
+                <au>
+                   <snm>Nedate</snm>
+                   <fnm>K</fnm>
+                </au>
+             </aug>
+             <source>Jpn J Psychiatr Treat</source>
+             <pubdate>2009</pubdate>
+             <volume>24</volume>
+             <issue>2</issue>
+             <fpage>219</fpage>
+             <lpage>25</lpage>
+          </bibl>
+          <bibl id="B50">
+             <title>
+                <p>The Bradford Somatic Inventory. A multi-ethnic inventory of somatic symptoms reported by anxious and depressed patients in Britain and the Indo-Pakistan subcontinent</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Mumford</snm>
+                   <fnm>DB</fnm>
+                </au>
+                <au>
+                   <snm>Bavington</snm>
+                   <fnm>JT</fnm>
+                </au>
+                <au>
+                   <snm>Bhatnagar</snm>
+                   <fnm>KS</fnm>
+                </au>
+                <au>
+                   <snm>Hussain</snm>
+                   <fnm>Y</fnm>
+                </au>
+                <au>
+                   <snm>Mirza</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Naraghi</snm>
+                   <fnm>MM</fnm>
+                </au>
+             </aug>
+             <source>Br J Psychiatry</source>
+             <pubdate>1991</pubdate>
+             <volume>158</volume>
+             <fpage>379</fpage>
+             <lpage>86</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1192/bjp.158.3.379</pubid>
+                   <pubid idtype="pmpid" link="fulltext">2036538</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B51">
+             <title>
+                <p>Using the World Health Organization Health and Work Performance Questionnaire (HPQ) to evaluate the indirect workplace costs of illness</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kessler</snm>
+                   <fnm>RC</fnm>
+                </au>
+                <au>
+                   <snm>Ames</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Hymel</snm>
+                   <fnm>PA</fnm>
+                </au>
+                <au>
+                   <snm>Loeppke</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>McKenas</snm>
+                   <fnm>DK</fnm>
+                </au>
+                <au>
+                   <snm>Richling</snm>
+                   <fnm>DE</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>J Occup Environ Med</source>
+             <pubdate>2004</pubdate>
+             <volume>46</volume>
+             <issue>6 Suppl</issue>
+             <fpage>S23</fpage>
+             <lpage>37</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/01.jom.0000126683.75201.c5</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15194893</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B52">
+             <title>
+                <p>The World Mental Health (WMH) survey initiative version of the World Health Organization (WHO) Composite International Diagnostic Interview (CIDI)</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kessler</snm>
+                   <fnm>RC</fnm>
+                </au>
+                <au>
+                   <snm>Ustun</snm>
+                   <fnm>TB</fnm>
+                </au>
+             </aug>
+             <source>Int J Methods Psychiatr Res</source>
+             <pubdate>2004</pubdate>
+             <volume>13</volume>
+             <issue>2</issue>
+             <fpage>93</fpage>
+             <lpage>121</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1002/mpr.168</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15297906</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B53">
+             <title>
+                <p>Twelve-month prevalence, severity, and treatment of common mental disorders in communities in Japan: preliminary finding from the World Mental Health Japan Survey 2002&#8211;2003</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kawakami</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Takeshima</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Ono</snm>
+                   <fnm>Y</fnm>
+                </au>
+                <au>
+                   <snm>Uda</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Hata</snm>
+                   <fnm>Y</fnm>
+                </au>
+                <au>
+                   <snm>Nakane</snm>
+                   <fnm>Y</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Psychiatry Clin Neurosci</source>
+             <pubdate>2005</pubdate>
+             <volume>59</volume>
+             <issue>4</issue>
+             <fpage>441</fpage>
+             <lpage>52</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1440-1819.2005.01397.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">16048450</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B54">
+             <title>
+                <p>Optimal cutoff values of WHO-HPQ presenteeism scores by roc analysis for preventing mental sickness absence in Jjapanese prospective cohort</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Suzuki</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Miyaki</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Sasaki</snm>
+                   <fnm>Y</fnm>
+                </au>
+                <au>
+                   <snm>Song</snm>
+                   <fnm>Y</fnm>
+                </au>
+                <au>
+                   <snm>Tsutsumi</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Kawakami</snm>
+                   <fnm>N</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>PLoS ONE</source>
+             <pubdate>2014</pubdate>
+             <volume>9</volume>
+             <issue>10</issue>
+             <fpage>e111191</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1371/journal.pone.0111191</pubid>
+                   <pubid idtype="pmpid" link="fulltext">25340520</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B55">
+             <title>
+                <p>EuroQol&#8211;a new facility for the measurement of health-related quality of life</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Group</snm>
+                   <fnm>EQ</fnm>
+                </au>
+             </aug>
+             <source>Health Policy</source>
+             <pubdate>1990</pubdate>
+             <volume>16</volume>
+             <issue>3</issue>
+             <fpage>199</fpage>
+             <lpage>208</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/0168-8510(90)90421-9</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B56">
+             <title>
+                <p>The development of the Japanese EuroQol Instrument</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Team</snm>
+                   <fnm>JEQT</fnm>
+                </au>
+             </aug>
+             <source>Med Treat Soc.</source>
+             <pubdate>1998</pubdate>
+             <volume>8</volume>
+             <fpage>109</fpage>
+             <lpage>23</lpage>
+          </bibl>
+          <bibl id="B57">
+             <title>
+                <p>A study of the reliability of health state valuations in the Japanese EuroQol instrument</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hamashima</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Yoshida</snm>
+                   <fnm>K</fnm>
+                </au>
+             </aug>
+             <source>Environ Health Prev Med</source>
+             <pubdate>2001</pubdate>
+             <volume>6</volume>
+             <issue>3</issue>
+             <fpage>189</fpage>
+             <lpage>91</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1007/BF02897969</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21432260</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B58">
+             <title>
+                <p>Role of oxidative stress in atherosclerosis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Harrison</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Griendling</snm>
+                   <fnm>KK</fnm>
+                </au>
+                <au>
+                   <snm>Landmesser</snm>
+                   <fnm>U</fnm>
+                </au>
+                <au>
+                   <snm>Hornig</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Drexler</snm>
+                   <fnm>H</fnm>
+                </au>
+             </aug>
+             <source>Am J Cardiol</source>
+             <pubdate>2003</pubdate>
+             <volume>91</volume>
+             <issue>3A</issue>
+             <fpage>7A</fpage>
+             <lpage>11A</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0002-9149(02)03144-2</pubid>
+                   <pubid idtype="pmpid" link="fulltext">12645638</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B59">
+             <title>
+                <p>Oxidative stress is associated with greater mortality in older women living in the community</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Semba</snm>
+                   <fnm>RD</fnm>
+                </au>
+                <au>
+                   <snm>Ferrucci</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Sun</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Walston</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Varadhan</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Guralnik</snm>
+                   <fnm>JM</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>J Am Geriatr Soc</source>
+             <pubdate>2007</pubdate>
+             <volume>55</volume>
+             <issue>9</issue>
+             <fpage>1421</fpage>
+             <lpage>5</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1532-5415.2007.01308.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">17767685</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B60">
+             <title>
+                <p>Depression and oxidative stress: results from a meta-analysis of observational studies</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Palta</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Samuel</snm>
+                   <fnm>LJ</fnm>
+                </au>
+                <au>
+                   <snm>Miller</snm>
+                   <fnm>ER</fnm>
+                   <suf>3rd</suf>
+                </au>
+                <au>
+                   <snm>Szanton</snm>
+                   <fnm>SL</fnm>
+                </au>
+             </aug>
+             <source>Psychosom Med</source>
+             <pubdate>2014</pubdate>
+             <volume>76</volume>
+             <issue>1</issue>
+             <fpage>12</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/PSY.0000000000000009</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24336428</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B61">
+             <title>
+                <p>A simple test to monitor oxidative stress</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Cesarone</snm>
+                   <fnm>MR</fnm>
+                </au>
+                <au>
+                   <snm>Belcaro</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Carratelli</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Cornelli</snm>
+                   <fnm>U</fnm>
+                </au>
+                <au>
+                   <snm>De Sanctis</snm>
+                   <fnm>MT</fnm>
+                </au>
+                <au>
+                   <snm>Incandela</snm>
+                   <fnm>L</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Int Angiol</source>
+             <pubdate>1999</pubdate>
+             <volume>18</volume>
+             <issue>2</issue>
+             <fpage>127</fpage>
+             <lpage>30</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">10424368</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B62">
+             <title>
+                <p>Derivatives of reactive oxygen metabolites correlates with high-sensitivity C-reactive protein</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kamezaki</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Yamashita</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Kubara</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Suzuki</snm>
+                   <fnm>Y</fnm>
+                </au>
+                <au>
+                   <snm>Tanaka</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Rkouzuma</snm>
+                   <fnm>R</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>J Atheroscler Thromb</source>
+             <pubdate>2008</pubdate>
+             <volume>15</volume>
+             <issue>4</issue>
+             <fpage>206</fpage>
+             <lpage>12</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.5551/jat.E538</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18776704</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B63">
+             <title>
+                <p>Association between serum uric acid, metabolic syndrome, and carotid atherosclerosis in Japanese individuals</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Ishizaka</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Ishizaka</snm>
+                   <fnm>Y</fnm>
+                </au>
+                <au>
+                   <snm>Toda</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Nagai</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Yamakado</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>Arterioscler Thromb Vasc Biol</source>
+             <pubdate>2005</pubdate>
+             <volume>25</volume>
+             <issue>5</issue>
+             <fpage>1038</fpage>
+             <lpage>44</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1161/01.ATV.0000161274.87407.26</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15746438</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B64">
+             <title>
+                <p>Treatment and prevention of depression after surgery for hip fracture in older people: cost-effectiveness analysis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Romeo</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Knapp</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Banerjee</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Morris</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Baldwin</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Tarrier</snm>
+                   <fnm>N</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>J Affect Disord</source>
+             <pubdate>2011</pubdate>
+             <volume>128</volume>
+             <issue>3</issue>
+             <fpage>211</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.jad.2010.07.026</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20696480</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B65">
+             <title>
+                <p>Meta-analysis of the effects of eicosapentaenoic acid (EPA) in clinical trials in depression</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Sublette</snm>
+                   <fnm>ME</fnm>
+                </au>
+                <au>
+                   <snm>Ellis</snm>
+                   <fnm>SP</fnm>
+                </au>
+                <au>
+                   <snm>Geant</snm>
+                   <fnm>AL</fnm>
+                </au>
+                <au>
+                   <snm>Mann</snm>
+                   <fnm>JJ</fnm>
+                </au>
+             </aug>
+             <source>J Clin Psychiatry</source>
+             <pubdate>2011</pubdate>
+             <volume>72</volume>
+             <issue>12</issue>
+             <fpage>1577</fpage>
+             <lpage>84</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.4088/JCP.10m06634</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21939614</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B66">
+             <title>
+                <p>CONSORT 2010 explanation and elaboration: updated guidelines for reporting parallel group randomised trials</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Moher</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Hopewell</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Schulz</snm>
+                   <fnm>KF</fnm>
+                </au>
+                <au>
+                   <snm>Montori</snm>
+                   <fnm>V</fnm>
+                </au>
+                <au>
+                   <snm>Gotzsche</snm>
+                   <fnm>PC</fnm>
+                </au>
+                <au>
+                   <snm>Devereaux</snm>
+                   <fnm>PJ</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Int J Surg</source>
+             <pubdate>2012</pubdate>
+             <volume>10</volume>
+             <issue>1</issue>
+             <fpage>28</fpage>
+             <lpage>55</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.ijsu.2011.10.001</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22036893</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B67">
+             <title>
+                <p>The intention-to-treat principle: how to assess the true effect of choosing a medical treatment</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Detry</snm>
+                   <fnm>MA</fnm>
+                </au>
+                <au>
+                   <snm>Lewis</snm>
+                   <fnm>RJ</fnm>
+                </au>
+             </aug>
+             <source>JAMA</source>
+             <pubdate>2014</pubdate>
+             <volume>312</volume>
+             <issue>1</issue>
+             <fpage>85</fpage>
+             <lpage>6</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1001/jama.2014.7523</pubid>
+                   <pubid idtype="pmpid" link="fulltext">25058221</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B68">
+             <title>
+                <p>Factors associated with shift work disorder in nurses working with rapid-rotation schedules in Japan: the nurses&#8217; sleep health project</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Asaoka</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Aritake</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Komada</snm>
+                   <fnm>Y</fnm>
+                </au>
+                <au>
+                   <snm>Ozaki</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Odagiri</snm>
+                   <fnm>Y</fnm>
+                </au>
+                <au>
+                   <snm>Inoue</snm>
+                   <fnm>S</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Chronobiol Int</source>
+             <pubdate>2013</pubdate>
+             <volume>30</volume>
+             <issue>4</issue>
+             <fpage>628</fpage>
+             <lpage>36</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.3109/07420528.2012.762010</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23445510</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B69">
+             <insg>
+                <ins>
+                   <p>American Academy of Sleep Medicine</p>
+                </ins>
+             </insg>
+             <source>International classification of sleep disorders, revised: diagnostic and coding manual</source>
+             <publisher>American Academy of Sleep Medicine, Westchester, Illinois</publisher>
+             <edition>2</edition>
+             <pubdate>2005</pubdate>
+          </bibl>
+          <bibl id="B70">
+             <title>
+                <p>Psychosocial and organisational work environment of nurse managers and self-reported depressive symptoms: cross-sectional analysis from a cohort of nurse managers</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Nourry</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Luc</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Lefebvre</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Sultan-Taieb</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Bejean</snm>
+                   <fnm>S</fnm>
+                </au>
+             </aug>
+             <source>Int J Occup Med Environ Health.</source>
+             <pubdate>2014</pubdate>
+             <volume>27</volume>
+             <fpage>252</fpage>
+             <lpage>69</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.2478/s13382-014-0264-x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24729300</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B71">
+             <title>
+                <p>Nurse staffing and education and hospital mortality in nine European countries: a retrospective observational study</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Aiken</snm>
+                   <fnm>LH</fnm>
+                </au>
+                <au>
+                   <snm>Sloane</snm>
+                   <fnm>DM</fnm>
+                </au>
+                <au>
+                   <snm>Bruyneel</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Van den Heede</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Griffiths</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Busse</snm>
+                   <fnm>R</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Lancet.</source>
+             <pubdate>2014</pubdate>
+             <volume>383</volume>
+             <fpage>1824</fpage>
+             <lpage>30</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0140-6736(13)62631-8</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24581683</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B72">
+             <title>
+                <p>Fish consumption and major depression</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hibbeln</snm>
+                   <fnm>JR</fnm>
+                </au>
+             </aug>
+             <source>Lancet</source>
+             <pubdate>1998</pubdate>
+             <volume>351</volume>
+             <issue>9110</issue>
+             <fpage>1213</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0140-6736(05)79168-6</pubid>
+                   <pubid idtype="pmpid" link="fulltext">9643729</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+       </refgrp>
+    </bm>
+ </art>

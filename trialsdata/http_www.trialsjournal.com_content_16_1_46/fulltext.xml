@@ -1,0 +1,544 @@
+<?xml version='1.0'?>
+<!DOCTYPE art SYSTEM 'http://www.biomedcentral.com/xml/article.dtd'>
+<art>
+    <ui>s13063-015-0565-9</ui>
+    <ji>1745-6215</ji>
+    <fm>
+       <dochead>Study protocol</dochead>
+       <bibl>
+          <title>
+             <p>Lactose-free milk for infants with acute gastroenteritis in a developing country: study protocol for a randomized controlled trial</p>
+          </title>
+          <aug>
+             <au id="A1" ca="yes">
+                <snm>Nabulsi</snm>
+                <fnm>Mona</fnm>
+                <insr iid="I1"/>
+                <insr iid="I2"/>
+                <email>mn04@aub.edu.lb</email>
+             </au>
+             <au id="A2">
+                <snm>Yazbeck</snm>
+                <fnm>Nadine</fnm>
+                <insr iid="I1"/>
+                <email>ny12@aub.edu.lb</email>
+             </au>
+             <au id="A3">
+                <snm>Charafeddine</snm>
+                <fnm>Fatme</fnm>
+                <insr iid="I1"/>
+                <email>fc07@aub.edu.lb</email>
+             </au>
+          </aug>
+          <insg>
+             <ins id="I1">
+                <p>Department of Pediatrics and Adolescent Medicine, Faculty of Medicine, American University of Beirut, Beirut, Lebanon</p>
+             </ins>
+             <ins id="I2">
+                <p>Department of Pediatrics and Adolescent Medicine, American University of Beirut Medical Center, Beirut, Lebanon</p>
+             </ins>
+          </insg>
+          <source>Trials</source>
+          <issn>1745-6215</issn>
+          <pubdate>2015</pubdate>
+          <volume>16</volume>
+          <issue>1</issue>
+          <fpage>46</fpage>
+          <url>http://www.trialsjournal.com/content/16/1/46</url>
+          <xrefbib>
+             <pubidlist>
+                <pubid idtype="doi">10.1186/s13063-015-0565-9</pubid>
+             </pubidlist>
+          </xrefbib>
+       </bibl>
+       <history>
+          <rec>
+             <date>
+                <day>23</day>
+                <month>10</month>
+                <year>2014</year>
+             </date>
+          </rec>
+          <acc>
+             <date>
+                <day>13</day>
+                <month>1</month>
+                <year>2015</year>
+             </date>
+          </acc>
+          <pub>
+             <date>
+                <day>8</day>
+                <month>2</month>
+                <year>2015</year>
+             </date>
+          </pub>
+       </history>
+       <cpyrt>
+          <year>2015</year>
+          <collab>Nabulsi et al.; licensee BioMed Central.</collab>
+          <note>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/4.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (<url>http://creativecommons.org/publicdomain/zero/1.0/</url>) applies to the data made available in this article, unless otherwise stated.</note>
+       </cpyrt>
+       <kwdg>
+          <kwd>Acute gastroenteritis</kwd>
+          <kwd>Lactose-free milk</kwd>
+          <kwd>Developing world</kwd>
+       </kwdg>
+       <abs>
+          <sec>
+             <st>
+                <p>Abstract</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Background</p>
+                </st>
+                <p>Acute gastroenteritis is a major cause of pediatric morbidity and mortality, accounting for 15% of all childhood deaths worldwide. In developing countries, diarrheal diseases continue to be a major public health burden. Evidence from developed countries suggests that intake of lactose-free milk during diarrheal episodes may reduce the duration of the illness in pediatric inpatients. It is unknown whether lactose-free milk reduces the severity or duration of acute gastroenteritis in infants treated in outpatient settings in developing countries where diarrhea is more severe, and results in higher morbidities and mortalities. We hypothesize that lactose-free milk intake during acute gastroenteritis would significantly decrease the duration and severity of diarrhea in infants presenting to the Emergency Department (ED), as compared with lactose-containing milk.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Methods/Design</p>
+                </st>
+                <p>An open-label randomized clinical trial. Study population: 40 infants with acute gastroenteritis, age between 2 and 12&#160;months, presenting to the ED, will be randomized to control or intervention group. Intervention: Lactose-free milk, whereas the control group will continue on regular infant formula for a total of 7&#160;days. Infants will be followed up for 7&#160;days. Outcome measures: Diarrhea duration, weight loss, illness clinic visits, hospitalization rate, parental satisfaction, and time to symptom resolution. Statistical analysis: Descriptive and regression analysis will be conducted under the intention-to-treat basis by using SPSS version 21.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Discussion</p>
+                </st>
+                <p>Acute gastroenteritis is a public health burden for developing countries, with a significant impact on infant morbidity and mortality. Provision of infant formula that may reduce the duration and severity of diarrhea can decrease this burden in countries with limited healthcare resources, like Lebanon. The findings from this study are anticipated to provide evidence-based dietary recommendations for ambulatory infants with acute diarrhea in developing countries.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Trial registration</p>
+                </st>
+                <p>ClinicalTrials.gov <url>NCT02246010</url>; September 2014.</p>
+             </sec>
+          </sec>
+       </abs>
+    </fm>
+    <bdy>
+       <sec>
+          <st>
+             <p>Background</p>
+          </st>
+          <p>Acute diarrheal illness is a major public health burden worldwide, and more so in developing countries. Diarrhea is the second cause of morbidity and mortality in children younger than 5&#160;years, accounting for around 15% of all childhood death, and leading to more than 1 million deaths each year <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>. The North American Society for Pediatric Gastroenterology, Hepatology, and Nutrition estimates the overall yearly incidence of diarrhea in children younger than 3&#160;years at 1.3 episodes per child <abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp>. The mean incidence rate in developing countries is almost double that reported from industrialized countries and amounts to an average of three episodes per child per year <abbrgrp>
+                <abbr bid="B3">3</abbr>
+             </abbrgrp>. Diarrheal diseases are also a financial burden at the macro- (country) and micro- (family) levels. In the United States, diarrhea leads to 2.1 to 3.7 physician visits per child each year, with an average cost of $289 per episode <abbrgrp>
+                <abbr bid="B4">4</abbr>
+             </abbrgrp>. Moreover, pediatric diarrhea is known to afflict parental well-being, causing major emotional distress and fatigue.</p>
+          <p>Pediatric diarrhea can last for several days, leading to dehydration, electrolyte disturbances, and malnutrition, especially in children younger than5 years. Children who are malnourished, or have impaired immunity are at higher risk of life-threatening complications from diarrhea. The main etiology of acute diarrheal disease in children younger than 5&#160;years is intestinal tract infection caused by a variety of viral, bacterial, or parasitic organisms. Acute infectious diarrhea may cause damage to the lactase-containing epithelial cells present on the tips of the intestinal villi, thus causing lactose malabsorption. The new epithelial cells that replace older ones are usually immature and often lack sufficient lactase activity, which will further exacerbate the lactose malabsorption, with subsequent prolongation of the diarrheal episode.</p>
+          <p>Adequate nutrition and hydration during diarrheal episodes is necessary to avoid dehydration, malnutrition, and weight loss. In a systematic review published in 1994, Brown et al. <abbrgrp>
+                <abbr bid="B5">5</abbr>
+             </abbrgrp> reported clinical improvement after the use of lactose-free milk products in young children with severe dehydration. A recent Cochrane review reported the results of 33 randomized or quasi-randomized trials that assessed the effects of reducing or avoiding lactose in young children (&lt;5&#160;years) with diarrhea on the duration and/or severity of the illness <abbrgrp>
+                <abbr bid="B6">6</abbr>
+             </abbrgrp>. The review concluded that lactose-free products may reduce the duration of the diarrhea by an average of 18&#160;hours (MD, &#8722;17.77; 95% CI, &#8722;25.32 to &#8722;10.21, low-quality evidence) as compared with lactose-containing formula. Also, lactose-free products may reduce treatment failure, such as continued diarrhea or vomiting, continuing weight loss or need for additional rehydration treatment by around a half (RR, 0.52; 95% CI, 0.39 to 0.68, moderate quality evidence). However, all trials were conducted in high- or middle-income countries, and most of them included inpatients only. Hence, a need exists for high-quality trials to be conducted in developing countries where the incidence, severity, and consequences of diarrhea are high, including mortality and malnutrition.</p>
+          <p>In this study, we aim to investigate the effect of lactose-free milk on the duration and severity of diarrhea in infants with acute gastroenteritis in the ambulatory setting (Emergency Department). We anticipate that the findings of this study will add to the evidence base of dietary recommendations for infants with acute diarrhea in developing countries who are treated in ambulatory care.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Methods/Design</p>
+          </st>
+          <sec>
+             <st>
+                <p>Study design</p>
+             </st>
+             <p>A randomized controlled open-label parallel-arm clinical trial to investigate whether lactose-free milk will shorten the duration and lessen the severity of diarrhea in infants with acute gastroenteritis, when compared with lactose-containing milk (Additional file <supplr sid="S1">1</supplr>).</p></sec>
+          <sec>
+             <st>
+                <p>Study population</p>
+             </st>
+             <p>Infants who are fed artificial milk formula (2 to 12&#160;months of age) with acute diarrhea, first seen in the emergency department (ED).</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Recruiting process</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Inclusion and exclusion criteria</p>
+                </st>
+                <p>Eligible infants are those who are between 2 and 12&#160;months of age, fed artificial milk formula, and who present to the ED of the American University of Beirut Medical Center with acute gastroenteritis. Diarrhea is defined as the passage of three or more loose or liquid stools in 24&#160;hours, for at least 24&#160;hours, and not exceeding 2&#160;weeks from presentation, with or without fever, vomiting, mucus, or blood per stools.</p>
+                <p>Infants with any of the following conditions will be excluded: any breastfeeding, sepsis, chronic diarrhea, severe dehydration, inflammatory bowel disease, cow&#8217;s milk allergy, necrotizing enterocolitis, intussusception, volvulus, current intake of lactose-free milk, celiac disease, immune deficiency, chronic disease, malnutrition, or need of immediate hospitalization.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Randomization</p>
+                </st>
+                <p>Eligible infants will be randomly allocated to one of two parallel groups (experimental and control, 1:1 ratio), by using a computer-generated stratified block randomization. Stratification will be done by age groups: &lt;6&#160;months versus &#8805;6&#160;months, with block sizes varying between 4 and 8. The random sequence will be generated by an independent biostatistician. Allocation concealment will be done to ensure that group assignments of the participants are revealed only after assessing that the inclusion/exclusion criteria are verified and consent obtained. This will avoid any bias that might be introduced by the investigator because of the knowledge of the allocation of the next subject. A set of sequentially numbered opaque sealed envelopes will be prepared with the allocation group, as per the randomization list, specified inside.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Description of the intervention</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Control group</p>
+                </st>
+                <p>Except for dietary instructions, subjects in the control group will receive standard medical care, including rehydration with oral rehydrating solutions, as per their physicians&#8217; recommendations. The dietary instructions will be provided to the family by the research team and will consist of the infant&#8217;s regular lactose-containing milk, in addition to the hospital&#8217;s antidiarrhea diet usually prescribed to patients with acute diarrhea, and which is composed of potatoes, rice, lean meat or chicken, apples, bananas, and yogurt. Any additional treatment by the primary physician including dietary change (whether milk or solid foods) will be respected. If an infant in the control group does not improve on the lactose-containing milk, it will be up to his primary physician to decide on the next step, including switching to lactose-free milk. The infant will continue to be in the study and will be included in the intent-to-treat analysis. All dietary changes or medication intake during the study period will be recorded as part of data collection.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Intervention group</p>
+                </st>
+                <p>Infants in the experimental group will receive standard medical care, including rehydration with oral rehydrating solutions, as per their physicians&#8217; recommendations. The dietary instructions will be provided to the family by the research team and will consist of the same antidiarrhea diet prescribed to the control group, as previously described, in addition to lactose-free milk (Similac LF). Any additional treatment by the primary physician, including dietary change (whether milk or solid foods), will be respected. If a baby in the intervention group does not improve on the lactose-free milk, it will be up to his primary physician to decide on the next step, including switching to any other lactose-free or lactose-containing milk.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Outcome measures</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Main outcome measure</p>
+                </st>
+                <p>The primary outcome is the difference in diarrhea duration between the intervention and control groups, defined as the number of days with loose or liquid stools, from randomization until the day of the last diarrheic stool passed.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Secondary outcome measures</p>
+                </st>
+                <p>Differences between the two groups with respect to the following:</p><p>1. Percentage weight loss from baseline.</p>
+                   <p>2. Proportion of infants with a return physician visit because of diarrhea within 7&#160;days from baseline.</p>
+                   <p>3. Proportion of infants hospitalized within 7&#160;days from baseline for any cause.</p>
+                   <p>4. Parental satisfaction.</p>
+                   <p>5. Severity of symptoms: stool quantity and quality, colic, lethargy, use of analgesic or antispasmodic.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Recruitment</p>
+             </st>
+             <p>A trained research assistant will be present in the ED all day during regular working hours to identify eligible subjects. Parents of eligible infants will be approached and informed about the study, and details and procedure of the study will be explained to the family. If inclusion criteria are met, a written informed consent will be obtained from parents willing to enroll their infant in the study.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Data collection</p>
+             </st>
+             <p>1. 
+                            <it>Baseline:</it>                            </p><p>a. Obtain parental consent</p>
+                   <p>b. Provide parent with dietary instructions, both verbal and written</p>
+                   <p>c. Provide parent with milk formula as per treatment allocation</p>
+                   <p>d. Provide parent with diary for data collection at home (see Additional file <supplr sid="S2">2</supplr>)</p>
+                   <p>e. Collect baseline data: Age, gender, number of siblings, exposure to sick contact, day-care attendance, maternal level of education, maternal employment, maternal age, monthly income, smoking status at home, infant&#8217;s diet (formula brand, other dairy intake, oral rehydrating solution, antibiotic intake, vitamin/mineral intake, immunization status against Rota////virus, laboratory test results (if requested by ED physician, including blood, urine, or stool), number of stools per day, number of days with diarrhea, vomiting (number, duration), days with fever, analgesic intake, antispasmodic intake, history of previous breastfeeding, duration of breastfeeding, use of probiotics, initial diagnosis, physical examination findings.</p>
+                <p>2. Day 1 (after 24&#160;hours): Telephone call to collect information on admission to hospital (Yes/No), return visit to doctor (Yes/No), and compliance with dietary instructions; reminder to fill diary.</p>
+                <p>3. 
+                            <it>Day 3:</it> Telephone call to collect information on admission to hospital (Yes/No), return visit to doctor (Yes/No), and compliance with dietary instructions; reminder to fill diary.</p>
+                <p>4. 
+                            <it>Days 5 and 6:</it> Reminders to fill diary.</p>
+                <p>5. 
+                            <it>Day 7:</it> Visit to research team at AUBMC to collect information on admission to hospital (Yes/No), return visit to doctor (Yes/No), parental satisfaction, drug intake, final diagnosis; obtain infant&#8217;s weight on the same scale previously used at baseline; collect diary from parent, collect empty formula cans to check on compliance; pay transportation fees (See Figure&#160;<figr fid="F1">1</figr>).
+                          </p>
+                
+                   <fig id="F1">
+                      <title>
+                         <p>Figure 1</p>
+                      </title>
+                      <caption>
+                         <p>A flow diagram of study participants. </p>
+                      </caption>
+                      <text>
+                         <p> 
+                                    <b>A flow diagram of study participants.</b>                                  
+                         </p>
+                      </text>
+                      <graphic file="s13063-015-0565-9-1"/>
+                   </fig>
+                
+          </sec>
+          <sec>
+             <st>
+                <p>Data management and quality assurance</p>
+             </st>
+             <p>The research assistant (RA) will be trained on how to approach parents, contact them for follow-up by phone (by using a pre-paid phone card), and collect data during the 1-week follow-up. Training will entail familiarizing him or her with all necessary documentation, including enrollment and consent forms, and consenting in accordance with the ethical principles of informed consent. Instructions and demonstrations on how to explain the dietary instructions and fill the diary card will also be done. The RA will send daily reminders to parents to fill the diary by using email, telephone messages, or communication through social media.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Sample size</p>
+             </st>
+             <p>We hypothesize that the lactose-free milk will shorten the diarrhea duration by an average of 24&#8201;&#177;&#8201;16&#160;hours <abbrgrp>
+                   <abbr bid="B6">6</abbr>
+                </abbrgrp>, as compared with lactose-containing milk. To detect this difference between the two groups with 90% power and 5% type I error, 12 infants will be needed in each arm (24 infants in total). We anticipate that 30% to 40% of infants that will be recruited will either withdraw or will be lost to follow-up from previous research experience. Hence, to allow for a loss-to-follow up rate of 35%, we will inflate the sample size to become 40 infants.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Statistical methods</p>
+             </st>
+             <p>We will compare continuous variables (duration of diarrhea, percentage weight loss, age) by using the Student <it>t</it> test, and categoric variables (proportions, categories of severity) by using a &#967;<sup>2</sup> test. Nonparametric tests will be used to analyze variables with skewed distribution or when the number of analyzed subjects is fewer than 30. Baseline characteristics of both groups will be compared to assure similarity of groups at study entry, and to identify clinically significant imbalance of any variable that needs adjustment during analysis. Risk ratios will be calculated for the outcomes of hospital admission and return physician visit. Results will be reported as means or medians when appropriate, intervals will be calculated. To assess the severity of diarrhea, we will evaluate the stool quantity and quality from the parental responses to the questions in the diary. For the quantity evaluation, we will consider passage of three to four stools per day as consistent with mild diarrhea, five to seven stools per day as consistent with moderate diarrhea, and eight or more stools per day as consistent with severe diarrhea.</p>
+             <p>For the quality evaluation, the responses will be assigned points ranging from a minimum of zero to a maximum of 6. A cumulative score will be created for the stool-quality assessment, which is the sum of points to all responses, ranging from zero to 14. We will consider that an overall qualitative score of 0 to 4 is consistent with mild diarrhea, 5 to 8 as consistent with moderate diarrhea, and a score of &#8805;9 as consistent with severe diarrhea. The main analysis will be based on the intention-to-treat principle. In addition, we will conduct per-protocol analyses for primary and secondary outcomes. The Statistical Package for Social Sciences (SPSS) version 21 will be used for data management and analyses. A <it>P</it> value of &lt;0.05 will indicate statistical significance.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Ethical approval</p>
+             </st>
+             <p>The study is approved by the Internal Review Board of the American University of Beirut. Written informed consent will be obtained from the parents. Because the study involves comparison of two types of milk formula, we estimate that the risks to infants from participating in this study are negligible, not exceeding those of current standard practice. Confidentiality of participants will be secured by storing data sheets in locked cabinets in the principal investigator&#8217;s office. Access to SPSS data file will be password-protected and restricted to the principal investigator.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Discussion</p>
+          </st>
+          <p>This study aims at investigating whether lactose-free milk, when compared with lactose-containing milk, will shorten the duration and lessen the severity of diarrhea in infants with gastroenteritis who are treated in the ambulatory setting (ED) of a hospital in a developing country. The World Health Organization (WHO) estimates that 1.5 million children under the age of 5&#160;years die each year of diarrhea; half of those are from the developing world <abbrgrp>
+                <abbr bid="B7">7</abbr>
+             </abbrgrp>. Exclusive breastfeeding for the first 6&#160;months of life is one cost-effective intervention that reduces the risk of infant death of diarrhea. Unfortunately, fewer than 40% of infants younger than6 months in developing countries are exclusively breastfed <abbrgrp>
+                <abbr bid="B8">8</abbr>
+             </abbrgrp>. The lack of studies from the developing world investigating the effectiveness of lactose-free milk in reducing the duration or severity of infant diarrhea underscores the need for high-quality trials that can address this knowledge gap. Hence, this study may provide much-needed evidence regarding the dietary recommendations of formula-fed infants with acute gastroenteritis.</p>
+          <p>The study may have some limitations. The first limitation is the sampling frame, which is the ED of one hospital in an urban setting, from which a convenience sample of infants is recruited. It can be argued that infants living in rural areas may have a much more severe illness and may respond differently to the lactose-free milk. However, AUBMC is a major referral center for all the country, with patients seen in its ED from different urban and rural areas.</p>
+          <p>Another limitation is the small sample size. This is because the standard error used to calculate the sample size is relatively large (16&#160;hours) in comparison with the estimated effect size (24&#160;hours). Nevertheless, the effect size and its standard error were those reported by the most recent Cochrane Review about the subject.</p>
+          <p>The third limitation is the open-label design, which is due to the difficulty in concealing the milk containers in our setting, and to the fact that it is very likely that parents will decline participation in a trial in which they cannot know the name of the milk brand their infant will take. Despite these limitations, we anticipate that lactose-free milk, if proven effective, will have a significant impact on the morbidity of formula-fed infants with acute gastroenteritis in developing countries.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Trial status</p>
+          </st>
+          <p>Recruiting as of November 1, 2014.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Abbreviations</p>
+          </st>
+          <p>AUBMC: American University of Beirut Medical Center</p>
+          <p>ED: emergency department</p>
+          <p>SSPS: Statistical Package for Social Sciences</p>
+          <p>WHO: World Health Organization</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Competing interests</p>
+          </st>
+          <p>The authors declare that they have no competing interests.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Authors&#8217; contributions</p>
+          </st>
+          <p>MN was responsible for the conception and design of the study, questionnaires, and data-collection instruments, wrote the first and final versions of the protocol, and applied and received grant for the study. NY was responsible for the conception and design of the study and questionnaires, and participated in the writing of the initial and final protocol versions. FC participated in study design and writing of the first version of the protocol. All authors read and approved the final manuscript.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Additional files</p>
+          </st>
+          <suppl id="S1">
+             <title>
+                <p>Additional file 1:</p>
+             </title>
+             <text>
+                <p>
+                              <b>SPIRIT Checklist. NA: Not applicable.</b>                            
+                </p>
+             </text>
+             <file name="s13063-015-0565-9-S1.doc">
+                <p>Click here for file</p>
+             </file>
+          </suppl>
+          <suppl id="S2">
+             <title>
+                <p>Additional file 2:</p>
+             </title>
+             <text>
+                <p>
+                              <b>Parental diary for the diarrhea study.</b>                            
+                </p>
+             </text>
+             <file name="s13063-015-0565-9-S2.docx">
+                <p>Click here for file</p>
+             </file>
+          </suppl>
+          
+       </sec>
+    </bdy>
+    <bm>
+       <ack>
+          <sec>
+             <st>
+                <p>Acknowledgements</p>
+             </st>
+             <p>This study is funded by the University Research Board and the Medical Practice Plan of the American University of Beirut.</p>
+             <p>We are grateful to Dr. Lilian Ghandour for her valuable input on the diarrhea questionnaires.</p>
+          </sec>
+       </ack>
+       <refgrp>
+          
+          <bibl id="B1">
+             <title>
+                <p>Global, regional, and national causes of child mortality in 2008: a systematic analysis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Black</snm>
+                   <fnm>RE</fnm>
+                </au>
+                <au>
+                   <snm>Cousins</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Johnson</snm>
+                   <fnm>HL</fnm>
+                </au>
+                <au>
+                   <snm>Lawn</snm>
+                   <fnm>JE</fnm>
+                </au>
+                <au>
+                   <snm>Rudman</snm>
+                   <fnm>I</fnm>
+                </au>
+                <au>
+                   <snm>Bassani</snm>
+                   <fnm>DG</fnm>
+                </au>
+             </aug>
+             <source>Lancet</source>
+             <pubdate>2010</pubdate>
+             <volume>375</volume>
+             <issue>9730</issue>
+             <fpage>1969</fpage>
+             <lpage>87</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0140-6736(10)60549-1</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20466419</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B2">
+             <insg>
+                <ins>
+                   <p>North American Society for Pediatric Gastroenterology, Hepatology and Nutrition (NASPGHAN)</p>
+                </ins>
+             </insg>
+             <source>Acute Diarrhea in Children</source>
+             <publisher>NASPGHAN, Flourtown, PA</publisher>
+             <pubdate>2007</pubdate>
+          </bibl>
+          <bibl id="B3">
+             <note>World Health Organization. Fact Sheet Number 330. 2013.</note>
+          </bibl>
+          <bibl id="B4">
+             <title>
+                <p>Costs associated with office visits for diarrhea in infants and toddlers</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Avenda&#241;o</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Matson</snm>
+                   <fnm>DO</fnm>
+                </au>
+                <au>
+                   <snm>Long</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Whitney</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Matson</snm>
+                   <fnm>CC</fnm>
+                </au>
+                <au>
+                   <snm>Pickering</snm>
+                   <fnm>LK</fnm>
+                </au>
+             </aug>
+             <source>Pediatr Infect Dis J.</source>
+             <pubdate>1993</pubdate>
+             <volume>12</volume>
+             <fpage>897</fpage>
+             <lpage>902</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/00006454-199311000-00001</pubid>
+                   <pubid idtype="pmpid" link="fulltext">8265277</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B5">
+             <title>
+                <p>Use of nonhuman milks in the dietary management of young children with acute diarrhea: a meta-analysis of clinical trials</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Brown</snm>
+                   <fnm>KH</fnm>
+                </au>
+                <au>
+                   <snm>Peerson</snm>
+                   <fnm>JM</fnm>
+                </au>
+                <au>
+                   <snm>Fontaine</snm>
+                   <fnm>O</fnm>
+                </au>
+             </aug>
+             <source>Pediatrics</source>
+             <pubdate>1994</pubdate>
+             <volume>93</volume>
+             <issue>1</issue>
+             <fpage>17</fpage>
+             <lpage>27</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">8265318</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B6">
+             <title>
+                <p>Lactose avoidance for young children with acute diarrhea</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Macgillivray</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Fahey</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>McGuire</snm>
+                   <fnm>W</fnm>
+                </au>
+             </aug>
+             <source>Cochrane Database Syst Rev.</source>
+             <pubdate>2013</pubdate>
+             <volume>10</volume>
+             <fpage>CD005433</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">24173771</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B7">
+             <insg>
+                <ins>
+                   <p>UNICEF and WHO</p>
+                </ins>
+             </insg>
+             <source>Diarrhea: Why children are still dying and what can be done</source>
+             <publisher>UNICEF, New York</publisher>
+             <pubdate>2009</pubdate>
+          </bibl>
+          <bibl id="B8">
+             <insg>
+                <ins>
+                   <p>UNICEF</p>
+                </ins>
+             </insg>
+             <source>Pneumonia and diarrhea: tackling the deadliest diseases for the world&#8217;s poorest children</source>
+             <publisher>UNICEF, New York</publisher>
+             <pubdate>2012</pubdate>
+          </bibl>
+       </refgrp>
+    </bm>
+ </art>

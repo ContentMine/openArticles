@@ -1,0 +1,989 @@
+<?xml version='1.0'?>
+<!DOCTYPE art SYSTEM 'http://www.biomedcentral.com/xml/article.dtd'>
+<art>
+    <ui>s13063-015-0559-7</ui>
+    <ji>1745-6215</ji>
+    <fm>
+       <dochead>Study protocol</dochead>
+       <bibl>
+          <title>
+             <p>Effect of a diuretic adjustment algorithm and nonpharmacologic management in patients with heart failure: study protocol for a randomized controlled trial</p>
+          </title>
+          <aug>
+             <au id="A1">
+                <snm>Feij&#243;</snm>
+                <mnm>Karolina Echer Ferreira</mnm>
+                <fnm>Maria</fnm>
+                <insr iid="I1"/>
+                <email>mariakarolinafeijo@gmail.com</email>
+             </au>
+             <au id="A2">
+                <snm>Biolo</snm>
+                <fnm>Andreia</fnm>
+                <insr iid="I2"/>
+                <insr iid="I3"/>
+                <email>biolo.andreia@gmail.com</email>
+             </au>
+             <au id="A3">
+                <snm>Ruschel</snm>
+                <mnm>Brasil</mnm>
+                <fnm>Karen</fnm>
+                <insr iid="I3"/>
+                <email>karenbruschel@gmail.com</email>
+             </au>
+             <au id="A4">
+                <snm>Orlandin</snm>
+                <fnm>Let&#237;cia</fnm>
+                <insr iid="I2"/>
+                <insr iid="I3"/>
+                <email>leorlandin@gmail.com</email>
+             </au>
+             <au id="A5">
+                <snm>Aliti</snm>
+                <mnm>Badin</mnm>
+                <fnm>Graziella</fnm>
+                <insr iid="I1"/>
+                <insr iid="I2"/>
+                <insr iid="I3"/>
+                <email>grazialiti@gmail.com</email>
+             </au>
+             <au id="A6" ca="yes">
+                <snm>Rabelo-Silva</snm>
+                <mnm>Rejane</mnm>
+                <fnm>Eneida</fnm>
+                <insr iid="I1"/>
+                <insr iid="I2"/>
+                <insr iid="I3"/>
+                <email>eneidarabelo@gmail.com</email>
+             </au>
+          </aug>
+          <insg>
+             <ins id="I1">
+                <p>School of Nursing, Graduate Program Federal University of Rio Grande do Sul, S&#227;o Manoel, 963 - Rio Branco, Porto Alegre 90620-110, RS, Brazil</p>
+             </ins>
+             <ins id="I2">
+                <p>Heart Failure and Transplant Group, Cardiovascular Division, Hospital de Cl&#237;nicas de Porto Alegre, Porto Alegre, Brazil</p>
+             </ins>
+             <ins id="I3">
+                <p>Graduate Program in Health Sciences: Cardiology and Cardiovascular Sciences, Federal University of Rio Grande do Sul, Porto Alegre, Brazil</p>
+             </ins>
+          </insg>
+          <source>Trials</source>
+          <issn>1745-6215</issn>
+          <pubdate>2015</pubdate>
+          <volume>16</volume>
+          <issue>1</issue>
+          <fpage>44</fpage>
+          <url>http://www.trialsjournal.com/content/16/1/44</url>
+          <xrefbib>
+             <pubidlist>
+                <pubid idtype="doi">10.1186/s13063-015-0559-7</pubid>
+             </pubidlist>
+          </xrefbib>
+       </bibl>
+       <history>
+          <rec>
+             <date>
+                <day>7</day>
+                <month>7</month>
+                <year>2014</year>
+             </date>
+          </rec>
+          <acc>
+             <date>
+                <day>8</day>
+                <month>1</month>
+                <year>2015</year>
+             </date>
+          </acc>
+          <pub>
+             <date>
+                <day>8</day>
+                <month>2</month>
+                <year>2015</year>
+             </date>
+          </pub>
+       </history>
+       <cpyrt>
+          <year>2015</year>
+          <collab>Feij&#243; et al.; licensee BioMed Central.</collab>
+          <note>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/4.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (<url>http://creativecommons.org/publicdomain/zero/1.0/</url>) applies to the data made available in this article, unless otherwise stated.</note>
+       </cpyrt>
+       <kwdg>
+          <kwd>Heart failure</kwd>
+          <kwd>Algorithms</kwd>
+          <kwd>Randomized controlled trial</kwd>
+          <kwd>Diuretics</kwd>
+          <kwd>Patient readmission clinical evolution</kwd>
+       </kwdg>
+       <abs>
+          <sec>
+             <st>
+                <p>Abstract</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Background</p>
+                </st>
+                <p>One of the challenges in treating patients with heart failure (HF) is achieving clinical stability and reducing the hospital readmission rate. A diuretic dose adjustment algorithm developed in the United States (Diuretic Treatment Algorithm, DTA) and later validated for use in Brazil (as the Algoritmo de Ajuste de Diur&#233;tico, AAD) has proved feasible and readily applicable, but its effect on clinical outcomes has yet to be assessed. This report aims to describe a randomized clinical trial protocol designed to assess the effectiveness of the AAD and of nonpharmacologic management in improving clinical stability and reducing the readmission rate at 90 days in patients with HF.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Methods/Design</p>
+                </st>
+                <p>A PROBE (prospective randomized open blinded endpoint) parallel-group design will be used. Adult patients with a diagnosis of reduced ejection fraction HF, who are being treated at a specialized HF clinic are being recruited. Those with indications for loop diuretic dose adjustment during routine clinic visits will be randomized to take part in the trial. Participants in the intervention group (IG) shall have their diuretic doses adjusted in accordance with the AAD and receive four telephone calls (one per week) over 30 days to reinforce guidance on nonpharmacological management (fluid and sodium restriction). Participants in the control group (CG) shall have their diuretic doses adjusted by a physician during the first trial visit and shall not receive any telephone calls. Patients in both groups shall return at 1 month for face-to-face reassessment. The study endpoints shall comprise readmission and/or emergency department visits due to HF decompensation within 90 days and clinical instability. All participants shall be required to have a scale at home (or easy access to one), a telephone number, agree to telephone-based follow-up, and be available to return for a 1-month trial visit. Overall, 135 patients are expected to be enrolled in each group.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Discussion</p>
+                </st>
+                <p>This trial shall assess the effectiveness of the AAD algorithm and non-pharmacologic management by early identification of clinical deterioration and establishment of a combined intervention to reduce emergency department visits, readmission rate, or a composite endpoint thereof.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Trial registration number</p>
+                </st>
+                <p>ClinicalTrials.gov Identifier, <url>NCT02068937</url> (23 February 2014).</p>
+             </sec>
+          </sec>
+       </abs>
+    </fm>
+    <bdy>
+       <sec>
+          <st>
+             <p>Background</p>
+          </st>
+          <p>Heart failure (HF) is a highly prevalent clinical syndrome. In the United States alone, more than 5 million people have HF and more than 550,000 new cases are diagnosed each year. Complex issues involving physiological, psychological, social, and medical care make management of HF a challenge <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp>. Over the last years, the annual number of hospitalizations with HF as a primary cause increased from 800,000 to over 1 million, and that of hospitalizations with HF as a secondary diagnosis, from 2.4 million to 3.6 million <abbrgrp>
+                <abbr bid="B3">3</abbr>
+             </abbrgrp>. Approximately 50% of these patients are readmitted to hospital within 6 months of discharge, and 70% of these readmissions are associated with deterioration of HF <abbrgrp>
+                <abbr bid="B4">4</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B5">5</abbr>
+             </abbrgrp>. The prevention of HF-related readmission has been the focus of several studies, and efforts are being made to reduce this rate to the 20% range <abbrgrp>
+                <abbr bid="B6">6</abbr>
+             </abbrgrp>.</p>
+          <p>There is a consensus in the literature that HF-related readmissions are prompted mainly by clinical decompensation due to congestive processes. The main manifestations of this decompensation are dyspnea, fatigue, lower extremity edema, paroxysmal nocturnal dyspnea, orthopnea, and jugular venous distension <abbrgrp>
+                <abbr bid="B7">7</abbr>
+             </abbrgrp>. These signs and symptoms of decompensation are readily recognizable in a variety of settings, which enables rapid intervention by healthcare professionals. Several different care processes have the potential to reduce HF-related readmission rates, including comprehensive educational intervention during hospital admissions, medication reconciliation, support from the nursing team after hospital discharge, disease management, and improvement of communication between patients and providers <abbrgrp>
+                <abbr bid="B8">8</abbr>
+             </abbrgrp>. One strategy that has been used as an adjuvant to conventional treatment is telemonitoring. This strategy, which has proven cost-effectiveness and can be implemented in different settings <abbrgrp>
+                <abbr bid="B9">9</abbr>
+             </abbrgrp>, enables early identification of clinical deterioration and prompt intervention, and has been demonstrated to reduce the risk of hospitalization for decompensated HF and reduce all-cause mortality <abbrgrp>
+                <abbr bid="B10">10</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B12">12</abbr>
+             </abbrgrp>.</p>
+          <p>Within this context, United States (U.S.) researchers developed an algorithm for over-the-phone adjustment of diuretic doses, with a focus on pharmacological and nonpharmacological assessment and home-based management of patients with HF. The Diuretic Treatment Algorithm (DTA) was demonstrated to be effective in preventing HF decompensation, significantly reducing 30-day readmission rates and decreasing HF-related hospitalizations by 50% <abbrgrp>
+                <abbr bid="B13">13</abbr>
+             </abbrgrp>. The DTA was later translated and adapted for use in Brazil as the Algoritmo de Ajuste de Diur&#233;tico (Diuretic Adjustment Algorithm, AAD) and validated in an outpatient sample <abbrgrp>
+                <abbr bid="B14">14</abbr>
+             </abbrgrp>. The results of that study demonstrated the feasibility and applicability of the AAD in the Brazilian healthcare reality. However, the effects of use of this algorithm on clinical outcomes have yet to be tested.</p>
+          <p>The present report aims to describe a randomized clinical trial (RCT) protocol designed to assess the effectiveness of the AAD and of nonpharmacologic management in improving clinical stability and reducing the 90-day readmission rate in patients with HF.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Methods/Design</p>
+          </st>
+          <sec>
+             <st>
+                <p>Study design</p>
+             </st>
+             <p>A PROBE (prospective randomized open blinded endpoint) parallel-group design shall be employed, with patients recruited from the specialty HF clinic of Hospital de Cl&#237;nicas de Porto Alegre (HCPA), a university-affiliated hospital in Porto Alegre, Rio Grande do Sul, Brazil. Clinical assessment shall take place at the HCPA Clinical Research Center.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Inclusion and exclusion criteria</p>
+             </st>
+             <p>Adult patients with a diagnosis of reduced ejection fraction HF who are being treated at a specialized HF clinic are being selected. The diagnosis of HF is established by clinical history (signs and symptoms), echocardiographic findings (left ventricular ejection fraction &lt;45%) <abbrgrp>
+                   <abbr bid="B15">15</abbr>
+                </abbrgrp> and medical records confirming management at the HF clinic. Patients are required to have a medical indication for adjustment of loop diuretic (furosemide) dose during a clinic visit, have a scale at home or ready access to one, have a telephone number for follow-up contact, agree to receive such follow-up and be available to return to the hospital for a 1-month reassessment visit. The exclusion criteria are communication barriers or physical impairments that preclude body weight monitoring, degenerative neurological conditions, waitlist status for cardiac transplantation, scheduled surgery and chronic kidney disease requiring renal replacement therapy.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Ethical considerations</p>
+             </st>
+             <p>All participants will read and sign an informed consent form before entering the study. The study protocol was approved by the HCPA Institutional Review Board (protocol number 10-0376) and will be conducted in accordance with the principles of the Declaration of Helsinki and in compliance with the Brazilian legal and regulatory framework for research involving human subjects.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Heart Failure Clinic and team approach</p>
+             </st>
+             <p>The trial HF clinic is staffed by a multidisciplinary team of cardiologists, nurses, and dietitians. On average, 200 patients per month are seen at the clinic, with a focus on promoting adherence to optimized pharmacological and nonpharmacological management. During each visit, patients undergo a clinical assessment that includes use of the Clinical Congestion Score (CCS) <abbrgrp>
+                   <abbr bid="B16">16</abbr>
+                </abbrgrp>. All interventions seek to improve the health education process and enable implementation of self-care interventions with family support.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Sample size</p>
+             </st>
+             <p>Sample size was estimated in the WinPepi 11.1 software suite, using readmission or emergency department visit within 90 days of randomization as the endpoint <abbrgrp>
+                   <abbr bid="B16">16</abbr>
+                </abbrgrp>. Considering a 20% relative reduction in readmissions or emergency department visits in the intervention group, a significance level of 0.05, a statistical power of 80%, and an attrition rate of 20%, the sample size was set at 270 patients (135 in each group).</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Study protocol</p>
+             </st>
+             <p>Participants randomized to the CG shall have their diuretic dose adjusted at the physician&#8217;s discretion. These patients will not receive telemonitoring, but will return for 30-day clinical reassessment.</p>
+             <p>Participants randomized to the IG shall receive telemonitoring with the AAD for dose adjustment and CCS for assessment of signs and symptoms of decompensation and body weight fluctuations. Telephone calls shall take place once weekly for a total of four calls during the 1-month intervention period. First, the calling nurse shall enquire as to the presence of signs and symptoms of deterioration (paroxysmal nocturnal dyspnea, orthopnea, fatigue during activities of daily living (for functional class assessment), lower extremity edema, vomiting or diarrhea, dizziness or syncope, and body weight fluctuations) during the preceding week. Depending on the signs and symptoms reported, the patient shall receive guidance according to one of the following algorithm pathways: weight remained within the expected range (change in body weight &lt;1 kg), weight loss was greater than expected (weight loss &#8805;1 kg), or weight gain was greater than expected (weight gain &#8805;1 kg). Guidance shall be provided in accordance with the patient&#8217;s individual needs regarding adherence to pharmacological and nonpharmacological management. A face-to-face reassessment shall be conducted at 30 days by a nurse blinded to group allocation. At each telephone contact/reassessment, the AAD shall be administered again to guide diuretic dose adjustment.</p>
+             <p>Data on clinical and sociodemographic parameters shall be collected from all participants in both groups, with the CCS used to assess clinical condition.</p>
+             <p>During clinic visits, all patients are provided routine guidance on HF, including information on pharmacological management (regular use of prescribed medications and their effects) and nonpharmacological management (weight management, fluid and sodium restriction, physical activity), and any questions they may have are answered.</p>
+             <p>At the 30-day visit, all patients shall undergo reassessment by means of the CCS and recollection of data on all variables of interest.</p>
+             <p>At 90 days, the study endpoint (readmission or emergency department visit, change in CCS, deterioration in NYHA functional class, and HF-related mortality) shall be assessed by means of a chart review, consisting of an analysis of patients&#8217; records. Patients who sought care at an outside facility shall be asked to provide their progress notes or discharge summary. Chart-based endpoints are expected to be confirmed by telephone contact with participants in both groups (Figure&#160;<figr fid="F1">1</figr>).
+                  </p>
+             
+                <fig id="F1">
+                   <title>
+                      <p>Figure 1</p>
+                   </title>
+                   <caption>
+                      <p>Flowchart of study participation and interventions. </p>
+                   </caption>
+                   <text>
+                      <p>
+                            <b>Flowchart of study participation and interventions.</b>                          
+                      </p>
+                   </text>
+                   <graphic file="s13063-015-0559-7-1"/>
+                </fig>
+             
+          </sec>
+          <sec>
+             <st>
+                <p>Randomization</p>
+             </st>
+             <p>During a physician- or nurse-led clinic visit in which a need for adjustment of loop diuretic (furosemide) doses is identified, the patient shall be tested for trial eligibility by the investigator. Patients who meet the eligibility criteria shall be invited to take part in the study, and those who accept will provide written informed consent. Clinical assessment and sociodemographic and clinical data collection shall take place before randomization. The investigator shall then report to the team member (not involved in the trial) in charge of the randomization list. Specific software shall be used for participant allocation into IG and CG by sequential random number generation.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Sociodemographic and clinical variables</p>
+             </st>
+             <p>A structured questionnaire shall be administered to all trial participants for collection of data on sociodemographic and clinical parameters (age, sex, educational attainment, income, current prescriptions, comorbidities, smoking, alcohol intake, etiology of HF, duration of HF, prior admissions, echocardiographic findings, and serum sodium, potassium, urea, and creatinine levels). Weight, vital signs, presence of crackles, third heart sound, jugular venous distension, peripheral edema, history of orthopnea, hepatojugular reflux, hepatomegaly, and NYHA functional classification shall be assessed during the history and physical examination. Patients shall be instructed to measure their body weight daily, in the morning, after urination, while lightly clothed and before their first meal of the day. Patients will be required to use the same scale throughout the study period and calibrate (tare) it with 1 kg before body weight monitoring <abbrgrp>
+                   <abbr bid="B17">17</abbr>
+                </abbrgrp>.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Endpoints</p>
+             </st>
+             <p>The endpoints include hospital readmission and/or emergency department visits due to HF decompensation within 90 days, two-point change in CCS, and deterioration of NYHA functional class. The secondary outcome shall be a composite of the aforementioned primary endpoints and 90-day HF-related mortality.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Independent/exposure variables and confounding</p>
+             </st>
+             <p>In both groups, the main exposure variable shall comprise pharmacological management. The impact of each management on the trial endpoints shall be controlled for confounding variables: concomitant medications or co-intervention at an outside facility or by another provider.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Statistical analysis</p>
+             </st>
+             <p>Continuous variables shall be expressed as means and standard deviations if normally distributed or medians and quartiles otherwise. Categorical variables shall be expressed as absolute and relative frequencies. Depending on the distribution of variables, baseline characteristics and the effect of the trial intervention shall be compared by means of Student&#8217;s <it>t-</it>test or the Mann-Whitney <it>U</it> test (for continuous variables) or Pearson&#8217;s chi-square test (for categorical variables). A <it>P</it> value &lt;0.05 (two-tailed) shall be considered statistically significant. Intention-to-treat analysis shall be employed for all patients who meet a trial endpoint before 90 days. All statistical analyses shall be carried out in Statistical Package for the Social Sciences (SPSS) 18.0.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Discussion</p>
+          </st>
+          <p>Patients in the intervention group (IG) and control group (CG) undergo routine assessment during physician or nurse visits by means of the CCS. This instrument tests for and scores the presence of crackles, elevated central venous pressure, jugular venous distension, third heart sound, orthopnea, hepatojugular reflux, and peripheral edema. It also assesses functional class by means of the New York Heart Association (NYHA) Functional Classification scale. Total scores range from 1 to 22. Scores &#8805;5 were found to be associated with congestion in a study of the clinical applicability of the AAD <abbrgrp>
+                <abbr bid="B14">14</abbr>
+             </abbrgrp>.</p>
+          <p>Data are also collected on weight, height, history of present illness, past medical history, comorbidities, echocardiographic findings, current prescriptions, sex, age, skin color, educational attainment, and household income. Laboratory parameters (serum sodium, potassium, urea, and creatinine levels) shall be recorded at randomization. If diuretic dose adjustments are required on two consecutive visits, a further battery of these tests shall be ordered.</p>
+          <p>Patients shall be instructed to return at 30 days for a face-to-face assessment visit.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Trial status</p>
+          </st>
+          <p>The trial is currently in the patient recruitment stage. Thus far, 66 patients have been enrolled, 58 of whom have completed the trial.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Abbreviations</p>
+          </st>
+          <p>AAD: Algoritmo de ajuste de diur&#233;tico</p>
+          <p>CCS: Clinical congestion score</p>
+          <p>CG: Control group</p>
+          <p>DTA: Diuretic treatment algorithm</p>
+          <p>HCPA: Hospital de Cl&#237;nicas de Porto Alegre</p>
+          <p>HF: Heart failure</p>
+          <p>IG: Intervention group</p>
+          <p>NYHA: New York heart association</p>
+          <p>PROBE: Prospective randomized open blinded endpoint</p>
+          <p>RCT: Randomized clinical trial</p>
+          <p>SPSS: Statistical package for the social sciences</p>
+          <p>U.S.: United States</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Competing interests</p>
+          </st>
+          <p>The authors declare they have no competing interests.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Authors&#8217; contributions</p>
+          </st>
+          <p>MKEFF conceived the study, conducted the telephone-based intervention, and drafted this manuscript. KBR conceived the study and drafted this manuscript. AB conceived the study, drafted this manuscript and will conduct the statistical analyses. LO conceived the study and drafted this manuscript. GBA conceived the study and drafted this manuscript. ERRS conceived the study, drafted this manuscript and will conduct the statistical analyses. All authors read and approved the final manuscript.</p>
+       </sec>
+    </bdy>
+    <bm>
+       <ack>
+          <sec>
+             <st>
+                <p>Acknowledgements</p>
+             </st>
+             <p>The authors would like to acknowledge the Research and Events Fund from Hospital de Cl&#237;nicas de Porto Alegre for financial support.</p>
+          </sec>
+       </ack>
+       <refgrp>
+          
+          <bibl id="B1">
+             <title>
+                <p>Payment source, quality of care, and outcomes in patients hospitalized with heart failure</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kapoor</snm>
+                   <fnm>JR</fnm>
+                </au>
+                <au>
+                   <snm>Kapoor</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Hellkamp</snm>
+                   <fnm>AS</fnm>
+                </au>
+                <au>
+                   <snm>Hernandez</snm>
+                   <fnm>AF</fnm>
+                </au>
+                <au>
+                   <snm>Heidenreich</snm>
+                   <fnm>PA</fnm>
+                </au>
+                <au>
+                   <snm>Fonarow</snm>
+                   <fnm>GC</fnm>
+                </au>
+             </aug>
+             <source>J Am Coll Cardiol</source>
+             <pubdate>2011</pubdate>
+             <volume>58</volume>
+             <issue>14</issue>
+             <fpage>1465</fpage>
+             <lpage>71</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.jacc.2011.06.034</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21939830</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B2">
+             <title>
+                <p>Trends in heart failure incidence and survival in a community-based population</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Roger</snm>
+                   <fnm>VL</fnm>
+                </au>
+                <au>
+                   <snm>Weston</snm>
+                   <fnm>SA</fnm>
+                </au>
+                <au>
+                   <snm>Redfield</snm>
+                   <fnm>MM</fnm>
+                </au>
+                <au>
+                   <snm>Hellermann-Homan</snm>
+                   <fnm>JP</fnm>
+                </au>
+                <au>
+                   <snm>Killian</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Yawn</snm>
+                   <fnm>BP</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>JAMA</source>
+             <pubdate>2004</pubdate>
+             <volume>292</volume>
+             <issue>3</issue>
+             <fpage>344</fpage>
+             <lpage>50</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1001/jama.292.3.344</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15265849</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B3">
+             <title>
+                <p>Heart failure-related hospitalization in the U.S., 1979 to 2004</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Fang</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Mensah</snm>
+                   <fnm>GA</fnm>
+                </au>
+                <au>
+                   <snm>Croft</snm>
+                   <fnm>JB</fnm>
+                </au>
+                <au>
+                   <snm>Keenan</snm>
+                   <fnm>NL</fnm>
+                </au>
+             </aug>
+             <source>J Am Coll Cardiol</source>
+             <pubdate>2008</pubdate>
+             <volume>52</volume>
+             <issue>6</issue>
+             <fpage>428</fpage>
+             <lpage>34</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.jacc.2008.03.061</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18672162</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B4">
+             <title>
+                <p>Worsening heart failure hospitalization epidemic we do not know how to prevent and we do not know how to treat!</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Butler</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Kalogeropoulos</snm>
+                   <fnm>A</fnm>
+                </au>
+             </aug>
+             <source>J Am Coll Cardiol.</source>
+             <pubdate>2008</pubdate>
+             <volume>52</volume>
+             <issue>6</issue>
+             <fpage>435</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.jacc.2008.04.037</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18672163</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B5">
+             <title>
+                <p>Efficacy of Vasopressin Antagonism in Heart Failure Outcome Study With Tolvaptan (EVEREST) Investigators. Short-term clinical effects of tolvaptan, an oral vasopressin antagonist, in patients hospitalized for heart failure: the EVEREST Clinical Status Trials</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Gheorghiade</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Konstam</snm>
+                   <fnm>MA</fnm>
+                </au>
+                <au>
+                   <snm>Burnett</snm>
+                   <fnm>JC</fnm>
+                   <suf>Jr</suf>
+                </au>
+                <au>
+                   <snm>Grinfeld</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Maggioni</snm>
+                   <fnm>AP</fnm>
+                </au>
+                <au>
+                   <snm>Swedberg</snm>
+                   <fnm>K</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>JAMA</source>
+             <pubdate>2007</pubdate>
+             <volume>297</volume>
+             <issue>12</issue>
+             <fpage>1332</fpage>
+             <lpage>43</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1001/jama.297.12.1332</pubid>
+                   <pubid idtype="pmpid" link="fulltext">17384438</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B6">
+             <note>H2H National Quality Improvement Initiative. <url>http://cvquality.acc.org/Initiatives/H2H.aspx</url>. Retrieved 18 2013.</note>
+          </bibl>
+          <bibl id="B7">
+             <title>
+                <p>Sinais e sintomas de pacientes com insufici&#234;ncia card&#237;aca descompensada: infer&#234;ncia dos diagn&#243;sticos de enfermagem priorit&#225;rios</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Aliti</snm>
+                   <fnm>GB</fnm>
+                </au>
+                <au>
+                   <snm>Linhares</snm>
+                   <fnm>JC</fnm>
+                </au>
+                <au>
+                   <snm>Linch</snm>
+                   <fnm>GF</fnm>
+                </au>
+                <au>
+                   <snm>Ruschel</snm>
+                   <fnm>KB</fnm>
+                </au>
+                <au>
+                   <snm>Rabelo</snm>
+                   <fnm>ER</fnm>
+                </au>
+             </aug>
+             <source>Rev Gaucha Enferm</source>
+             <pubdate>2011</pubdate>
+             <volume>32</volume>
+             <issue>3</issue>
+             <fpage>590</fpage>
+             <lpage>5</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1590/S1983-14472011000300022</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22165408</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B8">
+             <title>
+                <p>National Survey of Hospital Strategies to Reduce Heart Failure Readmissions Findings From the Get With the Guidelines-Heart Failure Registry</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Robb Kociol</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Eric Peterson</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Bradley Hammill</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Kathryn Flynn</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Paul Heidenreich</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Ileana</snm>
+                   <fnm>PL</fnm>
+                </au>
+             </aug>
+             <source>Circ Heart Fail.</source>
+             <pubdate>2012</pubdate>
+             <volume>5</volume>
+             <fpage>680</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1161/CIRCHEARTFAILURE.112.967406</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22933525</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B9">
+             <title>
+                <p>Home telemonitoring or structured telephone support programmes after recent discharge in patients with heart failure: systematic review and economic evaluation</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Pandor</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Thokala</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Gomersall</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Baalbaki</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Stevens</snm>
+                   <fnm>JW</fnm>
+                </au>
+                <au>
+                   <snm>Wang</snm>
+                   <fnm>J</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Health Technol Assess</source>
+             <pubdate>2013</pubdate>
+             <volume>17</volume>
+             <issue>32</issue>
+             <fpage>1</fpage>
+             <lpage>207</lpage>
+             <note> doi:10.3310/hta17320</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.3310/hta17320</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B10">
+             <title>
+                <p>Structured telephone support or telemonitoring programmes for patients with chronic heart failure</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Inglis</snm>
+                   <fnm>SC</fnm>
+                </au>
+                <au>
+                   <snm>Clark</snm>
+                   <fnm>RA</fnm>
+                </au>
+                <au>
+                   <snm>McAlister</snm>
+                   <fnm>FA</fnm>
+                </au>
+                <au>
+                   <snm>Ball</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Lewinter</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Cullington</snm>
+                   <fnm>D</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Cochrane Database Syst Rev</source>
+             <pubdate>2010</pubdate>
+             <volume>8</volume>
+             <fpage>CD007228</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">20687083</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B11">
+             <title>
+                <p>A multicenter randomized controlled evaluation of automated home monitoring and telephonic disease management in patients recently hospitalized for congestive heart failure: the SPAN-CHF II trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Weintraub</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Gregory</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Patel</snm>
+                   <fnm>AR</fnm>
+                </au>
+                <au>
+                   <snm>Levine</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Venesy</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Perry</snm>
+                   <fnm>K</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>J Card Fail</source>
+             <pubdate>2010</pubdate>
+             <volume>16</volume>
+             <issue>4</issue>
+             <fpage>285</fpage>
+             <lpage>92</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.cardfail.2009.12.012</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20350694</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B12">
+             <title>
+                <p>Long-term prospective, randomized, controlled study using repetitive education at six-month intervals and monitoring for adherence in heart failure outpatients: the REMADHE trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bocchi</snm>
+                   <fnm>EA</fnm>
+                </au>
+                <au>
+                   <snm>Cruz</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Guimar&#227;es</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Pinho Moreira</snm>
+                   <fnm>LF</fnm>
+                </au>
+                <au>
+                   <snm>Issa</snm>
+                   <fnm>VS</fnm>
+                </au>
+                <au>
+                   <snm>Ayub Ferreira</snm>
+                   <fnm>SM</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Circ Heart Fail</source>
+             <pubdate>2008</pubdate>
+             <volume>1</volume>
+             <issue>2</issue>
+             <fpage>115</fpage>
+             <lpage>24</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1161/CIRCHEARTFAILURE.107.744870</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19808281</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B13">
+             <title>
+                <p>Telemanagement of heart failure: a diuretic treatment algorithm for advanced practice nurses</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Mueller</snm>
+                   <fnm>TM</fnm>
+                </au>
+                <au>
+                   <snm>Vuckovic</snm>
+                   <fnm>KM</fnm>
+                </au>
+                <au>
+                   <snm>Knox</snm>
+                   <fnm>DA</fnm>
+                </au>
+                <au>
+                   <snm>Williams</snm>
+                   <fnm>RE</fnm>
+                </au>
+             </aug>
+             <source>Heart Lung</source>
+             <pubdate>2002</pubdate>
+             <volume>31</volume>
+             <issue>5</issue>
+             <fpage>340</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1067/mhl.2002.126048</pubid>
+                   <pubid idtype="pmpid" link="fulltext">12487012</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B14">
+             <title>
+                <p>Adapta&#231;&#227;o e aplicabilidade de um algoritmo de diur&#233;tico para pacientes com insufici&#234;ncia card&#237;aca</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Feijo</snm>
+                   <fnm>MK</fnm>
+                </au>
+                <au>
+                   <snm>Biolo</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Rabelo-Silva</snm>
+                   <fnm>ER</fnm>
+                </au>
+             </aug>
+             <source>Arq Bras Cardiol</source>
+             <pubdate>2013</pubdate>
+             <volume>100</volume>
+             <issue>6</issue>
+             <fpage>553</fpage>
+             <lpage>60</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">23598459</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B15">
+             <title>
+                <p>HFSA 2010 Comprehensive Heart Failure Practice Guideline</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Lindenfeld</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Albert</snm>
+                   <fnm>NM</fnm>
+                </au>
+                <au>
+                   <snm>Boehmer</snm>
+                   <fnm>JP</fnm>
+                </au>
+                <au>
+                   <snm>Collins</snm>
+                   <fnm>SP</fnm>
+                </au>
+                <au>
+                   <snm>Ezekowitz</snm>
+                   <fnm>JA</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <insg>
+                <ins>
+                   <p>Heart Failure Society of America</p>
+                </ins>
+             </insg>
+             <source>J Card Fail</source>
+             <pubdate>2010</pubdate>
+             <volume>16</volume>
+             <issue>6</issue>
+             <fpage>e1</fpage>
+             <lpage>194</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.cardfail.2010.04.004</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B16">
+             <title>
+                <p>Health outcomes in decompensated congestive heart failure: a comparison of tertiary hospitals in Brazil and United States</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Rohde</snm>
+                   <fnm>LE</fnm>
+                </au>
+                <au>
+                   <snm>Clausell</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Ribeiro</snm>
+                   <fnm>JP</fnm>
+                </au>
+                <au>
+                   <snm>Goldraich</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Netto</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>William Dec</snm>
+                   <fnm>G</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Int J Cardiol</source>
+             <pubdate>2005</pubdate>
+             <volume>102</volume>
+             <issue>1</issue>
+             <fpage>71</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.ijcard.2004.04.006</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15939101</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B17">
+             <title>
+                <p>What to teach to patients with heart failure and why: the role of nurses in heart failure clinics</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Rabelo</snm>
+                   <fnm>ER</fnm>
+                </au>
+                <au>
+                   <snm>Aliti</snm>
+                   <fnm>GB</fnm>
+                </au>
+                <au>
+                   <snm>Domingues</snm>
+                   <fnm>FB</fnm>
+                </au>
+                <au>
+                   <snm>Ruschel</snm>
+                   <fnm>KB</fnm>
+                </au>
+                <au>
+                   <snm>Brun</snm>
+                   <fnm>AO</fnm>
+                </au>
+             </aug>
+             <source>Rev Latino-am Enfermagem</source>
+             <pubdate>2007</pubdate>
+             <volume>15</volume>
+             <issue>1</issue>
+             <fpage>165</fpage>
+             <lpage>70</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1590/S0104-11692007000100024</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+       </refgrp>
+    </bm>
+ </art>

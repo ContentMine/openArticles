@@ -1,0 +1,1023 @@
+<?xml version='1.0'?>
+<!DOCTYPE art SYSTEM 'http://www.biomedcentral.com/xml/article.dtd'>
+<art>
+    <ui>s13063-015-0547-y</ui>
+    <ji>1745-6215</ji>
+    <fm>
+       <dochead>Study protocol</dochead>
+       <bibl>
+          <title>
+             <p>Lignocaine/phenylephrine nasal spray vs. placebo for the pain and distress of nasogastric tube insertion in children: a study protocol for a randomized controlled trial</p>
+          </title>
+          <aug>
+             <au id="A1" ca="yes">
+                <snm>Craig</snm>
+                <mi>S</mi>
+                <fnm>Simon</fnm>
+                <insr iid="I1"/>
+                <insr iid="I2"/>
+                <insr iid="I3"/>
+                <email>Simon.craig@monashhealth.org</email>
+             </au>
+             <au id="A2">
+                <snm>Seith</snm>
+                <mi>W</mi>
+                <fnm>Robert</fnm>
+                <insr iid="I1"/>
+                <insr iid="I2"/>
+                <email>Robert.seith@monashhealth.org</email>
+             </au>
+             <au id="A3">
+                <snm>Cheek</snm>
+                <mi>A</mi>
+                <fnm>John</fnm>
+                <insr iid="I1"/>
+                <insr iid="I2"/>
+                <insr iid="I3"/>
+                <insr iid="I4"/>
+                <email>John.cheek@monashhealth.org</email>
+             </au>
+             <au id="A4">
+                <snm>West</snm>
+                <fnm>Adam</fnm>
+                <insr iid="I1"/>
+                <insr iid="I2"/>
+                <email>Adam.west@monashhealth.org</email>
+             </au>
+             <au id="A5">
+                <snm>Wilson</snm>
+                <fnm>Kathryn</fnm>
+                <insr iid="I2"/>
+                <email>Kathryn.wilson@monashhealth.org</email>
+             </au>
+             <au id="A6">
+                <snm>Egerton-Warburton</snm>
+                <fnm>Diana</fnm>
+                <insr iid="I1"/>
+                <insr iid="I2"/>
+                <email>Diana.egertonwarburton@monashhealth.org</email>
+             </au>
+          </aug>
+          <insg>
+             <ins id="I1">
+                <p>Emergency Department, Monash Medical Centre, Monash Health, Clayton, Australia</p>
+             </ins>
+             <ins id="I2">
+                <p>School of Clinical Sciences at Monash Health, Monash University, Clayton, Australia</p>
+             </ins>
+             <ins id="I3">
+                <p>Murdoch Children&#8217;s Research Institute, Parkville, Australia</p>
+             </ins>
+             <ins id="I4">
+                <p>Emergency Department, Royal Children&#8217;s Hospital Melbourne, Parkville, Australia</p>
+             </ins>
+          </insg>
+          <source>Trials</source>
+          <issn>1745-6215</issn>
+          <pubdate>2015</pubdate>
+          <volume>16</volume>
+          <issue>1</issue>
+          <fpage>30</fpage>
+          <url>http://www.trialsjournal.com/content/16/1/30</url>
+          <xrefbib>
+             <pubidlist>
+                <pubid idtype="doi">10.1186/s13063-015-0547-y</pubid>
+             </pubidlist>
+          </xrefbib>
+       </bibl>
+       <history>
+          <rec>
+             <date>
+                <day>12</day>
+                <month>12</month>
+                <year>2014</year>
+             </date>
+          </rec>
+          <acc>
+             <date>
+                <day>31</day>
+                <month>12</month>
+                <year>2014</year>
+             </date>
+          </acc>
+          <pub>
+             <date>
+                <day>27</day>
+                <month>1</month>
+                <year>2015</year>
+             </date>
+          </pub>
+       </history>
+       <cpyrt>
+          <year>2015</year>
+          <collab>Craig et al.; licensee BioMed Central.</collab>
+          <note>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/4.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (<url>http://creativecommons.org/publicdomain/zero/1.0/</url>) applies to the data made available in this article, unless otherwise stated.</note>
+       </cpyrt>
+       <kwdg>
+          <kwd>Pain/prevention and control</kwd>
+          <kwd>Anesthetics</kwd>
+          <kwd>Local/administration and dosage</kwd>
+          <kwd>Child</kwd>
+          <kwd>Preschool</kwd>
+          <kwd>Intubation</kwd>
+          <kwd>Gastrointestinal</kwd>
+       </kwdg>
+       <abs>
+          <sec>
+             <st>
+                <p>Abstract</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Background</p>
+                </st>
+                <p>Patients and clinicians consistently rate insertion of a nasogastric tube (NGT) as one of the most painful and distressing emergency department procedures. Despite this, surveys of emergency clinicians suggest that provision of adequate procedural analgesia is often inconsistent and suboptimal. While many studies have demonstrated the effectiveness of various interventions to reduce pain and distress in adults, there have been few studies in the pediatric population. There are currently no studies comparing the effectiveness of a local anesthetic nasal spray for the prevention of the pain and distress associated with NGT insertion in children. This study aims to compare the analgesic efficacy of a proprietary preparation of lignocaine/phenylephrine nasal spray and placebo for this indication.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Methods/Design</p>
+                </st>
+                <p>This is a prospective, randomized, controlled, double-blind superiority trial of 100 children aged 6&#160;months to 5&#160;years weighing at least 6&#160;kg in whom a nasogastric tube is planned to be inserted. These children will be randomized to either intranasal lignocaine/phenylephrine or placebo. Pain severity is the primary outcome measure and will be measured utilizing the Face, Legs, Arms, Cry and Consolability (FLACC) pain severity rating scale. An independent staff member not involved in inserting the NGT and the child&#8217;s parents or carer will also record pain and distress on a visual analog scale (VAS). FLACC scores and VAS scores will be presented as median and interquartile range (IQR). Non-normally distributed scores will be compared using a Wilcoxon rank-sum test. Categorical data will be analyzed using Fisher&#8217;s exact test. Adverse events will be described as type and incidence.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Discussion</p>
+                </st>
+                <p>Previous studies on NGT insertion have not focused on the pediatric population. This study aims to establish the effectiveness of a simple intranasal spray of lignocaine/phenylephrine in children undergoing NGT insertion. A positive result of this study would provide evidence of an effective intervention in a procedure considered by many to be very painful and distressing.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Trial registration</p>
+                </st>
+                <p>Australian New Zealand Clinical Trials Registry (ANZCTR). <url>ACTRN12614000092695</url>, registered on 23 January 2014.</p>
+             </sec>
+          </sec>
+       </abs>
+    </fm>
+    <bdy>
+       <sec>
+          <st>
+             <p>Background</p>
+          </st>
+          <p>Insertion of a nasogastric tube is consistently rated by patients and clinicians as one of the most painful and distressing procedures performed in emergency departments <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>. Despite this, surveys of emergency physicians and trainees suggest that provision of adequate procedural analgesia is inconsistent and suboptimal in many instances <abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B3">3</abbr>
+             </abbrgrp>.</p>
+          <p>There have been many studies examining the effect of various interventions to reduce the pain and distress of nasogastric tube insertion in adults. Most published interventions in adult patients involve some sort of local anesthetic administration with the use of topical nasal spray <abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B4">4</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B6">6</abbr>
+             </abbrgrp>, nebulization <abbrgrp>
+                <abbr bid="B7">7</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B8">8</abbr>
+             </abbrgrp>, or a gel <abbrgrp>
+                <abbr bid="B9">9</abbr>
+             </abbrgrp>. These are all more effective than a placebo; however, the relative superiority of one method over another is yet to be clearly demonstrated. More recently, intranasal ketamine (50&#160;mg) was also found to be more effective than a placebo in reducing the discomfort of nasogastric tube insertion in 72 adult patients <abbrgrp>
+                <abbr bid="B10">10</abbr>
+             </abbrgrp>.</p>
+          <p>The pediatric literature is limited, with only one study published in 2009. Babl and colleagues compared nebulized lignocaine vs. placebo in a pediatric emergency department population. The study was terminated early, before the intended 52 subjects had been enrolled, because of staff concern about the level of patient distress during nebulization <abbrgrp>
+                <abbr bid="B11">11</abbr>
+             </abbrgrp>. Children appear less able to tolerate nebulized therapy.</p>
+          <p>Interestingly, children also appear to have different responses to topical local anesthetic application for painful mucosal conditions. A recently published trial by Hopper and colleagues demonstrated no difference in oral intake in children with painful infectious mouth ulcers when administered viscous lignocaine compared with placebo <abbrgrp>
+                <abbr bid="B12">12</abbr>
+             </abbrgrp>.</p>
+          <p>There are currently no studies comparing the effectiveness of a local anesthetic nasal spray for the prevention of pain and distress associated with nasogastric tube insertion in children. This study aims to compare the analgesic efficacy of a proprietary preparation of lignocaine/phenylephrine nasal spray and placebo for this indication. It is hypothesized that intranasal lignocaine/phenylephrine spray will be more effective than intranasal placebo in the prevention of pain and distress associated with nasogastric tube insertion in children.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Methods/Design</p>
+          </st>
+          <p>This is a prospective, randomized, controlled, double-blind superiority trial. The trial will be conducted in the emergency department of Monash Medical Centre, a tertiary referral hospital at which the Pediatric ED has an annual census of over 27,000 patients. Participant inclusion and exclusion criteria are shown in Table&#160;<tblr tid="T1">1</tblr>.
+                </p>
+          
+             <table id="T1">
+                <title>
+                   <p>Table 1</p>
+                </title>
+                <caption>
+                   <p>
+                          <b>Inclusion and exclusion criteria for the study</b>                        
+                   </p>
+                </caption>
+                <tgroup align="left" cols="2">
+                   <colspec align="left" colname="c1" colnum="1" colwidth="*"/>
+                   <colspec align="left" colname="c2" colnum="2" colwidth="*"/>
+                   <thead>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>
+                              <b>Inclusion criteria</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>
+                              <b>Exclusion criteria</b>                            
+                            </p>
+                         </entry>
+                      </row>
+                   </thead>
+                   <tbody>
+                      <row valign="top">
+                         <entry colname="c1" morerows="1">
+                            <p>Children aged 6&#160;months to 5&#160;years and weighing at least 6&#160;kg body mass</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Inability to gain informed consent from parent or guardian</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c2">
+                            <p>Indication for an urgent insertion of a nasogastric tube</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1" morerows="9">
+                            <p>Planned to have a nasogastric tube inserted as part of their emergency department treatment</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Accompanying adult is non-English speaking and no interpreter service is available</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c2">
+                            <p>Child or parent has an allergy to lignocaine or phenylephrine</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c2">
+                            <p>Aberrant nasal anatomy</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c2">
+                            <p>Acute or chronic nasal problems or nasal trauma that may preclude adequate administration or absorption of intranasal medication.</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c2">
+                            <p>Cardiovascular disease/congenital heart disease &#8211; specifically hypertension, severe bradycardia, conduction disturbances, and digitalis intoxication</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c2">
+                            <p>Known hepatic or renal impairment</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c2">
+                            <p>Asthma (particularly sulfite-sensitive asthma)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c2">
+                            <p>Genetic predisposition to malignant hyperthermia</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c2">
+                            <p>Preexisting abnormal neurological conditions</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c2">
+                            <p>Child is taking medications known to interact with CoPhenylcaine Forte&#8482; (antiarrhythmic drugs, suxamethonium, phenytoin, antidepressants, propranolol, citicoline)</p>
+                         </entry>
+                      </row>
+                   </tbody>
+                </tgroup>
+             </table>
+          
+          <sec>
+             <st>
+                <p>Randomization and storage</p>
+             </st>
+             <p>One hundred spray bottle numbers will be randomly allocated to either lignocaine/phenylephrine or placebo. Randomization will be made following a block randomization table as described by Altman and Bland (1999) <abbrgrp>
+                   <abbr bid="B13">13</abbr>
+                </abbrgrp>. Each spray bottle will be manufactured as allocated, and this number will be recorded on the patient prescription accompanying the spray bottle.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Study medication</p>
+             </st>
+             <p>CoPhenylcaine Forte Nasal Spray&#8482; (ENT Technologies Pty Ltd., Hawthorn East, Melbourne, Australia) is a proprietary product that contains the active ingredients of lignocaine hydrochloride 50&#160;mg/ml (5% lignocaine) and phenylephrine hydrochloride 5&#160;mg/ml (0.5% phenylephrine). It is administered by a pump-actuated topical spray. The nozzle spray attachment provides 100&#160;&#956;l per spray. This results in each spray of active medication delivering 5&#160;mg lignocaine and 0.5&#160;mg phenylephrine. A preparation of sodium chloride 0.9% will be used as placebo.</p>
+             <p>Lignocaine/phenylephrine spray bottles will be made by transferring 2.5&#160;ml of CoPhenylcaine Forte into a spray bottle. This will then be labeled and kept in a sealed plastic bag until use. Placebo spray bottles will be made by transferring 2.5&#160;ml of sodium chloride 0.9% for irrigation into a spray bottle. This will again be labeled and kept in a sealed plastic bag until use.</p>
+             <p>Spray bottle numbers, constituents, their batch number, and expiry will be recorded by sterile manufacturing and clinical trials pharmacy. A prescription marked with the corresponding spray bottle number will be included in each bag&#8212;for return to the pharmacy for study accountability.</p>
+             <p>The study spray bottles will be given an expiry of 1&#160;month from manufacture. Twenty spray bottles will be prepared monthly by the pharmacy. Each month unused spray bottles will be deemed expired and destroyed by the pharmacy. Spray bottle numbers not used will be documented and later re-made (with the same allocation) until all 100 spray bottle numbers are accounted for. If recruitment of patients is in excess of five per week, the spray bottle number production will be reviewed and may increase up to a maximum of eight per week.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Measurement tools</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Pain severity rating scale (FLACC)</p>
+                </st>
+                <p>The primary outcome measure will be the pain rating using the Faces, Legs, Activity, Cry and Consolability (FLACC) Scale during the procedure. The FLACC score was originally designed for assessment of postoperative pain in young children and has been recommended in various reviews as a procedural pain score for preverbal and early verbal children <abbrgrp>
+                      <abbr bid="B14">14</abbr>
+                   </abbrgrp>. It comprises five separate items (face, legs, activity, cry, and consolability), each of which is scored from zero to two. The five scores are then added to arrive at a score out of ten.</p>
+                <p>Scores will be assessed by a member of the staff not directly involved in the insertion of the nasogastric tube at four times during the study: (1) In the ED cubicle prior to study drug administration (baseline); (2) in the procedure room when the child is positioned for NGT insertion (prior to insertion attempts); (3) during the final NGT insertion attempt (whether successful or unsuccessful); (4) once the child has been returned to the ED cubicle.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Observer pain severity rating</p>
+             </st>
+             <p>Visual Analog Scale (VAS): An observer (a staff member not directly involved in the procedure) will be asked to record impressions of pain and distress by marking on a standard 100-mm line labeled &#8216;no pain&#8217; or &#8216;no distress&#8217; at the left hand end and &#8216;severe pain&#8217; or &#8216;severe distress&#8217; at the right hand end. Parents will also be asked to complete the same visual analog scales for pain and distress.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Other information to be recorded</p>
+             </st>
+             <p>Other information to be recorded includes the experience and confidence of the proceduralist, time from nasal spray administration to successful tube insertion, number of attempts required to insert the nasogastric tube, procedural complications (of the nasal spray and/or of nasogastric tube insertion, such as epistaxis and tube misplacement), and methods used to confirm nasogastric tube placement. The clinicians performing the procedure will record the difficulty of nasogastric tube insertion on a VAS and will be asked to record their judgment as to whether placebo or lignocaine/phenylephrine was administered.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Procedure</p>
+             </st>
+             <p>The parents or carers of eligible patients will be approached for enrollment in the study. Written, informed consent will be obtained. Parent information statements include references to possible side effects, including tremor, palpitations, or a bitter taste in the mouth.</p>
+             <p>On obtaining consent, baseline measurement of the pain score will be recorded. The study medication will be obtained from the next numbered study pack and administered intranasally using the pump-actuated spray. Children weighing 6 to 12&#160;kg will be administered one spray to each nostril, while children weighing over 12&#160;kg will be administered two sprays to each nostril.</p>
+             <p>Figure&#160;<figr fid="F1">1</figr> provides an overview of the study, indicating the times of medication administration and data recording.
+                  </p>
+             
+                <fig id="F1">
+                   <title>
+                      <p>Figure 1</p>
+                   </title>
+                   <caption>
+                      <p>Study flowchart. </p>
+                   </caption>
+                   <text>
+                      <p>
+                            <b>Study flowchart.</b>                          
+                      </p>
+                   </text>
+                   <graphic file="s13063-015-0547-y-1"/>
+                </fig>
+             
+          </sec>
+          <sec>
+             <st>
+                <p>Outcome measures</p>
+             </st>
+             <p>The primary outcome measure is the FLACC score recorded during the final attempt at nasogastric tube insertion. Secondary outcome measures will include the VAS scores for pain, distress, ease of tube insertion, number of attempts required, and procedural complications.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Statistical analysis</p>
+             </st>
+             <p>Baseline variables such as sex and age will be presented as the number and percentage or median with interquartile range and be compared using either chi-square or Mann&#8211;Whitney tests as appropriate. FLACC and VAS scores will be presented as median and interquartile range (IQR). Non-normally distributed scores will be compared using a Wilcoxon rank-sum test and normally distributed data using an independent t-test. Categorical data will be analyzed using Fisher&#8217;s exact test. Adverse events will be described as type and incidence. Analysis will be intention to treat.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Sample size</p>
+             </st>
+             <p>Assuming a standard deviation of 2.5, an &#945; of 0.05, and a power of 90%, 35 patients per treatment arm are required to demonstrate a 2-point difference in the FLACC score. This difference has previously been considered the minimally clinically significant difference using this scoring system <abbrgrp>
+                   <abbr bid="B15">15</abbr>
+                </abbrgrp>. Allowing for attrition and other factors, a total of 100 patients is required (50 in each group).</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Ethical considerations</p>
+             </st>
+             <p>This clinical trial has the Human Research Ethics Committee (HREC) approval of Monash Health HREC Committee B [see Additional file <supplr sid="S1">1</supplr>]. The trial is registered with the Australian New Zealand Clinical Trials Registry (ANZCTR), ACTRN12614000092695. The Monash Health Drug and Therapeutics Committee reviewed the trial protocol. A trial safety monitoring committee has been incorporated into the study design to review adverse events and therapeutic efficacy in the trial. The study has also been registered with the Australian Government Therapeutic Goods Administration Clinical Trials Notification (CTN) Scheme (trial no. 2014/0367, protocol no. 13410A), and complies with the relevant SPIRIT statement (Additional file <supplr sid="S1">1</supplr>) and WHO checklist (Additional file <supplr sid="S2">2</supplr>).</p></sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Discussion</p>
+          </st>
+          <sec>
+             <st>
+                <p>Scope of the trial</p>
+             </st>
+             <p>While it is clear that there are many effective options to reduce the pain and distress associated with nasogastric tube insertion in adults, there is very little published literature in the pediatric setting. Previous studies have demonstrated that children may not tolerate treatments that are easily administered to adults (such as nebulization) and do not respond predictably to administration of topical local anesthetics. This study aims to determine the effectiveness of a simple nasal spray of lignocaine and phenylephrine in children undergoing nasogastric tube insertion.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Strengths</p>
+             </st>
+             <p>To date, there is little literature to guide procedural pain management in children undergoing nasogastric tube insertion. If positive, this blinded, randomized study will provide useful information &#8211; including the effect size &#8211; to assist healthcare providers conduct the procedure with minimal pain and distress for the child.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Limitations</p>
+             </st>
+             <p>The results of this study will only apply to children aged 6&#160;months to 5&#160;years without any comorbid disease. It is unclear whether the results can be extrapolated to older children or those with significant comorbidities.</p>
+             <p>Although our primary outcome measure &#8211; the FLACC score &#8211; is recommended for the measurement of procedural pain and distress in young children <abbrgrp>
+                   <abbr bid="B16">16</abbr>
+                </abbrgrp>, it may have limited ability to discriminate during highly painful and distressing parts of a procedure <abbrgrp>
+                   <abbr bid="B11">11</abbr>
+                </abbrgrp>.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Summary</p>
+             </st>
+             <p>Nasogastric tube insertion is a commonly performed procedure in pediatric emergency medicine. To date, no studies have been able to demonstrate effective methods to reduce the pain and distress associated with the procedure in children. This study, if positive, would provide evidence of an effective method to reduce distress for young children having nasogastric tube insertion in the ED.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Trial status</p>
+          </st>
+          <p>Recruitment commenced in July 2014 for the 100 participants needed for the trial. It is anticipated that recruitment will be completed by late 2015.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Abbreviations</p>
+          </st>
+          <p>ANZCTR: Australian New Zealand Clinical Trials Registry</p>
+          <p>CTN Scheme: Clinical trials notification scheme</p>
+          <p>ED: Emergency department</p>
+          <p>ENT: Ear, nose, and throat</p>
+          <p>FLACC scale: Faces, Legs, Activity, Cry, and Consolability scale</p>
+          <p>HREC: Human Research Ethics Committee</p>
+          <p>IQR: Interquartile range</p>
+          <p>NGT: Nasogastric tube</p>
+          <p>VAS: Visual analog scale</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Competing interests</p>
+          </st>
+          <p>The authors declare that they have no competing interests.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Authors&#8217; contributions</p>
+          </st>
+          <p>SC, the principal investigator, conceived, designed, and submitted the study for ethics committee assessment and approval. JC, DE-W, RS, KW, and AW each made a substantial contribution to one or more of: the study design, preparation of the manuscript, and critical revision. All authors read and approved the final manuscript.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Additional files</p>
+          </st>
+          <suppl id="S1">
+             <title>
+                <p>Additional file 1:</p>
+             </title>
+             <text>
+                <p>
+                              <b>SPIRIT statement.</b>                            
+                </p>
+             </text>
+             <file name="s13063-015-0547-y-S1.doc">
+                <p>Click here for file</p>
+             </file>
+          </suppl>
+          <suppl id="S2">
+             <title>
+                <p>Additional file 2:</p>
+             </title>
+             <text>
+                <p>
+                              <b>WHO Checklist.</b>                            
+                </p>
+             </text>
+             <file name="s13063-015-0547-y-S2.docx">
+                <p>Click here for file</p>
+             </file>
+          </suppl>
+          
+       </sec>
+    </bdy>
+    <bm>
+       <ack>
+          <sec>
+             <st>
+                <p>Acknowledgements</p>
+             </st>
+             <p>This trial is funded by the Morson Taylor Research Award, 2012, from the Emergency Medicine Research Foundation. The Foundation has had no influence on the study design, collection, management, and interpretation of data; writing the report; or submitting the report for publication.</p>
+          </sec>
+       </ack>
+       <refgrp>
+          
+          <bibl id="B1">
+             <title>
+                <p>Comparison of patient and practitioner assessments of pain from commonly performed emergency department procedures</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Singer</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Richman</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Kowalska</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Thode</snm>
+                   <fnm>HJ</fnm>
+                </au>
+             </aug>
+             <source>Ann Emerg Med</source>
+             <pubdate>1999</pubdate>
+             <volume>33</volume>
+             <issue>6</issue>
+             <fpage>652</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">10339680</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B2">
+             <title>
+                <p>Comparison of topical anesthetics and vasoconstrictors vs lubricants prior to nasogastric intubation: a randomized, controlled trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Singer</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Konia</snm>
+                   <fnm>N</fnm>
+                </au>
+             </aug>
+             <source>Acad Emerg Med</source>
+             <pubdate>1999</pubdate>
+             <volume>6</volume>
+             <issue>3</issue>
+             <fpage>184</fpage>
+             <lpage>90</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1553-2712.1999.tb00153.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">10192668</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B3">
+             <title>
+                <p>Emergency physician&#8217;s practices and attitudes regarding procedural anaesthesia for nasogastric tube insertion</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Juhl</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Conners</snm>
+                   <fnm>G</fnm>
+                </au>
+             </aug>
+             <source>Emerg Med J.</source>
+             <pubdate>2005</pubdate>
+             <volume>22</volume>
+             <fpage>243</fpage>
+             <lpage>5</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/emj.2004.015602</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15788820</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B4">
+             <title>
+                <p>Topical anesthesia for the insertion of nasogastric tubes</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Nott</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Hughes</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>Eur J Anasthesiolo.</source>
+             <pubdate>1995</pubdate>
+             <volume>12</volume>
+             <fpage>287</fpage>
+             <lpage>90</lpage>
+          </bibl>
+          <bibl id="B5">
+             <title>
+                <p>Comparison of the efficacy between lidocaine spray plus lidocaine jelly lubrication and lidocaine jelly lubrication alone prior to nasogastric intubation: a prospective double-blind randomized controlled study</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Pongprasobchai</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Jiranantakan</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Nimmannit</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Nopmaneejumruslers</snm>
+                   <fnm>C</fnm>
+                </au>
+             </aug>
+             <source>J Med Assoc Thai.</source>
+             <pubdate>2007</pubdate>
+             <volume>90</volume>
+             <issue>Suppl 2</issue>
+             <fpage>41</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">19238647</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B6">
+             <title>
+                <p>Atomized lidocaine as topical anesthesia for nasogastric tube placement: a randomized, double-blind, placebo-controlled trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Wolfe</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Fosnocht</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Linscott</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>Ann Emerg Med.</source>
+             <pubdate>2000</pubdate>
+             <volume>35</volume>
+             <fpage>421</fpage>
+             <lpage>5</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0196-0644(00)70002-3</pubid>
+                   <pubid idtype="pmpid" link="fulltext">10783403</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B7">
+             <title>
+                <p>Nebulized lidocaine decreases the discomfort of nasogastric tube insertion: a randomized, double-blind trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Cullen</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Taylor</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Taylor</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Chu</snm>
+                   <fnm>K</fnm>
+                </au>
+             </aug>
+             <source>Ann Emerg Med</source>
+             <pubdate>2004</pubdate>
+             <volume>44</volume>
+             <issue>2</issue>
+             <fpage>131</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.annemergmed.2004.03.033</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15278085</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B8">
+             <title>
+                <p>Nebulized or sprayed lidocaine as anesthesia for nasogastric intubation</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Spektor</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Kaplan</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Kelley</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Wheary</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Dalsey</snm>
+                   <fnm>W</fnm>
+                </au>
+             </aug>
+             <source>Acad Emerg Med</source>
+             <pubdate>2000</pubdate>
+             <volume>7</volume>
+             <issue>4</issue>
+             <fpage>406</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1553-2712.2000.tb02251.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">10805633</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B9">
+             <title>
+                <p>What is the best topical anesthetic for nasogastric insertion? a comparison of lidocaine gel, lidocaine spray, and atomized lidocaine</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Ducharme</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Matheson</snm>
+                   <fnm>K</fnm>
+                </au>
+             </aug>
+             <source>J Emerg Nurs.</source>
+             <pubdate>2003</pubdate>
+             <volume>29</volume>
+             <fpage>427</fpage>
+             <lpage>30</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0099-1767(03)00295-2</pubid>
+                   <pubid idtype="pmpid" link="fulltext">14583715</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B10">
+             <title>
+                <p>Ketamine improves nasogastric tube insertion</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Nejati</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Golshani</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Moradi Lakeh</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Khashayar</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Moharari</snm>
+                   <fnm>RS</fnm>
+                </au>
+             </aug>
+             <source>Emerg Med J</source>
+             <pubdate>2010</pubdate>
+             <volume>27</volume>
+             <issue>8</issue>
+             <fpage>582</fpage>
+             <lpage>5</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/emj.2009.075275</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20360498</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B11">
+             <title>
+                <p>Does nebulized lidocaine reduce the pain and distress of nasogastric tube insertion in young children? A randomized, double-blind, placebo-controlled trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Babl</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Goldfinch</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Mandrawa</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Crellin</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>O&#8217;Sullivan</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Donath</snm>
+                   <fnm>S</fnm>
+                </au>
+             </aug>
+             <source>Pediatrics</source>
+             <pubdate>2009</pubdate>
+             <volume>123</volume>
+             <issue>6</issue>
+             <fpage>1548</fpage>
+             <lpage>55</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1542/peds.2008-1897</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19482767</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B12">
+             <title>
+                <p>Topical lidocaine to improve oral intake in children with painful infectious mouth ulcers: a blinded, randomized, placebo-controlled trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hopper</snm>
+                   <fnm>SM</fnm>
+                </au>
+                <au>
+                   <snm>McCarthy</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Tancharoen</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Lee</snm>
+                   <fnm>KJ</fnm>
+                </au>
+                <au>
+                   <snm>Davidson</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Babl</snm>
+                   <fnm>FE</fnm>
+                </au>
+             </aug>
+             <source>Ann Emerg Med</source>
+             <pubdate>2014</pubdate>
+             <volume>63</volume>
+             <issue>3</issue>
+             <fpage>292</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.annemergmed.2013.08.022</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24210368</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B13">
+             <title>
+                <p>How to randomise</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Altman</snm>
+                   <fnm>DG</fnm>
+                </au>
+                <au>
+                   <snm>Bland</snm>
+                   <fnm>JM</fnm>
+                </au>
+             </aug>
+             <source>BMJ (Clinical research ed).</source>
+             <pubdate>1999</pubdate>
+             <volume>319</volume>
+             <issue>7211</issue>
+             <fpage>703</fpage>
+             <lpage>4</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/bmj.319.7211.703</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B14">
+             <title>
+                <p>Clinical validation of FLACC: preverbal patient pain scale</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Manworren</snm>
+                   <fnm>RCB</fnm>
+                </au>
+                <au>
+                   <snm>Hynan</snm>
+                   <fnm>LS</fnm>
+                </au>
+             </aug>
+             <source>Pediatr Nurs</source>
+             <pubdate>2003</pubdate>
+             <volume>29</volume>
+             <issue>2</issue>
+             <fpage>140</fpage>
+             <lpage>6</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">12723828</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B15">
+             <title>
+                <p>Intranasal fentanyl in 1-3-year-olds: a prospective study of the effectiveness of intranasal fentanyl as acute analgesia</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Cole</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Shepherd</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Young</snm>
+                   <fnm>P</fnm>
+                </au>
+             </aug>
+             <source>Emerg Med Australas</source>
+             <pubdate>2009</pubdate>
+             <volume>21</volume>
+             <issue>5</issue>
+             <fpage>395</fpage>
+             <lpage>400</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1742-6723.2009.01216.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19840089</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B16">
+             <title>
+                <p>The use of the faces, legs, activity, cry and consolability scale to assess procedural pain and distress in young children</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Babl</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Crellin</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Cheng</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Sullivan</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>O&#8217;Sullivan</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Hutchinson</snm>
+                   <fnm>A</fnm>
+                </au>
+             </aug>
+             <source>Pediatr Emerg Care.</source>
+             <pubdate>2012</pubdate>
+             <volume>28</volume>
+             <fpage>1281</fpage>
+             <lpage>96</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/PEC.0b013e3182767d66</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23187981</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+       </refgrp>
+    </bm>
+ </art>

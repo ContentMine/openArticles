@@ -1,0 +1,113 @@
+{
+  "publisher": {
+    "value": [
+      "BioMed Central Ltd"
+    ]
+  },
+  "journal": {
+    "value": [
+      "Trials"
+    ]
+  },
+  "title": {
+    "value": [
+      "Population pharmacokinetic modeling of the Qishe pill in three major traditional Chinese medicine-defined constitutional types of healthy Chinese subjects: study protocol for a randomized controlled trial"
+    ]
+  },
+  "authors": {
+    "value": [
+      "Yue-li Sun",
+      "Ting Hou",
+      "Shu-fen Liu",
+      "Zhong-liang Zhang",
+      "Ning Zhang",
+      "Min Yao",
+      "Long Yang",
+      "Qi Shi",
+      "Xue-jun Cui",
+      "Yong-jun Wang"
+    ]
+  },
+  "date": {
+    "value": [
+      "2015-02-26"
+    ]
+  },
+  "doi": {
+    "value": [
+      "10.1186/s13063-015-0568-6"
+    ]
+  },
+  "volume": {
+    "value": [
+      "16"
+    ]
+  },
+  "issue": {
+    "value": [
+      "1"
+    ]
+  },
+  "firstpage": {
+    "value": [
+      "64"
+    ]
+  },
+  "description": {
+    "value": [
+      "High incidences of neck pain morbidity are challenging in various situations for populations based on their demographic, physiological and pathological characteristics. Chinese proprietary herbal medicines, as Complementary and Alternative Medicine (CAM) products, are usually developed from well-established and long-standing recipes formulated as tablets or capsules. However, good quantification and strict standardization are still needed for implementation of individualized therapies. The Qishe pill was developed and has been used clinically since 2009. The Qishe pill’s personalized medicine should be documented and administered to various patients according to the ancient TCM system, a classification of personalized constitution types, established to determine predisposition and prognosis to diseases as well as therapy and life-style administration. Therefore, we describe the population pharmacokinetic profile of the Qishe pill and compare its metabolic rate in the three major constitution types (Qi-Deficiency, Yin-Deficiency and Blood-Stasis) to address major challenges to individualized standardized TCM."
+    ]
+  },
+  "abstract": {
+    "value": [
+      "High incidences of neck pain morbidity are challenging in various situations for populations based on their demographic, physiological and pathological characteristics. Chinese proprietary herbal medicines, as Complementary and Alternative Medicine (CAM) products, are usually developed from well-established and long-standing recipes formulated as tablets or capsules. However, good quantification and strict standardization are still needed for implementation of individualized therapies. The Qishe pill was developed and has been used clinically since 2009. The Qishe pill’s personalized medicine should be documented and administered to various patients according to the ancient TCM system, a classification of personalized constitution types, established to determine predisposition and prognosis to diseases as well as therapy and life-style administration. Therefore, we describe the population pharmacokinetic profile of the Qishe pill and compare its metabolic rate in the three major constitution types (Qi-Deficiency, Yin-Deficiency and Blood-Stasis) to address major challenges to individualized standardized TCM."
+    ]
+  },
+  "fulltext_html": {
+    "value": [
+      "http://www.trialsjournal.com/content/16/1/64"
+    ]
+  },
+  "fulltext_pdf": {
+    "value": [
+      "http://www.trialsjournal.com/content/pdf/s13063-015-0568-6.pdf"
+    ]
+  },
+  "fulltext_xml": {
+    "value": [
+      "/content/download/xml/s13063-015-0568-6.xml"
+    ]
+  },
+  "supplementary_material": {
+    "value": [
+      "http://trialsjournal.com/content/download/supplementary/s13063-015-0568-6-s1.jpeg"
+    ]
+  },
+  "figure": {
+    "value": [
+      "/content/figures/s13063-015-0568-6-1.gif",
+      "/content/figures/s13063-015-0568-6-2.gif",
+      "/content/figures/s13063-015-0568-6-3.gif"
+    ]
+  },
+  "figure_caption": {
+    "value": [
+      "Figure 1.",
+      "Patient flowchart detailing the process, including screening, allocation, and analysis.",
+      "Figure 2.",
+      "Architecture and basic elements of the population pharmacokinetic (PopPK) research\n            based on medical informatics and data management.",
+      "Figure 3.",
+      "Mean plasma concentration-time curves of seven components after oral administration\n            of the Qishe pill at medium and high dosages (n = 4)."
+    ]
+  },
+  "license": {
+    "value": [
+      "\r\n\t\t\t\tThis is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.\r\n\t\t\t"
+    ]
+  },
+  "copyright": {
+    "value": [
+      "\r\n            © 2015 Sun et al.; licensee BioMed Central. \r\n        "
+    ]
+  }
+}

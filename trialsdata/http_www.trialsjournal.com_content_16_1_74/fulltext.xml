@@ -1,0 +1,2621 @@
+<?xml version='1.0'?>
+<!DOCTYPE art SYSTEM 'http://www.biomedcentral.com/xml/article.dtd'>
+<art>
+    <ui>s13063-015-0587-3</ui>
+    <ji>1745-6215</ji>
+    <fm>
+       <dochead>Study protocol</dochead>
+       <bibl>
+          <title>
+             <p>Safety and feasibility of xenon as an adjuvant to sevoflurane anaesthesia in children undergoing interventional or diagnostic cardiac catheterization: study protocol for a randomised controlled trial</p>
+          </title>
+          <aug>
+             <au id="A1" ca="yes">
+                <snm>Devroe</snm>
+                <fnm>Sarah</fnm>
+                <insr iid="I1"/>
+                <email>sarah.devroe@uzleuven.be</email>
+             </au>
+             <au id="A2">
+                <snm>Lemiere</snm>
+                <fnm>Jurgen</fnm>
+                <insr iid="I2"/>
+                <insr iid="I3"/>
+                <email>jurgen.lemiere@uzleuven.be</email>
+             </au>
+             <au id="A3">
+                <snm>Van de Velde</snm>
+                <fnm>Marc</fnm>
+                <insr iid="I1"/>
+                <insr iid="I4"/>
+                <email>marc.vandevelde@uzleuven.be</email>
+             </au>
+             <au id="A4">
+                <snm>Gewillig</snm>
+                <fnm>Marc</fnm>
+                <insr iid="I5"/>
+                <email>marc.gewillig@uzleuven.be</email>
+             </au>
+             <au id="A5">
+                <snm>Boshoff</snm>
+                <fnm>Derize</fnm>
+                <insr iid="I5"/>
+                <email>derize.boshoff@uzleuven.be</email>
+             </au>
+             <au id="A6">
+                <snm>Rex</snm>
+                <fnm>Steffen</fnm>
+                <insr iid="I1"/>
+                <insr iid="I4"/>
+                <email>steffen.rex@uzleuven.be</email>
+             </au>
+          </aug>
+          <insg>
+             <ins id="I1">
+                <p>Department of Anaesthesiology, University Hospitals of the KU Leuven, Herestraat 49, Leuven, 3000, Belgium</p>
+             </ins>
+             <ins id="I2">
+                <p>Department of Child and Adolescent Psychiatry, University Hospitals of the KU Leuven, Herestraat 49, Leuven, 3000, Belgium</p>
+             </ins>
+             <ins id="I3">
+                <p>Department of Paediatric Haemato-Oncology, University Hospitals of the KU Leuven, Herestraat 49, Leuven, 3000, Belgium</p>
+             </ins>
+             <ins id="I4">
+                <p>Department of Cardiovascular Sciences, KU Leuven, Herestraat 49, Leuven, 3000, Belgium</p>
+             </ins>
+             <ins id="I5">
+                <p>Department of Paediatric and Congenital Cardiology, University Hospitals of the KU Leuven, Herestraat 49, Leuven, 3000, Belgium</p>
+             </ins>
+          </insg>
+          <source>Trials</source>
+          <issn>1745-6215</issn>
+          <pubdate>2015</pubdate>
+          <volume>16</volume>
+          <issue>1</issue>
+          <fpage>74</fpage>
+          <url>http://www.trialsjournal.com/content/16/1/74</url>
+          <xrefbib>
+             <pubidlist>
+                <pubid idtype="doi">10.1186/s13063-015-0587-3</pubid>
+             </pubidlist>
+          </xrefbib>
+       </bibl>
+       <history>
+          <rec>
+             <date>
+                <day>9</day>
+                <month>10</month>
+                <year>2014</year>
+             </date>
+          </rec>
+          <acc>
+             <date>
+                <day>2</day>
+                <month>2</month>
+                <year>2015</year>
+             </date>
+          </acc>
+          <pub>
+             <date>
+                <day>4</day>
+                <month>3</month>
+                <year>2015</year>
+             </date>
+          </pub>
+       </history>
+       <cpyrt>
+          <year>2015</year>
+          <collab>Devroe et al.; licensee BioMed Central.</collab>
+          <note>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/4.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (<url>http://creativecommons.org/publicdomain/zero/1.0/</url>) applies to the data made available in this article, unless otherwise stated.</note>
+       </cpyrt>
+       <kwdg>
+          <kwd>Anaesthetics</kwd>
+          <kwd>Inhalation</kwd>
+          <kwd>Xenon</kwd>
+          <kwd>Sevoflurane</kwd>
+          <kwd>Congenital heart defects</kwd>
+          <kwd>Cardiac catheterization</kwd>
+       </kwdg>
+       <abs>
+          <sec>
+             <st>
+                <p>Abstract</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Background</p>
+                </st>
+                <p>Xenon has minimal haemodynamic side effects when compared to volatile or intravenous anaesthetics. Moreover, in <it>in vitro</it> and in animal experiments, xenon has been demonstrated to convey cardio- and neuroprotective effects. Neuroprotection could be advantageous in paediatric anaesthesia as there is growing concern, based on both laboratory studies and retrospective human clinical studies, that anaesthetics may trigger an injury in the developing brain, resulting in long-lasting neurodevelopmental consequences. Furthermore, xenon-mediated neuroprotection could help to prevent emergence delirium/agitation. Altogether, the beneficial haemodynamic profile combined with its putative organ-protective properties could render xenon an attractive option for anaesthesia of children undergoing cardiac catheterization.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Methods/Design</p>
+                </st>
+                <p>In a phase-II, mono-centre, prospective, single-blind, randomised, controlled study, we will test the hypothesis that the administration of 50% xenon as an adjuvant to general anaesthesia with sevoflurane in children undergoing elective cardiac catheterization is safe and feasible. Secondary aims include the evaluation of haemodynamic parameters during and after the procedure, emergence characteristics, and the analysis of peri-operative neuro-cognitive function.</p>
+                <p>A total of 40 children ages 4 to 12&#160;years will be recruited and randomised into two study groups, receiving either a combination of sevoflurane and xenon or sevoflurane alone.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Discussion</p>
+                </st>
+                <p>Children undergoing diagnostic or interventional cardiac catheterization are a vulnerable patient population, one particularly at risk for intra-procedural haemodynamic instability. Xenon provides remarkable haemodynamic stability and potentially has cardio- and neuroprotective properties. Unfortunately, evidence is scarce on the use of xenon in the paediatric population. Our pilot study will therefore deliver important data required for prospective future clinical trials.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Trial registration</p>
+                </st>
+                <p>
+                    <url>EudraCT: 2014-002510-23</url> (5 September 2014)</p>
+             </sec>
+          </sec>
+       </abs>
+    </fm>
+    <bdy>
+       <sec>
+          <st>
+             <p>Background</p>
+          </st>
+          <p>Despite originally being described as chemically inert, noble gases including xenon, argon and helium have been repeatedly demonstrated to exhibit remarkable biological properties. In 1939, Behnke and Yarbrough observed narcotic effects of argon in humans at pressures from 4 to 10&#160;atm <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>. In 1946, Lawrence reported anaesthetic properties of normobaric xenon in mice <abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp>. The first use of xenon for anaesthesia in humans was performed by Cullen and Gross in 1951 <abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B3">3</abbr>
+             </abbrgrp>. However, only the development of closed-circuit anaesthesia machines in the 1990s has made xenon available to a broader spectrum of patients. Xenon is described as having many of the characteristics of an ideal inhalational anaesthetic agent. It is non-flammable, non-explosive, non-toxic, devoid of teratogenic effects and does not contribute to the greenhouse effect. Due to the lowest blood/gas partition coefficient of all known anaesthetics, xenon provides rapid induction and emergence from anaesthesia. Moreover, xenon affects haemodynamics, myocardial performance and the neurohumoral system less than other anaesthetic agents <abbrgrp>
+                <abbr bid="B4">4</abbr>
+             </abbrgrp>.</p>
+          <p>Since the &#8216;re-introduction&#8217; of xenon into clinical anaesthesia by Lachmann and colleagues in 1990 <abbrgrp>
+                <abbr bid="B5">5</abbr>
+             </abbrgrp>, xenon has been repeatedly demonstrated in experimental and clinical studies to produce only minimal haemodynamic side effects when compared to volatile or intravenous anaesthetics, even when used in heart failure conditions <abbrgrp>
+                <abbr bid="B6">6</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B9">9</abbr>
+             </abbrgrp>. This inert haemodynamic profile may be owing to the fact that xenon anaesthesia is associated with significantly less sympathicolysis than known from other anaesthetics <abbrgrp>
+                <abbr bid="B10">10</abbr>
+             </abbrgrp>. Meanwhile, these initial observations could be confirmed in two European multi-centre randomised controlled trials in which xenon was compared to isoflurane and found to slightly decrease heart rate and to preserve or moderately increase arterial pressures <abbrgrp>
+                <abbr bid="B11">11</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B12">12</abbr>
+             </abbrgrp>. Moreover, recent evidence indicates that - in contrast to the majority of conventionally used general anaesthetics - xenon is virtually devoid of negative inotropic effects <abbrgrp>
+                <abbr bid="B12">12</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B15">15</abbr>
+             </abbrgrp>. Furthermore, and adding to the culminating evidence that noble gases exert organ-protective effects in various conditions, xenon was found to induce both early and late pharmacological preconditioning in experimental models of myocardial ischemia <abbrgrp>
+                <abbr bid="B16">16</abbr>
+             </abbrgrp>.</p>
+          <p>Several clinical trials have been specifically performed in patients at increased cardiovascular risk or during cardiac surgery <abbrgrp>
+                <abbr bid="B17">17</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B20">20</abbr>
+             </abbrgrp>. In this high-risk group, xenon anaesthesia was devoid of negative haemodynamic side effects, but instead showed a preservation of pre-anaesthetic haemodynamic parameters during the procedure.</p>
+          <p>The effects of xenon on right ventricular afterload are controversial. One study reported an increase in pulmonary arterial elastance in pigs that received xenon in addition to a baseline anaesthesia with pentobarbital and fentanyl <abbrgrp>
+                <abbr bid="B21">21</abbr>
+             </abbrgrp>. In contrast, other investigators described xenon as not affecting pulmonary vascular resistance (PVR) in pigs <abbrgrp>
+                <abbr bid="B22">22</abbr>
+             </abbrgrp>. Accordingly, Goto observed no changes in PVR in patients undergoing xenon anaesthesia <abbrgrp>
+                <abbr bid="B23">23</abbr>
+             </abbrgrp>. Likewise, Bedi and co-workers found PVR did not change in critically ill patients who were sedated with xenon during their stay in the intensive care unit <abbrgrp>
+                <abbr bid="B24">24</abbr>
+             </abbrgrp>. Our group also did not observe any effects of xenon on PVR in patients undergoing open-heart surgery <abbrgrp>
+                <abbr bid="B25">25</abbr>
+             </abbrgrp>.</p>
+          <p>From the present literature, there is hence no hint for a safety risk of xenon in patients with cardiac co-morbidity.</p>
+          <p>Apart from its beneficial effects on the cardiovascular system, xenon has been repeatedly demonstrated to offer neuroprotection in various animal models and models of neuronal injury, including neuronal ischemia, hypoxia, traumatic brain injury, neonatal asphyxia, cardiopulmonary bypass-associated neuronal injury and postoperative cognitive dysfunction (POCD) <abbrgrp>
+                <abbr bid="B26">26</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B33">33</abbr>
+             </abbrgrp>.</p>
+          <p>Xenon-mediated neuroprotection could be of particular interest in paediatric anaesthesia because epidemiologic studies have recently documented a correlation between anaesthetic exposure at a young age and subsequent learning difficulties and specific neurologic deficits <abbrgrp>
+                <abbr bid="B34">34</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B37">37</abbr>
+             </abbrgrp>. Of note, xenon has been demonstrated to attenuate isoflurane-induced neuro-degeneration in rats <abbrgrp>
+                <abbr bid="B38">38</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B39">39</abbr>
+             </abbrgrp>. In paediatric anaesthesia, exposure to sevoflurane is a well-known risk factor for the occurrence of emergence delirium after general anaesthesia in preschool children. Emergence delirium occurs in up to 80% of the anaesthetized children, has been associated with a prolonged stay in the postoperative care unit, can result in self-injury and has been linked to maladaptive behavioural changes during the late post-operative period. As the addition of xenon helps to reduce the sevoflurane concentrations and as the mechanism of anaesthesia of xenon is fundamentally different from that of sevoflurane, the incidence of emergence delirium could therefore be reduced <abbrgrp>
+                <abbr bid="B40">40</abbr>
+             </abbrgrp>.</p>
+          <p>The efficacy and safety of xenon for general anaesthesia has been repeatedly demonstrated in clinical trials, resulting in the medicolegal approval by the European Medicines Agency (EMA) in 2007.</p>
+          <p>Unfortunately, xenon has not been approved yet as an anaesthetic for children 0 to 18&#160;years of age, most probably due to a paucity of clinical data that are required for a marketing approval. Up to now, there is no indication that xenon is associated with detrimental effects in children. In contrast, there is increasing evidence that xenon is also remarkably safe in the neonatal/paediatric population. Numerous studies have proven that xenon offers long-term functional and histopathologic neuroprotection in rodents after neonatal hypoxia/ischemia <abbrgrp>
+                <abbr bid="B26">26</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B28">28</abbr>
+             </abbrgrp>. Also, in asphyxiated new-born pigs, xenon enhances hypothermic neuroprotection and offers stable haemodynamics <abbrgrp>
+                <abbr bid="B41">41</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B42">42</abbr>
+             </abbrgrp>. Based on these animal data, two clinical trials are currently recruiting human neonates in the UK: one in which the effect of inhaled xenon (combined with therapeutic hypothermia) is evaluated in new-born infants with hypoxic-ischaemic encephalopathy (NCT01545271) and a second trial assessing whether following perinatal asphyxia, a combination therapy of inhaled xenon and hypothermia can preserve cerebral metabolism and structure (NCT00934700).</p>
+          <p>Up to now, the minimum alveolar concentration (MAC) of xenon required to produce anaesthesia in children is unknown. In adults, the MAC of xenon has been determined to be 63% <abbrgrp>
+                <abbr bid="B43">43</abbr>
+             </abbrgrp>. It has to be assumed that - in accordance with other volatile or gaseous anaesthetics - the MAC of xenon in children is higher than in adults. Given a minimum requirement of 30% inhaled oxygen in ventilated patients, xenon mono-anaesthesia will be difficult to achieve in the paediatric population. Hence, xenon administration to children probably will have to be performed with sub-anaesthetic doses that will be applied in adjunction to the established anaesthetic sevoflurane. Such a strategy is associated with several advantages:</p>
+          <p>It has been repeatedly demonstrated that xenon interacts additively with other anaesthetics, which allows a significant dose reduction of the anaesthetics to which xenon is added and results in less haemodynamic compromise <abbrgrp>
+                <abbr bid="B44">44</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B45">45</abbr>
+             </abbrgrp>. Further, in the majority of animal experiments, xenon has been demonstrated to exert its cardio- and neuroprotective effects already in sub-anaesthetic concentrations [0.25-0.5 MAC], suggesting that organ protection can be achieved independently from anaesthetic effects. In rats, it has been shown that the combination of xenon and sevoflurane preconditioning induces long-term neuroprotection in neonatal asphyxia <abbrgrp>
+                <abbr bid="B46">46</abbr>
+             </abbrgrp>. Due to the scarcity of xenon (air contains only 87&#160;ppb xenon), xenon anaesthesia is extremely costly. The combination of xenon with sevoflurane may be suited to reduce xenon consumption and associated costs without compromising xenon&#8217;s organ protective effects.</p>
+          <sec>
+             <st>
+                <p>Aims of the study</p>
+             </st>
+             <p>We hypothesise that combining sevoflurane anaesthesia with 50% xenon will be safe and feasible. Testing children undergoing cardiac catheterization (in which surgical trauma and inflammation is nearly absent) will also allow to study neuro-cognitive effects of anaesthetics independently from those induced by surgery.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Methods/Design</p>
+          </st>
+          <sec>
+             <st>
+                <p>Design of the study</p>
+             </st>
+             <p>This phase II study is a mono-centre, prospective, single-blind, randomised and controlled trial.</p>
+             <p>The study will be performed according to the principles of the international declaration of Helsinki and to the principles of good clinical practice (GCP) and is approved by the ethics committee of the University Hospitals Leuven (S56902, 17 September 2014), by the Clinical Trials Centre of the University Hospital Leuven, and by the &#8216;Federaal Agentschap voor Geneesmiddelen en Gezondheidsproducten&#8217;. The study is registered in the European Clinical Trials Database of the European Medicines Agency (EudraCT Identifier: 2014-002510-23). Any eventual changes of the study protocol will be reported to the ethics committee.</p>
+             <p>Randomisation is being used to minimize selection bias. Patients will be randomised using a computer-generated permuted block randomisation sequence. Randomisation will be stratified by age (Stratum I: age 4 to 7&#160;years; Stratum II: 8 to 12&#160;years).</p>
+             <p>Concealment bias will be avoided by a masked randomisation procedure in which group assignments are ensured in sealed, opaque, sequentially numbered envelopes, which are opened only after the arrival of the patient in the catheterization room.</p>
+             <p>Due to the kind of intervention (administration of one or two anaesthetics via vapour and monitoring of xenon concentrations), the study has to be performed single-blind. The study will however be conducted by two investigator types: study enrolment and the post-anaesthesia follow-up will be performed by Investigator I who is (similarly to the patient) blinded to the study treatment, and Investigator II will only perform the general anaesthesia and will be, therefore, necessarily unblinded to the treatment conditions.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Objectives</p>
+             </st>
+             <p>The primary objective of this study is to evaluate the safety and the feasibility of xenon anaesthesia in children. The safety will be assessed by the incidence of intraoperative adverse events (heart rate: &gt;20% change from baseline; blood pressure: &gt;20% change from baseline; requirements of vasopressors, inotropes and chronotropes). Moreover, we will compare average heart rate and blood pressure between both groups and also determine the average deviation of these parameters from baseline. The feasibility will be tested by intraoperative monitoring of depth of anaesthesia (physiologic signs plus bispectral index (BIS)) and by the intraoperative respiratory profile (as continuously measured by pulse oximetry and capnography).</p>
+             <p>Secondary endpoints of this study are as follow:</p><p>1. Invasive haemodynamic data, including intra-cardiac, systemic and pulmonary vascular pressures that are routinely measured during these procedures by the interventional cardiologist, after induction of anaesthesia and at the end of the procedure</p>
+                <p>2. Intraoperative fluid balance.</p>
+                <p>3. Intraoperative xenon/sevoflurane consumption.</p>
+                <p>4. Perioperative release of serum protein 100 &#946; (S100 &#946;) and interleukin (IL) 6.</p>
+                <p>5. Recovery times (measured from the stop of study treatment inhalation): time to open eyes, time to follow commands, time to extubation, time to (modified) Aldrete score &#8805;9 <abbrgrp>
+                      <abbr bid="B47">47</abbr>
+                   </abbrgrp>,<abbrgrp>
+                      <abbr bid="B48">48</abbr>
+                   </abbrgrp>.</p>
+                <p>6. Incidence of emergence delirium as assessed with the &#8216;Paediatric Anaesthesia Emergence Delirium Scale&#8217; <abbrgrp>
+                      <abbr bid="B49">49</abbr>
+                   </abbrgrp> and the &#8216;Four-point Agitation Scale&#8217; <abbrgrp>
+                      <abbr bid="B47">47</abbr>
+                   </abbrgrp>,<abbrgrp>
+                      <abbr bid="B50">50</abbr>
+                   </abbrgrp>.</p>
+                <p>7. Incidence of post-operative nausea (PON) as assessed by a visual analogue score (VAS) in the post-anaesthesia care unit (PACU) and 12 to 24&#160;h postoperatively. PON is defined as an unpleasant sensation associated with awareness of an urge to vomit <abbrgrp>
+                      <abbr bid="B51">51</abbr>
+                   </abbrgrp>. The presence of nausea symptoms will be determined either by spontaneous reporting or by a direct inquiry made by the investigator ever 15&#160;minutes throughout the PACU stay. The VAS nausea ranges from no nausea (score of 0) to extreme nausea (score of 100).</p>
+                <p>8. Incidence of post-operative vomiting (POV) in the post-anaesthesia care unit (PACU) and 12 to 24&#160;h postoperatively. An emetic episode is defined as a single or continuing occurrence of vomiting or retching. Distinct episodes are defined by an interval of respite of more than 1&#160;minute.</p>
+                <p>9. The duration of post-anaesthesia care unit and hospital stay.</p>
+                <p>10. Neuro-cognitive testing, 1 to 2&#160;h and 12 to 24&#160;h postoperatively (for details, see below).</p>
+                <p>11. Longitudinal follow-up of cognitive function after 1&#160;year.</p>
+                <p>12. Incidence of (serious) adverse events ((S)AE) at any time point.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Inclusion and exclusion criteria</p>
+             </st>
+             <p>The criteria for inclusion are children aged 4 to 12&#160;years, who are scheduled for elective diagnostic or interventional cardiac catheterization under general anaesthesia and who are willing, along with their parents, to complete the requirements of this study, including the signature of the written informed consent.</p>
+             <p>The criteria for exclusion are cyanotic congenital heart defects possibly requiring a FiO2 of &gt;40% during the procedure; high-risk and complex interventional procedures (as defined by the paediatric cardiologist); psychomotoric retardation (defined as the non-achievement of age-specific developmental milestones); or lack of informed consent from the subjects parents.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Number of patients</p>
+             </st>
+             <p>A total of 40 children, 20 randomised in each of the two study groups, will be enrolled into this study.</p>
+             <p>This trial is planned as a pilot study to assess the safety and feasibility of xenon as an adjuvant to sevoflurane anaesthesia in children. A sample size calculation cannot be performed as required data are not available in literature. Given our experience with xenon trials in adults, a number of 40 patients should be sufficient to detect a statistically significant difference in safety and feasibility criteria <abbrgrp>
+                   <abbr bid="B25">25</abbr>
+                </abbrgrp>.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Investigational plan and treatments</p>
+             </st>
+             <p>Eligible patients will be randomly assigned to one of the two study groups. In group A, general anaesthesia will be maintained with xenon 50% in oxygen (FiO<sub>2</sub>&#8201;=&#8201;0.25 to 0.4) as an adjuvant to sevoflurane anaesthesia. In group B, general anaesthesia will be maintained with sevoflurane anaesthesia alone (FiO<sub>2</sub>&#8201;=&#8201;0.25 to 0.4). In both groups, sevoflurane end-tidal concentrations will be titrated according to the instantaneously registered EEG-monitoring in order to achieve a BIS-value between 40 and 60.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Measurements and observations</p>
+             </st>
+             <p>See Figure&#160;<figr fid="F1">1</figr>.
+                  </p>
+             
+                <fig id="F1">
+                   <title>
+                      <p>Figure 1</p>
+                   </title>
+                   <caption>
+                      <p>Study visits. </p>
+                   </caption>
+                   <text>
+                      <p>
+                            <b>Study visits.</b> ANT, Amsterdam Neuropsychological Tasks (ANT) battery; BIS, Bispectral index monitoring; PACU, Post-anaesthesia Care Unit; PONV, Postoperative nausea and vomiting; WPPSI, Wechsler Preschool and Primary Scale of Intelligence (&gt;6y); WSCI, Wechsler Intelligence Scale for Children (&lt;6y).</p>
+                   </text>
+                   <graphic file="s13063-015-0587-3-1"/>
+                </fig>
+             
+          </sec>
+          <sec>
+             <st>
+                <p>Visit 0 (Investigator I)</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Recruitment</p>
+                </st>
+                <p>Patients will be recruited by investigator I. Detailed information about the study background and the protocol will be given to the patients&#8217; parents, and any possible questions brought forward by the parents will be answered. Parents of eligible children who agree to allow their child to participate in the study will sign a written informed consent before any specific study procedure will be initiated.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Pre-anaesthetic assessment</p>
+                </st>
+                <p>After obtaining the written informed consent, the investigator will evaluate and record baseline data (demographic data, medical and surgical history, and routine clinical examination) and perform baseline cognitive testing.</p>
+                <p>Cognitive function will be assessed by a selection of tests of the computerized Amsterdam Neuropsychological Tasks (ANT) battery designed for this study <abbrgrp>
+                      <abbr bid="B52">52</abbr>
+                   </abbrgrp>,<abbrgrp>
+                      <abbr bid="B53">53</abbr>
+                   </abbrgrp>. We will test simple motor reaction time, focused and divided attention, inhibitory control and cognitive flexibility and motor coordination. Parallel versions of the different ANT subtests will be used to minimize retest effects. The main advantage of the ANT is the combination of reaction time measurements and accuracy (error rate), which not only contributes to the sensitivity to detect problems in these neuro-cognitive domains but also can clarify whether the patient group predominantly suffers from deficits in processing speed, overall performance or a combination of both.</p>
+                <p>The outcomes of ANT will be adjusted to the general intellectual performance, registered by the assessment of the short version of the Wechsler Preschool and Primary Scale of Intelligence-III (WPPSI-III) for children younger than 6&#160;years, and the Wechsler Intelligence Scale for Children (WISC-III) for patients between 6 and 16&#160;years <abbrgrp>
+                      <abbr bid="B54">54</abbr>
+                   </abbrgrp>,<abbrgrp>
+                      <abbr bid="B55">55</abbr>
+                   </abbrgrp>. To complete the assessment of the baseline cognitive function, one of the parents will also be asked to complete two questionnaires at the first visit.</p>
+                <p>The first is a standardized questionnaire (120 items) for examining behavioural problems and competencies of children aged 4/6 to 18 (Child Behaviour Checklist (CBCL) 1&#189; -5 and 6&#8211;18 <abbrgrp>
+                      <abbr bid="B56">56</abbr>
+                   </abbrgrp>). Internationally, this questionnaire is among the most used questionnaires and has been evaluated as adequate by the COTAN (&#8216;Commissie Testaangelegenheden Nederland&#8217;) on all criteria <abbrgrp>
+                      <abbr bid="B57">57</abbr>
+                   </abbrgrp>.</p>
+                <p>This second questionnaire assesses executive functions of children by reports of parent (Behavioural Rating Inventory of Executive Functions (BRIEF)) <abbrgrp>
+                      <abbr bid="B57">57</abbr>
+                   </abbrgrp>. It consists of eight subscales: inhibition, cognitive flexibility, regulation of emotions, taking initiative, working memory, planning and organising, orderliness, and monitoring of behaviour.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Visit 1 (Investigator II)</p>
+             </st>
+             <sec>
+                <st>
+                   <p>General anaesthesia for cardiac catheterization</p>
+                </st>
+                <p>Patients must be in a fasting state for 6&#160;h prior to anaesthesia. The children will not be premedicated with benzodiazepines, in order to avoid the well-known short-term impairment of cognitive function lasting for 48&#160;h after midazolam premedication <abbrgrp>
+                      <abbr bid="B58">58</abbr>
+                   </abbrgrp>. For non-pharmacological anxiolysis, parents will be encouraged to accompany their children until the induction of anaesthesia.</p>
+                <p>Patients will be continuously monitored and the following parameters will be recorded every 5&#160;min from the pre-anaesthetic period to the end of the surgical procedure: arterial oxygen saturation (SaO<sub>2</sub>), non-invasive blood pressure (NIBP; systolic and diastolic blood pressure and mean arterial pressure), heart rate, FiO<sub>2</sub>, end-tidal O<sub>2</sub> and CO<sub>2</sub>, temperature and BIS. Intra-cardiac, systemic and pulmonary vascular pressures will be measured twice during these procedures by the interventional cardiologist: after induction of anaesthesia and at the end of the procedure. At the same time points, 2&#160;ml of blood will be obtained from the central venous sheet (<it>in situ</it> for the interventional procedure). After centrifugation this blood will be stored at &#8722;80&#176;C for later determination of S100 &#946; and IL-6.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Induction of anaesthesia</p>
+                </st>
+                <p>After a 2&#160;min pre-oxygenation period (FiO2&#8201;=&#8201;1.0), general anaesthesia will be induced with a combination of: propofol 3&#160;mg/kg IV as a bolus, fentanyl 2&#160;&#956;g/kg IV as a bolus and rocuronium 0.3&#160;mg/kg IV as a bolus. Dexamethasone 0.15&#160;mg/kg as a bolus IV will be given as a standard for PONV-prophylaxis.</p>
+                <p>If, in an exceptional case, an intravenous line is not available prior to induction, induction of anaesthesia will be performed by inhalation of sevoflurane.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Maintenance of anaesthesia</p>
+                </st>
+                <p>The administration of xenon 50% in oxygen (FiO2&#8201;=&#8201;0.25 to 0.4) as an adjuvant to sevoflurane anaesthesia (Group A) or sevoflurane anaesthesia alone (FiO2&#8201;=&#8201;0.25 to 0.4) (Group B) will be started once the patient has been intubated.</p>
+                <p>In both groups, sevoflurane end-tidal concentrations will be titrated according to the instantaneously registered EEG-monitoring in order to achieve a BIS-value between 40 and 60.</p>
+                <p>The investigational treatment will be administered until the end of the procedure. Then the application of xenon and sevoflurane will be stopped. Patients of both groups will be transferred when awake to the PACU.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Haemodynamic and ventilator management</p>
+                </st>
+                <p>Intraoperative haemodynamic management will be standardized according to our clinical routine. Systolic blood pressure and heart rate will be maintained within a 20% range of the baseline value. Deviations from this corridor will be treated by the administration of appropriate vasoactive and/or chronotropic medication. Ventilation will be adjusted to maintain end-tidal CO<sub>2</sub> levels that reflect preoperative levels in these children.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Duration of treatment per patient</p>
+                </st>
+                <p>The duration of the treatment will be determined by the time from induction of anaesthesia until the end of the procedure. The average estimated time is 1 to 2&#160;hours.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Visit 2 (Investigator I): Post -anaesthesia study visit</p>
+             </st>
+             <p>This visit will be performed during the first 1 to 2&#160;h after cardiac catheterization on the post-anaesthesia care unit (PACU). The following parameters will be assessed: routine clinical examination, including the assessment of heart rate and blood pressure; electrocardiogram; assessment of PON and POV; Aldrete score; and the incidence of emergence delirium.</p>
+             <p>If a patient with a VAS &gt;20 complains of nausea, ondansetron 0.1&#160;mg/kg will be administered immediately as a rescue medication.</p>
+             <p>Rescue medication for POV will be offered once the patient has more than one emetic episode. Rescue medication will also be offered on demand from the patient or his parents.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Visit 3 (Investigator I): Post -PACU study visit on the ward</p>
+             </st>
+             <p>A neuro-cognitive examination (selection of tests of the ANT-battery designed for this study) will be performed 1 to 2&#160;h after discharge from the PACU by investigator I.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Visit 4 (Investigator I): Study end visit: The morning (12&#8211;24 h) following the procedure</p>
+             </st>
+             <p>On the morning following the cardiac catheterization, investigator I will perform a routine clinical examination, including the assessment of heart rate and blood pressure, an electrocardiogram and a final neuro-cognitive examination (tasks of the ANT battery as mentioned above). There will also be a last assessment of the incidence of PONV and (S)AE.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Visit 5 (investigator I): Follow-up visit after 1 year</p>
+             </st>
+             <p>Neuro-cognitive examination (selection of tests of the ANT-battery designed for this study) will be repeated by investigator I one year after the cardiac catheterization and the parents will be asked to complete the BRIEF and CBCL questionnaire. This evaluation will take place in our institution at a routine follow-up with the paediatric cardiologist after one year, or if the child is not in follow-up in our institution anymore, an appointment will be made to visit the child at home.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Data processing</p>
+             </st>
+             <p>Intraoperative data are recorded manually in 5&#160;min intervals on specific case record forms (CRF). BIS-values will be electronically recorded every second. In addition, important pre- and postoperative data will be manually documented during the pre-specified visits on CRF&#8217;s.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Statistical tests</p>
+             </st>
+             <p>An investigator or a study nurse will review completed CRFs for completeness and correctness before digitalization and statistical analysis. At this time point, missing data will be identified, if possible drawn from source data and filled into the CRFs. Missing data not being found in the source data will not be expected. In any case, data will be analysed according to the Intention-To-Treat principle.</p>
+             <p>All collected data will be analysed using descriptive statistics. After testing for normal distribution, primary and secondary outcome parameters will be compared between the two groups using appropriate comparative statistical methods.</p>
+             <p>A <it>P</it> &lt;0.05 will be considered to indicate statistical significance in all employed tests.</p>
+             <p>Any deviations from the original statistical plan will be described and justified in the protocol and in the final report.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Discussion</p>
+          </st>
+          <p>Children undergoing diagnostic or interventional cardiac catheterization are a vulnerable patient population that is at particular risk for intra-procedural haemodynamic instability. The ideal anaesthetic for these children should ensure excellent haemodynamic stability, without compromising oxygen delivery. Moreover it should maintain baseline haemodynamics to allow the assessment of intra-cardiac, systemic and pulmonary haemodynamics that are reflecting &#8216;true&#8217; conditions, not affected by side effects of anaesthetics.</p>
+          <p>Xenon provides remarkable haemodynamic stability and potentially has cardio- and neuroprotective properties. Unfortunately, evidence is scarce on the use of xenon in the paediatric population. Our pilot study will provide data about the feasibility of xenon anaesthesia in children undergoing cardiac catheterization and will therefore deliver important data required to prospect larger clinical trials. We will focus on children age &#8805;4&#160;years to enable reliable neuro-cognitive testing.</p>
+          <sec>
+             <st>
+                <p>Benefits for the participating patients</p>
+             </st>
+             <p>There is no guarantee that a combination of xenon and sevoflurane, instead of standard treatment with sevoflurane alone, will provide any medical advantage to the participant.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Safety issues</p>
+             </st>
+             <p>The interventional treatment will be administered to patients with standard haemodynamic monitoring in the setting of a fully equipped cardiac catheterization room. This enables immediate detection and treatment of adverse events. Xenon inhalation will immediately be stopped in case the study patient shows a life-threatening deterioration. Also, after leaving the intervention room, all patients will be closely monitored by the study team for the occurrence of eventual (S)AE&#8217;s, first on the PACU and later on the normal ward. Moreover, the inclusion of each individual patient into the study is indicated in the electronic hospital information system and hence visible to all physicians and nurses involved in the care of this patient. This facilitates reporting of (S)AE&#8217;s to the principal investigator.</p>
+             <p>Moreover, study data will be regularly checked for safety by an independent clinical paediatric cardiologist who is not involved in the course of this clinical trial.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Trial status</p>
+          </st>
+          <p>Patient recruitment will start in December 2014. The predicted study completion date is September 2016.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Abbreviations</p>
+          </st>
+          <p>ANT: Amsterdam Neuropsychological Tasks</p>
+          <p>BIS: Bispectral index monitoring</p>
+          <p>BRIEF: Behavioural Rating Inventory of Executive Functions</p>
+          <p>CBCL: Child Behaviour Check List</p>
+          <p>COTAN: Commissie Test Aangelegenheden Nederland</p>
+          <p>CRF: case record form</p>
+          <p>EEG: electro-encephalogram</p>
+          <p>FiO2: fraction of inspired oxygen</p>
+          <p>IV: intravenous</p>
+          <p>MAC: minimum alveolar concentration</p>
+          <p>NIBP: non-invasive blood pressure</p>
+          <p>PACU: post-anaesthesia care unit</p>
+          <p>POCD: postoperative cognitive dysfunction</p>
+          <p>PON: post-operative nausea</p>
+          <p>PONV: post-operative nausea and vomiting</p>
+          <p>POV: post-operative vomiting</p>
+          <p>PVR: pulmonary vascular resistance</p>
+          <p>(S)AE: (serious) adverse event</p>
+          <p>SaO2: arterial oxygen saturation</p>
+          <p>WPPSI-III: Wechsler Preschool and Primary Scale of Intelligence for Children Younger Than 6 Years</p>
+          <p>WSCI-III: Wechsler Intelligence Scale for Children Between 6&#8211;16 Years</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Competing interests</p>
+          </st>
+          <p>The study is being funded solely by institutional and departmental sources.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Authors&#8217; contributions</p>
+          </st>
+          <p>All authors substantially contributed to the conception and design of the study. SD and SR drafted the manuscript with input from MV, MG, DB and JL. JL provided all scientific and practical information for neuro-cognitive testing of the children and the parent questionnaires. All authors read and approved the final manuscript.</p>
+       </sec>
+    </bdy>
+    <bm>
+       <ack>
+          <sec>
+             <st>
+                <p>Acknowledgements</p>
+             </st>
+             <p>No funding to declare.</p>
+          </sec>
+       </ack>
+       <refgrp>
+          
+          <bibl id="B1">
+             <title>
+                <p>The treatment of compressed air illness</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Yarbrough</snm>
+                   <fnm>OD</fnm>
+                </au>
+                <au>
+                   <snm>Behnke</snm>
+                   <fnm>AR</fnm>
+                </au>
+             </aug>
+             <source>J Ind Hyg Toxicol</source>
+             <pubdate>1939</pubdate>
+             <volume>21</volume>
+             <fpage>213</fpage>
+          </bibl>
+          <bibl id="B2">
+             <title>
+                <p>Preliminary observations on the narcotic effect of xenon with a review of values for solubilities of gases in water and oils</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Lawrence</snm>
+                   <fnm>JH</fnm>
+                </au>
+                <au>
+                   <snm>Loomis</snm>
+                   <fnm>WF</fnm>
+                </au>
+             </aug>
+             <source>J Physiol (Lond).</source>
+             <pubdate>1946</pubdate>
+             <volume>105</volume>
+             <fpage>197</fpage>
+             <lpage>204</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1113/jphysiol.1946.sp004164</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B3">
+             <title>
+                <p>The anesthetic properties of xenon in animals and human beings, with additional observations on krypton</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Cullen</snm>
+                   <fnm>SC</fnm>
+                </au>
+                <au>
+                   <snm>Gross</snm>
+                   <fnm>EG</fnm>
+                </au>
+             </aug>
+             <source>Science.</source>
+             <pubdate>1951</pubdate>
+             <volume>113</volume>
+             <fpage>580</fpage>
+             <lpage>2</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1126/science.113.2942.580</pubid>
+                   <pubid idtype="pmpid" link="fulltext">14834873</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B4">
+             <title>
+                <p>Neuroprotective effects of the inhalational anesthetics isoflurane and xenon after cardiac arrest in pigs</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Derwall</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Timper</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Kottmann</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Rossaint</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Fries</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>Crit Care Med.</source>
+             <pubdate>2008</pubdate>
+             <volume>36</volume>
+             <fpage>S492</fpage>
+             <lpage>5</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/CCM.0b013e31818a904a</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20449916</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B5">
+             <title>
+                <p>Safety and efficacy of xenon in routine use as an inhalational anaesthetic</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Lachmann</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Armbruster</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Schairer</snm>
+                   <fnm>W</fnm>
+                </au>
+                <au>
+                   <snm>Landstra</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Trouwborst</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Van Daal</snm>
+                   <fnm>GJ</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Lancet.</source>
+             <pubdate>1990</pubdate>
+             <volume>335</volume>
+             <fpage>1413</fpage>
+             <lpage>5</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/0140-6736(90)91444-F</pubid>
+                   <pubid idtype="pmpid" link="fulltext">1972207</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B6">
+             <title>
+                <p>Haemodynamic and neurohumoral effects of xenon anaesthesia. A comparison with nitrous oxide</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Boomsma</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Rupreht</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Man in &#8217;t Veld</snm>
+                   <fnm>AJ</fnm>
+                </au>
+                <au>
+                   <snm>Man in &#8217;t Veld</snm>
+                   <fnm>AJ</fnm>
+                </au>
+                <au>
+                   <snm>de Jong</snm>
+                   <fnm>FH</fnm>
+                </au>
+                <au>
+                   <snm>Dzoljic</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Lachmann</snm>
+                   <fnm>B</fnm>
+                </au>
+             </aug>
+             <source>Anaesthesia</source>
+             <pubdate>1990</pubdate>
+             <volume>45</volume>
+             <fpage>273</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1365-2044.1990.tb14731.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">2337209</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B7">
+             <title>
+                <p>Cardiovascular effects of xenon in isoflurane-anesthetized dogs with dilated cardiomyopathy</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hettrick</snm>
+                   <fnm>DA</fnm>
+                </au>
+                <au>
+                   <snm>Pagel</snm>
+                   <fnm>PS</fnm>
+                </au>
+                <au>
+                   <snm>Kersten</snm>
+                   <fnm>JR</fnm>
+                </au>
+                <au>
+                   <snm>Tessmer</snm>
+                   <fnm>JP</fnm>
+                </au>
+                <au>
+                   <snm>Bosnjak</snm>
+                   <fnm>ZJ</fnm>
+                </au>
+                <au>
+                   <snm>Georgieff</snm>
+                   <fnm>M</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Anesthesiology.</source>
+             <pubdate>1998</pubdate>
+             <volume>89</volume>
+             <fpage>1166</fpage>
+             <lpage>73</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/00000542-199811000-00017</pubid>
+                   <pubid idtype="pmpid" link="fulltext">9822005</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B8">
+             <title>
+                <p>The direct myocardial effects of xenon in the dog heart in vivo</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Preckel</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Ebel</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>M&#252;llenheim</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Fr&#228;ssdorf</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Th&#228;mer</snm>
+                   <fnm>V</fnm>
+                </au>
+                <au>
+                   <snm>Schlack</snm>
+                   <fnm>W</fnm>
+                </au>
+             </aug>
+             <source>Anesth Analg</source>
+             <pubdate>2002</pubdate>
+             <volume>94</volume>
+             <fpage>545</fpage>
+             <lpage>51</lpage>
+             <note> table of contents</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/00000539-200203000-00012</pubid>
+                   <pubid idtype="pmpid" link="fulltext">11867372</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B9">
+             <title>
+                <p>Xenon produces minimal haemodynamic effects in rabbits with chronically compromised left ventricular function</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Preckel</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Schlack</snm>
+                   <fnm>W</fnm>
+                </au>
+                <au>
+                   <snm>Heibel</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>R&#252;tten</snm>
+                   <fnm>H</fnm>
+                </au>
+             </aug>
+             <source>Br J Anaesth.</source>
+             <pubdate>2002</pubdate>
+             <volume>88</volume>
+             <fpage>264</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/bja/88.2.264</pubid>
+                   <pubid idtype="pmpid" link="fulltext">11878658</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B10">
+             <title>
+                <p>Cardiovascular stability and unchanged muscle sympathetic activity during xenon anaesthesia: role of norepinephrine uptake inhibition</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Neukirchen</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Hipp</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Schaefer</snm>
+                   <fnm>MS</fnm>
+                </au>
+                <au>
+                   <snm>Brandenburger</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Bauer</snm>
+                   <fnm>I</fnm>
+                </au>
+                <au>
+                   <snm>Winterhalter</snm>
+                   <fnm>M</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Br J Anaesth.</source>
+             <pubdate>2012</pubdate>
+             <volume>109</volume>
+             <fpage>887</fpage>
+             <lpage>96</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/bja/aes303</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22945969</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B11">
+             <title>
+                <p>Multicenter randomized comparison of the efficacy and safety of xenon and isoflurane in patients undergoing elective surgery</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Rossaint</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Reyle-Hahn</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Schulte Am Esch</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Scholz</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Scherpereel</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Vallet</snm>
+                   <fnm>B</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Anesthesiology</source>
+             <pubdate>2003</pubdate>
+             <volume>98</volume>
+             <fpage>6</fpage>
+             <lpage>13</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/00000542-200301000-00005</pubid>
+                   <pubid idtype="pmpid" link="fulltext">12502972</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B12">
+             <title>
+                <p>Multicenter randomized comparison of xenon and isoflurane on left ventricular function in patients undergoing elective surgery</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Wappler</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Rossaint</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Baumert</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Scholz</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Tonner</snm>
+                   <fnm>PH</fnm>
+                </au>
+                <au>
+                   <snm>van Aken</snm>
+                   <fnm>H</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Anesthesiology.</source>
+             <pubdate>2007</pubdate>
+             <volume>106</volume>
+             <fpage>463</fpage>
+             <lpage>71</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/00000542-200703000-00010</pubid>
+                   <pubid idtype="pmpid" link="fulltext">17325504</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B13">
+             <title>
+                <p>Xenon does not impair the responsiveness of cardiac muscle bundles to positive inotropic and chronotropic stimulation</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Schroth</snm>
+                   <fnm>SC</fnm>
+                </au>
+                <au>
+                   <snm>Schotten</snm>
+                   <fnm>U</fnm>
+                </au>
+                <au>
+                   <snm>Alkanoglu</snm>
+                   <fnm>O</fnm>
+                </au>
+                <au>
+                   <snm>Reyle-Hahn</snm>
+                   <fnm>MS</fnm>
+                </au>
+                <au>
+                   <snm>Hanrath</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Rossaint</snm>
+                   <fnm>R</fnm>
+                </au>
+             </aug>
+             <source>Anesthesiology.</source>
+             <pubdate>2002</pubdate>
+             <volume>96</volume>
+             <fpage>422</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/00000542-200202000-00030</pubid>
+                   <pubid idtype="pmpid" link="fulltext">11818777</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B14">
+             <title>
+                <p>Effects of the anesthetic gases xenon, halothane, and isoflurane on calcium and potassium currents in human atrial cardiomyocytes</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>H&#252;neke</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>J&#252;ngling</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Skasa</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Rossaint</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>L&#252;ckhoff</snm>
+                   <fnm>A</fnm>
+                </au>
+             </aug>
+             <source>Anesthesiology.</source>
+             <pubdate>2001</pubdate>
+             <volume>95</volume>
+             <fpage>999</fpage>
+             <lpage>1006</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/00000542-200110000-00032</pubid>
+                   <pubid idtype="pmpid" link="fulltext">11605944</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B15">
+             <title>
+                <p>Xenon or propofol anaesthesia for patients at cardiovascular risk in non-cardiac surgery</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Baumert</snm>
+                   <fnm>J-H</fnm>
+                </au>
+                <au>
+                   <snm>Hein</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Hecker</snm>
+                   <fnm>KE</fnm>
+                </au>
+                <au>
+                   <snm>Satlow</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Neef</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Rossaint</snm>
+                   <fnm>R</fnm>
+                </au>
+             </aug>
+             <source>Br J Anaesth.</source>
+             <pubdate>2008</pubdate>
+             <volume>100</volume>
+             <fpage>605</fpage>
+             <lpage>11</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/bja/aen050</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18344556</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B16">
+             <title>
+                <p>Anesthesia for the young child undergoing ambulatory procedures: current concerns regarding harm to the developing brain</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Olsen</snm>
+                   <fnm>EA</fnm>
+                </au>
+                <au>
+                   <snm>Brambrink</snm>
+                   <fnm>AM</fnm>
+                </au>
+             </aug>
+             <source>Curr Opin Anaesthesiol.</source>
+             <pubdate>2013</pubdate>
+             <volume>26</volume>
+             <fpage>677</fpage>
+             <lpage>84</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/ACO.0000000000000016</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24184885</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B17">
+             <title>
+                <p>Xenon anaesthesia may preserve cardiovascular function in patients with heart failure</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Baumert</snm>
+                   <fnm>J-H</fnm>
+                </au>
+                <au>
+                   <snm>Falter</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Eletr</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Hecker</snm>
+                   <fnm>KE</fnm>
+                </au>
+                <au>
+                   <snm>Reyle-Hahn</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Rossaint</snm>
+                   <fnm>R</fnm>
+                </au>
+             </aug>
+             <source>Acta Anaesthesiol Scand.</source>
+             <pubdate>2005</pubdate>
+             <volume>49</volume>
+             <fpage>743</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1399-6576.2005.00662.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15954952</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B18">
+             <title>
+                <p>Comparison of xenon-based anaesthesia compared with total intravenous anaesthesia in high risk surgical patients</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bein</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Turowski</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Renner</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Hanss</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Steinfath</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Scholz</snm>
+                   <fnm>J</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Anaesthesia.</source>
+             <pubdate>2005</pubdate>
+             <volume>60</volume>
+             <fpage>960</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1365-2044.2005.04326.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">16179039</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B19">
+             <title>
+                <p>The influence of xenon on regulation of the autonomic nervous system in patients at high risk of perioperative cardiac complications</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hanss</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Bein</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Turowski</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Cavus</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Bauer</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Andretzke</snm>
+                   <fnm>M</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Br J Anaesth.</source>
+             <pubdate>2006</pubdate>
+             <volume>96</volume>
+             <fpage>427</fpage>
+             <lpage>36</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/bja/ael028</pubid>
+                   <pubid idtype="pmpid" link="fulltext">16500952</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B20">
+             <title>
+                <p>Feasibility and safety of delivering xenon to patients undergoing coronary artery bypass graft surgery while on cardiopulmonary bypass: phase I study</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Lockwood</snm>
+                   <fnm>GG</fnm>
+                </au>
+                <au>
+                   <snm>Franks</snm>
+                   <fnm>NP</fnm>
+                </au>
+                <au>
+                   <snm>Downie</snm>
+                   <fnm>NA</fnm>
+                </au>
+                <au>
+                   <snm>Taylor</snm>
+                   <fnm>KM</fnm>
+                </au>
+                <au>
+                   <snm>Maze</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>Anesthesiology.</source>
+             <pubdate>2006</pubdate>
+             <volume>104</volume>
+             <fpage>458</fpage>
+             <lpage>65</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/00000542-200603000-00012</pubid>
+                   <pubid idtype="pmpid" link="fulltext">16508392</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B21">
+             <title>
+                <p>Xenon alters right ventricular function</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hein</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Baumert</snm>
+                   <fnm>J-H</fnm>
+                </au>
+                <au>
+                   <snm>Roehl</snm>
+                   <fnm>AB</fnm>
+                </au>
+                <au>
+                   <snm>Pasch</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Schnoor</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Coburn</snm>
+                   <fnm>M</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Acta Anaesthesiol Scand.</source>
+             <pubdate>2008</pubdate>
+             <volume>52</volume>
+             <fpage>1056</fpage>
+             <lpage>63</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1399-6576.2008.01696.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18840104</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B22">
+             <title>
+                <p>Effects on haemodynamics and catecholamine release of xenon anaesthesia compared with total i.v. anaesthesia in the pig</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Marx</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Froeba</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Wagner</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Baeder</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Goertz</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Georgieff</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>Br J Anaesth</source>
+             <pubdate>1997</pubdate>
+             <volume>78</volume>
+             <fpage>326</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/bja/78.3.326</pubid>
+                   <pubid idtype="pmpid" link="fulltext">9135317</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B23">
+             <title>
+                <p>Cardiovascular effects of xenon and nitrous oxide in patients during fentanyl-midazolam anaesthesia</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Goto</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Hanne</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Ishiguro</snm>
+                   <fnm>Y</fnm>
+                </au>
+                <au>
+                   <snm>Ichinose</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Niimi</snm>
+                   <fnm>Y</fnm>
+                </au>
+                <au>
+                   <snm>Morita</snm>
+                   <fnm>S</fnm>
+                </au>
+             </aug>
+             <source>Anaesthesia.</source>
+             <pubdate>2004</pubdate>
+             <volume>59</volume>
+             <fpage>1178</fpage>
+             <lpage>83</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1365-2044.2004.03900.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15549976</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B24">
+             <title>
+                <p>Use of xenon as a sedative for patients receiving critical care</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bedi</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Murray</snm>
+                   <fnm>JM</fnm>
+                </au>
+                <au>
+                   <snm>Dingley</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Stevenson</snm>
+                   <fnm>MA</fnm>
+                </au>
+                <au>
+                   <snm>Fee</snm>
+                   <fnm>JPH</fnm>
+                </au>
+             </aug>
+             <source>Crit Care Med.</source>
+             <pubdate>2003</pubdate>
+             <volume>31</volume>
+             <fpage>2470</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/01.CCM.0000089934.66049.76</pubid>
+                   <pubid idtype="pmpid" link="fulltext">14530753</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B25">
+             <title>
+                <p>Feasibility and safety of xenon compared with sevoflurane anaesthesia in coronary surgical patients: a randomized controlled pilot study</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Stoppe</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Fahlenkamp</snm>
+                   <fnm>AV</fnm>
+                </au>
+                <au>
+                   <snm>Rex</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Veeck</snm>
+                   <fnm>NC</fnm>
+                </au>
+                <au>
+                   <snm>Gozdowsky</snm>
+                   <fnm>SC</fnm>
+                </au>
+                <au>
+                   <snm>Sch&#228;lte</snm>
+                   <fnm>G</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Br J Anaesth.</source>
+             <pubdate>2013</pubdate>
+             <volume>111</volume>
+             <fpage>406</fpage>
+             <lpage>16</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/bja/aet072</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23578862</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B26">
+             <title>
+                <p>The protective profile of argon, helium, and xenon in a model of neonatal asphyxia in rats</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Zhuang</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Yang</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Zhao</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Fidalgo</snm>
+                   <fnm>AR</fnm>
+                </au>
+                <au>
+                   <snm>Vizcaychipi</snm>
+                   <fnm>MP</fnm>
+                </au>
+                <au>
+                   <snm>Sanders</snm>
+                   <fnm>RD</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Crit Care Med.</source>
+             <pubdate>2012</pubdate>
+             <volume>40</volume>
+             <fpage>1724</fpage>
+             <lpage>30</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/CCM.0b013e3182452164</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22610177</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B27">
+             <title>
+                <p>Xenon and hypothermia combine additively, offering long-term functional and histopathologic neuroprotection after neonatal hypoxia/ischemia</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hobbs</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Thoresen</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Tucker</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Aquilina</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Chakkarapani</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Dingley</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>Stroke.</source>
+             <pubdate>2008</pubdate>
+             <volume>39</volume>
+             <fpage>1307</fpage>
+             <lpage>13</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1161/STROKEAHA.107.499822</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18309163</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B28">
+             <title>
+                <p>Cooling combined with immediate or delayed xenon inhalation provides equivalent long-term neuroprotection after neonatal hypoxia-ischemia</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Thoresen</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Hobbs</snm>
+                   <fnm>CE</fnm>
+                </au>
+                <au>
+                   <snm>Wood</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Chakkarapani</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Dingley</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>J Cereb Blood Flow Metab.</source>
+             <pubdate>2009</pubdate>
+             <volume>29</volume>
+             <fpage>707</fpage>
+             <lpage>14</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1038/jcbfm.2008.163</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19142190</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B29">
+             <title>
+                <p>Neuroprotective gases - Fantasy or reality for clinical use?</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Deng</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Lei</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Chen</snm>
+                   <fnm>Y</fnm>
+                </au>
+                <au>
+                   <snm>Fang</snm>
+                   <fnm>Z</fnm>
+                </au>
+                <au>
+                   <snm>Yang</snm>
+                   <fnm>Q</fnm>
+                </au>
+                <au>
+                   <snm>Zhang</snm>
+                   <fnm>H</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Prog Neurobiol.</source>
+             <pubdate>2014</pubdate>
+             <volume>115C</volume>
+             <fpage>210</fpage>
+             <lpage>45</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.pneurobio.2014.01.001</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B30">
+             <title>
+                <p>Postoperative neurocognitive dysfunction in elderly patients after xenon versus propofol anesthesia for major noncardiac surgery: a double-blinded randomized controlled pilot study</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>H&#246;cker</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Stapelfeldt</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Leiendecker</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Meybohm</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Hanss</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Scholz</snm>
+                   <fnm>J</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Anesthesiology.</source>
+             <pubdate>2009</pubdate>
+             <volume>110</volume>
+             <fpage>1068</fpage>
+             <lpage>76</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/ALN.0b013e31819dad92</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19352169</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B31">
+             <title>
+                <p>Xenon pretreatment may prevent early memory decline after isoflurane anesthesia and surgery in mice</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Vizcaychipi</snm>
+                   <fnm>MP</fnm>
+                </au>
+                <au>
+                   <snm>Lloyd</snm>
+                   <fnm>DG</fnm>
+                </au>
+                <au>
+                   <snm>Wan</snm>
+                   <fnm>Y</fnm>
+                </au>
+                <au>
+                   <snm>Palazzo</snm>
+                   <fnm>MG</fnm>
+                </au>
+                <au>
+                   <snm>Maze</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Ma</snm>
+                   <fnm>D</fnm>
+                </au>
+             </aug>
+             <source>PLoS One.</source>
+             <pubdate>2011</pubdate>
+             <volume>6</volume>
+             <fpage>e26394</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1371/journal.pone.0026394</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22073162</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B32">
+             <title>
+                <p>Early cognitive function, recovery and well-being after sevoflurane and xenon anaesthesia in the elderly: a double-blinded randomized controlled trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Cremer</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Stoppe</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Fahlenkamp</snm>
+                   <fnm>AV</fnm>
+                </au>
+                <au>
+                   <snm>Sch&#228;lte</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Rex</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Rossaint</snm>
+                   <fnm>R</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Med Gas Res.</source>
+             <pubdate>2011</pubdate>
+             <volume>1</volume>
+             <fpage>9</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1186/2045-9912-1-9</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22146537</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B33">
+             <title>
+                <p>Recovery index, attentiveness and state of memory after xenon or isoflurane anaesthesia: a randomized controlled trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Stuttmann</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Jakubetz</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Schultz</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Sch&#228;fer</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Langer</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Ullmann</snm>
+                   <fnm>U</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>BMC Anesthesiol.</source>
+             <pubdate>2010</pubdate>
+             <volume>10</volume>
+             <fpage>5</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1186/1471-2253-10-5</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20459661</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B34">
+             <title>
+                <p>The effects of exposure to general anesthesia in infancy on academic performance at age 12</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bong</snm>
+                   <fnm>CL</fnm>
+                </au>
+                <au>
+                   <snm>Allen</snm>
+                   <fnm>JC</fnm>
+                </au>
+                <au>
+                   <snm>Kim</snm>
+                   <fnm>JTS</fnm>
+                </au>
+             </aug>
+             <source>Anesth Analg.</source>
+             <pubdate>2013</pubdate>
+             <volume>117</volume>
+             <fpage>1419</fpage>
+             <lpage>28</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1213/ANE.0b013e318299a7c2</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24132012</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B35">
+             <title>
+                <p>Early childhood exposure to anesthesia and risk of developmental and behavioral disorders in a sibling birth cohort</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>DiMaggio</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Sun</snm>
+                   <fnm>LS</fnm>
+                </au>
+                <au>
+                   <snm>Li</snm>
+                   <fnm>G</fnm>
+                </au>
+             </aug>
+             <source>Anesth Analg.</source>
+             <pubdate>2011</pubdate>
+             <volume>113</volume>
+             <fpage>1143</fpage>
+             <lpage>51</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1213/ANE.0b013e3182147f42</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21415431</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B36">
+             <title>
+                <p>Review article: Neurotoxicity of anesthetic drugs in the developing brain</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Stratmann</snm>
+                   <fnm>G</fnm>
+                </au>
+             </aug>
+             <source>Anesth Analg.</source>
+             <pubdate>2011</pubdate>
+             <volume>113</volume>
+             <fpage>1170</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1213/ANE.0b013e318232066c</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21965351</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B37">
+             <title>
+                <p>Early childhood general anaesthesia exposure and neurocognitive development</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Sun</snm>
+                   <fnm>L</fnm>
+                </au>
+             </aug>
+             <source>Br J Anaesth.</source>
+             <pubdate>2010</pubdate>
+             <volume>105</volume>
+             <issue>Suppl 1</issue>
+             <fpage>i61</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/bja/aeq302</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21148656</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B38">
+             <title>
+                <p>Xenon mitigates isoflurane-induced neuronal apoptosis in the developing rodent brain</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Ma</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Williamson</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Januszewski</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Nogaro</snm>
+                   <fnm>M-C</fnm>
+                </au>
+                <au>
+                   <snm>Hossain</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Ong</snm>
+                   <fnm>LP</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Anesthesiology.</source>
+             <pubdate>2007</pubdate>
+             <volume>106</volume>
+             <fpage>746</fpage>
+             <lpage>53</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/01.anes.0000264762.48920.80</pubid>
+                   <pubid idtype="pmpid" link="fulltext">17413912</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B39">
+             <title>
+                <p>Xenon pretreatment attenuates anesthetic-induced apoptosis in the developing brain in comparison with nitrous oxide and hypoxia</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Shu</snm>
+                   <fnm>Y</fnm>
+                </au>
+                <au>
+                   <snm>Patel</snm>
+                   <fnm>SM</fnm>
+                </au>
+                <au>
+                   <snm>Pac-Soo</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Fidalgo</snm>
+                   <fnm>AR</fnm>
+                </au>
+                <au>
+                   <snm>Wan</snm>
+                   <fnm>Y</fnm>
+                </au>
+                <au>
+                   <snm>Maze</snm>
+                   <fnm>M</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Anesthesiology.</source>
+             <pubdate>2010</pubdate>
+             <volume>113</volume>
+             <fpage>360</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/ALN.0b013e3181d960d7</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20613483</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B40">
+             <title>
+                <p>Emergence delirium in children: an update</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Dahmani</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Delivet</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Hilly</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>Curr Opin Anaesthesiol.</source>
+             <pubdate>2014</pubdate>
+             <volume>27</volume>
+             <fpage>309</fpage>
+             <lpage>15</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/ACO.0000000000000076</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24784918</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B41">
+             <title>
+                <p>Xenon enhances hypothermic neuroprotection in asphyxiated newborn pigs</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Chakkarapani</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Dingley</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Liu</snm>
+                   <fnm>X</fnm>
+                </au>
+                <au>
+                   <snm>Hoque</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Aquilina</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Porter</snm>
+                   <fnm>H</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Ann Neurol.</source>
+             <pubdate>2010</pubdate>
+             <volume>68</volume>
+             <fpage>330</fpage>
+             <lpage>41</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1002/ana.22016</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20658563</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B42">
+             <title>
+                <p>Xenon offers stable haemodynamics independent of induced hypothermia after hypoxia-ischaemia in newborn pigs</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Chakkarapani</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Thoresen</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Liu</snm>
+                   <fnm>X</fnm>
+                </au>
+                <au>
+                   <snm>Walloe</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Dingley</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>Intensive Care Med.</source>
+             <pubdate>2012</pubdate>
+             <volume>38</volume>
+             <fpage>316</fpage>
+             <lpage>23</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1007/s00134-011-2442-7</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22160201</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B43">
+             <title>
+                <p>Minimum alveolar concentration (MAC) of xenon with sevoflurane in humans</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Nakata</snm>
+                   <fnm>Y</fnm>
+                </au>
+                <au>
+                   <snm>Goto</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Ishiguro</snm>
+                   <fnm>Y</fnm>
+                </au>
+                <au>
+                   <snm>Terui</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Kawakami</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Santo</snm>
+                   <fnm>M</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Anesthesiology.</source>
+             <pubdate>2001</pubdate>
+             <volume>94</volume>
+             <fpage>611</fpage>
+             <lpage>4</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/00000542-200104000-00014</pubid>
+                   <pubid idtype="pmpid" link="fulltext">11379681</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B44">
+             <title>
+                <p>Minimum alveolar concentration-awake of Xenon alone and in combination with isoflurane or sevoflurane</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Goto</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Nakata</snm>
+                   <fnm>Y</fnm>
+                </au>
+                <au>
+                   <snm>Ishiguro</snm>
+                   <fnm>Y</fnm>
+                </au>
+                <au>
+                   <snm>Niimi</snm>
+                   <fnm>Y</fnm>
+                </au>
+                <au>
+                   <snm>Suwa</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Morita</snm>
+                   <fnm>S</fnm>
+                </au>
+             </aug>
+             <source>Anesthesiology.</source>
+             <pubdate>2000</pubdate>
+             <volume>93</volume>
+             <fpage>1188</fpage>
+             <lpage>93</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/00000542-200011000-00009</pubid>
+                   <pubid idtype="pmpid" link="fulltext">11046204</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B45">
+             <title>
+                <p>The effective concentration 50 (EC50) for propofol with 70% xenon versus 70% nitrous oxide</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Barakat</snm>
+                   <fnm>AR</fnm>
+                </au>
+                <au>
+                   <snm>Schreiber</snm>
+                   <fnm>MN</fnm>
+                </au>
+                <au>
+                   <snm>Flaschar</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Georgieff</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Schraag</snm>
+                   <fnm>S</fnm>
+                </au>
+             </aug>
+             <source>Anesth Analg</source>
+             <pubdate>2008</pubdate>
+             <volume>106</volume>
+             <fpage>823</fpage>
+             <note> 9&#8211;table of contents</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1213/ane.0b013e318161534b</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18292426</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B46">
+             <title>
+                <p>Xenon and sevoflurane protect against brain injury in a neonatal asphyxia model</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Luo</snm>
+                   <fnm>Y</fnm>
+                </au>
+                <au>
+                   <snm>Ma</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Ieong</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Sanders</snm>
+                   <fnm>RD</fnm>
+                </au>
+                <au>
+                   <snm>Yu</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Hossain</snm>
+                   <fnm>M</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Anesthesiology.</source>
+             <pubdate>2008</pubdate>
+             <volume>109</volume>
+             <fpage>782</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/ALN.0b013e3181895f88</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18946288</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B47">
+             <title>
+                <p>Comparison of the Effects of 0.03 and 0.05&#160;mg/kg Midazolam with Placebo on Prevention of Emergence Agitation in Children Having Strabismus Surgery</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Cho</snm>
+                   <fnm>EJ</fnm>
+                </au>
+                <au>
+                   <snm>Yoon</snm>
+                   <fnm>SZ</fnm>
+                </au>
+                <au>
+                   <snm>Cho</snm>
+                   <fnm>JE</fnm>
+                </au>
+                <au>
+                   <snm>Lee</snm>
+                   <fnm>HW</fnm>
+                </au>
+             </aug>
+             <source>Anesthesiology.</source>
+             <pubdate>2014</pubdate>
+             <volume>120</volume>
+             <fpage>1354</fpage>
+             <lpage>61</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/ALN.0000000000000181</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24566243</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B48">
+             <title>
+                <p>The post-anesthesia recovery score revisited</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Aldrete</snm>
+                   <fnm>JA</fnm>
+                </au>
+             </aug>
+             <source>J Clin Anesth.</source>
+             <pubdate>1995</pubdate>
+             <volume>7</volume>
+             <fpage>89</fpage>
+             <lpage>91</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/0952-8180(94)00001-K</pubid>
+                   <pubid idtype="pmpid" link="fulltext">7772368</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B49">
+             <title>
+                <p>Development and psychometric evaluation of the pediatric anesthesia emergence delirium scale</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Sikich</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Lerman</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>Anesthesiology.</source>
+             <pubdate>2004</pubdate>
+             <volume>100</volume>
+             <fpage>1138</fpage>
+             <lpage>45</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/00000542-200405000-00015</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15114210</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B50">
+             <title>
+                <p>Greater incidence of delirium during recovery from sevoflurane anesthesia in preschool boys</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Aono</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Ueda</snm>
+                   <fnm>W</fnm>
+                </au>
+                <au>
+                   <snm>Mamiya</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Takimoto</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Manabe</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>Anesthesiology.</source>
+             <pubdate>1997</pubdate>
+             <volume>87</volume>
+             <fpage>1298</fpage>
+             <lpage>300</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/00000542-199712000-00006</pubid>
+                   <pubid idtype="pmpid" link="fulltext">9416712</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B51">
+             <title>
+                <p>Consensus guidelines for the management of postoperative nausea and vomiting</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Gan</snm>
+                   <fnm>TJ</fnm>
+                </au>
+                <au>
+                   <snm>Diemunsch</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Habib</snm>
+                   <fnm>AS</fnm>
+                </au>
+                <au>
+                   <snm>Kovac</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Kranke</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Meyer</snm>
+                   <fnm>TA</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Anesth Analg.</source>
+             <pubdate>2014</pubdate>
+             <volume>118</volume>
+             <fpage>85</fpage>
+             <lpage>113</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1213/ANE.0000000000000002</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24356162</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B52">
+             <aug>
+                <au>
+                   <snm>de Sonneville</snm>
+                   <fnm>L</fnm>
+                </au>
+             </aug>
+             <source>Amsterdam Neuropsychological Tasks: Manual (Handleiding)</source>
+             <publisher>The Netherlands. Boom Test Uitgevers, Amsterdam</publisher>
+             <pubdate>2011</pubdate>
+          </bibl>
+          <bibl id="B53">
+             <title>
+                <p>Neurocognitive development of children 4&#160;years after critical illness and treatment with tight glucose control: a randomized controlled trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Mesotten</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Gielen</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Sterken</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Claessens</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Hermans</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Vlasselaers</snm>
+                   <fnm>D</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>JAMA.</source>
+             <pubdate>2012</pubdate>
+             <volume>308</volume>
+             <fpage>1641</fpage>
+             <lpage>50</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1001/jama.2012.12424</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23101118</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B54">
+             <aug>
+                <au>
+                   <snm>Vander Steene</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Bos</snm>
+                   <fnm>A</fnm>
+                </au>
+             </aug>
+             <source>WPSSI-R: Vlaams-Nederlandse Aanpassing</source>
+             <publisher>Swets &amp; Zeitlinger BV, Lisse, The Netherlands</publisher>
+             <pubdate>1997</pubdate>
+          </bibl>
+          <bibl id="B55">
+             <aug>
+                <au>
+                   <snm>Wechsler</snm>
+                   <fnm>D</fnm>
+                </au>
+             </aug>
+             <source>WAIS III, Nederlandstalige Bewerking: Afname en Scoringshandleiding</source>
+             <publisher>Harcourt Test Publisher, Amsterdam, The Netherlands</publisher>
+             <pubdate>2004</pubdate>
+          </bibl>
+          <bibl id="B56">
+             <aug>
+                <au>
+                   <snm>Verhulst</snm>
+                   <fnm>FC</fnm>
+                </au>
+                <au>
+                   <snm>van der Ende</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Koot</snm>
+                   <fnm>JM</fnm>
+                </au>
+             </aug>
+             <source>Handleiding Voor De CBCL/4-18</source>
+             <publisher>Sophia Kinderziekenhuis/Academisch Ziekenhuis Rotterdam/Erasmus Universiteit Rotterdam, Afdeling Kinder- en Jeugdpsychiatrie</publisher>
+             <pubdate>1996</pubdate>
+          </bibl>
+          <bibl id="B57">
+             <aug>
+                <au>
+                   <snm>Smidts</snm>
+                   <fnm>DP</fnm>
+                </au>
+                <au>
+                   <snm>Huizinga</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>BRIEF Executieve Functies Gedragsvragenlijst: Handleiding</source>
+             <publisher>Hogreve Uitgevers, Amsterdam, The Netherlands</publisher>
+             <pubdate>2009</pubdate>
+          </bibl>
+          <bibl id="B58">
+             <title>
+                <p>A randomised placebo-controlled trial of the effects of midazolam premedication on children&#8217;s postoperative cognition</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Millar</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Asbury</snm>
+                   <fnm>AJ</fnm>
+                </au>
+                <au>
+                   <snm>Bowman</snm>
+                   <fnm>AW</fnm>
+                </au>
+                <au>
+                   <snm>Hosey</snm>
+                   <fnm>MT</fnm>
+                </au>
+                <au>
+                   <snm>Martin</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Musiello</snm>
+                   <fnm>T</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Anaesthesia.</source>
+             <pubdate>2007</pubdate>
+             <volume>62</volume>
+             <fpage>923</fpage>
+             <lpage>30</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1365-2044.2007.05148.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">17697220</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+       </refgrp>
+    </bm>
+ </art>

@@ -1,0 +1,91 @@
+{
+  "publisher": {
+    "value": [
+      "BioMed Central Ltd"
+    ]
+  },
+  "journal": {
+    "value": [
+      "Trials"
+    ]
+  },
+  "title": {
+    "value": [
+      "Recruitment and retention strategies and the examination of attrition bias in a randomised controlled trial in children¿s centres serving families in disadvantaged areas of England"
+    ]
+  },
+  "authors": {
+    "value": [
+      "Paul Hindmarch",
+      "Adrian Hawkins",
+      "Elaine McColl",
+      "Mike Hayes",
+      "Gosia Majsak-Newman",
+      "Joanne Ablewhite",
+      "Toity Deave",
+      "Denise Kendrick",
+      "$author.firstName $author.lastName"
+    ]
+  },
+  "date": {
+    "value": [
+      "2015-03-07"
+    ]
+  },
+  "doi": {
+    "value": [
+      "10.1186/s13063-015-0578-4"
+    ]
+  },
+  "volume": {
+    "value": [
+      "16"
+    ]
+  },
+  "issue": {
+    "value": [
+      "1"
+    ]
+  },
+  "firstpage": {
+    "value": [
+      "79"
+    ]
+  },
+  "description": {
+    "value": [
+      "Failure to retain participants in randomised controlled trials and longitudinal studies can cause significant methodological problems. We report the recruitment and retention strategies of a randomised controlled trial to promote fire-related injury prevention in families with pre-school children attending children’s centres in disadvantaged areas in England."
+    ]
+  },
+  "abstract": {
+    "value": [
+      "Failure to retain participants in randomised controlled trials and longitudinal studies can cause significant methodological problems. We report the recruitment and retention strategies of a randomised controlled trial to promote fire-related injury prevention in families with pre-school children attending children’s centres in disadvantaged areas in England."
+    ]
+  },
+  "fulltext_html": {
+    "value": []
+  },
+  "fulltext_pdf": {
+    "value": [
+      "http://www.trialsjournal.com/content/pdf/s13063-015-0578-4.pdf"
+    ]
+  },
+  "fulltext_xml": {
+    "value": []
+  },
+  "supplementary_material": {
+    "value": []
+  },
+  "figure": {
+    "value": []
+  },
+  "figure_caption": {
+    "value": []
+  },
+  "license": {
+    "value": []
+  },
+  "copyright": {
+    "value": []
+  }
+}

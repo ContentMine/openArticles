@@ -1,0 +1,3886 @@
+<?xml version='1.0'?>
+<!DOCTYPE art SYSTEM 'http://www.biomedcentral.com/xml/article.dtd'>
+<art>
+    <ui>s13063-015-0602-8</ui>
+    <ji>1745-6215</ji>
+    <fm>
+       <dochead>Study protocol</dochead>
+       <bibl>
+          <title>
+             <p>Pain reduction with oral methotrexate in knee osteoarthritis, a pragmatic phase iii trial of treatment effectiveness (PROMOTE): study protocol for a randomized controlled trial</p>
+          </title>
+          <aug>
+             <au id="A1">
+                <snm>Kingsbury</snm>
+                <mi>R</mi>
+                <fnm>Sarah</fnm>
+                <insr iid="I1"/>
+                <email>s.r.kingsbury@leeds.ac.uk</email>
+             </au>
+             <au id="A2">
+                <snm>Tharmanathan</snm>
+                <fnm>Puvan</fnm>
+                <insr iid="I2"/>
+                <email>puvan.nathan@york.ac.uk</email>
+             </au>
+             <au id="A3">
+                <snm>Arden</snm>
+                <mi>K</mi>
+                <fnm>Nigel</fnm>
+                <insr iid="I3"/>
+                <email>nigel.arden@ndorms.ox.ac.uk</email>
+             </au>
+             <au id="A4">
+                <snm>Batley</snm>
+                <fnm>Michael</fnm>
+                <insr iid="I4"/>
+                <email>mbatley@nhs.net</email>
+             </au>
+             <au id="A5">
+                <snm>Birrell</snm>
+                <fnm>Fraser</fnm>
+                <insr iid="I5"/>
+                <email>Fraser.Birrell@newcastle.ac.uk</email>
+             </au>
+             <au id="A6">
+                <snm>Cocks</snm>
+                <fnm>Kim</fnm>
+                <insr iid="I2"/>
+                <email>kim.cocks@york.ac.uk</email>
+             </au>
+             <au id="A7">
+                <snm>Doherty</snm>
+                <fnm>Michael</fnm>
+                <insr iid="I6"/>
+                <email>Michael.doherty@nottingham.ac.uk</email>
+             </au>
+             <au id="A8">
+                <snm>Edwards</snm>
+                <mi>J</mi>
+                <fnm>Chris</fnm>
+                <insr iid="I7"/>
+                <email>cedwards@soton.ac.uk</email>
+             </au>
+             <au id="A9">
+                <snm>Garrood</snm>
+                <fnm>Toby</fnm>
+                <insr iid="I8"/>
+                <email>toby.garrood@gstt.nhs.uk</email>
+             </au>
+             <au id="A10">
+                <snm>Grainger</snm>
+                <mi>J</mi>
+                <fnm>Andrew</fnm>
+                <insr iid="I1"/>
+                <email>andrewgrainger@nhs.net</email>
+             </au>
+             <au id="A11">
+                <snm>Green</snm>
+                <fnm>Michael</fnm>
+                <insr iid="I9"/>
+                <email>Michael.Green@york.nhs.uk</email>
+             </au>
+             <au id="A12">
+                <snm>Hewitt</snm>
+                <fnm>Catherine</fnm>
+                <insr iid="I2"/>
+                <email>catherine.hewitt@york.ac.uk</email>
+             </au>
+             <au id="A13">
+                <snm>Hughes</snm>
+                <fnm>Rod</fnm>
+                <insr iid="I10"/>
+                <email>Rod.Hughes@asph.nhs.uk</email>
+             </au>
+             <au id="A14">
+                <snm>Moots</snm>
+                <fnm>Robert</fnm>
+                <insr iid="I11"/>
+                <email>R.J.Moots@liverpool.ac.uk</email>
+             </au>
+             <au id="A15">
+                <snm>O&#8217;Neill</snm>
+                <mi>W</mi>
+                <fnm>Terence</fnm>
+                <insr iid="I12"/>
+                <email>terence.oneill@manchester.ac.uk</email>
+             </au>
+             <au id="A16">
+                <snm>Roddy</snm>
+                <fnm>Edward</fnm>
+                <insr iid="I13"/>
+                <email>e.roddy@keele.ac.uk</email>
+             </au>
+             <au id="A17">
+                <snm>Scott</snm>
+                <mi>L</mi>
+                <fnm>David</fnm>
+                <insr iid="I14"/>
+                <email>d.scott1@nhs.net</email>
+             </au>
+             <au id="A18">
+                <snm>Watt</snm>
+                <mi>E</mi>
+                <fnm>Fiona</fnm>
+                <insr iid="I15"/>
+                <email>fiona.watt@kennedy.ox.ac.uk</email>
+             </au>
+             <au id="A19">
+                <snm>Torgerson</snm>
+                <mi>J</mi>
+                <fnm>David</fnm>
+                <insr iid="I2"/>
+                <email>david.torgerson@york.ac.uk</email>
+             </au>
+             <au id="A20" ca="yes">
+                <snm>Conaghan</snm>
+                <mi>G</mi>
+                <fnm>Philip</fnm>
+                <insr iid="I1"/>
+                <email>p.conaghan@leeds.ac.uk</email>
+             </au>
+          </aug>
+          <insg>
+             <ins id="I1">
+                <p>Leeds Institute of Rheumatic and Musculoskeletal Medicine and National Institute of Health Research (NIHR) Leeds Musculoskeletal Biomedical Research Unit, University of Leeds, Chapeltown Road, Leeds LS7 4SA, UK</p>
+             </ins>
+             <ins id="I2">
+                <p>York Trials Unit, Department of Health Sciences, Faculty of Science, Seebohm Rowntree Building, University of York, Heslington, York YO10 5DD, UK</p>
+             </ins>
+             <ins id="I3">
+                <p>NIHR Musculoskeletal Biomedical Research Unit, Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences, Nuffield Orthopaedic Centre, University of Oxford, Windmill Road, Headington, Oxford OX3 7LD, UK</p>
+             </ins>
+             <ins id="I4">
+                <p>Department of Rheumatology, Maidstone and Tunbridge Wells NHS Trust, Pembury, Tunbridge Wells TN2 4QJ, Kent, UK</p>
+             </ins>
+             <ins id="I5">
+                <p>Musculoskeletal Research Group, Institute for Cellular Medicine, Newcastle University, Musculoskeletal Research Group, 4th Floor Catherine Cookson Building, The Medical School, Framlington Place, Newcastle University, Newcastle NE2 4HH, UK</p>
+             </ins>
+             <ins id="I6">
+                <p>Academic Rheumatology, Clinical Sciences Building, University of Nottingham, Nottingham City Hospital, Hucknall Road, Nottingham NG5 1&#160;PB, UK</p>
+             </ins>
+             <ins id="I7">
+                <p>Department of Rheumatology and NIHR Wellcome Trust Clinical Research Facility, University Hospital Southampton NHS Foundation Trust, Southampton SO16 6YD, UK</p>
+             </ins>
+             <ins id="I8">
+                <p>Guy&#8217;s and St Thomas&#8217; Hospitals Foundation NHS Trust, Great Maze Pond, London SE1 9RT, UK</p>
+             </ins>
+             <ins id="I9">
+                <p>The York Hospital, York Hospitals NHS Foundation Trust, Wigginton Road, York YO31 8HE, UK</p>
+             </ins>
+             <ins id="I10">
+                <p>Rheumatology Department, St Peters Hospital, Guildford Road, Chertsey KT16 0PZ, Surrey, UK</p>
+             </ins>
+             <ins id="I11">
+                <p>Institute of Integrative Biology, University of Liverpool and Institute of Ageing and Chronic Disease, University Hospital Aintree, Longmoor Lane, Fazakerley, Liverpool L9 7AL, Merseyside, UK</p>
+             </ins>
+             <ins id="I12">
+                <p>Arthritis Research UK Centre for Epidemiology, The University of Manchester, 2nd floor, Stopford Building, Oxford Road, Manchester M13 9PT, UK</p>
+             </ins>
+             <ins id="I13">
+                <p>Research Institute for Primary Care and Health Sciences, Keele University, Keele ST5 5BG, Staffordshire, UK</p>
+             </ins>
+             <ins id="I14">
+                <p>Department of Rheumatology, King&#8217;s College London School of Medicine, King&#8217;s College London and Department of Rheumatology, King&#8217;s College Hospital, 10 Cutcombe Road, London SE5 9RJ, London, UK</p>
+             </ins>
+             <ins id="I15">
+                <p>Kennedy Institute of Rheumatology, Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences, University of Oxford, Windmill Road, Oxford, OX3 7HE, UK and Imperial College London, South Kensington Campus, London SW7 2AZ, UK</p>
+             </ins>
+          </insg>
+          <source>Trials</source>
+          <issn>1745-6215</issn>
+          <pubdate>2015</pubdate>
+          <volume>16</volume>
+          <issue>1</issue>
+          <fpage>77</fpage>
+          <url>http://www.trialsjournal.com/content/16/1/77</url>
+          <xrefbib>
+             <pubidlist>
+                <pubid idtype="doi">10.1186/s13063-015-0602-8</pubid>
+             </pubidlist>
+          </xrefbib>
+       </bibl>
+       <history>
+          <rec>
+             <date>
+                <day>5</day>
+                <month>11</month>
+                <year>2014</year>
+             </date>
+          </rec>
+          <acc>
+             <date>
+                <day>11</day>
+                <month>2</month>
+                <year>2015</year>
+             </date>
+          </acc>
+          <pub>
+             <date>
+                <day>4</day>
+                <month>3</month>
+                <year>2015</year>
+             </date>
+          </pub>
+       </history>
+       <cpyrt>
+          <year>2015</year>
+          <collab>Kingsbury et al.; licensee BioMed Central.</collab>
+          <note>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/4.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (<url>http://creativecommons.org/publicdomain/zero/1.0/</url>) applies to the data made available in this article, unless otherwise stated.</note>
+       </cpyrt>
+       <kwdg>
+          <kwd>Double-blind</kwd>
+          <kwd>Knee osteoarthritis</kwd>
+          <kwd>Methotrexate</kwd>
+          <kwd>Placebo-controlled</kwd>
+          <kwd>Randomized</kwd>
+       </kwdg>
+       <abs>
+          <sec>
+             <st>
+                <p>Abstract</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Background</p>
+                </st>
+                <p>Osteoarthritis (OA) is the fastest growing cause of disability worldwide. Current treatments for OA are severely limited and a large proportion of people with OA live in constant, debilitating pain. There is therefore an urgent need for novel treatments to reduce pain. Synovitis is highly prevalent in OA and is associated with pain. In inflammatory arthritides such as rheumatoid arthritis, methotrexate (MTX) is the gold standard treatment for synovitis and has a well-known, acceptable toxicity profile. We propose that using MTX to treat patients with symptomatic knee OA will be a practical and safe treatment to reduce synovitis and, consequently, pain.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Methods/Design</p>
+                </st>
+                <p>Pain Reduction with Oral Methotrexate in knee Osteoarthritis, a pragmatic phase III trial of Treatment Effectiveness (PROMOTE) is an investigator-initiated, multi-centre, randomized, double-blind, pragmatic placebo-controlled trial. A total of 160 participants with symptomatic knee OA will be recruited across primary and secondary care sites in the United Kingdom and randomized on a 1:1 basis to active treatment or placebo, in addition to usual care, for 12&#160;months. As is usual practice for MTX, dosing will be escalated over six weeks to 25&#160;mg (or maximum tolerated dose) weekly for the remainder of the study. The primary endpoint is change in average knee pain during the past week (measured on an 11-point numerical rating scale) between baseline and six months. Secondary endpoints include other self-reported pain, function and quality-of-life measures. A health economics analysis will also be performed. A magnetic resonance imaging substudy will be conducted to provide an explanatory mechanism for associated symptom change by examining whether MTX reduces synovitis and whether this is related to symptom change. Linear and logistic regression will be used to compare changes between groups using univariable and multivariable modelling analyses. All analyses will be conducted on an intention-to-treat basis.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Discussion</p>
+                </st>
+                <p>The PROMOTE trial is designed to examine whether MTX is an effective analgesic treatment for OA. The MRI substudy will address the relationship between synovitis and symptom change. This will potentially provide a much needed new treatment for knee OA.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Trial registration</p>
+                </st>
+                <p>Current Controlled Trials identifier: <url>ISRCTN77854383</url> (registered: 25 October 2013).</p>
+             </sec>
+          </sec>
+       </abs>
+    </fm>
+    <bdy>
+       <sec>
+          <st>
+             <p>Background</p>
+          </st>
+          <p>With a rapidly ageing population, osteoarthritis (OA) has become the fastest growing cause of disability worldwide <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp>. Current estimates suggest that over 250 million people across the globe are affected by OA, with a lifetime risk for the development of knee OA of approximately 40% <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B3">3</abbr>
+             </abbrgrp>. OA is characterized by chronic joint pain and functional impairment, resulting in markedly reduced quality of life for individuals. OA also places an enormous burden on health services and health economies, and is the second leading cause of absence from work <abbrgrp>
+                <abbr bid="B4">4</abbr>
+             </abbrgrp>. The cumulative cost of OA has been estimated to amount to approximately 1% of gross national product <abbrgrp>
+                <abbr bid="B5">5</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B6">6</abbr>
+             </abbrgrp>.</p>
+          <p>One of the major barriers to reducing the impact of OA, both on individuals and society, is the lack of efficacious therapies available to treat the symptoms of OA or to slow the disease process and associated structural progression. Current management guidelines for OA include pharmacological therapies such as paracetamol and NSAIDs, and non-pharmacological therapies including weight loss and exercise <abbrgrp>
+                <abbr bid="B7">7</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B9">9</abbr>
+             </abbrgrp>. Although current treatments are aimed at providing symptomatic relief, recent studies suggest that the large majority of people with OA live in constant pain despite use of available therapies <abbrgrp>
+                <abbr bid="B10">10</abbr>
+             </abbrgrp>. These therapies are also associated with significant toxicities. In addition, because the typical OA patient is of advanced age with multiple comorbidities, many have contraindications to the use of traditional OA medications. Hence, there is a pressing need to identify alternative therapies for OA in order to tackle this increasing problem <abbrgrp>
+                <abbr bid="B11">11</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B12">12</abbr>
+             </abbrgrp>.</p>
+          <p>There is increasing evidence, particularly from imaging studies, of a high prevalence of synovitis (inflammation of the synovial membrane) in OA, with abnormalities present from the earliest stages of the disease and associated with the presence and severity of pain <abbrgrp>
+                <abbr bid="B13">13</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B18">18</abbr>
+             </abbrgrp>. These changes are often indistinguishable to those observed in rheumatoid arthritis (RA), although they are generally confined to more discrete regions within the joint, generally adjacent to sites of chondropathy. Increased levels of pro-inflammatory cytokines (such as tumour necrosis factor (TNF)&#945;, interleukin (IL)-1&#946; and IL-6), reduced levels of anti-inflammatory cytokines (such as IL-10 and IL-1RA), infiltration of mononuclear cells and adaptive immune cell responses have all been demonstrated within OA fluid and tissue, suggesting that modulating the inflammatory response may be effective as a treatment target for OA <abbrgrp>
+                <abbr bid="B19">19</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B21">21</abbr>
+             </abbrgrp>.</p>
+          <p>The rationale for targeting synovitis as a treatment for OA pain is supported by previous studies of anti-inflammatory agents. Randomized controlled trials of non-steroidal anti-inflammatory drugs (NSAIDs) and the fewer randomized controlled trials of intra-articular (IA) and oral corticosteroids have demonstrated modest, short-term pain reduction associated with anti-inflammatory effects and reduced synovitis <abbrgrp>
+                <abbr bid="B22">22</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B27">27</abbr>
+             </abbrgrp>. However, although NSAIDs and corticosteroids have positive short-term effects their long-term use is not desirable, with contra-indications to their use in many people with OA.</p>
+          <p>Disease modifying anti-rheumatic drugs (DMARDs) are the mainstay of treatment for RA and all have anti-synovial effects. Methotrexate ((MTX) 4-amino-10-methylfolic acid) is the first-line treatment widely used to treat synovitis in the inflammatory arthritides, and current evidence suggests it is the most effective DMARD and safe for long-term use <abbrgrp>
+                <abbr bid="B28">28</abbr>
+             </abbrgrp>. Indications for the use of MTX have expanded in recent years to include trials to reduce cardiovascular disease (CVD) in the general population, as well as showing reductions in CVD in RA patients <abbrgrp>
+                <abbr bid="B29">29</abbr>
+             </abbrgrp>. There is more uncertainty about the benefits of MTX in other peripheral joint arthritides such as psoriatic arthritis (PsA), however this may reflect a lack of robust trial data <abbrgrp>
+                <abbr bid="B30">30</abbr>
+             </abbrgrp>.</p>
+          <p>MTX is a folic acid antagonist which has both an anti-proliferative and an anti-inflammatory action. The anti-proliferative activity of MTX is mediated through inhibition of the <it>de novo</it> synthesis of purines and pyrimidines by acting as a specific antagonist of folic acid. MTX was initially used in high doses for its anti-proliferative effect in the treatment of cancer, at doses of up to 5,000&#160;mg per week. At much lower doses (15 to 25&#160;mg per week), as used in inflammatory arthritis, MTX has an anti-inflammatory effect by inducing an increase in adenosine release from cells through selective inhibition of aminoimidazole carboxamide ribonucleotide (AICAR) transformylase, an enzyme that catalyses an intermediary step in <it>de novo</it> purine biosynthesis. Extracellular adenosine is a potent inhibitor of inflammation, suppressing the inflammatory functions of neutrophils, macrophages and monocytes, dendritic cells and lymphocytes, thereby reducing secretion of inflammatory cytokines, including TNF&#945; and IL-6, which drive synovitis <abbrgrp>
+                <abbr bid="B31">31</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B32">32</abbr>
+             </abbrgrp>.</p>
+          <p>Given the high levels of pro-inflammatory cytokines and the evidence of immune cell infiltration into OA joints, coupled with the strong correlations observed between synovitis and pain, there is rationale for the use of MTX for reducing symptoms in OA. Most patients tolerate MTX for long-term use <abbrgrp>
+                <abbr bid="B33">33</abbr>
+             </abbrgrp> and the use of folic acid concomitantly with MTX reduces the incidence of side-effects <abbrgrp>
+                <abbr bid="B34">34</abbr>
+             </abbrgrp>. Patients undergo regular blood monitoring to assess for toxicity, and abnormalities in results usually respond to a dose reduction or temporary cessation, or an increase in folic acid supplementation. Side-effects of MTX can include gastrointestinal side-effects, haematological abnormalities and elevated liver transaminases. Side-effects resulting in discontinuation of the drug vary in frequency from 15 to 17% <abbrgrp>
+                <abbr bid="B35">35</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B36">36</abbr>
+             </abbrgrp>, but have been shown to reduce to 4% in the second year of treatment <abbrgrp>
+                <abbr bid="B35">35</abbr>
+             </abbrgrp>.</p>
+          <p>To date there have been no large trials of MTX for treating OA. Two small studies, one in knee OA and the other in hand OA, have been carried out and these had conflicting results (Figure&#160;<figr fid="F1">1</figr> and Table&#160;<tblr tid="T1">1</tblr>) <abbrgrp>
+                <abbr bid="B37">37</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B38">38</abbr>
+             </abbrgrp>. One additional study examined the effect of MTX in calcium pyrophosphate crystal disease (CPPD) <abbrgrp>
+                <abbr bid="B39">39</abbr>
+             </abbrgrp>. However, these studies included very low patient numbers and small doses of MTX, which makes it difficult to determine whether the results are valid.
+                  
+                </p>
+          
+             <fig id="F1">
+                <title>
+                   <p>Figure 1</p>
+                </title>
+                <caption>
+                   <p>Overview of systematic review of methotrexate use in osteoarthritis. </p>
+                </caption>
+                <text>
+                   <p>
+                          <b>Overview of systematic review of methotrexate use in osteoarthritis.</b> Databases: PubMed, MEDLINE and Embase. Search terms: MeSH headings #1 &#8216;osteoarthritis&#8217; and #2 &#8216;methotrexate&#8217;. Limits: Humans.</p>
+                </text>
+                <graphic file="s13063-015-0602-8-1"/>
+             </fig>
+          
+          
+             <table id="T1">
+                <title>
+                   <p>Table 1</p>
+                </title>
+                <caption>
+                   <p>
+                          <b>Systematic review of methotrexate use in osteoarthritis</b>                        
+                   </p>
+                </caption>
+                <tgroup align="left" cols="5">
+                   <colspec align="left" colname="c1" colnum="1" colwidth="*"/>
+                   <colspec align="left" colname="c2" colnum="2" colwidth="*"/>
+                   <colspec align="left" colname="c3" colnum="3" colwidth="*"/>
+                   <colspec align="left" colname="c4" colnum="4" colwidth="*"/>
+                   <colspec align="left" colname="c5" colnum="5" colwidth="*"/>
+                   <thead>
+                      <row rowsep="1" valign="top">
+                         <entry colname="c1">
+                            <p>
+                              <b>Reference</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>
+                              <b>n</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>
+                              <b>Site</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>
+                              <b>Treatment</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c5">
+                            <p>
+                              <b>Outcome</b>                            
+                            </p>
+                         </entry>
+                      </row>
+                   </thead>
+                   <tfoot>
+                      <p>CPPD, calcium pyrophosphate deposition disease; MTX, methotrexate; OA, osteoarthritis; VAS, visual analogue scale; WOMAC, Western Ontario and McMaster Osteoarthritis Index.</p>
+                   </tfoot>
+                   <tbody>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>de Holanda 2007 <abbrgrp>
+                                  <abbr bid="B37">37</abbr>
+                               </abbrgrp>
+                            </p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>58</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>Knee OA</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>Double-blind, placebo controlled, 4&#160;months, 7.5&#160;mg/week</p>
+                         </entry>
+                         <entry colname="c5">
+                            <p>No statistically significant difference between both groups regarding WOMAC (<it>P</it>&#8201;=&#8201;0.94), Lequ&#232;sne Algofunctional Index (<it>P</it>&#8201;=&#8201;0.87) and VAS (<it>P</it>&#8201;=&#8201;0.89. No significant difference in paracetamol consumption between both groups, however, there was tendency to increased consumption in the placebo group.</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Pavelka 2006 <abbrgrp>
+                                  <abbr bid="B38">38</abbr>
+                               </abbrgrp>
+                            </p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>21</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>Erosive hand OA</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>Open label, 10&#160;mg of MTX orally for two months</p>
+                         </entry>
+                         <entry colname="c5">
+                            <p>Significant decrease of pain after 2&#160;months of treatment (54.4&#8201;&#177;&#8201;17.0&#160;mm versus 39.7&#8201;&#177;&#8201;19.6&#160;mm, <it>P</it> &lt;0.01) and stiffness (28.8&#8201;&#177;&#8201;24&#160;min versus 21.8&#8201;&#177;&#8201;19.1&#160;min, <it>P</it> &lt;0.01)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Chollet-Janin 2007 <abbrgrp>
+                                  <abbr bid="B39">39</abbr>
+                               </abbrgrp>
+                            </p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>5</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>CPPD</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>Open label, 5 to 20&#160;mg/week</p>
+                         </entry>
+                         <entry colname="c5">
+                            <p>Clinical response in all 5 patients with significant reduction in pain intensity, swollen and tender joint counts and mean improvement time of 7.4&#160;weeks</p>
+                         </entry>
+                      </row>
+                   </tbody>
+                </tgroup>
+             </table>
+          
+          <p>More recently, we conducted an open-label pilot study of 30 patients with knee OA who took MTX for six months <abbrgrp>
+                <abbr bid="B40">40</abbr>
+             </abbrgrp>. A total of 23 patients completed the study, 20 of whom were taking a MTX dose of 15&#160;mg/week or more. At six months, 50% of patients had a 20% reduction in pain, whilst 37% had a 40% reduction in pain. Of the seven participants who did not complete the study, four withdrew due to side effects (lethargy, nausea and headaches in three patients and thrush in one patient) and three withdrew due to lack of response. Further evidence for the potential of MTX as a therapy for OA can be extrapolated from animal studies, with positive effects on cartilage demonstrated in lapine models of OA <abbrgrp>
+                <abbr bid="B41">41</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B42">42</abbr>
+             </abbrgrp>.</p>
+          <p>Taken together these clinical and experimental studies suggest potential for MTX as a useful treatment for OA. We propose that treating patients with symptomatic knee OA with MTX will be a practical and safe treatment to reduce synovitis and therefore reduce pain. We believe that the preliminary data from the handful of small studies previously conducted, including our pilot study, strongly support the need for a well-designed, adequately powered, randomized placebo-controlled trial to examine fully the potential use of MTX as a treatment for OA. The Pain Reduction with Oral Methotrexate in knee Osteoarthritis, a pragmatic phase III trial of Treatment Effectiveness (PROMOTE) was designed to this end.</p>
+          <p>This paper states the objective of the PROMOTE trial, discusses study design challenges encountered in its planning, and outlines the resultant study design and protocol for the PROMOTE trial.</p>
+          <sec>
+             <st>
+                <p>Trial objectives</p>
+             </st>
+             <p>The primary objective of the trial is to determine whether MTX reduces pain associated with knee OA as compared to placebo. Secondary objectives of the trial are:</p><p>1. To determine whether MTX improves function,</p>
+                <p>2. To determine whether MTX improves quality of life and</p>
+                <p>3. To determine whether MTX is a cost-effective treatment for knee OA.</p>
+             <p>In addition to the main study, PROMOTE contains a magnetic resonance imaging (MRI) substudy and a biological substudy. Patients enrolled in the main study may opt to enrol in one, both or neither of the sub-studies. The objective of the MRI substudy is to provide an explanatory mechanism for associated symptom change by examining whether MTX reduces synovitis, and whether this is related to symptom change. The objective of the biological substudy is to determine whether baseline soluble immunological and inflammatory biomarkers predict response to treatment, and whether changes in levels occur following treatment with MTX.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Trial development</p>
+             </st>
+             <p>The trial was designed with key stakeholders including rheumatologists with experience of treating OA, general practitioners with a special interest in musculoskeletal disease, methodologists and users with experience of knee OA. The intention was to be pragmatic, allowing physicians to include MTX in the overall care of patients with knee OA and have relative flexibility in this regard, thereby being representative of clinical practice. We faced a number of challenges in achieving the ideal design for the PROMOTE trial which are discussed in more detail in the relevant sections below. Key challenges included defining the dosing and dose escalation strategy for use of MTX in OA patients, maintaining the blind due to the well-known side-effect profile of MTX, timing of the primary outcome, ensuring optimal recruitment for a trial that is conducted in secondary care for a condition where patients predominantly reside in primary care and maintaining the pragmatic nature of the trial with respect to concomitant medication use, whilst protecting the validity of the primary pain outcome.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Methods/Design</p>
+          </st>
+          <p>The PROMOTE trial is an investigator-initiated, multi-centre, 160 patient, randomized placebo-controlled trial to compare the reduction in pain associated with knee OA with MTX as compared to placebo. Participants will be randomized on a 1:1 basis to MTX or placebo, and treatment will be for 12&#160;months.</p>
+          <sec>
+             <st>
+                <p>Population</p>
+             </st>
+             <p>All adults with symptomatic radiographic knee OA and inadequate response or toxicity to their existing medication (to include paracetamol, NSAIDs or opioid).</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Intervention and comparator</p>
+             </st>
+             <p>Participants will be randomized to receive either over-encapsulated MTX 2.5&#160;mg tablets (packed with microcrystalline cellulose (Sharp Clinical Services (UK) Ltd, Crickhowell, Wales)) or placebo (matching capsules packed with microcrystalline cellulose (Sharp Clinical Services (UK) Ltd, Crickhowell, Wales)).</p>
+             <sec>
+                <st>
+                   <p>Choice of dosing for methotrexate in patients with osteoarthritis</p>
+                </st>
+                <p>MTX is currently used in RA with a maximum dose of 25&#160;mg per week. Previous small studies in OA have used lower doses than those used in RA <abbrgrp>
+                      <abbr bid="B37">37</abbr>
+                   </abbrgrp>,<abbrgrp>
+                      <abbr bid="B38">38</abbr>
+                   </abbrgrp>; however to alleviate concerns around inefficacy due to inadequate dosing, we will follow current guidelines for use of MTX in RA as the model for the PROMOTE trial. Participants will be prescribed 10&#160;mg MTX or placebo weekly for two weeks, followed by 15&#160;mg weekly for two weeks, 20&#160;mg weekly for two weeks and 25&#160;mg weekly for the remainder of the study if there is no toxicity as determined at the physician&#8217;s discretion <abbrgrp>
+                      <abbr bid="B43">43</abbr>
+                   </abbrgrp>,<abbrgrp>
+                      <abbr bid="B44">44</abbr>
+                   </abbrgrp>. In practice, slower dose escalation may be necessary in some participants, and deviations from this protocol (for example escalation by 2.5&#160;mg every two weeks) will be permitted at the clinician&#8217;s discretion to bring participants to the maximum tolerated dose as closely in line with the stated strategy as possible.</p>
+                <p>If participants show toxicity to MTX upon dose escalation the dose will be dropped to the maximum tolerated dose (minimum dose, 7.5&#160;mg/week) and this will be maintained for the duration of the study. In our pilot study of MTX in OA, 20 of the 23 participants completing the study did so on a dose of 15&#160;mg or more. Dose reduction (to 7.5 to 12.5&#160;mg) was required in four participants; one due to renal impairment and three due to side effects (nausea, headache and sore roof of mouth), all of which improved upon dose reduction. Participants who are intolerant of oral MTX will not be switched to subcutaneous MTX (a common practice for RA), due to complexities in maintaining the blind.</p>
+                <p>All participants will be routinely reminded and encouraged to comply with the prescribed dose of investigational medicinal product (IMP). However, given the long half-life of MTX, those who miss doses of IMP will be allowed to restart medication if they so wish, and will not be handled differently during the course of follow-up. For the purposes of analysis, a participant missing more than four doses of MTX within any three-month period will be counted as a &#8216;non-complier&#8217;.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Non-investigational medicinal product</p>
+                </st>
+                <p>All participants will be prescribed oral folic acid 5&#160;mg tablets to be taken on the six consecutive days after taking the weekly MTX or placebo dose. Folic acid supplementation has been shown to ameliorate side effects associated with MTX&#8217;s activity as an antagonist of folic acid metabolism <abbrgrp>
+                      <abbr bid="B45">45</abbr>
+                   </abbrgrp>.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Concomitant medication</p>
+                </st>
+                <p>In order to maintain the pragmatic nature of the trial, there are no restrictions written into the protocol with regard to concomitant analgesic medications. All participants, whether on MTX or placebo, will be allowed to continue taking the treatments for knee OA that they are taking at their screening visit for the duration of the trial. Investigators will be responsible for the overall management of a participant&#8217;s medication, and will ask participants to avoid changing their analgesic or anti-inflammatory medication for the duration of the trial. However, if a participant is experiencing increased pain and requires an increase in the dose of analgesics then the use of paracetamol, topical or oral NSAIDs or opioids, or a combination of these will be permitted, but the reason for the dose increase and the dose used will be documented. The choice of medications and doses to be used lie with the principal investigator and clinicians working at study sites in order to ensure that treatment for participants in both groups is optimized. Participants will be permitted to continue current use of chondroitin and glucosamine, provided the dose has been stable for three months at study entry; however their use must be clearly documented in the case report form (CRFChondroitin or glucosamine therapy will not be commenced during the duration of the trial. Chronic NSAID and opioid use days in the last three months) will be included as a covariate in the analysis.</p>
+                <p>The exception to this rule is corticosteroid use, since corticosteroids may have a significant effect on a participant&#8217;s experience of pain, to the point of affecting response to the primary outcome. Whilst there will be no overall restriction on the use of corticosteroids, the protocol provides guidance to investigators on the use of corticosteroids in order to minimise effects on the primary outcome, as detailed below. Participants will be asked not to use corticosteroids (oral, intravenous, IA or intra-muscular) between months three to six of the trial (three months before the primary endpoint). In months zero to three and six to 12 a single IA corticosteroid (in a non-knee joint) and up to one week of oral corticosteroids will be permitted. If corticosteroids are deemed necessary for medical reasons then their date of use, dose, route and indication must be clearly documented in the CRF. Patients will be offered the option of a rescue IA corticosteroid injection to their signal knee after the six-month visit of the trial if their symptoms are intolerable despite current medication. Corticosteroid use is ultimately at the discretion of the principal investigatoror study physician. All steroid use must be notified to the PROMOTE trial team centrally, but this will not affect the participant&#8217;s continued follow-up in the trial.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Outcome measures</p>
+             </st>
+             <p>The PROMOTE trial will examine a range of clinical, imaging and quality-of-life and economic outcomes, in line with the objectives listed.</p>
+             <sec>
+                <st>
+                   <p>Clinical outcome measures</p>
+                </st>
+                <p>The primary endpoint of the study will be change in &#8216;average overall knee pain severity over the previous week&#8217; (as graded on a zero to 10 numerical rating scale (NRS)) between baseline and six months (24&#160;weeks). An NRS was chosen to measure pain as they have been found to be reliable and to demonstrate good face and criterion validity, and they are recommended as a core outcome measure for chronic pain clinical trials by the Initiative on Methods, Measurement, and Pain Assessment in Clinical Trials (IMMPACT) <abbrgrp>
+                      <abbr bid="B46">46</abbr>
+                   </abbrgrp>-<abbrgrp>
+                      <abbr bid="B50">50</abbr>
+                   </abbrgrp>.</p>
+                <p>The timing of the primary outcome at six months was defined due to the slow-acting nature of MTX. Studies in RA have found that several months of treatment may be required before any symptomatic effect is noted <abbrgrp>
+                      <abbr bid="B43">43</abbr>
+                   </abbrgrp>,<abbrgrp>
+                      <abbr bid="B44">44</abbr>
+                   </abbrgrp>. Our own recent study of MTX versus MTX plus etanercept in RA, in which the MTX arm used the same dosing schedule as that planned for the PROMOTE trial, found that approximately 20% of participants in the MTX arm showed a major clinically significant response (tender and swollen joint count of zero) at three months, with this rising to 29% at six months and 33% at 12&#160;months. In our pilot study of MTX in OA, the reduction in 48-hour pain VAS scores was significantly greater at 24&#160;weeks (median (interquartile range (IQR)) reduction of 27&#160;mm (four to 38)) than at 12&#160;weeks (median (IQR) reduction of 9&#160;mm (&#8722;1 to 36)).The dose escalation schedule for the PROMOTE trial requires a minimum of six weeks to reach maximum dosage, and in reality we know that it can often take longer than this to escalate the dosage. Taken together with evidence from the RA literature, which suggests that at least two to three months may be required at maximal dose for symptomatic benefit to be achieved, a primary outcome earlier than six months may fail to fully capture the clinical response to treatment. However, additional outcomes will be recorded at three months (12&#160;weeks) to identify early response, and nine and 12&#160;months (36 and 48&#160;weeks) to capture longevity of response.</p>
+                <p>Secondary outcome measures include self-reported assessment of pain and function using 11-point NRSs to assess worst knee pain severity, global disease activity and satisfaction with knee function over the past week, together with the pain, function and stiffness subscales of the Western Ontario McMaster Universities Index (WOMAC version 3.1) and the Intermittent and Constant Osteoarthritis Pain scale (ICOAP). Depression and anxiety will be assessed using the Hospital Anxiety and Depression Scale (HADS). These measures are outlined further in Table&#160;<tblr tid="T2">2</tblr>.
+                    </p>
+                
+                   <table id="T2">
+                      <title>
+                         <p>Table 2</p>
+                      </title>
+                      <caption>
+                         <p>
+                              <b>Outcome measures</b>                            
+                         </p>
+                      </caption>
+                      <tgroup align="left" cols="6">
+                         <colspec align="left" colname="c1" colnum="1" colwidth="*"/>
+                         <colspec align="left" colname="c2" colnum="2" colwidth="*"/>
+                         <colspec align="left" colname="c3" colnum="3" colwidth="*"/>
+                         <colspec align="left" colname="c4" colnum="4" colwidth="*"/>
+                         <colspec align="left" colname="c5" colnum="5" colwidth="*"/>
+                         <colspec align="left" colname="c6" colnum="6" colwidth="*"/>
+                         <thead>
+                            <row rowsep="1" valign="top">
+                               <entry colname="c1"/>
+                               <entry nameend="c6" namest="c2">
+                                  <p>
+                                     <b>Month(s)</b>                                
+                                  </p>
+                               </entry>
+                            </row>
+                         </thead>
+                         <tfoot>
+                            <p>
+                               <sup>a</sup>A six-point Likert scale: completely better, much better, better, no change, worse or much worse. <sup>b</sup>Also recorded at 1 and 2&#160;months. HADS, Hospital Anxiety and Depression Scale; ICOAP, Intermittent and Constant Osteoarthritis Pain; NRS, numerical rating scale; OAQoL, Osteoarthritis Quality of Life Scale; VAS, visual analogue scale; WOMAC, Western Ontario McMaster Universities Index.</p>
+                         </tfoot>
+                         <tbody>
+                            <row valign="top">
+                               <entry colname="c1"/>
+                               <entry colname="c2">
+                                  <p>
+                                     <b>0</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>
+                                     <b>3</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>
+                                     <b>6</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>
+                                     <b>9</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c6">
+                                  <p>
+                                     <b>12</b>                                
+                                  </p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Primary outcome</p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3"/>
+                               <entry colname="c4"/>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Average overall knee pain severity over the previous week (0 to 10 NRS)</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c6">
+                                  <p>&#10003;</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Secondary outcomes</p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3"/>
+                               <entry colname="c4"/>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Imaging assessments:</p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3"/>
+                               <entry colname="c4"/>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>MRI of signal knee</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c3"/>
+                               <entry colname="c4">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Clinical assessments:</p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3"/>
+                               <entry colname="c4"/>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Knee examination</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c3"/>
+                               <entry colname="c4"/>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Self-reported questionnaires:</p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3"/>
+                               <entry colname="c4"/>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>WOMAC 3.1 (pain, stiffness and function) - five-point Likert scale</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c6">
+                                  <p>&#10003;</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>ICOAP</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c6">
+                                  <p>&#10003;</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>11-point NRS for:</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c6">
+                                  <p>&#10003;</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Worst knee pain severity,/ global disease activity and pain in other joints over the past week</p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3"/>
+                               <entry colname="c4"/>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Satisfaction with knee function over the past 2&#160;days</p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3"/>
+                               <entry colname="c4"/>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Knee pain, aching or stiffness over the past month (no days to all days)</p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3"/>
+                               <entry colname="c4"/>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Global<sup>a</sup> improvement in knee problem, pain and function</p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c6">
+                                  <p>&#10003;</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Pain elsewhere (pain manikin)</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c6">
+                                  <p>&#10003;</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Duration of knee pain over the past 12&#160;months (&lt;7&#160;days, 1 to 4&#160;weeks, &gt;1&#160;month, &lt;3&#160;months or &gt;3&#160;months)</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c3"/>
+                               <entry colname="c4"/>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Onset of knee pain (last 12&#160;months, 1 to 5&#160;years, 5 to 10&#160;years or 10&#160;years or more)</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c3"/>
+                               <entry colname="c4"/>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Quality of life: SF-12 v2 and OAQoL <abbrgrp>
+                                        <abbr bid="B40">40</abbr>
+                                     </abbrgrp>
+                                  </p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c3"/>
+                               <entry colname="c4">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c5"/>
+                               <entry colname="c6">
+                                  <p>&#10003;</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>EuroQol EQ-5D <abbrgrp>
+                                        <abbr bid="B41">41</abbr>
+                                     </abbrgrp>,<abbrgrp>
+                                        <abbr bid="B42">42</abbr>
+                                     </abbrgrp>
+                                  </p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c3"/>
+                               <entry colname="c4">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c5"/>
+                               <entry colname="c6">
+                                  <p>&#10003;</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Depression and anxiety: HADS</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c3"/>
+                               <entry colname="c4">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c5"/>
+                               <entry colname="c6">
+                                  <p>&#10003;</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Resource use:</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c3"/>
+                               <entry colname="c4">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c5"/>
+                               <entry colname="c6">
+                                  <p>&#10003;</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Demographics and medical history</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c3"/>
+                               <entry colname="c4"/>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Brief medication questionnaire</p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c6">
+                                  <p>&#10003;</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Concomitant medication<sup>b</sup>
+                                  </p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c6">
+                                  <p>&#10003;</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Adverse events<sup>b</sup>
+                                  </p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>&#10003;</p>
+                               </entry>
+                               <entry colname="c6">
+                                  <p>&#10003;</p>
+                               </entry>
+                            </row>
+                         </tbody>
+                      </tgroup>
+                   </table>
+                
+             </sec>
+             <sec>
+                <st>
+                   <p>Quality-of-life and health economic outcome measures</p>
+                </st>
+                <p>Utility will be measured using the EuroQol (EQ-5D-5&#160;L), deriving quality-adjusted life years (QALYs) for each participant. Disease-specific quality-of-life measures are listed in Table&#160;<tblr tid="T2">2</tblr>.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Imaging outcome measures</p>
+                </st>
+                <p>Gadolinium-enhanced 1.5/3.0&#160;T MRI of the signal knee will be performed at baseline and six months according to the protocol outlined in Table&#160;<tblr tid="T3">3</tblr>. All images will be quality controlled by an experienced musculoskeletal radiologist within two weeks of acquisition to ensure that the image quality is sufficient for scoring purposes. MRIs will be centrally scored semi-quantitatively and quantitatively at the end of the study. Semi-quantitative scoring will be conducted using the MRI Osteoarthritis Knee Score (MOAKS) <abbrgrp>
+                      <abbr bid="B51">51</abbr>
+                   </abbrgrp>. Images will be quantitatively scored using statistical shape modelling technology to automatically quantitate total and compartmental synovial volume, total and compartmental bone shape and other relevant features including cartilage morphology <abbrgrp>
+                      <abbr bid="B52">52</abbr>
+                   </abbrgrp>.
+                    </p>
+                
+                   <table id="T3">
+                      <title>
+                         <p>Table 3</p>
+                      </title>
+                      <caption>
+                         <p>
+                              <b>Magnetic resonance imaging acquisition protocol</b>                            
+                         </p>
+                      </caption>
+                      <tgroup align="left" cols="3">
+                         <colspec align="left" colname="c1" colnum="1" colwidth="*"/>
+                         <colspec align="left" colname="c2" colnum="2" colwidth="*"/>
+                         <colspec align="left" colname="c3" colnum="3" colwidth="*"/>
+                         <thead>
+                            <row rowsep="1" valign="top">
+                               <entry colname="c1">
+                                  <p>
+                                     <b>Plane</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>
+                                     <b>Sequence</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>
+                                     <b>Slice Thickness</b>                                
+                                  </p>
+                               </entry>
+                            </row>
+                         </thead>
+                         <tbody>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Sagittal</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>T1 SE</p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>2&#160;mm</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Sagittal</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>PD FSE TE&#8201;=&#8201;40 Fat Saturated</p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>3&#160;mm</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Sagittal</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>T2 FSE Fat Saturated</p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>3&#160;mm</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Coronal</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>PD FSE TE&#8201;=&#8201;40 Fat Saturated</p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>3&#160;mm</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Coronal</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>STIR</p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>4&#160;mm</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Axial</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>PD FSE TE&#8201;=&#8201;40 Fat Saturated</p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>3&#160;mm</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry nameend="c3" namest="c1">
+                                  <p>Post gadolinium:</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Sagittal</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>T1 3D SPGR Fat Saturated/Water Excitation</p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>Isotropic</p>
+                               </entry>
+                            </row>
+                         </tbody>
+                      </tgroup>
+                   </table>
+                
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Sample size</p>
+             </st>
+             <p>The standard deviation used in the sample size calculation is an estimate from previous studies. The internal pilot study will be used to re-estimate the sample size required and increase the recruitment target if necessary.</p>
+             <p>A data-driven analysis which related change on an NRS with patient global assessment of change using data from 10 similar trials of chronic pain showed that a 30% change, or two points on the NRS was related to change of clinical importance in chronic pain. The correlation between clinician and patient global assessment of change was high in this review, and the large sample size used underscores the external validity of these estimates <abbrgrp>
+                   <abbr bid="B53">53</abbr>
+                </abbrgrp>. This estimate of a two-point change on a NRS being associated with a &#8216;much better&#8217; improvement was also seen in a prospective cohort of patients with chronic musculoskeletal pain <abbrgrp>
+                   <abbr bid="B54">54</abbr>
+                </abbrgrp>.</p>
+             <p>In a recent placebo-controlled, 121 patient, OA knee trial using an 11-point pain NRS as the primary outcome, the mean (standard deviation (SD)) baseline pain score was 6.1 (2.1) in the control group, 7.7 (1.4) in the placebo group, 7.1 (2.8) in treatment group A and 6.7 (2.5) in treatment group B <abbrgrp>
+                   <abbr bid="B55">55</abbr>
+                </abbrgrp>. In a separate 73 patient OA knee trial, the mean (SD) baseline pain score was 4.0 (2.1) in group A and 4.3 (1.9) in group B. At 12&#160;months, the mean (SD) within-group difference was 0.9 (2.1) for group A and 1.3 (2.4) for group B <abbrgrp>
+                   <abbr bid="B56">56</abbr>
+                </abbrgrp>. For the sample size calculation an SD of 4 is used as a conservative estimate.</p>
+             <p>The expected consistency in baseline pain among our trial population allows the use of raw change in score, rather than percentage change <abbrgrp>
+                   <abbr bid="B53">53</abbr>
+                </abbrgrp>. In order to detect a two-point change, with an assumed SD of 4 (80% power and 5% significance level), 64 participants per arm are required. Allowing for a conservative 20% dropout rate, a total of 160 participants will therefore need to be recruited into the study.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Trial procedures</p>
+             </st>
+             <p>Ethical approval for the study has been granted by the Leeds West Research Ethics Committee (reference number 13/YH/0279). Informed written consent will be obtained from all participants.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Participant recruitment strategy</p>
+             </st>
+             <p>Since knee OA is primarily managed within primary care, our recruitment strategy must enable a clear interface between primary care centres and the secondary care sites at which trial activity will take place. Relevant Clinical Commissioning Group (CCG) approvals will be obtained to enable primary care sites to act as Patient Identification Centres (PICs), with potentially eligible patients referred on to local secondary care study teams.</p>
+             <p>A total of 160 subjects with symptomatic knee OA will be recruited and randomly allocated to either the treatment or placebo control group. Recruitment methods will include advertisements through the local media and community groups, invitations to previous study participants who have given their consent to be contacted regarding future research projects and liaisons with musculoskeletal physicians, general practitioners and allied health professionals. Recruitment will be initiated at all sites as soon as local approvals are in place, therefore recruitment to the pilot phase may occur from multiple sites. There will be no pause in recruitment once 30 patients are recruited, as the outcome from the analysis of the pilot phase will be to either continue to the planned numbers or to increase the planned sample size.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Informed consent and participant confidentiality</p>
+             </st>
+             <p>Informed consent will be obtained before patients are screened for participation in the PROMOTE trial. The right of the patient to refuse consent without giving reasons will be respected. Further, the patient will remain free to withdraw from the study at any time without giving reasons and without prejudicing any further treatment. The written consent will be obtained by an appropriately delegated clinician who is, by education and experience, qualified to do so, and who has signed and dated the staff authorization and delegation log. The process of obtaining written consent will be clearly documented in the patient&#8217;s medical notes. Patient confidentiality will be guaranteed at all times, in line with the requirements of the United Kingdom Data Protection Act 1998 and NHS regulations.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Eligibility criteria</p>
+             </st>
+             <p>Participants must meet the inclusion and exclusion criteria (shown in Table&#160;<tblr tid="T4">4</tblr>) in order to participate. These will be assessed at the screening visit (Figure&#160;<figr fid="F2">2</figr>). Potential participants who are deemed ineligible at screening will be allowed a second screening visit if the reason for ineligibility is a temporary status (for example, recent corticosteroid injection; Table&#160;<tblr tid="T4">4</tblr>).
+                    
+                  </p>
+             
+                <table id="T4">
+                   <title>
+                      <p>Table 4</p>
+                   </title>
+                   <caption>
+                      <p>
+                            <b>Eligibility criteria</b>                          
+                      </p>
+                   </caption>
+                   <tgroup align="left" cols="2">
+                      <colspec align="left" colname="c1" colnum="1" colwidth="*"/>
+                      <colspec align="left" colname="c2" colnum="2" colwidth="*"/>
+                      <thead>
+                         <row rowsep="1" valign="top">
+                            <entry colname="c1">
+                               <p>
+                                  <b>Inclusion criteria</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>
+                                  <b>Exclusion criteria</b>                              
+                               </p>
+                            </entry>
+                         </row>
+                      </thead>
+                      <tfoot>
+                         <p>
+                            <sup>a</sup>Criteria for which participants may be rescreened if they are ineligible at the initial screening visit. ALT, alanine aminotransferase; COPD, chronic obstructive pulmonary disease; eGFR, estimated glomerular filtration rate; IA, intra-articular; IM, intramuscular; IV, intravenous; RA, rheumatoid arthritis; ULN, upper limit of normal; VAS, visual analogue scale; WCC, white cell count.</p>
+                      </tfoot>
+                      <tbody>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Fulfil clinical ACR Criteria for knee OA</p>
+                            </entry>
+                            <entry colname="c2" morerows="1">
+                               <p>The presence of any inflammatory arthritis (such as gout, reactive arthritis, rheumatoid arthritis, psoriatic arthritis, seronegative spondyloarthropathy, previous diagnosis of pseudogout in target joint with proven crystals on joint aspiration or elevated CRP at time of knee arthritis flare) or fibromyalgia.</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Knee pain on most days in the last 3&#160;months</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Knee pain is the predominant pain condition</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Use of intra-articular (IA) hyaluronic acid in the signal knee within the 4&#160;months preceding enrolment in the study<sup>a</sup>
+                              </p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1" morerows="2">
+                               <p>Insufficient pain relief from, inability to tolerate or contra-indication to oral and/or topical NSAIDs and/or opioids. Moderate to severe pain of the signal knee as defined by a score of &#8805;40&#160;mm on a VAS (0 to 100&#160;mm) using the question &#8216;On average, how would you rate your knee pain during the last 3&#160;months?&#8217;.</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Use of IA, IM (intra-muscular) or oral corticosteroids in the 3&#160;months preceding enrolment<sup>a</sup>
+                              </p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>Use of other anti-synovial agents (such as hydroxychloroquine or sulphasalazine) in the 2&#160;months preceding the study<sup>a</sup>
+                              </p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>Significant knee injury or any knee surgery within the 6&#160;months preceding enrolment in the study<sup>a</sup>
+                              </p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Patient able to identify a &#8216;signal&#8217; painful knee (either the most painful knee or selected from equally painful knees)</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>The presence of non-OA causes of pain in the signal knee, such as referred hip pain, osteonecrosis or radicular spinal pain</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>A previous radiograph (X-ray) of the signal knee within the last 2&#160;years with changes consistent with tibiofemoral OA</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Commencement of physiotherapy or non-pharmacological knee OA treatment in the 2&#160;months preceding the study<sup>a</sup>
+                              </p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>No change in the average weekly dose of oral or topical analgesics (including NSAIDs) for at least 4 weeks<sup>a</sup>
+                              </p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>A history of partial or complete joint replacement surgery in the signal knee at any time, listed for knee surgery or anticipating knee surgery during the study period</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Has used chondroitin or glucosamine for at least 3&#160;months with no change to the average weekly dose, is not using or is willing to stop using if recently started<sup>a</sup>
+                              </p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Women who are pregnant, breast-feeding or men or women planning pregnancy within 18&#160;months after screening (approximately 6&#160;months following last study medications)</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1" morerows="1">
+                               <p>All male and female subjects biologically capable of having children must agree to use a reliable method of contraception for the duration of the study and 24&#160;weeks after the end of the study period. Acceptable methods of contraception are surgical sterilisation, oral, implantable or injectable hormonal methods, intrauterine devices or barrier contraceptives.</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Use of any investigational (unlicensed) drug within 1&#160;month prior to screening or within 5 half-lives of the investigational agent, whichever is longer<sup>a</sup>
+                              </p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>Have current signs or symptoms of severe, progressive or uncontrolled renal, hepatic, haematological, gastrointestinal, endocrine, pulmonary, cardiac, neurologic or cerebral disease</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>If female have potential for child bearing then a negative pregnancy test must be performed prior to starting treatment.</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Poor tolerability of venepuncture or lack of adequate venous access for required blood sampling during the study period</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>The patient must be able to adhere to the study visit schedule and other protocol requirements</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Uncontrolled disease states, such as moderate or severe asthma, COPD or inflammatory bowel disease, where flares are commonly treated with oral or parenteral corticosteroids, or recurrent infections</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>The patient must be capable of giving informed consent and the consent must be obtained prior to any screening procedures</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Unwilling to keep alcohol intake to below the recommended maximum daily limit during the trial (2 units per day for women, 3 units per day for men)</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>All patients must have had a chest radiograph (X-ray) within the last 6&#160;months</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Planned need for live vaccination during 12&#160;months of study (for example for foreign travel) with exception of Zostavax&#174;, which is permissible</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1" morerows="9">
+                               <p>Aged &#8805;18&#160;years</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Melanoma or non-skin cancer in the past 3 years<sup>a</sup>
+                              </p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>Intolerance to lactose</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>Significant haematological or biochemical abnormality:</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>Haemoglobin &#8804;8.5&#160;g/dL</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>WCC &#8804;3.5&#8201;&#215;&#8201;10<sup>9</sup>/L</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>Neutrophils &#8804;1.5&#8201;&#215;&#8201;10<sup>9</sup>/L</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>Platelets &#8804;100&#8201;&#215;&#8201;10<sup>9</sup>/L</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>ALT &gt;2 times ULN for the laboratory conducting the test.</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>Creatinine &gt;1.5 times ULN for the laboratory conducting the tested</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>eGFR &lt;30&#160;mL/minute</p>
+                            </entry>
+                         </row>
+                      </tbody>
+                   </tgroup>
+                </table>
+             
+             
+                <fig id="F2">
+                   <title>
+                      <p>Figure 2</p>
+                   </title>
+                   <caption>
+                      <p>Participant flowchart. </p>
+                   </caption>
+                   <text>
+                      <p>
+                            <b>Participant flowchart.</b> EQ-5D, EuroQol 5D-5&#160;L; HADS, hospital anxiety and depression scale; ICOAP, intermittent and constant osteoarthritis pain scale; MRI, magnetic resonance imaging; MTX, methotrexate; NHS, National Health Service; NRS, numerical rating scale; OA QoL, osteoarthritis quality of life; PIS, patient information sheet; SF-12, Short Form-12; WOMAC, Western Ontario and McMaster Osteoarthritis Index. Treatment assignment and allocation concealment.</p>
+                   </text>
+                   <graphic file="s13063-015-0602-8-2"/>
+                </fig>
+             
+             <p>Identical over-encapsulated MTX and placebo capsules will be produced to ensure allocation concealment. Upon production, study medication will be packed into bulk numbered bottles according to a randomization schedule. This will be prepared by the contract manufacturer using a computerized random number generator, thereby guaranteeing full allocation concealment. Study medication will be issued in numerical order by the pharmacy. Participants in each site will be randomly assigned to the intervention arm or the placebo arm in a ratio of 1:1, and the randomization will be double-blind.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Blinding</p>
+             </st>
+             <p>Investigators and participants will remain blinded throughout the trial. Emergency unblinding will be allowed in limited situations that impact on the safety of study participants. Code-break envelopes for the full randomization schedule will be maintained by the Leeds General Infirmary pharmacy, and pharmacies at other sites will hold code-break envelopes for their respective participants. A 24-hour code-break telephone line will also be established in case of the need for emergency out-of-hours unblinding. Participants who are unblinded will be withdrawn from treatment but will continue to be followed as per the planned follow-up schedule, unless they request to fully withdraw from the trial.</p>
+             <sec>
+                <st>
+                   <p>Maintaining the treatment blind</p>
+                </st>
+                <p>Given the possible toxicities related to MTX, there is potential for investigators reviewing blood results to become aware of treatment. Therefore, patient-reported outcomes will be completed before any changes in dose or results of blood monitoring are discussed with participants. Where possible, members of staff with knowledge of blood results will not be responsible for administering patient questionnaires.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Data collection</p>
+             </st>
+             <p>All data will be collected on standardized CRFs, which will be completed by site staff, verified by the principal investigator, and returned to the clinical trials unit for data entry. Study sites will also return a patient non-identifiable participant log and study drug dispensing log to the clinical trials unit.</p>
+             <sec>
+                <st>
+                   <p>Patient reported, clinical and imaging assessments</p>
+                </st>
+                <p>In addition to the patient-reported measures of pain, function and quality-of-life and imaging outcome measures described above and outlined in Table&#160;<tblr tid="T2">2</tblr>, a number of additional data elements will be collected during the trial. At the baseline visit, medical history and demographic data, including smoking and alcohol consumption, employment and family history of knee OA will be collected. Physical examination and vital signs, including height and weight, will be collected at screening, six and 12&#160;months. A clinical examination of the knee will also be conducted at the baseline visit. This will assess effusion on a zero to three scale, where one is positive bulge sign, two is positive fluctuance (balloon sign) and three is tense effusion, and compartmental (medial tibiofemoral (MTF), lateral tibiofemoral (LTF) or patellofemoral (PF)) tenderness, also measured on a zero to three scale. The specific tools used to capture each data element are further detailed in Table&#160;<tblr tid="T2">2</tblr>.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Safety assessments</p>
+                </st>
+                <p>Adverse events will be recorded throughout the study. Intensity and relationship to the study medication will be ascribed.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Blood and urine safety assessment</p>
+                </st>
+                <p>Safety of therapy will be assessed according to regional monitoring guidelines and will be determined by treatment strategy. Full blood count (FBC), liver function test (LFT) and urea and electrolytes (U&amp;E) tests will be performed at screening, every two weeks for the first eight weeks, and every four weeks thereafter. If a patient&#8217;s results remain abnormal despite action (such as reducing their MTX dose), or at clinician discretion, then study medication will be stopped. For the purposes of this study, abnormal is defined as: haemoglobin &#8804;8.5&#160;g/dL; white cell count (WCC) &#8804;3.5&#8201;&#215;&#8201;10<sup>9</sup>/L; neutrophils &#8804;1.5&#8201;&#215;&#8201;10<sup>9</sup>/L; platelets &#8804;100&#8201;&#215;&#8201;10<sup>9</sup>/L; alanine aminotransferase (ALT)&#8201;&gt;&#8201;two times the upper limit of normal (ULN) for the laboratory conducting the test; creatinine &gt;1.5 times the ULN for the laboratory conducting the test and estimated glomerular filtration rate (eGFR) &lt;30&#160;mL/minute.</p>
+                <p>C-reactive protein (CRP), anti-cyclic citrullinated protein (anti-CCP) and rheumatoid factor (RF) tests will be performed at screening. Anti-CCP and RF results from the previous 12&#160;months may be used if these are available. A dipstick urinalysis will be performed at screening to check for evidence of leucocytes, blood or protein, to exclude urine infection. A urine dipstick pregnancy test will be performed for female participants with child-bearing potential, and appropriate contraceptive methods documented for those at risk.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Data integrity and management</p>
+             </st>
+             <p>All data obtained will be kept strictly confidential and will be stored electronically on a database with secured and restricted access. Datasets for each subject will be identified by the participant trial identification number only.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Withdrawal</p>
+             </st>
+             <p>All participants have the right to withdraw consent at any time without prejudice. At the time of withdrawal of consent, a full efficacy and safety evaluation should be performed if the participant consents. Participants who withdraw will be asked to complete the questionnaires as per the next planned study visit. At a participant&#8217;s request, their data collected up to the point of withdrawal can also be withdrawn from the trial and will not be used in the final analysis. Participants who withdraw will return to routine care in the rheumatology and musculoskeletal out-patient clinics.</p>
+             <p>In the event that a patient is unable to tolerate 7.5&#160;mg of MTX, they will be withdrawn from treatment but will continue to be followed up on as per the planned follow-up schedule, unless they request to fully withdraw from the trial.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Study site staff training</p>
+             </st>
+             <p>A centralized introduction and training session was held for all principal investigators and site staff. In addition to this, a site initiation visit will be held at all sites, in order to provide specific training to all staff involved in the study ahead of recruitment. Pre-study training will be conducted to ensure robustness of MRI acquisition.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Trial site monitoring</p>
+             </st>
+             <p>The trial will be overseen and monitored by the York Trials Unit on behalf of the Sponsor, the University of Leeds. Each site will be assessed prior to site setup, and visited again once the third participant is recruited or at 20&#160;weeks after the start of recruitment at site, whichever is sooner. The PROMOTE trial was assessed as low risk by the Medicines and Healthcare Products Regulatory Agency (MHRA), and therefore in addition to the single monitoring visit, procedures for central monitoring at the clinical trials unit have been put in place. This will mainly involve cross-checking logs returned from the research team and site pharmacy for consistency. A data monitoring and ethics committee will provide independent oversight to ensure data quality and compliance with the trial protocol.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Statistical analysis</p>
+             </st>
+             <p>Full details of the statistical methods will be written in an approved statistical analysis plan prior to any data analysis.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Primary endpoint analysis</p>
+             </st>
+             <p>The primary analysis will be conducted on the intention-to-treat population, including all randomized participants in the groups to which they were randomized. A per protocol population (excluding major protocol violations) will be used to check the robustness of the primary analyses. The safety population will consist of all patients receiving at least one dose of the study drug.</p>
+             <p>The first 30 participants (included in the internal pilot study) will be included in the main trial analysis along with the rest of the participants. Wittes and Brittain show that sample size re-estimation using an internal pilot study has minimum impact on the overall type I error, therefore an alpha level of 0.05 will still be used for the primary analysis <abbrgrp>
+                   <abbr bid="B57">57</abbr>
+                </abbrgrp>.</p>
+             <p>The pilot phase analysis, which will be conducted after primary outcome data becomes available for the thirtieth participant, will include the following:</p><p>1. Assessment of the variability of the primary outcome measure, the estimate (SD) will be used to update the sample size calculation;</p>
+                <p>2. Consent rate (out of the number of information packs sent out during the pilot phase);</p>
+                <p>3. Retention rates associated with each treatment and</p>
+                <p>4. Return rate for the six-month outcome assessment.</p>
+             <p>The primary analysis for the main study will be conducted using linear regression adjusting for the baseline measure. Treatment groups will be compared at six months with respect to their average overall knee pain severity over the previous week.</p>
+             <p>All secondary analyses will be conducted using linear or logistic regression, depending on the type of outcome measure, adjusting for the same covariates as the primary analysis. The intention-to-treat population will be used for all secondary analyses. All secondary outcomes will be described descriptively (mean, SD, median, minimum and maximum for continuous data and counts and percentages for categorical data). The Short Form-12 questionnaire will be summarized for all components. To minimise multiple testing, only the overall physical component score and mental component score will be analysed, using the same analysis methods as for the primary outcome. For continuous outcomes the regression model assumptions will be checked and, if necessary, data will be transformed prior to analysis if this improves the model fit, or normalises the distribution of residuals.</p>
+             <p>Adverse events will be coded according to the MedDRA adverse event dictionary. The overall incidence of serious adverse events and adverse events and number and proportion of patients reporting such events will be summarized by treatment group. Adverse events (including serious adverse events) will be summarized by the number and percentage of subjects who experienced the event by system organ class and preferred term. Subjects will only be counted once. If a subject reports the same adverse event more than once then the maximum grade and strongest causal relationship to study treatment will be used for the summary tables. Adverse events will also be summarized by severity and by relationship to study drug. All adverse events will be included in individual subject line listings.</p>
+             <p>Analysis of MRI endpoints will be exploratory. Treatment groups will be compared with respect to changes in synovitis, cartilage and bone using linear regression models with adjustment for the same covariates as the primary analysis. Linear regression models will also be used to explore the association between symptom outcome and baseline MRI measurements. Changes in MR features and the relationship of these changes with symptom changes will be explored descriptively.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Health economics analysis</p>
+             </st>
+             <p>An economic analysis will be undertaken in order to determine the cost-effectiveness of oral MTX for the treatment of knee OA. A cost-utility analysis will also be undertaken to explore the impact on health-related quality of life. The analyses will be conducted from the perspective of the United Kingdom NHS and Personal Social Services (PSS), in line with National Institute for Health and Care Excellence recommendations <abbrgrp>
+                   <abbr bid="B58">58</abbr>
+                </abbrgrp>.</p>
+             <p>Health benefits for the economic evaluation will be measured in terms of pain reduction and QALYs. The QALY is a generic outcome which enables decision makers to compare across different disease areas. QALYs will be generated from the EuroQol EQ-5D-5&#160;L for use in the cost-utility analysis, and will be estimated by measuring the area under the curve <abbrgrp>
+                   <abbr bid="B59">59</abbr>
+                </abbrgrp>. Utility data will be collected at the same time points as for clinical outcomes (at baseline, six months and 12&#160;months).</p>
+             <p>Costs of the intervention, control and the total health care costs during the treatment and follow-up period will be assessed, including costs of adverse events and medications. Health service resource use will be collected via a self-reported resource use questionnaire, with national costs applied to the quantities of resources utilized, for example using NHS Reference Costs <abbrgrp>
+                   <abbr bid="B60">60</abbr>
+                </abbrgrp> and Unit Costs of Health and Social Care <abbrgrp>
+                   <abbr bid="B61">61</abbr>
+                </abbrgrp>. The unit costs of medications will be sourced from the British National Formulary <abbrgrp>
+                   <abbr bid="B62">62</abbr>
+                </abbrgrp>.</p>
+             <p>The within-trial analysis will use regression methods to allow for the correlation between cost and outcome data generated from the trial, with adjustment for covariates. A cost-effectiveness analysis will determine the cost per unit of reduction in knee pain score (as measured on the NRS). A cost-utility analysis will be undertaken to generate the cost per QALY. The results will be presented in terms of incremental cost-effectiveness ratios (ICERs). Future costs and outcomes will not be discounted due to the trial follow-up being one year. Cost-effectiveness acceptability curves will be produced to explore the probability that MTX will be cost-effective at different cost-effectiveness thresholds <abbrgrp>
+                   <abbr bid="B63">63</abbr>
+                </abbrgrp>.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Discussion</p>
+          </st>
+          <p>Current medical therapy does not provide satisfactory pain relief in the majority of people with OA <abbrgrp>
+                <abbr bid="B64">64</abbr>
+             </abbrgrp>; with the rapidly ageing population the prevalence of OA will continue to rise over the next decade. Unless the barriers to successful treatment of OA are overcome, the already considerable social and economic burden will soon reach an unsustainable level. The last decade has seen major advances in understanding OA pathology. MRI has demonstrated that synovial inflammation is common in OA and is related to symptoms. MTX is the most common agent used to treat synovitis in RA and because of its favourable efficacy, long-term retention rates, low cost and established track record it has become the standard by which other DMARDs are evaluated, supporting our choice to use MTX rather than any other DMARD for a trial in OA. Since the design of this study and conduct of the systematic literature review, a single-centre randomized controlled trial of MTX in knee OA has been published <abbrgrp>
+                <abbr bid="B65">65</abbr>
+             </abbrgrp>. The study demonstrated a clinically relevant reduction in knee pain and physical function in the intervention group compared with the placebo group at 28&#160;weeks. A significantly higher proportion of patients in the MTX group (53%) showed a reduction in VAS of more than 20&#160;mm compared to the placebo group (24%; <it>P</it>&#8201;=&#8201;0.018). The positive findings of this study reinforce the potential of MTX as a treatment for OA. However, given the substantial impact that using MTX for treating OA would have on clinical practice, a large multi-centre confirmatory study is essential. The PROMOTE trial has been designed to be pragmatic in nature so as to answer the question as to whether MTX is a valuable addition to the overall management of patients with OA.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Trial status</p>
+          </st>
+          <p>Recruitment to the trial began in June 2014. Follow-up of participants is in progress and is expected to be completed in December 2016.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Abbreviations</p>
+          </st>
+          <p>AICAR: Aminoimidazole carboxamide ribonucleotide</p>
+          <p>ALT: Alanine aminotransferase</p>
+          <p>CCG: Clinical Commissioning Group</p>
+          <p>CCP: Cyclic citrullinated protein</p>
+          <p>CCRN: Comprehensive Clinical Research Network</p>
+          <p>CPPD: Calcium pyrophosphate crystal disease</p>
+          <p>CRF: Case report form</p>
+          <p>CRP: C-reactive protein</p>
+          <p>CVD: Cardiovascular disease</p>
+          <p>DMARD: Disease modifying anti-rheumatic drug</p>
+          <p>eGFR: Estimated glomerular filtration rate</p>
+          <p>FBC: Full blood count</p>
+          <p>GP: General practitioner</p>
+          <p>HADS: Hospital Anxiety and Depression Scale</p>
+          <p>IA: Intra-articular</p>
+          <p>ICER: Incremental cost-effectiveness ratio</p>
+          <p>ICOAP: Intermittent and Constant Osteoarthritis Pain</p>
+          <p>IL: Interleukin</p>
+          <p>LFT: Liver function test</p>
+          <p>LTF: Lateral tibiofemoral</p>
+          <p>MHRA: Medicines and Healthcare Products Regulatory Agency</p>
+          <p>MOAKS: MRI Osteoarthritis Knee Score</p>
+          <p>MRI: Magnetic resonance imaging</p>
+          <p>MTF: Medial tibiofemoral</p>
+          <p>MTX: Methotrexate</p>
+          <p>NHS: National Health Service</p>
+          <p>NICE: National Institute for Health and Care Excellence</p>
+          <p>NIMP: Non-Investigational Medicinal Product</p>
+          <p>NRS: Numerical rating scale</p>
+          <p>NSAID: Non-steroidal anti-inflammatory drug</p>
+          <p>OA: Osteoarthritis</p>
+          <p>OA QoL: Osteoarthritis Quality of Life Scale</p>
+          <p>PF: Patellofemoral</p>
+          <p>PICS: Patient Identification Centres</p>
+          <p>PsA: Psoriatic arthritis</p>
+          <p>PSS: Personal Social Services</p>
+          <p>QALY: Quality-adjusted life year</p>
+          <p>RA: Rheumatoid arthritis</p>
+          <p>RF: Rheumatoid factor</p>
+          <p>SD: Standard deviation</p>
+          <p>TNF: Tumour necrosis factor</p>
+          <p>U&amp;E: Urea and electrolytes</p>
+          <p>ULN: Upper limit of normal</p>
+          <p>VAS: Visual analogue scale</p>
+          <p>WCC: White cell count</p>
+          <p>WOMAC: Western Ontario and McMaster Universities Index of OA</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Competing interests</p>
+          </st>
+          <p>The authors declare they have no competing interests.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Authors&#8217; contributions</p>
+          </st>
+          <p>PGC conceived the study. SRK, PT, NKA, MB, FB, KC, MD, CJE, TG, AJG, MG, CEH,RH, RM, TWO, ER, DLS, FEW, DJT and PGC participated in its design and coordination, and performed the research. SRK and PT drafted the manuscript. All authors revised the manuscript and gave final approval of the version to be submitted.</p>
+       </sec>
+    </bdy>
+    <bm>
+       <ack>
+          <sec>
+             <st>
+                <p>Acknowledgements</p>
+             </st>
+             <p>The PROMOTE trial is funded by an Arthritis Research UK Clinical Studies Grant (reference number: 20186). The authors acknowledge the support of the National Institute for Health Research, through the Comprehensive Clinical Research Network (CCRN). Please do not hesitate to contact the CCRN Portfolio team at ccrn.portfolio@nihr.ac.uk should you require further information.</p>
+             <p>SRK and PGC are part funded by the National Institute for Health Research (NIHR) through the Leeds Musculoskeletal Biomedical Research Unit. This paper presents independent research funded by the NIHR. The views expressed are those of the authors and not necessarily those of the NHS, the NIHR or the Department of Health.</p>
+          </sec>
+       </ack>
+       <refgrp>
+          
+          <bibl id="B1">
+             <title>
+                <p>Disability-adjusted life years (DALYs) for 291 diseases and injuries in 21 regions, 1990&#8211;2010: a systematic analysis for the Global Burden of Disease Study 2010</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Murray</snm>
+                   <fnm>CJ</fnm>
+                </au>
+                <au>
+                   <snm>Vos</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Lozano</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Naghavi</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Flaxman</snm>
+                   <fnm>AD</fnm>
+                </au>
+                <au>
+                   <snm>Michaud</snm>
+                   <fnm>C</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Lancet</source>
+             <pubdate>2012</pubdate>
+             <volume>380</volume>
+             <issue>9859</issue>
+             <fpage>2197</fpage>
+             <lpage>223</lpage>
+             <note> doi:10.1016/S0140-6736(12)61689-4</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0140-6736(12)61689-4</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23245608</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B2">
+             <title>
+                <p>Years lived with disability (YLDs) for 1160 sequelae of 289 diseases and injuries 1990&#8211;2010: a systematic analysis for the Global Burden of Disease Study 2010</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Vos</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Flaxman</snm>
+                   <fnm>AD</fnm>
+                </au>
+                <au>
+                   <snm>Naghavi</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Lozano</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Michaud</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Ezzati</snm>
+                   <fnm>M</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Lancet</source>
+             <pubdate>2012</pubdate>
+             <volume>380</volume>
+             <issue>9859</issue>
+             <fpage>2163</fpage>
+             <lpage>96</lpage>
+             <note> doi:10.1016/S0140-6736(12)61729-2</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0140-6736(12)61729-2</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23245607</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B3">
+             <title>
+                <p>Lifetime risk of symptomatic knee osteoarthritis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Murphy</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Schwartz</snm>
+                   <fnm>TA</fnm>
+                </au>
+                <au>
+                   <snm>Helmick</snm>
+                   <fnm>CG</fnm>
+                </au>
+                <au>
+                   <snm>Renner</snm>
+                   <fnm>JB</fnm>
+                </au>
+                <au>
+                   <snm>Tudor</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Koch</snm>
+                   <fnm>G</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Arthritis Rheum</source>
+             <pubdate>2008</pubdate>
+             <volume>59</volume>
+             <issue>9</issue>
+             <fpage>1207</fpage>
+             <lpage>13</lpage>
+             <note> doi:10.1002/art.24021</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1002/art.24021</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18759314</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B4">
+             <title>
+                <p>The economic burden of osteoarthritis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bitton</snm>
+                   <fnm>R</fnm>
+                </au>
+             </aug>
+             <source>Am J Manag Care</source>
+             <pubdate>2009</pubdate>
+             <volume>15</volume>
+             <issue>Suppl 8</issue>
+             <fpage>S230</fpage>
+             <lpage>5</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">19817509</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B5">
+             <aug>
+                <au>
+                   <snm>Care</snm>
+                   <fnm>A</fnm>
+                </au>
+             </aug>
+             <source>OA Nations Survey</source>
+             <pubdate>2003</pubdate>
+          </bibl>
+          <bibl id="B6">
+             <title>
+                <p>Health economics in the field of osteoarthritis: An Expert&#8217;s consensus paper from the European Society for Clinical and Economic Aspects of Osteoporosis and Osteoarthritis (ESCEO)</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hiligsmann</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Cooper</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Arden</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Boers</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Branco</snm>
+                   <fnm>JC</fnm>
+                </au>
+                <au>
+                   <snm>Luisa Brandi</snm>
+                   <fnm>M</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Semin Arthritis Rheum</source>
+             <pubdate>2013</pubdate>
+             <volume>43</volume>
+             <issue>3</issue>
+             <fpage>303</fpage>
+             <lpage>13</lpage>
+             <note> doi:10.1016/j.semarthrit.2013.07.003</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.semarthrit.2013.07.003</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23992801</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B7">
+             <note>National Institute for Health and Care Excellence. Osteoarthritis: care and management in adults. NICE Clinical Guideline 177. February 2014. <url>http://www.nice.org.uk/guidance/CG177</url>. Accessed 4 Aug 2014.</note>
+          </bibl>
+          <bibl id="B8">
+             <title>
+                <p>OARSI guidelines for the non-surgical management of knee osteoarthritis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>McAlindon</snm>
+                   <fnm>TE</fnm>
+                </au>
+                <au>
+                   <snm>Bannuru</snm>
+                   <fnm>RR</fnm>
+                </au>
+                <au>
+                   <snm>Sullivan</snm>
+                   <fnm>MC</fnm>
+                </au>
+                <au>
+                   <snm>Arden</snm>
+                   <fnm>NK</fnm>
+                </au>
+                <au>
+                   <snm>Berenbaum</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Bierma-Zeinstra</snm>
+                   <fnm>SM</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Osteoarthritis Cartilage</source>
+             <pubdate>2014</pubdate>
+             <volume>22</volume>
+             <issue>3</issue>
+             <fpage>363</fpage>
+             <lpage>88</lpage>
+             <note> doi:10.1016/j.joca.2014.01.003</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.joca.2014.01.003</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24462672</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B9">
+             <title>
+                <p>American College of Rheumatology 2012 recommendations for the use of nonpharmacologic and pharmacologic therapies in osteoarthritis of the hand, hip, and knee</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hochberg</snm>
+                   <fnm>MC</fnm>
+                </au>
+                <au>
+                   <snm>Altman</snm>
+                   <fnm>RD</fnm>
+                </au>
+                <au>
+                   <snm>April</snm>
+                   <fnm>KT</fnm>
+                </au>
+                <au>
+                   <snm>Benkhalti</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Guyatt</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>McGowan</snm>
+                   <fnm>J</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Arthritis Care Res (Hoboken)</source>
+             <pubdate>2012</pubdate>
+             <volume>64</volume>
+             <issue>4</issue>
+             <fpage>465</fpage>
+             <lpage>74</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1002/acr.21596</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B10">
+             <note>Conaghan PG, Porcheret M, Kingsbury SR, Gammon A, Soni A, Hurley M et al. Impact and therapy of osteoarthritis: the Arthritis Care OA Nation 2012 survey. Clin Rheumatol. 2014. doi:10.1007/s10067-014-2692-1.</note>
+          </bibl>
+          <bibl id="B11">
+             <note>National population projections, 2008-based. Office for National Statistics. 2009. <url>http://www.ons.gov.uk/ons/rel/npp/national-population-projections/2008-based-projections/index.html</url>. Accessed 19 Feb 2015.</note>
+          </bibl>
+          <bibl id="B12">
+             <note>Proceedings of the bone and joint decade 2000&#8211;2010 for prevention and treatment of musculo-skeletal disorders; 1998 April 17&#8211;18; Lund, Sweden. Acta Orthop Scand Suppl. 1998;281:1&#8211;86.</note>
+          </bibl>
+          <bibl id="B13">
+             <title>
+                <p>EULAR report on the use of ultrasonography in painful knee osteoarthritis. Part 1: prevalence of inflammation in osteoarthritis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>D&#8217;Agostino</snm>
+                   <fnm>MA</fnm>
+                </au>
+                <au>
+                   <snm>Conaghan</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Le Bars</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Baron</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Grassi</snm>
+                   <fnm>W</fnm>
+                </au>
+                <au>
+                   <snm>Martin-Mola</snm>
+                   <fnm>E</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Ann Rheum Dis</source>
+             <pubdate>2005</pubdate>
+             <volume>64</volume>
+             <issue>12</issue>
+             <fpage>1703</fpage>
+             <lpage>9</lpage>
+             <note> doi:10.1136/ard.2005.037994</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/ard.2005.037994</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15878903</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B14">
+             <title>
+                <p>Magnetic resonance imaging-determined synovial membrane and joint effusion volumes in rheumatoid arthritis and osteoarthritis: comparison with the macroscopic and microscopic appearance of the synovium</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Ostergaard</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Stoltenberg</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Lovgreen-Nielsen</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Volck</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Jensen</snm>
+                   <fnm>CH</fnm>
+                </au>
+                <au>
+                   <snm>Lorenzen</snm>
+                   <fnm>I</fnm>
+                </au>
+             </aug>
+             <source>Arthritis Rheum</source>
+             <pubdate>1997</pubdate>
+             <volume>40</volume>
+             <issue>10</issue>
+             <fpage>1856</fpage>
+             <lpage>67</lpage>
+             <note> doi:10.1002/1529-0131(199710)40:10&lt;1856::AID-ART20&gt;3.0.CO;2-3</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1002/art.1780401020</pubid>
+                   <pubid idtype="pmpid" link="fulltext">9336422</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B15">
+             <title>
+                <p>MR imaging of the arthritic knee: improved discrimination of cartilage, synovium, and effusion with pulsed saturation transfer and fat-suppressed T1-weighted sequences</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Peterfy</snm>
+                   <fnm>CG</fnm>
+                </au>
+                <au>
+                   <snm>Majumdar</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Lang</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>van Dijke</snm>
+                   <fnm>CF</fnm>
+                </au>
+                <au>
+                   <snm>Sack</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Genant</snm>
+                   <fnm>HK</fnm>
+                </au>
+             </aug>
+             <source>Radiology</source>
+             <pubdate>1994</pubdate>
+             <volume>191</volume>
+             <issue>2</issue>
+             <fpage>413</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1148/radiology.191.2.8153315</pubid>
+                   <pubid idtype="pmpid" link="fulltext">8153315</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B16">
+             <title>
+                <p>An ultrasonographic study of osteoarthritis of the hand: synovitis and its relationship to structural pathology and symptoms</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Keen</snm>
+                   <fnm>HI</fnm>
+                </au>
+                <au>
+                   <snm>Wakefield</snm>
+                   <fnm>RJ</fnm>
+                </au>
+                <au>
+                   <snm>Grainger</snm>
+                   <fnm>AJ</fnm>
+                </au>
+                <au>
+                   <snm>Hensor</snm>
+                   <fnm>EM</fnm>
+                </au>
+                <au>
+                   <snm>Emery</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Conaghan</snm>
+                   <fnm>PG</fnm>
+                </au>
+             </aug>
+             <source>Arthritis Rheum</source>
+             <pubdate>2008</pubdate>
+             <volume>59</volume>
+             <issue>12</issue>
+             <fpage>1756</fpage>
+             <lpage>63</lpage>
+             <note> doi:10.1002/art.24312</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1002/art.24312</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19035429</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B17">
+             <title>
+                <p>Knee effusions, popliteal cysts, and synovial thickening: association with knee pain in osteoarthritis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hill</snm>
+                   <fnm>CL</fnm>
+                </au>
+                <au>
+                   <snm>Gale</snm>
+                   <fnm>DG</fnm>
+                </au>
+                <au>
+                   <snm>Chaisson</snm>
+                   <fnm>CE</fnm>
+                </au>
+                <au>
+                   <snm>Skinner</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Kazis</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Gale</snm>
+                   <fnm>ME</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>J Rheumatol</source>
+             <pubdate>2001</pubdate>
+             <volume>28</volume>
+             <issue>6</issue>
+             <fpage>1330</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">11409127</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B18">
+             <title>
+                <p>Synovitis detected on magnetic resonance imaging and its relation to pain and cartilage loss in knee osteoarthritis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hill</snm>
+                   <fnm>CL</fnm>
+                </au>
+                <au>
+                   <snm>Hunter</snm>
+                   <fnm>DJ</fnm>
+                </au>
+                <au>
+                   <snm>Niu</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Clancy</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Guermazi</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Genant</snm>
+                   <fnm>H</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Ann Rheum Dis</source>
+             <pubdate>2007</pubdate>
+             <volume>66</volume>
+             <issue>12</issue>
+             <fpage>1599</fpage>
+             <lpage>603</lpage>
+             <note> doi:10.1136/ard.2006.067470</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/ard.2006.067470</pubid>
+                   <pubid idtype="pmpid" link="fulltext">17491096</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B19">
+             <title>
+                <p>Anticytokine therapy for osteoarthritis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Goldring</snm>
+                   <fnm>MB</fnm>
+                </au>
+             </aug>
+             <source>Expert Opin Biol Ther</source>
+             <pubdate>2001</pubdate>
+             <volume>1</volume>
+             <issue>5</issue>
+             <fpage>817</fpage>
+             <lpage>29</lpage>
+             <note> doi:10.1517/14712598.1.5.817</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1517/14712598.1.5.817</pubid>
+                   <pubid idtype="pmpid" link="fulltext">11728217</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B20">
+             <title>
+                <p>Synovial membrane inflammation and cytokine production in patients with early osteoarthritis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Smith</snm>
+                   <fnm>MD</fnm>
+                </au>
+                <au>
+                   <snm>Triantafillou</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Parker</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Youssef</snm>
+                   <fnm>PP</fnm>
+                </au>
+                <au>
+                   <snm>Coleman</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>J Rheumatol</source>
+             <pubdate>1997</pubdate>
+             <volume>24</volume>
+             <issue>2</issue>
+             <fpage>365</fpage>
+             <lpage>71</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">9034998</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B21">
+             <title>
+                <p>Synovial inflammation in patients with early osteoarthritis of the knee</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Myers</snm>
+                   <fnm>SL</fnm>
+                </au>
+                <au>
+                   <snm>Brandt</snm>
+                   <fnm>KD</fnm>
+                </au>
+                <au>
+                   <snm>Ehlich</snm>
+                   <fnm>JW</fnm>
+                </au>
+                <au>
+                   <snm>Braunstein</snm>
+                   <fnm>EM</fnm>
+                </au>
+                <au>
+                   <snm>Shelbourne</snm>
+                   <fnm>KD</fnm>
+                </au>
+                <au>
+                   <snm>Heck</snm>
+                   <fnm>DA</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>J Rheumatol</source>
+             <pubdate>1990</pubdate>
+             <volume>17</volume>
+             <issue>12</issue>
+             <fpage>1662</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">2084242</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B22">
+             <title>
+                <p>Acetaminophen, like conventional NSAIDs, may reduce synovitis in osteoarthritic knees</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Brandt</snm>
+                   <fnm>KD</fnm>
+                </au>
+                <au>
+                   <snm>Mazzuca</snm>
+                   <fnm>SA</fnm>
+                </au>
+                <au>
+                   <snm>Buckwalter</snm>
+                   <fnm>KA</fnm>
+                </au>
+             </aug>
+             <source>Rheumatology (Oxford)</source>
+             <pubdate>2006</pubdate>
+             <volume>45</volume>
+             <issue>11</issue>
+             <fpage>1389</fpage>
+             <lpage>94</lpage>
+             <note> doi:10.1093/rheumatology/kel100</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/rheumatology/kel100</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B23">
+             <title>
+                <p>Effects of ibuprofen on molecular markers of cartilage and synovium turnover in patients with knee osteoarthritis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Gineyts</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Mo</snm>
+                   <fnm>JA</fnm>
+                </au>
+                <au>
+                   <snm>Ko</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Henriksen</snm>
+                   <fnm>DB</fnm>
+                </au>
+                <au>
+                   <snm>Curtis</snm>
+                   <fnm>SP</fnm>
+                </au>
+                <au>
+                   <snm>Gertz</snm>
+                   <fnm>BJ</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Ann Rheum Dis</source>
+             <pubdate>2004</pubdate>
+             <volume>63</volume>
+             <issue>7</issue>
+             <fpage>857</fpage>
+             <lpage>61</lpage>
+             <note> doi:10.1136/ard.2003.007302</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/ard.2003.007302</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15194584</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B24">
+             <title>
+                <p>Osteoarthritis: new insights. Part 1: the disease and its risk factors</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Felson</snm>
+                   <fnm>DT</fnm>
+                </au>
+                <au>
+                   <snm>Lawrence</snm>
+                   <fnm>RC</fnm>
+                </au>
+                <au>
+                   <snm>Dieppe</snm>
+                   <fnm>PA</fnm>
+                </au>
+                <au>
+                   <snm>Hirsch</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Helmick</snm>
+                   <fnm>CG</fnm>
+                </au>
+                <au>
+                   <snm>Jordan</snm>
+                   <fnm>JM</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Ann Intern Med</source>
+             <pubdate>2000</pubdate>
+             <volume>133</volume>
+             <issue>8</issue>
+             <fpage>635</fpage>
+             <lpage>46</lpage>
+             <note> doi:200010170&#8211;00016</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.7326/0003-4819-133-8-200010170-00016</pubid>
+                   <pubid idtype="pmpid" link="fulltext">11033593</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B25">
+             <title>
+                <p>Effects of joint lavage and steroid injection in patients with osteoarthritis of the knee: results of a multicenter, randomized, controlled trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Ravaud</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Moulinier</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Giraudeau</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Ayral</snm>
+                   <fnm>X</fnm>
+                </au>
+                <au>
+                   <snm>Guerin</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Noel</snm>
+                   <fnm>E</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Arthritis Rheum</source>
+             <pubdate>1999</pubdate>
+             <volume>42</volume>
+             <issue>3</issue>
+             <fpage>475</fpage>
+             <lpage>82</lpage>
+             <note> doi:10.1002/1529-0131(199904)42:3&lt;475::AID-ANR12&gt;3.0.CO;2-S</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1002/1529-0131(199904)42:3&lt;475::AID-ANR12&gt;3.0.CO;2-S</pubid>
+                   <pubid idtype="pmpid" link="fulltext">10088770</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B26">
+             <title>
+                <p>Intraarticular corticosteroid for treatment of osteoarthritis of the knee</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bellamy</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Campbell</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Robinson</snm>
+                   <fnm>V</fnm>
+                </au>
+                <au>
+                   <snm>Gee</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Bourne</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Wells</snm>
+                   <fnm>G</fnm>
+                </au>
+             </aug>
+             <source>Cochrane Database Syst Rev</source>
+             <pubdate>2006</pubdate>
+             <volume>2</volume>
+             <note>Article ID CD005328 doi:10.1002/14651858.CD005328.pub2</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">16625636</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B27">
+             <title>
+                <p>Intra-articular corticosteroids are effective in osteoarthritis but there are no clinical predictors of response</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Jones</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Doherty</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>Ann Rheum Dis</source>
+             <pubdate>1996</pubdate>
+             <volume>55</volume>
+             <issue>11</issue>
+             <fpage>829</fpage>
+             <lpage>32</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/ard.55.11.829</pubid>
+                   <pubid idtype="pmpid" link="fulltext">8976640</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B28">
+             <title>
+                <p>American College of Rheumatology 2012 recommendations for the use of nonpharmacologic and pharmacologic therapies in osteoarthritis of the hand, hip, and knee</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hochberg</snm>
+                   <fnm>MC</fnm>
+                </au>
+                <au>
+                   <snm>Altman</snm>
+                   <fnm>RD</fnm>
+                </au>
+                <au>
+                   <snm>April</snm>
+                   <fnm>KT</fnm>
+                </au>
+                <au>
+                   <snm>Benkhalti</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Guyatt</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>McGowan</snm>
+                   <fnm>J</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Arthritis Care Res</source>
+             <pubdate>2012</pubdate>
+             <volume>64</volume>
+             <issue>4</issue>
+             <fpage>455</fpage>
+             <lpage>74</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1002/acr.21596</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B29">
+             <title>
+                <p>The effect of methotrexate on cardiovascular disease in patients with rheumatoid arthritis: a systematic literature review</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Westlake</snm>
+                   <fnm>SL</fnm>
+                </au>
+                <au>
+                   <snm>Colebatch</snm>
+                   <fnm>AN</fnm>
+                </au>
+                <au>
+                   <snm>Baird</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Kiely</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Quinn</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Choy</snm>
+                   <fnm>E</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Rheumatology (Oxford)</source>
+             <pubdate>2010</pubdate>
+             <volume>49</volume>
+             <issue>2</issue>
+             <fpage>295</fpage>
+             <lpage>307</lpage>
+             <note> doi:10.1093/rheumatology/kep366</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/rheumatology/kep366</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B30">
+             <title>
+                <p>Methotrexate in psoriatic arthritis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Mease</snm>
+                   <fnm>P</fnm>
+                </au>
+             </aug>
+             <source>Bull Hosp Jt Dis (2013)</source>
+             <pubdate>2013</pubdate>
+             <volume>71</volume>
+             <issue>Suppl 1</issue>
+             <fpage>S41</fpage>
+             <lpage>5</lpage>
+          </bibl>
+          <bibl id="B31">
+             <title>
+                <p>Adenosine: an endogenous regulator of innate immunity</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hasko</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Cronstein</snm>
+                   <fnm>BN</fnm>
+                </au>
+             </aug>
+             <source>Trends Immunol</source>
+             <pubdate>2004</pubdate>
+             <volume>25</volume>
+             <issue>1</issue>
+             <fpage>33</fpage>
+             <lpage>9</lpage>
+             <note> doi:S1471490603003582</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.it.2003.11.003</pubid>
+                   <pubid idtype="pmpid" link="fulltext">14698282</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B32">
+             <title>
+                <p>Low-dose methotrexate: a mainstay in the treatment of rheumatoid arthritis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Cronstein</snm>
+                   <fnm>BN</fnm>
+                </au>
+             </aug>
+             <source>Pharmacol Rev</source>
+             <pubdate>2005</pubdate>
+             <volume>57</volume>
+             <issue>2</issue>
+             <fpage>163</fpage>
+             <lpage>72</lpage>
+             <note> doi:10.1124/pr.57.2.3</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1124/pr.57.2.3</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15914465</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B33">
+             <title>
+                <p>Methotrexate in rheumatoid arthritis. A five-year prospective multicenter study</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Weinblatt</snm>
+                   <fnm>ME</fnm>
+                </au>
+                <au>
+                   <snm>Kaplan</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Germain</snm>
+                   <fnm>BF</fnm>
+                </au>
+                <au>
+                   <snm>Block</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Solomon</snm>
+                   <fnm>SD</fnm>
+                </au>
+                <au>
+                   <snm>Merriman</snm>
+                   <fnm>RC</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Arthritis Rheum</source>
+             <pubdate>1994</pubdate>
+             <volume>37</volume>
+             <issue>10</issue>
+             <fpage>1492</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1002/art.1780371013</pubid>
+                   <pubid idtype="pmpid" link="fulltext">7945475</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B34">
+             <title>
+                <p>Effect of folic or folinic acid supplementation on the toxicity and efficacy of methotrexate in rheumatoid arthritis: a forty-eight week, multicenter, randomized, double-blind, placebo-controlled study</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>van Ede</snm>
+                   <fnm>AE</fnm>
+                </au>
+                <au>
+                   <snm>Laan</snm>
+                   <fnm>RF</fnm>
+                </au>
+                <au>
+                   <snm>Rood</snm>
+                   <fnm>MJ</fnm>
+                </au>
+                <au>
+                   <snm>Huizinga</snm>
+                   <fnm>TW</fnm>
+                </au>
+                <au>
+                   <snm>van de Laar</snm>
+                   <fnm>MA</fnm>
+                </au>
+                <au>
+                   <snm>van Denderen</snm>
+                   <fnm>CJ</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Arthritis Rheum</source>
+             <pubdate>2001</pubdate>
+             <volume>44</volume>
+             <issue>7</issue>
+             <fpage>1515</fpage>
+             <lpage>24</lpage>
+             <note> doi:10.1002/1529-0131(200107)44:7&lt;1515::AID-ART273&gt;3.0.CO;2-7</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1002/1529-0131(200107)44:7&lt;1515::AID-ART273&gt;3.0.CO;2-7</pubid>
+                   <pubid idtype="pmpid" link="fulltext">11465701</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B35">
+             <title>
+                <p>Long-term tolerability of methotrexate at doses exceeding 15&#160;mg per week in rheumatoid arthritis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Schnabel</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Herlyn</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Burchardi</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Reinhold-Keller</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Gross</snm>
+                   <fnm>WL</fnm>
+                </au>
+             </aug>
+             <source>Rheumatol Int</source>
+             <pubdate>1996</pubdate>
+             <volume>15</volume>
+             <issue>5</issue>
+             <fpage>195</fpage>
+             <lpage>200</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1007/BF00290521</pubid>
+                   <pubid idtype="pmpid" link="fulltext">8717103</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B36">
+             <title>
+                <p>A prospective study of the long-term efficacy and toxicity of low-dose methotrexate in rheumatoid arthritis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Salaffi</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Carotti</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Sartini</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Cervini</snm>
+                   <fnm>C</fnm>
+                </au>
+             </aug>
+             <source>Clin Exp Rheumatol</source>
+             <pubdate>1995</pubdate>
+             <volume>13</volume>
+             <issue>1</issue>
+             <fpage>23</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">7774099</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B37">
+             <title>
+                <p>Low-dose methotrexate compared to placebo in the treatment of knee osteoarthritis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>de Holanda</snm>
+                   <fnm>HT</fnm>
+                </au>
+                <au>
+                   <snm>Pollak</snm>
+                   <fnm>DF</fnm>
+                </au>
+                <au>
+                   <snm>Pucinelli</snm>
+                   <fnm>ML</fnm>
+                </au>
+             </aug>
+             <source>Rev Bras Reumatol</source>
+             <pubdate>2007</pubdate>
+             <volume>47</volume>
+             <issue>5</issue>
+             <fpage>334</fpage>
+             <lpage>40</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1590/S0482-50042007000500008</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B38">
+             <title>
+                <p>Methotrexate in the treatment of erosive OA of the hands</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Pavelka</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Olejarova</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Pavelkova</snm>
+                   <fnm>A</fnm>
+                </au>
+             </aug>
+             <source>Ann Rheum Dis</source>
+             <pubdate>2006</pubdate>
+             <volume>65</volume>
+             <issue>Suppl II</issue>
+             <fpage>402</fpage>
+          </bibl>
+          <bibl id="B39">
+             <title>
+                <p>Methotrexate as an alternative therapy for chronic calcium pyrophosphate deposition disease: an exploratory analysis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Chollet-Janin</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Finckh</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Dudler</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Guerne</snm>
+                   <fnm>PA</fnm>
+                </au>
+             </aug>
+             <source>Arthritis Rheum</source>
+             <pubdate>2007</pubdate>
+             <volume>56</volume>
+             <issue>2</issue>
+             <fpage>688</fpage>
+             <lpage>92</lpage>
+             <note> doi:10.1002/art.22389</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1002/art.22389</pubid>
+                   <pubid idtype="pmpid" link="fulltext">17265505</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B40">
+             <title>
+                <p>Methotrexate for pain relief in knee osteoarthritis: an open-label study</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Wenham</snm>
+                   <fnm>CY</fnm>
+                </au>
+                <au>
+                   <snm>Grainger</snm>
+                   <fnm>AJ</fnm>
+                </au>
+                <au>
+                   <snm>Hensor</snm>
+                   <fnm>EM</fnm>
+                </au>
+                <au>
+                   <snm>Caperon</snm>
+                   <fnm>AR</fnm>
+                </au>
+                <au>
+                   <snm>Ash</snm>
+                   <fnm>ZR</fnm>
+                </au>
+                <au>
+                   <snm>Conaghan</snm>
+                   <fnm>PG</fnm>
+                </au>
+             </aug>
+             <source>Rheumatology (Oxford)</source>
+             <pubdate>2013</pubdate>
+             <volume>52</volume>
+             <issue>5</issue>
+             <fpage>888</fpage>
+             <lpage>92</lpage>
+             <note> doi:10.1093/rheumatology/kes386</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/rheumatology/kes386</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B41">
+             <title>
+                <p>The effects of high-dose methotrexate on the development of cartilage lesions in a lapine model of osteoarthrosis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Neidel</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Schroers</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Sintermann</snm>
+                   <fnm>F</fnm>
+                </au>
+             </aug>
+             <source>Arch Orthop Trauma Surg</source>
+             <pubdate>1998</pubdate>
+             <volume>117</volume>
+             <issue>4&#8211;5</issue>
+             <fpage>265</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1007/s004020050243</pubid>
+                   <pubid idtype="pmpid" link="fulltext">9581258</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B42">
+             <title>
+                <p>The effects of methotrexate on normal and osteoarthritic lapine articular cartilage</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Mannoni</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Altman</snm>
+                   <fnm>RD</fnm>
+                </au>
+                <au>
+                   <snm>Muniz</snm>
+                   <fnm>OE</fnm>
+                </au>
+                <au>
+                   <snm>Serni</snm>
+                   <fnm>U</fnm>
+                </au>
+                <au>
+                   <snm>Dean</snm>
+                   <fnm>DD</fnm>
+                </au>
+             </aug>
+             <source>J Rheumatol</source>
+             <pubdate>1993</pubdate>
+             <volume>20</volume>
+             <issue>5</issue>
+             <fpage>849</fpage>
+             <lpage>55</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">8336311</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B43">
+             <title>
+                <p>Multinational evidence-based recommendations for the use of methotrexate in rheumatic disorders with a focus on rheumatoid arthritis: integrating systematic literature research and expert opinion of a broad international panel of rheumatologists in the 3E Initiative</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Visser</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Katchamart</snm>
+                   <fnm>W</fnm>
+                </au>
+                <au>
+                   <snm>Loza</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Martinez-Lopez</snm>
+                   <fnm>JA</fnm>
+                </au>
+                <au>
+                   <snm>Salliot</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Trudeau</snm>
+                   <fnm>J</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Ann Rheum Dis</source>
+             <pubdate>2009</pubdate>
+             <volume>68</volume>
+             <issue>7</issue>
+             <fpage>1086</fpage>
+             <lpage>93</lpage>
+             <note> doi:10.1136/ard.2008.094474</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/ard.2008.094474</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19033291</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B44">
+             <title>
+                <p>Optimal dosage and route of administration of methotrexate in rheumatoid arthritis: a systematic review of the literature</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Visser</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>van der Heijde</snm>
+                   <fnm>D</fnm>
+                </au>
+             </aug>
+             <source>Ann Rheum Dis</source>
+             <pubdate>2009</pubdate>
+             <volume>68</volume>
+             <issue>7</issue>
+             <fpage>1094</fpage>
+             <lpage>9</lpage>
+             <note> doi:10.1136/ard.2008.092668</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/ard.2008.092668</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19033290</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B45">
+             <title>
+                <p>Folic acid and folinic acid for reducing side effects in patients receiving methotrexate for rheumatoid arthritis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Shea</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Swinden</snm>
+                   <fnm>MV</fnm>
+                </au>
+                <au>
+                   <snm>Tanjong Ghogomu</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Ortiz</snm>
+                   <fnm>Z</fnm>
+                </au>
+                <au>
+                   <snm>Katchamart</snm>
+                   <fnm>W</fnm>
+                </au>
+                <au>
+                   <snm>Rader</snm>
+                   <fnm>T</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Cochrane Database Syst Rev</source>
+             <pubdate>2013</pubdate>
+             <volume>5</volume>
+             <note>Article ID CD000951 doi:10.1002/14651858.CD000951.pub2</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">23728635</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B46">
+             <title>
+                <p>A psychometric evaluation of 4-point and 6-point Likert-type scales in relation to reliability and validity applied psychological measurements</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Chang</snm>
+                   <fnm>L</fnm>
+                </au>
+             </aug>
+             <source>Appl Psychol Meas</source>
+             <pubdate>1994</pubdate>
+             <volume>18</volume>
+             <issue>3</issue>
+             <fpage>205</fpage>
+             <lpage>15</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1177/014662169401800302</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B47">
+             <title>
+                <p>Outcome measures in placebo-controlled trials of osteoarthritis: responsiveness to treatment effects in the REPORT database</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Dworkin</snm>
+                   <fnm>RH</fnm>
+                </au>
+                <au>
+                   <snm>Peirce-Sandner</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Turk</snm>
+                   <fnm>DC</fnm>
+                </au>
+                <au>
+                   <snm>McDermott</snm>
+                   <fnm>MP</fnm>
+                </au>
+                <au>
+                   <snm>Gibofsky</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Simon</snm>
+                   <fnm>LS</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Osteoarthritis Cartilage</source>
+             <pubdate>2014</pubdate>
+             <volume>19</volume>
+             <issue>5</issue>
+             <fpage>483</fpage>
+             <lpage>92</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.joca.2011.02.020</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B48">
+             <title>
+                <p>Core outcome measures for chronic pain clinical trials: IMMPACT recommendations</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Dworkin</snm>
+                   <fnm>RH</fnm>
+                </au>
+                <au>
+                   <snm>Turk</snm>
+                   <fnm>DC</fnm>
+                </au>
+                <au>
+                   <snm>Farrar</snm>
+                   <fnm>JT</fnm>
+                </au>
+                <au>
+                   <snm>Haythornthwaite</snm>
+                   <fnm>JA</fnm>
+                </au>
+                <au>
+                   <snm>Jensen</snm>
+                   <fnm>MP</fnm>
+                </au>
+                <au>
+                   <snm>Katz</snm>
+                   <fnm>NP</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Pain</source>
+             <pubdate>2005</pubdate>
+             <volume>113</volume>
+             <issue>1&#8211;2</issue>
+             <fpage>9</fpage>
+             <lpage>19</lpage>
+             <note> doi:10.1016/j.pain.2004.09.012</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.pain.2004.09.012</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15621359</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B49">
+             <title>
+                <p>Core outcome domains for chronic pain clinical trials: IMMPACT recommendations</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Turk</snm>
+                   <fnm>DC</fnm>
+                </au>
+                <au>
+                   <snm>Dworkin</snm>
+                   <fnm>RH</fnm>
+                </au>
+                <au>
+                   <snm>Allen</snm>
+                   <fnm>RR</fnm>
+                </au>
+                <au>
+                   <snm>Bellamy</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Brandenburg</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Carr</snm>
+                   <fnm>DB</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Pain</source>
+             <pubdate>2003</pubdate>
+             <volume>106</volume>
+             <issue>3</issue>
+             <fpage>337</fpage>
+             <lpage>45</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.pain.2003.08.001</pubid>
+                   <pubid idtype="pmpid" link="fulltext">14659516</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B50">
+             <title>
+                <p>Identifying important outcome domains for chronic pain clinical trials: an IMMPACT survey of people with pain</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Turk</snm>
+                   <fnm>DC</fnm>
+                </au>
+                <au>
+                   <snm>Dworkin</snm>
+                   <fnm>RH</fnm>
+                </au>
+                <au>
+                   <snm>Revicki</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Harding</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Burke</snm>
+                   <fnm>LB</fnm>
+                </au>
+                <au>
+                   <snm>Cella</snm>
+                   <fnm>D</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Pain</source>
+             <pubdate>2008</pubdate>
+             <volume>137</volume>
+             <issue>2</issue>
+             <fpage>276</fpage>
+             <lpage>85</lpage>
+             <note> doi:10.1016/j.pain.2007.09.002</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.pain.2007.09.002</pubid>
+                   <pubid idtype="pmpid" link="fulltext">17937976</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B51">
+             <title>
+                <p>Evolution of semi-quantitative whole joint assessment of knee OA: MOAKS (MRI Osteoarthritis Knee Score). Osteoarthritis Cartilage. 2011;19(8):990&#8211;1002. Erratum in</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hunter</snm>
+                   <fnm>DJ</fnm>
+                </au>
+                <au>
+                   <snm>Guermazi</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Lo</snm>
+                   <fnm>GH</fnm>
+                </au>
+                <au>
+                   <snm>Grainger</snm>
+                   <fnm>AJ</fnm>
+                </au>
+                <au>
+                   <snm>Conaghan</snm>
+                   <fnm>PG</fnm>
+                </au>
+                <au>
+                   <snm>Boudreau</snm>
+                   <fnm>RM</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Osteoarthritis Cartilage</source>
+             <pubdate>2011</pubdate>
+             <volume>19</volume>
+             <issue>9</issue>
+             <fpage>1168</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.joca.2011.08.001</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B52">
+             <title>
+                <p>A novel method for bone area measurement provides new insights into osteoarthritis and its progression</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bowes</snm>
+                   <fnm>MA</fnm>
+                </au>
+                <au>
+                   <snm>Vincent</snm>
+                   <fnm>GR</fnm>
+                </au>
+                <au>
+                   <snm>Wolstenholme</snm>
+                   <fnm>CB</fnm>
+                </au>
+                <au>
+                   <snm>Conaghan</snm>
+                   <fnm>PG</fnm>
+                </au>
+             </aug>
+             <source>Ann Rheum Dis</source>
+             <pubdate>2015</pubdate>
+             <volume>74</volume>
+             <issue>3</issue>
+             <fpage>519</fpage>
+             <lpage>25</lpage>
+             <note> doi:10.1136/annrheumdis-2013-204052</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/annrheumdis-2013-204052</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24306109</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B53">
+             <title>
+                <p>Clinical importance of changes in chronic pain intensity measured on an 11-point numerical pain rating scale</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Farrar</snm>
+                   <fnm>JT</fnm>
+                </au>
+                <au>
+                   <snm>Young</snm>
+                   <fnm>JP</fnm>
+                   <suf>Jr</suf>
+                </au>
+                <au>
+                   <snm>LaMoreaux</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Werth</snm>
+                   <fnm>JL</fnm>
+                </au>
+                <au>
+                   <snm>Poole</snm>
+                   <fnm>RM</fnm>
+                </au>
+             </aug>
+             <source>Pain</source>
+             <pubdate>2001</pubdate>
+             <volume>94</volume>
+             <issue>2</issue>
+             <fpage>149</fpage>
+             <lpage>58</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0304-3959(01)00349-9</pubid>
+                   <pubid idtype="pmpid" link="fulltext">11690728</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B54">
+             <title>
+                <p>Minimal clinically important changes in chronic musculoskeletal pain intensity measured on a numerical rating scale</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Salaffi</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Stancati</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Silvestri</snm>
+                   <fnm>CA</fnm>
+                </au>
+                <au>
+                   <snm>Ciapetti</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Grassi</snm>
+                   <fnm>W</fnm>
+                </au>
+             </aug>
+             <source>Eur J Pain</source>
+             <pubdate>2004</pubdate>
+             <volume>8</volume>
+             <issue>4</issue>
+             <fpage>283</fpage>
+             <lpage>91</lpage>
+             <note> doi:10.1016/j.ejpain.2003.09.004</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.ejpain.2003.09.004</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15207508</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B55">
+             <title>
+                <p>Alves da Cunha R, Fukuda VO, Rienzo FA, Cazarini Jr C, Carvalho Nde A, et al. Pulsed shortwave treatment in women with knee osteoarthritis: a multicenter, randomized, placebo-controlled clinical trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Fukuda</snm>
+                   <fnm>TY</fnm>
+                </au>
+             </aug>
+             <source>Phys Ther</source>
+             <pubdate>2011</pubdate>
+             <volume>91</volume>
+             <issue>7</issue>
+             <fpage>1009</fpage>
+             <lpage>17</lpage>
+             <note> doi:10.2522/ptj.20100306</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.2522/ptj.20100306</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21642511</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B56">
+             <title>
+                <p>Lateral wedge insoles for medial knee osteoarthritis: 12&#160;month randomised controlled trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bennell</snm>
+                   <fnm>KL</fnm>
+                </au>
+                <au>
+                   <snm>Bowles</snm>
+                   <fnm>KA</fnm>
+                </au>
+                <au>
+                   <snm>Payne</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Cicuttini</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Williamson</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Forbes</snm>
+                   <fnm>A</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>BMJ</source>
+             <pubdate>2011</pubdate>
+             <volume>342</volume>
+             <fpage>d2912</fpage>
+             <note> doi:10.1136/bmj.d2912</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/bmj.d2912</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21593096</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B57">
+             <title>
+                <p>The role of internal pilot studies in increasing the efficiency of clinical trials</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Wittes</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Brittain</snm>
+                   <fnm>E</fnm>
+                </au>
+             </aug>
+             <source>Stat Med</source>
+             <pubdate>1990</pubdate>
+             <volume>9</volume>
+             <issue>1&#8211;2</issue>
+             <fpage>65</fpage>
+             <lpage>71</lpage>
+             <note> discussion 71&#8211;2</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1002/sim.4780090113</pubid>
+                   <pubid idtype="pmpid" link="fulltext">2345839</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B58">
+             <insg>
+                <ins>
+                   <p>National Institute for Health and Care Excellence</p>
+                </ins>
+             </insg>
+             <source>Guide to the methods of technology appraisal</source>
+             <publisher>NICE, London</publisher>
+             <pubdate>2008</pubdate>
+          </bibl>
+          <bibl id="B59">
+             <title>
+                <p>Effects of a tailored activity pacing intervention on pain and fatigue for adults with osteoarthritis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Murphy</snm>
+                   <fnm>SL</fnm>
+                </au>
+                <au>
+                   <snm>Lyden</snm>
+                   <fnm>AK</fnm>
+                </au>
+                <au>
+                   <snm>Smith</snm>
+                   <fnm>DM</fnm>
+                </au>
+                <au>
+                   <snm>Dong</snm>
+                   <fnm>Q</fnm>
+                </au>
+                <au>
+                   <snm>Koliba</snm>
+                   <fnm>JF</fnm>
+                </au>
+             </aug>
+             <source>Am J Occup Ther</source>
+             <pubdate>2010</pubdate>
+             <volume>64</volume>
+             <issue>6</issue>
+             <fpage>869</fpage>
+             <lpage>76</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.5014/ajot.2010.09198</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21218677</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B60">
+             <title>
+                <p>The OARSI histopathology initiative - recommendations for histological assessments of osteoarthritis in sheep and goats</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Little</snm>
+                   <fnm>CB</fnm>
+                </au>
+                <au>
+                   <snm>Smith</snm>
+                   <fnm>MM</fnm>
+                </au>
+                <au>
+                   <snm>Cake</snm>
+                   <fnm>MA</fnm>
+                </au>
+                <au>
+                   <snm>Read</snm>
+                   <fnm>RA</fnm>
+                </au>
+                <au>
+                   <snm>Murphy</snm>
+                   <fnm>MJ</fnm>
+                </au>
+                <au>
+                   <snm>Barry</snm>
+                   <fnm>FP</fnm>
+                </au>
+             </aug>
+             <source>Osteoarthritis Cartilage</source>
+             <pubdate>2010</pubdate>
+             <volume>18</volume>
+             <issue>Suppl 3</issue>
+             <fpage>S80</fpage>
+             <lpage>92</lpage>
+             <note> doi:10.1016/j.joca.2010.04.016</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.joca.2010.04.016</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20864026</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B61">
+             <title>
+                <p>One in four people may develop symptomatic hip osteoarthritis in his or her lifetime</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Murphy</snm>
+                   <fnm>LB</fnm>
+                </au>
+                <au>
+                   <snm>Helmick</snm>
+                   <fnm>CG</fnm>
+                </au>
+                <au>
+                   <snm>Schwartz</snm>
+                   <fnm>TA</fnm>
+                </au>
+                <au>
+                   <snm>Renner</snm>
+                   <fnm>JB</fnm>
+                </au>
+                <au>
+                   <snm>Tudor</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Koch</snm>
+                   <fnm>GG</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Osteoarthritis Cartilage</source>
+             <pubdate>2010</pubdate>
+             <volume>18</volume>
+             <issue>11</issue>
+             <fpage>1372</fpage>
+             <lpage>9</lpage>
+             <note> doi:10.1016/j.joca.2010.08.005</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.joca.2010.08.005</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20713163</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B62">
+             <title>
+                <p>Mesenchymal stem cells and osteoarthritis: remedy or accomplice?</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Coleman</snm>
+                   <fnm>CM</fnm>
+                </au>
+                <au>
+                   <snm>Curtin</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Barry</snm>
+                   <fnm>FP</fnm>
+                </au>
+                <au>
+                   <snm>O&#8217;Flatharta</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Murphy</snm>
+                   <fnm>JM</fnm>
+                </au>
+             </aug>
+             <source>Hum Gene Ther</source>
+             <pubdate>2010</pubdate>
+             <volume>21</volume>
+             <issue>10</issue>
+             <fpage>1239</fpage>
+             <lpage>50</lpage>
+             <note> doi:10.1089/hum.2010.138</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1089/hum.2010.138</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20649459</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B63">
+             <title>
+                <p>HIF-2alpha&#8211;a mediator of osteoarthritis?</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Murphy</snm>
+                   <fnm>CL</fnm>
+                </au>
+             </aug>
+             <source>Cell Res</source>
+             <pubdate>2010</pubdate>
+             <volume>20</volume>
+             <issue>9</issue>
+             <fpage>977</fpage>
+             <lpage>9</lpage>
+             <note> doi:10.1038/cr.2010.99</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1038/cr.2010.99</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20625379</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B64">
+             <title>
+                <p>The personal impact of osteoarthritis on individuals and how they use therapies: the arthritis care OA Nation 2012 Survey</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Conaghan</snm>
+                   <fnm>PG</fnm>
+                </au>
+                <au>
+                   <snm>Porcheret</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Gammon</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Soni</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Hurley</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Rayman</snm>
+                   <fnm>M</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Ann Rheum Dis</source>
+             <pubdate>2012</pubdate>
+             <volume>71</volume>
+             <issue>Suppl 3</issue>
+             <fpage>584</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/annrheumdis-2012-eular.3278</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B65">
+             <note>Abou-Raya A, Abou-Raya S, Khadrawe T. Methotrexate in the treatment of symptomatic knee osteoarthritis: randomised placebo-controlled trial. Ann Rheum Dis. 2014. doi:10.1136/annrheumdis-2013-204856.</note>
+          </bibl>
+       </refgrp>
+    </bm>
+ </art>

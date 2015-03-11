@@ -1,0 +1,106 @@
+{
+  "publisher": {
+    "value": [
+      "BioMed Central Ltd"
+    ]
+  },
+  "journal": {
+    "value": [
+      "Trials"
+    ]
+  },
+  "title": {
+    "value": [
+      "The efficacy and safety of acupuncture for cerebral vasospasm after subarachnoid hemorrhage: study protocol for a randomized controlled trial"
+    ]
+  },
+  "authors": {
+    "value": [
+      "Seung-Yeon Cho",
+      "Dong-Hyuk Lee",
+      "Hee S Shin",
+      "Seung H Lee",
+      "Jun S Koh",
+      "Woo-Sang Jung",
+      "Sang-Kwan Moon",
+      "Jung-Mi Park",
+      "Chang-Nam Ko",
+      "Ho Kim",
+      "Seong-Uk Park"
+    ]
+  },
+  "date": {
+    "value": [
+      "2015-02-28"
+    ]
+  },
+  "doi": {
+    "value": [
+      "10.1186/s13063-015-0591-7"
+    ]
+  },
+  "volume": {
+    "value": [
+      "16"
+    ]
+  },
+  "issue": {
+    "value": [
+      "1"
+    ]
+  },
+  "firstpage": {
+    "value": [
+      "68"
+    ]
+  },
+  "description": {
+    "value": [
+      "Subarachnoid hemorrhage (SAH) is a neurological disease with a high mortality rate. Several serious complications frequently arise after successful surgery for this condition. Cerebral vasospasm, one such complication, occurs in 50 to 70% of SAH patients. These patients suffer neurological symptoms known as delayed ischemic neurological deficit (DIND); however, the effect of treatment of vasospasm is limited. The major pathogenesis of cerebral vasospasm is the reduction of nitric oxide (NO) and activation of vasoconstrictors. Acupuncture is known to increase the production and activity of vascular endothelial cell-derived NO and improve endothelium-dependent vasodilatation. A preliminary retrospective case study to investigate the ability of acupuncture to prevent the occurrence of cerebral vasospasm has been conducted. However, no randomized, controlled clinical trials have been carried out to evaluate the efficacy of acupuncture for cerebral vasospasm."
+    ]
+  },
+  "abstract": {
+    "value": [
+      "Subarachnoid hemorrhage (SAH) is a neurological disease with a high mortality rate. Several serious complications frequently arise after successful surgery for this condition. Cerebral vasospasm, one such complication, occurs in 50 to 70% of SAH patients. These patients suffer neurological symptoms known as delayed ischemic neurological deficit (DIND); however, the effect of treatment of vasospasm is limited. The major pathogenesis of cerebral vasospasm is the reduction of nitric oxide (NO) and activation of vasoconstrictors. Acupuncture is known to increase the production and activity of vascular endothelial cell-derived NO and improve endothelium-dependent vasodilatation. A preliminary retrospective case study to investigate the ability of acupuncture to prevent the occurrence of cerebral vasospasm has been conducted. However, no randomized, controlled clinical trials have been carried out to evaluate the efficacy of acupuncture for cerebral vasospasm."
+    ]
+  },
+  "fulltext_html": {
+    "value": [
+      "http://www.trialsjournal.com/content/16/1/68"
+    ]
+  },
+  "fulltext_pdf": {
+    "value": [
+      "http://www.trialsjournal.com/content/pdf/s13063-015-0591-7.pdf"
+    ]
+  },
+  "fulltext_xml": {
+    "value": [
+      "/content/download/xml/s13063-015-0591-7.xml"
+    ]
+  },
+  "supplementary_material": {
+    "value": []
+  },
+  "figure": {
+    "value": [
+      "/content/figures/s13063-015-0591-7-1.gif"
+    ]
+  },
+  "figure_caption": {
+    "value": [
+      "Figure 1.",
+      "The flow chart."
+    ]
+  },
+  "license": {
+    "value": [
+      "\r\n\t\t\t\tThis is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.\r\n\t\t\t"
+    ]
+  },
+  "copyright": {
+    "value": [
+      "\r\n            © 2015 Cho et al.; licensee BioMed Central. \r\n        "
+    ]
+  }
+}

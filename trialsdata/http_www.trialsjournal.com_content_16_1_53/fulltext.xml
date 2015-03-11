@@ -1,0 +1,1033 @@
+<?xml version='1.0'?>
+<!DOCTYPE art SYSTEM 'http://www.biomedcentral.com/xml/article.dtd'>
+<art>
+    <ui>s13063-015-0575-7</ui>
+    <ji>1745-6215</ji>
+    <fm>
+       <dochead>Editorial</dochead>
+       <bibl>
+          <title>
+             <p>Making research articles fit for purpose: structured reporting of key methods and findings</p>
+          </title>
+          <aug>
+             <au id="A1" ca="yes">
+                <snm>Altman</snm>
+                <mi>G</mi>
+                <fnm>Douglas</fnm>
+                <insr iid="I1"/>
+                <email>doug.altman@csm.ox.ac.uk</email>
+             </au>
+          </aug>
+          <insg>
+             <ins id="I1">
+                <p>Centre for Statistics in Medicine, Nuffield Department of Orthopaedics, Rheumatology &amp; Musculoskeletal Sciences, University of Oxford, Botnar Research Centre, Windmill Road, Oxford OX3 7LD, UK</p>
+             </ins>
+          </insg>
+          <source>Trials</source>
+          <issn>1745-6215</issn>
+          <pubdate>2015</pubdate>
+          <volume>16</volume>
+          <issue>1</issue>
+          <fpage>53</fpage>
+          <url>http://www.trialsjournal.com/content/16/1/53</url>
+          <xrefbib>
+             <pubidlist>
+                <pubid idtype="doi">10.1186/s13063-015-0575-7</pubid>
+             </pubidlist>
+          </xrefbib>
+       </bibl>
+       <history>
+          <rec>
+             <date>
+                <day>19</day>
+                <month>1</month>
+                <year>2015</year>
+             </date>
+          </rec>
+          <acc>
+             <date>
+                <day>20</day>
+                <month>1</month>
+                <year>2015</year>
+             </date>
+          </acc>
+          <pub>
+             <date>
+                <day>20</day>
+                <month>2</month>
+                <year>2015</year>
+             </date>
+          </pub>
+       </history>
+       <cpyrt>
+          <year>2015</year>
+          <collab>Altman; licensee BioMed Central.</collab>
+          <note>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/4.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (<url>http://creativecommons.org/publicdomain/zero/1.0/</url>) applies to the data made available in this article, unless otherwise stated.</note>
+       </cpyrt>
+    </fm>
+    <bdy><sec><st><p/></st>
+       <p>&#8216;If physicians are to base treatment decisions on the evidence in the medical literature, all the relevant results of trials must be available easily and consistently. Yet it is common to have trouble identifying the hypothesis, the research question, and the design of a published trial. It is even more common to lose count of the participants or to be unable to tell who received what therapies and the type of analysis used. As a result, it is often impossible to know whether the conclusions are justified by the data&#8217; <abbrgrp>
+             <abbr bid="B1">1</abbr>
+          </abbrgrp>.</p>
+       <p>There is a big problem with journal articles. Readers of published research reports, especially systematic reviewers, struggle to find key details of study methods and often cannot extract the results they seek <abbrgrp>
+             <abbr bid="B1">1</abbr>
+          </abbrgrp>. Many research articles are clearly unfit for purpose <abbrgrp>
+             <abbr bid="B2">2</abbr>
+          </abbrgrp>.</p>
+       <p>What is the solution? One way is to develop text-mining software to locate the relevant information, and several groups are working on such initiatives <abbrgrp>
+             <abbr bid="B3">3</abbr>
+          </abbrgrp>-<abbrgrp>
+             <abbr bid="B5">5</abbr>
+          </abbrgrp>. But text-mining is only a potential solution for extracting information that is in fact there, albeit hard to locate; it cannot assist at all for information that is simply absent from the research report. There is a wealth of evidence that key information is commonly missing from published reports of trials <abbrgrp>
+             <abbr bid="B6">6</abbr>
+          </abbrgrp>,<abbrgrp>
+             <abbr bid="B7">7</abbr>
+          </abbrgrp>. So while text-mining software could be useful for existing literature, going forwards with it is a solution to the wrong problem. Instead, I believe we need to consider a different format for publishing research results.</p>
+       <p>Research reports published in journal articles serve multiple readerships, each with different needs. Regardless of length and style, it is essential that such articles include all relevant details of the study methods and the key findings. Two fundamental principles are that a research article should include enough information about the methodology to allow others to replicate the study, and the results should be given in enough detail to enable them to be included in a subsequent systematic review and meta-analysis <abbrgrp>
+             <abbr bid="B8">8</abbr>
+          </abbrgrp>. In principle the format of a report is irrelevant if those criteria are met. However, the current standard story-telling format embeds factual information and numerical results within the narrative text, making some details hard to extract and, crucially, masking the absence of essential material. These problems affect all types of research but the seriousness is arguably greatest in relation to reports of randomised trials, which I will consider here.</p></sec><sec>
+          <st>
+             <p>Deficiencies in journal articles</p>
+          </st>
+          <p>Reporting guidelines emerged in the 1990s in response to the abundant evidence of missing or ambiguous information in published research reports <abbrgrp>
+                <abbr bid="B9">9</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B10">10</abbr>
+             </abbrgrp>. The Consolidated Standards of Reporting Trials (CONSORT) Statement, first published in 1996 and most recently updated in 2010 <abbrgrp>
+                <abbr bid="B11">11</abbr>
+             </abbrgrp>, outlines the minimum information that should be included in reports of the results of randomised trials. Approaching 20&#160;years since its first appearance, its benefit on reporting has been clearly seen, but with only modest improvement over time <abbrgrp>
+                <abbr bid="B12">12</abbr>
+             </abbrgrp>.</p>
+          <p>Several hundred journals have stated support for, or adoption of, CONSORT, but adherence remains inadequate. Dozens of recent reviews have shown that reporting of essential information continues to be generally inadequate in trial reports across all areas of medicine <abbrgrp>
+                <abbr bid="B6">6</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B7">7</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B13">13</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B14">14</abbr>
+             </abbrgrp>. The present situation is clearly unacceptable. Various ideas are being explored to improve the quality of publications including some targeted at editorial processes. Indeed improved reporting has been demonstrated when editorial resources are focused specifically on adherence to CONSORT <abbrgrp>
+                <abbr bid="B15">15</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B17">17</abbr>
+             </abbrgrp>. One possibility that needs serious consideration is to change the format of research articles by introducing more structure.</p>
+          <p>Structured reporting has been introduced in areas of clinical practice. Improved completeness and clinical value have been demonstrated, for example in pathology <abbrgrp>
+                <abbr bid="B18">18</abbr>
+             </abbrgrp>, radiology <abbrgrp>
+                <abbr bid="B19">19</abbr>
+             </abbrgrp>, and telemedicine <abbrgrp>
+                <abbr bid="B20">20</abbr>
+             </abbrgrp>. Structure in research reports began with the adoption of the IMRAD format (Introduction, Methods, Results and Discussion) augmented by the adoption of structured abstracts <abbrgrp>
+                <abbr bid="B21">21</abbr>
+             </abbrgrp>. Although in each case there were fears that the structure would stifle creativity, both succeeded because of their self-evident benefit on the quality of published articles <abbrgrp>
+                <abbr bid="B22">22</abbr>
+             </abbrgrp>.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Structured reporting of research articles</p>
+          </st>
+          <p>Within medical research, trial registers provide a perfect example of structured reporting. So, for example, registering a study on clinicaltrials.gov requires completion of a structured template. Likewise, in the section for subsequent reporting of the results, researchers have to provide the study findings in a structured way. It has been shown that some results posted on clinicaltrials.gov, especially harms, are more complete than those in corresponding journal articles reporting the same trials <abbrgrp>
+                <abbr bid="B23">23</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B24">24</abbr>
+             </abbrgrp>.</p>
+          <p>Journal articles that report research findings are currently in a mainly narrative style, usually supported by tables and perhaps also figures. As Riveros and colleagues observed, &#8216;using templates with mandatory reporting of some elements may facilitate the work of researchers by reminding them what they need to report and by standardising their reporting&#8217; <abbrgrp>
+                <abbr bid="B23">23</abbr>
+             </abbrgrp>. It is timely to consider whether journal articles would be more informative if they had more structure.</p>
+          <p>There are two main forms of structure. First, more structure can be applied to the main text by creating many more sections. One of the antecedents of CONSORT was SORT (Standards of Reporting Trials), a reporting guideline that referred to structured reporting in its title <abbrgrp>
+                <abbr bid="B25">25</abbr>
+             </abbrgrp>. The authors defined structured reporting as providing sufficiently detailed information about the design, conduct and analysis of the trial for the reader to have confidence that the report is an accurate reflection of what occurred during the various stages of the trial. A single published case study of using each item of the SORT checklist as a heading for a short section was widely considered to be a failure, as it made the article longer and less readable <abbrgrp>
+                <abbr bid="B22">22</abbr>
+             </abbrgrp>. However, some of the criticisms were related more to the content of SORT than the format. Three subsequent generations of the development of CONSORT have addressed those concerns; it is not reasonable to continue to dismiss the principle of structure based on a single case study published 20&#160;years ago using a different checklist. In fact, much the same idea has been implemented elsewhere. The journal <it>PLoS Clinical Trials</it>, published from 2006&#8211;2007, created a template based on the then current CONSORT checklist of 2001. Each item in the CONSORT checklist was used a heading in the article. Although this was in essence a repeat of the SORT approach, there were fewer headings and they were structured within the IMRAD format.</p>
+          <p>Alternatively, authors can identify in the text where each element of the CONSORT checklist is addressed <abbrgrp>
+                <abbr bid="B26">26</abbr>
+             </abbrgrp>. This approach has no impact on the format of the article, but requires the authors to mark up the text. While that format should help to avoid omissions, some checklist items do not refer to a specific piece of information in a single location, and so this is not in my view a workable solution in general.</p>
+          <p>A different approach to structure is to adopt a more tabular format akin to completing a tax form, as is required for example on clinical trials registers. In fact, several structural elements are already routinely used in reports of randomised trials. Almost certainly the most successful impact of CONSORT has been the flow diagram, which is now included in the majority of published trial reports. The diagram depicts the flow of participants through the trial, from enrolment through allocation and follow up to analysis. Readers, including peer reviewers, can quickly see the numbers of randomised participants, identify when and why some were lost to follow-up, and the extent to which the numbers analysed reflect the numbers randomised. Other structures within most reports of trial results are a structured abstract and a table showing the baseline characteristics of each intervention group (usually as Table 1). But it is simple, and I believe desirable, to include other elements within explicit displays (tables or boxes), such as eligibility criteria, details of interventions, outcomes, and primary results. Currently, such information is rarely included as a display in published articles. The suggestion is intended to make key information easy to locate rather than to require a rigid format. Thus the same displays can easily accommodate the modified recommendations in several extensions to CONSORT (<url>http://www.consort-statement.org/extensions</url>). A similar idea has been proposed for articles reporting prognostic studies of tumour markers <abbrgrp>
+                <abbr bid="B27">27</abbr>
+             </abbrgrp>.</p>
+          <p>Readability is often put forward as an argument against structure. This would be a stronger argument if current research reports were highly readable, but many are not. One reason is that much factual information is embedded within the text, which works especially poorly for trial results. Readability is certainly desirable, but far more important are reliability and relevance <abbrgrp>
+                <abbr bid="B28">28</abbr>
+             </abbrgrp>, and crucially important too is reproducibility, which of course requires complete reporting. One reason for suggesting greater use of structural elements is to pull apart factual information from narrative, making it easier both to locate specific information and also to understand the broad sweep of a study without being diverted by all the details, important though they are.</p>
+          <p>Greater use of structure within research articles (not just for randomised controlled trials) would improve completeness by helping authors ensure they address key issues. It would also greatly aid reviewers and editors in appraising articles, and it would assist future systematic reviewers who currently struggle to find the key information they seek. Indeed, more structure would also aid text-mining. In the future, trial results will perhaps appear only in registries, presumably in a highly structured format, with journals carrying only narrative discussions of their findings <abbrgrp>
+                <abbr bid="B29">29</abbr>
+             </abbrgrp>. Such a radical change does not seem imminent, however.</p>
+          <p>In the initial editorial published when <it>Trials</it> was launched, the editors wrote that &#8216;we believe that there is scope for new and better ways to report the findings of trials. <it>Trials</it> will develop and refine innovative approaches to improving communication about trials&#8217; <abbrgrp>
+                <abbr bid="B30">30</abbr>
+             </abbrgrp>. As yet there has been very little activity on this theme. We encourage contributions, both suggestions for suitable formats and also specific examples of real trial results presented in alternative formats. This editorial is thus the first contribution in a new <it>Trials</it> series on &#8216;New ways to publish research findings&#8217;.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Abbreviations</p>
+          </st>
+          <p>CONSORT: Consolidated Standards of Reporting Trials</p>
+          <p>IMRAD: Introduction, Methods, Results and Discussion</p>
+          <p>SORT: Standards of Reporting Trials</p>
+       </sec>
+    </bdy>
+    <bm>
+       <refgrp>
+          
+          <bibl id="B1">
+             <title>
+                <p>CONSORT revised - improving the reporting of randomized trials</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Rennie</snm>
+                   <fnm>D</fnm>
+                </au>
+             </aug>
+             <source>JAMA</source>
+             <pubdate>2001</pubdate>
+             <volume>285</volume>
+             <fpage>2006</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1001/jama.285.15.2006</pubid>
+                   <pubid idtype="pmpid" link="fulltext">11308440</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B2">
+             <title>
+                <p>Writing a research article that is &#8216;fit for purpose&#8217;: EQUATOR Network and reporting guidelines</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Simera</snm>
+                   <fnm>I</fnm>
+                </au>
+                <au>
+                   <snm>Altman</snm>
+                   <fnm>DG</fnm>
+                </au>
+             </aug>
+             <source>Evid Based Med</source>
+             <pubdate>2009</pubdate>
+             <volume>14</volume>
+             <fpage>132</fpage>
+             <lpage>4</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/ebm.14.5.132</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19794009</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B3">
+             <note>Marshall I, Kuiper J, Wallace BC. Automating risk of bias assessment for clinical trials. In BCB '14: Proceedings of the 5th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics. New York, NY: ACM; 2014. p. 88-95.</note>
+          </bibl>
+          <bibl id="B4">
+             <title>
+                <p>Systematic review automation technologies</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Tsafnat</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Glasziou</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Choong</snm>
+                   <fnm>MK</fnm>
+                </au>
+                <au>
+                   <snm>Dunn</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Galgani</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Coiera</snm>
+                   <fnm>E</fnm>
+                </au>
+             </aug>
+             <source>Syst Rev</source>
+             <pubdate>2014</pubdate>
+             <volume>3</volume>
+             <fpage>74</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1186/2046-4053-3-74</pubid>
+                   <pubid idtype="pmpid" link="fulltext">25005128</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B5">
+             <title>
+                <p>ExaCT: automatic extraction of clinical trial characteristics from journal publications</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kiritchenko</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>de Bruijn</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Carini</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Martin</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Sim</snm>
+                   <fnm>I</fnm>
+                </au>
+             </aug>
+             <source>BMC Med Inform Decis Mak</source>
+             <pubdate>2010</pubdate>
+             <volume>10</volume>
+             <fpage>56</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1186/1472-6947-10-56</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20920176</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B6">
+             <title>
+                <p>The quality of reports of randomised trials in 2000 and 2006: comparative study of articles indexed in PubMed</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hopewell</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Dutton</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Yu</snm>
+                   <fnm>LM</fnm>
+                </au>
+                <au>
+                   <snm>Chan</snm>
+                   <fnm>AW</fnm>
+                </au>
+                <au>
+                   <snm>Altman</snm>
+                   <fnm>DG</fnm>
+                </au>
+             </aug>
+             <source>BMJ</source>
+             <pubdate>2010</pubdate>
+             <volume>340</volume>
+             <fpage>c723</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/bmj.c723</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20332510</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B7">
+             <title>
+                <p>Reducing waste from incomplete or unusable reports of biomedical research</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Glasziou</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Altman</snm>
+                   <fnm>DG</fnm>
+                </au>
+                <au>
+                   <snm>Bossuyt</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Boutron</snm>
+                   <fnm>I</fnm>
+                </au>
+                <au>
+                   <snm>Clarke</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Julious</snm>
+                   <fnm>S</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Lancet</source>
+             <pubdate>2014</pubdate>
+             <volume>383</volume>
+             <fpage>267</fpage>
+             <lpage>76</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0140-6736(13)62228-X</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24411647</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B8">
+             <note>Lang T, Altman D. Basic statistical reporting for articles published in clinical medical journals: the Statistical Analyses and Methods in the Published Literature, or SAMPL Guidelines. In: Science Editors' Handbook. Edited by Smart P, Maisonneuve H, Polderman A: European Association of Science Editors; 2013;175&#8211;79.</note>
+          </bibl>
+          <bibl id="B9">
+             <title>
+                <p>Inadequacies in the reporting of clinical drug research</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Glick</snm>
+                   <fnm>BS</fnm>
+                </au>
+             </aug>
+             <source>Psychiatr Q</source>
+             <pubdate>1963</pubdate>
+             <volume>37</volume>
+             <fpage>234</fpage>
+             <lpage>44</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1007/BF01562195</pubid>
+                   <pubid idtype="pmpid" link="fulltext">13948469</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B10">
+             <title>
+                <p>Reporting standards and research strategies for controlled trials: agenda for the editor</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Mosteller</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Gilbert</snm>
+                   <fnm>JP</fnm>
+                </au>
+                <au>
+                   <snm>McPeek</snm>
+                   <fnm>B</fnm>
+                </au>
+             </aug>
+             <source>Control Clin Trials</source>
+             <pubdate>1980</pubdate>
+             <volume>1</volume>
+             <fpage>37</fpage>
+             <lpage>58</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0197-2456(80)80006-7</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B11">
+             <title>
+                <p>CONSORT 2010 Explanation and Elaboration: updated guidelines for reporting parallel group randomised trials</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Moher</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Hopewell</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Schulz</snm>
+                   <fnm>KF</fnm>
+                </au>
+                <au>
+                   <snm>Montori</snm>
+                   <fnm>V</fnm>
+                </au>
+                <au>
+                   <snm>G&#248;tzsche</snm>
+                   <fnm>PC</fnm>
+                </au>
+                <au>
+                   <snm>Devereaux</snm>
+                   <fnm>PJ</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>BMJ</source>
+             <pubdate>2010</pubdate>
+             <volume>340</volume>
+             <fpage>c869</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/bmj.c869</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20332511</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B12">
+             <title>
+                <p>Does use of the CONSORT Statement impact the completeness of reporting of randomised controlled trials published in medical journals?</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Turner</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Shamseer</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Altman</snm>
+                   <fnm>DG</fnm>
+                </au>
+                <au>
+                   <snm>Schulz</snm>
+                   <fnm>KF</fnm>
+                </au>
+                <au>
+                   <snm>Moher</snm>
+                   <fnm>D</fnm>
+                </au>
+             </aug>
+             <source>A Cochrane review. Syst Rev</source>
+             <pubdate>2012</pubdate>
+             <volume>1</volume>
+             <fpage>60</fpage>
+          </bibl>
+          <bibl id="B13">
+             <note>Yurdakul S, Mustafa BN, Fresko I, Seyahi E, Yazici H. Inadequate description and discussion of enrolled patient characteristics and potential inter-study site differences in reports of randomized controlled trials: a systematic survey in six rheumatology journals. Arthritis Rheumatol. 2014;66:1395&#8211;99.</note>
+          </bibl>
+          <bibl id="B14">
+             <note>Hoffmann TC, Thomas ST, Shin PN, Glasziou PP. Cross-sectional analysis of the reporting of continuous outcome measures and clinical significance of results in randomized trials of non-pharmacological interventions. Trials. 2014;15:362.</note>
+          </bibl>
+          <bibl id="B15">
+             <title>
+                <p>Active implementation strategy of CONSORT adherence by a dental specialty journal improved randomized clinical trial reporting</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Pandis</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Shamseer</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Kokich</snm>
+                   <fnm>VG</fnm>
+                </au>
+                <au>
+                   <snm>Fleming</snm>
+                   <fnm>PS</fnm>
+                </au>
+                <au>
+                   <snm>Moher</snm>
+                   <fnm>D</fnm>
+                </au>
+             </aug>
+             <source>J Clin Epidemiol</source>
+             <pubdate>2014</pubdate>
+             <volume>67</volume>
+             <fpage>1044</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.jclinepi.2014.04.001</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24837296</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B16">
+             <title>
+                <p>Effect of using reporting guidelines during peer review on quality of final manuscripts submitted to a biomedical journal: masked randomised trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Cobo</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Cortes</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Ribera</snm>
+                   <fnm>JM</fnm>
+                </au>
+                <au>
+                   <snm>Cardellach</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Selva-O'Callaghan</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Kostov</snm>
+                   <fnm>B</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>BMJ</source>
+             <pubdate>2011</pubdate>
+             <volume>343</volume>
+             <fpage>d6783</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/bmj.d6783</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22108262</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B17">
+             <title>
+                <p>Results of a longitudinal study of rigorous manuscript submission guidelines designed to improve the quality of clinical research reporting in a peer-reviewed surgical journal</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Wynne</snm>
+                   <fnm>KE</fnm>
+                </au>
+                <au>
+                   <snm>Simpson</snm>
+                   <fnm>BJ</fnm>
+                </au>
+                <au>
+                   <snm>Berman</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Rangel</snm>
+                   <fnm>SJ</fnm>
+                </au>
+                <au>
+                   <snm>Grosfeld</snm>
+                   <fnm>JL</fnm>
+                </au>
+                <au>
+                   <snm>Moss</snm>
+                   <fnm>RL</fnm>
+                </au>
+             </aug>
+             <source>J Pediatr Surg</source>
+             <pubdate>2011</pubdate>
+             <volume>46</volume>
+             <fpage>131</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.jpedsurg.2010.09.077</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21238654</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B18">
+             <title>
+                <p>Dataset for reporting of prostate carcinoma in radical prostatectomy specimens: recommendations from the International Collaboration on Cancer Reporting</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kench</snm>
+                   <fnm>JG</fnm>
+                </au>
+                <au>
+                   <snm>Delahunt</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Griffiths</snm>
+                   <fnm>DF</fnm>
+                </au>
+                <au>
+                   <snm>Humphrey</snm>
+                   <fnm>PA</fnm>
+                </au>
+                <au>
+                   <snm>McGowan</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Trpkov</snm>
+                   <fnm>K</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Histopathology</source>
+             <pubdate>2013</pubdate>
+             <volume>62</volume>
+             <fpage>203</fpage>
+             <lpage>18</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/his.12042</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23240714</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B19">
+             <title>
+                <p>Journal club: structured radiology reports are more complete and more effective than unstructured reports</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Marcovici</snm>
+                   <fnm>PA</fnm>
+                </au>
+                <au>
+                   <snm>Taylor</snm>
+                   <fnm>GA</fnm>
+                </au>
+             </aug>
+             <source>AJR Am J Roentgenol</source>
+             <pubdate>2014</pubdate>
+             <volume>203</volume>
+             <fpage>1265</fpage>
+             <lpage>71</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.2214/AJR.14.12636</pubid>
+                   <pubid idtype="pmpid" link="fulltext">25415704</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B20">
+             <note>Lacerda TC, von Wangenheim CG, von Wangenheim A, Giuliano I. Does the use of structured reporting improve usability? A comparative evaluation of the usability of two approaches for findings reporting in a large-scale telecardiology context. J Biomed Inform. 2014;52:222&#8211;30.</note>
+          </bibl>
+          <bibl id="B21">
+             <title>
+                <p>More informative abstracts revisited</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Haynes</snm>
+                   <fnm>RB</fnm>
+                </au>
+                <au>
+                   <snm>Mulrow</snm>
+                   <fnm>CD</fnm>
+                </au>
+                <au>
+                   <snm>Huth</snm>
+                   <fnm>EJ</fnm>
+                </au>
+                <au>
+                   <snm>Altman</snm>
+                   <fnm>DG</fnm>
+                </au>
+                <au>
+                   <snm>Gardner</snm>
+                   <fnm>MJ</fnm>
+                </au>
+             </aug>
+             <source>Ann Intern Med</source>
+             <pubdate>1990</pubdate>
+             <volume>113</volume>
+             <fpage>69</fpage>
+             <lpage>76</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.7326/0003-4819-113-1-69</pubid>
+                   <pubid idtype="pmpid" link="fulltext">2190518</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B22">
+             <title>
+                <p>Reporting randomized controlled trials. An experiment and a call for responses from readers</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Rennie</snm>
+                   <fnm>D</fnm>
+                </au>
+             </aug>
+             <source>JAMA</source>
+             <pubdate>1995</pubdate>
+             <volume>273</volume>
+             <fpage>1054</fpage>
+             <lpage>5</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1001/jama.1995.03520370096044</pubid>
+                   <pubid idtype="pmpid" link="fulltext">7897791</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B23">
+             <title>
+                <p>Timing and completeness of trial results posted at ClinicalTrials.gov and published in journals</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Riveros</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Dechartres</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Perrodeau</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Haneef</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Boutron</snm>
+                   <fnm>I</fnm>
+                </au>
+                <au>
+                   <snm>Ravaud</snm>
+                   <fnm>P</fnm>
+                </au>
+             </aug>
+             <source>PLoS Med</source>
+             <pubdate>2013</pubdate>
+             <volume>10</volume>
+             <fpage>e1001566</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1371/journal.pmed.1001566</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24311990</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B24">
+             <title>
+                <p>Reporting discrepancies between the ClinicalTrials.gov results database and peer-reviewed publications</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hartung</snm>
+                   <fnm>DM</fnm>
+                </au>
+                <au>
+                   <snm>Zarin</snm>
+                   <fnm>DA</fnm>
+                </au>
+                <au>
+                   <snm>Guise</snm>
+                   <fnm>JM</fnm>
+                </au>
+                <au>
+                   <snm>McDonagh</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Paynter</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Helfand</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>Ann Intern Med</source>
+             <pubdate>2014</pubdate>
+             <volume>160</volume>
+             <fpage>477</fpage>
+             <lpage>83</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.7326/M13-0480</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24687070</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B25">
+             <title>
+                <p>A proposal for structured reporting of randomized controlled trials</p>
+             </title>
+             <insg>
+                <ins>
+                   <p>The Standards of Reporting Trials Group</p>
+                </ins>
+             </insg>
+             <source>JAMA</source>
+             <pubdate>1994</pubdate>
+             <volume>272</volume>
+             <fpage>1926</fpage>
+             <lpage>31</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1001/jama.1994.03520240054041</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B26">
+             <title>
+                <p>Randomized comparison of three palliative regimens including brachytherapy, photodynamic therapy, and APC in patients with malignant dysphagia (CONSORT 1a) (Revised II)</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Rupinski</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Zagorowicz</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Regula</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Fijuth</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Kraszewska</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Polkowski</snm>
+                   <fnm>M</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Am J Gastroenterol</source>
+             <pubdate>2011</pubdate>
+             <volume>106</volume>
+             <fpage>1612</fpage>
+             <lpage>20</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1038/ajg.2011.178</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21670770</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B27">
+             <title>
+                <p>Reporting of prognostic studies of tumour markers: a review of published articles in relation to REMARK guidelines</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Mallett</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Timmer</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Sauerbrei</snm>
+                   <fnm>W</fnm>
+                </au>
+                <au>
+                   <snm>Altman</snm>
+                   <fnm>DG</fnm>
+                </au>
+             </aug>
+             <source>Br J Cancer</source>
+             <pubdate>2010</pubdate>
+             <volume>102</volume>
+             <fpage>173</fpage>
+             <lpage>80</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1038/sj.bjc.6605462</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19997101</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B28">
+             <title>
+                <p>Managing evidence-based knowledge: the need for reliable, relevant and readable resources</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Straus</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Haynes</snm>
+                   <fnm>RB</fnm>
+                </au>
+             </aug>
+             <source>CMAJ</source>
+             <pubdate>2009</pubdate>
+             <volume>180</volume>
+             <fpage>942</fpage>
+             <lpage>5</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1503/cmaj.081697</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19398741</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B29">
+             <title>
+                <p>Patient safety requires a new way to publish clinical trials</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Smith</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Roberts</snm>
+                   <fnm>I</fnm>
+                </au>
+             </aug>
+             <source>PLoS Clin Trials</source>
+             <pubdate>2006</pubdate>
+             <volume>1</volume>
+             <fpage>e6</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1371/journal.pctr.0010006</pubid>
+                   <pubid idtype="pmpid" link="fulltext">16871328</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B30">
+             <title>
+                <p>Lead editorial: Trials - using the opportunities of electronic publishing to improve the reporting of randomised trials</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Altman</snm>
+                   <fnm>DG</fnm>
+                </au>
+                <au>
+                   <snm>Furberg</snm>
+                   <fnm>CD</fnm>
+                </au>
+                <au>
+                   <snm>Grimshaw</snm>
+                   <fnm>JM</fnm>
+                </au>
+                <au>
+                   <snm>Rothwell</snm>
+                   <fnm>PM</fnm>
+                </au>
+             </aug>
+             <source>Trials</source>
+             <pubdate>2006</pubdate>
+             <volume>7</volume>
+             <fpage>6</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1186/1745-6215-7-6</pubid>
+                   <pubid idtype="pmpid" link="fulltext">16556322</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+       </refgrp>
+    </bm>
+ </art>

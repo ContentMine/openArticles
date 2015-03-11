@@ -1,0 +1,112 @@
+{
+  "publisher": {
+    "value": [
+      "BioMed Central Ltd"
+    ]
+  },
+  "journal": {
+    "value": [
+      "Trials"
+    ]
+  },
+  "title": {
+    "value": [
+      "Ghana’s Ensure Mothers and Babies Regular Access to Care (EMBRACE) program: study protocol for a cluster randomized controlled trial"
+    ]
+  },
+  "authors": {
+    "value": [
+      "Kimiyo Kikuchi",
+      "Evelyn Ansah",
+      "Sumiyo Okawa",
+      "Akira Shibanuma",
+      "Margaret Gyapong",
+      "Seth Owusu-Agyei",
+      "Abraham Oduro",
+      "Gloria Quansah-Asare",
+      "Abraham Hodgson",
+      "Masamine Jimba",
+      "$author.firstName $author.lastName"
+    ]
+  },
+  "date": {
+    "value": [
+      "2015-01-27"
+    ]
+  },
+  "doi": {
+    "value": [
+      "10.1186/s13063-014-0539-3"
+    ]
+  },
+  "volume": {
+    "value": [
+      "16"
+    ]
+  },
+  "issue": {
+    "value": [
+      "1"
+    ]
+  },
+  "firstpage": {
+    "value": [
+      "22"
+    ]
+  },
+  "description": {
+    "value": [
+      "The United Nations’ Millennium Development Goals call for improving maternal and child health status. Their progress, however, has been minimal and uneven across countries. The continuum of care is a key to strengthening maternal, newborn, and child health. In this context, the Japanese government launched the Ghana Ensure Mothers and Babies Regular Access to Care (EMBRACE) Implementation Research Project in collaboration with the Ghanaian government. This study aims to evaluate the implementation process and effects of an intervention to increase the continuum of care for maternal, newborn, and child health status in Ghana."
+    ]
+  },
+  "abstract": {
+    "value": [
+      "The United Nations’ Millennium Development Goals call for improving maternal and child health status. Their progress, however, has been minimal and uneven across countries. The continuum of care is a key to strengthening maternal, newborn, and child health. In this context, the Japanese government launched the Ghana Ensure Mothers and Babies Regular Access to Care (EMBRACE) Implementation Research Project in collaboration with the Ghanaian government. This study aims to evaluate the implementation process and effects of an intervention to increase the continuum of care for maternal, newborn, and child health status in Ghana."
+    ]
+  },
+  "fulltext_html": {
+    "value": [
+      "http://www.trialsjournal.com/content/16/1/22"
+    ]
+  },
+  "fulltext_pdf": {
+    "value": [
+      "http://www.trialsjournal.com/content/pdf/s13063-014-0539-3.pdf"
+    ]
+  },
+  "fulltext_xml": {
+    "value": [
+      "/content/download/xml/s13063-014-0539-3.xml"
+    ]
+  },
+  "supplementary_material": {
+    "value": []
+  },
+  "figure": {
+    "value": [
+      "/content/figures/s13063-014-0539-3-1.gif",
+      "/content/figures/s13063-014-0539-3-2.gif",
+      "/content/figures/s13063-014-0539-3-3.gif"
+    ]
+  },
+  "figure_caption": {
+    "value": [
+      "Figure 1.",
+      "Map of health and demographic surveillance system sites.",
+      "Figure 2.",
+      "Survey flow diagram for participant recruitment and inclusion.",
+      "Figure 3.",
+      "Conceptual framework."
+    ]
+  },
+  "license": {
+    "value": [
+      "\r\n\t\t\t\tThis is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.\r\n\t\t\t"
+    ]
+  },
+  "copyright": {
+    "value": [
+      "\r\n            © 2015 Kikuchi et al.; licensee BioMed Central. \r\n        "
+    ]
+  }
+}

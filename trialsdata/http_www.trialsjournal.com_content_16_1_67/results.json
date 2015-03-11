@@ -1,0 +1,105 @@
+{
+  "publisher": {
+    "value": [
+      "BioMed Central Ltd"
+    ]
+  },
+  "journal": {
+    "value": [
+      "Trials"
+    ]
+  },
+  "title": {
+    "value": [
+      "The PREEMPT study - evaluating smartphone-assisted n-of-1 trials in patients with chronic pain: study protocol for a randomized controlled trial"
+    ]
+  },
+  "authors": {
+    "value": [
+      "Colin Barr",
+      "Maria Marois",
+      "Ida Sim",
+      "Christopher H Schmid",
+      "Barth Wilsey",
+      "Deborah Ward",
+      "Naihua Duan",
+      "Ron D Hays",
+      "Joshua Selsky",
+      "Joseph Servadio",
+      "Marc Schwartz",
+      "Clyde Dsouza",
+      "Navjot Dhammi",
+      "Zachary Holt",
+      "Victor Baquero",
+      "Scott MacDonald",
+      "Anthony Jerant",
+      "Ron Sprinkle",
+      "Richard L Kravitz"
+    ]
+  },
+  "date": {
+    "value": [
+      "2015-02-27"
+    ]
+  },
+  "doi": {
+    "value": [
+      "10.1186/s13063-015-0590-8"
+    ]
+  },
+  "volume": {
+    "value": [
+      "16"
+    ]
+  },
+  "issue": {
+    "value": [
+      "1"
+    ]
+  },
+  "firstpage": {
+    "value": [
+      "67"
+    ]
+  },
+  "description": {
+    "value": [
+      "Chronic pain is prevalent, costly, and clinically vexatious. Clinicians typically use a trial-and-error approach to treatment selection. Repeated crossover trials in a single patient (n-of-1 trials) may provide greater therapeutic precision. N-of-1 trials are the most direct way to estimate individual treatment effects and are useful in comparing the effectiveness and toxicity of different analgesic regimens. The goal of the PREEMPT study is to test the ‘Trialist’ mobile health smartphone app, which has been developed to make n-of-1 trials easier to accomplish, and to provide patients and clinicians with tools for individualizing treatments for chronic pain."
+    ]
+  },
+  "abstract": {
+    "value": [
+      "Chronic pain is prevalent, costly, and clinically vexatious. Clinicians typically use a trial-and-error approach to treatment selection. Repeated crossover trials in a single patient (n-of-1 trials) may provide greater therapeutic precision. N-of-1 trials are the most direct way to estimate individual treatment effects and are useful in comparing the effectiveness and toxicity of different analgesic regimens. The goal of the PREEMPT study is to test the ‘Trialist’ mobile health smartphone app, which has been developed to make n-of-1 trials easier to accomplish, and to provide patients and clinicians with tools for individualizing treatments for chronic pain."
+    ]
+  },
+  "fulltext_html": {
+    "value": []
+  },
+  "fulltext_pdf": {
+    "value": [
+      "http://www.trialsjournal.com/content/pdf/s13063-015-0590-8.pdf"
+    ]
+  },
+  "fulltext_xml": {
+    "value": []
+  },
+  "supplementary_material": {
+    "value": [
+      "http://trialsjournal.com/content/download/supplementary/s13063-015-0590-8-s1.pdf",
+      "http://trialsjournal.com/content/download/supplementary/s13063-015-0590-8-s2.pdf",
+      "http://trialsjournal.com/content/download/supplementary/s13063-015-0590-8-s3.pdf"
+    ]
+  },
+  "figure": {
+    "value": []
+  },
+  "figure_caption": {
+    "value": []
+  },
+  "license": {
+    "value": []
+  },
+  "copyright": {
+    "value": []
+  }
+}

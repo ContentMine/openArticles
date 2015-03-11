@@ -1,0 +1,101 @@
+{
+  "publisher": {
+    "value": [
+      "BioMed Central Ltd"
+    ]
+  },
+  "journal": {
+    "value": [
+      "Trials"
+    ]
+  },
+  "title": {
+    "value": [
+      "Safety and feasibility of xenon as an adjuvant to sevoflurane anaesthesia in children undergoing interventional or diagnostic cardiac catheterization: study protocol for a randomised controlled trial"
+    ]
+  },
+  "authors": {
+    "value": [
+      "Sarah Devroe",
+      "Jurgen Lemiere",
+      "Marc Van de Velde",
+      "Marc Gewillig",
+      "Derize Boshoff",
+      "Steffen Rex"
+    ]
+  },
+  "date": {
+    "value": [
+      "2015-03-04"
+    ]
+  },
+  "doi": {
+    "value": [
+      "10.1186/s13063-015-0587-3"
+    ]
+  },
+  "volume": {
+    "value": [
+      "16"
+    ]
+  },
+  "issue": {
+    "value": [
+      "1"
+    ]
+  },
+  "firstpage": {
+    "value": [
+      "74"
+    ]
+  },
+  "description": {
+    "value": [
+      "Xenon has minimal haemodynamic side effects when compared to volatile or intravenous anaesthetics. Moreover, in in vitro and in animal experiments, xenon has been demonstrated to convey cardio- and neuroprotective effects. Neuroprotection could be advantageous in paediatric anaesthesia as there is growing concern, based on both laboratory studies and retrospective human clinical studies, that anaesthetics may trigger an injury in the developing brain, resulting in long-lasting neurodevelopmental consequences. Furthermore, xenon-mediated neuroprotection could help to prevent emergence delirium/agitation. Altogether, the beneficial haemodynamic profile combined with its putative organ-protective properties could render xenon an attractive option for anaesthesia of children undergoing cardiac catheterization."
+    ]
+  },
+  "abstract": {
+    "value": [
+      "Xenon has minimal haemodynamic side effects when compared to volatile or intravenous anaesthetics. Moreover, in in vitro and in animal experiments, xenon has been demonstrated to convey cardio- and neuroprotective effects. Neuroprotection could be advantageous in paediatric anaesthesia as there is growing concern, based on both laboratory studies and retrospective human clinical studies, that anaesthetics may trigger an injury in the developing brain, resulting in long-lasting neurodevelopmental consequences. Furthermore, xenon-mediated neuroprotection could help to prevent emergence delirium/agitation. Altogether, the beneficial haemodynamic profile combined with its putative organ-protective properties could render xenon an attractive option for anaesthesia of children undergoing cardiac catheterization."
+    ]
+  },
+  "fulltext_html": {
+    "value": [
+      "http://www.trialsjournal.com/content/16/1/74"
+    ]
+  },
+  "fulltext_pdf": {
+    "value": [
+      "http://www.trialsjournal.com/content/pdf/s13063-015-0587-3.pdf"
+    ]
+  },
+  "fulltext_xml": {
+    "value": [
+      "/content/download/xml/s13063-015-0587-3.xml"
+    ]
+  },
+  "supplementary_material": {
+    "value": []
+  },
+  "figure": {
+    "value": [
+      "/content/figures/s13063-015-0587-3-1.gif"
+    ]
+  },
+  "figure_caption": {
+    "value": [
+      "Figure 1.",
+      "Study visits."
+    ]
+  },
+  "license": {
+    "value": [
+      "\r\n\t\t\t\tThis is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.\r\n\t\t\t"
+    ]
+  },
+  "copyright": {
+    "value": [
+      "\r\n            © 2015 Devroe et al.; licensee BioMed Central. \r\n        "
+    ]
+  }
+}

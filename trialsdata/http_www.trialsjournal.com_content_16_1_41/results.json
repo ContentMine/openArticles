@@ -1,0 +1,110 @@
+{
+  "publisher": {
+    "value": [
+      "BioMed Central Ltd"
+    ]
+  },
+  "journal": {
+    "value": [
+      "Trials"
+    ]
+  },
+  "title": {
+    "value": [
+      "The Community In-Reach and Care Transition (CIRACT) clinical and cost-effectiveness study: study protocol for a randomised controlled trial"
+    ]
+  },
+  "authors": {
+    "value": [
+      "Alison Watson",
+      "Lisa Charlesworth",
+      "Ruth Jacob",
+      "Denise Kendrick",
+      "Philippa Logan",
+      "Fiona Marshall",
+      "Alan Montgomery",
+      "Tracey Sach",
+      "Wei Tan",
+      "Maria Walker",
+      "Justin Waring",
+      "Diane Whitham",
+      "Opinder Sahota"
+    ]
+  },
+  "date": {
+    "value": [
+      "2015-02-08"
+    ]
+  },
+  "doi": {
+    "value": [
+      "10.1186/s13063-015-0551-2"
+    ]
+  },
+  "volume": {
+    "value": [
+      "16"
+    ]
+  },
+  "issue": {
+    "value": [
+      "1"
+    ]
+  },
+  "firstpage": {
+    "value": [
+      "41"
+    ]
+  },
+  "description": {
+    "value": [
+      "Older people represent a significant proportion of patients admitted to hospital. Their care compared to younger patients is more challenging, length of stay is longer, risk of hospital-acquired problems higher and the risk of being re-admitted within 28 days greater. This study aims to compare a Community In-Reach and Care Transition (CIRACT) service with Traditional Hospital Based rehabilitation (THB-Rehab) provided to the older person. The CIRACT service differs from the THB-rehab service in that they are able to provide more intensive hospital rehabilitation, visiting patients daily, and are able to continue with the patient’s rehabilitation following discharge allowing a seamless, integrated discharge working alongside community providers. A pilot comparing the two services showed that the CIRACT service demonstrated reduced length of stay and reduced re-admission rates when analysed over a four-month period."
+    ]
+  },
+  "abstract": {
+    "value": [
+      "Older people represent a significant proportion of patients admitted to hospital. Their care compared to younger patients is more challenging, length of stay is longer, risk of hospital-acquired problems higher and the risk of being re-admitted within 28 days greater. This study aims to compare a Community In-Reach and Care Transition (CIRACT) service with Traditional Hospital Based rehabilitation (THB-Rehab) provided to the older person. The CIRACT service differs from the THB-rehab service in that they are able to provide more intensive hospital rehabilitation, visiting patients daily, and are able to continue with the patient’s rehabilitation following discharge allowing a seamless, integrated discharge working alongside community providers. A pilot comparing the two services showed that the CIRACT service demonstrated reduced length of stay and reduced re-admission rates when analysed over a four-month period."
+    ]
+  },
+  "fulltext_html": {
+    "value": [
+      "http://www.trialsjournal.com/content/16/1/41"
+    ]
+  },
+  "fulltext_pdf": {
+    "value": [
+      "http://www.trialsjournal.com/content/pdf/s13063-015-0551-2.pdf"
+    ]
+  },
+  "fulltext_xml": {
+    "value": [
+      "/content/download/xml/s13063-015-0551-2.xml"
+    ]
+  },
+  "supplementary_material": {
+    "value": [
+      "http://trialsjournal.com/content/download/supplementary/s13063-015-0551-2-s1.doc"
+    ]
+  },
+  "figure": {
+    "value": [
+      "/content/figures/s13063-015-0551-2-1.gif"
+    ]
+  },
+  "figure_caption": {
+    "value": [
+      "Figure 1.",
+      "Trial flow diagram."
+    ]
+  },
+  "license": {
+    "value": [
+      "\r\n\t\t\t\tThis is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.\r\n\t\t\t"
+    ]
+  },
+  "copyright": {
+    "value": [
+      "\r\n            © 2015 Watson et al.; licensee BioMed Central. \r\n        "
+    ]
+  }
+}

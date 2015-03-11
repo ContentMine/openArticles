@@ -1,0 +1,111 @@
+{
+  "publisher": {
+    "value": [
+      "BioMed Central Ltd"
+    ]
+  },
+  "journal": {
+    "value": [
+      "Trials"
+    ]
+  },
+  "title": {
+    "value": [
+      "Core outcome sets for use in effectiveness trials involving people with bipolar and schizophrenia in a community-based setting (PARTNERS2): study protocol for the development of two core outcome sets"
+    ]
+  },
+  "authors": {
+    "value": [
+      "Thomas Keeley",
+      "Humera Khan",
+      "Vanessa Pinfold",
+      "Paula Williamson",
+      "Jonathan Mathers",
+      "Linda Davies",
+      "Ruth Sayers",
+      "Elizabeth England",
+      "Siobhan Reilly",
+      "Richard Byng",
+      "Linda Gask",
+      "Mike Clark",
+      "Peter Huxley",
+      "Peter Lewis",
+      "Maximillian Birchwood",
+      "Melanie Calvert"
+    ]
+  },
+  "date": {
+    "value": [
+      "2015-02-12"
+    ]
+  },
+  "doi": {
+    "value": [
+      "10.1186/s13063-015-0553-0"
+    ]
+  },
+  "volume": {
+    "value": [
+      "16"
+    ]
+  },
+  "issue": {
+    "value": [
+      "1"
+    ]
+  },
+  "firstpage": {
+    "value": [
+      "47"
+    ]
+  },
+  "description": {
+    "value": [
+      "In the general population the prevalence of bipolar and schizophrenia is 0.24% and 1.4% respectively. People with schizophrenia and bipolar disorder have a significantly reduced life expectancy, increased rates of unemployment and a fear of stigma leading to reduced self-confidence. A core outcome set is a standardised collection of items that should be reported in all controlled trials within a research area. There are currently no core outcome sets available for use in effectiveness trials involving bipolar or schizophrenia service users managed in a community setting."
+    ]
+  },
+  "abstract": {
+    "value": [
+      "In the general population the prevalence of bipolar and schizophrenia is 0.24% and 1.4% respectively. People with schizophrenia and bipolar disorder have a significantly reduced life expectancy, increased rates of unemployment and a fear of stigma leading to reduced self-confidence. A core outcome set is a standardised collection of items that should be reported in all controlled trials within a research area. There are currently no core outcome sets available for use in effectiveness trials involving bipolar or schizophrenia service users managed in a community setting."
+    ]
+  },
+  "fulltext_html": {
+    "value": [
+      "http://www.trialsjournal.com/content/16/1/47"
+    ]
+  },
+  "fulltext_pdf": {
+    "value": [
+      "http://www.trialsjournal.com/content/pdf/s13063-015-0553-0.pdf"
+    ]
+  },
+  "fulltext_xml": {
+    "value": [
+      "/content/download/xml/s13063-015-0553-0.xml"
+    ]
+  },
+  "supplementary_material": {
+    "value": []
+  },
+  "figure": {
+    "value": [
+      "/content/figures/s13063-015-0553-0-1.gif"
+    ]
+  },
+  "figure_caption": {
+    "value": [
+      "Figure 1.",
+      "Identification of a core outcome sets for schizophrenia and bipolar."
+    ]
+  },
+  "license": {
+    "value": [
+      "\r\n\t\t\t\tThis is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.\r\n\t\t\t"
+    ]
+  },
+  "copyright": {
+    "value": [
+      "\r\n            © 2015 Keeley et al.; licensee BioMed Central. \r\n        "
+    ]
+  }
+}

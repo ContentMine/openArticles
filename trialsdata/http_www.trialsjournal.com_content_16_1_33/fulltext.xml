@@ -1,0 +1,3970 @@
+<?xml version='1.0'?>
+<!DOCTYPE art SYSTEM 'http://www.biomedcentral.com/xml/article.dtd'>
+<art>
+    <ui>s13063-014-0534-8</ui>
+    <ji>1745-6215</ji>
+    <fm>
+       <dochead>Study protocol</dochead>
+       <bibl>
+          <title>
+             <p>Couplelinks - an online intervention for young women with breast cancer and their male partners: study protocol for a randomized controlled trial</p>
+          </title>
+          <aug>
+             <au id="A1" ca="yes">
+                <snm>Fergus</snm>
+                <fnm>Karen</fnm>
+                <insr iid="I1"/>
+                <insr iid="I2"/>
+                <email>kfergus@yorku.ca</email>
+             </au>
+             <au id="A2">
+                <snm>Ahmad</snm>
+                <fnm>Saunia</fnm>
+                <insr iid="I1"/>
+                <insr iid="I2"/>
+                <email>saunia.ahmad@sunnybrook.ca</email>
+             </au>
+             <au id="A3">
+                <snm>McLeod</snm>
+                <mi>L</mi>
+                <fnm>Deborah</fnm>
+                <insr iid="I3"/>
+                <email>deborahL.McLeod@cdha.nshealth.ca</email>
+             </au>
+             <au id="A4">
+                <snm>Stephen</snm>
+                <fnm>Joanne</fnm>
+                <insr iid="I4"/>
+                <email>joanne.stephen@albertahealthservices.ca</email>
+             </au>
+             <au id="A5">
+                <snm>Gardner</snm>
+                <fnm>Sandra</fnm>
+                <insr iid="I5"/>
+                <insr iid="I6"/>
+                <email>sandra.gardner@utoronto.ca</email>
+             </au>
+             <au id="A6">
+                <snm>Pereira</snm>
+                <fnm>Amanda</fnm>
+                <insr iid="I1"/>
+                <email>amanda.pereira@sunnybrook.ca</email>
+             </au>
+             <au id="A7">
+                <snm>Warner</snm>
+                <fnm>Ellen</fnm>
+                <insr iid="I7"/>
+                <email>ellen.warner@sunnybrook.ca</email>
+             </au>
+             <au id="A8">
+                <snm>Carter</snm>
+                <fnm>Wendy</fnm>
+                <insr iid="I8"/>
+                <email>wendy.carter@utoronto.ca</email>
+             </au>
+          </aug>
+          <insg>
+             <ins id="I1">
+                <p>Department of Psychology, Faculty of Health, York University, 4700 Keele Street, Toronto M3J 1P3, Ontario, Canada</p>
+             </ins>
+             <ins id="I2">
+                <p>Patient and Family Support Program, Odette Cancer Centre, Sunnybrook Health Sciences Centre, 2075 Bayview Avenue, Toronto M4N 3M5, Ontario, Canada</p>
+             </ins>
+             <ins id="I3">
+                <p>Cancer Program, Queen Elizabeth II Health Sciences Centre, Victoria 11-006, 1276 South Park Street, Halifax B3H 2Y9, Nova Scotia, Canada</p>
+             </ins>
+             <ins id="I4">
+                <p>Department of Oncology, Faculty of Medicine, Cumming School of Medicine, Health Sciences Centre, University of Calgary, 3330 Hospital Drive NW, Calgary T2N 4N1, Alberta, Canada</p>
+             </ins>
+             <ins id="I5">
+                <p>Ontario HIV Treatment Network, 1300 Yonge Street, Toronto M4T 1X3, Ontario, Canada</p>
+             </ins>
+             <ins id="I6">
+                <p>Dalla Lana School of Public Health, University of Toronto, 155 College Street, Toronto M5T 3M7, Ontario, Canada</p>
+             </ins>
+             <ins id="I7">
+                <p>Division of Medical Oncology, Odette Cancer Centre, Sunnybrook Health Sciences Centre, 2075 Bayview Avenue, Toronto M4N 3M5, Ontario, Canada</p>
+             </ins>
+             <ins id="I8">
+                <p>Dr. Wendy Carter, 7 Admiral Road, Coach House, Toronto M5R 2L4, Ontario, Canada</p>
+             </ins>
+          </insg>
+          <source>Trials</source>
+          <issn>1745-6215</issn>
+          <pubdate>2015</pubdate>
+          <volume>16</volume>
+          <issue>1</issue>
+          <fpage>33</fpage>
+          <url>http://www.trialsjournal.com/content/16/1/33</url>
+          <xrefbib>
+             <pubidlist>
+                <pubid idtype="doi">10.1186/s13063-014-0534-8</pubid>
+             </pubidlist>
+          </xrefbib>
+       </bibl>
+       <history>
+          <rec>
+             <date>
+                <day>20</day>
+                <month>9</month>
+                <year>2014</year>
+             </date>
+          </rec>
+          <acc>
+             <date>
+                <day>19</day>
+                <month>12</month>
+                <year>2014</year>
+             </date>
+          </acc>
+          <pub>
+             <date>
+                <day>29</day>
+                <month>1</month>
+                <year>2015</year>
+             </date>
+          </pub>
+       </history>
+       <cpyrt>
+          <year>2015</year>
+          <collab>Fergus et al.; licensee BioMed Central.</collab>
+          <note>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/4.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (<url>http://creativecommons.org/publicdomain/zero/1.0/</url>) applies to the data made available in this article, unless otherwise stated.</note>
+       </cpyrt>
+       <kwdg>
+          <kwd>Cancer</kwd>
+          <kwd>Breast</kwd>
+          <kwd>Couple</kwd>
+          <kwd>Online intervention</kwd>
+          <kwd>Internet</kwd>
+          <kwd>Psychosocial</kwd>
+          <kwd>Protocol</kwd>
+          <kwd>Randomized control trial</kwd>
+       </kwdg>
+       <abs>
+          <sec>
+             <st>
+                <p>Abstract</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Background</p>
+                </st>
+                <p>Young breast cancer survivors (aged 50&#160;years and under) and their partners are at an elevated risk for relationship distress and poor psychological adjustment relative to older age couples. Limited availability of time and resources and the distance to travel are major barriers to engaging in evidence-based psychosocial support programs. This paper describes the study protocol of a novel, manualized online intervention called Couplelinks that was developed to improve relationship adjustment and psychological wellbeing of young couples affected by breast cancer. Couplelinks is a custom-designed website offering a professionally facilitated, couple-centered intervention that entails informational, experiential, and interactive components.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Methods/Design</p>
+                </st>
+                <p>A total of 80 heterosexual couples from across Canada in which the female partner has been diagnosed with a primary breast cancer will be recruited and randomized to a treatment or waitlist control group. Six dyadic learning modules form the core of the program and will be undertaken on a weekly basis. The manualized online intervention involves psycho-education and experiential exercises to enhance communication, coping ability, mutual empathy, and perspective-taking in relation to cancer. An online facilitator who is a trained mental health professional will guide and support couples throughout the process. Data collection will occur at baseline, at post-treatment or eight weeks into the waiting period, and at the three-month follow-up assessment. Primary outcome measures include the Revised Dyadic Adjustment Survey (RDAS) and Dyadic Coping Inventory (DCI) scores, and secondary outcome measures include the Hospital Anxiety and Depression Survey (HADS) score.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Discussion</p>
+                </st>
+                <p>Couplelinks is one of the first internet-based psychological interventions to improve the psychosocial adjustment of couples coping with a life-threatening illness such as cancer. If successful, the design of this program as described in this paper makes a valuable contribution to the literature on the delivery of couple-focused psychosocial interventions, both within and outside of oncology.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Trial registration</p>
+                </st>
+                <p>This trial was registered with ClinicalTrials.gov (identifier: <url>NCT01089764</url>) on 17 March 2010.</p>
+             </sec>
+          </sec>
+       </abs>
+    </fm>
+    <bdy>
+       <sec>
+          <st>
+             <p>Background</p>
+          </st>
+          <p>Women aged 50&#160;years and under account for only 18% of newly diagnosed breast cancer (BC) cases <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>, yet they experience significantly greater levels of cancer-related distress and poorer quality of life relative to women diagnosed later in life <abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B7">7</abbr>
+             </abbrgrp>. Population-based age cohort studies have found that younger women are at greater risk for experiencing functional declines in physical, social, and psychological domains for as long as 10&#160;years post-cancer treatment <abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B8">8</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B9">9</abbr>
+             </abbrgrp>. Younger women also suffer significantly greater levels of depression, anxiety, and fears that the cancer will recur <abbrgrp>
+                <abbr bid="B10">10</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B12">12</abbr>
+             </abbrgrp>. Chemotherapy-induced menopause among younger women is related to greater sexual difficulties and physical symptoms than if menopause occurred prior to cancer diagnosis and treatment <abbrgrp>
+                <abbr bid="B11">11</abbr>
+             </abbrgrp>.</p>
+          <p>Such age-related discrepancies in BC patients&#8217; adjustment to the illness are in part related to the abrupt and developmentally premature physical and social changes associated with the diagnosis and treatment of cancer that most older women have either already come to terms with, or for whom such changes are no longer relevant. These unique challenges may include: the loss of fertility and therefore a loss of the choice to conceive children <abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B4">4</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B11">11</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B13">13</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B14">14</abbr>
+             </abbrgrp>; not having children because of the fear that pregnancy-related hormonal changes may provoke a cancer recurrence <abbrgrp>
+                <abbr bid="B15">15</abbr>
+             </abbrgrp>; premature menopause with its associated hot flashes, and sleep and mood disturbances <abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp>; concerns about their ability to adequately care for, and address, the needs of their young children, and how to communicate with them about the illness in a way that is appropriate to the child&#8217;s developmental stage <abbrgrp>
+                <abbr bid="B16">16</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B17">17</abbr>
+             </abbrgrp>; interruptions to early-stage careers <abbrgrp>
+                <abbr bid="B4">4</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B18">18</abbr>
+             </abbrgrp>; and/or relationship distress <abbrgrp>
+                <abbr bid="B3">3</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B19">19</abbr>
+             </abbrgrp>. Financial strains as a result of taking time off work for treatment or out-of-pocket expenses for childcare and/or housekeeping, and the increase in expenses due to treatment are particularly problematic for younger couples whose full income potential may not yet be realized <abbrgrp>
+                <abbr bid="B20">20</abbr>
+             </abbrgrp>. Moreover, social comparison processes with similarly aged peers increase the salience of these losses for younger women for whom the illness is &#8216;off-time&#8217; developmentally <abbrgrp>
+                <abbr bid="B21">21</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B22">22</abbr>
+             </abbrgrp>.</p>
+          <p>Although the quality of general social support helps mitigate much of younger BC patients&#8217; distress <abbrgrp>
+                <abbr bid="B23">23</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B24">24</abbr>
+             </abbrgrp>, the support from an intimate partner is particularly important to women&#8217;s adjustment to BC <abbrgrp>
+                <abbr bid="B25">25</abbr>
+             </abbrgrp>. Stressors that couples commonly contend with include: renegotiation of family roles and responsibilities, for instance, the well partner may take on additional responsibilities in various areas such as childcare <abbrgrp>
+                <abbr bid="B26">26</abbr>
+             </abbrgrp>; feelings of inequity, for instance, caregivers may feel as though they are taking on a disproportionately greater amount of work in the relationship, or the patient may experience guilt over not being able to contribute to the relationship as before <abbrgrp>
+                <abbr bid="B27">27</abbr>
+             </abbrgrp>; reduced sexual engagement and social activity <abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B28">28</abbr>
+             </abbrgrp>; increased financial strain due to out-of-pocket expenses or lost wages of the ill partner <abbrgrp>
+                <abbr bid="B29">29</abbr>
+             </abbrgrp>; difficulty communicating about fears and distress related to cancer <abbrgrp>
+                <abbr bid="B25">25</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B30">30</abbr>
+             </abbrgrp>; preoccupation with thoughts of mortality <abbrgrp>
+                <abbr bid="B12">12</abbr>
+             </abbrgrp>, and for partners in particular, thoughts of loss and abandonment <abbrgrp>
+                <abbr bid="B31">31</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B32">32</abbr>
+             </abbrgrp>. Such challenges may be even more pronounced for younger couples. For example, declines in sexual engagement may be intensified as a result of premature menopause and related loss of libido, vaginal dryness, and painful intercourse <abbrgrp>
+                <abbr bid="B33">33</abbr>
+             </abbrgrp>. Younger couples often have to come to terms with the loss of goals and dreams that older couples may have already realized, such as starting or growing one&#8217;s family <abbrgrp>
+                <abbr bid="B21">21</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B34">34</abbr>
+             </abbrgrp>. Moreover, younger couples&#8217; relationships are likely less resilient to stressors such as BC as older couples, relative to younger couples, are more likely to have a better understanding of each other, and by virtue of having already experienced hardships together, are more likely to have established collaborative coping skills <abbrgrp>
+                <abbr bid="B35">35</abbr>
+             </abbrgrp>.</p>
+          <p>Spouses&#8217; coping behaviors and ratings of marital support, communication, and/or relationship satisfaction correlate significantly with BC patient&#8217;s psychosocial outcomes <abbrgrp>
+                <abbr bid="B36">36</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B39">39</abbr>
+             </abbrgrp>. Partner behaviors that have been found to contribute positively to patient adjustment include attentiveness and responsiveness to the patient partner&#8217;s emotions, while at the same time being able to share one&#8217;s own feelings about the cancer <abbrgrp>
+                <abbr bid="B25">25</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B30">30</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B40">40</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B42">42</abbr>
+             </abbrgrp>. On the other hand, withdrawal, minimization, criticism, and advice-giving on the part of the spouse negatively affects patient coping <abbrgrp>
+                <abbr bid="B43">43</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B44">44</abbr>
+             </abbrgrp>. BC patients often report that their spouses tend to be instrumentally supportive rather than emotionally <abbrgrp>
+                <abbr bid="B45">45</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B46">46</abbr>
+             </abbrgrp>, and male partners themselves report a lack of knowledge and skills in being able to respond constructively to their ill partners&#8217; complex needs <abbrgrp>
+                <abbr bid="B47">47</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B48">48</abbr>
+             </abbrgrp>. Male partners also report experiencing distress in their role as caregivers characterized by: feelings of guilt, depression, and inadequacy <abbrgrp>
+                <abbr bid="B23">23</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B24">24</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B47">47</abbr>
+             </abbrgrp>; concerns over increased role strain and multiple demands for their time <abbrgrp>
+                <abbr bid="B26">26</abbr>
+             </abbrgrp>; lack of adequate knowledge in supporting their children <abbrgrp>
+                <abbr bid="B49">49</abbr>
+             </abbrgrp>; anxiety about sexual intimacy, including having negative reactions to the partner&#8217;s mastectomy site <abbrgrp>
+                <abbr bid="B50">50</abbr>
+             </abbrgrp>; and lastly, fear of recurrence of the cancer after active treatment <abbrgrp>
+                <abbr bid="B31">31</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B32">32</abbr>
+             </abbrgrp>.</p>
+          <sec>
+             <st>
+                <p>Rationale for online couple based intervention</p>
+             </st>
+             <p>Given the wealth of research highlighting the interdependency of partners&#8217; distress and coping on their subsequent adjustment to cancer, psychosocial interventions that are couple-focused have been recommended (for examples, see <abbrgrp>
+                   <abbr bid="B3">3</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B51">51</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B52">52</abbr>
+                </abbrgrp>), particularly for younger couples who are more vulnerable to distress and poorer quality of life <abbrgrp>
+                   <abbr bid="B3">3</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B17">17</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B33">33</abbr>
+                </abbrgrp>. While conventional couple interventions have demonstrated efficacy in reducing distress for couples coping with breast cancer <abbrgrp>
+                   <abbr bid="B53">53</abbr>
+                </abbrgrp>-<abbrgrp>
+                   <abbr bid="B57">57</abbr>
+                </abbrgrp>, they may not be a feasible option for younger couples who are already living very busy lives with additional demands, such as caring for young children and balancing domestic duties and active careers alongside attending medical appointments. Indeed, studies have found that the primary reasons breast cancer patients and their partners do not participate in or complete couple-focused psychosocial interventions are limited time, distance, and lack of willingness to travel <abbrgrp>
+                   <abbr bid="B57">57</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B58">58</abbr>
+                </abbrgrp>. Furthermore, traditional counselling approaches may not adequately address the unique and complex needs of younger BC couples.</p>
+             <p>The present paper describes an innovative, online psycho-educational intervention currently under investigation that addresses the void in the psychosocial support available to younger couples facing a breast cancer diagnosis. This intervention, which is tailored specifically to this group&#8217;s unique needs, is delivered through a custom-designed website called &#8216;Couplelinks.ca&#8217;. Couplelinks provides a professionally facilitated, couple-centered intervention that includes informational, experiential, and interactive components. Given the numerous barriers to younger couples&#8217; engagement in psychosocial services, an online relationship enhancement intervention that is both accessible and flexibly delivered offers a compelling alternative to conventional counselling.</p>
+             <p>Most online psychosocial interventions currently available for breast cancer patients are support groups that interact via virtual discussion boards <abbrgrp>
+                   <abbr bid="B59">59</abbr>
+                </abbrgrp>-<abbrgrp>
+                   <abbr bid="B63">63</abbr>
+                </abbrgrp>. Participation in internet-based support groups has been associated with reductions in social isolation, depression, and cancer-related trauma, and increased feelings of personal empowerment and self-esteem <abbrgrp>
+                   <abbr bid="B62">62</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B64">64</abbr>
+                </abbrgrp>-<abbrgrp>
+                   <abbr bid="B70">70</abbr>
+                </abbrgrp>. Such outcomes have, for example, been demonstrated in a Canada-wide initiative, &#8216;CancerChatCanada&#8217;, to offer professionally facilitated group support to individuals affected by cancer through a secure, online platform <abbrgrp>
+                   <abbr bid="B71">71</abbr>
+                </abbrgrp>. Each group employs real-time (synchronous), text-based communication as the medium for group interaction, and is structured like a face-to-face support group, with approximately eight group members and a group leader <abbrgrp>
+                   <abbr bid="B72">72</abbr>
+                </abbrgrp>. Asynchronous groups using bulletin board technology that are moderated by a mental health professional have similarly shown beneficial effects for cancer patients (for examples, see <abbrgrp>
+                   <abbr bid="B59">59</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B70">70</abbr>
+                </abbrgrp>).</p>
+             <p>The Comprehensive Health Enhancement Support System (CHESS) is another example of a successful online support program for people affected by cancer. The service was originally developed for breast cancer patients, but has more recently been studied with other populations such as the medically underserved and/or economically disadvantaged sub-groups of BC patients <abbrgrp>
+                   <abbr bid="B73">73</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B74">74</abbr>
+                </abbrgrp>, and caregivers to lung cancer patients <abbrgrp>
+                   <abbr bid="B75">75</abbr>
+                </abbrgrp>. CHESS provides an online platform where women with BC have access to health monitoring and decision-making tools, and can ask questions of health professionals as well as provide and receive emotional and informational support from other BC survivors <abbrgrp>
+                   <abbr bid="B75">75</abbr>
+                </abbrgrp>. Such programs provide BC survivors with cancer-specific education to help with treatment-related decisions, as well as managing physical and psychological symptoms. The site also offers opportunities for social bonding with others facing similar experiences.</p>
+             <p>Apart from greater access to professional support, the online modality allows for flexibility in terms of time, and has the added benefit of overcoming various other barriers to accessing psychosocial support, such as childcare and transportation issues <abbrgrp>
+                   <abbr bid="B61">61</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B62">62</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B64">64</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B76">76</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B77">77</abbr>
+                </abbrgrp>. Studies have found that younger women with breast cancer demonstrate a strong preference for receiving psychosocial support via online programs <abbrgrp>
+                   <abbr bid="B78">78</abbr>
+                </abbrgrp>, and that men are more inclined to open up about their feelings and discuss sensitive information in relation to cancer in an online versus face-to-face context <abbrgrp>
+                   <abbr bid="B60">60</abbr>
+                </abbrgrp>. Younger men in particular have shown reluctance to make use of conventional forms of psychosocial support (such as counselling services) as it may conflict with their self-concept and notions of strength and self-reliance <abbrgrp>
+                   <abbr bid="B79">79</abbr>
+                </abbrgrp>-<abbrgrp>
+                   <abbr bid="B81">81</abbr>
+                </abbrgrp>.</p>
+             <p>Taken together, these findings suggest that the internet would be a very promising modality through which to offer support to younger women with breast cancer and their partners. Couplelinks aims to build on the success of previous online support programs for individuals with cancer by: (1) targeting couples (versus individuals), (2) addressing the specific psychological and informational needs of younger women with BC and their partners, and (3) combining didactic learning with experiential learning on topics relevant to coping with BC as a younger couple.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Hypotheses</p>
+             </st>
+             <p>We hypothesize that women and their male partners who participate in the Couplelinks program will demonstrate significant improvement on measures of relationship adjustment and satisfaction, dyadic coping, and intimacy, and measures of psychological distress and adjustment, as compared to participants in the control condition.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Methods/Design</p>
+          </st>
+          <sec>
+             <st>
+                <p>Intervention development and content</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Conceptual framework of the online program</p>
+                </st>
+                <p>The structure and content of Couplelinks was derived based on theory and empirical evidence that couples who construe the illness as a shared problem (not something &#8216;belonging&#8217; to the ill partner) are better able to engage in mutually supportive interactions that promote their adjustment <abbrgrp>
+                      <abbr bid="B82">82</abbr>
+                   </abbrgrp>-<abbrgrp>
+                      <abbr bid="B85">85</abbr>
+                   </abbrgrp>. Enhancing partners&#8217; sense of &#8216;we-ness&#8217; in relation to breast cancer as a means for alleviating distress is grounded theoretically in the work of Reid <it>et al</it>. and Fergus <it>et al</it>. <abbrgrp>
+                      <abbr bid="B82">82</abbr>
+                   </abbrgrp>,<abbrgrp>
+                      <abbr bid="B83">83</abbr>
+                   </abbrgrp>,<abbrgrp>
+                      <abbr bid="B86">86</abbr>
+                   </abbrgrp>-<abbrgrp>
+                      <abbr bid="B88">88</abbr>
+                   </abbrgrp>. Their framework for understanding and treating distressed relationships integrates family systems and constructivist theory pertaining to how partners make meaning, and how such meaning-making processes influence their interpersonal dynamic. Within this framework, the more partners construe themselves as being part of their relationship, also referred to as couple identity or we-ness, the greater their overall relationship resilience <abbrgrp>
+                      <abbr bid="B83">83</abbr>
+                   </abbrgrp>,<abbrgrp>
+                      <abbr bid="B84">84</abbr>
+                   </abbrgrp>,<abbrgrp>
+                      <abbr bid="B87">87</abbr>
+                   </abbrgrp>. Adopting a we-oriented approach to coping (also known as &#8216;we-coping&#8217; <abbrgrp>
+                      <abbr bid="B88">88</abbr>
+                   </abbrgrp>-<abbrgrp>
+                      <abbr bid="B90">90</abbr>
+                   </abbrgrp> or &#8216;dyadic coping&#8217; <abbrgrp>
+                      <abbr bid="B91">91</abbr>
+                   </abbrgrp>) accomplishes several things. Firstly, it mitigates the potential for either partner to feel isolated and alone in his or her coping. It also de-centers the couple and the greater relationship from the illness, countering the tendency for the relationship to become defined by the losses and stressors associated with BC. Lastly, in creating an adaptive separation between the couple and the illness, the couple is afforded the distance and greater perspective necessary to discuss the illness constructively and problem-solve around it <abbrgrp>
+                      <abbr bid="B92">92</abbr>
+                   </abbrgrp>.</p>
+                <p>When partners adopt a &#8216;we&#8217; attitude in relation to cancer (seeing it as &#8216;our&#8217; problem rather than hers alone) their individual coping efforts are coordinated with each other, allowing them to better manage the stress related to the illness. Both partners are likely to express their needs to the other, and be able to request and receive support from their partner, even if each does so differently <abbrgrp>
+                      <abbr bid="B88">88</abbr>
+                   </abbrgrp>. High levels of we-ness among couples dealing with BC have been found to contribute to greater relationship adjustment, increased closeness between partners, and lower levels of individual distress <abbrgrp>
+                      <abbr bid="B88">88</abbr>
+                   </abbrgrp>. Assuming a we attitude and functioning as a unit in relation to cancer  has consistently been associated with adaptive outcomes for couples <abbrgrp>
+                      <abbr bid="B88">88</abbr>
+                   </abbrgrp>,<abbrgrp>
+                      <abbr bid="B89">89</abbr>
+                   </abbrgrp>,<abbrgrp>
+                      <abbr bid="B93">93</abbr>
+                   </abbrgrp>,<abbrgrp>
+                      <abbr bid="B94">94</abbr>
+                   </abbrgrp>. Not only does taking a we approach to the cancer enhance adjustment, but successfully coping with cancer itself can further contribute to strengthening the relationship and create greater closeness <abbrgrp>
+                      <abbr bid="B47">47</abbr>
+                   </abbrgrp>,<abbrgrp>
+                      <abbr bid="B95">95</abbr>
+                   </abbrgrp>.</p>
+                <p>Other models informing the development and design of the program include: (1) Rolland&#8217;s <abbrgrp>
+                      <abbr bid="B85">85</abbr>
+                   </abbrgrp> developmental model of couple adaptation to illness and specifically, the disruptions experienced by younger couples when age appropriate goals and milestones (such as having a child) are impeded because of the illness and the long-term consequences of treatment (such as premature menopause and infertility); and (2) Gottman&#8217;s <abbrgrp>
+                      <abbr bid="B96">96</abbr>
+                   </abbrgrp> well-validated theory of healthy relationship functioning and interaction patterns that promote relationship adjustment, such as having a higher ratio of positive-to-negative interactions (and correspondingly, positive-to-negative affect) in the relationship, or having an accurate understanding of one&#8217;s partner&#8217;s thoughts and feelings, and broader goals, dreams, and preferences.</p>
+                <p>Theoretical integration of these frameworks supports the overall objectives of the Couplelinks intervention, which are to: (1) enhance couple&#8217;s sense of we-ness as a means to better enabling partners to manage stressors associated with BC; and (2) facilitate partners&#8217; making meaning of the experience of BC in a way that draws them closer together, despite the emotional hardship, losses, and grief experienced due to the illness. These goals are achieved by progressively guiding the couple through exercises designed to foster empathy, perspective-taking, constructive communication and listening skills, emotional and physical intimacy, and positive affect in the relationship. By foregrounding we-ness relative to the illness, the couple is in a better position to externalize BC and experience themselves as an &#8216;us&#8217; in relation to &#8216;it&#8217;. While the couple engages in exercises intended to support one another within the relationship, BC is integrated into each learning module as both a current stressor whose impact on each partner needs to be accurately understood and acknowledged, and a topic or problem to be collectively addressed.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Phase I: pilot research</p>
+             </st>
+             <p>The content and design of Couplelinks is entirely original and was developed by members of the research team in consultation with an advisory committee comprised of couples with a history of BC and stakeholders in the BC community. The content and functionality was developed to address the needs and concerns specific to younger breast cancer couples. Couplelinks was designed to be informative, engaging, and interactive. In the phase I trial, the intervention was pilot-tested using a non-randomized, pre-post test design to assess whether couples found the website easy to navigate and use, the website content to be clear and coherent as well as informative about couples coping with BC, and the program convenient, flexible, and enjoyable (as intended) <abbrgrp>
+                   <abbr bid="B97">97</abbr>
+                </abbrgrp>. Qualitative and quantitative analyses of measures assessing treatment satisfaction and perceived benefits from 10 couples that completed phase I suggested that the aforementioned objectives were being met. The majority of participants reported that they found the program easy to use, convenient, and beneficial in that it provided a safe and structured opportunity to discuss difficult topics in relation to cancer that, for many participants, had been avoided or simply not addressed prior to the program. Feedback from phase I trial couples on the website functionality and program informed improvements to the intervention and website. The improved, second iteration of the intervention is being tested in a phase III randomized controlled trial (RCT) currently underway across Canada and is described in this paper.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Intervention protocol</p>
+             </st>
+             <p>Six experiential, dyadic learning modules (DLMs) that form the core of the program (with an optional seventh module) are undertaken by the couple on a weekly basis in consultation with a Couplelinks facilitator.</p>
+             <sec>
+                <st>
+                   <p>Dyadic learning modules</p>
+                </st>
+                <p>Each module is designed to teach a different relationship principle. The basic structure of every DLM is as follows: (1) description of a basic relationship skill with examples; (2) exercises partners are asked to engage in so that they can learn the skills experientially; and (3) discussion between partners of what they learned followed by logging reflections and feedback about the exercise (see Table&#160;<tblr tid="T1">1</tblr> for a description of each module and its objectives). The exercise and feedback components involve logging thoughts, observations, and reflections online that provide both the interactive learning for the couple, as well as information for the facilitator to respond to. For instance, module three, &#8216;Creating Connection&#8217;, focuses on helping partners increase positive interactions relative to negative interactions and is based on marital research that includes the work of Gottman <abbrgrp>
+                      <abbr bid="B96">96</abbr>
+                   </abbrgrp> which found that healthier relationships tend to demonstrate a greater ratio of positive to negative interactions. In module three, the difference between supportive and unsupportive behaviors and their impact on relationship quality is explained, and then partners are asked to observe and log during the week their partner&#8217;s &#8216;bids&#8217; for support and to observe and describe their own &#8216;turning towards&#8217; and &#8216;turning away&#8217; behaviors from their partner. All modules from phase I were retained in phase III with the exception of module five from phase I, a listening skills module, that was changed to an optional seventh module in phase III based on feedback from the pilot study. Module five has been replaced by a module that focuses on rebuilding physical intimacy, a change made in response to feedback from couples in the pilot phase looking for help with restoring the sexual wellbeing of their relationship, which is often negatively affected by cancer treatment and the stress of the illness in general.
+                    </p>
+                
+                   <table id="T1">
+                      <title>
+                         <p>Table 1</p>
+                      </title>
+                      <caption>
+                         <p>
+                              <b>Dyadic learning modules</b>                            
+                         </p>
+                      </caption>
+                      <tgroup align="left" cols="4">
+                         <colspec align="left" colname="c1" colnum="1" colwidth="*"/>
+                         <colspec align="left" colname="c2" colnum="2" colwidth="*"/>
+                         <colspec align="left" colname="c3" colnum="3" colwidth="*"/>
+                         <colspec align="left" colname="c4" colnum="4" colwidth="*"/>
+                         <thead>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>
+                                     <b>DLM</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>
+                                     <b>Theme</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>
+                                     <b>Goal</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>
+                                     <b>Activity</b>                                
+                                  </p>
+                               </entry>
+                            </row>
+                         </thead>
+                         <tfoot>
+                            <p>Adapted from Fergus et al., 2014 <abbrgrp>
+                                  <abbr bid="B97">97</abbr>
+                               </abbrgrp>.</p>
+                         </tfoot>
+                         <tbody>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>1</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>Celebrating our Strengths</p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>To create an opportunity for partners to reflect upon and communicate about their individual and shared strengths. Individual strengths consist of qualities in the other that one values, enjoys, or admires. Shared strengths include those that define the couple relationship as strong or resilient and help in the process of coping with BC.</p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>Independently, each partner enters 10 positive qualities about their partner online. Then the partners brainstorm together about the strengths they share as a couple in general and log these online. They are then asked to together choose from this list the couple strengths that they bring to bear on their experience with BC. Their entries are transformed into an image of a tree with their individual strengths listed in the roots and their couple strengths listed in the foliage. The couple is asked to review the image and discuss these together.</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>2</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>Understanding your Partner&#8217;s Inner World</p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>To help partners more accurately understand the other&#8217;s thoughts and feelings in relation to BC based on the assumption that previous relationship schemas may have to be revised or altered in the context of the illness.</p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>Independently, each partner answers a series of questions about their own and their partner&#8217;s preferences and experiences progressing from trivial to more serious topics (including cancer-related). These lists are then reviewed together in order to stimulate discussion and clarification.</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>3</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>Creating Connection</p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>To help partners become more aware of the other person&#8217;s &#8216;bids&#8217; for interaction and support, and to pay attention to their own &#8216;turning toward&#8217; and &#8216;turning away&#8217; behaviors on a day-to-day basis <abbrgrp>
+                                        <abbr bid="B96">96</abbr>
+                                     </abbrgrp>.</p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>Over the course of the week, each partner is asked to attend to his or her own turning toward and away behaviors as well as his/her partners turning toward behavior . These are tracked and recorded online. At week&#8217;s end, the couple reviews and discusses their entries that appear in chart format.</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>4</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>Facing Cancer as a Unified Front</p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>To assist couples in adopting a team orientation in relation to BC (a sense of &#8216;us&#8217; versus &#8216;it&#8217;). Also, to foster the attitude that the illness is a shared experience (not &#8216;belonging&#8217; to woman with cancer).</p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>Couples are guided through an exercise designed to get them thinking metaphorically about cancer, and then to create a visual representation of the illness in order to fortify sense of &#8216;we-ness&#8217; in relation to cancer.</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>5</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>Getting Physical</p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>To assist couples in reconnecting physically and sensually as a stepping stone to re-engaging sexually, as many couples find their sexual life is disrupted by treatment.</p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>Independently, each partner recalls and records a physically pleasurable shared time from their past. The couple then discusses each memory. Next, couples engage in a Sensate Focus exercise.</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>6</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>Looking Back and Moving Forward</p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>To assist couple with moving forward after BC by situating the illness in the context of the larger relationship history and by having the couple consider new goals and directions for themselves (particularly in the wake of lost goals and dreams).</p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>Together partners co-construct a relationship timeline illustrating pivotal events and/or periods in their shared history (high and low points). The website transforms relationship events and phases inputted by the couple into a relationship timeline. This relationship timeline forms a basis for discussion.</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>(optional)</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>Intentional Dialogue</p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>To learn a communication skill that partners can use to share their concerns more effectively and increase their understanding of each other&#8217;s perspective.</p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>Couples are taught active listening skills by watching an instructional video clip of another couple demonstrating an Intentional Dialogue. Couples are asked to then attempt this skill on their own. First, using a neutral topic and then using a more meaningful topic. Completion dates are entered online.</p>
+                               </entry>
+                            </row>
+                         </tbody>
+                      </tgroup>
+                   </table>
+                
+                <p>Couples are asked to undertake each module on a weekly basis and adhere to a six to eight-week timeframe. This timeline is reasonable based on our pilot work where we found that couples took approximately eight weeks on average to complete the six modules after taking into consideration vacations or unexpected interruptions. The modules are consecutive and cumulative with subsequent modules building upon knowledge and skills acquired through previous ones. Couples only gain access to the next module once the previous module has been completed. Access to subsequent modules is granted by the facilitator who first reviews and provides feedback to the couples as described below.</p>
+                <sec>
+                   <st>
+                      <p>The Couplelinks facilitator</p>
+                   </st>
+                   <p>Each couple in the treatment group is linked with a facilitator with whom they regularly interact as they proceed through the modules. Interactions with the facilitator predominantly occur through the Couplelinks website &#8216;Dialogue Room&#8217; (DR). The DR is an asynchronous (facilitator and couple are not online simultaneously) communication platform that utilizes bulletin board technology to enable each partner to correspond directly with their facilitator, as well as with one another, as they progress through the program. Additionally, the facilitator has two pre-arranged phone &#8216;check-ins&#8217; after module two and four. Each time a couple completes a module their facilitator is notified by an automatically generated email from the website. After reviewing each partner&#8217;s online reflections and feedback about the module, the facilitator provides the couple with feedback via the DR in order to validate their insights and new learning, acknowledge any challenges or difficulties they may have experienced, and explain the objectives of the subsequent module and, where applicable, how it builds on previous themes arising for the couple. At this point the facilitator grants the couple access to the next module. Couples also use the DR, for example, to ask questions about the program, to update the facilitator on their progress, or to inform the facilitator of any events that will conflict with an upcoming due date. The facilitator is also available for additional telephone consultations as necessary; however, the pilot study showed such consultations to be rare and, when undertaken, usually done to resolve minor technical issues.</p>
+                </sec>
+                <p>There will be a total of five mental health professionals with experience in psycho-oncology with a range of disciplinary backgrounds (psychology, nursing, and social work) serving as Couplelinks facilitators. The current facilitators have been instrumental in developing this novel form of support and/or are well versed in the principles and techniques of providing Couplelinks facilitation as detailed in the Couplelinks program facilitation manual <abbrgrp>
+                      <abbr bid="B98">98</abbr>
+                   </abbrgrp>. In addition to studying the manual, newer members of the facilitation team receive individualized coaching and instruction on how to offer the intervention through &#8216;role play&#8217; with a trainer (a clinician member of the research team), who acts as a &#8216;dummy&#8217; couple, progressing through each DLM and interacting online with the training facilitator as an actual couple would.</p>
+                <p>The program facilitation manual describes in depth the guiding principles for online facilitation for the program overall, and for each of the seven DLMs. It also provides numerous examples of text-based feedback to each module, including facilitator responses to various challenges that may occur, such as a couple whose participation is interrupted due to investigation of a new, concerning symptom. All facilitators are individually supervised by either the first or second author (KF and SA) which includes an ongoing review of their interactions with active couples as logged and visible in the back-end of the Couplelinks interface (described below). All facilitators also attend regular peer supervision teleconference meetings led by the first and second author. Together, both forms of supervision ensure treatment fidelity; that facilitators adhere closely to the principles of online facilitation as articulated in the Couplelinks manual and maintain consistency in their method of facilitation. Which of the five facilitators a couple is assigned to will depend on whether or not the facilitator has space in his or her caseload, the facilitator&#8217;s discipline, and the corresponding regulating body&#8217;s stance on inter-jurisdictional practices. For instance, a clinical counsellor licensed in British Columbia may serve couples from other provinces, while a psychologist licensed to practice in Ontario cannot facilitate couples who reside outside of his or her geographic jurisdiction.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Front-end user interface</p>
+             </st>
+             <p>Every detail of the website, from its &#8216;look and feel&#8217; to the content, was conceived with an eye toward being inclusive of both genders, clear and easy to follow, and engaging and enjoyable. The homepage includes an introductory video introducing the facilitator. Additionally, each DLM has its own corresponding home page and a video interview of a couple from the phase I trial of Couplelinks sharing their thoughts and reflections on that specific DLM. Another important consideration in the design of the intervention was that it be convenient and adaptable to the demanding schedules of younger couples. Pilot testing indicated that each module takes, on average, one hour in total to complete. In order to assist with planning and time management, an automated scheduler called the &#8216;Lesson Tracker&#8217; that lists each module, its constituent steps, and estimated time for completion was introduced in the phase III version of the website and located on the homepage. Each time one step of a module is completed it registers automatically in the Lesson Tracker. Partners&#8217; work is saved and they can log back in at a later time and use the Lesson Tracker to locate where they left off. Several optional readings are available on the Couplelinks website that focus on concerns most relevant to younger couples dealing with BC, and relational coping including fertility after BC, coping with premature menopause, sexuality and intimacy during and after treatment, parenting through breast cancer, and living with uncertainty and fears for the future. As not all topics pertain to each couple, there are no required readings.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Back-end administrative interface</p>
+             </st>
+             <p>There is an administrative back-end to Couplelinks with different levels of access for each member of the Couplelinks team. The facilitators have access to the module data for the couples they are directly working with, and a &#8216;contact notes&#8217; section to communicate with the research team overseeing the project. The facilitator uses the administrative interface to review a given couple&#8217;s progress on modules and their feedback, as well as to advance the couple to the next module. Additionally, facilitators can log contact notes to describe all interactions that occur outside the Couplelinks website, such as the phone call check-ins or emails that may have been exchanged due to difficulty with the website. The research coordinator ((RC) co-author, AP) and two clinician scientists (KF and SA) who are in charge of overseeing timely completion of modules and supervising facilitators have access to all outcome measure responses, facilitator contact notes, and all entries logged by all participants as they progress through each DLM.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Confidentiality and security</p>
+             </st>
+             <p>The website is password protected; users must be authenticated in order to access the website. Additionally, all transmission of content and online interactions are encrypted. All data from the website are backed up on secure servers.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Phase III: study design</p>
+             </st>
+             <p>This is a multicenter, national prospective two-arm RCT of Couplelinks. Approximately 80 eligible couples will be randomized to either the treatment condition or a waitlist control condition, using randomized block design with a block size of 2 (1:1), stratified by province of residence. The randomization list is generated using PROC FACTEX in SAS (Statistical Analysis System) version 9.3, SAS Institute, Cary, USA.</p>
+             <p>This study was approved by the Research Ethics Boards of all participating hospitals and cancer centers, namely Sunnybrook Health Sciences Centre (reference number: 300&#8211;2009), York University (reference number: 2010-119), Cancer Care Manitoba - Research Resource Impact Committee (reference number: 2013&#8211;017), University of Manitoba (reference number: H2013:119), University of British Columbia - British Columbia Cancer Agency Research Ethics Boards (reference number: H10-00300), and Queen Elizabeth II Health Sciences Centre - Capital Health Research Ethics Board (reference number: CDHA-RS/2010-357).</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Inclusion and exclusion criteria</p>
+             </st>
+             <p>The RC completes an eligibility screen with interested participants. Eligible couples are those in which the woman has received a diagnosis within the last 36&#160;months of invasive breast carcinoma (non-metastatic), or ductal carcinoma <it>in-situ</it>, at or before the age of 50&#160;years. While we did not have specific criteria for stage of cancer treatment, we inform potential participants when they contact the RC for information about the project that it is probably best to begin at or nearing the end of active treatment. Feedback from phase I suggested that participants are more inclined to participate at this stage, and this finding is supported by evidence indicating that couples are often more vulnerable to experiencing conflict at this time due to differing expectations around recovery from BC <abbrgrp>
+                   <abbr bid="B47">47</abbr>
+                </abbrgrp>. Couples must be in a committed, heterosexual relationship (for example, married, cohabitating, engaged, or steadily dating for at least six months at the time of participation). Both partners must fluently read and write in English and have access to a computer with a reliable internet connection.</p>
+             <p>Couples are excluded from the study at the eligibility screening stage if: (1) either partner self-reports current suicidal ideation and/or attempts, or a diagnosis of a serious and currently active mental illness such as psychotic disorders, bipolar disorder, depression, or substance abuse that is not being successfully managed with psychiatric treatment, and therefore may potentially interfere with his or her capacity to benefit from the program; (2) the couple is either currently in couple counselling or expresses the intent to undertake counselling during the five-month study period; (3) one or both partners self-report interpersonal violence. If it becomes evident at any point over the course of the couple&#8217;s involvement in the program that their relationship distress is so significant that they would not benefit from the program, or their participation is significantly exacerbating rather than mitigating their distress, they are asked to discontinue the project and are referred to a face-to-face couple&#8217;s counsellor.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Recruitment</p>
+             </st>
+             <p>Eligible patients from across Canada and their partners are being identified and informed about the study by their health care providers at collaborating institutions in Ontario, Nova Scotia, Manitoba, and British Columbia. In our pilot study, we found that active forms of recruitment enhanced enrolment. Patients who have been approached by their health care provider and express an interest in learning more about the program are asked for consent to have their contact information forwarded to the RC, who then follows up with the potential participant by phone to provide her (or him) with information about the program. Additionally, flyers are displayed across various hospitals and cancer agencies. Announcements have been made at hospital meetings, BC support groups, and community cancer related workshops for young women. The advertisement is posted on websites commonly accessed by young women with BC, social media, and the Couplelinks informational webpage that is linked to these.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Procedure</p>
+             </st>
+             <p>Once a potential participant (typically the patient rather than the well partner) connects with the RC, she is informed about the nature of the project. This potential participant is asked to discuss the project with her partner and, if both are interested, the RC proceeds with scheduling a phone interview with each partner separately to confirm whether they both meet eligibility criteria. When screening couples, in addition to the inclusion and exclusion criteria previously described, the RC assesses partners&#8217; access to, and comfort with, the internet and whether they are likely to be able to keep up with the weekly time commitment for the program. Partners who anticipate interruptions (for instance due to travel) for a duration longer than two weeks are asked to delay enrolment until after they return. To avoid the confounding effects of other interventions, couples are informed of the expectation that they refrain from participating in couple-related psychosocial interventions until they have completed the five-month study term.</p>
+             <p>If both participants meet the eligibility criteria, the RC proceeds with the informed consent process over the phone, which includes reviewing the objectives of the study, requirements of the participants, how their information will remain confidential, and participants&#8217; right to withdraw at any time. Any concerns or questions are addressed and if the couple is satisfied, they are told they will be mailed a hard copy of the consent form that we request they review, sign, and return and that they may contact the RC again if they have any further questions. Once the signed informed consent form is received, the couples are randomized to the waitlist or intervention condition.</p>
+             <p>Next, each partner is separately emailed a unique personal login ID and password which they use to complete all questionnaires, starting with the baseline questionnaires. The couples in the treatment group complete additional questionnaires as described in the measurement section below. Participants are informed that their responses to the surveys will not be shared with their partner, and they are instructed to complete the surveys without consulting one another. Once the time one (T1) measures are completed, the RC informs participants of their group assignment. Participants assigned to the treatment group are informed of the name of their Couplelinks facilitator. The facilitator schedules a phone meeting with the couple to introduce her or himself, clarify expectations of participants, answer questions, and review important information about the website and the intervention. The facilitator then sends the couple their login instructions via email.</p>
+             <p>Both groups of participants complete standardized questionnaires online at T1, time two ((T2) at post-treatment for treatment and for waitlist groups, taking place eight weeks after T1), and time three ((T3) three months after completion of T2 measures). Participants in the treatment group are also asked to complete a post-treatment interview at T2. Couples in the waitlist group are given the option of receiving the intervention once they have completed the T3 questionnaires; if they choose to participate in the intervention, their completed T3 questionnaires will be used as their  pre-treatment (baseline) measurement, and they will be asked to complete surveys at post-treatment and one last time 3&#160;months after posttreatment.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Measurement</p>
+             </st>
+             <p>The primary outcome of this study is improvement in relationship adjustment and dyadic coping. Secondary outcomes include improvement in mood (for example, anxiety or depression) and interpersonal communication. Self-reported socio-demographic variables are collected at T1 including: gender, age, ethnicity, education, employment status, relationship status, living arrangement, and number and gender of children. Self-reported disease and treatment information includes cancer stage, treatments received, status of treatment, and other health conditions. The assessment of the intervention&#8217;s effectiveness incorporates the effects of attrition and non-compliance into the analyses. Satisfaction with the intervention is assessed using a self-report questionnaire designed specifically for this study, and feedback for further improvements is obtained using a phone interview completed post-treatment. See Figure&#160;<figr fid="F1">1</figr> for a flowchart of the trial with time points and corresponding measures.
+                  </p>
+             
+                <fig id="F1">
+                   <title>
+                      <p>Figure 1</p>
+                   </title>
+                   <caption>
+                      <p>Flowchart of a randomized controlled trial (RCT) of Couplelinks. </p>
+                   </caption>
+                   <text>
+                      <p>
+                            <b>Flowchart of a randomized controlled trial (RCT) of Couplelinks.</b>                            
+                         <sup>1</sup>Outcome Questionnaires include: BCRM&#8201;=&#8201;Breast Cancer and Relationship Measure, DCI&#8201;=&#8201;Dyadic Coping Inventory, FACT-B&#8201;=&#8201;Functional Assessment of Cancer Treatment - Breast (female only), HADS&#8201;=&#8201;Hospital Anxiety and Depression Scale, KMSS&#8201;=&#8201;Kansas Marital Satisfaction Survey, MMQ&#8201;=&#8201;Maudsley Marital Questionnaire, RDAS&#8201;=&#8201;Revised Dyadic Adjustment.</p>
+                   </text>
+                   <graphic file="s13063-014-0534-8-1"/>
+                </fig>
+             
+             <p>The Revised Dyadic Adjustment Survey (RDAS) <abbrgrp>
+                   <abbr bid="B99">99</abbr>
+                </abbrgrp> is an abbreviated version of the longer and widely used Dyadic Adjustment Survey (DAS) <abbrgrp>
+                   <abbr bid="B100">100</abbr>
+                </abbrgrp>, with comparable levels of reliability and validity. This 14-item measure assesses dyadic consensus, cohesion, and satisfaction. The Kansas Marital Satisfaction Scale (KMSS) <abbrgrp>
+                   <abbr bid="B101">101</abbr>
+                </abbrgrp> is one of the most commonly used global measures of marital satisfaction. It is comprised of three items on a seven-point Likert scale, asking respondents to identify their level of satisfaction with their partner, their marriage, and their relationship with their partner. Both the RDAS and the KMSS have demonstrated reliability and validity, and empirically derived cut-offs to differentiate between samples of couples being seen for couple intervention versus a community sample. The marital adjustment subscale of the Maudsley Marital Questionnaire (MMQ) <abbrgrp>
+                   <abbr bid="B102">102</abbr>
+                </abbrgrp> evaluates an individual&#8217;s satisfaction with his or her committed or married relationship. It has 10-items, each rated on a nine-point scale.</p>
+             <p>The Hospital Anxiety and Depression Scale (HADS) <abbrgrp>
+                   <abbr bid="B103">103</abbr>
+                </abbrgrp> is a 14-item four-point Likert scale measure that includes two subscales of seven items each, assessing anxiety and depression. It is a simple yet reliable and valid tool to assess the presence of a mood disorder in medical settings. Although developed for a hospital-based population, it has also been found to be a valid screening instrument for depression and anxiety in the general population <abbrgrp>
+                   <abbr bid="B104">104</abbr>
+                </abbrgrp>. The Functional Assessment of Cancer Therapy-Breast (FACT-B) - Physical Well-Being (PWB) <abbrgrp>
+                   <abbr bid="B105">105</abbr>
+                </abbrgrp> subscale is part of the widely used FACT-B that assesses quality of life among breast cancer patients. The PWB, a seven-item five-point Likert scale measuring physical functioning, is completed by the female partner only. This variable will be tested as a potential covariate. The Breast Cancer and Relationship Measure (BCRM) was developed by the study authors for this protocol to assess the degree to which partners experience breast cancer to have negatively affected their relationship. The scale has 10 items which participants rate on a scale from 0 (not at all) to nine (very much) depending on the degree to which each statement applies to them. An example item is &#8216;We are able to discuss difficult or sensitive issues related to breast cancer&#8217;.</p>
+             <p>The Dyadic Coping Inventory (DCI) <abbrgrp>
+                   <abbr bid="B106">106</abbr>
+                </abbrgrp> is a 37-item questionnaire that measures levels of stress-related communication and levels of supportive and negative dyadic coping behaviors when one or both partners are stressed, as well as perception of one&#8217;s partner&#8217;s stress-related communication and support. The scale consists of seven subscales, with four measuring self and partner stress communication, and supportive, negative, and joint dyadic coping. Additionally, two items capture the quality of the self-perceived level of overall dyadic coping. The Credibility Expectancy Questionnaire (CEQ) <abbrgrp>
+                   <abbr bid="B107">107</abbr>
+                </abbrgrp> is a six-item survey that assesses the participants&#8217; expectations about how beneficial they believe the treatment will be, and how reasonable it is in their view that the treatment will address their problem. The questionnaire consists of two parts to evaluate such expectations and perceptions, with one part asking participants to answer the questions based on their rational thought process, and the other section in which they are asked to answer based on their emotions. The original measure assessed changes in trauma symptoms. The wording of the measure in this study refers to changes in relationship adjustment. This measure is administered to the treatment group at T1 only.</p>
+             <p>The System Usability Scale (SUS) <abbrgrp>
+                   <abbr bid="B108">108</abbr>
+                </abbrgrp> is a 10-item measure designed to capture the participant&#8217;s subjective, global perspective of the website&#8217;s usability, including the website complexity and the perceived need for support or training. This measure is administered to the intervention group at T2 only. The Treatment Satisfaction Survey (TSS) measure was developed specifically for this study and assesses the satisfaction of participants in the intervention group with the program overall and specific aspects of it (for example convenience and facilitator role). In addition to items requiring quantitative ratings, open-ended questions are asked regarding the general experience, the program&#8217;s perceived benefits, and areas for improvement. The purpose of this measure is to obtain feedback regarding different facets of Couplelinks, in order to inform program development and determine participants&#8217; perceptions regarding the effective and less effective aspects of program experience. This measure is administered once at T2 to the intervention group. After completing the T2 questionnaires, a semi-structured interview designed specifically for this study is conducted over the phone with couples in the intervention group to get more detailed feedback about the intervention. Both partners are interviewed together and the interview takes 40-60 minutes.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Sample size estimation and data analyses plan</p>
+             </st>
+             <p>All scale and subscale means and standard deviations will be computed and summarized. The primary hypotheses to be tested are that the degree of change or improvement between T1 and T2 on the RDAS, KMSS, MMQ, and DCI summary scales will be greater for the treatment group relative to the waitlist group. Given that data are non-independent (measurements are of individuals that belong to the same dyad and multiple measures are taken per individual across time) the hypotheses will be evaluated using multilevel models (MLM) <abbrgrp>
+                   <abbr bid="B109">109</abbr>
+                </abbrgrp>. MLM will allow for testing correlations between partners&#8217; outcomes and whether there are differences in treatment effect for the patient versus her partner. The models will also be used to evaluate the degree of sustained change from T2 to T3, and whether treatment effects vary by severity of disease, age, and/or length of relationship, as well as aspects of the intervention such as level of engagement. MLM will also allow us to test whether there are any significant variations in treatment effect between facilitators. The impact of missing data will also be evaluated.</p>
+             <p>The sample size needed was based upon psychometrics of our primary outcome measure, the RDAS. Assuming a two-sided test, a standard deviation for mean change in RDAS from T1 to T2 equal to 3.4 (standard deviation of RDAS&#8201;=&#8201;7.0, with a correlation of 0.9 between T1 and T2), an intracluster correlation of 0.3, an effect size of 0.5 for mean change of RDAS (difference in group means&#8201;=&#8201;1.8), 80% power, and an alpha of 0.05, 36 couples will be required for each group (PASS, NCSS, Kaysville, USA, cluster-randomization power analysis) <abbrgrp>
+                   <abbr bid="B110">110</abbr>
+                </abbrgrp>. The total sample size was calculated as 36&#8201;&#215;&#8201;2&#8201;&#215;&#8201;2&#8201;=&#8201;144. The sample size will be increased to 160 (40 couples per group) due to an expected attrition of 10% of the participants across time, based on previous research in couples and BC <abbrgrp>
+                   <abbr bid="B111">111</abbr>
+                </abbrgrp>. In addition to the questionnaires, qualitative data will be collected from the open-ended evaluation of each DLM following its completion.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Discussion</p>
+          </st>
+          <p>The potential for Couplelinks to fill a void in the support options available to both younger women with BC and their male partners is great. The intervention, if proven effective, will be the first empirically validated online support tool for heterosexual couples with the female partner belonging to the highly distressed and inadequately served population of young BC survivors. Moreover, this validated program will address the consistently demonstrated need for targeted resources that appeal to their male partners. If effective, this standardized psychosocial intervention can be readily incorporated into existing psychosocial oncology programs, with the added benefit of independence from geographic disparities. Moreover, as one of the first couple interventions of its kind, Couplelinks will help set a clinical and scholarly precedent for the delivery of online support to couples in distress. The ultimate impact of the study will be the creation of an accessible, empirically validated tool that could help to improve the quality of life of future young couples coping with BC, regardless of geographic location.</p>
+          <p>Assuming effectiveness is demonstrated, the next step would be to refine the treatment and training manual, and disseminate the program to psychosocial oncology professionals. They, in turn, would have access to the website on a cost-recovery basis in order to offer the program within their own communities and provinces. Furthermore, as an empirically validated prototype, Couplelinks may be adapted for other subgroups of BC survivors and their partners, such as same-sex or middle-aged couples, or for couples dealing with other types of cancer.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Trial status</p>
+          </st>
+          <p>Recruitment for this project has been underway since April 2011. The estimated date of completion is June 2015.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Abbreviations</p>
+          </st>
+          <p>BC: Breast Cancer</p>
+          <p>BCRM: Breast Cancer and Relationship Measure</p>
+          <p>CEQ: Credibility Expectancy Questionnaire</p>
+          <p>CHESS: Comprehensive Health Enhancement Support System</p>
+          <p>DCI: Dyadic Coping Inventory</p>
+          <p>DLM: Dyadic Learning Modules</p>
+          <p>DR: Dialogue Room</p>
+          <p>FACT-B: Functional Assessment of Cancer Treatment</p>
+          <p>HADS: Hospital Anxiety and Depression Survey</p>
+          <p>KMSS: Kansas Marital Satisfaction Survey</p>
+          <p>MLM: Multilevel Models</p>
+          <p>MMQ: Maudsley Marital Questionnaire</p>
+          <p>RCT: Randomized Controlled Trial</p>
+          <p>RC: Research Coordinator</p>
+          <p>RDAS: Revised Dyadic Adjustment Survey</p>
+          <p>SUS: System Usability Scale</p>
+          <p>T1: Time One</p>
+          <p>T2: Time Two</p>
+          <p>T3: Time Three</p>
+          <p>TSS: Treatment Satisfaction Survey.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Competing interests</p>
+          </st>
+          <p>The authors declare that they have no competing interests.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Authors&#8217; contributions</p>
+          </st>
+          <p>KF, the principal investigator of this study, led the initial conceptualization and design of the study, grant writing and securing funding for the RCT, creation and development of Couplelinks, management and oversight of the RCT, and drafting and editing the manuscript. SA contributed to testing and refining the Couplelinks website and the RCT, overseeing the RCT, developing the final data analysis plan, and drafting and editing the manuscript. DM contributed to the initial conceptualization and design of the study, grant writing and securing funding for the RCT, creation and development of Couplelinks, and editing the manuscript. JS contributed to the initial conceptualization and design of the study, grant writing and securing funding for the RCT, creation and development of Couplelinks, and editing the final manuscript. SG contributed to the data analysis plan, sample size estimation, randomization list generation, and editing the final manuscript. AP is the research coordinator of the RCT and contributed to testing and refining the website and the RCT protocol, promotion and recruitment for the RCT, screening and enrolling participants, overseeing progress of couples through the RCT, and editing the final manuscript. EW contributed to the design of the study, grant writing and securing funding for the RCT, and editing the manuscript. WC contributed to grant writing and development of Couplelinks. All authors read and approved the final version of the manuscript.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Authors&#8217; information</p>
+          </st>
+          <p>KF, PhD, C. Psych, is a registered Clinical and Health Psychologist. She is an Associate Professor in the Department of Psychology at York University and Clinician Scientist at the Odette Cancer Centre, Sunnybrook Health Sciences Centre, where she provides psychosocial interventions to cancer patients. Her research focuses on couple adjustment to cancer, with most of her recent leadership being in the area of young women with breast cancer.</p>
+          <p>SA, PhD, C. Psych, is a registered Clinical and Counselling Psychologist and postdoctoral fellow in the Odette Cancer Centre, Sunnybrook Health Sciences Centre. She is also in private practice and has extensive experience in interventions with couples coping with mental or physical health problems. Her research interests involve identifying factors that contribute to resilience in relationships in the context of an illness that afflicts one or both partners. Her previous research projects include an evaluation of a brief couple intervention with ethnic minorities.</p>
+          <p>SG, PhD, is a Biostatistics Scientist at the Ontario HIV Treatment Network (OHTN), an Assistant Professor (status only) at the Dalla Lana School of Public Health, University of Toronto and an Adjunct Professor at the Faculty of Health Sciences, University of Ontario Institute of Technology. SG specializes in the analysis of observational data, data management, and data linkage. She is currently involved with the OHTN Cohort Study which collects clinical and socio-behavioral data from HIV-positive participants from across Ontario. SG also has experience with randomized controlled clinical trials and behavioral interventions in oncology and HIV-related research.</p>
+          <p>DM, RN, PhD, is a Clinician Scientist in nursing with the Queen Elizabeth II Cancer Care Program in Halifax, Nova Scotia. She is a clinical member with the psychosocial oncology team, where she provides individual, couple, and family therapy to people affected by cancer. Her research focuses on psychosocial and web-based interventions and health professional education.</p>
+          <p>JS, PhD, is a Clinician Scientist and leading researcher in online psychosocial support. She is presently Adjunct Associate Professor in the Department of Oncology, Division of Psychosocial Oncology at University of Calgary. She was formerly the Director of CancerChatCanada.ca which offers facilitated, real-time online support groups for people affected by cancer, and the founding member and the former Chair of the National Alliance of Psychosocial Oncology and Supportive Care Online (NAPSCO). She also formerly worked in the Patient and Family Counseling program of the British Columbia Cancer Agency.</p>
+          <p>AP, Hons BA, is a graduate from York University&#8217;s Specialized Honors Undergraduate Psychology program. She is the Project Coordinator for the Couplelinks RCT. She has experience in conducting research on a range of topics including perceptions of survivors of trauma and abuse, and perceptions of lesbians and gay men.</p>
+          <p>EW, MD, is a Medical Oncologist and Professor of Medicine at the University of Toronto, whose clinical practice and research are devoted exclusively to breast cancer. She is founder and director of the PYNK: Breast Cancer Program for Young Women, the only program in Canada devoted specifically to the medical, psychosocial, and clinical needs of women diagnosed with breast cancer at age 40&#160;years or younger, which has managed over 250 women since it began in 2008. EW has noted that for young women (and for many older women), intimacy and sexuality issues are very often the most distressing complication of their breast cancer diagnosis and treatment.</p>
+          <p>WC, PhD, C. Psych, is a registered Clinical and Health Psychologist and has been a facilitator for Couplelinks since its inception. WC has a special interest in health psychology and supporting people as they adjust to major life changes and challenges, including chronic or life-threatening illness. WC is currently in private practice.</p>
+       </sec>
+    </bdy>
+    <bm>
+       <ack>
+          <sec>
+             <st>
+                <p>Acknowledgements</p>
+             </st>
+             <p>The authors would like to thank Jennifer Lewin, PhD, C. Psych, who contributed to the development and testing of the Couplelinks website and writing the facilitation manual. Also, Erinn McCarthy, BA (Hons) and Jin Kang BA (Hons) who edited and formatted this manuscript. Funding for this study was provided by the Canadian Breast Cancer Research Alliance - Canadian Breast Cancer Foundation, special competition on the Psychosocial Aspects of Breast Cancer (Grant No. 020669). The pilot study leading to this trial was funded by the Canadian Breast Cancer Foundation - Ontario Region.</p>
+          </sec>
+       </ack>
+       <refgrp>
+          
+          <bibl id="B1">
+             <note>Canadian Cancer Society&#8217;s Advisory Committee on Cancer Statistics. Canadian Cancer Statistics 2014. Toronto, ON: Canadian Cancer Society; 2014.</note>
+          </bibl>
+          <bibl id="B2">
+             <title>
+                <p>Psychosocial problems among younger women with breast cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Avis</snm>
+                   <fnm>NE</fnm>
+                </au>
+                <au>
+                   <snm>Crawford</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Manuel</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>Psychooncology</source>
+             <pubdate>2004</pubdate>
+             <volume>13</volume>
+             <fpage>295</fpage>
+             <lpage>308</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">15133771</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B3">
+             <title>
+                <p>Quality of life among younger women with breast cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Avis</snm>
+                   <fnm>NE</fnm>
+                </au>
+                <au>
+                   <snm>Crawford</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Manuel</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>J Clin Oncol</source>
+             <pubdate>2005</pubdate>
+             <volume>23</volume>
+             <fpage>3322</fpage>
+             <lpage>30</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">15908646</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B4">
+             <title>
+                <p>Life after breast cancer: understanding women&#8217;s health-related quality of life and sexual functioning</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Ganz</snm>
+                   <fnm>PA</fnm>
+                </au>
+                <au>
+                   <snm>Rowland</snm>
+                   <fnm>JH</fnm>
+                </au>
+                <au>
+                   <snm>Desmond</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Meyerowitz</snm>
+                   <fnm>BE</fnm>
+                </au>
+                <au>
+                   <snm>Wyatt</snm>
+                   <fnm>GE</fnm>
+                </au>
+             </aug>
+             <source>J Clin Oncol</source>
+             <pubdate>1998</pubdate>
+             <volume>16</volume>
+             <fpage>501</fpage>
+             <lpage>14</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">9469334</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B5">
+             <title>
+                <p>Population-based study of the relationship of treatment and sociodemographics on quality of life for early stage breast cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Janz</snm>
+                   <fnm>NK</fnm>
+                </au>
+                <au>
+                   <snm>Mujahid</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Lantz</snm>
+                   <fnm>PM</fnm>
+                </au>
+                <au>
+                   <snm>Fagerlin</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Salem</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Morrow</snm>
+                   <fnm>M</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Qual Life Res</source>
+             <pubdate>2005</pubdate>
+             <volume>14</volume>
+             <fpage>1467</fpage>
+             <lpage>79</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">16110927</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B6">
+             <title>
+                <p>The process of recovery from breast cancer for younger and older patients. Changes during the first year</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Vinokur</snm>
+                   <fnm>AD</fnm>
+                </au>
+                <au>
+                   <snm>Threatt</snm>
+                   <fnm>BA</fnm>
+                </au>
+                <au>
+                   <snm>Vinokur-Kaplan</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Satariano</snm>
+                   <fnm>WA</fnm>
+                </au>
+             </aug>
+             <source>Cancer</source>
+             <pubdate>1990</pubdate>
+             <volume>65</volume>
+             <fpage>1242</fpage>
+             <lpage>54</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">2302673</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B7">
+             <title>
+                <p>Age-related differences in the quality of life of breast carcinoma patients after treatment</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Wenzel</snm>
+                   <fnm>LB</fnm>
+                </au>
+                <au>
+                   <snm>Fairclough</snm>
+                   <fnm>DL</fnm>
+                </au>
+                <au>
+                   <snm>Brady</snm>
+                   <fnm>MJ</fnm>
+                </au>
+                <au>
+                   <snm>Cella</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Garrett</snm>
+                   <fnm>KM</fnm>
+                </au>
+                <au>
+                   <snm>Kluhsman</snm>
+                   <fnm>BC</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Cancer</source>
+             <pubdate>1999</pubdate>
+             <volume>86</volume>
+             <fpage>1768</fpage>
+             <lpage>74</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">10547550</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B8">
+             <title>
+                <p>Quality of life of younger breast cancer survivors: persistence of problems and sense of well-being</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bloom</snm>
+                   <fnm>JR</fnm>
+                </au>
+                <au>
+                   <snm>Stewart</snm>
+                   <fnm>SL</fnm>
+                </au>
+                <au>
+                   <snm>Oakley-Girvan</snm>
+                   <fnm>I</fnm>
+                </au>
+                <au>
+                   <snm>Banks</snm>
+                   <fnm>PJ</fnm>
+                </au>
+                <au>
+                   <snm>Shema</snm>
+                   <fnm>S</fnm>
+                </au>
+             </aug>
+             <source>Psychooncology</source>
+             <pubdate>2012</pubdate>
+             <volume>21</volume>
+             <fpage>655</fpage>
+             <lpage>65</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">21538677</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B9">
+             <title>
+                <p>Functional impact of breast cancer by age at diagnosis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kroenke</snm>
+                   <fnm>CH</fnm>
+                </au>
+                <au>
+                   <snm>Rosner</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Chen</snm>
+                   <fnm>WY</fnm>
+                </au>
+                <au>
+                   <snm>Kawachi</snm>
+                   <fnm>I</fnm>
+                </au>
+                <au>
+                   <snm>Colditz</snm>
+                   <fnm>GA</fnm>
+                </au>
+                <au>
+                   <snm>Holmes</snm>
+                   <fnm>MD</fnm>
+                </au>
+             </aug>
+             <source>J Clin Oncol</source>
+             <pubdate>2004</pubdate>
+             <volume>22</volume>
+             <fpage>1849</fpage>
+             <lpage>56</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">15143077</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B10">
+             <title>
+                <p>Factors reported to influence fear of recurrence in cancer patients: a systematic review</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Crist</snm>
+                   <fnm>JV</fnm>
+                </au>
+                <au>
+                   <snm>Grunfeld</snm>
+                   <fnm>EA</fnm>
+                </au>
+             </aug>
+             <source>Psychooncology</source>
+             <pubdate>2013</pubdate>
+             <volume>22</volume>
+             <fpage>978</fpage>
+             <lpage>86</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">22674873</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B11">
+             <title>
+                <p>Quality of life, fertility concerns, and behavioral health outcomes in younger breast cancer survivors: a systematic review</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Howard-Anderson</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Ganz</snm>
+                   <fnm>PA</fnm>
+                </au>
+                <au>
+                   <snm>Bower</snm>
+                   <fnm>JE</fnm>
+                </au>
+                <au>
+                   <snm>Stanton</snm>
+                   <fnm>AL</fnm>
+                </au>
+             </aug>
+             <source>J Natl Cancer Inst</source>
+             <pubdate>2012</pubdate>
+             <volume>104</volume>
+             <fpage>386</fpage>
+             <lpage>405</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">22271773</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B12">
+             <title>
+                <p>Young and worried: age and fear of recurrence in breast cancer survivors</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Lebel</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Beattie</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Ar&#232;s</snm>
+                   <fnm>I</fnm>
+                </au>
+                <au>
+                   <snm>Bielajew</snm>
+                   <fnm>C</fnm>
+                </au>
+             </aug>
+             <source>Health Psychol</source>
+             <pubdate>2013</pubdate>
+             <volume>32</volume>
+             <fpage>695</fpage>
+             <lpage>705</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">23088176</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B13">
+             <title>
+                <p>A qualitative analysis of reproductive issues raised by young Australian women with breast cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Connell</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Patterson</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Newman</snm>
+                   <fnm>B</fnm>
+                </au>
+             </aug>
+             <source>Health Care Women Int</source>
+             <pubdate>2006</pubdate>
+             <volume>27</volume>
+             <fpage>94</fpage>
+             <lpage>110</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">16338742</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B14">
+             <title>
+                <p>Fertility- and menopause-related information needs of younger women with a diagnosis of early breast cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Thewes</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Meiser</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Taylor</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Phillips</snm>
+                   <fnm>KA</fnm>
+                </au>
+                <au>
+                   <snm>Pendlebury</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Capp</snm>
+                   <fnm>A</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>J Clin Oncol</source>
+             <pubdate>2005</pubdate>
+             <volume>23</volume>
+             <fpage>5155</fpage>
+             <lpage>65</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">16051957</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B15">
+             <title>
+                <p>Young women&#8217;s experience of breast cancer: defining young and identifying concerns</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Dunn</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Steginga</snm>
+                   <fnm>SK</fnm>
+                </au>
+             </aug>
+             <source>Psychooncology</source>
+             <pubdate>2000</pubdate>
+             <volume>9</volume>
+             <fpage>137</fpage>
+             <lpage>46</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">10767751</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B16">
+             <title>
+                <p>Transforming desolation into consolation: being a mother with life-threatening breast cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Ohlen</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Holm</snm>
+                   <fnm>AK</fnm>
+                </au>
+             </aug>
+             <source>Health Care Women Int</source>
+             <pubdate>2006</pubdate>
+             <volume>27</volume>
+             <fpage>18</fpage>
+             <lpage>44</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">16338738</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B17">
+             <title>
+                <p>The impact of breast cancer on younger women&#8217;s relationships with their partner and children</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Walsh</snm>
+                   <fnm>SR</fnm>
+                </au>
+                <au>
+                   <snm>Manuel</snm>
+                   <fnm>JC</fnm>
+                </au>
+                <au>
+                   <snm>Avis</snm>
+                   <fnm>NE</fnm>
+                </au>
+             </aug>
+             <source>Fam Syst Health</source>
+             <pubdate>2005</pubdate>
+             <volume>23</volume>
+             <fpage>80</fpage>
+             <lpage>93</lpage>
+          </bibl>
+          <bibl id="B18">
+             <title>
+                <p>Quality of life in long-term, disease-free survivors of breast cancer: a follow-up study</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Ganz</snm>
+                   <fnm>PA</fnm>
+                </au>
+                <au>
+                   <snm>Desmond</snm>
+                   <fnm>KA</fnm>
+                </au>
+                <au>
+                   <snm>Leedham</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Rowland</snm>
+                   <fnm>JH</fnm>
+                </au>
+                <au>
+                   <snm>Meyerowitz</snm>
+                   <fnm>BE</fnm>
+                </au>
+                <au>
+                   <snm>Belin</snm>
+                   <fnm>TR</fnm>
+                </au>
+             </aug>
+             <source>J Natl Cancer Inst</source>
+             <pubdate>2002</pubdate>
+             <volume>94</volume>
+             <fpage>39</fpage>
+             <lpage>49</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">11773281</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B19">
+             <title>
+                <p>&#8216;Nothing fit me&#8217;: nationwide consultations with young women with breast cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Gould</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Grassau</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Manthorne</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Gray</snm>
+                   <fnm>RE</fnm>
+                </au>
+                <au>
+                   <snm>Fitch</snm>
+                   <fnm>MI</fnm>
+                </au>
+             </aug>
+             <source>Health Expect</source>
+             <pubdate>2006</pubdate>
+             <volume>9</volume>
+             <fpage>158</fpage>
+             <lpage>73</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">16677195</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B20">
+             <title>
+                <p>Impact of MRI surveillance and breast cancer detection in young women with BRCA mutations</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Warner</snm>
+                   <fnm>E</fnm>
+                </au>
+             </aug>
+             <source>Ann Oncol</source>
+             <pubdate>2011</pubdate>
+             <volume>22</volume>
+             <issue>Suppl 1</issue>
+             <fpage>144</fpage>
+             <lpage>9</lpage>
+          </bibl>
+          <bibl id="B21">
+             <title>
+                <p>Age-related distress among young women with breast cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Siegel</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Gluhoski</snm>
+                   <fnm>V</fnm>
+                </au>
+                <au>
+                   <snm>Gorey</snm>
+                   <fnm>E</fnm>
+                </au>
+             </aug>
+             <source>J Psychosoc Oncol</source>
+             <pubdate>1999</pubdate>
+             <volume>17</volume>
+             <fpage>1</fpage>
+             <lpage>20</lpage>
+          </bibl>
+          <bibl id="B22">
+             <title>
+                <p>Adaptation and the life cycle</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Neugarten</snm>
+                   <fnm>BL</fnm>
+                </au>
+             </aug>
+             <source>Couns Psychol</source>
+             <pubdate>1976</pubdate>
+             <volume>6</volume>
+             <fpage>16</fpage>
+             <lpage>20</lpage>
+          </bibl>
+          <bibl id="B23">
+             <title>
+                <p>Intrusiveness of illness and quality of life in young women with breast cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bloom</snm>
+                   <fnm>JR</fnm>
+                </au>
+                <au>
+                   <snm>Stewart</snm>
+                   <fnm>SL</fnm>
+                </au>
+                <au>
+                   <snm>Johnston</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Banks</snm>
+                   <fnm>P</fnm>
+                </au>
+             </aug>
+             <source>Psychooncology</source>
+             <pubdate>1998</pubdate>
+             <volume>7</volume>
+             <fpage>89</fpage>
+             <lpage>100</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">9589507</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B24">
+             <title>
+                <p>Sources of support and the physical and mental well-being of young women with breast cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bloom</snm>
+                   <fnm>JR</fnm>
+                </au>
+                <au>
+                   <snm>Stewart</snm>
+                   <fnm>SL</fnm>
+                </au>
+                <au>
+                   <snm>Johnston</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Banks</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Fobair</snm>
+                   <fnm>P</fnm>
+                </au>
+             </aug>
+             <source>Soc Sci Med</source>
+             <pubdate>2001</pubdate>
+             <volume>53</volume>
+             <fpage>1513</fpage>
+             <lpage>24</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">11710426</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B25">
+             <title>
+                <p>Social support and marital adjustment after breast cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Lichtman</snm>
+                   <fnm>RR</fnm>
+                </au>
+                <au>
+                   <snm>Taylor</snm>
+                   <fnm>SE</fnm>
+                </au>
+                <au>
+                   <snm>Wood</snm>
+                   <fnm>JV</fnm>
+                </au>
+             </aug>
+             <source>J Psychosoc Oncol</source>
+             <pubdate>1987</pubdate>
+             <volume>5</volume>
+             <fpage>47</fpage>
+             <lpage>74</lpage>
+          </bibl>
+          <bibl id="B26">
+             <title>
+                <p>Men&#8217;s perspectives on individual and family coping with their wives&#8217; breast cancer and chemotherapy</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hilton</snm>
+                   <fnm>BA</fnm>
+                </au>
+                <au>
+                   <snm>Crawford</snm>
+                   <fnm>JA</fnm>
+                </au>
+                <au>
+                   <snm>Tarko</snm>
+                   <fnm>MA</fnm>
+                </au>
+             </aug>
+             <source>West J Nurs Res</source>
+             <pubdate>2000</pubdate>
+             <volume>22</volume>
+             <fpage>438</fpage>
+             <lpage>59</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">10826253</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B27">
+             <title>
+                <p>Effects of a brief intervention program for patients with cancer and their partners on feelings of inequity, relationship quality and psychological distress</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kuijer</snm>
+                   <fnm>RG</fnm>
+                </au>
+                <au>
+                   <snm>Buunk</snm>
+                   <fnm>BP</fnm>
+                </au>
+                <au>
+                   <snm>De Jong</snm>
+                   <fnm>GM</fnm>
+                </au>
+                <au>
+                   <snm>Ybema</snm>
+                   <fnm>JF</fnm>
+                </au>
+                <au>
+                   <snm>Sanderman</snm>
+                   <fnm>R</fnm>
+                </au>
+             </aug>
+             <source>Psychooncology</source>
+             <pubdate>2004</pubdate>
+             <volume>13</volume>
+             <fpage>321</fpage>
+             <lpage>34</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">15133773</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B28">
+             <title>
+                <p>A follow-up study of women with cancer: their psychosocial well-being and close relationships</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kayser</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Sormanti</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>Soc Work Health Care</source>
+             <pubdate>2002</pubdate>
+             <volume>35</volume>
+             <fpage>391</fpage>
+             <lpage>406</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">12365751</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B29">
+             <title>
+                <p>Conceptualization and sources of costs from breast cancer: findings from patient and caregiver focus groups</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Lauzier</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Maunsell</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>De Koninck</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Drolet</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Hebert-Croteau</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Robert</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>Psychooncology</source>
+             <pubdate>2005</pubdate>
+             <volume>14</volume>
+             <fpage>351</fpage>
+             <lpage>60</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">15386763</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B30">
+             <title>
+                <p>Relationship issues of women with breast cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Holmberg</snm>
+                   <fnm>SK</fnm>
+                </au>
+                <au>
+                   <snm>Scott</snm>
+                   <fnm>LL</fnm>
+                </au>
+                <au>
+                   <snm>Alexy</snm>
+                   <fnm>W</fnm>
+                </au>
+                <au>
+                   <snm>Fife</snm>
+                   <fnm>BL</fnm>
+                </au>
+             </aug>
+             <source>Cancer Nurs</source>
+             <pubdate>2001</pubdate>
+             <volume>24</volume>
+             <fpage>53</fpage>
+             <lpage>60</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">11219423</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B31">
+             <title>
+                <p>Breast cancer: demands of the illness on the patient&#8217;s partner</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Zahlis</snm>
+                   <fnm>EH</fnm>
+                </au>
+                <au>
+                   <snm>Shands</snm>
+                   <fnm>ME</fnm>
+                </au>
+             </aug>
+             <source>J Psychosoc Oncol</source>
+             <pubdate>1991</pubdate>
+             <volume>9</volume>
+             <fpage>75</fpage>
+             <lpage>93</lpage>
+          </bibl>
+          <bibl id="B32">
+             <title>
+                <p>The experience of cancer during early and advanced stages: the views of patients and their mates</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Gotay</snm>
+                   <fnm>CC</fnm>
+                </au>
+             </aug>
+             <source>Soc Sci Med</source>
+             <pubdate>1984</pubdate>
+             <volume>18</volume>
+             <fpage>605</fpage>
+             <lpage>13</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">6719154</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B33">
+             <title>
+                <p>Body image and sexual problems in young women with breast cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Fobair</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Stewart</snm>
+                   <fnm>SL</fnm>
+                </au>
+                <au>
+                   <snm>Chang</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>D&#8217;Onofrio</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Banks</snm>
+                   <fnm>PJ</fnm>
+                </au>
+                <au>
+                   <snm>Bloom</snm>
+                   <fnm>JR</fnm>
+                </au>
+             </aug>
+             <source>Psychooncology</source>
+             <pubdate>2006</pubdate>
+             <volume>15</volume>
+             <fpage>579</fpage>
+             <lpage>94</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">16287197</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B34">
+             <title>
+                <p>Psychosocial issues in breast cancer: young women need support in facing unique challenges</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Fitzgerald</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Fergus</snm>
+                   <fnm>K</fnm>
+                </au>
+             </aug>
+             <source>Innov Breast Cancer Care</source>
+             <pubdate>2006</pubdate>
+             <volume>4</volume>
+             <fpage>7</fpage>
+             <lpage>9</lpage>
+             <note> http://www.parkpub.com/about_us/about_us.html
+                      
+                      </note>
+          </bibl>
+          <bibl id="B35">
+             <title>
+                <p>A developmental-contextual model of couples coping with chronic illness across the adult life span</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Berg</snm>
+                   <fnm>CA</fnm>
+                </au>
+                <au>
+                   <snm>Upchurch</snm>
+                   <fnm>R</fnm>
+                </au>
+             </aug>
+             <source>Psychol Bull</source>
+             <pubdate>2007</pubdate>
+             <volume>133</volume>
+             <fpage>920</fpage>
+             <lpage>54</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">17967089</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B36">
+             <title>
+                <p>Quality of couples&#8217; relationship and adjustment to metastatic breast cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Giese-Davis</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Hermanson</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Koopman</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Weibel</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Spiegel</snm>
+                   <fnm>D</fnm>
+                </au>
+             </aug>
+             <source>J Fam Psychol</source>
+             <pubdate>2000</pubdate>
+             <volume>14</volume>
+             <fpage>251</fpage>
+             <lpage>66</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">10870293</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B37">
+             <title>
+                <p>Effects of individual and marital variables on coping with cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hannum</snm>
+                   <fnm>JW</fnm>
+                </au>
+                <au>
+                   <snm>Giese-Davis</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Harding</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Hatfield</snm>
+                   <fnm>AK</fnm>
+                </au>
+             </aug>
+             <source>J Psychosoc Oncol</source>
+             <pubdate>1991</pubdate>
+             <volume>9</volume>
+             <fpage>1</fpage>
+             <lpage>20</lpage>
+          </bibl>
+          <bibl id="B38">
+             <title>
+                <p>A longitudinal study of the adjustment of patients and husbands to breast cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Northouse</snm>
+                   <fnm>L</fnm>
+                </au>
+             </aug>
+             <source>Oncol Nurs Forum</source>
+             <pubdate>1989</pubdate>
+             <volume>16</volume>
+             <fpage>511</fpage>
+             <lpage>6</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">2755858</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B39">
+             <title>
+                <p>The married couple&#8217;s assessment of the experience of early breast cancer- a longitudinal interview study</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Omne-Ponten</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Holmberg</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Sjoden</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Bergstrom</snm>
+                   <fnm>R</fnm>
+                </au>
+             </aug>
+             <source>Psychooncology</source>
+             <pubdate>1995</pubdate>
+             <volume>4</volume>
+             <fpage>183</fpage>
+             <lpage>90</lpage>
+          </bibl>
+          <bibl id="B40">
+             <title>
+                <p>Partners and fellow patients: two sources of emotional support for women with breast cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Pistrang</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Barker</snm>
+                   <fnm>C</fnm>
+                </au>
+             </aug>
+             <source>Am J Community Psychol</source>
+             <pubdate>1998</pubdate>
+             <volume>26</volume>
+             <fpage>439</fpage>
+             <lpage>56</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">9726117</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B41">
+             <title>
+                <p>The interpersonal process model of intimacy: the role of self-disclosure, partner disclosure, and partner responsiveness in interactions between breast cancer patients and their partners</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Manne</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Ostroff</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Rini</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Fox</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Goldstein</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Grana</snm>
+                   <fnm>G</fnm>
+                </au>
+             </aug>
+             <source>J Fam Psychol</source>
+             <pubdate>2004</pubdate>
+             <volume>18</volume>
+             <fpage>589</fpage>
+             <lpage>99</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">15598164</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B42">
+             <title>
+                <p>Social support as conversation: analysing breast cancer patients&#8217; interactions with their partners</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Pistrang</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Barker</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Rutter</snm>
+                   <fnm>C</fnm>
+                </au>
+             </aug>
+             <source>Soc Sci Med</source>
+             <pubdate>1997</pubdate>
+             <volume>45</volume>
+             <fpage>773</fpage>
+             <lpage>82</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">9226800</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B43">
+             <title>
+                <p>Cancer-related relationship communication in couples coping with early stage breast cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Manne</snm>
+                   <fnm>SL</fnm>
+                </au>
+                <au>
+                   <snm>Ostroff</snm>
+                   <fnm>JS</fnm>
+                </au>
+                <au>
+                   <snm>Norton</snm>
+                   <fnm>TR</fnm>
+                </au>
+                <au>
+                   <snm>Fox</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Goldstein</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Grana</snm>
+                   <fnm>G</fnm>
+                </au>
+             </aug>
+             <source>Psychooncology</source>
+             <pubdate>2006</pubdate>
+             <volume>15</volume>
+             <fpage>234</fpage>
+             <lpage>47</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">15926198</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B44">
+             <title>
+                <p>Spouse criticism and support: their association with coping and psychological adjustment among women with rheumatoid arthritis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Manne</snm>
+                   <fnm>SL</fnm>
+                </au>
+                <au>
+                   <snm>Zautra</snm>
+                   <fnm>AJ</fnm>
+                </au>
+             </aug>
+             <source>J Pers Soc Psychol</source>
+             <pubdate>1989</pubdate>
+             <volume>56</volume>
+             <fpage>608</fpage>
+             <lpage>17</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">2709309</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B45">
+             <title>
+                <p>Close relationships and adjustment to a life crisis: the case of breast cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bolger</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Foster</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Vinokur</snm>
+                   <fnm>AD</fnm>
+                </au>
+                <au>
+                   <snm>Ng</snm>
+                   <fnm>R</fnm>
+                </au>
+             </aug>
+             <source>J Pers Soc Psychol</source>
+             <pubdate>1996</pubdate>
+             <volume>70</volume>
+             <fpage>283</fpage>
+             <lpage>94</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">8636883</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B46">
+             <title>
+                <p>Partner support and changes in relationships during life-threatening illness: women&#8217;s perspectives</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Sormanti</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Kayser</snm>
+                   <fnm>K</fnm>
+                </au>
+             </aug>
+             <source>J Psychosoc Oncol</source>
+             <pubdate>2000</pubdate>
+             <volume>18</volume>
+             <fpage>45</fpage>
+             <lpage>66</lpage>
+          </bibl>
+          <bibl id="B47">
+             <title>
+                <p>Relationship vulnerabilities during breast cancer: patient and partner perspectives</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Fergus</snm>
+                   <fnm>KD</fnm>
+                </au>
+                <au>
+                   <snm>Gray</snm>
+                   <fnm>RE</fnm>
+                </au>
+             </aug>
+             <source>Psychooncology</source>
+             <pubdate>2009</pubdate>
+             <volume>18</volume>
+             <fpage>1311</fpage>
+             <lpage>22</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">19353517</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B48">
+             <title>
+                <p>The husband&#8217;s untold account of his wife&#8217;s breast cancer: a chronologic analysis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Samms</snm>
+                   <fnm>MC</fnm>
+                </au>
+             </aug>
+             <source>Oncol Nurs Forum</source>
+             <pubdate>1999</pubdate>
+             <volume>26</volume>
+             <fpage>1351</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">10497774</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B49">
+             <title>
+                <p>Breast cancer in young families: a qualitative interview study of fathers and their role and communication with their children following the diagnosis of maternal breast cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Forrest</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Plumb</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Ziebland</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Stein</snm>
+                   <fnm>A</fnm>
+                </au>
+             </aug>
+             <source>Psychooncology</source>
+             <pubdate>2009</pubdate>
+             <volume>18</volume>
+             <fpage>96</fpage>
+             <lpage>103</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">18618898</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B50">
+             <title>
+                <p>An evaluation of the psychosocial problems of the homebound cancer patient: relationship of patient adjustment to family problems</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Wellisch</snm>
+                   <fnm>DK</fnm>
+                </au>
+                <au>
+                   <snm>Wolcott</snm>
+                   <fnm>DL</fnm>
+                </au>
+                <au>
+                   <snm>Pasnau</snm>
+                   <fnm>RO</fnm>
+                </au>
+                <au>
+                   <snm>Fawzy</snm>
+                   <fnm>FI</fnm>
+                </au>
+                <au>
+                   <snm>Landsverk</snm>
+                   <fnm>JA</fnm>
+                </au>
+             </aug>
+             <source>J Psychosoc Oncol</source>
+             <pubdate>1989</pubdate>
+             <volume>7</volume>
+             <fpage>55</fpage>
+             <lpage>76</lpage>
+          </bibl>
+          <bibl id="B51">
+             <title>
+                <p>Life after cancer: couples&#8217; and partners&#8217; psychological adjustment and supportive care needs</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hodgkinson</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Butow</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Hunt</snm>
+                   <fnm>GE</fnm>
+                </au>
+                <au>
+                   <snm>Wyse</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Hobbs</snm>
+                   <fnm>KM</fnm>
+                </au>
+                <au>
+                   <snm>Wain</snm>
+                   <fnm>G</fnm>
+                </au>
+             </aug>
+             <source>Support Care Cancer</source>
+             <pubdate>2007</pubdate>
+             <volume>15</volume>
+             <fpage>405</fpage>
+             <lpage>15</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">17043776</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B52">
+             <title>
+                <p>Core concerns of couples living with early stage breast cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Shands</snm>
+                   <fnm>ME</fnm>
+                </au>
+                <au>
+                   <snm>Lewis</snm>
+                   <fnm>FM</fnm>
+                </au>
+                <au>
+                   <snm>Sinsheimer</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Cochrane</snm>
+                   <fnm>BB</fnm>
+                </au>
+             </aug>
+             <source>Psychooncology</source>
+             <pubdate>2006</pubdate>
+             <volume>15</volume>
+             <fpage>1055</fpage>
+             <lpage>64</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">16598822</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B53">
+             <title>
+                <p>A couple-based intervention for female breast cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Baucom</snm>
+                   <fnm>DH</fnm>
+                </au>
+                <au>
+                   <snm>Porter</snm>
+                   <fnm>LS</fnm>
+                </au>
+                <au>
+                   <snm>Kirby</snm>
+                   <fnm>JS</fnm>
+                </au>
+                <au>
+                   <snm>Gremore</snm>
+                   <fnm>TM</fnm>
+                </au>
+                <au>
+                   <snm>Wiesenthal</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Aldridge</snm>
+                   <fnm>W</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Psychooncology</source>
+             <pubdate>2009</pubdate>
+             <volume>18</volume>
+             <fpage>276</fpage>
+             <lpage>83</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">18702064</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B54">
+             <title>
+                <p>Postmastectomy couple counseling: an outcome study of a structured treatment protocol</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Christensen</snm>
+                   <fnm>DN</fnm>
+                </au>
+             </aug>
+             <source>J Sex Marital Ther</source>
+             <pubdate>1983</pubdate>
+             <volume>9</volume>
+             <fpage>266</fpage>
+             <lpage>75</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">6663643</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B55">
+             <title>
+                <p>Enhancing Dyadic Coping During a Time of Crisis: a Theory-Based Intervention with Breast Cancer Patients and Their Partners</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kayser</snm>
+                   <fnm>K</fnm>
+                </au>
+             </aug>
+             <source>Couples Coping with Stress: Emerging Perspectives on Dyadic Coping</source>
+             <publisher>American Psychological Association, Washington, DC</publisher>
+             <pubdate>2005</pubdate>
+             <fpage>175</fpage>
+             <lpage>94</lpage>
+          </bibl>
+          <bibl id="B56">
+             <title>
+                <p>Effects of a family intervention on the quality of life of women with recurrent breast cancer and their family caregivers</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Northouse</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Kershaw</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Mood</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Schafenacker</snm>
+                   <fnm>A</fnm>
+                </au>
+             </aug>
+             <source>Psychooncology</source>
+             <pubdate>2005</pubdate>
+             <volume>14</volume>
+             <fpage>478</fpage>
+             <lpage>91</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">15599947</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B57">
+             <title>
+                <p>Do couple-based interventions make a difference for couples affected by cancer? A systematic review</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Regan</snm>
+                   <fnm>TW</fnm>
+                </au>
+                <au>
+                   <snm>Lambert</snm>
+                   <fnm>SD</fnm>
+                </au>
+                <au>
+                   <snm>Girgis</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Kelly</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Kayser</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Turner</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>BMC Cancer</source>
+             <pubdate>2012</pubdate>
+             <volume>12</volume>
+             <fpage>279</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">22769228</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B58">
+             <title>
+                <p>Quantifying the recruitment challenges with couple-based interventions for cancer: applications to early-stage breast cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Fredman</snm>
+                   <fnm>SJ</fnm>
+                </au>
+                <au>
+                   <snm>Baucom</snm>
+                   <fnm>DH</fnm>
+                </au>
+                <au>
+                   <snm>Gremore</snm>
+                   <fnm>TM</fnm>
+                </au>
+                <au>
+                   <snm>Castellani</snm>
+                   <fnm>AM</fnm>
+                </au>
+                <au>
+                   <snm>Kallman</snm>
+                   <fnm>TA</fnm>
+                </au>
+                <au>
+                   <snm>Porter</snm>
+                   <fnm>LS</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Psychooncology</source>
+             <pubdate>2009</pubdate>
+             <volume>18</volume>
+             <fpage>667</fpage>
+             <lpage>73</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">19061201</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B59">
+             <title>
+                <p>Effect of computer support on younger women with breast cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Gustafson</snm>
+                   <fnm>DH</fnm>
+                </au>
+                <au>
+                   <snm>Hawkins</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Pingree</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>McTavish</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Arora</snm>
+                   <fnm>NK</fnm>
+                </au>
+                <au>
+                   <snm>Mendenhall</snm>
+                   <fnm>J</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>J Gen Intern Med</source>
+             <pubdate>2001</pubdate>
+             <volume>16</volume>
+             <fpage>435</fpage>
+             <lpage>45</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">11520380</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B60">
+             <title>
+                <p>Online cancer support groups: a review of the research literature</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Klemm</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Bunnell</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Cullen</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Soneji</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Gibbons</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Holecek</snm>
+                   <fnm>A</fnm>
+                </au>
+             </aug>
+             <source>Comput Inform Nurs</source>
+             <pubdate>2003</pubdate>
+             <volume>21</volume>
+             <fpage>136</fpage>
+             <lpage>42</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">12792194</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B61">
+             <note>McTavish FM, Gustafson DH, Owens BH, Wise M, Taylor JO, Apantaku FM, et al. CHESS: An interactive computer system for women with breast cancer piloted with an under-served population. Proc Annu Symp Comput Appl Med Care. 1994;599<b>&#8211;</b>603.</note>
+          </bibl>
+          <bibl id="B62">
+             <title>
+                <p>Communicating breast cancer on-line: support and empowerment on the Internet</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Sharf</snm>
+                   <fnm>BF</fnm>
+                </au>
+             </aug>
+             <source>Women Health</source>
+             <pubdate>1997</pubdate>
+             <volume>26</volume>
+             <fpage>65</fpage>
+             <lpage>84</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">9311100</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B63">
+             <title>
+                <p>Online help: cancer patients participate in a computer-mediated support group</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Weinberg</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Schmale</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Uken</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Wessel</snm>
+                   <fnm>K</fnm>
+                </au>
+             </aug>
+             <source>Health Soc Work</source>
+             <pubdate>1996</pubdate>
+             <volume>21</volume>
+             <fpage>24</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">8626154</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B64">
+             <title>
+                <p>Evaluation of a computer-based cancer support network</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Fernsler</snm>
+                   <fnm>JI</fnm>
+                </au>
+                <au>
+                   <snm>Manchester</snm>
+                   <fnm>LJ</fnm>
+                </au>
+             </aug>
+             <source>Cancer Pract</source>
+             <pubdate>1997</pubdate>
+             <volume>5</volume>
+             <fpage>46</fpage>
+             <lpage>51</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">9128496</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B65">
+             <title>
+                <p>Internet support groups for depression: a 1-year prospective cohort study</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Houston</snm>
+                   <fnm>TK</fnm>
+                </au>
+                <au>
+                   <snm>Cooper</snm>
+                   <fnm>LA</fnm>
+                </au>
+                <au>
+                   <snm>Ford</snm>
+                   <fnm>DE</fnm>
+                </au>
+             </aug>
+             <source>Am J Psychiatry</source>
+             <pubdate>2002</pubdate>
+             <volume>159</volume>
+             <fpage>2062</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">12450957</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B66">
+             <title>
+                <p>Gender differences on Internet cancer support groups</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Klemm</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Hurst</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Dearholt</snm>
+                   <fnm>SL</fnm>
+                </au>
+                <au>
+                   <snm>Trone</snm>
+                   <fnm>SR</fnm>
+                </au>
+             </aug>
+             <source>Comput Nurs</source>
+             <pubdate>1999</pubdate>
+             <volume>17</volume>
+             <fpage>65</fpage>
+             <lpage>72</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">10194883</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B67">
+             <title>
+                <p>Online support groups for Parkinson&#8217;s patients: a pilot study of effectiveness</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Lieberman</snm>
+                   <fnm>MA</fnm>
+                </au>
+                <au>
+                   <snm>Winzelberg</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Golant</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Wakahiro</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>DiMinno</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Aminoff</snm>
+                   <fnm>M</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Soc Work Health Care</source>
+             <pubdate>2005</pubdate>
+             <volume>42</volume>
+             <fpage>23</fpage>
+             <lpage>38</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">16390834</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B68">
+             <title>
+                <p>Gender accommodation in online cancer support groups</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Seale</snm>
+                   <fnm>C</fnm>
+                </au>
+             </aug>
+             <source>Health</source>
+             <pubdate>2006</pubdate>
+             <volume>10</volume>
+             <fpage>345</fpage>
+             <lpage>60</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">16775019</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B69">
+             <title>
+                <p>Gendered cybersupport: a thematic analysis of two online cancer support groups</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Sullivan</snm>
+                   <fnm>CF</fnm>
+                </au>
+             </aug>
+             <source>J Health Psychol</source>
+             <pubdate>2003</pubdate>
+             <volume>8</volume>
+             <fpage>83</fpage>
+             <lpage>104</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">22113903</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B70">
+             <title>
+                <p>Evaluation of an internet support group for women with primary breast cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Winzelberg</snm>
+                   <fnm>AJ</fnm>
+                </au>
+                <au>
+                   <snm>Classen</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Alpers</snm>
+                   <fnm>GW</fnm>
+                </au>
+                <au>
+                   <snm>Roberts</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Koopman</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Adams</snm>
+                   <fnm>RE</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Cancer</source>
+             <pubdate>2003</pubdate>
+             <volume>97</volume>
+             <fpage>1164</fpage>
+             <lpage>73</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">12599221</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B71">
+             <title>
+                <p>Evaluation of CancerChatCanada: a program of online support for Canadians affected by cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Stephen</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Rojubally</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Macgregor</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>McLeod</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Speca</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Taylor-Brown</snm>
+                   <fnm>J</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Curr Oncol</source>
+             <pubdate>2013</pubdate>
+             <volume>20</volume>
+             <fpage>39</fpage>
+             <lpage>47</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">23443892</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B72">
+             <title>
+                <p>Talking with text: communication in therapist-led, live chat cancer support groups</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Stephen</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Collie</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>McLeod</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Rojubally</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Fergus</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Speca</snm>
+                   <fnm>M</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Soc Sci Med</source>
+             <pubdate>2014</pubdate>
+             <volume>104</volume>
+             <fpage>178</fpage>
+             <lpage>86</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">24581076</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B73">
+             <title>
+                <p>Use and impact of eHealth system by low-income women with breast cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Gustafson</snm>
+                   <fnm>DH</fnm>
+                </au>
+                <au>
+                   <snm>McTavish</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Stengle</snm>
+                   <fnm>W</fnm>
+                </au>
+                <au>
+                   <snm>Ballard</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Hawkins</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Shaw</snm>
+                   <fnm>BR</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>J Health Commun</source>
+             <pubdate>2005</pubdate>
+             <volume>10</volume>
+             <fpage>195</fpage>
+             <lpage>218</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">16377608</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B74">
+             <title>
+                <p>How underserved breast cancer patients use and benefit from eHealth programs: implications for closing the digital divide</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Shaw</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Gustafson</snm>
+                   <fnm>DH</fnm>
+                </au>
+                <au>
+                   <snm>Hawkins</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>McTavish</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>McDowell</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Pingree</snm>
+                   <fnm>S</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Am Behav Sci</source>
+             <pubdate>2006</pubdate>
+             <volume>49</volume>
+             <fpage>823</fpage>
+             <lpage>34</lpage>
+          </bibl>
+          <bibl id="B75">
+             <title>
+                <p>Creating a bond between caregivers online: effect on caregivers&#8217; coping strategies</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Namkoong</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>DuBenske</snm>
+                   <fnm>LL</fnm>
+                </au>
+                <au>
+                   <snm>Shaw</snm>
+                   <fnm>BR</fnm>
+                </au>
+                <au>
+                   <snm>Gustafson</snm>
+                   <fnm>DH</fnm>
+                </au>
+                <au>
+                   <snm>Hawkins</snm>
+                   <fnm>RP</fnm>
+                </au>
+                <au>
+                   <snm>Shah</snm>
+                   <fnm>DV</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>J Health Commun</source>
+             <pubdate>2012</pubdate>
+             <volume>17</volume>
+             <fpage>125</fpage>
+             <lpage>40</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">22004055</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B76">
+             <title>
+                <p>Therapeutic groups online: the good, the bad, and the unknown</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Finfgeld</snm>
+                   <fnm>DL</fnm>
+                </au>
+             </aug>
+             <source>Issues Ment Health Nurs</source>
+             <pubdate>2000</pubdate>
+             <volume>21</volume>
+             <fpage>241</fpage>
+             <lpage>55</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">11075065</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B77">
+             <title>
+                <p>On-line medical information and service delivery: implications for health education</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Oravec</snm>
+                   <fnm>JA</fnm>
+                </au>
+             </aug>
+             <source>Health Educ J</source>
+             <pubdate>2000</pubdate>
+             <volume>31</volume>
+             <fpage>105</fpage>
+             <lpage>10</lpage>
+          </bibl>
+          <bibl id="B78">
+             <title>
+                <p>Improving the effectiveness of adjuvant psychological treatment for women with breast cancer: the feasibility of providing online support</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Owen</snm>
+                   <fnm>JE</fnm>
+                </au>
+                <au>
+                   <snm>Klapow</snm>
+                   <fnm>JC</fnm>
+                </au>
+                <au>
+                   <snm>Roth</snm>
+                   <fnm>DL</fnm>
+                </au>
+                <au>
+                   <snm>Nabell</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Tucker</snm>
+                   <fnm>DC</fnm>
+                </au>
+             </aug>
+             <source>Psychooncology</source>
+             <pubdate>2004</pubdate>
+             <volume>13</volume>
+             <fpage>281</fpage>
+             <lpage>92</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">15054732</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B79">
+             <title>
+                <p>College men&#8217;s health: an overview and a call to action</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Courtenay</snm>
+                   <fnm>WH</fnm>
+                </au>
+             </aug>
+             <source>J Am Coll Health</source>
+             <pubdate>1998</pubdate>
+             <volume>46</volume>
+             <fpage>279</fpage>
+             <lpage>90</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">9609975</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B80">
+             <title>
+                <p>A thirteen-year comparison in patterns of attitudes toward counseling</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Rule</snm>
+                   <fnm>WR</fnm>
+                </au>
+                <au>
+                   <snm>Gandy</snm>
+                   <fnm>GL</fnm>
+                </au>
+             </aug>
+             <source>Adolescence</source>
+             <pubdate>1994</pubdate>
+             <volume>29</volume>
+             <fpage>575</fpage>
+             <lpage>89</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">7832022</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B81">
+             <title>
+                <p>Differential use by male and female students of the counselling service of an Australian tertiary college: implications for service design and counselling models</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Robertson</snm>
+                   <fnm>MF</fnm>
+                </au>
+             </aug>
+             <source>Int J Adv Counsel</source>
+             <pubdate>1988</pubdate>
+             <volume>11</volume>
+             <fpage>231</fpage>
+             <lpage>40</lpage>
+          </bibl>
+          <bibl id="B82">
+             <title>
+                <p>The couple&#8217;s mutual identity and reflexivity: a systematic-constructivist approach to the integration of persons and systems</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Fergus</snm>
+                   <fnm>KD</fnm>
+                </au>
+                <au>
+                   <snm>Reid</snm>
+                   <fnm>DW</fnm>
+                </au>
+             </aug>
+             <source>J Psychother Integr</source>
+             <pubdate>2001</pubdate>
+             <volume>11</volume>
+             <fpage>385</fpage>
+             <lpage>410</lpage>
+          </bibl>
+          <bibl id="B83">
+             <title>
+                <p>Therapeutically induced changes in couple identity: the role of we-ness and interpersonal processing in relationship satisfaction</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Reid</snm>
+                   <fnm>DW</fnm>
+                </au>
+                <au>
+                   <snm>Dalton</snm>
+                   <fnm>EJ</fnm>
+                </au>
+                <au>
+                   <snm>Laderoute</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Doell</snm>
+                   <fnm>FK</fnm>
+                </au>
+                <au>
+                   <snm>Nguyen</snm>
+                   <fnm>T</fnm>
+                </au>
+             </aug>
+             <source>Genet Soc Gen Psychol Monogr</source>
+             <pubdate>2006</pubdate>
+             <volume>132</volume>
+             <fpage>241</fpage>
+             <lpage>84</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">17970000</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B84">
+             <title>
+                <p>Systemic-constructivist couple therapy (SCCT): description of approach, theoretical advances, and published longitudinal evidence</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Reid</snm>
+                   <fnm>DW</fnm>
+                </au>
+                <au>
+                   <snm>Doell</snm>
+                   <fnm>FK</fnm>
+                </au>
+                <au>
+                   <snm>Dalton</snm>
+                   <fnm>EJ</fnm>
+                </au>
+                <au>
+                   <snm>Ahmad</snm>
+                   <fnm>S</fnm>
+                </au>
+             </aug>
+             <source>Psychotherapy</source>
+             <pubdate>2008</pubdate>
+             <volume>45</volume>
+             <fpage>477</fpage>
+             <lpage>90</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">22122535</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B85">
+             <title>
+                <p>In sickness and in health: the impact of illness on couples&#8217; relationships</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Rolland</snm>
+                   <fnm>JS</fnm>
+                </au>
+             </aug>
+             <source>J Marital Fam Ther</source>
+             <pubdate>1994</pubdate>
+             <volume>20</volume>
+             <fpage>327</fpage>
+             <lpage>47</lpage>
+          </bibl>
+          <bibl id="B86">
+             <title>
+                <p>Integrating constructivist and systemic metatheory in family therapy</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Fergus</snm>
+                   <fnm>KD</fnm>
+                </au>
+                <au>
+                   <snm>Reid</snm>
+                   <fnm>DW</fnm>
+                </au>
+             </aug>
+             <source>J Constr Psychol</source>
+             <pubdate>2002</pubdate>
+             <volume>15</volume>
+             <fpage>41</fpage>
+             <lpage>63</lpage>
+          </bibl>
+          <bibl id="B87">
+             <note>Reid D, Ahmad S. Identification with the Relationship as Essential to Marital Resilience: Theory, Application, and Evidence. In: Couple Resilience Across the Lifespan: Emerging Perspectives<it>.</it> Edited by Skerrett K, Fergus K. Netherlands: Springer SBM; 2015. in press.</note>
+          </bibl>
+          <bibl id="B88">
+             <title>
+                <p>Cancer as a &#8220;we-disease&#8221;: examining the process of coping from a relational perspective</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kayser</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Watson</snm>
+                   <fnm>LE</fnm>
+                </au>
+                <au>
+                   <snm>Andrade</snm>
+                   <fnm>JT</fnm>
+                </au>
+             </aug>
+             <source>Fam Syst Health</source>
+             <pubdate>2007</pubdate>
+             <volume>25</volume>
+             <fpage>404</fpage>
+             <lpage>18</lpage>
+          </bibl>
+          <bibl id="B89">
+             <title>
+                <p>Couple dialogues with illness: expanding the &#8220;we&#8221;</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Skerrett</snm>
+                   <fnm>K</fnm>
+                </au>
+             </aug>
+             <source>Fam Syst Health</source>
+             <pubdate>2003</pubdate>
+             <volume>21</volume>
+             <fpage>69</fpage>
+             <lpage>80</lpage>
+          </bibl>
+          <bibl id="B90">
+             <note>Skerrett K. Resilience in Couple Relationships: a View of the Landscape. In: Couple Resilience Across the Lifespan: Emerging Perspectives<it>.</it> Edited by Skerrett K, Fergus K. Netherlands: Springer SBM; 2015. in press.</note>
+          </bibl>
+          <bibl id="B91">
+             <title>
+                <p>Dyadic Coping and its Significance for Marital Functioning</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bodenmann</snm>
+                   <fnm>G</fnm>
+                </au>
+             </aug>
+             <source>Couples Coping with Stress: Emerging Perspectives on Dyadic Coping</source>
+             <publisher>American Psychological Association, Washington, DC</publisher>
+             <pubdate>2005</pubdate>
+             <fpage>33</fpage>
+             <lpage>49</lpage>
+          </bibl>
+          <bibl id="B92">
+             <note>Fergus KD. Theoretical and Methodological Underpinnings of Resilience in Couples: Locating the &#8216;We&#8217;. In: Couple Resilience Across the Lifespan: Emerging Perspectives<it>.</it> Edited by Skerrett K, Fergus K. Netherlands: Springer SBM; 2015. in press.</note>
+          </bibl>
+          <bibl id="B93">
+             <title>
+                <p>Dyadic coping in metastatic breast cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Badr</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Carmack</snm>
+                   <fnm>CL</fnm>
+                </au>
+                <au>
+                   <snm>Kashy</snm>
+                   <fnm>DA</fnm>
+                </au>
+                <au>
+                   <snm>Cristofanilli</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Revenson</snm>
+                   <fnm>TA</fnm>
+                </au>
+             </aug>
+             <source>Health Psychol</source>
+             <pubdate>2010</pubdate>
+             <volume>29</volume>
+             <fpage>169</fpage>
+             <lpage>80</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">20230090</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B94">
+             <title>
+                <p>Couple adjustment to the experience of breast cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Skerrett</snm>
+                   <fnm>K</fnm>
+                </au>
+             </aug>
+             <source>Fam Syst Health</source>
+             <pubdate>1998</pubdate>
+             <volume>16</volume>
+             <fpage>281</fpage>
+             <lpage>98</lpage>
+          </bibl>
+          <bibl id="B95">
+             <title>
+                <p>Couples who get closer after breast cancer: frequency and predictors in a prospective investigation</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Dorval</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Guay</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Mondor</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Masse</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Falardeau</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Robidoux</snm>
+                   <fnm>A</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>J Clin Oncol</source>
+             <pubdate>2005</pubdate>
+             <volume>23</volume>
+             <fpage>3588</fpage>
+             <lpage>96</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">15908669</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B96">
+             <aug>
+                <au>
+                   <snm>Gottman</snm>
+                   <fnm>JM</fnm>
+                </au>
+             </aug>
+             <source>The Marriage Clinic: A Scientifically Based Marital Therapy</source>
+             <publisher>WW Norton &amp; Co, New York</publisher>
+             <pubdate>1999</pubdate>
+          </bibl>
+          <bibl id="B97">
+             <title>
+                <p>Development and pilot testing of an online intervention to support young couples&#8217; coping and adjustment to breast cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Fergus</snm>
+                   <fnm>KD</fnm>
+                </au>
+                <au>
+                   <snm>McLeod</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Carter</snm>
+                   <fnm>W</fnm>
+                </au>
+                <au>
+                   <snm>Warner</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Gardner</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Granek</snm>
+                   <fnm>L</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Eur J Cancer Care</source>
+             <pubdate>2014</pubdate>
+             <volume>24</volume>
+             <fpage>481</fpage>
+             <lpage>92</lpage>
+          </bibl>
+          <bibl id="B98">
+             <aug>
+                <au>
+                   <snm>Fergus</snm>
+                   <fnm>KD</fnm>
+                </au>
+                <au>
+                   <snm>Carter</snm>
+                   <fnm>W</fnm>
+                </au>
+                <au>
+                   <snm>McLeod</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Lewin</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>Couplelinks Program Facilitation Manual</source>
+             <publisher>Department of Psychology, York University, Toronto, Ontario</publisher>
+             <pubdate>2011</pubdate>
+          </bibl>
+          <bibl id="B99">
+             <title>
+                <p>A revision of the Dyadic Adjustment Scale for use with distressed and nondistressed couples: construct hierarchy and multidimensional scales</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Busby</snm>
+                   <fnm>DM</fnm>
+                </au>
+                <au>
+                   <snm>Crane</snm>
+                   <fnm>DR</fnm>
+                </au>
+                <au>
+                   <snm>Larson</snm>
+                   <fnm>JH</fnm>
+                </au>
+                <au>
+                   <snm>Christensen</snm>
+                   <fnm>C</fnm>
+                </au>
+             </aug>
+             <source>J Marital Fam Ther</source>
+             <pubdate>1995</pubdate>
+             <volume>21</volume>
+             <fpage>289</fpage>
+             <lpage>308</lpage>
+          </bibl>
+          <bibl id="B100">
+             <title>
+                <p>Measuring dyadic adjustment: new scales for assessing the quality of marriage and similar dyads</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Spanier</snm>
+                   <fnm>GB</fnm>
+                </au>
+             </aug>
+             <source>J Marriage Fam</source>
+             <pubdate>1976</pubdate>
+             <volume>38</volume>
+             <fpage>15</fpage>
+             <lpage>28</lpage>
+          </bibl>
+          <bibl id="B101">
+             <title>
+                <p>Concurrent and discriminant validity of the Kansas Marital Satisfaction Scale</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Schumm</snm>
+                   <fnm>WR</fnm>
+                </au>
+                <au>
+                   <snm>Paff-Bergen</snm>
+                   <fnm>LA</fnm>
+                </au>
+                <au>
+                   <snm>Hatch</snm>
+                   <fnm>RC</fnm>
+                </au>
+                <au>
+                   <snm>Obiorah</snm>
+                   <fnm>FC</fnm>
+                </au>
+                <au>
+                   <snm>Copeland</snm>
+                   <fnm>JM</fnm>
+                </au>
+                <au>
+                   <snm>Meens</snm>
+                   <fnm>LD</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>J Marriage Fam</source>
+             <pubdate>1986</pubdate>
+             <volume>48</volume>
+             <fpage>381</fpage>
+             <lpage>7</lpage>
+          </bibl>
+          <bibl id="B102">
+             <title>
+                <p>On the psychometric properties of the Maudsley Marital Questionnaire (MMQ): evaluation of self-ratings in distressed and &#8220;normal&#8221; volunteer couples based on the Dutch version</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Arrindell</snm>
+                   <fnm>WA</fnm>
+                </au>
+                <au>
+                   <snm>Boelens</snm>
+                   <fnm>W</fnm>
+                </au>
+                <au>
+                   <snm>Lambert</snm>
+                   <fnm>H</fnm>
+                </au>
+             </aug>
+             <source>Pers Individ Dif</source>
+             <pubdate>1983</pubdate>
+             <volume>4</volume>
+             <fpage>293</fpage>
+             <lpage>306</lpage>
+          </bibl>
+          <bibl id="B103">
+             <title>
+                <p>Construct validation of the hospital anxiety and depression scale with clinical populations</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Johnston</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Pollard</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Hennessey</snm>
+                   <fnm>P</fnm>
+                </au>
+             </aug>
+             <source>J Psychosom Res</source>
+             <pubdate>2000</pubdate>
+             <volume>48</volume>
+             <fpage>579</fpage>
+             <lpage>84</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">11033377</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B104">
+             <title>
+                <p>Hospital Anxiety and Depression Scale (HAD): some psychometric data for a Swedish sample</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Lisspers</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Nygren</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>S&#246;derman</snm>
+                   <fnm>E</fnm>
+                </au>
+             </aug>
+             <source>Acta Psychiatr Scand</source>
+             <pubdate>1997</pubdate>
+             <volume>96</volume>
+             <fpage>281</fpage>
+             <lpage>6</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">9350957</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B105">
+             <title>
+                <p>Reliability and validity of the functional assessment of cancer therapy-breast quality-of-life instrument</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Brady</snm>
+                   <fnm>MJ</fnm>
+                </au>
+                <au>
+                   <snm>Cella</snm>
+                   <fnm>DF</fnm>
+                </au>
+                <au>
+                   <snm>Mo</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Bonomi</snm>
+                   <fnm>AE</fnm>
+                </au>
+                <au>
+                   <snm>Tulsky</snm>
+                   <fnm>DS</fnm>
+                </au>
+                <au>
+                   <snm>Lloyd</snm>
+                   <fnm>SR</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>J Clin Oncol</source>
+             <pubdate>1997</pubdate>
+             <volume>15</volume>
+             <fpage>974</fpage>
+             <lpage>86</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">9060536</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B106">
+             <title>
+                <p>Psychometrics of the Dyadic Coping Inventory in three language groups</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Ledermann</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Bodenmann</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Gagliardi</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Charvoz</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Verardi</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Rossier</snm>
+                   <fnm>J</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Swiss J Psychol</source>
+             <pubdate>2010</pubdate>
+             <volume>69</volume>
+             <fpage>201</fpage>
+             <lpage>12</lpage>
+          </bibl>
+          <bibl id="B107">
+             <title>
+                <p>Psychometric properties of the credibility/expectancy questionnaire</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Devilly</snm>
+                   <fnm>GJ</fnm>
+                </au>
+                <au>
+                   <snm>Borkovec</snm>
+                   <fnm>TD</fnm>
+                </au>
+             </aug>
+             <source>J Behav Ther Exp Psychiatry</source>
+             <pubdate>2000</pubdate>
+             <volume>31</volume>
+             <fpage>73</fpage>
+             <lpage>86</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">11132119</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B108">
+             <title>
+                <p>SUS: a Quick and Dirty Usability Scale</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Brooke</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>Usability Evaluation in Industry</source>
+             <publisher>Taylor &amp; Francis, London</publisher>
+             <editor>Jordan PW, Thomas B, Weermeester BA, McClelland IL</editor>
+             <pubdate>1996</pubdate>
+          </bibl>
+          <bibl id="B109">
+             <title>
+                <p>Using multilevel models to analyze couple and family treatment data: basic and advanced issues</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Atkins</snm>
+                   <fnm>DC</fnm>
+                </au>
+             </aug>
+             <source>J Fam Psychol</source>
+             <pubdate>2005</pubdate>
+             <volume>19</volume>
+             <fpage>98</fpage>
+             <lpage>110</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">15796656</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B110">
+             <note>NCSS Statistical Software: Power Analysis and Sample Size Software (PASS 11) 2011. [<url>http://www.ncss.com</url>]</note>
+          </bibl>
+          <bibl id="B111">
+             <title>
+                <p>United we stand? The effects of a couple-coping intervention on adjustment to early stage breast or gynecological cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Scott</snm>
+                   <fnm>JL</fnm>
+                </au>
+                <au>
+                   <snm>Halford</snm>
+                   <fnm>WK</fnm>
+                </au>
+                <au>
+                   <snm>Ward</snm>
+                   <fnm>BG</fnm>
+                </au>
+             </aug>
+             <source>J Consult Clin Psychol</source>
+             <pubdate>2004</pubdate>
+             <volume>72</volume>
+             <fpage>1122</fpage>
+             <lpage>35</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">15612858</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+       </refgrp>
+    </bm>
+ </art>

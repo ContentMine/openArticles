@@ -1,0 +1,1173 @@
+<?xml version='1.0'?>
+<!DOCTYPE art SYSTEM 'http://www.biomedcentral.com/xml/article.dtd'>
+<art>
+    <ui>s13063-015-0572-x</ui>
+    <ji>1745-6215</ji>
+    <fm>
+       <dochead>Study protocol</dochead>
+       <bibl>
+          <title>
+             <p>Effect of suture technique on the occurrence of incisional hernia after elective midline abdominal wall closure: study protocol for a randomized controlled trial</p>
+          </title>
+          <aug>
+             <au id="A1" ca="yes">
+                <snm>Fortelny</snm>
+                <mi>H</mi>
+                <fnm>Ren&#233;</fnm>
+                <insr iid="I1"/>
+                <email>rene.fortelny@wienkav.at</email>
+             </au>
+             <au id="A2">
+                <snm>Baumann</snm>
+                <fnm>Petra</fnm>
+                <insr iid="I2"/>
+                <email>petra.baumann@aesculap.de</email>
+             </au>
+             <au id="A3">
+                <snm>Thasler</snm>
+                <mi>E</mi>
+                <fnm>Wolfgang</fnm>
+                <insr iid="I3"/>
+                <email>wolfgang.thasler@med.uni-muenchen.de</email>
+             </au>
+             <au id="A4">
+                <snm>Albertsmeier</snm>
+                <fnm>Markus</fnm>
+                <insr iid="I3"/>
+                <email>markus.albertsmeier@med.uni-muenchen.de</email>
+             </au>
+             <au id="A5">
+                <snm>Riedl</snm>
+                <fnm>Stefan</fnm>
+                <insr iid="I4"/>
+                <email>stefan.riedl@af-k.de</email>
+             </au>
+             <au id="A6">
+                <snm>Steurer</snm>
+                <fnm>Wolfgang</fnm>
+                <insr iid="I5"/>
+                <email>wolfgang.steurer@rbk.de</email>
+             </au>
+             <au id="A7">
+                <snm>Kewer</snm>
+                <mnm>Ludolf</mnm>
+                <fnm>Jan</fnm>
+                <insr iid="I6"/>
+                <email>j.kewer@klinikum-tut.de</email>
+             </au>
+             <au id="A8" ca="yes">
+                <snm>Shamiyeh</snm>
+                <fnm>Andreas</fnm>
+                <insr iid="I7"/>
+                <email>chirurgie2@akh.linz.at</email>
+             </au>
+          </aug>
+          <insg>
+             <ins id="I1">
+                <p>Department of Surgery, Wilhelminenspital, Montleartstrasse 37, Vienna, 1160, Austria</p>
+             </ins>
+             <ins id="I2">
+                <p>Department of Medical Scientific Affairs, Aesculap AG, Am Aesculap Platz, Tuttlingen, 78532, Germany</p>
+             </ins>
+             <ins id="I3">
+                <p>Department of General, Visceral, Transplantation, Vascular and Thoracic Surgery, Grosshadern Hospital, Ludwig Maximilian University, Marchioninistrasse 15, Munich, 81377, Germany</p>
+             </ins>
+             <ins id="I4">
+                <p>Department of Surgery, ALP FILS Kliniken, Eichertstrasse 3, G&#246;ppingen, 73035, Germany</p>
+             </ins>
+             <ins id="I5">
+                <p>Department of Surgery, Robert Bosch Krankenhaus, Auerbachstrasse 110, Stuttgart, 70376, Germany</p>
+             </ins>
+             <ins id="I6">
+                <p>Department of Surgery, Klinikum Landkreis Tuttlingen, Zeppelinstrasse 21, Tuttlingen, 78532, Germany</p>
+             </ins>
+             <ins id="I7">
+                <p>Department of Surgery, AKh Linz, Krankenhausstrasse 9, Linz, 4021, Austria</p>
+             </ins>
+          </insg>
+          <source>Trials</source>
+          <issn>1745-6215</issn>
+          <pubdate>2015</pubdate>
+          <volume>16</volume>
+          <issue>1</issue>
+          <fpage>52</fpage>
+          <url>http://www.trialsjournal.com/content/16/1/52</url>
+          <xrefbib>
+             <pubidlist>
+                <pubid idtype="doi">10.1186/s13063-015-0572-x</pubid>
+             </pubidlist>
+          </xrefbib>
+       </bibl>
+       <history>
+          <rec>
+             <date>
+                <day>20</day>
+                <month>8</month>
+                <year>2014</year>
+             </date>
+          </rec>
+          <acc>
+             <date>
+                <day>20</day>
+                <month>1</month>
+                <year>2015</year>
+             </date>
+          </acc>
+          <pub>
+             <date>
+                <day>15</day>
+                <month>2</month>
+                <year>2015</year>
+             </date>
+          </pub>
+       </history>
+       <cpyrt>
+          <year>2015</year>
+          <collab>Fortelny et al.; licensee BioMed Central.</collab>
+          <note>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/4.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (<url>http://creativecommons.org/publicdomain/zero/1.0/</url>) applies to the data made available in this article, unless otherwise stated.</note>
+       </cpyrt>
+       <kwdg>
+          <kwd>Abdominal wall closure</kwd>
+          <kwd>Incisional hernia</kwd>
+          <kwd>Laparotomy</kwd>
+          <kwd>Large bites</kwd>
+          <kwd>Small bites</kwd>
+          <kwd>Suture technique</kwd>
+       </kwdg>
+       <abs>
+          <sec>
+             <st>
+                <p>Abstract</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Background</p>
+                </st>
+                <p>Based on a recent meta-analysis, a continuous suture technique with a suture to wound length ratio of at least 4:1, using a slowly absorbable monofilament suture material, is recommended for primary median laparotomy closure. Incisional hernia, which develops in 9 to 20% of patients, remains the major complication of abdominal wall closure. Current clinical data indicate that the incidence of incisional hernias increases by 60% between the first and the third year after median laparotomy, implicating that a follow-up period of 1&#160;year postoperatively is too short with regard to this common complication. Trauma to the abdominal wall can be reduced by improvements in suture technique as well as suture material. Several factors, such as stitch length, suture tension, elasticity, and tensile strength of the suture material are discussed and currently under investigation. A Swedish randomized controlled trial showed a significant reduction in the incisional hernia rate by shortening the stitch length. However, a non-elastic thread was used and follow-up ended after 12&#160;months. Therefore, we designed a multicenter, international, double-blinded, randomized trial to analyze the influence of stitch length, using an elastic, extra-long term absorbable monofilament suture, on the long term clinical outcome of abdominal wall closure.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Methods</p>
+                </st>
+                <p>In total, 468 patients undergoing an elective, median laparotomy will be randomly allocated to either the short stitch or the long stitch suture technique for abdominal wall closure in a 1:1 ratio. Centers located in Germany and Austria will participate. The primary endpoint measure is the incisional hernia rate 1&#160;year postoperatively, as verified by ultrasound. The frequency of short term and long term complications as well as costs, length of hospital stay and patients&#8217; quality of life (EQ-5D-5&#160;L) will be considered as secondary parameters. Following hospital discharge, patients will be examined after 30&#160;days and 1, 3, and 5&#160;years after surgery.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Discussion</p>
+                </st>
+                <p>This study will provide further evidence on whether a short stitch suture technique in combination with an elastic, extra-long term absorbable monofilament suture can prevent incisional hernias in the long term, compared with the long stitch suture technique.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Trial registration</p>
+                </st>
+                <p>
+                    <url>NCT01965249</url>.</p>
+             </sec>
+          </sec>
+       </abs>
+    </fm>
+    <bdy>
+       <sec>
+          <st>
+             <p>Background</p>
+          </st>
+          <p>The risk of developing an incisional hernia after primary elective median laparotomy is reported in the literature as being between 9 and 20% <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>. Among multiple risk factors, the malfunction or delay of collagen synthesis appears to be of utmost relevance. Friedman <it>et al.</it> 
+             <abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp> showed direct correlation between a reduced collagen I/III quotient and the development of an unstable scar, based on immature, less mechanically stable, collagen 1. Obesity, steroid therapy, malnutrition, nicotine use, and connective tissue diseases are undeniably further main risk factors. But how should other factors, such as closure technique, suture material, or surgical experience, be interpreted in this context? Despite the paradigm shift in hernia surgery triggered in the beginning of the 1980s, which was initiated with the first documented use of plastic meshes by Usher <abbrgrp>
+                <abbr bid="B3">3</abbr>
+             </abbrgrp>, the problem of ensuring appropriate closure of the median laparotomy has not yet been satisfactorily solved. This issue still remains a topic of controversial discussion.</p>
+          <p>Since the publications of the Swedish group of Leif Israelsson <abbrgrp>
+                <abbr bid="B4">4</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B5">5</abbr>
+             </abbrgrp> in 1993, the continuous closure technique with a defined suture/wound length ratio of 4:1 has increasingly been used <abbrgrp>
+                <abbr bid="B4">4</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B5">5</abbr>
+             </abbrgrp>. For a long time, discussions regarding the ideal suture revolved around whether it should be &#8216;non- or slowly absorbable&#8217;. After numerous studies and meta-analyses <abbrgrp>
+                <abbr bid="B6">6</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B8">8</abbr>
+             </abbrgrp>, conducted most recently by Diener <it>et al.</it> 
+             <abbrgrp>
+                <abbr bid="B9">9</abbr>
+             </abbrgrp>, the evidence for the ideal primary abdominal closure seem to have been adequately established. Based on the most recent meta-analysis of primary laparotomy closure, the continuous suture technique with a suture to wound length ratio of at least 4:1, using a monofilament, slowly absorbable suture can be considered state of the art.</p>
+          <p>Minimization of trauma to the abdominal wall is the most important consideration in terms of improvement of surgical technique and suture material used. According to the biomechanical principles of abdominal wall tension, the distribution of suture tension over small tissue bridges using the appropriate needle size and suture strength to minimize tissue trauma is the most promising approach <abbrgrp>
+                <abbr bid="B10">10</abbr>
+             </abbrgrp>. In addition to the surgical technique, the elasticity of the suture material is a further critical factor in preventing so-called &#8216;buttonholes&#8217;, according to physiological studies of the abdominal wall. Taking into account the results of experimental studies by H&#246;er <it>et al.</it> 
+             <abbrgrp>
+                <abbr bid="B11">11</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B12">12</abbr>
+             </abbrgrp>, the association of different closure techniques and abdominal wall perfusions leading to different collagen ratios seems to be crucial in terms of creating a stable scar.</p>
+          <p>Based on these facts, the use of a monofilament suture material with a high elasticity in combination with a long-lasting basic retention strength as well as an extra-long absorption time of 390&#160;days (MonoMax&#174;, B. Braun Surgical SA, Rubi, Spain) seems to bear a significant potential for the improvement of abdominal wall suture stability <abbrgrp>
+                <abbr bid="B13">13</abbr>
+             </abbrgrp>. This suture material might further improve the promising results of Millbourn&#8217;s randomized controlled trial <abbrgrp>
+                <abbr bid="B14">14</abbr>
+             </abbrgrp> and will, therefore, by used in our multicenter, randomized controlled trial, which is aimed at comparing the long term clinical outcome of small versus large bite closure techniques after primary median laparotomies.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Methods</p>
+          </st>
+          <sec>
+             <st>
+                <p>Study design</p>
+             </st>
+             <p>The Effect of Suture Technique on the Occurrence of Incisional Hernia (ESTOIH) study is a prospective, international, multicenter, double-blinded, randomized controlled trial, aimed at evaluating the efficacy of the short stitch suture technique using an elastic, extra-long term absorbable monofilament suture (MonoMax&#174;) after primary median laparotomy, in comparison with the long stitch suture technique.</p>
+             <p>In total, 468 patients will be enrolled in seven centers located in Germany and Austria. Patients will be randomly allocated to receive either the short or the long stitch suture technique for abdominal wall closure in a 1:1 ratio. The surgical procedure used to close the abdomen will be standardized in both suture technique groups and the participating centers will be trained in the different suture techniques.</p>
+             <p>After the operative procedure, the investigator will examine the patients on the second day after surgery, on the day of discharge, and at 30&#160;days &#177;10&#160;days, 1&#160;year &#177;1&#160;month, 3&#160;years &#177;3&#160;months and 5&#160;years &#177;3&#160;months postoperatively. Patients and observers performing the follow-up visits will be unaware of the suture technique (double-blinded) used. The study will last 5&#160;years for each patient (Figures&#160;<figr fid="F1">1</figr> and <figr fid="F2">2</figr>).
+                    
+                  </p>
+             
+                <fig id="F1">
+                   <title>
+                      <p>Figure 1</p>
+                   </title>
+                   <caption>
+                      <p>CONSORT flow chart. </p>
+                   </caption>
+                   <text>
+                      <p>
+                            <b>CONSORT flow chart.</b>                          
+                      </p>
+                   </text>
+                   <graphic file="s13063-015-0572-x-1"/>
+                </fig>
+             
+             
+                <fig id="F2">
+                   <title>
+                      <p>Figure 2</p>
+                   </title>
+                   <caption>
+                      <p>SPIRIT diagram. </p>
+                   </caption>
+                   <text>
+                      <p>
+                            <b>SPIRIT diagram.</b> SPIRIT, Standard Protocol Items: Recommendations for Interventional Trials.</p>
+                   </text>
+                   <graphic file="s13063-015-0572-x-2"/>
+                </fig>
+             
+          </sec>
+          <sec>
+             <st>
+                <p>Participants</p>
+             </st>
+             <p>Patients at least 18&#160;years of age undergoing an elective primary median laparotomy, with an incision length of &#8805;15&#160;cm and an expected survival time longer than 1&#160;year, and with an American Society of Anesthesiologists (ASA) status of I to III are eligible for this trial. After approval of the study protocol by the local ethics committee, patients will be screened consecutively for possible eligibility in the participating centers. All patients who seem to meet the in- and exclusion criteria will be asked whether they are willing to participate in the ESTOIH study and will be informed about the purpose of the trial. Written informed consent has to be obtained from each enrolled patient before the operation.</p>
+             <p>Exclusion criteria are:</p><p> Emergency surgery,</p>
+                <p> Body mass index &#8805;30&#160;kg/m<sup>2</sup>,</p>
+                <p> Pancreatic tumor patients,</p>
+                <p> Patients who will be operated on owing to an abdominal aortic aneurysm,</p>
+                <p> Peritonitis,</p>
+                <p> Coagulopathy,</p>
+                <p> Current immunosuppressive therapy (more than 40&#160;mg of a corticoid per day or azathioprine),</p>
+                <p> Chemotherapy within 2&#160;weeks before operation,</p>
+                <p> Radiotherapy of the abdomen within 6&#160;weeks before operation,</p>
+                <p> Pregnant women,</p>
+                <p> Severe neurologic and psychiatric disease,</p>
+                <p> Lack of compliance.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Randomization</p>
+             </st>
+             <p>Eligible patients will be randomly allocated to receive either the short or the long stitch suture technique in a 1:1 ratio by opening a sealed opaque envelope. Envelopes are supplied by the sponsor, according to a randomization list provided by a statistician using the statistical software SAS 9.1. A separate randomization list was prepared for each participating center, to avoid center-specific effects and to assure a balanced distribution of both treatments within one center (stratification). Random blocks of different lengths were used. The randomization lists are sealed and locked up at the sponsor site. The envelopes will be assigned to the patients in chronological order by a surgeon, according to a consecutive random number.</p>
+             <p>Each envelope contains the device (suture material for the indented suture technique) as well as the information about which stitch technique should be applied for abdominal wall closure. Randomization is performed intraoperatively and briefly before abdominal wall closure. After randomization, each patient obtains a unique randomization number. The study site confirms the randomization result by sending a fax to the sponsor.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Blinding</p>
+             </st>
+             <p>The treatment allocation is double-blinded. The patient and the observer responsible for the assessment of the clinical outcome will be unaware of the stitch length used for closing the midline and will have no access to the case report form. To document the clinical outcome of each follow-up examination, the sheets will be handed to the observer by an independent person (for example, a study nurse). The surgeons cannot be blinded because they have to know which suture length has to be applied for midline closure.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Interventions</p>
+             </st>
+             <p>In both study groups, the abdominal wall closure will be performed using MonoMax&#174; suture material (B. Braun Surgical SA, 08191 Rubi, Spain), an elastic, extra-long term absorbable, monofilament suture made of poly(4-hydroxybutyrate). In the long stitch group, a MonoMax&#174; USP 1 loop in combination with a HR 48 needle will be used, and in the short stich group, a MonoMax&#174; USP 2/0 single thread will be used in combination with a HR 26 needle. Details of the suture technique are shown in Table&#160;<tblr tid="T1">1</tblr>.
+                  </p>
+             
+                <table id="T1">
+                   <title>
+                      <p>Table 1</p>
+                   </title>
+                   <caption>
+                      <p>
+                            <b>Comparison short stitch versus long stitch suture technique</b>                          
+                      </p>
+                   </caption>
+                   <tgroup align="left" cols="3">
+                      <colspec align="left" colname="c1" colnum="1" colwidth="*"/>
+                      <colspec colname="c2" colnum="2" colwidth="*"/>
+                      <colspec colname="c3" colnum="3" colwidth="*"/>
+                      <thead>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>
+                                  <b>Parameter</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>
+                                  <b>Long stitch technique</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>
+                                  <b>Short stitch technique</b>                              
+                               </p>
+                            </entry>
+                         </row>
+                      </thead>
+                      <tbody>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>
+                                  <b>Suture material</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Product</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>MonoMax&#174;</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>MonoMax&#174;</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>USP size</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>USP 1</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>USP 2/0</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Length of thread</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>150&#160;cm loop</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>150&#160;cm single thread</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Needle</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>HR 48</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>HR 26</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>
+                                  <b>Suture technique</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Stitch interval</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>10&#160;mm</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>5&#160;mm</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Distance from median wound incision to stitch site</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>10&#160;mm</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>5 to 8&#160;mm</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Suture length/wound length ratio</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>4:1</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>&#8805;5:1</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Suture technique</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Continuous</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>Continuous</p>
+                            </entry>
+                         </row>
+                      </tbody>
+                   </tgroup>
+                </table>
+             
+             <p>The surgical procedure is carried out as usual and according to local standards regarding the indication for intervention. During all operations, the umbilicus has to be completely dissected from the linea alba for an adequate abdominal wall closure. The linea alba is prepared free from fat and cut precisely in the middle. In the case of a deviation, this is recorded in the randomization fax. After abdominal wall closure, refixation of the umbilicus is achieved using an absorbable suture and in interrupted suture technique.</p>
+             <p>The following parameters are recorded and measured in both treatment groups:</p><p> Length of the wound (cm),</p>
+                <p> Number of threads used,</p>
+                <p> Length of the remaining suture material (cm),</p>
+                <p> Number of applied stitches,</p>
+                <p> Duration for abdominal wall closure (defined as the time period from the first placement of the needle through the tissue until the last knot has been closed and the thread is cut).</p>
+             <p>Using these data, the suture length used to close the midline will be calculated, as well as the suture length to wound length ratio. The number of stitches will be analyzed in accordance with the wound length and the length of the implanted suture material. The distance between the stitches can be determined as well as the lateral distance from the incision.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Implementation</p>
+             </st>
+             <p>Before the start of the trial, an initiation visit was paid to each center by the study management to inform and instruct the involved personnel on the study specific documents and procedures. To standardize both suture techniques, each participating center has been trained by presentations and videos; in addition, a practical workshop took place during the first study meeting. In three of the seven centers, surgeons had already used the short stitch technique before the start of the trial and have attended a hospitation conducted by the coordinating investigator in the Wilhelminenspital in Vienna, Austria. The other four centers were instructed during a visit by the coordinating investigator Ren&#233; H Fortelny before the first inclusions. All study centers were provided with suture material from the same batch, with the same type of stop watch for time measurement, a counter to enumerate the stitches, and rulers to measure the wound length, to standardize this equipment within the different centers.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Outcome measures</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Primary outcome measure</p>
+                </st>
+                <p>The primary endpoint of the study is the frequency of incisional hernias 1&#160;year postoperatively, as assessed by ultrasound examination.</p>
+                <p>An incisional hernia is defined as an &#8216;abdominal wall gap with or without bulging in the area of a postoperative scar perceptible or palpable by clinical examination or imaging&#8217; according to the European Hernia Society. Incisional hernias will be classified according to their localization and size.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Secondary outcome measures</p>
+                </st>
+                <p>The length of hospital stay, cost, and quality of life, and the frequency of short term and long term complications will be compared between the short stitch and the long stitch group.</p>
+                <p>The length of hospital stay is defined as the time period from the day of surgery until the day of discharge.</p>
+                <p>The assessment of costs includes the material cost (suture), cost per operation minute (duration for abdominal wall closure), cost of hospital stay, and the cost saving per prevented incisional hernia.</p>
+                <p>To analyze quality of life, the EQ-5D-5&#160;L questionnaire will be used and documented by the patient preoperatively, and after 30&#160;days, 1&#160;year, 3&#160;years, and 5&#160;years postoperatively. The EQ-5D-5&#160;L is used in the German language version and a license has been obtained from the EuroQol Group by the sponsor. The EQ-5D is a standardized measure of health status developed by the EuroQol Group to provide a simple, generic measure of health for clinical and economic appraisal. The questionnaire is designed for self-completion by respondents and takes only a few minutes to complete. Instructions to respondents are included in the questionnaire. The EQ-5D-5&#160;L consists of two pages a descriptive system and the EQ Visual Analogue Scale (EQ-VAS). The descriptive system comprises five dimensions (mobility, self-care, usual activities, pain or discomfort, anxiety or depression). Each dimension has five levels: no problem, slight problems, moderate problems, severe problems, and extreme problems. The EQ-VAS records the respondent&#8217;s self-rated health on a 20&#160;cm vertical visual analogue scale with endpoints labeled &#8216;the best health you can imagine&#8217; and &#8216;the worst health you can imagine&#8217;.</p>
+                <p>Short term complications include the frequency of burst abdomen and the reoperation rate due to burst abdomen until day of discharge. Wound infections occurring until the day of discharge and within 30&#160;days after surgery will be recorded as short term complications. Wound infections are defined according to the US Centers for Disease Control and Prevention (CDC). Furthermore, wound healing complications, such as seroma, necrosis, and fistula, reported until 30&#160;days postoperatively will be counted as short term complications.</p>
+                <p>Long term complications include the frequency of incisional hernias after 3 and 5&#160;years after surgery, ad detected by ultrasound examination. Furthermore, wound infections according to CDC classification 1&#160;year postoperatively and wound healing complications occurring within 1&#160;year after surgery will be investigated.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Sample size calculation</p>
+             </st>
+             <p>The ISSAAC study has shown a risk of 19% of developing an incisional hernia within one year using MonoMax&#174; suture material and a long stitch technique for abdominal wall closure of a primary elective midline laparotomy <abbrgrp>
+                   <abbr bid="B14">14</abbr>
+                </abbrgrp>. The aim of this study is to demonstrate that the short stitch suture technique with MonoMax&#174; will decrease the incisional hernia rate after 1&#160;year by 50% compared with the long stitch technique (primary endpoint). Considering hernia rates of 19% and 9.5% in both groups, a total sample size of 424 patients (212 per group) will be necessary to detect this difference with a power of 80% and an alpha of 5%. Including a drop-out rate of 10%, a total of 468 patients will be randomized in the current study. Thus, each of the seven participating centers should recruit about 67 patients. To avoid center effects, a maximum of 200 patients may be recruited per center. Withdrawn patients will not be replaced.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Statistical analysis</p>
+             </st>
+             <p>A planned analysis will be performed after all patients have completed their 1&#160;year follow-up (primary endpoint). All data available until 1&#160;year follow-up will be analyzed. Additional analyses will be conducted after completion of the 3 and 5&#160;year follow-ups. It is intended to publish the 1&#160;year result as well as the 3 and 5&#160;year results in a peer-reviewed journal.</p>
+             <p>The statistical analysis of the primary endpoint has a confirmative character, whereas the secondary endpoints will be analyzed exploratively.</p>
+             <p>The description of the patient cohort with respect to demographic data and the baseline values of investigated parameters will take place as a whole as well as grouped by treatment group.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Primary endpoint</p>
+             </st>
+             <p>The study hypothesis will be tested by a two-sided chi square test for independent proportions.</p>
+             <p>The hernia rate is calculated as a Kaplan-Meier estimate for the failure rate at the end of the observation period (1&#160;year&#8201;&#177;&#8201;1&#160;month). The Kaplan-Meier estimate has the benefit of additionally taking into account the results of drop-out patients. For each hernia, the date of its first observation must be documented to provide a correct estimate. The date of hernia detected by ultrasound at a follow-up examination will be set to the examination date; this may lead to a slight over-estimation of the hernia rates in both groups.</p>
+             <p>Analyses will be performed according to the intention-to-treat principle. The consistency of the results will be tested by per-protocol analysis (sensitivity analysis).</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Secondary endpoints</p>
+             </st>
+             <p>Secondary endpoints will be tabulated as frequencies and rates, or as means and standard deviations, as appropriate. Confidence intervals will be used when appropriate.</p>
+             <p>The two-sided chi square test for independent proportions will be used for proportion comparisons. The Kaplan-Meier method will also be used to calculate other rates to be analyzed. For each such event, the date of occurrence must be recorded. The two-sided <it>t</it> test for independent samples will be used for comparisons with continuous variables.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Safety</p>
+             </st>
+             <p>Descriptive statistics methods will be used to analyze safety (listings and, when appropriate, frequency tables of relevant events by treatment group).</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Ethical and legal issues</p>
+             </st>
+             <p>The final study protocol was approved by the ethics committee of Vienna, Austria. Secondary approval was obtained from all local ethics committees responsible for the participating centers:</p><p> Ethics committee of Vienna, Austria,</p>
+                <p> Ethics committee &#8216;Landes Ober&#246;sterreich&#8217;, Linz, Austria,</p>
+                <p> Ethics committee &#8216;Bundesland Salzburg&#8217;, Salzburg, Austria,</p>
+                <p> Ethics committee of Ludwig Maximilian University, Munich, Germany,</p>
+                <p> Ethics committee &#8216;Landes&#228;rztekammer Baden W&#252;rttemberg&#8217;, Stuttgart, Germany,</p>
+                <p> Ethics committee of University T&#252;bingen, Germany.</p>
+             <p>Any substantial changes to the original documents will be submitted to the ethics committees in line with pertinent regulatory requirements.</p>
+             <p>This study will be carried out in accordance with the principles of the Declaration of Helsinki and in compliance with Good Clinical Practice. The trial staff will ensure the preservation of the pseudonymity of the patients. Upon inclusion in the study, each patient will receive a unique consecutive patient randomization number. The number consists of a five-digit code. The first two digits indicate the center and the following three digits stand for the sequential patient number.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Quality control and assurance</p>
+             </st>
+             <p>Quality control will involve collecting data on adherence to the intervention, patient inclusion and follow-up, as well as monitoring the quality of data entry. Authorized qualified representatives of the sponsor will visit the participating clinics at regular intervals, as defined in the monitoring plan, to verify adherence to the protocol and local legal requirements, to perform source data verification, and to assist the investigator in study-related activities. Up to ten monitoring visits per center are planned, depending on the number of recruited patients.</p>
+             <p>Data will be entered in a database, as recorded in the paper-based case report form. To ensure data quality, double entry will be used. After completion of data entry, checks for plausibility, consistency, and completeness will be performed. Based on these checks, queries will be produced combined with queries generated by visual control. All missing data or inconsistencies will be reported to the centers and clarified by the responsible investigator.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Discussion</p>
+          </st>
+          <p>For several generations of surgeons, the mass-layer single stitch suture has been the most common and standard technique for closure of the median incision. There is limited evidence that even with the &#8216;long stitch&#8217; technique using a loop suture, only one layer, the fascia only, should be included <abbrgrp>
+                <abbr bid="B15">15</abbr>
+             </abbrgrp> because there is less trauma to the tissue, implying a reduction in the risk of a burst abdomen. In addition to mesh development, today, different suture materials are available for closing the abdominal wall in primary laparotomies and incisional hernia surgery. Experimental studies and the clinical adaptation of an innovative &#8216;short stitch&#8217; technique by the Israelsson study group <abbrgrp>
+                <abbr bid="B14">14</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B15">15</abbr>
+             </abbrgrp> clearly proved, in a controlled trial, the concept of reduced tissue trauma and the impact on infection and incisional hernia rates when using this technique. Reducing the distance between the stitches and the wound edge to between 5 and 8 millimeters, thereby increasing the suture/wound length ratio, and using slowly absorbable sutures of size USP 2/0 (polydioxanone) and a half-circle round-bodied needle (thread length: 20&#160;mm; arch length: 31&#160;mm) and grasping only the aponeurosis, led to a significant decrease in the infection rate, as well as in the incisional hernia rate, compared with the &#8216;long stitch&#8217; group. The average suture/wound length ratio of the &#8216;short stitch&#8217; group of 5.7 versus 6.4 percent in the &#8216;long stitch group&#8217; resulted in a significantly lower rate of wound infection of 5.2 versus 10.2 percent, as well as a highly significant lower incisional hernia rate of 5.6 versus 18 percent at the one-year follow-up. The multivariate analysis revealed a twofold risk of wound infection and a fourfold risk of incisional hernia occurring in the &#8216;long stitch&#8217; group. Another randomized controlled trial, the STITCH study <abbrgrp>
+                <abbr bid="B16">16</abbr>
+             </abbrgrp> obtained similar significant results when comparing the large versus short stitch technique of primary midline closure. The one-year results of this study were presented at the annual EHS-Meeting in Edinburgh in May 2014. The incisional hernia rate in the large stitch group was 23%, compared with 14% for the short stitch group. In comparison with the Millbourn study <abbrgrp>
+                <abbr bid="B14">14</abbr>
+             </abbrgrp>, the incisional hernia rate is more than twice as high in the short stitch group, using an identical suture material. The reason for this difference might be the complete follow-up of all patients by ultrasound. An increase in the incisional hernia rate by 60% from 12&#160;months to 36&#160;months postoperatively has to be taken into account, as detected in the recently published data by Fink <it>et al.</it> 
+             <abbrgrp>
+                <abbr bid="B17">17</abbr>
+             </abbrgrp>, regarding the long term follow-up of the INSECT and ISSAAC trials <abbrgrp>
+                <abbr bid="B18">18</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B13">13</abbr>
+             </abbrgrp>.</p>
+          <p>The significant advantage of the short stitch technique in causing minimal trauma to the abdominal wall seems to be clearly supported by the evidence-based level, whereas the synergetic effect of a special suture material used in this field has yet to be proven.</p>
+          <p>Based on the use of an elastic suture material with a long-lasting strength retention and ultra-long absorption time (MonoMax&#174;), the ESTOIH study can be expected to yield lower hernia rates than the Millbourn study <abbrgrp>
+                <abbr bid="B13">13</abbr>
+             </abbrgrp>.</p>
+          <sec>
+             <st>
+                <p>Trial status</p>
+             </st>
+             <p>The study protocol was been registered on 9 October 2013. A first investigator meeting was held on 28 February 2014 in Munich, Germany. All centers have been initiated and are actively recruiting. The first patient was recruited on 6 March 2014. In total, 55 patients were randomized, while the manuscript was being completed. Recruitment is expected to end in December 2015.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Competing interests</p>
+          </st>
+          <p>B. Braun Surgical SA Rubi, Spain, funded this study and its publication. PB is an employee of Aesculap AG, Tuttlingen, Germany. RHF, WET, and WS received speakers&#8217; fees. The other authors declare no further conflict of interest.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Authors&#8217; contributions</p>
+          </st>
+          <p>RHF and PB designed, managed and conducted the trial. RHF wrote the manuscript together with PB. MA revised the manuscript. RHF, WET, SR, WS, JLK, and AS are actively participating in the recruitment of patients. All authors read and approved the final manuscript.</p>
+       </sec>
+    </bdy>
+    <bm>
+       <ack>
+          <sec>
+             <st>
+                <p>Acknowledgements</p>
+             </st>
+             <p>The ESTOIH study is initiated and sponsored by B. Braun Surgical SA, Rubi, Spain and conducted by Aesculap AG, Tuttlingen, Germany. The department of Medical Scientific Affairs within Aesculap AG is responsible for project management, monitoring, database maintenance, and biometrics. Recruitment is performed in the following centers: Department of Surgery, Wilhelminenspital, Vienna, Austria; Department of General, Visceral, Transplantation, Vascular and Thoracic Surgery, Grosshadern Hospital, Ludwig Maximilian University, Munich, Germany; Department of Surgery, ALP FILS Kliniken, G&#246;ppingen, Germany; Department of Surgery, Klinikum Landkreis Tuttlingen, Germany; Department of Surgery, Robert Bosch Krankenhaus, Stuttgart, Germany; Department of Surgery, AKh Linz, Austria. We thank Viktor Breul, who calculated the sample size.</p>
+          </sec>
+       </ack>
+       <refgrp>
+          
+          <bibl id="B1">
+             <note>van &#8217;t Riet M, Steyerberg EW, Nellensteyn J, Bonjer HJ, Jeekel J. Meta-analysis of techniques for closure of midline abdominal incisions. Br J Surg. 2002; 89:1350&#8211;6.</note>
+          </bibl>
+          <bibl id="B2">
+             <title>
+                <p>Increases in type III collagen expression and protein synthesis in patients with inguinal hernias</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Friedman</snm>
+                   <fnm>DW</fnm>
+                </au>
+                <au>
+                   <snm>Boyd</snm>
+                   <fnm>CD</fnm>
+                </au>
+                <au>
+                   <snm>Norton</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Greco</snm>
+                   <fnm>RS</fnm>
+                </au>
+                <au>
+                   <snm>Boyarsky</snm>
+                   <fnm>AH</fnm>
+                </au>
+                <au>
+                   <snm>Mackenzie</snm>
+                   <fnm>JW</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Ann Surg.</source>
+             <pubdate>1993</pubdate>
+             <volume>218</volume>
+             <fpage>754</fpage>
+             <lpage>60</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/00000658-199312000-00009</pubid>
+                   <pubid idtype="pmpid" link="fulltext">7710461</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B3">
+             <title>
+                <p>Technique for repairing inguinal hernias with Marlex mesh</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Usher</snm>
+                   <fnm>FC</fnm>
+                </au>
+             </aug>
+             <source>Am J Surg.</source>
+             <pubdate>1982</pubdate>
+             <volume>143</volume>
+             <fpage>382</fpage>
+             <lpage>4</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/0002-9610(82)90113-1</pubid>
+                   <pubid idtype="pmpid" link="fulltext">7065358</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B4">
+             <title>
+                <p>Overweight and healing of midline incisions: the importance of suture technique</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Israelsson</snm>
+                   <fnm>LA</fnm>
+                </au>
+                <au>
+                   <snm>Jonsson</snm>
+                   <fnm>T</fnm>
+                </au>
+             </aug>
+             <source>Eur J Surg.</source>
+             <pubdate>1997</pubdate>
+             <volume>163</volume>
+             <fpage>175</fpage>
+             <lpage>80</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">9085058</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B5">
+             <title>
+                <p>Suture length to wound length ratio and healing of midline laparotomy incisions</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Israelsson</snm>
+                   <fnm>LA</fnm>
+                </au>
+                <au>
+                   <snm>Jonsson</snm>
+                   <fnm>I</fnm>
+                </au>
+             </aug>
+             <source>Br J Surg.</source>
+             <pubdate>1993</pubdate>
+             <volume>80</volume>
+             <fpage>1284</fpage>
+             <lpage>6</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1002/bjs.1800801020</pubid>
+                   <pubid idtype="pmpid" link="fulltext">8242299</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B6">
+             <title>
+                <p>The search for an ideal method of abdominal fascial closure: a meta-analysis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hodgson</snm>
+                   <fnm>NC</fnm>
+                </au>
+                <au>
+                   <snm>Malthaner</snm>
+                   <fnm>RA</fnm>
+                </au>
+                <au>
+                   <snm>Ostbye</snm>
+                   <fnm>I</fnm>
+                </au>
+             </aug>
+             <source>Ann Surg.</source>
+             <pubdate>2000</pubdate>
+             <volume>231</volume>
+             <fpage>436</fpage>
+             <lpage>42</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/00000658-200003000-00018</pubid>
+                   <pubid idtype="pmpid" link="fulltext">10714638</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B7">
+             <title>
+                <p>Choosing the best abdominal closure by meta-analysis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Weiland</snm>
+                   <fnm>DE</fnm>
+                </au>
+                <au>
+                   <snm>Bay</snm>
+                   <fnm>RC</fnm>
+                </au>
+                <au>
+                   <snm>Del Sordi</snm>
+                   <fnm>S</fnm>
+                </au>
+             </aug>
+             <source>Am J Surg.</source>
+             <pubdate>1998</pubdate>
+             <volume>176</volume>
+             <fpage>666</fpage>
+             <lpage>70</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0002-9610(98)00277-3</pubid>
+                   <pubid idtype="pmpid" link="fulltext">9926810</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B8">
+             <title>
+                <p>Closure of the abdominal midline fascia: meta-analysis delineates the optimal technique</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Rucinski</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Margolis</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Panagopoulos</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Wise</snm>
+                   <fnm>L</fnm>
+                </au>
+             </aug>
+             <source>Am Surg.</source>
+             <pubdate>2001</pubdate>
+             <volume>67</volume>
+             <fpage>421</fpage>
+             <lpage>6</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">11379640</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B9">
+             <title>
+                <p>Elective midline laparotomy closure: the INLINE systematic review and meta-analysis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Diener</snm>
+                   <fnm>MK</fnm>
+                </au>
+                <au>
+                   <snm>Voss</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Jensen</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>B&#252;chler</snm>
+                   <fnm>MW</fnm>
+                </au>
+                <au>
+                   <snm>Seiler</snm>
+                   <fnm>CM</fnm>
+                </au>
+             </aug>
+             <source>Ann Surg.</source>
+             <pubdate>2010</pubdate>
+             <volume>251</volume>
+             <fpage>843</fpage>
+             <lpage>56</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/SLA.0b013e3181d973e4</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20395846</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B10">
+             <title>
+                <p>Measurement of the tensile strength of the ventral abdominal wall in comparison with scar tissue</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hollinsky</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Sandberg</snm>
+                   <fnm>S</fnm>
+                </au>
+             </aug>
+             <source>Clin Biomec Avon.</source>
+             <pubdate>2007</pubdate>
+             <volume>22</volume>
+             <fpage>88</fpage>
+             <lpage>92</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.clinbiomech.2006.06.002</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B11">
+             <title>
+                <p>Quantitative evaluation of abdominal wall perfusion after different types of laparotomy closure using laser-fluorescence videography</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>H&#246;er</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>T&#246;ns</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Schachtrupp</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Anurov</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Titkova</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Oettinger</snm>
+                   <fnm>A</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Hernia</source>
+             <pubdate>2002</pubdate>
+             <volume>6</volume>
+             <issue>1</issue>
+             <fpage>11</fpage>
+             <lpage>16</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1007/s10029-002-0047-3</pubid>
+                   <pubid idtype="pmpid" link="fulltext">12090573</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B12">
+             <title>
+                <p>Laparotomy closure and incisional hernia prevention - what are the surgical requirements?</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>H&#246;er</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Fischer</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Schachtrupp</snm>
+                   <fnm>A</fnm>
+                </au>
+             </aug>
+             <source>Zentralbl Chir</source>
+             <pubdate>2011</pubdate>
+             <volume>136</volume>
+             <issue>1</issue>
+             <fpage>42</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1055/s-0030-1262682</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21279924</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B13">
+             <title>
+                <p>Evaluation of the safety and efficacy of MonoMax&#174; suture material for abdominal wall closure after primary midline laparotomy-a controlled prospective multicenter trial: ISSAAC [NCI005725079]</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Albertsmeier</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Seiler</snm>
+                   <fnm>CM</fnm>
+                </au>
+                <au>
+                   <snm>Fischer</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Baumann</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>H&#252;sing</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Seidlmayer</snm>
+                   <fnm>C</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Langenbecks Arch Surg.</source>
+             <pubdate>2012</pubdate>
+             <volume>397</volume>
+             <fpage>363</fpage>
+             <lpage>71</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1007/s00423-011-0884-6</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22183105</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B14">
+             <title>
+                <p>Effect of stitch length on wound complications after closure of midline incisions: a randomized controlled trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Millbourn</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Cengiz</snm>
+                   <fnm>Y</fnm>
+                </au>
+                <au>
+                   <snm>Israelsson</snm>
+                   <fnm>LA</fnm>
+                </au>
+             </aug>
+             <source>Arch Surg.</source>
+             <pubdate>2009</pubdate>
+             <volume>144</volume>
+             <fpage>1056</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1001/archsurg.2009.189</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19917943</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B15">
+             <title>
+                <p>Small tissue bites and wound strength: an experimental study</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Cengiz</snm>
+                   <fnm>V</fnm>
+                </au>
+                <au>
+                   <snm>Blomquist</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Israelsson</snm>
+                   <fnm>LA</fnm>
+                </au>
+             </aug>
+             <source>Arch Surg</source>
+             <pubdate>2001</pubdate>
+             <volume>136</volume>
+             <fpage>272</fpage>
+             <lpage>5</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1001/archsurg.136.3.272</pubid>
+                   <pubid idtype="pmpid" link="fulltext">11231844</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B16">
+             <title>
+                <p>A multicenter randomized controlled trial evaluating the effect of small stitches on the incidence of incisional hernia in midline incisions</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Harlaar</snm>
+                   <fnm>JJ</fnm>
+                </au>
+                <au>
+                   <snm>Deerenberg</snm>
+                   <fnm>EB</fnm>
+                </au>
+                <au>
+                   <snm>van Ramshorst</snm>
+                   <fnm>GH</fnm>
+                </au>
+                <au>
+                   <snm>Lont</snm>
+                   <fnm>HE</fnm>
+                </au>
+                <au>
+                   <snm>van der Borst</snm>
+                   <fnm>EC</fnm>
+                </au>
+                <au>
+                   <snm>Schouten</snm>
+                   <fnm>WR</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>BMC Surg</source>
+             <pubdate>2011</pubdate>
+             <volume>11</volume>
+             <fpage>20</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1186/1471-2482-11-20</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21871072</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B17">
+             <title>
+                <p>Incisional hernia rate 3&#160;years after midline laparotomy</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Fink</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Baumann</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Wente</snm>
+                   <fnm>MN</fnm>
+                </au>
+                <au>
+                   <snm>Knebel</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Bruckner</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Ulrich</snm>
+                   <fnm>A</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Br J Surg.</source>
+             <pubdate>2014</pubdate>
+             <volume>101</volume>
+             <fpage>51</fpage>
+             <lpage>4</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1002/bjs.9364</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24281948</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B18">
+             <title>
+                <p>Interrupted or continuous slowly absorbable sutures for closure of primary elective midline abdominal incisions: a multicenter randomized trial (INSECT: ISRCIN2402354)</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Seiler</snm>
+                   <fnm>CM</fnm>
+                </au>
+                <au>
+                   <snm>Bruckner</snm>
+                   <fnm>I</fnm>
+                </au>
+                <au>
+                   <snm>Diener</snm>
+                   <fnm>MK</fnm>
+                </au>
+                <au>
+                   <snm>Papyan</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Golcher</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Seidlmayer</snm>
+                   <fnm>C</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Ann Surg.</source>
+             <pubdate>2009</pubdate>
+             <volume>24</volume>
+             <fpage>576</fpage>
+             <lpage>82</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/SLA.0b013e31819ec6c8</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+       </refgrp>
+    </bm>
+ </art>

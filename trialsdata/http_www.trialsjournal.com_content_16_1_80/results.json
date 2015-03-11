@@ -1,0 +1,92 @@
+{
+  "publisher": {
+    "value": [
+      "BioMed Central Ltd"
+    ]
+  },
+  "journal": {
+    "value": [
+      "Trials"
+    ]
+  },
+  "title": {
+    "value": [
+      "Does offering an incentive payment improve recruitment to clinical trials and increase the proportion of socially deprived and elderly participants?"
+    ]
+  },
+  "authors": {
+    "value": [
+      "Claudine G Jennings",
+      "Thomas M MacDonald",
+      "Li Wei",
+      "Morris J Brown",
+      "Lewis McConnachie",
+      "Isla S Mackenzie"
+    ]
+  },
+  "date": {
+    "value": [
+      "2015-03-07"
+    ]
+  },
+  "doi": {
+    "value": [
+      "10.1186/s13063-015-0582-8"
+    ]
+  },
+  "volume": {
+    "value": [
+      "16"
+    ]
+  },
+  "issue": {
+    "value": [
+      "1"
+    ]
+  },
+  "firstpage": {
+    "value": [
+      "80"
+    ]
+  },
+  "description": {
+    "value": [
+      "Patient recruitment into clinical trials is a major challenge, and the elderly, socially deprived and those with multiple comorbidities are often underrepresented. The idea of paying patients an incentive to participate in research is controversial, and evidence is needed to evaluate this as a recruitment strategy."
+    ]
+  },
+  "abstract": {
+    "value": [
+      "Patient recruitment into clinical trials is a major challenge, and the elderly, socially deprived and those with multiple comorbidities are often underrepresented. The idea of paying patients an incentive to participate in research is controversial, and evidence is needed to evaluate this as a recruitment strategy."
+    ]
+  },
+  "fulltext_html": {
+    "value": []
+  },
+  "fulltext_pdf": {
+    "value": [
+      "http://www.trialsjournal.com/content/pdf/s13063-015-0582-8.pdf"
+    ]
+  },
+  "fulltext_xml": {
+    "value": []
+  },
+  "supplementary_material": {
+    "value": [
+      "http://trialsjournal.com/content/download/supplementary/s13063-015-0582-8-s1.doc",
+      "http://trialsjournal.com/content/download/supplementary/s13063-015-0582-8-s2.doc",
+      "http://trialsjournal.com/content/download/supplementary/s13063-015-0582-8-s3.doc"
+    ]
+  },
+  "figure": {
+    "value": []
+  },
+  "figure_caption": {
+    "value": []
+  },
+  "license": {
+    "value": []
+  },
+  "copyright": {
+    "value": []
+  }
+}

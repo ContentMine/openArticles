@@ -1,0 +1,106 @@
+{
+  "publisher": {
+    "value": [
+      "BioMed Central Ltd"
+    ]
+  },
+  "journal": {
+    "value": [
+      "Trials"
+    ]
+  },
+  "title": {
+    "value": [
+      "A phase II trial for the efficacy of physiotherapy intervention for early-onset hip osteoarthritis: study protocol for a randomised controlled trial"
+    ]
+  },
+  "authors": {
+    "value": [
+      "Joanne L Kemp",
+      "Kate Moore",
+      "Marlene Fransen",
+      "Trevor G Russell",
+      "Kay M Crossley"
+    ]
+  },
+  "date": {
+    "value": [
+      "2015-01-27"
+    ]
+  },
+  "doi": {
+    "value": [
+      "10.1186/s13063-014-0543-7"
+    ]
+  },
+  "volume": {
+    "value": [
+      "16"
+    ]
+  },
+  "issue": {
+    "value": [
+      "1"
+    ]
+  },
+  "firstpage": {
+    "value": [
+      "26"
+    ]
+  },
+  "description": {
+    "value": [
+      "Early-onset hip osteoarthritis is commonly seen in people undergoing hip arthroscopy and is associated with increased pain, reduced ability to participate in physical activity, reduced quality of life and reduced range of motion and muscle strength. Despite this, the efficacy of non-surgical interventions such as exercise therapies remains unknown. The primary aim is to establish the feasibility of a phase III randomised controlled trial investigating a targeted physiotherapy intervention for people with early-onset hip osteoarthritis. The secondary aims are to determine the size of treatment effects of a physiotherapy intervention, targeted to improve hip joint range and hip-related symptoms in early-onset hip osteoarthritis following hip arthroscopy, compared to a health-education control."
+    ]
+  },
+  "abstract": {
+    "value": [
+      "Early-onset hip osteoarthritis is commonly seen in people undergoing hip arthroscopy and is associated with increased pain, reduced ability to participate in physical activity, reduced quality of life and reduced range of motion and muscle strength. Despite this, the efficacy of non-surgical interventions such as exercise therapies remains unknown. The primary aim is to establish the feasibility of a phase III randomised controlled trial investigating a targeted physiotherapy intervention for people with early-onset hip osteoarthritis. The secondary aims are to determine the size of treatment effects of a physiotherapy intervention, targeted to improve hip joint range and hip-related symptoms in early-onset hip osteoarthritis following hip arthroscopy, compared to a health-education control."
+    ]
+  },
+  "fulltext_html": {
+    "value": [
+      "http://www.trialsjournal.com/content/16/1/26"
+    ]
+  },
+  "fulltext_pdf": {
+    "value": [
+      "http://www.trialsjournal.com/content/pdf/s13063-014-0543-7.pdf"
+    ]
+  },
+  "fulltext_xml": {
+    "value": [
+      "/content/download/xml/s13063-014-0543-7.xml"
+    ]
+  },
+  "supplementary_material": {
+    "value": [
+      "http://trialsjournal.com/content/download/supplementary/s13063-014-0543-7-s1.docx",
+      "http://trialsjournal.com/content/download/supplementary/s13063-014-0543-7-s2.docx"
+    ]
+  },
+  "figure": {
+    "value": [
+      "/content/figures/s13063-014-0543-7-1.gif",
+      "/content/figures/s13063-014-0543-7-2.gif"
+    ]
+  },
+  "figure_caption": {
+    "value": [
+      "Figure 1.",
+      "Flowchart of trial.",
+      "Figure 2.",
+      "Examples of hip exercise progression from non-weight bearing to functional tasks."
+    ]
+  },
+  "license": {
+    "value": [
+      "\r\n\t\t\t\tThis is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.\r\n\t\t\t"
+    ]
+  },
+  "copyright": {
+    "value": [
+      "\r\n            © 2015 Kemp et al.; licensee BioMed Central. \r\n        "
+    ]
+  }
+}

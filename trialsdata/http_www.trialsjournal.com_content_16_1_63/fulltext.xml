@@ -1,0 +1,2505 @@
+<?xml version='1.0'?>
+<!DOCTYPE art SYSTEM 'http://www.biomedcentral.com/xml/article.dtd'>
+<art>
+    <ui>s13063-015-0576-6</ui>
+    <ji>1745-6215</ji>
+    <fm>
+       <dochead>Study protocol</dochead>
+       <bibl>
+          <title>
+             <p>Combining cognitive bias modification training with motivational support in alcohol dependent outpatients: study protocol for a randomised controlled trial</p>
+          </title>
+          <aug>
+             <au id="A1" ca="yes">
+                <snm>Boffo</snm>
+                <fnm>Marilisa</fnm>
+                <insr iid="I1"/>
+                <insr iid="I2"/>
+                <insr iid="I3"/>
+                <email>m.boffo@uva.nl</email>
+             </au>
+             <au id="A2">
+                <snm>Pronk</snm>
+                <fnm>Thomas</fnm>
+                <insr iid="I2"/>
+                <email>t.pronk@uva.nl</email>
+             </au>
+             <au id="A3">
+                <snm>Wiers</snm>
+                <mi>W</mi>
+                <fnm>Reinout</fnm>
+                <insr iid="I2"/>
+                <email>r.w.h.j.wiers@uva.nl</email>
+             </au>
+             <au id="A4">
+                <snm>Mannarini</snm>
+                <fnm>Stefania</fnm>
+                <insr iid="I1"/>
+                <insr iid="I4"/>
+                <email>stefania.mannarini@unipd.it</email>
+             </au>
+          </aug>
+          <insg>
+             <ins id="I1">
+                <p>Department of Philosophy, Sociology, Education, and Applied Psychology (FISPPA), University of Padova, via Venezia 8, Padova, 35131, Italy</p>
+             </ins>
+             <ins id="I2">
+                <p>Department of Psychology, Addiction Development and Psychopathology (ADAPT)-lab, University of Amsterdam, Weesperplein 4, Amsterdam, 1018, XA, The Netherlands</p>
+             </ins>
+             <ins id="I3">
+                <p>Collaborative Antwerp Psychiatric Research Institute (CAPRI), University of Antwerpen, Universiteitsplein 1, Antwerpen, 2610, Belgium</p>
+             </ins>
+             <ins id="I4">
+                <p>Interdepartmental Centre for Family Research, FISPPA, University of Padova, Piazza Capitaniato 3, Padova, 35139, Italy</p>
+             </ins>
+          </insg>
+          <source>Trials</source>
+          <issn>1745-6215</issn>
+          <pubdate>2015</pubdate>
+          <volume>16</volume>
+          <issue>1</issue>
+          <fpage>63</fpage>
+          <url>http://www.trialsjournal.com/content/16/1/63</url>
+          <note>Marilisa Boffo, Thomas Pronk, Reinout W Wiers and Stefania Mannarini contributed equally.</note>
+          <xrefbib>
+             <pubidlist>
+                <pubid idtype="doi">10.1186/s13063-015-0576-6</pubid>
+             </pubidlist>
+          </xrefbib>
+       </bibl>
+       <history>
+          <rec>
+             <date>
+                <day>21</day>
+                <month>9</month>
+                <year>2014</year>
+             </date>
+          </rec>
+          <acc>
+             <date>
+                <day>21</day>
+                <month>1</month>
+                <year>2015</year>
+             </date>
+          </acc>
+          <pub>
+             <date>
+                <day>26</day>
+                <month>2</month>
+                <year>2015</year>
+             </date>
+          </pub>
+       </history>
+       <cpyrt>
+          <year>2015</year>
+          <collab>Boffo et al.; licensee BioMed Central.</collab>
+          <note>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/4.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (<url>http://creativecommons.org/publicdomain/zero/1.0/</url>) applies to the data made available in this article, unless otherwise stated.</note>
+       </cpyrt>
+       <kwdg>
+          <kwd>Cognitive Bias Modification</kwd>
+          <kwd>Motivational support</kwd>
+          <kwd>Alcohol</kwd>
+          <kwd>Addiction</kwd>
+          <kwd>Approach bias</kwd>
+          <kwd>Attentional bias</kwd>
+          <kwd>Randomised clinical trial</kwd>
+       </kwdg>
+       <abs>
+          <sec>
+             <st>
+                <p>Abstract</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Background</p>
+                </st>
+                <p>Addiction research has hypothesised that automatic and reflective cognitive processes play an important role in the onset and maintenance of alcohol (ab)use, wherein automatic reactions to drug-related cues steer the drug user towards consuming before reflective processes can get over and steer towards a different behavioural response. These automatic processes include the tendency to attend and approach alcohol cues. These biases may be trained away from alcohol via computerised cognitive bias modification (CBM). The present protocol describes the design of a double-blind randomised controlled trial (RCT) testing the effectiveness of attentional bias and approach bias re-training with a 2&#215;2 factorial design, alongside a brief motivational support (MS) program.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Methods/Design</p>
+                </st>
+                <p>Participants (n&#8201;=&#8201;120) are adult alcohol dependent outpatients, recruited from a public health service for addiction in Italy, who have been abstinent for at least two months, and with a main diagnosis of alcohol dependence disorder. Participants are randomly assigned to one of four experimental conditions and complete 11 sessions of training after a baseline assessment. The MS takes place before each training session. Post-intervention and three-month follow-up assessments examine the change in clinical outcome variables and attentional and approach biases (measured with the Visual Probe Task and the Approach-Avoidance Task, respectively). Alcohol approach-avoidance implicit memory associations (measured with the Brief Implicit Association Test) are also evaluated at pre- and post-intervention to explore generalisation effects. Primary outcome measure is relapse rate at follow-up. Secondary outcome measures include change in cognitive biases, in alcohol-related implicit memory associations, and in the clinical variables assessed. An exploratory analysis is also planned to detect interaction effects between the CBM modules and possible moderators (interference control capacity, gender, age, number of previous detoxifications) and mediators (change in cognitive bias) of the primary outcome measure.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Discussion</p>
+                </st>
+                <p>This RCT is the first to test the effectiveness of a combined CBM intervention alongside motivational support in alcohol-dependent outpatients. The results of this study can be extremely valuable for future research in the optimisation of CBM treatment for alcohol addiction.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Trial registration</p>
+                </st>
+                <p>Current Controlled Trials <url>ISRCTN01005959</url> (registration date: 24 October 2013).</p>
+             </sec>
+          </sec>
+       </abs>
+    </fm>
+    <bdy>
+       <sec>
+          <st>
+             <p>Background</p>
+          </st>
+          <p>People with an addiction disorder often describe their substance (ab)use as a somewhat &#8216;unconscious&#8217; decision, something that happens &#8216;by chance&#8217; and without any intentional planning or awareness. However, many drug users are conscious of the detrimental effects of substance abuse and seek treatment to abstain from consuming, citing rational considerations such as the costs of continued substance use outweighing the benefits. Nevertheless, the risk for lapse and relapse remains extremely high. This paradoxical and deleterious pattern of behaviour encouraged research into the mechanisms underlying drug-seeking behaviour even when explicit motivations to quit are present.</p>
+          <p>It has been long known that behaviour is not only driven by rational and conscious processes, but also driven by mechanisms that go beyond intentionality (see Hofmann <it>et al</it>. <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>). Recently, this realisation has gained relevance in addiction research, resulting in efforts examining the role played by relatively automatic processes in the onset and maintenance of addictive behaviours <abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B7">7</abbr>
+             </abbrgrp>. At a descriptive level, dual-process models of addiction point towards two qualitatively different classes of information processing mechanisms underlying behaviour, namely:</p><p>a. Automatic processes, which are initial, fast, associative and impulsive processes evoked by drug-related stimuli, that operate at early stages of response selection through associative links and emotional and motivational associations <abbrgrp>
+                   <abbr bid="B7">7</abbr>
+                </abbrgrp>. When an automatic process leads to impulsive responses or task interference conflicting with explicit task goals, as may well be the case in drug addiction, they are frequently referred to as <it>cognitive biases</it>. Cognitive biases are based on associative learning processes and prior reinforcement and are by nature difficult to voluntarily change and control. Examples of cognitive biases are selective attention (for example, alcohol dependents&#8217; attention is usually automatically and selectively drawn by alcohol-related cues), substance-related automatic associations in memory (for example, alcohol being repeatedly and automatically associated to positive or negative feelings) and action tendencies towards the substance (for example, an automatic tendency to approach alcohol cues) <abbrgrp>
+                   <abbr bid="B8">8</abbr>
+                </abbrgrp>.</p>
+             <p>b. Reflective processes, which are slower, relatively controlled propositional processes that include &#8216;rational&#8217; decision-making and emotion regulation. Reflective processes continuously update and integrate initial inputs into more coherent and complex mental representations in order to optimise the selection of the final behavioural outcome <abbrgrp>
+                   <abbr bid="B7">7</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B9">9</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B10">10</abbr>
+                </abbrgrp>. To achieve this, top-down control is deployed over impulses to integrate them with explicit motives, beliefs and expectancies about the long-term behavioural outcomes and goals <abbrgrp>
+                   <abbr bid="B9">9</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B10">10</abbr>
+                </abbrgrp>.</p>
+          <p>The two classes of processes depend on each other and synergistically interact in determining behaviour. That means there is no process that is purely reflective or automatic, though the degree to which each is a more prominent determinant can be distinguished on the basis of their <it>latency</it>. For instance, an initial automatic reaction to a positive incentive stimulus can be evoked (bottom-up input), such as an approach response to a glass of wine. After that, the initial reaction can (or cannot) progressively unfold into the action of grabbing the glass and drinking it under the gradual influence of conscious goals and motivation (top-down regulation), such as the explicit goal of alcohol abstinence to re-gain the lost job position <abbrgrp>
+                <abbr bid="B7">7</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B9">9</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B10">10</abbr>
+             </abbrgrp>.</p>
+          <p>According to this dual-process perspective, the &#8216;addiction paradox&#8217; can result from an imbalance between strengthened automatic reactions to substance-related cues that have acquired a high incentive salience after repeated consumption, while weakened reflective processes and cognitive control are obstructed before they can determine the optimal behavioural response <abbrgrp>
+                <abbr bid="B7">7</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B8">8</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B11">11</abbr>
+             </abbrgrp>. This imbalance between the operating processes makes the individual more at risk of being triggered by drug cues, thus being automatically prompted to consume the drug, while any deliberate decision to abstain is too late to prevent the individual from consuming <abbrgrp>
+                <abbr bid="B3">3</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B7">7</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B8">8</abbr>
+             </abbrgrp>.</p>
+          <p>Since both strengthened automatic reactions to alcohol cues and weakened reflective processes may be interwoven in alcohol-related problems, they both may be targeted in interventions. Reflective processes are usually the focal target of standard treatment interventions, such as cognitive behavioural therapy, counselling and motivational interviewing. A common approach across such interventions consists of the therapist and patient making an explicit analysis of the pros and cons of the patient&#8217;s alcohol use, of related motives and expectancies and of strategies and long-term goals to enact deliberate control.</p>
+          <p>More recently, a new family of interventions, collectively called Cognitive Bias Modification (CBM), has been developed to tackle prepotent, drug-evoked automatic processes involved in addiction <abbrgrp>
+                <abbr bid="B8">8</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B12">12</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B13">13</abbr>
+             </abbrgrp>. CBM paradigms are computerised tasks aimed at training alternative responses to a drug-related stimulus in order to adjust the biases that underlie the breakdown in controlled processes. Typically, they are modified versions of assessment tasks, such as the Approach-Avoidance Task (AAT) <abbrgrp>
+                <abbr bid="B14">14</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B15">15</abbr>
+             </abbrgrp>, with a built-in contingency that recasts them to re-training paradigm.</p>
+          <p>The first clinical applications of CBM paradigms as an add-on to standard interventions such as cognitive behavioural therapy have shown promising results <abbrgrp>
+                <abbr bid="B16">16</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B19">19</abbr>
+             </abbrgrp>. Two randomised controlled trials (RCTs) with German alcohol-dependent inpatients did demonstrate that an approach bias for alcohol stimuli could be re-trained, with a generalisation of the training effects beyond the experimental procedure context <abbrgrp>
+                <abbr bid="B18">18</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B19">19</abbr>
+             </abbrgrp>. Moreover, participants in the training condition had a lower rate of relapsing within one year after discharge, after controlling for gender in Wiers <it>et al</it>. <abbrgrp>
+                <abbr bid="B18">18</abbr>
+             </abbrgrp>, and for age and number of previous detoxifications in Eberl <it>et al</it>. <abbrgrp>
+                <abbr bid="B19">19</abbr>
+             </abbrgrp>. A study with Dutch alcohol-dependent inpatients showed the success of an attentional bias re-training in increasing the ability to disengage from alcohol stimuli, with a generalisation to untrained, new stimuli and a significantly longer time until relapse for the experimental group in the follow-up period <abbrgrp>
+                <abbr bid="B17">17</abbr>
+             </abbrgrp>.</p>
+          <p>These results could suggest that computerised CBM has the potential to be an effective intervention that can be easily incorporated into standard health care practices, alongside standard treatments. As a next step, it is important that the findings are replicated and extended across various patient categories and delivery modes, for example by combining different CBM paradigms. To the best of our knowledge, there is only one ongoing RCT testing a completely online CBM intervention combining the CBM training for alcohol approach bias, attentional bias and automatic memory associations among problem drinkers <abbrgrp>
+                <abbr bid="B20">20</abbr>
+             </abbrgrp>. However, no studies have yet investigated the effectiveness of a combined CBM intervention with alcohol-dependent outpatients. Unlike residential treatment programs, the outpatient treatment regimen does not provide patients with the safe, secure and structured environment that isolates them from negatively influencing factors and tempting conditions. Patients return to their own daily environments after outpatient alcoholism treatment, and must voluntarily abstain from alcohol use, which requires a greater amount of diligence and efforts. Therefore, this group of patients is also likely to receive potential benefits from this type of interventions.</p>
+          <p>Finally, inspired by the dual-process account of addictive behaviours previously presented, which emphasises the interaction between bottom-up and top-down processes <abbrgrp>
+                <abbr bid="B7">7</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B10">10</abbr>
+             </abbrgrp>, this study is the first to include a targeted motivational support (MS) intervention alongside the combined CBM training, in order to integrate long-term goals with the training and tackle deliberate and conscious explicit motivational processes related to the patients&#8217; experience of re-training their alcohol-triggered automatic responses. The main goal of combining CBM with a motivational approach is to enhance motivation to train and harness the individual&#8217;s capacity for change <abbrgrp>
+                <abbr bid="B21">21</abbr>
+             </abbrgrp>. At the start of each training session a brief MS interview is then included on top of the CBM training, with a threefold objective:</p><p>a. To stimulate and bolster the explicit motivation and reasons for doing the training (goal maintenance, recall of long-term expected outcomes and top-down influence), which can act as a fuel to develop and exert control to overcome the appetitive motivational and automatic reactions towards alcohol <abbrgrp>
+                   <abbr bid="B7">7</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B8">8</abbr>
+                </abbrgrp>;</p>
+             <p>b. To provide continual feedback about the participant&#8217;s subjective performance on the training (incentive value);</p>
+             <p>c. To promote the acceptability of the training (<abbrgrp>
+                   <abbr bid="B7">7</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B8">8</abbr>
+                </abbrgrp>) by increasing engagement to intervention (fostering commitment to change).</p>
+          <sec>
+             <st>
+                <p>The present study: aims and hypotheses</p>
+             </st>
+             <p>The aim of the current study is to investigate the effectiveness of combining computerised alcohol attentional bias and approach bias CBM trainings in adult alcohol-dependent outpatients alongside a motivational approach to sustain the training progression. The primary goal is testing the main and added effects of the CBM interventions on remission progress from alcohol addiction immediately after the intervention and three months later, with changes in the number of lapse or relapse episodes as primary outcome measure. It is expected that, for each of the two CBM training modules, participants in the active training condition will show a lower percentage of lapse or relapse than participants in the placebo condition <abbrgrp>
+                   <abbr bid="B16">16</abbr>
+                </abbrgrp>-<abbrgrp>
+                   <abbr bid="B19">19</abbr>
+                </abbrgrp>.</p>
+             <p>Secondary outcome measures include changes in alcohol-related cognitive biases following the combined CBM intervention. Interaction effects between the CBM modules are explored, as well as the additive effect of exposure to the combination of the two CBM trainings. It is expected that each CBM paradigm will decrease or reverse the targeted bias and that these changes might mediate the effects on the clinical outcome (see Eberl <it>et al</it>. <abbrgrp>
+                   <abbr bid="B19">19</abbr>
+                </abbrgrp>). Further, it is expected that joint exposure to both active CBM re-trainings will have a greater beneficial effect than each of the active CBM re-trainings separately.</p>
+             <p>Additionally, we study whether CBM effectiveness is moderated by participant characteristics, namely interference control capacity and strength of the cognitive biases at pre-test. Individual differences in executive functioning can moderate whether the initial automatic reaction towards a glass of wine can be effectively and easily controlled or not. It has been suggested that prolonged alcohol use can negatively affect the deployment of reflective processes (such as interference control and working memory capacity <abbrgrp>
+                   <abbr bid="B22">22</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B23">23</abbr>
+                </abbrgrp>), thereby reducing the cognitive capacity available for controlling automatic impulses <abbrgrp>
+                   <abbr bid="B8">8</abbr>
+                </abbrgrp>. Hence, alcohol dependents with a relatively weak ability to inhibit a prepotent approach response (low interference control capacity) may find it more difficult to remain abstinent than those with a relatively strong ability to inhibit a pre-potent response. CBM interventions could be particularly beneficial for those who present relatively poor interference control capacity and/or strong automatic reactions demanding great control efforts. Therefore, in line with dual-process models of addiction and prior findings <abbrgrp>
+                   <abbr bid="B8">8</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B18">18</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B19">19</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B24">24</abbr>
+                </abbrgrp>-<abbrgrp>
+                   <abbr bid="B26">26</abbr>
+                </abbrgrp>, it is expected that participants with strong automatic biases and/or weak interference control will benefit more from the CBM intervention than participants with weaker biases and/or stronger executive functions.</p>
+             <p>Finally, the effect of several independent clinical variables (such as age, gender and number of previous detoxifications) on the primary and secondary clinical outcomes will be explored, in particular the type of treatments participants are receiving alongside the CBM, such as medication intake and/or other psychotherapeutic interventions.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Methods/Design</p>
+          </st>
+          <sec>
+             <st>
+                <p>Trial design</p>
+             </st>
+             <p>The present study is a phase II, double-blind, parallel group RCT. Following the design of previous CBM studies <abbrgrp>
+                   <abbr bid="B18">18</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B19">19</abbr>
+                </abbrgrp>, participants complete 11 sessions of either the active or placebo version of both attentional and approach bias training modules. The experimental intervention has a 2&#215;2 factorial design, which combines the active and placebo training modules into four experimental conditions: one double active training experimental condition, two experimental groups receiving one active training and one placebo training and one double placebo training control group. According to the experimental design, the probability of receiving at least one active CBM intervention reaches 75%. The placebo version of each training module consists of a continuous assessment, in which half of the trials train the cognitive biases away towards alcohol and the other half towards soda (active placebo). The manipulation of the stimulus-response contingency in each task allows for a controlled and clean comparison between experimental conditions while retaining the same tasks, stimuli and instructions. Also, Wiers <it>et al</it>. <abbrgrp>
+                   <abbr bid="B18">18</abbr>
+                </abbrgrp> found no differences between continuous assessment and no-training placebo conditions, which suggested that either type of placebo could be used.</p>
+             <p>Participants complete a total of 14 sessions: two baseline assessment sessions, 11 training sessions, one post-intervention assessment session and one three-month follow-up assessment session. Participants complete the training sessions with a between-session time interval of a maximum of five days. The post-intervention assessment takes place between the 10th and 11th training session during a &#8216;masked&#8217; session (participants do not know they are completing the post-intervention evaluation). That is to avoid possible negative feelings related to the final &#8216;evaluation&#8217; of the intervention and minimise self-presentation biases and/or preparatory strategies.</p>
+             <p>Participant flowchart as per Consolidated Standards of Reporting Trials (CONSORT) statement <abbrgrp>
+                   <abbr bid="B27">27</abbr>
+                </abbrgrp> is presented in Figure&#160;<figr fid="F1">1</figr>. The study was approved by the Ethics Committee of the School of Psychology of the University of Padova (March 2013; Protocol number: 1242) and registered at Current Control Trials (identifier: ISRCTN01005959).
+                  </p>
+             
+                <fig id="F1">
+                   <title>
+                      <p>Figure 1</p>
+                   </title>
+                   <caption>
+                      <p>Participant flow diagram. </p>
+                   </caption>
+                   <text>
+                      <p>
+                            <b>Participant flow diagram.</b>                          
+                      </p>
+                   </text>
+                   <graphic file="s13063-015-0576-6-1"/>
+                </fig>
+             
+          </sec>
+          <sec>
+             <st>
+                <p>Participants and procedure</p>
+             </st>
+             <p>Participants are adult outpatients with a main diagnosis of alcohol addiction disorder, recruited from the public health addiction service (Servizio per le Dipendenze, ULSS10) of San Don&#224; di Piave, Italy. The targeted number of recruited participants is 120, to be equally balanced across the four experimental conditions.</p>
+             <p>Participants are screened for eligibility according to the following criteria:</p><p>1. Inclusion criteria: adult outpatients with primary diagnosis of alcohol addiction disorder according to the diagnostic criteria of the Diagnostic and Statistical Manual of Mental Disorders (4th Edition, Text Revision) and alcohol abstinence for at least two months.</p>
+                <p>2. Exclusion criteria: neurocognitive problems, visual or hand-motoric handicaps, severe neurological disorders (such as Korsakoff syndrome), comorbidity with psychotic disorders or low fluency in the Italian language.</p>
+             <p>Participants are recruited by clinicians according to the inclusion and exclusion criteria and invited to participate in the study. At invitation, clinicians provide the patients with a brief introduction to the study by explaining that addiction disorders are partly due to uncontrolled and automatic processes which can substantially increase the risk for relapse, and that the main objective of the research is to test the effectiveness of new computerised treatment interventions, which can help the patient in gaining and increasing a better control over these underlying mechanisms. The clinician will also supervise patients&#8217; activity and progress along both the patient&#8217;s standard treatment and the experimental intervention.</p>
+             <p>After the patients are informed about the research objectives and the norms for confidential data treatment and for participating in the study, interested participants undersign a written informed consent form and create their research account at the training website.</p>
+             <p>Participants will be excluded from the study if they do not complete the baseline assessment or if they disclose the intention to discontinue the study. All participants will continue their treatment as usual in the public addiction service. Upon completion of the three-month follow-up assessment, they have the opportunity to attend the double active CBM training if they wish. The percentage of participants that enter the booster training is registered.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Randomisation</p>
+             </st>
+             <p>Participants are automatically randomised at the pre-intervention stage across the four experimental conditions, stratified by gender and category of medication intake, as specified here under:</p><p>1. CategoryA (alcohol agonists and antagonists): Disulfiram, Naltrexone, Acamprosate and Gamma-hydroxybutyrate;</p>
+                <p>2. Category B (psychoactive medication such as anxiolytic, antidepressant and neuroleptic medications);</p>
+                <p>3. Category C (other medications).</p>
+             <p>Participants are randomly allocated to one of the conditions to which the fewest participants of their gender and medication category have been so far assigned.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Blinding</p>
+             </st>
+             <p>The trial has a double-blind design; hence, both participants and researchers do not know which experimental condition participants are assigned to. Participants create their personal research account at registration in the trial online platform and login to their personal account at each session. Participants are anonymised via the assignment of a user ID number. In order to reduce potential biases, participants complete online assessment measures, tasks and re-training interventions on their own at the computer, with the support of the researcher when requested. Furthermore, to keep participants blind to which intervention they receive they are required to respond to an irrelevant feature of the pictures in both CBM modules (orientation of the picture), instead of reacting to the content of the picture (alcoholic or non-alcoholic drinks) <abbrgrp>
+                   <abbr bid="B28">28</abbr>
+                </abbrgrp> (for a discussion about the difference between relevant- and irrelevant-feature tasks, see Wiers <it>et al</it>. and Field <it>et al</it>. <abbrgrp>
+                   <abbr bid="B29">29</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B30">30</abbr>
+                </abbrgrp>). Participants&#8217; awareness about which experimental condition they are assigned to is assessed during the follow-up assessment.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Intervention</p>
+             </st>
+             <p>Each CBM session starts with the brief MS interview (about 15&#160;minutes), after which the motivation for training is briefly assessed, and proceeds with the two training modules (about 15&#160;minutes each).</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Brief motivational support interview</p>
+             </st>
+             <p>According to the Trans-theoretical Model of Behaviour Change <abbrgrp>
+                   <abbr bid="B31">31</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B32">32</abbr>
+                </abbrgrp>, which assumes that the changing process in health behaviour treatment is composed of six stages of readiness, from the pre-contemplation (avoidance and denial of a problem) to the maintenance (maintaining the successful changes into the daily life) stage, the participants of the present study are supposed to be in the fourth action stage of change, as assessed at baseline with the alcohol version of the motivation to treatment questionnaire (MAC-2A <abbrgrp>
+                   <abbr bid="B33">33</abbr>
+                </abbrgrp>). This stage is characterised by the pursuit of concrete decisions and behaviours aimed to tackle the addiction problem and to change the status quo, and by the establishment of an intentional commitment to the treatment process.</p>
+             <p>At the beginning of each training session, participants take part in a brief interview with a trained researcher (about 15&#160;minutes), aimed at introducing the participant to the upcoming experimental session. The protocol of MS here devised has been partially inspired by the principles of the Motivational Interviewing approach <abbrgrp>
+                   <abbr bid="B21">21</abbr>
+                </abbrgrp>, developed in the wake of the Trans-theoretical Model of Behaviour Change. Experimenters conducting the MS intervention are firstly trained with a professional in motivational interviewing, and later can practice the MS protocol during several role-plays with clinicians working in the addiction service. The interviewers regularly take part in supervision meetings with the same clinicians to discuss any issue related to the MS interviews.</p>
+             <p>The main objective of the MS during the action stage is to support the participants&#8217; changes and progress reached so far in a constructive and open-minded way, by explicitly sustaining the efforts they are making to concretely face their addiction problems. In this context the efforts the participants are making include participation in the training sessions. The targeted MS then serves the purpose of preparing and introducing the participant to the upcoming experimental session, by rehearsing the objectives of the training, empowering the motivation to engage in the therapeutic process and sustaining the patient&#8217;s attention to the potential benefits of the CBM trainings. Namely, the strategies adopted in this phase are: reviewing progress, renewing motivation and redoing commitment <abbrgrp>
+                   <abbr bid="B34">34</abbr>
+                </abbrgrp>.</p>
+             <p>In particular, each session of MS should cover the following topics:</p><p>1. Review of the previous training session (except the first training session) and feedback to co-structure a positive framed feedback on the progress so far.</p>
+                <p>2. Renewal and support of the motivation and compliance to the experimental intervention. According to the participant&#8217;s report of the previous session, the interview proceeds by shifting the attention to the motives that led the participants to start the change process, to support and/or empower them and remind them of the objectives of this training. The joint rehearsing of the motivations that brought the patient to undergo a treatment intervention (such as &#8216;I don&#8217;t want my loved ones to be ashamed of me&#8217;, &#8216;I don&#8217;t want my children to grow up with an alcohol addicted father/mother&#8217;, &#8216;I messed up my life because of the drinking&#8217; and &#8216;I don&#8217;t want to feel like a loser anymore&#8217;) should work as a fuel for continuing the intervention (long-term goals) and prepare the &#8216;field&#8217; for the engagement of top-down control processes.</p>
+                <p>3. Empowerment of self-efficacy and affirmation of the current changing progresses. The training interventions are one of the concrete actions pursued by the participant to deal with the alcohol abuse. It is then important to explicitly acknowledge the progress (precision, constancy and commitment to the tasks) and to reinforce it (for example, by stressing that the practice effect can be a sign of individual efficacy in performing the tasks and increased control over the performance).</p>
+                <p>4. Normalisation of any difficulty encountered in the training execution and reaffirmation of commitment (for example, by using the metaphor of gym training). Difficulty and boredom are common experiences that are intrinsically part of these kinds of interventions. In particular, the repetition of a certain behavioural pattern is a key component when the objective is to strengthen ability, or a muscle for example, or to increase the expertise and control in some life domains, such as a job activity. This strategy is functional to the reinforcement of the participant&#8217;s sense of autonomy and ability to pursue self-chosen goals and plans.</p>
+                <p>5. Collaborative negotiation of the incoming session proximal goals. What are the expectations for the next session? What is the goal the participant would like to reach? For example, the proximal goal of increasing the response speed or reducing the number of errors sounds like a challenge for some participants and consequently stimulates their active involvement in the task.</p>
+             <p>Generally speaking, the interview is conducted with a specific, empathic and non-judgemental interviewing style and should be based on a concrete level of interaction, client-centred and focused on the introduction and practical discussion of the training sessions. The discussion of personal feelings and experiences related to the individual case study and relevant to the patient&#8217;s therapeutic path should be acknowledged but still re-addressed to the standard psychotherapeutic setting. According to the Trans-theoretical Model of Behaviour Change perspective, the change processes involved in the MS here devised deal with behavioural processes, namely, reinforcement of self-efficacy and managing strategies, stimuli control and relationship support, leaving the in-depth involvement of the experiential processes to the individual clinical setting.</p>
+             <p>Neither the participant nor the researcher knows to which experimental condition the participant has been assigned. If participants enquiry about their intervention condition the researchers will honestly disclose their own unawareness about participants&#8217; allocation.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Cognitive Bias Modification interventions</p>
+             </st>
+             <p>Each CBM training session consists of two modules: the attentional bias re-training and the approach bias re-training. Each task, both in the active and placebo version, consists of three blocks: a brief practice block, a mini-assessment block and a training block. The practice block presents neutral stimuli (grey geometrical pictures) to practice the task. The mini-assessment block serves the purpose of measuring the strength of the bias at the start of every session and tracking any change in the cognitive bias as a result of the CBM training.</p>
+             <p>In both tasks, each trial starts with a fixation cross in the middle of the screen for a duration randomly drawn from a <it>U</it>[500, 1,000] distribution. This setting was designed to make the task less boring, to keep participants&#8217; attention focused and to avoid anticipatory responses. Whenever a wrong response is given, a red cross appears on the screen to allow for correction.</p>
+             <p>The two tasks were designed to be as similar as possible (same stimuli and number of trials) to avoid any confounding effect on participants&#8217; performance. Their order of presentation is counterbalanced between subjects and fixed within subjects across all measurement time-points.</p>
+             <sec>
+                <st>
+                   <p>Attentional bias retraining</p>
+                </st>
+                <p>Attentional bias is assessed and trained through a modified version of the Visual Probe Task (VPT) <abbrgrp>
+                      <abbr bid="B12">12</abbr>
+                   </abbrgrp>,<abbrgrp>
+                      <abbr bid="B13">13</abbr>
+                   </abbrgrp>,<abbrgrp>
+                      <abbr bid="B20">20</abbr>
+                   </abbrgrp>, which is a computerised speeded reaction-time task in which participants are asked to respond to probes located in two different positions on the computer screen (irrelevant-feature implicit measure <abbrgrp>
+                      <abbr bid="B30">30</abbr>
+                   </abbrgrp>). During the task, a picture of an alcoholic drink and a picture of a non-alcoholic drink are presented next to each other on the screen for 500&#160;ms. After the stimuli presentation, a small arrow (8.3% of the width and height of the picture) pointing upwards or downwards is presented in either of two trial formats: in half of the trials it replaces one of the two pictures (after format), measuring speeded detection of alcohol-related stimuli (attention engagement), and in the other half it is positioned on top of one of the pictures (on-top format), measuring the relative difficulty to disengage from alcohol-related stimuli (attention disengagement). Participants are instructed to respond as fast as possible to the direction of the arrow by pressing the corresponding key on the keyboard (U and N) (for an example of a trial, see Figure&#160;<figr fid="F2">2</figr>). Response window is set to 4,000&#160;ms; in cases of no response, the trial is restarted after repeating the task instructions.
+                    </p>
+                
+                   <fig id="F2">
+                      <title>
+                         <p>Figure 2</p>
+                      </title>
+                      <caption>
+                         <p>Example of trials in the attentional bias re-training (upper half) and in the approach bias re-training (bottom half). </p>
+                      </caption>
+                      <text>
+                         <p>
+                              <b>Example of trials in the attentional bias re-training (upper half) and in the approach bias re-training (bottom half).</b>                            
+                         </p>
+                      </text>
+                      <graphic file="s13063-015-0576-6-2"/>
+                   </fig>
+                
+                <p>In the VPT assessment version and in the mini-assessment block during training, the arrow replaces the picture of alcoholics (alcohol trials) and non-alcoholics (non-alcohol trials) equally often. Attentional bias is computed by subtracting the median response time (RT) on alcohol trials from the median RT on non-alcohol trials, separately for after and on-top trial formats. In the training block, participants in the experimental condition are trained to direct their attention away from alcoholic drinks towards non-alcoholic drinks by exposing them only to non-alcohol trials, whereas participants in the placebo condition are presented with 50% alcohol and 50% non-alcohol trials (as in the VPT assessment version and in the mini-assessment blocks).</p>
+                <p>Stimuli are pairs of matched alcohol- and non-alcohol pictures, which are counterbalanced with a 2&#215;2&#215;2 design for assessment and placebo training (stimuli presented on the left and on the right, formats of arrow presentation and arrow location on the alcohol or non-alcohol picture), and with a 2&#215;2 design for active training (stimuli presented on the left and on the right and formats of arrow presentation). The probe direction is set randomly upwards or downwards with the restriction that up and down appears equally often.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Approach bias re-training</p>
+                </st>
+                <p>Alcohol automatic approach tendencies are assessed and trained with the Approach-Avoidance Task (AAT) <abbrgrp>
+                      <abbr bid="B14">14</abbr>
+                   </abbrgrp>,<abbrgrp>
+                      <abbr bid="B15">15</abbr>
+                   </abbrgrp>,<abbrgrp>
+                      <abbr bid="B20">20</abbr>
+                   </abbrgrp>,<abbrgrp>
+                      <abbr bid="B28">28</abbr>
+                   </abbrgrp>, which is a computerised speeded reaction-time task in which participants are asked to react to the presentation format of the stimulus and ignore the stimulus content (irrelevant-feature implicit measure <abbrgrp>
+                      <abbr bid="B30">30</abbr>
+                   </abbrgrp>).</p>
+                <p>In this task, a picture of an alcoholic or non-alcoholic drink is presented in the centre of the screen. The picture is tilted to the left or right by three degrees. Participants are instructed to respond to the tilt direction of the picture by pushing pictures tilted to the left away from them, and pulling pictures tilted to the right towards them, by pressing and holding two keys (U and N) on the keyboard. The combination of picture tilt direction and response (left/push and right/pull versus left/pull and right/push) is counterbalanced across participants. Participants&#8217; response is accompanied by a zooming effect, which increases picture size in the pulling closer response and decreases it in the pushing away response, mimicking actual approach and avoidance (for an example of a trial, see Figure&#160;<figr fid="F2">2</figr>).</p>
+                <p>In the AAT assessment version and in the mini-assessment block during training, pictures of alcoholics and non-alcoholics are presented equally often in both formats. The approach bias score is computed following the conventional D-score algorithm generally used in the Implicit Association Test <abbrgrp>
+                      <abbr bid="B35">35</abbr>
+                   </abbrgrp>, and adapted by Wiers <it>et al</it>. to the AAT <abbrgrp>
+                      <abbr bid="B18">18</abbr>
+                   </abbrgrp>, which standardises the difference in RTs by dividing the difference by the individual standard deviation (SD) of RTs. An approach bias D-score is computed for alcohol ((alcohol/push&#8201;&#8722;&#8201;alcohol/pull)/SD(alcohol)) and for non-alcohol trials ((non-alcohol/push&#8201;&#8722;&#8201;non-alcohol/pull)/SD/non-alcohol)). Positive scores indicate an approach tendency, negative ones indicate an avoidance tendency.</p>
+                <p>In the training block, participants in the experimental condition are trained to avoid alcohol by exposing them only to alcohol/push and non-alcohol/pull trials, whereas for participants in the placebo condition alcoholic and non-alcoholic beverages are presented equally often in both formats (as in the AAT assessment version and in the mini-assessment blocks).</p>
+                <p>Stimuli are pairs of matched alcohol and non-alcohol pictures, which are counterbalanced for presentation format only for assessment. Stimuli stay on screen for 3,000&#160;ms; in cases of no response the trial is restarted after repeating the instructions.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Tasks stimuli</p>
+                </st>
+                <p>The current beverage picture set is an Italian adoption of the Amsterdam Beverage Picture Set (ABPS; Pronk T, Van Deursen DS, Beraha EM, Larsen H, Wiers RW. Validation of the Amsterdam Beverage Picture Set: a controlled picture set for cognitive bias measurement and modification paradigms. Forthcoming). As such, half of the pictures are passive pictures that display beverages in front of a white background, the other half being active pictures that display beverages being held, opened, drunk or served by a model in front of a white background. Prior research indicated that for heavy drinkers, alcohol displayed in a social setting induced stronger self-reported craving <abbrgrp>
+                      <abbr bid="B36">36</abbr>
+                   </abbrgrp> and stronger emotional responses <abbrgrp>
+                      <abbr bid="B37">37</abbr>
+                   </abbrgrp> than alcohol in front of a white background. This may be due to alcohol in a social setting being a more naturalistic cue than the alcohol without any context. In contrast, pictures without context did induce a stronger attentional bias <abbrgrp>
+                      <abbr bid="B38">38</abbr>
+                   </abbrgrp> than social pictures. This may be due to fast mental processes such as cognitive biases being most effectively triggered by simple stimuli that solely feature a stand-alone alcoholic or non-alcoholic beverage. The pictures used in the current study were designed to be relatively simple, but nevertheless feature beverages both with (active) and without (passive) drinking contexts. This distinction is aimed at keeping pictures relatively simple, while allowing for a sufficiently varied stimulus set.</p>
+                <p>The stimulus set features 144 pairs of alcohol and non-alcohol pictures matched by structural, visual and pictorial features and photographed in both passive (beverage only) and active (presence of a human in interaction with the drink) contexts. Alcohol pictures depict highly popular and recognisable Italian brands of wine, beer and spirits. A common non-alcoholic drink was selected for each alcoholic beverage by matching, as much as possible, the type of packaging (bottle, can, jar or carton), package size and colour.</p>
+                <p>Drinks were then photographed in a neutral setting (windowless room with a table on a white background, full illumination on the centre of the table, various glasses for the different drinks, a tray and a bottle opener) and according to the following criteria: drinks in the foreground of the picture, consistent framing to shoot pictures from the same angle and use of a standard digital camera.</p>
+                <p>Drinks were photographed in six scenarios, three for each context (passive: open beverage only, open beverage with empty glass and open beverage with full glass; active: woman serving the open drink on a tray, woman or man opening the drink and woman or man drinking). In woman or man active scenarios, alcoholic drinks, as well as their matched non-alcoholic drinks, were counterbalanced for drink category (wine, beer and spirits) and gender; whereas in the three passive scenarios each picture was shot in each scenario.</p>
+                <p>Stimuli were processed in Adobe Photoshop CS6 (Adobe Systems Incorporated, San Jose, California, USA) to adjust for size, exposure, brightness, contrast and to correct minor image imperfections (see Additional file <supplr sid="S1">1</supplr>: Table S1 for some examples of stimuli). Stimuli are randomised with 50/50 proportion of passive and active pictures in each task. In each training session untrained and already trained pictures are presented. At the pre- and post-intervention assessment session the VPT and AAT use different untrained stimuli. The follow-up measurement session is equal to the post-intervention session; the same stimuli are used.</p></sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Measures</p>
+             </st>
+             <p>An overview of all measurement instruments along the RCT measurement time-points is presented in Table&#160;<tblr tid="T1">1</tblr>.
+                  </p>
+             
+                <table id="T1">
+                   <title>
+                      <p>Table 1</p>
+                   </title>
+                   <caption>
+                      <p>
+                            <b>Measurement instruments: purpose, measures and time points</b>                          
+                      </p>
+                   </caption>
+                   <tgroup align="left" cols="6">
+                      <colspec align="left" colname="c1" colnum="1" colwidth="*"/>
+                      <colspec align="left" colname="c2" colnum="2" colwidth="*"/>
+                      <colspec align="left" colname="c3" colnum="3" colwidth="*"/>
+                      <colspec align="left" colname="c4" colnum="4" colwidth="*"/>
+                      <colspec align="left" colname="c5" colnum="5" colwidth="*"/>
+                      <colspec align="left" colname="c6" colnum="6" colwidth="*"/>
+                      <thead>
+                         <row rowsep="1" valign="top">
+                            <entry colname="c1">
+                               <p>
+                                  <b>Purpose</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>
+                                  <b>Measures</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>
+                                  <b>Baseline</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>
+                                  <b>Training</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>
+                                  <b>Post-intervention</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>
+                                  <b>Follow-up</b>                              
+                               </p>
+                            </entry>
+                         </row>
+                      </thead>
+                      <tfoot>
+                         <p>
+                            <sup>a</sup>At baseline, post-intervention and follow-up measurement sessions, the questionnaire refers to the last 12, 1, and 3&#160;months, respectively.</p>
+                         <p>VPT: Visual Probe Task; AAT: Approach-Avoidance Task, BIAT: Brief Implicit Association Task, RSES: Rosenberg Self-esteem Scale, AUDIT: Alcohol Use Disorder Identification Test, OCDS: Obsessive-Compulsive Drinking Scale, STAI-Y: State-Trait Anxiety Inventory &#8211; Form Y, BDI-II: Beck Depression Inventory-II, MAC2-A: Motivation to Change-Alcohol version.</p>
+                      </tfoot>
+                      <tbody>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Cognitive bias assessment</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>VPT AAT</p>
+                            </entry>
+                            <entry align="left" colname="c3">
+                               <p>&#10003;</p>
+                            </entry>
+                            <entry align="left" colname="c4">
+                               <p>&#10003;</p>
+                            </entry>
+                            <entry align="left" colname="c5">
+                               <p>&#10003;</p>
+                            </entry>
+                            <entry align="left" colname="c6">
+                               <p>&#10003;</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Generalisation of training effects</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>BIAT</p>
+                            </entry>
+                            <entry align="left" colname="c3">
+                               <p>&#10003;</p>
+                            </entry>
+                            <entry align="left" colname="c4"/>
+                            <entry align="left" colname="c5">
+                               <p>&#10003;</p>
+                            </entry>
+                            <entry align="left" colname="c6"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Executive function</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Stroop task</p>
+                            </entry>
+                            <entry align="left" colname="c3">
+                               <p>&#10003;</p>
+                            </entry>
+                            <entry align="left" colname="c4"/>
+                            <entry align="left" colname="c5">
+                               <p>&#10003;</p>
+                            </entry>
+                            <entry align="left" colname="c6"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Baseline measures</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Demographics Case history details RSES</p>
+                            </entry>
+                            <entry align="left" colname="c3">
+                               <p>&#10003;</p>
+                            </entry>
+                            <entry align="left" colname="c4"/>
+                            <entry align="left" colname="c5"/>
+                            <entry align="left" colname="c6"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Primary outcome measure</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Clinical status (lapse/relapse)</p>
+                            </entry>
+                            <entry align="left" colname="c3">
+                               <p>&#10003;</p>
+                            </entry>
+                            <entry align="left" colname="c4"/>
+                            <entry align="left" colname="c5">
+                               <p>&#10003;</p>
+                            </entry>
+                            <entry align="left" colname="c6">
+                               <p>&#10003;</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Secondary outcome measures</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>AUDIT<sup>a</sup> CORE Alcohol/Drug use<sup>a</sup> OCDS STAI-Y BDI-II</p>
+                            </entry>
+                            <entry align="left" colname="c3">
+                               <p>&#10003;</p>
+                            </entry>
+                            <entry align="left" colname="c4"/>
+                            <entry align="left" colname="c5">
+                               <p>&#10003;</p>
+                            </entry>
+                            <entry align="left" colname="c6">
+                               <p>&#10003;</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1" morerows="1">
+                               <p>Motivation to treatment</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>MAC2-A</p>
+                            </entry>
+                            <entry align="left" colname="c3">
+                               <p>&#10003;</p>
+                            </entry>
+                            <entry align="left" colname="c4"/>
+                            <entry align="left" colname="c5">
+                               <p>&#10003;</p>
+                            </entry>
+                            <entry align="left" colname="c6"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>Motivation to training</p>
+                            </entry>
+                            <entry align="left" colname="c3"/>
+                            <entry align="left" colname="c4">
+                               <p>&#10003;</p>
+                            </entry>
+                            <entry align="left" colname="c5"/>
+                            <entry align="left" colname="c6"/>
+                         </row>
+                      </tbody>
+                   </tgroup>
+                </table>
+             
+          </sec>
+          <sec>
+             <st>
+                <p>Baseline measures</p>
+             </st>
+             <p>Sociodemographic information (gender, birthdate, annual income and educational level) and clinical case history details (duration of alcohol addiction, previous detoxifications and treatments, duration of current abstinence and medication intake) are collected during participants&#8217; research registration.</p>
+             <p>At the first baseline assessment session, other substance use (integration of CORE Alcohol and Drug Abuse Survey (CORE Institute) and the Italian Population Survey on Alcohol and other Drugs questionnaire (National observatory for Drug Use)), self-esteem (Rosenberg Self-Esteem Scale, RSES) <abbrgrp>
+                   <abbr bid="B39">39</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B40">40</abbr>
+                </abbrgrp>, anxiety (State-Trait Anxiety Inventory-Y, STAI-Y) <abbrgrp>
+                   <abbr bid="B41">41</abbr>
+                </abbrgrp> and depressive symptoms (Beck Depression Inventory-II, BDI-II) <abbrgrp>
+                   <abbr bid="B42">42</abbr>
+                </abbrgrp> are evaluated. After the questionnaires, participants are assessed for baseline alcohol approach bias (VPT) and attentional bias (AAT).</p>
+             <p>At the second baseline assessment session, alcohol abuse (Alcohol Use Disorders Identification Test (AUDIT)) <abbrgrp>
+                   <abbr bid="B43">43</abbr>
+                </abbrgrp>, craving (Obsessive-Compulsive Drinking Scale, OCDS) <abbrgrp>
+                   <abbr bid="B44">44</abbr>
+                </abbrgrp> and motivation to treatment (MAC2-A) <abbrgrp>
+                   <abbr bid="B33">33</abbr>
+                </abbrgrp> are evaluated.</p>
+             <p>After the questionnaires, a computerised version of the classical Stroop task <abbrgrp>
+                   <abbr bid="B45">45</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B46">46</abbr>
+                </abbrgrp> is used to assess interference control capacity <abbrgrp>
+                   <abbr bid="B18">18</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B19">19</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B26">26</abbr>
+                </abbrgrp>. In this task, participants have to classify words and symbols according to their ink colour and ignore the content. The task starts with a practice block, in which participants have to learn the correct key-colour combination (only neutral and incongruent trials are presented). The second block consists of a second practice block task with grey key reminders on the bottom of the screen. The third block is a test block composed of 112 trials in which the key reminders disappear and 16 neutral trials (such as symbols like #### in blue ink colour), 48 congruent trials (such as the word &#8216;red&#8217; in red ink colour) and 48 incongruent trials (such as the word &#8216;red&#8217; in yellow ink colour) are presented.</p>
+             <p>The second assessment session ends with a Brief Implicit Association Task (BIAT) <abbrgrp>
+                   <abbr bid="B47">47</abbr>
+                </abbrgrp> measuring the strength of approach and avoidance associations with alcohol <abbrgrp>
+                   <abbr bid="B18">18</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B19">19</abbr>
+                </abbrgrp>. In the BIAT, participants are required to choose whether word stimuli presented in the centre of the screen belongs to one of two focal categories on top of the screen or not, by pressing the &#8216;yes&#8217; and &#8216;no&#8217; corresponding keys (E and I). In the first block (16 trials) participants practice the task by classifying words for alcoholic beverages (wine, beer, vodka and rum), non-alcoholic beverages (pepsi, milk, water and tea), mammals (horse, sheep, cat and elephant) and birds (swallow, eagle, hawk and pigeon), as belonging to alcohol or mammals (focal categories) or not (&#8216;anything else&#8217; category). In the subsequent four blocks (20 trials each), the alcohol focal category is alternatively paired with approach (block two and four) or avoid (block three and five) attribute category. Test attribute stimuli for approach (grab, approach, closeness and touch) and avoidance (flee, push, avoidance and elude) have been adapted from Wiers <it>et al</it>. <abbrgrp>
+                   <abbr bid="B18">18</abbr>
+                </abbrgrp> and Ostafin and Palfai <abbrgrp>
+                   <abbr bid="B48">48</abbr>
+                </abbrgrp>. The order of the combined blocks for the alcohol/[attribute category] pairings within the BIAT and the contingency between the response and the assigned key (E and I) are counterbalanced across participants. The outcome measure is computed as the standardised difference in latencies between the different combined blocks (modified D-score algorithm <abbrgrp>
+                   <abbr bid="B49">49</abbr>
+                </abbrgrp>). As a control measure, participants subsequently rated BIAT stimuli on valence with a visual analogue scale from 0 (extremely negative) to 10 (extremely positive).</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Outcome measures</p>
+             </st>
+             <p>The main outcome measure is the occurrence or not of lapse and/or relapse episode(s) during the three months after the intervention (follow-up assessment). The treatment status (any medication intake and other form of therapeutic intervention) at the follow-up assessment is also considered in comparison to the baseline status.</p>
+             <p>Secondary outcome measures include changes in the automatic cognitive biases as assessed with the VPT and AAT at post-intervention and follow-up assessment sessions. At the follow-up assessment, VPT and AAT present the same stimuli of the post-intervention session, to check for the duration of the training effects.</p>
+             <p>Generalisation effects of the two CBM modules to other measures are assessed at post-intervention with the BIAT <abbrgrp>
+                   <abbr bid="B20">20</abbr>
+                </abbrgrp>-<abbrgrp>
+                   <abbr bid="B22">22</abbr>
+                </abbrgrp>. Other secondary outcome measures (assessed at each measurement point) also include other substance abuse (CORE questionnaire), alcohol-related problems (AUDIT), craving (OCDS), anxiety (STAI-Y), depression symptoms (BDI-II) and motivation to treatment (MAC2-A; measured at pre- and post-intervention only).</p>
+             <p>Intervention credibility and expectancies are also assessed with the Credibility/Expectancy Questionnaire <abbrgrp>
+                   <abbr bid="B50">50</abbr>
+                </abbrgrp> to evaluate participants&#8217; general experience with the study.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Data analysis</p>
+             </st>
+             <p>Complete analyses will be conducted in agreement with Intention-To-Treat principle <abbrgrp>
+                   <abbr bid="B26">26</abbr>
+                </abbrgrp>. Missing data points will be handled with multiple imputation.</p>
+             <p>To answer to the main research question, a multiple logistic regression will be used to estimate how much the main and combined exposure to the two CBM modules affects the occurrence of lapse and/or relapse episodes at the three-month follow-up assessment.</p>
+             <p>The secondary research question, whether participants approach and attentional biases do change after the CBM intervention, is addressed via a 3&#215;2&#215;3 repeated-measures mixed ANOVA with the AAT and VPT scores as dependent variables, time (baseline, post-intervention and follow-up) as repeated measures within-subject factor, drink type (alcoholic and non-alcoholic) or attentional process (engagement and disengagement) as within-subject factor, and CBM condition (re-training or placebo) as between-subject factor. The same analysis applies to the continuous secondary outcome measures administered at each time point.</p>
+             <p>The third research question of the present study is framed within a &#8216;what works best for whom?&#8217; approach <abbrgrp>
+                   <abbr bid="B8">8</abbr>
+                </abbrgrp> and explores the moderating and mediating roles of individual differences variables on the clinical outcome by means of a moderated mediation analysis <abbrgrp>
+                   <abbr bid="B51">51</abbr>
+                </abbrgrp>. More precisely, baseline strength of the cognitive biases and interference control capacity (Stroop task), as well as age, gender and previous detoxifications, are hypothesised to moderate the change in cognitive bias after the CBM intervention, which is further hypothesised to eventually mediate the change in the clinical outcome variable (see Eberl <it>et al</it>. <abbrgrp>
+                   <abbr bid="B19">19</abbr>
+                </abbrgrp>).</p>
+             <p>Finally, participants&#8217; motivation to change (MAC2-A) at pre- and post-intervention will be compared via a paired t-test. Via a repeated-measures ANOVAs we will explore whether change in participants&#8217; motivation to carry on with the training after the brief MS interviews affects attrition and training outcome.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Sample size</p>
+             </st>
+             <p>The sample size is limited to 120 recruited participants due to constraints in the ratio between the number of potential participants fully meeting the eligibility criteria and available to participate in the study, out of the total number of alcohol-dependent outpatients currently in charge in the public service at the time of recruitment (3:10). Therefore, a realistic estimate of 120 participants (n&#8201;=&#8201;30 per experimental condition) was considered achievable for a phase II RCT study, and further supported by a minimum number of cases identification analysis.</p>
+             <p>An operational guideline to identify the minimum number of cases to include in the study has been suggested by the Peduzzi <it>et al</it>. <abbrgrp>
+                   <abbr bid="B52">52</abbr>
+                </abbrgrp>. For <it>k</it> independent variables and <it>p</it> as the smallest of the proportions of negative or positive cases in the population, then the minimum number of participants is 10*k/p. Based on three previous CBM studies with alcohol dependent clinical populations, the average proportions of occurrence or absence of relapse event(s) at follow-up are about 0.53 and 0.47 after an approach bias or control re-training, respectively <abbrgrp>
+                   <abbr bid="B18">18</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B19">19</abbr>
+                </abbrgrp>; and about 0.40 and 0.28 after an attentional bias or control re-training, respectively <abbrgrp>
+                   <abbr bid="B17">17</abbr>
+                </abbrgrp>. The proportions were computed out of the total number of enrolled participants.</p>
+             <p>By taking the minimum among the four proportion values and setting <it>k</it>&#8201;=&#8201;2 (two independent variables: attentional bias CBM re-training or placebo and approach bias CBM re-training or placebo), the minimum number of cases to be included in the present study is 10*2/0.28&#8201;&#8773;&#8201;71. According to this approach, the proposed sample size is more than adequate to answer to the primary research question of the present study and should also allow for high attrition rates. It is worth noting that Wiers <it>et al</it>. <abbrgrp>
+                   <abbr bid="B18">18</abbr>
+                </abbrgrp> and Eberl <it>et al</it>. <abbrgrp>
+                   <abbr bid="B19">19</abbr>
+                </abbrgrp> had a one-year follow-up period, whereas Schoenmakers <it>et al</it>. <abbrgrp>
+                   <abbr bid="B17">17</abbr>
+                </abbrgrp> had a three-month follow-up period. The different follow-up timing allows only a partial comparison of the above-mentioned proportions. If similar proportions at one-year of follow-up were also observed in Schoenmakers <it>et al</it>. <abbrgrp>
+                   <abbr bid="B17">17</abbr>
+                </abbrgrp> then the minimum number of cases would decrease to 10*2/0.47&#8201;&#8773;&#8201;43.</p>
+             <p>An additional sensitivity power analysis was carried out for a simple logistic regression analysis on the binary outcome variable separately for the two cognitive bias re-training modules, to detect the minimal detectable effect in the present study as a function of significance level &#945;, statistical power (1-&#946;) and sample size. The null hypothesis (H<sub>0</sub>) stated that the probability (p<sub>1</sub>) of presenting a relapse event (Y&#8201;=&#8201;1) in the active training condition (X&#8201;=&#8201;1) equals the relapse rate in the placebo condition (X&#8201;=&#8201;0) detected in previous studies (H<sub>0</sub>: p<sub>1</sub>&#8201;=&#8201;p(Y&#8201;=&#8201;1|X&#8201;=&#8201;0)&#8201;=&#8201;p(Y&#8201;=&#8201;1|X&#8201;=&#8201;1)).</p>
+             <p>For the approach bias CBM training, p<sub>1</sub>&#8201;=&#8201;0.60, since about 60% of participants in the placebo condition relapsed <abbrgrp>
+                   <abbr bid="B18">18</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B19">19</abbr>
+                </abbrgrp>, whereas for the attentional bias CBM training p<sub>1</sub>&#8201;=&#8201;0.18 <abbrgrp>
+                   <abbr bid="B17">17</abbr>
+                </abbrgrp>. The targeted value for the latter was 0.18; however, given the small sample size (n&#8201;=&#8201;43) and almost 20% attrition rate in Schoenmakers <it>et al</it>. <abbrgrp>
+                   <abbr bid="B17">17</abbr>
+                </abbrgrp>, similarly to the approach bias CBM training, a 60% relapse rate in the placebo condition is assumed.</p>
+             <p>The alternative hypothesis (H<sub>1</sub>) states that in the active condition the probability (p<sub>2</sub>) of presenting a relapse event is lower than in the placebo condition (H<sub>1</sub>: p<sub>2</sub>&#8201;=&#8201;p(Y&#8201;=&#8201;1|X&#8201;=&#8201;1)&#8201;&lt;&#8201;p<sub>1</sub>). Assuming a power of 0.80, a binomial distribution of Y and a one-tailed significance test, for n&#8201;=&#8201;120 the projected odds-ratio or minimal detectable effect is 0.396 (critical z&#8201;=&#8201;&#8722;1.645) for both approach bias active versus placebo training and attentional bias active versus placebo training (G*Power 3.1, open-source software <abbrgrp>
+                   <abbr bid="B53">53</abbr>
+                </abbrgrp>).</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Discussion</p>
+          </st>
+          <p>The present paper describes the design of a double-blind RCT protocol to test the effectiveness of a computerised CBM intervention that targets alcohol-related maladaptive impulsive responses, which combines the attentional bias re-training and approach bias re-training in a 2&#215;2 factorial design with the inclusion of motivational elements in each re-training session.</p>
+          <p>To the best of our knowledge, this is the first study to investigate the implementation of a combined CBM intervention alongside a targeted motivational intervention before each CBM session to sustain the training process in a clinical sample of outpatients. On a conceptual and clinical level, the combination of CBM with motivational elements specifically related to the contingent training context follows the dual-process account of addiction disorders, in which both the initial impulsive reactions to alcohol cues and the later in time, more reflective and deliberate processes can be targeted in intervention to bolster top-down control processes over impulses <abbrgrp>
+                <abbr bid="B8">8</abbr>
+             </abbrgrp>. Weakening automatic appetitive processes by providing an alternative response option (training towards non-alcoholic stimuli) and simultaneously stressing the motivation (positive incentives) for more reflective and goal-directed behaviour is a double-pronged approach; both automatic and reflective processes are targeted. Furthermore, the motivation enhancement approach of the interview serves the purpose of levering participants&#8217; commitment to and engagement in the training, which may well be perceived as monotonous and boring after a few sessions due to the inherent repetitiveness of the tasks.</p>
+          <p>One could argue that the MS should also have been experimentally manipulated to double-check its actual effects. Although that could have been experimentally optimal, it was not the main objective of the study. The leading focus was on the effects of the combination of two CBM interventions alongside the introduction of motivational elements. The MS was in fact conceived as a tool to optimise potential treatment effects of the CBM modules and to increase the acceptability and credibility of the CBM interventions, thus reducing attrition rates and improving the compliance to the training by subsuming the incentive value of long-term goal states <abbrgrp>
+                <abbr bid="B7">7</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B8">8</abbr>
+             </abbrgrp>.</p>
+          <p>A second strength of the present study bears the investigation of the combination of different CBM training with alcohol dependent outpatients. Up to now, the separate effects of CBM interventions have been mainly studied in samples of heavy drinkers <abbrgrp>
+                <abbr bid="B16">16</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B54">54</abbr>
+             </abbrgrp> and residential inpatients <abbrgrp>
+                <abbr bid="B17">17</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B19">19</abbr>
+             </abbrgrp>, while the combined effects of multiple web-based CBM trainings are currently under investigation with a broader sample of at-risk and problematic drinkers <abbrgrp>
+                <abbr bid="B20">20</abbr>
+             </abbrgrp>. Therefore, the second strength of the present study comes from the exploration of the potential effects of a CBM intervention in a different group of recipients who are also likely to benefit from the intervention. Alcohol dependent outpatients are usually characterised by cycles of relapses alternated with periods of abstinence, thus featuring their alcohol problems with a higher chronicity. When considering CBM modules as low-cost interventions that may potentially reduce the relapse rate and/or prolong the period of abstinence <abbrgrp>
+                <abbr bid="B17">17</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B19">19</abbr>
+             </abbrgrp>, therefore also prospectively deflating the number of patients that cyclically turn to addiction services to subside their relapse, the inclusion of CBM modules in the outpatient regimen of addiction interventions may be very cost-effective.</p>
+          <p>The third strength of the study lies in the adoption of a factorial design, which allows the detection of the main but also the incremental effects of combining two CBM interventions. Unfortunately, the main pitfall covers the lack of published results on the combination of different CBM paradigms, which did not permit the running of a proper <it>a priori</it> power analysis to set out the optimal sample size, as the effect of simultaneously targeting two cognitive biases at once is still unknown. The same applies to possible interaction effects between the two re-trainings, since as yet no published studies have tested, for instance, the effect of an approach bias re-training over the attentional bias or vice versa. These shortages could be considered as a drawback of the study in terms of power; however, they are also part of the main strengths, since the exploration of any interaction and/or additive effect of multiple CBM interventions is a key objective of the present study, and potentially fruitful for CBM research and clinical applications. Furthermore, a sensitivity power analysis for a multiple logistic regression makes it possible to at least have an ideal projection of the minimal detectable effect for the main effects of the two training modules. The identified values can then be used as a guideline when carrying out the data analysis of the present RCT and check for the actual sensitivity of the test in detecting the sought effect.</p>
+          <p>Last but not least, the RCT design includes the assessment of the effects of the CBM modules in the long run by measuring participants&#8217; cognitive biases in a follow-up session. So far, only a few studies have investigated the long-term effects of CBM on cognitive biases, particularly for attentional bias <abbrgrp>
+                <abbr bid="B55">55</abbr>
+             </abbrgrp>. Given the potential of CBM, more extended evaluations of training effects and of the relation between (long-lasting) cognitive bias change and primary outcome have been called for <abbrgrp>
+                <abbr bid="B55">55</abbr>
+             </abbrgrp>. In summary, the present longitudinal assessment of attention and approach bias in alcohol outpatients can be valuable for both assessing its application in an important patient category and gaining deeper understanding of the working mechanisms of CBM.</p>
+          <p>A final remark goes to the generalizability of this RCT protocol, which is easily adaptable for other substances beyond alcohol and for diverse behavioural addictions, such as gambling and binge eating disorders. Clinical assessment measures and task stimuli can be customized for the targeted problems and/or disorder(s) while keeping unaltered the design of the experimental set-up and the CBM tasks. Better replicable RCT designs have been called for by a recent critical meta-analysis on the effectiveness of CBM interventions <abbrgrp>
+                <abbr bid="B56">56</abbr>
+             </abbrgrp>. By extensively describing the RCT protocol separately, as done in the current paper, we hope to facilitate the cross-substance adaptation and reproducibility of CBM research findings.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Trial status</p>
+          </st>
+          <p>The trial is currently in the active recruitment phase (started on July 2013).</p>
+          <sec>
+             <st>
+                <p>Consent</p>
+             </st>
+             <p>Written informed consent was obtained from the patient(s) for publication of this manuscript and accompanying images. A copy of the written consent is available for review by the Editor-in-Chief of this journal.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Abbreviations</p>
+          </st>
+          <p>AAT: Approach-Avoidance Task</p>
+          <p>ABPS: Amsterdam Beverage Picture Set</p>
+          <p>AUDIT: Alcohol Use Disorder Identification Test</p>
+          <p>BDI-II: Beck Depression Inventory-II</p>
+          <p>BIAT: Brief Implicit Association Test</p>
+          <p>CBM: Cognitive Bias Modification</p>
+          <p>MAC2-A: Motivation to treatment questionnaire (alcohol version)</p>
+          <p>MS: Motivational support</p>
+          <p>OCDS: Obsessive Compulsive Drinking Scale</p>
+          <p>RCT: Randomised controlled trial</p>
+          <p>RSES: Rosenberg Self-Esteem Scale</p>
+          <p>RT: Response time</p>
+          <p>SD: Standard deviation</p>
+          <p>STAI-Y: State-Trait Anxiety Inventory-Form Y</p>
+          <p>VPT: Visual Probe Task</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Competing interests</p>
+          </st>
+          <p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential competing interest.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Authors&#8217; contributions</p>
+          </st>
+          <p>MB and TP designed the study and drafted the manuscript. MB is responsible for the data-collection, designed the tasks and the brief motivational support intervention and built the tasks stimuli. TP developed the tasks software. SM and RW are supervisors, contributed to the study design and revised the manuscript. SM and RW applied for the grant(s). All authors read and approved the final manuscript.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Authors&#8217; information</p>
+          </st>
+          <p>Marilisa Boffo and Thomas Pronk have shared first authorship.Reinout W. Wiers and Stefania Mannarini have shared senior authorship.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Additional file</p>
+          </st>
+          <suppl id="S1">
+             <title>
+                <p>Additional file 1:</p>
+             </title>
+             <text>
+                <p>
+                              <b>Examples of task stimuli photographed in the six scenarios (three passive and three active): target and matched control stimuli for each alcohol category.</b>                            
+                </p>
+             </text>
+             <file name="s13063-015-0576-6-S1.docx">
+                <p>Click here for file</p>
+             </file>
+          </suppl>
+          
+       </sec>
+    </bdy>
+    <bm>
+       <ack>
+          <sec>
+             <st>
+                <p>Acknowledgements</p>
+             </st>
+             <p>The authors would like to thank Dr Davide Banon and Dr Marinella Lena for allowing the research to take place in the public health service for addiction (SerD - ULSS10) of San Don&#224; di Piave (Italy), Bruno Boutin for his technical assistance, Elske Salemink for her feedbacks on the brief motivational support protocol and Joeri van Wijngaarden for his precious help in the study set-up.</p>
+             <p>The research reported in this article is supported by a University grant from the University of Padova (grant number: CPDA131525) to Stefania Mannarini. Part of this research has been conducted during Marilisa Boffo&#8217;s PhD, supported by University of Padova institutional funding. The research design was developed when Marilisa Boffo was a visiting PhD student at the University of Amsterdam. Reinout Wiers is supported by a VICI grant (grant number: 453-08-001) from the Dutch National Science Foundation, NWO. Thomas Pronk has received funding from the European Union's Seventh Framework Programme (grant number: FP7/2007-2013), under Grant Agreement number 266813 - Addictions and Lifestyle in Contemporary Europe - Reframing Addictions Project (ALICE RAP). The views expressed here reflect those of the authors only and the European Union is not liable for any use that may be made of the information contained therein.</p>
+          </sec>
+       </ack>
+       <refgrp>
+          
+          <bibl id="B1">
+             <title>
+                <p>Impulse and self-control from a dual-systems perspective</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hofmann</snm>
+                   <fnm>W</fnm>
+                </au>
+                <au>
+                   <snm>Friese</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Strack</snm>
+                   <fnm>F</fnm>
+                </au>
+             </aug>
+             <source>Perspect Psychol Sci</source>
+             <pubdate>2009</pubdate>
+             <volume>4</volume>
+             <fpage>162</fpage>
+             <lpage>76</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1745-6924.2009.01116.x</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B2">
+             <title>
+                <p>Reflective and impulsive determinants of social behavior</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Strack</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Deutsch</snm>
+                   <fnm>R</fnm>
+                </au>
+             </aug>
+             <source>Pers Soc Psychol Rev</source>
+             <pubdate>2004</pubdate>
+             <volume>8</volume>
+             <fpage>220</fpage>
+             <lpage>47</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1207/s15327957pspr0803_1</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15454347</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B3">
+             <title>
+                <p>Decision making, impulse control and loss of willpower to resist drugs: a neurocognitive perspective</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bechara</snm>
+                   <fnm>A</fnm>
+                </au>
+             </aug>
+             <source>Nat Neurosci</source>
+             <pubdate>2005</pubdate>
+             <volume>8</volume>
+             <fpage>1458</fpage>
+             <lpage>63</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1038/nn1584</pubid>
+                   <pubid idtype="pmpid" link="fulltext">16251988</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B4">
+             <title>
+                <p>Implicit cognitive processes in psychopathology: an introduction</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Wiers</snm>
+                   <fnm>RW</fnm>
+                </au>
+                <au>
+                   <snm>Teachman</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>De Houwer</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>J Behav Ther Exp Psychiatry</source>
+             <pubdate>2007</pubdate>
+             <volume>38</volume>
+             <fpage>95</fpage>
+             <lpage>104</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.jbtep.2006.10.002</pubid>
+                   <pubid idtype="pmpid" link="fulltext">17112462</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B5">
+             <title>
+                <p>Impulsive versus reflective influences on health behavior: a theoretical framework and empirical review</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hofmann</snm>
+                   <fnm>W</fnm>
+                </au>
+                <au>
+                   <snm>Friese</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Wiers</snm>
+                   <fnm>RW</fnm>
+                </au>
+             </aug>
+             <source>Health Psychol Rev</source>
+             <pubdate>2008</pubdate>
+             <volume>2</volume>
+             <fpage>111</fpage>
+             <lpage>37</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1080/17437190802617668</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B6">
+             <title>
+                <p>Implicit cognition and addiction: a tool for explaining paradoxical behavior</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Stacy</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Wiers</snm>
+                   <fnm>RW</fnm>
+                </au>
+             </aug>
+             <source>Annu Rev Clin Psychol</source>
+             <pubdate>2010</pubdate>
+             <volume>6</volume>
+             <fpage>551</fpage>
+             <lpage>75</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1146/annurev.clinpsy.121208.131444</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20192786</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B7">
+             <title>
+                <p>Addiction, adolescence, and the integration of control and motivation</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Gladwin</snm>
+                   <fnm>TE</fnm>
+                </au>
+                <au>
+                   <snm>Figner</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Crone</snm>
+                   <fnm>EA</fnm>
+                </au>
+                <au>
+                   <snm>Wiers</snm>
+                   <fnm>RW</fnm>
+                </au>
+             </aug>
+             <source>Dev Cogn Neurosci</source>
+             <pubdate>2011</pubdate>
+             <volume>1</volume>
+             <fpage>364</fpage>
+             <lpage>76</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.dcn.2011.06.008</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22436562</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B8">
+             <title>
+                <p>Cognitive bias modification and cognitive control training in addiction and related psychopathology: mechanisms, clinical perspectives, and ways forward</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Wiers</snm>
+                   <fnm>RW</fnm>
+                </au>
+                <au>
+                   <snm>Gladwin</snm>
+                   <fnm>TE</fnm>
+                </au>
+                <au>
+                   <snm>Hofmann</snm>
+                   <fnm>W</fnm>
+                </au>
+                <au>
+                   <snm>Salemink</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Ridderinkhof</snm>
+                   <fnm>KR</fnm>
+                </au>
+             </aug>
+             <source>Clin Psychol Sci</source>
+             <pubdate>2013</pubdate>
+             <volume>1</volume>
+             <fpage>192</fpage>
+             <lpage>212</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1177/2167702612466547</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B9">
+             <title>
+                <p>Attitudes and evaluations: a social cognitive neuroscience perspective</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Cunningham</snm>
+                   <fnm>WA</fnm>
+                </au>
+                <au>
+                   <snm>Zelazo</snm>
+                   <fnm>PD</fnm>
+                </au>
+             </aug>
+             <source>Trends Cogn Sci</source>
+             <pubdate>2007</pubdate>
+             <volume>11</volume>
+             <fpage>97</fpage>
+             <lpage>104</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.tics.2006.12.005</pubid>
+                   <pubid idtype="pmpid" link="fulltext">17276131</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B10">
+             <title>
+                <p>&#8220;Hot&#8221; Cognition and Dual Systems: Introduction, Criticisms, and Ways Forward</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Gladwin</snm>
+                   <fnm>TE</fnm>
+                </au>
+                <au>
+                   <snm>Figner</snm>
+                   <fnm>B</fnm>
+                </au>
+             </aug>
+             <source>Neuroeconomics, Judgement and Decision Making. Frontiers of Cognitive Psychology Series</source>
+             <publisher>Psychology Press, Oxford, UK</publisher>
+             <editor>Wilhelms EA, Reyna VF</editor>
+             <pubdate>2014</pubdate>
+          </bibl>
+          <bibl id="B11">
+             <title>
+                <p>The incentive sensitization theory of addiction: some current issues</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Robinson</snm>
+                   <fnm>TE</fnm>
+                </au>
+                <au>
+                   <snm>Berridge</snm>
+                   <fnm>KC</fnm>
+                </au>
+             </aug>
+             <source>Philos Trans R Soc Lond B Biol Sci</source>
+             <pubdate>2008</pubdate>
+             <volume>363</volume>
+             <fpage>3137</fpage>
+             <lpage>46</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1098/rstb.2008.0093</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18640920</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B12">
+             <title>
+                <p>Selective attention and emotional vulnerability: assessing the causal basis of their association through the experimental manipulation of attentional bias</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>MacLeod</snm>
+                   <fnm>CM</fnm>
+                </au>
+                <au>
+                   <snm>Rutherford</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Campbell</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Ebsworthy</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Holker</snm>
+                   <fnm>L</fnm>
+                </au>
+             </aug>
+             <source>J Abnorm Psychol</source>
+             <pubdate>2002</pubdate>
+             <volume>111</volume>
+             <fpage>107</fpage>
+             <lpage>23</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1037/0021-843X.111.1.107</pubid>
+                   <pubid idtype="pmpid" link="fulltext">11866165</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B13">
+             <title>
+                <p>Reversing the sequence: reducing alcohol consumption by overcoming alcohol attentional bias</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Fadardi</snm>
+                   <fnm>JS</fnm>
+                </au>
+                <au>
+                   <snm>Cox</snm>
+                   <fnm>WM</fnm>
+                </au>
+             </aug>
+             <source>Drug Alcohol Depend</source>
+             <pubdate>2009</pubdate>
+             <volume>101</volume>
+             <fpage>137</fpage>
+             <lpage>45</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.drugalcdep.2008.11.015</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19193499</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B14">
+             <title>
+                <p>Approach and avoidance in fear of spiders</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Rinck</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Becker</snm>
+                   <fnm>E</fnm>
+                </au>
+             </aug>
+             <source>J Behav Ther Exp Psychiatry</source>
+             <pubdate>2007</pubdate>
+             <volume>38</volume>
+             <fpage>105</fpage>
+             <lpage>20</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.jbtep.2006.10.001</pubid>
+                   <pubid idtype="pmpid" link="fulltext">17126289</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B15">
+             <title>
+                <p>Relatively strong automatic appetitive action-tendencies in male carriers of the OPRM1 G-allele</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Wiers</snm>
+                   <fnm>RW</fnm>
+                </au>
+                <au>
+                   <snm>Rinck</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Dictus</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Van den Wildenberg</snm>
+                   <fnm>E</fnm>
+                </au>
+             </aug>
+             <source>Genes Brain Behav</source>
+             <pubdate>2009</pubdate>
+             <volume>8</volume>
+             <fpage>101</fpage>
+             <lpage>6</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1601-183X.2008.00454.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19016889</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B16">
+             <title>
+                <p>Attentional re-training decreases attentional bias in heavy drinkers without generalization</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Schoenmakers</snm>
+                   <fnm>TM</fnm>
+                </au>
+                <au>
+                   <snm>Wiers</snm>
+                   <fnm>RW</fnm>
+                </au>
+                <au>
+                   <snm>Jones</snm>
+                   <fnm>BT</fnm>
+                </au>
+                <au>
+                   <snm>Bruce</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Jansen</snm>
+                   <fnm>ATM</fnm>
+                </au>
+             </aug>
+             <source>Addiction</source>
+             <pubdate>2007</pubdate>
+             <volume>102</volume>
+             <fpage>399</fpage>
+             <lpage>405</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1360-0443.2006.01718.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">17298647</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B17">
+             <title>
+                <p>Clinical effectiveness of attentional bias modification training in abstinent alcoholic patients</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Schoenmakers</snm>
+                   <fnm>TM</fnm>
+                </au>
+                <au>
+                   <snm>De Bruin</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Lux</snm>
+                   <fnm>IFM</fnm>
+                </au>
+                <au>
+                   <snm>Goertz</snm>
+                   <fnm>AG</fnm>
+                </au>
+                <au>
+                   <snm>Van Kerkhof</snm>
+                   <fnm>DHT</fnm>
+                </au>
+                <au>
+                   <snm>Wiers</snm>
+                   <fnm>RW</fnm>
+                </au>
+             </aug>
+             <source>Drug Alcohol Depend</source>
+             <pubdate>2010</pubdate>
+             <volume>109</volume>
+             <fpage>30</fpage>
+             <lpage>6</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.drugalcdep.2009.11.022</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20064698</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B18">
+             <title>
+                <p>Retraining automatic action tendencies changes alcoholic patients&#8217; approach bias for alcohol and improves treatment outcome</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Wiers</snm>
+                   <fnm>RW</fnm>
+                </au>
+                <au>
+                   <snm>Eberl</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Rinck</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Becker</snm>
+                   <fnm>ES</fnm>
+                </au>
+                <au>
+                   <snm>Lindenmeyer</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>Psychol Sci</source>
+             <pubdate>2011</pubdate>
+             <volume>22</volume>
+             <fpage>490</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1177/0956797611400615</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21389338</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B19">
+             <title>
+                <p>Approach bias modification in alcohol dependence: Do clinical effects replicate and for whom does it work best?</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Eberl</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Wiers</snm>
+                   <fnm>RW</fnm>
+                </au>
+                <au>
+                   <snm>Pawelczacka</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Rinck</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Becker</snm>
+                   <fnm>ES</fnm>
+                </au>
+                <au>
+                   <snm>Lindenmeyer</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>Dev Cogn Neurosci</source>
+             <pubdate>2013</pubdate>
+             <volume>4</volume>
+             <fpage>38</fpage>
+             <lpage>51</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.dcn.2012.11.002</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23218805</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B20">
+             <title>
+                <p>Web-based cognitive bias modification for problem drinkers: protocol of a randomised controlled trial with a 2x2x2 factorial design</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>van Deursen</snm>
+                   <fnm>DS</fnm>
+                </au>
+                <au>
+                   <snm>Salemink</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Smit</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Kramer</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Wiers</snm>
+                   <fnm>RW</fnm>
+                </au>
+             </aug>
+             <source>BMC Public Health</source>
+             <pubdate>2013</pubdate>
+             <volume>13</volume>
+             <fpage>674</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1186/1471-2458-13-674</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23870532</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B21">
+             <aug>
+                <au>
+                   <snm>Miller</snm>
+                   <fnm>WR</fnm>
+                </au>
+                <au>
+                   <snm>Rollnick</snm>
+                   <fnm>S</fnm>
+                </au>
+             </aug>
+             <source>Motivational interviewing: Preparing people to change addictive behavior</source>
+             <publisher>Guilford Press, New York</publisher>
+             <edition>2</edition>
+             <pubdate>2002</pubdate>
+          </bibl>
+          <bibl id="B22">
+             <title>
+                <p>Cognitive biases toward alcohol-related words and executive deficits in polysubstance abusers with alcoholism</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>No&#235;l</snm>
+                   <fnm>X</fnm>
+                </au>
+                <au>
+                   <snm>Van der Linden</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>d&#8217;Acremont</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Colmant</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Hanak</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Pelc</snm>
+                   <fnm>I</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Addiction</source>
+             <pubdate>2005</pubdate>
+             <volume>100</volume>
+             <fpage>1302</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1360-0443.2005.01125.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">16128719</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B23">
+             <title>
+                <p>Impaired decision making related to working memory deficits in individuals with substance addictions</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bechara</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Martin</snm>
+                   <fnm>EM</fnm>
+                </au>
+             </aug>
+             <source>Neuropsychol</source>
+             <pubdate>2004</pubdate>
+             <volume>18</volume>
+             <fpage>152</fpage>
+             <lpage>62</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1037/0894-4105.18.1.152</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B24">
+             <title>
+                <p>Working memory capacity moderates the predictive effects of drug-related associations on substance use</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Grenard</snm>
+                   <fnm>JL</fnm>
+                </au>
+                <au>
+                   <snm>Ames</snm>
+                   <fnm>SL</fnm>
+                </au>
+                <au>
+                   <snm>Wiers</snm>
+                   <fnm>RW</fnm>
+                </au>
+                <au>
+                   <snm>Thush</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Sussman</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Stacy</snm>
+                   <fnm>AW</fnm>
+                </au>
+             </aug>
+             <source>Psychol Addict Behav</source>
+             <pubdate>2008</pubdate>
+             <volume>22</volume>
+             <fpage>426</fpage>
+             <lpage>32</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1037/0893-164X.22.3.426</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18778136</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B25">
+             <title>
+                <p>Response inhibition moderates the relationship between implicit associations and drinking behavior</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Houben</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Wiers</snm>
+                   <fnm>RW</fnm>
+                </au>
+             </aug>
+             <source>Alcohol Clin Exp Res</source>
+             <pubdate>2009</pubdate>
+             <volume>33</volume>
+             <fpage>626</fpage>
+             <lpage>33</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1530-0277.2008.00877.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19183132</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B26">
+             <title>
+                <p>Automatic processes in at-risk adolescents: the role of alcohol-approach tendencies and response inhibition in drinking behavior</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Peeters</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Wiers</snm>
+                   <fnm>RW</fnm>
+                </au>
+                <au>
+                   <snm>Monshouwer</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>van de Schoot</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Janssen</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Vollebergh</snm>
+                   <fnm>WAM</fnm>
+                </au>
+             </aug>
+             <source>Addiction</source>
+             <pubdate>2012</pubdate>
+             <volume>107</volume>
+             <fpage>1939</fpage>
+             <lpage>46</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1360-0443.2012.03948.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22632107</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B27">
+             <title>
+                <p>CONSORT 2010 statement: updated guidelines for reporting parallel group randomised trials</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Schulz</snm>
+                   <fnm>KF</fnm>
+                </au>
+                <au>
+                   <snm>Altman</snm>
+                   <fnm>DG</fnm>
+                </au>
+                <au>
+                   <snm>Moher</snm>
+                   <fnm>D</fnm>
+                </au>
+             </aug>
+             <source>BMC Med</source>
+             <pubdate>2010</pubdate>
+             <volume>8</volume>
+             <fpage>18</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1186/1741-7015-8-18</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20334633</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B28">
+             <title>
+                <p>Re-training automatic action-tendencies to approach alcohol in hazardous drinkers</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Wiers</snm>
+                   <fnm>RW</fnm>
+                </au>
+                <au>
+                   <snm>Rinck</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Kordts</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Houben</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Strack</snm>
+                   <fnm>F</fnm>
+                </au>
+             </aug>
+             <source>Addiction</source>
+             <pubdate>2010</pubdate>
+             <volume>105</volume>
+             <fpage>279</fpage>
+             <lpage>87</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1360-0443.2009.02775.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20078486</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B29">
+             <title>
+                <p>Should we train alcohol-dependent patients to avoid alcohol?</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Wiers</snm>
+                   <fnm>RW</fnm>
+                </au>
+                <au>
+                   <snm>Gladwin</snm>
+                   <fnm>TE</fnm>
+                </au>
+                <au>
+                   <snm>Rinc</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>Front Psychiatry</source>
+             <pubdate>2013</pubdate>
+             <volume>4</volume>
+             <fpage>33</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.3389/fpsyt.2013.00033</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23734131</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B30">
+             <title>
+                <p>Alcohol approach tendencies in heavy drinkers: comparison of effects in a relevant stimulus&#8211;response compatibility task and an approach/ avoidance Simon task</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Field</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Caren</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Fernie</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>De Houwer</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>Psychol Addict Behav</source>
+             <pubdate>2011</pubdate>
+             <volume>25</volume>
+             <fpage>697</fpage>
+             <lpage>701</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1037/a0023285</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21534644</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B31">
+             <title>
+                <p>In search of how people change: applications to addictive behaviors</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Prochaska</snm>
+                   <fnm>JO</fnm>
+                </au>
+                <au>
+                   <snm>DiClemente</snm>
+                   <fnm>CC</fnm>
+                </au>
+                <au>
+                   <snm>Norcross</snm>
+                   <fnm>JC</fnm>
+                </au>
+             </aug>
+             <source>Am Psychol</source>
+             <pubdate>1992</pubdate>
+             <volume>47</volume>
+             <fpage>1102</fpage>
+             <lpage>14</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1037/0003-066X.47.9.1102</pubid>
+                   <pubid idtype="pmpid" link="fulltext">1329589</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B32">
+             <aug>
+                <au>
+                   <snm>Prochaska</snm>
+                   <fnm>JO</fnm>
+                </au>
+                <au>
+                   <snm>Norcross</snm>
+                   <fnm>JC</fnm>
+                </au>
+                <au>
+                   <snm>DiClemente</snm>
+                   <fnm>CC</fnm>
+                </au>
+             </aug>
+             <source>Changing for good: the revolutionary program that explains the six stages of change and teaches you how to free yourself from bad habits</source>
+             <publisher>William Morrow &amp; Co., New York</publisher>
+             <pubdate>1994</pubdate>
+          </bibl>
+          <bibl id="B33">
+             <title>
+                <p>Assessing motivation for change in subjects with alcohol problems: the MAC2&#8211;A questionnaire</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Spiller</snm>
+                   <fnm>V</fnm>
+                </au>
+                <au>
+                   <snm>Zavan</snm>
+                   <fnm>V</fnm>
+                </au>
+                <au>
+                   <snm>Guelfi</snm>
+                   <fnm>GP</fnm>
+                </au>
+             </aug>
+             <source>Alcohol Alcohol</source>
+             <pubdate>2006</pubdate>
+             <volume>41</volume>
+             <fpage>616</fpage>
+             <lpage>23</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/alcalc/agl082</pubid>
+                   <pubid idtype="pmpid" link="fulltext">17028308</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B34">
+             <insg>
+                <ins>
+                   <p>Centre for Substance Abuse Treatment</p>
+                </ins>
+             </insg>
+             <source>Enhancing Motivation for Change in Substance Abuse Treatment. Treatment Improvement Protocol (TIP) 35</source>
+             <publisher>Substance Abuse and Mental Health Services Administration, Center for Substance Abuse Treatment, Rockville, MD</publisher>
+             <pubdate>1999</pubdate>
+          </bibl>
+          <bibl id="B35">
+             <title>
+                <p>Understanding and using the Implicit Association Test: I. An improved Scoring Algorithm</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Greenwal</snm>
+                   <fnm>AG</fnm>
+                </au>
+                <au>
+                   <snm>Nosek</snm>
+                   <fnm>BA</fnm>
+                </au>
+                <au>
+                   <snm>Banaji</snm>
+                   <fnm>MR</fnm>
+                </au>
+             </aug>
+             <source>J Pers Soc Psychol</source>
+             <pubdate>2003</pubdate>
+             <volume>85</volume>
+             <fpage>197</fpage>
+             <lpage>216</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1037/0022-3514.85.2.197</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B36">
+             <title>
+                <p>Differences of photographs inducing craving between alcoholics and non-alcoholics</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Lee</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Namkoong</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Lee</snm>
+                   <fnm>CH</fnm>
+                </au>
+                <au>
+                   <snm>An</snm>
+                   <fnm>SK</fnm>
+                </au>
+                <au>
+                   <snm>Lee</snm>
+                   <fnm>BO</fnm>
+                </au>
+             </aug>
+             <source>Yonsei Med J</source>
+             <pubdate>2006</pubdate>
+             <volume>47</volume>
+             <fpage>491</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.3349/ymj.2006.47.4.491</pubid>
+                   <pubid idtype="pmpid" link="fulltext">16941738</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B37">
+             <title>
+                <p>The role of context in the processing of alcohol-relevant cues</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Nees</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Diener</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Smolka</snm>
+                   <fnm>MN</fnm>
+                </au>
+                <au>
+                   <snm>Flor</snm>
+                   <fnm>H</fnm>
+                </au>
+             </aug>
+             <source>Addict Biol</source>
+             <pubdate>2012</pubdate>
+             <volume>17</volume>
+             <fpage>441</fpage>
+             <lpage>51</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1369-1600.2011.00347.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21790904</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B38">
+             <title>
+                <p>The effect of image complexity on attentional bias towards alcohol-related images in adult drinkers</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Miller</snm>
+                   <fnm>MA</fnm>
+                </au>
+                <au>
+                   <snm>Fillmore</snm>
+                   <fnm>MT</fnm>
+                </au>
+             </aug>
+             <source>Addiction</source>
+             <pubdate>2010</pubdate>
+             <volume>105</volume>
+             <fpage>883</fpage>
+             <lpage>90</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1360-0443.2009.02860.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20148790</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B39">
+             <aug>
+                <au>
+                   <snm>Rosenberg</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>Society and the adolescent self-image</source>
+             <publisher>Princeton, Princeton University Press</publisher>
+             <pubdate>1965</pubdate>
+          </bibl>
+          <bibl id="B40">
+             <title>
+                <p>Assessing the Rosenberg Self-esteem Scale dimensionality and items functioning in relation to self-efficacy and attachment styles</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Mannarini</snm>
+                   <fnm>S</fnm>
+                </au>
+             </aug>
+             <source>TPM Test Psychom Methodol Appl Psychol</source>
+             <pubdate>2010</pubdate>
+             <volume>4</volume>
+             <fpage>229</fpage>
+             <lpage>42</lpage>
+          </bibl>
+          <bibl id="B41">
+             <aug>
+                <au>
+                   <snm>Spielberger</snm>
+                   <fnm>CD</fnm>
+                </au>
+             </aug>
+             <source>State&#8211;Trait Anxiety Inventory: Forma Y</source>
+             <publisher>Firenze, Organizzazioni Speciali</publisher>
+             <pubdate>1989</pubdate>
+          </bibl>
+          <bibl id="B42">
+             <aug>
+                <au>
+                   <snm>Beck</snm>
+                   <fnm>AT</fnm>
+                </au>
+                <au>
+                   <snm>Steer</snm>
+                   <fnm>RA</fnm>
+                </au>
+                <au>
+                   <snm>Brown</snm>
+                   <fnm>GK</fnm>
+                </au>
+             </aug>
+             <source>BDI&#8211;II, Beck Depression Inventory: Manual</source>
+             <publisher>Harcourt Brace, Boston</publisher>
+             <edition>2</edition>
+             <pubdate>1996</pubdate>
+          </bibl>
+          <bibl id="B43">
+             <aug>
+                <au>
+                   <snm>Babor</snm>
+                   <fnm>TF</fnm>
+                </au>
+                <au>
+                   <snm>Higgins-Biddle</snm>
+                   <fnm>JC</fnm>
+                </au>
+                <au>
+                   <snm>Saunders</snm>
+                   <fnm>JB</fnm>
+                </au>
+             </aug>
+             <source>The Alcohol Use Disorders Identification Test. Guidelines for Use in Primary Care (2nd Ed.)</source>
+             <publisher>World Health Organization, Department of Mental Health and Substance Dependence, Geneva</publisher>
+             <pubdate>2001</pubdate>
+          </bibl>
+          <bibl id="B44">
+             <title>
+                <p>Obsessive-compulsive aspects of craving: development of the Obsessive Compulsive Drinking Scale</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Anton</snm>
+                   <fnm>RF</fnm>
+                </au>
+             </aug>
+             <source>Addiction</source>
+             <pubdate>2000</pubdate>
+             <volume>95</volume>
+             <issue>Suppl 2</issue>
+             <fpage>S211</fpage>
+             <lpage>217</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">11002915</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B45">
+             <title>
+                <p>Studies of interference in serial verbal reactions</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Stroop</snm>
+                   <fnm>JR</fnm>
+                </au>
+             </aug>
+             <source>J Exp Psychol</source>
+             <pubdate>1935</pubdate>
+             <volume>18</volume>
+             <fpage>643</fpage>
+             <lpage>62</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1037/h0054651</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B46">
+             <title>
+                <p>Alcoholics&#8217; selective processing of alcohol related words and cognitive performance on a Stroop task</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Stetter</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Chaluppa</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Ackerman</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Straube</snm>
+                   <fnm>ER</fnm>
+                </au>
+                <au>
+                   <snm>Mann</snm>
+                   <fnm>K</fnm>
+                </au>
+             </aug>
+             <source>Eur Psychiatry</source>
+             <pubdate>1994</pubdate>
+             <volume>9</volume>
+             <fpage>71</fpage>
+             <lpage>6</lpage>
+          </bibl>
+          <bibl id="B47">
+             <title>
+                <p>The Brief Implicit Association Test</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Sriram</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Greenwald</snm>
+                   <fnm>AG</fnm>
+                </au>
+             </aug>
+             <source>Exp Psychol</source>
+             <pubdate>2009</pubdate>
+             <volume>56</volume>
+             <fpage>283</fpage>
+             <lpage>94</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1027/1618-3169.56.4.283</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19439401</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B48">
+             <title>
+                <p>Compelled to consume: the Implicit Association Test and automatic alcohol motivation</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Ostafin</snm>
+                   <fnm>BD</fnm>
+                </au>
+                <au>
+                   <snm>Palfai</snm>
+                   <fnm>TP</fnm>
+                </au>
+             </aug>
+             <source>Psychol Addict Behav</source>
+             <pubdate>2006</pubdate>
+             <volume>20</volume>
+             <fpage>322</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1037/0893-164X.20.3.322</pubid>
+                   <pubid idtype="pmpid" link="fulltext">16938070</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B49">
+             <title>
+                <p>Understanding and using the Brief Implicit Association Test: Recommended scoring procedures</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Nosek</snm>
+                   <fnm>BA</fnm>
+                </au>
+                <au>
+                   <snm>Bar-Anan</snm>
+                   <fnm>Y</fnm>
+                </au>
+                <au>
+                   <snm>Sriram</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Axt</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Greenwald</snm>
+                   <fnm>AG</fnm>
+                </au>
+             </aug>
+             <source>PLoS One</source>
+             <pubdate>2014</pubdate>
+             <volume>9</volume>
+             <issue>12</issue>
+             <fpage>e110938</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1371/journal.pone.0110938</pubid>
+                   <pubid idtype="pmpid" link="fulltext">25485938</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B50">
+             <title>
+                <p>Psychometric properties of the credibility/expectancy questionnaire</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Devilly</snm>
+                   <fnm>GJ</fnm>
+                </au>
+                <au>
+                   <snm>Borkovec</snm>
+                   <fnm>TD</fnm>
+                </au>
+             </aug>
+             <source>J Behav Ther Exp Psychiatry</source>
+             <pubdate>2000</pubdate>
+             <volume>31</volume>
+             <fpage>73</fpage>
+             <lpage>86</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0005-7916(00)00012-4</pubid>
+                   <pubid idtype="pmpid" link="fulltext">11132119</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B51">
+             <title>
+                <p>Addressing moderated mediation hypotheses: theory, methods, and prescriptions</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Preacher</snm>
+                   <fnm>KJ</fnm>
+                </au>
+                <au>
+                   <snm>Rucker</snm>
+                   <fnm>DD</fnm>
+                </au>
+                <au>
+                   <snm>Hayes</snm>
+                   <fnm>AF</fnm>
+                </au>
+             </aug>
+             <source>Multivariate Behav Res</source>
+             <pubdate>2007</pubdate>
+             <volume>42</volume>
+             <fpage>185</fpage>
+             <lpage>227</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1080/00273170701341316</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B52">
+             <title>
+                <p>A simulation study of the number of events per variable in logistic regression analysis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Peduzzi</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Concato</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Kemper</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Holford</snm>
+                   <fnm>TR</fnm>
+                </au>
+                <au>
+                   <snm>Feinstein</snm>
+                   <fnm>AR</fnm>
+                </au>
+             </aug>
+             <source>J Clin Epidemiol</source>
+             <pubdate>1996</pubdate>
+             <volume>49</volume>
+             <fpage>1373</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0895-4356(96)00236-3</pubid>
+                   <pubid idtype="pmpid" link="fulltext">8970487</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B53">
+             <title>
+                <p>Statistical power analyses using G*Power 3.1: tests for correlation and regression analyses</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Faul</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Erdfelder</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Buchner</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Lang</snm>
+                   <fnm>A-G</fnm>
+                </au>
+             </aug>
+             <source>Behav Res Methods</source>
+             <pubdate>2009</pubdate>
+             <volume>41</volume>
+             <fpage>1149</fpage>
+             <lpage>60</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.3758/BRM.41.4.1149</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19897823</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B54">
+             <title>
+                <p>Effects of a low dose of alcohol on cognitive biases and craving in heavy drinkers</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Schoenmakers</snm>
+                   <fnm>TM</fnm>
+                </au>
+                <au>
+                   <snm>Wiers</snm>
+                   <fnm>RW</fnm>
+                </au>
+                <au>
+                   <snm>Field</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>Psychopharmacology (Berl)</source>
+             <pubdate>2008</pubdate>
+             <volume>197</volume>
+             <fpage>169</fpage>
+             <lpage>78</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1007/s00213-007-1023-5</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B55">
+             <title>
+                <p>Clinical efficacy of attentional bias modification procedures: an updated meta-analysis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Mogoase</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>David</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Koster</snm>
+                   <fnm>EHW</fnm>
+                </au>
+             </aug>
+             <source>J Clin Psychol</source>
+             <pubdate>2014</pubdate>
+             <volume>70</volume>
+             <fpage>1133</fpage>
+             <lpage>57</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1002/jclp.22081</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24652823</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B56">
+             <title>
+                <p>Efficacy of cognitive bias modification interventions in anxiety and depression: meta-analysis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Cristea</snm>
+                   <fnm>IA</fnm>
+                </au>
+                <au>
+                   <snm>Kok</snm>
+                   <fnm>RN</fnm>
+                </au>
+                <au>
+                   <snm>Cuijpers</snm>
+                   <fnm>P</fnm>
+                </au>
+             </aug>
+             <source>Br J Psychiatry</source>
+             <pubdate>2015</pubdate>
+             <volume>206</volume>
+             <fpage>7</fpage>
+             <lpage>16</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1192/bjp.bp.114.146761</pubid>
+                   <pubid idtype="pmpid" link="fulltext">25561486</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+       </refgrp>
+    </bm>
+ </art>

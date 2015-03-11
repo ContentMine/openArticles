@@ -1,0 +1,101 @@
+{
+  "publisher": {
+    "value": [
+      "BioMed Central Ltd"
+    ]
+  },
+  "journal": {
+    "value": [
+      "Trials"
+    ]
+  },
+  "title": {
+    "value": [
+      "Lactose-free milk for infants with acute gastroenteritis in a developing country: study protocol for a randomized controlled trial"
+    ]
+  },
+  "authors": {
+    "value": [
+      "Mona Nabulsi",
+      "Nadine Yazbeck",
+      "Fatme Charafeddine"
+    ]
+  },
+  "date": {
+    "value": [
+      "2015-02-08"
+    ]
+  },
+  "doi": {
+    "value": [
+      "10.1186/s13063-015-0565-9"
+    ]
+  },
+  "volume": {
+    "value": [
+      "16"
+    ]
+  },
+  "issue": {
+    "value": [
+      "1"
+    ]
+  },
+  "firstpage": {
+    "value": [
+      "46"
+    ]
+  },
+  "description": {
+    "value": [
+      "Acute gastroenteritis is a major cause of pediatric morbidity and mortality, accounting for 15% of all childhood deaths worldwide. In developing countries, diarrheal diseases continue to be a major public health burden. Evidence from developed countries suggests that intake of lactose-free milk during diarrheal episodes may reduce the duration of the illness in pediatric inpatients. It is unknown whether lactose-free milk reduces the severity or duration of acute gastroenteritis in infants treated in outpatient settings in developing countries where diarrhea is more severe, and results in higher morbidities and mortalities. We hypothesize that lactose-free milk intake during acute gastroenteritis would significantly decrease the duration and severity of diarrhea in infants presenting to the Emergency Department (ED), as compared with lactose-containing milk."
+    ]
+  },
+  "abstract": {
+    "value": [
+      "Acute gastroenteritis is a major cause of pediatric morbidity and mortality, accounting for 15% of all childhood deaths worldwide. In developing countries, diarrheal diseases continue to be a major public health burden. Evidence from developed countries suggests that intake of lactose-free milk during diarrheal episodes may reduce the duration of the illness in pediatric inpatients. It is unknown whether lactose-free milk reduces the severity or duration of acute gastroenteritis in infants treated in outpatient settings in developing countries where diarrhea is more severe, and results in higher morbidities and mortalities. We hypothesize that lactose-free milk intake during acute gastroenteritis would significantly decrease the duration and severity of diarrhea in infants presenting to the Emergency Department (ED), as compared with lactose-containing milk."
+    ]
+  },
+  "fulltext_html": {
+    "value": [
+      "http://www.trialsjournal.com/content/16/1/46"
+    ]
+  },
+  "fulltext_pdf": {
+    "value": [
+      "http://www.trialsjournal.com/content/pdf/s13063-015-0565-9.pdf"
+    ]
+  },
+  "fulltext_xml": {
+    "value": [
+      "/content/download/xml/s13063-015-0565-9.xml"
+    ]
+  },
+  "supplementary_material": {
+    "value": [
+      "http://trialsjournal.com/content/download/supplementary/s13063-015-0565-9-s1.doc",
+      "http://trialsjournal.com/content/download/supplementary/s13063-015-0565-9-s2.docx"
+    ]
+  },
+  "figure": {
+    "value": [
+      "/content/figures/s13063-015-0565-9-1.gif"
+    ]
+  },
+  "figure_caption": {
+    "value": [
+      "Figure 1.",
+      "A flow diagram of study participants."
+    ]
+  },
+  "license": {
+    "value": [
+      "\r\n\t\t\t\tThis is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.\r\n\t\t\t"
+    ]
+  },
+  "copyright": {
+    "value": [
+      "\r\n            © 2015 Nabulsi et al.; licensee BioMed Central. \r\n        "
+    ]
+  }
+}

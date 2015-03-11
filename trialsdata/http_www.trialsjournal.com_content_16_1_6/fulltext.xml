@@ -1,0 +1,359 @@
+<?xml version='1.0'?>
+<!DOCTYPE art SYSTEM 'http://www.biomedcentral.com/xml/article.dtd'>
+<art>
+	<ui>1745-6215-16-6</ui>
+	<ji>1745-6215</ji>
+	<fm>
+		<dochead>Study protocol</dochead>
+		<bibl>
+			<title>
+				<p>Rehabilitation of Memory following Brain Injury (ReMemBrIn): study protocol for a randomised controlled trial</p>
+			</title>
+			<aug>
+				<au id="A1" ca="yes"><snm>das Nair</snm><fnm>Roshan</fnm><insr iid="I1"/><insr iid="I2"/><email>Roshan.nair@nottingham.ac.uk</email></au>
+				<au id="A2"><snm>Lincoln</snm><mi>B</mi><fnm>Nadina</fnm><insr iid="I1"/><email>Nadina.Lincoln@nottingham.ac.uk</email></au>
+				<au id="A3"><snm>Ftizsimmons</snm><fnm>Deborah</fnm><insr iid="I3"/><email>D.Fitzsimmons@swansea.ac.uk</email></au>
+				<au id="A4"><snm>Brain</snm><fnm>Nicola</fnm><insr iid="I4"/><email>nicola.brain@derbyhospitals.nhs.uk</email></au>
+				<au id="A5"><snm>Montgomery</snm><fnm>Alan</fnm><insr iid="I5"/><email>Alan.montgomery@nottingham.ac.uk</email></au>
+				<au id="A6"><snm>Bradshaw</snm><fnm>Lucy</fnm><insr iid="I5"/><email>Lucy.bradshaw@nottingham.ac.uk</email></au>
+				<au id="A7"><snm>Drummond</snm><fnm>Avril</fnm><insr iid="I6"/><email>Avril.Drummond@nottingham.ac.uk</email></au>
+				<au id="A8"><snm>Sackley</snm><fnm>Catherine</fnm><insr iid="I7"/><email>C.Sackley@uea.ac.uk</email></au>
+				<au id="A9"><snm>Newby</snm><fnm>Gavin</fnm><insr iid="I8"/><email>Gavin.Newby@cwpct.nhs.uk</email></au>
+				<au id="A10"><snm>Thornton</snm><fnm>Jim</fnm><insr iid="I5"/><email>jim.thornton@nottingham.ac.uk</email></au>
+				<au id="A11"><snm>Stapleton</snm><fnm>Sandip</fnm><insr iid="I5"/><email>Sandip.Stapleton@nottingham.ac.uk</email></au>
+				<au id="A12"><snm>Pink</snm><fnm>Anthony</fnm><insr iid="I9"/><email>anthony.pink1971@gmail.com</email></au>
+			</aug>
+			<insg>
+				<ins id="I1"><p>Division of Rehabilitation and Ageing, Queens Medical Centre, University of Nottingham, Nottingham NG7 2UH, UK</p></ins>
+				<ins id="I2"><p>Dept of Clinical Psychology &amp; Neuropsychology, Nottingham University Hospitals NHS Trust, Nottingham NG7 2UH, UK</p></ins>
+				<ins id="I3"><p>Swansea Centre for Health Economics, College of Human and Health Sciences, Singleton Campus, Swansea University, Swansea SA2 8PP, UK</p></ins>
+				<ins id="I4"><p>Rehabilitation Medicine, Level 1, Royal Derby Hospital, Derby Hospitals NHS Foundations Trust, Derby DE22 3NE, UK</p></ins>
+				<ins id="I5"><p>Nottingham Clinical Trials Unit, C floor South Block, QMC, Nottingham NG7 2UH, UK</p></ins>
+				<ins id="I6"><p>School of Nursing, B Floor, South Block, Queens Medical Centre, University of Nottingham, Nottingham NG7 2UH, UK</p></ins>
+				<ins id="I7"><p>Faculty of Medicine &amp; Health Sciences, Queens Building, University of East Anglia, Norwich Research Park, Norwich NR4 7TJ, UK</p></ins>
+				<ins id="I8"><p>Acquired Brain Injury Service, Acorn Suite, 1829 Building, Countess of Chester Health Park, Liverpool Road, Chester CH2 1HJ, UK</p></ins>
+				<ins id="I9"><p>Service User Representative</p></ins>
+			</insg>
+			<source>Trials</source>
+			<issn>1745-6215</issn>
+			<pubdate>2015</pubdate>
+			<volume>16</volume>
+			<issue>1</issue>
+			<fpage>6</fpage>
+			<url>http://www.trialsjournal.com/content/16/1/6</url>
+			<xrefbib><pubidlist><pubid idtype="doi">10.1186/1745-6215-16-6</pubid><pubid idtype="pmpid">25559090</pubid></pubidlist></xrefbib>
+		</bibl>
+		<history><rec><date><day>19</day><month>6</month><year>2014</year></date></rec><acc><date><day>12</day><month>12</month><year>2014</year></date></acc><pub><date><day>6</day><month>1</month><year>2015</year></date></pub></history>
+		<cpyrt><year>2015</year><collab>das Nair et al.; licensee BioMed Central.</collab><note>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/4.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (<url>http://creativecommons.org/publicdomain/zero/1.0/</url>) applies to the data made available in this article, unless otherwise stated.</note></cpyrt>
+		<kwdg>
+			<kwd>Traumatic brain injury</kwd>
+			<kwd>Memory</kwd>
+			<kwd>Cognitive rehabilitation</kwd>
+			<kwd>Randomised controlled trial</kwd>
+			<kwd>Cost-effectiveness</kwd>
+		</kwdg>
+		<abs>
+			<sec>
+				<st>
+					<p>Abstract</p>
+				</st>
+				<sec>
+					<st>
+						<p>Background</p>
+					</st><p>Impairments of memory are commonly reported by people with traumatic brain injuries (TBI). Such deficits are persistent, debilitating, and can severely impact quality of life. Currently, many do not routinely receive follow-up appointments for residual memory problems following discharge.</p>
+				</sec>
+				<sec>
+					<st>
+						<p>Methods/Design</p>
+					</st><p>This is a multi-centre, randomised controlled trial investigating the clinical and cost-effectiveness of a group-based memory rehabilitation programme. Three hundred and twelve people with a traumatic brain injury will be randomised from four centres. Participants will be eligible if they had a traumatic brain injury more than 3 months prior to recruitment, have memory problems, are 18 to 69 years of age, are able to travel to one of our centres and attend group sessions, and are able to give informed consent. Participants will be randomised in clusters of 4 to 6 to the group rehabilitation intervention or to usual care. Intervention groups will receive 10 weekly sessions of a manualised memory rehabilitation programme, which has been developed in previous pilot studies. The intervention will include restitution strategies to retrain impaired memory functions and compensation strategies to enable participants to cope with their memory problems. All participants will receive a follow-up postal questionnaire and an assessment by a research assistant at 6 and 12 months post-randomisation. The primary outcome is the Everyday Memory Questionnaire at 6 months. Secondary outcomes include the Rivermead Behavioural Memory Test-3, General Health Questionnaire-30, health related quality of life, cost-effectiveness analysis determined by the EQ-5D and a service use questionnaire, individual goal attainment, European Brain Injury Questionnaire (patient and relative versions), and the Everyday Memory Questionnaire-relative version. The primary analysis will be based on intention to treat. A mixed-model regression analysis of the Everyday Memory Questionnaire at 6 months will be used to estimate the effect of the group memory rehabilitation programme.</p>
+				</sec>
+				<sec>
+					<st>
+						<p>Discussion</p>
+					</st><p>The study will hopefully provide robust evidence regarding the clinical and cost-effectiveness of a group-based memory rehabilitation intervention for civilians and military personnel following TBI. We discuss our decision-making regarding choice of outcome measures and control group, and the unique challenges to recruiting people with memory problems to trials.</p>
+				</sec>
+				<sec>
+					<st>
+						<p>Trial registration</p>
+					</st><p>
+						<a href="http://www.isrctn.com/ISRCTN65792154">ISRCTN65792154</a>; Date: 18 October 2012</p>
+				</sec>
+			</sec>
+		</abs>
+	</fm>
+	<bdy>
+		<sec>
+			<st>
+				<p>Background</p>
+			</st><p>Impairments of memory are the most common cognitive deficits reported by people with traumatic brain injuries (TBIs), affecting 40 to 60% of patients <abbrgrp>
+					<abbr bid="B1">1</abbr>
+					<abbr bid="B2">2</abbr>
+				</abbrgrp>. These memory problems are not only persistent, but are debilitating and difficult to treat <abbrgrp>
+					<abbr bid="B3">3</abbr>
+				</abbrgrp>. Memory deficits may also affect the extent to which patients engage with other interventions and rehabilitation. The safety of such patients can also be compromised, making them vulnerable citizens in the home (for example, forgetting to turn the stove off), community (for example, forgetting road rules), and work (for example, forgetting important documents) settings. Memory problems consequently have a devastating effect on the psychological wellbeing of the individuals and others around them <abbrgrp>
+					<abbr bid="B4">4</abbr>
+				</abbrgrp>.</p><p>Costs of morbidity due to TBI are incurred by the healthcare system and those outside it (in terms of loss of productivity due to short-term sick leave and early retirement), and through non-medical costs (for example, transformations of house or work environments, etc.). In addition, informal care by family or friends can dominate the costs of care for affected individuals. For TBI, the direct medical costs and indirect costs were estimated at $60 billion in the United States in 2000 <abbrgrp>
+					<abbr bid="B5">5</abbr>
+				</abbrgrp>. The full costs of dealing with memory problems caused by TBI in the UK are not known. Care costs escalate when an intervention is provided on an inpatient basis, but Salazar <it>et al</it>. <abbrgrp>
+					<abbr bid="B6">6</abbr>
+				</abbrgrp> demonstrated that the benefits of inpatient and home cognitive rehabilitation programmes for TBI, in terms of return to duty (for military personnel) or employment, were similar.</p><p>Cognitive rehabilitation is a structured set of therapeutic activities designed to retrain an individual&#8217;s memory and other cognitive functions. A narrative review <abbrgrp>
+					<abbr bid="B7">7</abbr>
+				</abbrgrp> found cognitive rehabilitation to be beneficial for treating cognitive deficits following brain damage. There are recommendations for the provision of cognitive rehabilitation for people with acquired brain injuries (for example, European Federation of Neurological Societies Guidelines on cognitive rehabilitation <abbrgrp>
+					<abbr bid="B8">8</abbr>
+				</abbrgrp>; National Service Framework for Long term Conditions <abbrgrp>
+					<abbr bid="B9">9</abbr>
+				</abbrgrp>). However, recommendations are always qualified by statements that highlight the need for more research, to support the recommendations.</p><p>Some randomised controlled trials (RCTs) have demonstrated the effectiveness of cognitive rehabilitation following brain injuries. These have mainly focussed on attention, executive functions, and visual neglect, but memory rehabilitation has not been sufficiently researched <abbrgrp>
+					<abbr bid="B10">10</abbr>
+				</abbrgrp>. Most evidence for memory rehabilitation comes from single-case experimental design studies and controlled clinical trials. The few RCTs and quasi-RCTs in this area have offered some support for the effectiveness of intervention. Wilson <it>et al</it>. <abbrgrp>
+					<abbr bid="B11">11</abbr>
+				</abbrgrp> examined an external memory aid, Neuropage. This enabled participants to achieve more memory-related goals than when it was not available. Doornhein and de Haan <abbrgrp>
+					<abbr bid="B12">12</abbr>
+				</abbrgrp> reported that patients who received a memory training programme performed significantly better than those in a pseudo-treatment control group on trained memory tasks, but no differences were observed on subjective ratings of everyday memory functions. Kaschel <it>et al</it>. <abbrgrp>
+					<abbr bid="B13">13</abbr>
+				</abbrgrp> reported that imagery mnemonics significantly improved delayed recall of verbal material and reduced observer-rated reports of memory failures. However, systematic reviews on memory rehabilitation have not found evidence to support or refute the effectiveness of such programmes <abbrgrp>
+					<abbr bid="B14">14</abbr>
+					<abbr bid="B15">15</abbr>
+				</abbrgrp>. This lack of evidence is partly due to the paucity of well-designed trials and has led a recent meta-analysis to conclude that &#8216;the results for memory rehabilitation are mixed and weak&#8217; <abbrgrp>
+					<abbr bid="B10">10</abbr>
+				</abbrgrp> (p.33). These authors suggested that &#8216;researchers need to reduce reliance on single-subject and single group designs&#8217; (p.34) and recommended more RCT evidence, a view supported by others <abbrgrp>
+					<abbr bid="B16">16</abbr>
+				</abbrgrp>. At a symposium on disorders of memory, Wilson called for &#8216;better evaluation of memory rehabilitation programmes&#8217; <abbrgrp>
+					<abbr bid="B17">17</abbr>
+				</abbrgrp> (p.e4-5). This is a conclusion that our systematic reviews of memory rehabilitation following TBI <abbrgrp>
+					<abbr bid="B10">10</abbr>
+				</abbrgrp>, stroke <abbrgrp>
+					<abbr bid="B18">18</abbr>
+				</abbrgrp>, multiple sclerosis <abbrgrp>
+					<abbr bid="B19">19</abbr>
+				</abbrgrp> have also reached. A small scale RCT (n&#8201;=&#8201;72) was conducted to evaluate a group memory rehabilitation programme <abbrgrp>
+					<abbr bid="B20">20</abbr>
+				</abbrgrp>. Patients with memory problems were randomly allocated to one of three group treatment programmes: compensation strategy training, restitution, or a self-help attention placebo control. The results showed that there were no statistically significant differences in outcome. However, the trend in the results and the qualitatively analysed participant feedback interviews <abbrgrp>
+					<abbr bid="B21">21</abbr>
+				</abbrgrp> indicated the interventions seemed worthy of further evaluation. These studies provided feasibility and pilot data for the present study.</p><p>Currently, TBI patients with memory problems do not routinely receive follow-up rehabilitation after the early intensive phase, even though their abilities and needs may change once discharged from clinical services. This is mainly due to the current lack of evidence of clinical and cost-effectiveness of the intervention, and resource limitations. This study seeks to address these concerns.</p>
+		</sec>
+		<sec>
+			<st>
+				<p>Methods/Design</p>
+			</st>
+			<sec>
+				<st>
+					<p>Trial objectives</p>
+				</st><p>The primary objective is to determine whether attending a group memory rehabilitation programme is associated with subjective reports of improved management of memory in daily life when compared to a usual care (UC) control. The secondary objectives are to assess whether the intervention is associated with improvements in &#8216;objectively&#8217; assessed memory abilities, participants&#8217; ability to achieve individually set goals, health-related quality of life, and cognitive, emotional and social wellbeing. Lastly, the cost-effectiveness of the intervention will also be investigated.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Trial design</p>
+				</st><p>This is a multi-centre, parallel group, randomised controlled trial (RCT).</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Site and participant recruitment</p>
+				</st><p>The study will be conducted in at least four centres in the UK. New centres will be activated as old ones shut down due to their participant pools being exhausted.</p><p>Participants are identified through NHS hospitals, rehabilitation centres and charities (for example, military or head injury charities). A letter will be sent to individuals who are identified as potential participants by a member of the clinical team; this letter will include a patient information sheet, a consent form and a paid reply envelope. If the potential participant is interested in taking part, he or she is requested to complete the slip and return it in the envelope directly to the Assistant Psychologist (AP). Self-referral will also be possible via public-facing information on the study website, newsletters and posters. Participants recruited via this route will be made aware that their GP may be contacted to confirm the TBI diagnosis. Recruitment is planned to cover a 25-month period.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Informed consent</p>
+				</st><p>Written informed consent will be obtained by the AP. We will explain to participants that their participation is entirely voluntary and they are free to withdraw at any time; in the event of their withdrawal, any data collected up until that point would be kept by the research team. Participants will also be asked to allow the research team to have access to their clinical notes to obtain information on their clinical diagnosis, severity of injury (Glasgow Coma Scale score), time since injury, and other medical conditions. They will be asked whether they consent to a follow-up interview to assess treatment acceptability and will be informed that if allocated to the intervention group, sessions may be video-taped to ensure treatment fidelity. The GPs of consenting participants will be sent a letter to inform them of their patients&#8217; involvement in the trial.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Inclusion criteria</p>
+				</st><p>Patients are eligible for the trial if they i) were admitted to hospital with a TBI more than 3 months prior to recruitment, ii) report having memory problems as assessed at baseline, iii) are 18 to 69 years of age, iv) are able to travel to one of the study centres and attend group sessions, and v) give informed consent.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Exclusion criteria</p>
+				</st><p>Potential participants will be excluded if they i) are unable or unsuitable to engage in group treatment if allocated, ii) are involved in other psychological intervention studies, or iii) have impairment of language, as assessed at baseline.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Initial screening assessment</p>
+				</st><p>At the first appointment, the AP will explain the study and make clear that the initial screening assessments are required to check that the patient meets the inclusion criteria. The AP will obtain informed consent and conduct the initial assessments. The following assessments will be conducted at screening:</p><p indent="1">1. The Everyday Memory Questionnaire-patient version (EMQ-p <abbrgrp>
+						<abbr bid="B22">22</abbr>
+					</abbrgrp>; a subjective measure of the frequency of memory failures in daily life. We will be using a modified version of the EMQ, which has two sections: (i) frequency of forgetting of individual items and (ii) importance of each individual item to the patient.</p><p indent="1">2. The Rivermead Behavioural Memory Test-3rd edition (RBMT-3; <abbrgrp>
+						<abbr bid="B23">23</abbr>
+					</abbrgrp>) an ecologically valid measure of memory ability. The RBMT-3 has been used in previous studies and is the version currently used clinically.</p><p indent="1">3. The Sheffield Screening Test for Acquired Language Disorders (SST; <abbrgrp>
+						<abbr bid="B24">24</abbr>
+					</abbrgrp>) used to assess language ability. We will use a cut-off score &lt;17 to determine eligibility.</p><p indent="1">4. Premorbid level of intellectual functioning will be estimated using the National Adult Reading Test (NART; <abbrgrp>
+						<abbr bid="B25">25</abbr>
+					</abbrgrp>).</p><p indent="1">5. General Health Questionnaire (GHQ-30; <abbrgrp>
+						<abbr bid="B26">26</abbr>
+					</abbrgrp>) a measure of mood.</p><p>Potential participants will be eligible to take part if they meet the following requirements:</p><p indent="1">1. score 24 or more on Section 1 (frequency) of the EMQ OR.</p><p indent="1">2. score below the 25th percentile on the RBMT-3.</p><p indent="1">Those who do not meet the inclusion criteria will be notified by letter to thank them for their interest in the study and a brief report of their test results will be provided if requested. Those who meet the inclusion criteria will be phoned to arrange a second assessment session if they are willing to continue. We will also check whether they can nominate a relative or friend who knows them well who would be willing to complete two questionnaires about the participant&#8217;s memory.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Second assessment</p>
+				</st><p>The purpose of this assessment, conducted 2 weeks (+/- 1 week) after the first assessment, is to achieve the following:</p><p indent="1">1. set the short- and long-term goals that individual participants would like to achieve by the end of the study (all participants set one short term and long term goal up to a maximum of five).</p><p indent="1">2. complete the EQ5D (a health-related quality of life measure <abbrgrp>
+						<abbr bid="B26">26</abbr>
+					</abbrgrp>).</p><p indent="1">3. complete the service-use questionnaire.</p><p indent="1">4. check their availability in the event they are assigned to the intervention group.</p><p indent="1">5. collect the EMQ-r, completed by the carer/relative.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Participant outcome assessments</p>
+				</st><p>Outcome assessments will occur at 6 and 12 months after randomisation. The NHS number will be supplied to the Medical Research Information Service to allow a mortality check prior to follow-up.</p><p>The primary outcome measure will be the EMQ-patient version <abbrgrp>
+						<abbr bid="B22">22</abbr>
+					</abbrgrp>. The study will use the frequency component as the primary outcome measure and the importance component will be used to develop a scoring mechanism to develop an assessment, which takes frequency and importance into account.</p><p>Participants will receive a questionnaire pack by post, and will be requested to return this to the Nottingham Clinical Trials Unit (NCTU) as soon as possible; however, participants do have the option of requesting help in completing these questionnaires if necessary. If questionnaires have missing items or are not returned, participants will be telephoned to obtain the missing information. The questionnaire pack will consist of: the modified EMQ (patient and relative version), GHQ-30, European Brain Injury Questionnaire <abbrgrp>
+						<abbr bid="B27">27</abbr>
+					</abbrgrp> (patient and relative versions), EQ5D <abbrgrp>
+						<abbr bid="B28">28</abbr>
+					</abbrgrp>, and a bespoke service-use questionnaire. A research assistant, who is unaware of the group allocation, will conduct the RBMT-3 and assess goal attainment.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Minimisation of bias</p>
+				</st><p>The participants and APs will not be blind to the allocated treatment. The primary outcome is participant completed and sent back directly to the data entry team. The RBMT and assessment of goal attainment (secondary outcomes) will be conducted by the RA in person. To prevent unblinding, the RA will request participants not to discuss any aspect of being involved with the study. The RA will also be required to guess the treatment allocation for each participant and this will be compared later to the actual allocation, to determine the degree of unblinding.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Randomisation</p>
+				</st><p>Participants will be randomised in clusters of four to six. Once four to six participants have been identified and consented, they will be randomly allocated, as a group, to intervention or usual care (UC) (1:1 ratio). The randomisation will be based on a computer generated pseudo-random code using random permuted blocks of randomly varying size, created by the NCTU in accordance with their standard operating procedure and held on a secure server. The randomisation will be stratified by study site. Access to the sequence will be confined to the NCTU IT Manager. Investigators will access the allocation for each group by means of a remote, internet-based randomisation system developed and maintained by the NCTU. The sequence of treatment allocations will be concealed from the study statistician until all interventions have all been assigned and recruitment, data collection, and all other study-related assessments are complete.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Duration of participant participation</p>
+				</st><p>Figure&#160;<figr fid="F1">1</figr> shows the expected progress of the study. Participants are in the study for approximately 13 months from the initial screening assessment (12 months from randomisation). Participants will leave the study when they have completed the 12-month follow-up.</p>
+				<fig id="F1"><title><p>Figure 1</p></title><caption><p>CONSORT diagram</p></caption><text>
+   <p>
+      <b>CONSORT diagram.</b>
+   </p>
+</text><graphic file="1745-6215-16-6-1"/></fig>
+			</sec>
+			<sec>
+				<st>
+					<p>Group-based memory intervention</p>
+				</st><p>Each group led by an AP will consist of 4 to 6 participants. Participants will receive 10 group memory-rehabilitation sessions (1.5 hours long, once a week for 10 weeks), following a treatment manual, which was developed and tested in the previous study (a description of the manual has been published <abbrgrp>
+						<abbr bid="B14">14</abbr>
+						<abbr bid="B20">20</abbr>
+					</abbrgrp>). The original manual has been revised following extensive consultation and feedback from participants. Qualitative research <abbrgrp>
+						<abbr bid="B22">22</abbr>
+					</abbrgrp> also found that the group format, composition, and duration were acceptable to participants, and delivery of the intervention was feasible. The intervention will include restitution strategies to retrain memory functions, including attention retraining and strategies to improve encoding and retrieval. Compensation strategies will be taught, including internal mnemonics (such as chunking, use of first letter cues, rhymes), use of external devices (such as diaries, mobile phones, calendars), and ways of coping with memory problems. The importance of &#8216;errorless learning&#8217; <abbrgrp>
+						<abbr bid="B29">29</abbr>
+					</abbrgrp> will also be taught.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Control group (usual care)</p>
+				</st><p>Participants will receive their usual clinical care. The majority of participants will no longer be receiving any formal rehabilitation. They may be attending self-help groups or services from charities supporting people with head injuries, for example, Headway.</p><p>All other clinical services will be provided as usual for both groups. This may include referral to employment rehabilitation services, self-help groups or support from specialist charities, such as Headway. Any additional input (including psychological or medical interventions) participants receive during the study will be noted from the service use questionnaire.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Compliance with interventions</p>
+				</st><p>The assistant psychologist records whether participants attend each of the treatment sessions and the reasons if sessions are not attended. To ensure the fidelity of the intervention, the content of treatment will be described and analysed. This will be achieved by video recording 20 intervention sessions. Sessions will be purposively pre-selected for recording in order to include sessions from the start, middle and end of the ten-week course and recordings will be made across the intervention period. Practices for video-recording will draw upon guidance on minimizing intrusiveness of the recording <abbrgrp>
+						<abbr bid="B30">30</abbr>
+						<abbr bid="B31">31</abbr>
+					</abbrgrp>. Methods used in previous work will be drawn on to analyse the content of training within rehabilitation contexts <abbrgrp>
+						<abbr bid="B32">32</abbr>
+						<abbr bid="B33">33</abbr>
+					</abbrgrp>. Two independent assessors will separately analyse the video recordings using a customized score sheet to capture a variety of key elements spanning all aspects of the intervention. Assessors will code these factors as present or absent over a series of time intervals. This method has previously been used in the pilot study and was able to determine treatment fidelity without disrupting the group sessions <abbrgrp>
+						<abbr bid="B34">34</abbr>
+					</abbrgrp>.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Sample size and justification</p>
+				</st><p>The sample size calculation is based on the primary outcome measure (EMQ-p frequency total score) at six months post-randomisation. The main study aim is to detect a minimum clinically relevant difference in mean EMQ-p frequency total score of 12 between the memory intervention group and the usual care group. A 12-point difference on this measure was deemed to be a clinically significant change based on our pilot data <abbrgrp>
+						<abbr bid="B20">20</abbr>
+					</abbrgrp> and clinical interviews. A common standard deviation of 21.9 from the pilot gives an effect size of 0.55. A type 1 error of 0.05 and power of 90% were used for the calculation. A fixed effects model at the level of the four centres is assumed, with 10% of the total variation due to between-centre variation. The participants are cluster randomised into groups of 6 at the second level and a random effects model will be used with a small intracluster correlation coefficient assumed (ICC&#8201;=&#8201;0.1). This ICC is likely to be small because within each centre the therapist, intervention, and delivery location do not vary. Using the &#8216;Optimal Design&#8217; software with these parameters, the calculation gives 10 groups per centre. Data from the pilot study and taking account that the control group only receives usual care suggests a possible dropout rate of 20%, so 26 groups of each intervention will be required or 312 participants in total. Based on our pilot study, we estimate we will need to screen 400 participants to recruit the required 312. Clinicians at the four centres have indicated that this is an achievable target in the timeframe proposed.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Statistical analysis</p>
+				</st><p>Database lock will take place once all data entries have been checked and sufficient verification processes have been completed. Analyses will be completed with Stata version 11.2 or above. The psychometric properties of the instruments used will be evaluated when sufficient baseline data have been collected. The baseline characteristics will be described using appropriate summary statistics to examine balance between the two randomised groups.</p><p>The primary analysis will use a multi-level linear model with baseline EMQ score as a covariate, centre as a fixed effect and random effects, which take appropriate account of clustering according to allocated group <abbrgrp>
+						<abbr bid="B35">35</abbr>
+						<abbr bid="B36">36</abbr>
+					</abbrgrp>. The between group comparison will be presented as the difference in mean EMQ-p score at 6 months between the two groups with a 95% confidence interval <abbrgrp>
+						<abbr bid="B35">35</abbr>
+						<abbr bid="B36">36</abbr>
+					</abbrgrp>. Participants will be analysed as randomised (Intention to Treat) regardless of adherence with allocation. It is planned that the primary analysis will be based on participants with available data with no imputation for participants with missing outcomes. The distributions of raw outcome scores and residuals will be examined and the data suitably transformed or a non-parametric analysis employed if necessary.</p><p>Supportive analyses for the primary outcome will include imputation of missing data exploring different scenarios for the missing data, accounting for non-compliance with the group memory rehabilitation programme and adjusting for any characteristics assessed at baseline with an observed imbalance between the two groups.</p><p>All secondary variables will be presented using appropriate descriptive statistics and analysed with appropriate regression models using the same techniques as for the primary outcome. Differences between the two groups will be presented with 95% confidence intervals. All secondary analyses will be interpreted with caution as the sample size calculation is based on the primary outcome. The analyses for all the outcomes will be repeated with the 12 month follow-up data following similar distribution checks.</p><p>Full details of all statistical analyses will be given in a statistical analysis plan, which will be finalised prior to database lock.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Health economic evaluation</p>
+				</st><p>The cost-effectiveness will be assessed from the perspective of the UK NHS and personal social services. The costs associated with the intervention will be determined by calculating the cost of staff time, materials, etc. used in providing the intervention. These will be compared with changes in the number of visits to GPs, hospital, prescribed medication, and social services contacts in the intervention and control groups during the investigation. The costs will be compared with the outcomes generated and a series of incremental cost-effectiveness ratios computed, including a cost/Quality Adjusted Life Year (QALY) analysis - based on changes in EQ-5D. A series of one-way sensitivity analyses will be undertaken to determine the extent to which baseline findings will change in light of parameter variation. Given the limited time duration of the study and follow-up, a decision analytic model will be constructed to determine the cost-effectiveness of the intervention from a lifetime perspective, a series of scenarios will be constructed to reflect the extent to which differential outcomes can be predicted to continue over longer time periods, using expert opinion and information available in the literature. A probabilistic sensitivity analysis will be carried out to determine the extent to which the intervention can be regarded as representing value for money.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Assessment of safety and adverse events</p>
+				</st><p>The adverse event risks of taking part in the study have been assessed. A part of the baseline assessment is to assess the memory of the participants such that they may become aware of memory problems that they did not know that they had. As a result, the main risk associated with this intervention is distress caused by the realisation that their memory is not as good as they had thought. However, first, distress caused in this way is considered very unlikely; and, second, any distress caused is likely to be mild. In addition, for the intervention group, this is also dealt with during the course of the intervention and the group therapy will address this on a participant by participant basis. So overall the risk has been assessed as negligible.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Participants who withdraw</p>
+				</st><p>No withdrawal criteria have been specified, and participants have the right to withdraw from the study at any time. The reasons for leaving the study will be recorded, but participants are not obliged to give reasons. Participants will be assured that withdrawal will not affect the care they receive. They will be informed at the start of the study that data collected up to the point of withdrawal will be retained and may be used in the final analysis. There will be no replacement of participants who withdraw.</p><p>All reasonable attempts will be made to contact any participant lost to follow-up during the course of the study in order to complete assessments.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Feedback interviews</p>
+				</st><p>A feedback interview will be conducted within 2 months of the 6 month appointments, with 32 purposefully selected and willing participants: 16 from each group. This will be 4 intervention and 4 control participants, from each participating centre. The selection strategy will be designed to include participants with varying levels of memory impairments, and with varying social situations. The interviews will be conducted by a second RA (RA2) who was not involved with the participant&#8217;s assessment or treatment, thereby reducing social desirability response bias. The RA2 will become aware of the group allocations during the interview so will not be blind to the intervention. The interview will be audio recorded using a digital recorder, transcribed, and analysed using a thematic analysis (following the protocol prescribed by Braun and Clarke <abbrgrp>
+						<abbr bid="B37">37</abbr>
+					</abbrgrp>). Participant consent for the interviews will be sought separately. The interviews will provide important feedback on participants&#8217; perception of progress over time and for those in the intervention groups, the quality of the interventions provided, and as such will serve as a process measure. Insights from this qualitative data and analysis will serve to inform developments of the intervention programme in the future and to generate user-oriented proposals about areas for further investigations. For those in the control group the interviews will provide confirmation of the nature of usual care received.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Criteria for terminating the study</p>
+				</st><p>The study maybe stopped as a whole because of a change in opinion of the Research Ethics Committee (REC) or safety concerns or issues with study conduct at the discretion of the sponsor.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Trial management</p>
+				</st><p>A Trial Management Group (TMG) will be convened and meet regularly. This group will be in charge of the everyday running of the trial. The Trial Steering Committee (TSC) will oversee the conduct of the study and will have an independent Chair. A service user representative and a member from one of the military charities will also be invited to join this group. It will advise on recruitment strategies, monitor progress with recruitment, and check adherence to the study protocol. Observers from the National Institute for Health Research - Health Technology Assessment (NIHR HTA) programme (the funder) will be invited to TSC meetings. The Data Monitoring Committee (DMC) will be an independent group, the members of which have no other involvement with the study. Members of this committee will include rehabilitation professionals and an experienced study statistician. It will safeguard the interests of trial participants, with particular reference to safety and the efficacy of the intervention, monitor the overall progress and conduct of the trial and assist and advise the Investigators so as to protect the validity and credibility of the trial.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Service user involvement</p>
+				</st><p>Our service user representative has had experience of rehabilitation in NHS services and has taken part in the previous study. Their role will be to advise on recruitment and dissemination options, and will contribute to the development of the intervention manual and the lay summary of the project. This service user will sit on the TSC. Other service user representatives will be recruited to the TSC and DMC from relevant charities (for example, Headway and The Soldiers&#8217; Charity). Service user involvement will contribute to: team meetings and project management decisions, project approval through REC, recruitment and consent (contribute to the development of participant information sheets), data gathering (through developing patient information leaflets explaining the survey tools where appropriate), interpretation of findings (through the development of recommendations for practice and patient information leaflets about therapy), and dissemination of the findings through existing networks.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Definition of a protocol deviation</p>
+				</st><p>A protocol deviation is an unanticipated or unintentional divergence or departure from the expected conduct of a study inconsistent with the protocol, consent document or other study procedures. All protocol deviations will be recorded on the electronic case report form (eCRF) by local investigator staff.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Ethical approval</p>
+				</st><p>Ethical approval was obtained from the NRES Committee East Midlands - Nottingham 1 on 21.09.12. (ref: 12/EM/0324).</p>
+			</sec>
+		</sec>
+		<sec>
+			<st>
+				<p>Discussion</p>
+			</st><p>This study was conceptualised in response to a commissioned call for &#8216;proposals concerning people needing physical or psychological rehabilitation following trauma in a military or civilian context&#8217; from the Health Technology Assessment (HTA) Programme <abbrgrp>
+					<abbr bid="B38">38</abbr>
+				</abbrgrp>. Based on our pilot work <abbrgrp>
+					<abbr bid="B14">14</abbr>
+				</abbrgrp> and feedback from participants <abbrgrp>
+					<abbr bid="B21">21</abbr>
+				</abbrgrp>, we decided to combine restitution and compensation approaches in the intervention. We also decided to have a usual care control group, as having a self-help control group was difficult to organise and facilitate.</p><p>Our choice of primary outcome measure was a point of contention, with some of our reviewers suggesting &#8216;objective&#8217; measures of memory, others recommending the use of goal attainment scaling, and yet others agreeing that the primary outcome had to be a subjective report of memory function in daily life. We have retained both an objective measure of memory and a measure of goal attainment, but these are secondary outcomes. Most objective measures have poor ecological validity. Goal attainment poses challenges in setting goals that can be precisely measured and the changeable nature of some of the goals, given that our outcomes are measured 6 and 12 months after the goals were set.</p><p>We anticipate that one of the biggest challenges to recruit to this study will be potential participants&#8217; memory problems themselves. Even those interested in taking part in this trial when they receive our invitation letter may forget to respond. To address this, we have sought an amendment to our original ethics approval to include a single phone call to follow-up non-responders to the invitation letter to enquire whether they remember receiving the letter and whether they would like to participate.</p>
+		</sec>
+		<sec>
+			<st>
+				<p>Trial status</p>
+			</st><p>The first centre was open to recruitment on the 6 February 2013 and the first participant consented on 20 February 2013. At the time of preparing this manuscript, 166 people have consented, and 85 have been randomised. Recruitment is due to finish in March 2015.</p>
+		</sec>
+		<sec>
+			<st>
+				<p>Abbreviations</p>
+			</st><p>AP: assistant psychologist; CI: chief investigator; CLRN: Clinical Local Research Network; DMC: data management committee; eCRF: electronic case record form; EMQ: Everyday Memory Questionnaire; GHQ: General Health Questionnaire; HTA: Health Technology Assessment; IRAS: Integrated Research Application System; NART: National Adult Reading Test; NCTU: Nottingham Clinical Trials Unit; NHS: National Health Service; NIHR: National Institute for Health Research; QALY: quality adjusted life years; RA: research assistant; RBMT: Rivermead Behavioural Memory Test; REC: research ethics committee; SST: Sheffield Screening Test; TBI: Traumatic Brain Injury; TMG: trial management group; TSC: trial steering committee.</p>
+		</sec>
+		<sec>
+			<st>
+				<p>Competing interests</p>
+			</st><p>The authors declare that they have no competing interests.</p>
+		</sec>
+		<sec>
+			<st>
+				<p>Authors&#8217; contributions</p>
+			</st><p>RdN and NBL conceptualised the study and led the project and this manuscript. DF provided health economics input. AM, LB, and JT provided statistical and methodological input. NB, AD, CS, and GN provided the clinical input and developed the recruitment strategy. SS wrote the management aspects of the trial. AP provided advice on recruitment. All contributed to the preparation of this manuscript. All authors read and approved the final manuscript.</p>
+		</sec>
+	</bdy>
+	<bm>
+		<ack>
+			<sec>
+				<st>
+					<p>Acknowledgements</p>
+				</st><p>We would like to thank Alexandra Erven for her input during the early stages of preparing this trial protocol and Emma Sinclair for her help in formatting this manuscript for publication.</p><p>This project is funded by the National Institute for Health Research Health Technology Assessment (NIHR HTA) Programme (10/57/24) and will be published in full in Health Technology Assessment.</p><p>The views and opinions expressed herein are those of the authors and do not necessarily reflect those of the HTA programme, NIHR, NHS or the Department of Health.</p>
+			</sec>
+		</ack>
+		<refgrp><bibl id="B1"><title><p>Cognitive outcome after mild and moderate traumatic brain injury in older adults</p></title><aug><au><snm>Goldstein</snm><fnm>FC</fnm></au><au><snm>Levin</snm><fnm>HS</fnm></au></aug><source>J Clin Exp Neuropsyc</source><pubdate>2001</pubdate><volume>23</volume><fpage>739</fpage><lpage>53</lpage><xrefbib><pubid idtype="doi">10.1076/jcen.23.6.739.1028</pubid></xrefbib></bibl><bibl id="B2"><aug><au><snm>Richardson</snm><fnm>JTE</fnm></au></aug><source>Clinical and Neuropsychological Aspects of Closed Head Injury</source><publisher>London: Taylor &amp; Francis</publisher><pubdate>2000</pubdate></bibl><bibl id="B3"><title><p>Traumatic Brain Injury</p></title><aug><au><snm>Williamson</snm><fnm>DJG</fnm></au><au><snm>Scott</snm><fnm>JG</fnm></au></aug><source>Neuropsycyhology for Clinical Practice: Etiology, Assessment and Treatment</source><publisher>Culbertson JL, Nixon SJ. Washington DC: American Psychological Association</publisher><editor>Adams RL, Parsons OA</editor><pubdate>1996</pubdate></bibl><bibl id="B4"><title><p>The Assessment and Rehabilitation of Memory Impairments</p></title><aug><au><snm>Skeel</snm><fnm>RL</fnm></au><au><snm>Edwards</snm><fnm>S</fnm></au></aug><source>Rehabilitation of Neuropsychological Disorders</source><publisher>New York: Psychology Press, Taylor &amp; Francis Group</publisher><editor>Johnstone B, Stonnington HH</editor><pubdate>2001</pubdate></bibl><bibl id="B5"><aug><au><snm>Finkelstein</snm><fnm>EA</fnm></au><au><snm>Corso</snm><fnm>PS</fnm></au><au><snm>Miller</snm><fnm>TR</fnm></au></aug><source>The Incidence and Economic Burden of Injuries in the United States</source><publisher>Oxford: Oxford University Press</publisher><pubdate>2006</pubdate><fpage>202</fpage></bibl><bibl id="B6"><title><p>Cognitive rehabilitation for traumatic brain injury: A randomized trial</p></title><aug><au><snm>Salazar</snm><fnm>AM</fnm></au><au><snm>Warden</snm><fnm>DL</fnm></au><au><snm>Schwab</snm><fnm>K</fnm></au><au><snm>Spector</snm><fnm>J</fnm></au><au><snm>Braverman</snm><fnm>S</fnm></au><au><snm>Walter</snm><fnm>J</fnm></au><etal/></aug><source>JAMA</source><pubdate>2000</pubdate><volume>283</volume><fpage>3075</fpage><lpage>81</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1001/jama.283.23.3075</pubid><pubid idtype="pmpid" link="fulltext">10865301</pubid></pubidlist></xrefbib></bibl><bibl id="B7"><title><p>Evidence-based cognitive rehabilitation: updated review of the literature from 1998 through 2002</p></title><aug><au><snm>Cicerone</snm><fnm>KD</fnm></au><au><snm>Dahlberg</snm><fnm>C</fnm></au><au><snm>Malec</snm><fnm>JF</fnm></au><au><snm>Langenbahn</snm><fnm>DM</fnm></au><au><snm>Felicetti</snm><fnm>T</fnm></au><au><snm>Kneipp</snm><fnm>S</fnm></au><etal/></aug><source>Arch Phys Med Rehab</source><pubdate>2005</pubdate><volume>86</volume><fpage>1681</fpage><lpage>92</lpage><xrefbib><pubid idtype="doi">10.1016/j.apmr.2005.03.024</pubid></xrefbib></bibl><bibl id="B8"><title><p>EFNS guidelines on cognitive rehabilitation: report of an EFNS task force</p></title><aug><au><snm>Cappa</snm><fnm>SF</fnm></au><au><snm>Benke</snm><fnm>T</fnm></au><au><snm>Clarke</snm><fnm>S</fnm></au><au><snm>Rossi</snm><fnm>B</fnm></au><au><snm>Stemmer</snm><fnm>B</fnm></au><au><snm>van Heugten</snm><fnm>CM</fnm></au></aug><source>Euro J Neurol</source><pubdate>2005</pubdate><volume>12</volume><fpage>665</fpage><lpage>80</lpage></bibl><bibl id="B9"><aug><au><cnm>National Audit Office</cnm></au></aug><source>The National Service Framework for Long Term Conditions</source><publisher>London: Department of Health</publisher><pubdate>2005</pubdate></bibl><bibl id="B10"><title><p>Effectiveness of cognitive rehabilitation following acquired brain injury: a meta-analytic re-examination of Cicerone et al.&#8217;s (2000, 2005) systematic reviews</p></title><aug><au><snm>Rohling</snm><fnm>ML</fnm></au><au><snm>Faust</snm><fnm>ME</fnm></au><au><snm>Beverly</snm><fnm>B</fnm></au><au><snm>Demakis</snm><fnm>G</fnm></au></aug><source>Neuropsychol</source><pubdate>2009</pubdate><volume>23</volume><fpage>20</fpage><lpage>39</lpage></bibl><bibl id="B11"><title><p>A randomized control trial to evaluate a paging system for people with traumatic brain injury</p></title><aug><au><snm>Wilson</snm><fnm>BA</fnm></au><au><snm>Emslie</snm><fnm>H</fnm></au><au><snm>Quirk</snm><fnm>K</fnm></au><au><snm>Evans</snm><fnm>J</fnm></au><au><snm>Watson</snm><fnm>P</fnm></au></aug><source>Brain Inj</source><pubdate>2005</pubdate><volume>19</volume><fpage>891</fpage><lpage>4</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1080/02699050400002363</pubid><pubid idtype="pmpid">16296571</pubid></pubidlist></xrefbib></bibl><bibl id="B12"><title><p>Cognitive Training for Memory Deficits in Stroke Patients</p></title><aug><au><snm>Doornhein</snm><fnm>K</fnm></au><au><snm>De Haan</snm><fnm>EHF</fnm></au></aug><source>Neuropsych Rehab</source><pubdate>1998</pubdate><volume>8</volume><fpage>393</fpage><lpage>400</lpage><xrefbib><pubid idtype="doi">10.1080/713755579</pubid></xrefbib></bibl><bibl id="B13"><title><p>Imagery mnemonics for the rehabilitation of memory: A randomised group controlled trial</p></title><aug><au><snm>Kaschel</snm><fnm>R</fnm></au><au><snm>Sala</snm><fnm>SD</fnm></au><au><snm>Cantagallo</snm><fnm>A</fnm></au><au><snm>Fahlb&#246;ck</snm><fnm>A</fnm></au><au><snm>Laaksonen</snm><fnm>R</fnm></au><au><snm>Kazen</snm><fnm>M</fnm></au></aug><source>Neuropsych Rehab</source><pubdate>2002</pubdate><volume>12</volume><fpage>127</fpage><lpage>53</lpage><xrefbib><pubid idtype="doi">10.1080/09602010143000211</pubid></xrefbib></bibl><bibl id="B14"><aug><au><cnm>Nair RD</cnm></au></aug><source>Effectiveness of Memory Rehabilitation Following Brain Damage. PhD thesis</source><publisher>University Of Nottingham, School of Psychology</publisher><pubdate>2008</pubdate></bibl><bibl id="B15"><title><p>Cognitive rehabilitation for memory deficits following stroke</p></title><aug><au><snm>Majid</snm><fnm>MJ</fnm></au><au><snm>Lincoln</snm><fnm>NB</fnm></au><au><snm>Weyman</snm><fnm>N</fnm></au></aug><source>Cochrane Database Sys Rev</source><pubdate>2000</pubdate><volume>3</volume><note>CD002293</note></bibl><bibl id="B16"><title><p>Cognitive rehabilitation of episodic memory disorders: from theory to practice</p></title><aug><au><snm>Ptak</snm><fnm>R</fnm></au><au><snm>der Linden</snm><fnm>MV</fnm></au><au><snm>Schnider</snm><fnm>A</fnm></au></aug><source>Front Hum Neuroscience</source><pubdate>2010</pubdate><volume>4</volume><fpage>57</fpage></bibl><bibl id="B17"><title><p>Rehabilitation of memory disorders</p></title><aug><au><snm>Wilson</snm><fnm>BA</fnm></au></aug><source>JNNP</source><pubdate>2010</pubdate><volume>81</volume><fpage>e4</fpage><lpage>5</lpage></bibl><bibl id="B18"><title><p>Cognitive rehabilitation for memory deficits following stroke</p></title><aug><au><snm>das Nair</snm><fnm>RD</fnm></au><au><snm>Lincoln</snm><fnm>NB</fnm></au></aug><source>Cochrane Database Sys Rev</source><pubdate>2007</pubdate><volume>3</volume><fpage>CD002293</fpage></bibl><bibl id="B19"><title><p>Memory Rehabilitation for people with multiple sclerosis</p></title><aug><au><snm>das Nair</snm><fnm>RD</fnm></au><au><snm>Ferguson</snm><fnm>H</fnm></au><au><snm>Stark</snm><fnm>DL</fnm></au><au><snm>Lincoln</snm><fnm>NB</fnm></au></aug><source>Cochrane Database Sys Rev</source><pubdate>2007</pubdate><volume>3</volume><fpage>CD008754</fpage></bibl><bibl id="B20"><title><p>Evaluation of rehabilitation of memory in neurological disabilities (ReMiND): a randomized controlled trial</p></title><aug><au><snm>das Nair</snm><fnm>R</fnm></au><au><snm>Lincoln</snm><fnm>NB</fnm></au></aug><source>Clin Rehab</source><pubdate>2012</pubdate><volume>26</volume><fpage>894</fpage><lpage>903</lpage><xrefbib><pubid idtype="doi">10.1177/0269215511435424</pubid></xrefbib></bibl><bibl id="B21"><title><p>The effectiveness of memory rehabilitation following neurological disabilities: a qualitative inquiry of patient perspectives</p></title><aug><au><snm>das Nair</snm><fnm>RD</fnm></au><au><snm>Lincoln</snm><fnm>NB</fnm></au></aug><source>Neuropsych Rehab</source><pubdate>2013</pubdate><volume>23</volume><fpage>528</fpage><lpage>45</lpage><xrefbib><pubid idtype="doi">10.1080/09602011.2013.792290</pubid></xrefbib></bibl><bibl id="B22"><title><p>Do laboratory tests predict everyday memory? A neuropsychological study</p></title><aug><au><snm>Sunderland</snm><fnm>A</fnm></au><au><snm>Harris</snm><fnm>JE</fnm></au><au><snm>Baddeley</snm><fnm>AD</fnm></au></aug><source>J Verb Learn Verb Beh</source><pubdate>1983</pubdate><volume>22</volume><fpage>341</fpage><lpage>57</lpage><xrefbib><pubid idtype="doi">10.1016/S0022-5371(83)90229-3</pubid></xrefbib></bibl><bibl id="B23"><aug><au><snm>Wilson</snm><fnm>B</fnm></au><au><snm>Greenfield</snm><fnm>E</fnm></au><au><snm>Cockburn</snm><fnm>J</fnm></au><au><snm>Tate</snm><fnm>R</fnm></au><au><snm>Sopena</snm><fnm>S</fnm></au><au><snm>Nannery</snm><fnm>R</fnm></au><etal/></aug><source>Rivermead Behavioural Memory Test - Third Edition (RBMT-3)</source><publisher>London: Pearson Assessment</publisher><pubdate>2008</pubdate></bibl><bibl id="B24"><aug><au><snm>Syder</snm><fnm>D</fnm></au><au><snm>Body</snm><fnm>R</fnm></au></aug><source>Sheffield Screening Test for Acquired Language Disorder</source><publisher>Windsor: NFER-Nelson</publisher><pubdate>1993</pubdate></bibl><bibl id="B25"><aug><au><snm>Nelson</snm><fnm>HE</fnm></au><au><snm>Willison</snm><fnm>J</fnm></au></aug><source>National Adult Reading Test</source><publisher>Chiswick: NFER-Nelson</publisher><pubdate>1991</pubdate></bibl><bibl id="B26"><aug><au><snm>Goldberg</snm><fnm>RJ</fnm></au><au><snm>Williams</snm><fnm>PA</fnm></au></aug><source>User&#8217;s Guide to the General Health Questionnaire</source><publisher>Windsor: NFER-Nelson</publisher><pubdate>1988</pubdate></bibl><bibl id="B27"><title><p>Subjective experience in brain-injured patients and their close relatives. A European Brain Injury Questionnaire Study</p></title><aug><au><snm>Teasdale</snm><fnm>TW</fnm></au><au><snm>Christensen</snm><fnm>A-L</fnm></au><au><snm>Willmes</snm><fnm>K</fnm></au><au><snm>Deloche</snm><fnm>G</fnm></au><au><snm>Braga</snm><fnm>L</fnm></au><au><snm>Stachowiak</snm><fnm>F</fnm></au><etal/></aug><source>Brain Inj</source><pubdate>1997</pubdate><volume>11</volume><fpage>543</fpage><lpage>63</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1080/026990597123250</pubid><pubid idtype="pmpid">9251864</pubid></pubidlist></xrefbib></bibl><bibl id="B28"><title><p>EuroQol: a new facility for the measurement of health-related quality of life</p></title><aug><au><cnm>EQ Group</cnm></au></aug><source>Health Policy</source><pubdate>1990</pubdate><volume>3</volume><fpage>199</fpage><lpage>208</lpage></bibl><bibl id="B29"><title><p>Errorless learning in the rehabilitation of memory impaired people</p></title><aug><au><snm>Wilson</snm><fnm>BA</fnm></au><au><snm>Baddeley</snm><fnm>A</fnm></au><au><snm>Evans</snm><fnm>J</fnm></au><au><snm>Shiel</snm><fnm>A</fnm></au></aug><source>Neuropsych Rehab</source><pubdate>1994</pubdate><volume>4</volume><fpage>307</fpage><lpage>26</lpage><xrefbib><pubid idtype="doi">10.1080/09602019408401463</pubid></xrefbib></bibl><bibl id="B30"><title><p>Interaction Analysis: Foundations and Practice</p></title><aug><au><snm>Jordan</snm><fnm>B</fnm></au><au><snm>Henderson</snm><fnm>A</fnm></au></aug><source>J Learn Sci</source><pubdate>1995</pubdate><volume>4</volume><fpage>39</fpage><lpage>103</lpage><xrefbib><pubid idtype="doi">10.1207/s15327809jls0401_2</pubid></xrefbib></bibl><bibl id="B31"><title><p>Analysing work activities in face to face interaction using video</p></title><aug><au><snm>Heath</snm><fnm>C</fnm></au><au><snm>Hindmarsh</snm><fnm>J</fnm></au></aug><source>Qualitative Research in Action</source><publisher>London: Sage</publisher><editor>May T</editor><pubdate>1997</pubdate><fpage>99</fpage><lpage>121</lpage></bibl><bibl id="B32"><title><p>Improving training methods in brain injury rehabilitation</p></title><aug><au><snm>Mozzoni</snm><fnm>MP</fnm></au><au><snm>Bailey</snm><fnm>JS</fnm></au></aug><source>J Head Traum Rehab</source><pubdate>1996</pubdate><volume>11</volume><fpage>1</fpage><lpage>17</lpage></bibl><bibl id="B33"><title><p>Training brain injury rehabilitation therapists to use generalized teaching and interaction skills</p></title><aug><au><snm>Ducharme</snm><fnm>JM</fnm></au><au><snm>Spencer</snm><fnm>TF</fnm></au></aug><source>Brain Inj</source><pubdate>2001</pubdate><volume>15</volume><fpage>333</fpage><lpage>47</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1080/02699050010005869</pubid><pubid idtype="pmpid" link="fulltext">11299134</pubid></pubidlist></xrefbib></bibl><bibl id="B34"><title><p>A comparison of the content of memory rehabilitation groups for patients with neurological disabilities</p></title><aug><au><snm>O&#8217;Brien</snm><fnm>MC</fnm></au><au><snm>das Nair</snm><fnm>R</fnm></au><au><snm>Lincoln</snm><fnm>NB</fnm></au></aug><source>Neuropsych Rehab</source><pubdate>2013</pubdate><volume>23</volume><fpage>321</fpage><lpage>32</lpage><xrefbib><pubid idtype="doi">10.1080/09602011.2012.753920</pubid></xrefbib></bibl><bibl id="B35"><title><p>Evaluating group based interventions when control participants are ungrouped</p></title><aug><au><snm>Bauer</snm><fnm>DJ</fnm></au><au><snm>Sterba</snm><fnm>SK</fnm></au><au><snm>Hallfors</snm><fnm>DD</fnm></au></aug><source>Multivar Behav Res</source><pubdate>2008</pubdate><volume>43</volume><fpage>210</fpage><lpage>36</lpage><xrefbib><pubid idtype="doi">10.1080/00273170802034810</pubid></xrefbib></bibl><bibl id="B36"><title><p>Design and analysis of clinical trials with clustering effects due to treatment</p></title><aug><au><snm>Roberts</snm><fnm>C</fnm></au><au><snm>Roberts</snm><fnm>SA</fnm></au></aug><source>Clin Trials</source><pubdate>2005</pubdate><volume>2</volume><fpage>152</fpage><lpage>62</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1191/1740774505cn076oa</pubid><pubid idtype="pmpid" link="fulltext">16279137</pubid></pubidlist></xrefbib></bibl><bibl id="B37"><title><p>Using thematic analysis in psychology</p></title><aug><au><snm>Braun</snm><fnm>V</fnm></au><au><snm>Clarke</snm><fnm>V</fnm></au></aug><source>Qual Res Psychol</source><pubdate>2006</pubdate><volume>3</volume><fpage>77</fpage><lpage>101</lpage><xrefbib><pubid idtype="doi">10.1191/1478088706qp063oa</pubid></xrefbib></bibl><bibl id="B38"><title><p>Department of Health</p></title><pubdate>2010</pubdate><note><url>http://webarchive.nationalarchives.gov.uk/+/www.dh.gov.uk/en/MediaCentre/Pressreleasesarchive/DH_114389</url>. (accessed 15.01.2015)</note></bibl></refgrp>
+	</bm>
+</art>

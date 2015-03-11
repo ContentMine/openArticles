@@ -1,0 +1,106 @@
+{
+  "publisher": {
+    "value": [
+      "BioMed Central Ltd"
+    ]
+  },
+  "journal": {
+    "value": [
+      "Trials"
+    ]
+  },
+  "title": {
+    "value": [
+      "Effect of suture technique on the occurrence of incisional hernia after elective midline abdominal wall closure: study protocol for a randomized controlled trial"
+    ]
+  },
+  "authors": {
+    "value": [
+      "René H Fortelny",
+      "Petra Baumann",
+      "Wolfgang E Thasler",
+      "Markus Albertsmeier",
+      "Stefan Riedl",
+      "Wolfgang Steurer",
+      "Jan L Kewer",
+      "Andreas Shamiyeh"
+    ]
+  },
+  "date": {
+    "value": [
+      "2015-02-15"
+    ]
+  },
+  "doi": {
+    "value": [
+      "10.1186/s13063-015-0572-x"
+    ]
+  },
+  "volume": {
+    "value": [
+      "16"
+    ]
+  },
+  "issue": {
+    "value": [
+      "1"
+    ]
+  },
+  "firstpage": {
+    "value": [
+      "52"
+    ]
+  },
+  "description": {
+    "value": [
+      "Based on a recent meta-analysis, a continuous suture technique with a suture to wound length ratio of at least 4:1, using a slowly absorbable monofilament suture material, is recommended for primary median laparotomy closure. Incisional hernia, which develops in 9 to 20% of patients, remains the major complication of abdominal wall closure. Current clinical data indicate that the incidence of incisional hernias increases by 60% between the first and the third year after median laparotomy, implicating that a follow-up period of 1 year postoperatively is too short with regard to this common complication. Trauma to the abdominal wall can be reduced by improvements in suture technique as well as suture material. Several factors, such as stitch length, suture tension, elasticity, and tensile strength of the suture material are discussed and currently under investigation. A Swedish randomized controlled trial showed a significant reduction in the incisional hernia rate by shortening the stitch length. However, a non-elastic thread was used and follow-up ended after 12 months. Therefore, we designed a multicenter, international, double-blinded, randomized trial to analyze the influence of stitch length, using an elastic, extra-long term absorbable monofilament suture, on the long term clinical outcome of abdominal wall closure."
+    ]
+  },
+  "abstract": {
+    "value": [
+      "Based on a recent meta-analysis, a continuous suture technique with a suture to wound length ratio of at least 4:1, using a slowly absorbable monofilament suture material, is recommended for primary median laparotomy closure. Incisional hernia, which develops in 9 to 20% of patients, remains the major complication of abdominal wall closure. Current clinical data indicate that the incidence of incisional hernias increases by 60% between the first and the third year after median laparotomy, implicating that a follow-up period of 1 year postoperatively is too short with regard to this common complication. Trauma to the abdominal wall can be reduced by improvements in suture technique as well as suture material. Several factors, such as stitch length, suture tension, elasticity, and tensile strength of the suture material are discussed and currently under investigation. A Swedish randomized controlled trial showed a significant reduction in the incisional hernia rate by shortening the stitch length. However, a non-elastic thread was used and follow-up ended after 12 months. Therefore, we designed a multicenter, international, double-blinded, randomized trial to analyze the influence of stitch length, using an elastic, extra-long term absorbable monofilament suture, on the long term clinical outcome of abdominal wall closure."
+    ]
+  },
+  "fulltext_html": {
+    "value": [
+      "http://www.trialsjournal.com/content/16/1/52"
+    ]
+  },
+  "fulltext_pdf": {
+    "value": [
+      "http://www.trialsjournal.com/content/pdf/s13063-015-0572-x.pdf"
+    ]
+  },
+  "fulltext_xml": {
+    "value": [
+      "/content/download/xml/s13063-015-0572-x.xml"
+    ]
+  },
+  "supplementary_material": {
+    "value": []
+  },
+  "figure": {
+    "value": [
+      "/content/figures/s13063-015-0572-x-1.gif",
+      "/content/figures/s13063-015-0572-x-2.gif"
+    ]
+  },
+  "figure_caption": {
+    "value": [
+      "Figure 1.",
+      "CONSORT flow chart.",
+      "Figure 2.",
+      "SPIRIT diagram."
+    ]
+  },
+  "license": {
+    "value": [
+      "\r\n\t\t\t\tThis is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.\r\n\t\t\t"
+    ]
+  },
+  "copyright": {
+    "value": [
+      "\r\n            © 2015 Fortelny et al.; licensee BioMed Central. \r\n        "
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "publisher": {
+    "value": [
+      "BioMed Central Ltd"
+    ]
+  },
+  "journal": {
+    "value": [
+      "Trials"
+    ]
+  },
+  "title": {
+    "value": [
+      "Pain reduction with oral methotrexate in knee osteoarthritis, a pragmatic phase iii trial of treatment effectiveness (PROMOTE): study protocol for a randomized controlled trial"
+    ]
+  },
+  "authors": {
+    "value": [
+      "Sarah R Kingsbury",
+      "Puvan Tharmanathan",
+      "Nigel K Arden",
+      "Michael Batley",
+      "Fraser Birrell",
+      "Kim Cocks",
+      "Michael Doherty",
+      "Chris J Edwards",
+      "Toby Garrood",
+      "Andrew J Grainger",
+      "Michael Green",
+      "Catherine Hewitt",
+      "Rod Hughes",
+      "Robert Moots",
+      "Terence W O’Neill",
+      "Edward Roddy",
+      "David L Scott",
+      "Fiona E Watt",
+      "David J Torgerson",
+      "Philip G Conaghan"
+    ]
+  },
+  "date": {
+    "value": [
+      "2015-03-04"
+    ]
+  },
+  "doi": {
+    "value": [
+      "10.1186/s13063-015-0602-8"
+    ]
+  },
+  "volume": {
+    "value": [
+      "16"
+    ]
+  },
+  "issue": {
+    "value": [
+      "1"
+    ]
+  },
+  "firstpage": {
+    "value": [
+      "77"
+    ]
+  },
+  "description": {
+    "value": [
+      "Osteoarthritis (OA) is the fastest growing cause of disability worldwide. Current treatments for OA are severely limited and a large proportion of people with OA live in constant, debilitating pain. There is therefore an urgent need for novel treatments to reduce pain. Synovitis is highly prevalent in OA and is associated with pain. In inflammatory arthritides such as rheumatoid arthritis, methotrexate (MTX) is the gold standard treatment for synovitis and has a well-known, acceptable toxicity profile. We propose that using MTX to treat patients with symptomatic knee OA will be a practical and safe treatment to reduce synovitis and, consequently, pain."
+    ]
+  },
+  "abstract": {
+    "value": [
+      "Osteoarthritis (OA) is the fastest growing cause of disability worldwide. Current treatments for OA are severely limited and a large proportion of people with OA live in constant, debilitating pain. There is therefore an urgent need for novel treatments to reduce pain. Synovitis is highly prevalent in OA and is associated with pain. In inflammatory arthritides such as rheumatoid arthritis, methotrexate (MTX) is the gold standard treatment for synovitis and has a well-known, acceptable toxicity profile. We propose that using MTX to treat patients with symptomatic knee OA will be a practical and safe treatment to reduce synovitis and, consequently, pain."
+    ]
+  },
+  "fulltext_html": {
+    "value": [
+      "http://www.trialsjournal.com/content/16/1/77"
+    ]
+  },
+  "fulltext_pdf": {
+    "value": [
+      "http://www.trialsjournal.com/content/pdf/s13063-015-0602-8.pdf"
+    ]
+  },
+  "fulltext_xml": {
+    "value": [
+      "/content/download/xml/s13063-015-0602-8.xml"
+    ]
+  },
+  "supplementary_material": {
+    "value": []
+  },
+  "figure": {
+    "value": [
+      "/content/figures/s13063-015-0602-8-1.gif",
+      "/content/figures/s13063-015-0602-8-2.gif"
+    ]
+  },
+  "figure_caption": {
+    "value": [
+      "Figure 1.",
+      "Overview of systematic review of methotrexate use in osteoarthritis.",
+      "Figure 2.",
+      "Participant flowchart."
+    ]
+  },
+  "license": {
+    "value": [
+      "\r\n\t\t\t\tThis is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.\r\n\t\t\t"
+    ]
+  },
+  "copyright": {
+    "value": [
+      "\r\n            © 2015 Kingsbury et al.; licensee BioMed Central. \r\n        "
+    ]
+  }
+}

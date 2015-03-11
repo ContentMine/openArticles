@@ -1,0 +1,2060 @@
+<?xml version='1.0'?>
+<!DOCTYPE art SYSTEM 'http://www.biomedcentral.com/xml/article.dtd'>
+<art>
+    <ui>s13063-015-0585-5</ui>
+    <ji>1745-6215</ji>
+    <fm>
+       <dochead>Study protocol</dochead>
+       <bibl>
+          <title>
+             <p>Home-based tele-supervising rehabilitation for brain infarction patients (HTRBIP): study protocol for a randomized controlled trial</p>
+          </title>
+          <aug>
+             <au id="A1">
+                <snm>Jin</snm>
+                <fnm>Wei</fnm>
+                <insr iid="I1"/>
+                <email>jinweint@sina.com</email>
+             </au>
+             <au id="A2">
+                <snm>Chen</snm>
+                <fnm>Jing</fnm>
+                <insr iid="I1"/>
+                <email>824044742@qq.com</email>
+             </au>
+             <au id="A3">
+                <snm>Shi</snm>
+                <fnm>Fangfang</fnm>
+                <insr iid="I1"/>
+                <email>jwshmh@sina.com</email>
+             </au>
+             <au id="A4">
+                <snm>Yang</snm>
+                <fnm>Wuqing</fnm>
+                <insr iid="I2"/>
+                <email>jiejiafdu@163.com</email>
+             </au>
+             <au id="A5">
+                <snm>Zhang</snm>
+                <fnm>Yu</fnm>
+                <insr iid="I3"/>
+                <email>zhangyu19810106@sina.com</email>
+             </au>
+             <au id="A6">
+                <snm>Liu</snm>
+                <fnm>Yuan</fnm>
+                <insr iid="I4"/>
+                <email>469931323@qq.com</email>
+             </au>
+             <au id="A7">
+                <snm>Dong</snm>
+                <fnm>Wenshuai</fnm>
+                <insr iid="I1"/>
+                <email>708815480@qq.com</email>
+             </au>
+             <au id="A8">
+                <snm>Jin</snm>
+                <fnm>Yan</fnm>
+                <insr iid="I1"/>
+                <email>542174161@qq.com</email>
+             </au>
+             <au id="A9">
+                <snm>Ma</snm>
+                <fnm>Wenfeng</fnm>
+                <insr iid="I2"/>
+                <email>419924346@qq.com</email>
+             </au>
+             <au id="A10">
+                <snm>Ma</snm>
+                <fnm>Zhongju</fnm>
+                <insr iid="I2"/>
+                <email>2723439680@qq.com</email>
+             </au>
+             <au id="A11">
+                <snm>Min</snm>
+                <fnm>Xinli</fnm>
+                <insr iid="I3"/>
+                <email>2227674928@qq.com</email>
+             </au>
+             <au id="A12">
+                <snm>Jin</snm>
+                <fnm>Yin</fnm>
+                <insr iid="I4"/>
+                <email>446940863@qq.com</email>
+             </au>
+             <au id="A13">
+                <snm>Gu</snm>
+                <fnm>Yong</fnm>
+                <insr iid="I1"/>
+                <email>yonggu5thhospital@126.com</email>
+             </au>
+             <au id="A14" ca="yes">
+                <snm>Ren</snm>
+                <fnm>Chuancheng</fnm>
+                <insr iid="I1"/>
+                <email>renchuancheng@outlook.com</email>
+             </au>
+          </aug>
+          <insg>
+             <ins id="I1">
+                <p>Department of Neurology, Shanghai Number 5 Hospital, Fudan University, 801 Heqing Road, Minhang District, Shanghai 200240, China</p>
+             </ins>
+             <ins id="I2">
+                <p>Shanghai NCC Electronic Co. Ltd, 68 NanSha Road, Minhang District, Shanghai 200245, China</p>
+             </ins>
+             <ins id="I3">
+                <p>Shanghai Shenteng Information Technology Co., Ltd, Jingan District, 546 Yuyuan Road, Shanghai 200040, China</p>
+             </ins>
+             <ins id="I4">
+                <p>China Telecom Corporation Limited Shanghai Branch, 211 Century Avenue, Pudong District, Shanghai 200120, China</p>
+             </ins>
+          </insg>
+          <source>Trials</source>
+          <issn>1745-6215</issn>
+          <pubdate>2015</pubdate>
+          <volume>16</volume>
+          <issue>1</issue>
+          <fpage>61</fpage>
+          <url>http://www.trialsjournal.com/content/16/1/61</url>
+          <xrefbib>
+             <pubidlist>
+                <pubid idtype="doi">10.1186/s13063-015-0585-5</pubid>
+             </pubidlist>
+          </xrefbib>
+       </bibl>
+       <history>
+          <rec>
+             <date>
+                <day>4</day>
+                <month>11</month>
+                <year>2014</year>
+             </date>
+          </rec>
+          <acc>
+             <date>
+                <day>29</day>
+                <month>1</month>
+                <year>2015</year>
+             </date>
+          </acc>
+          <pub>
+             <date>
+                <day>25</day>
+                <month>2</month>
+                <year>2015</year>
+             </date>
+          </pub>
+       </history>
+       <cpyrt>
+          <year>2015</year>
+          <collab>Jin et al.; licensee BioMed Central.</collab>
+          <note>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/4.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (<url>http://creativecommons.org/publicdomain/zero/1.0/</url>) applies to the data made available in this article, unless otherwise stated.</note>
+       </cpyrt>
+       <kwdg>
+          <kwd>Brain infarction</kwd>
+          <kwd>Stroke</kwd>
+          <kwd>Rehabilitation</kwd>
+          <kwd>Telemedicine</kwd>
+          <kwd>Telerehabilitation</kwd>
+       </kwdg>
+       <abs>
+          <sec>
+             <st>
+                <p>Abstract</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Background</p>
+                </st>
+                <p>With high morbidity, mortality and disability rate, brain infarction brings a huge economic and health burden to the whole society in China. Although some previous studies suggested that telerehabilitation may facilitate rehabilitation for stroke survivors at home, the evidence is insufficient for clinical application; additionally, as yet no trial evaluates efficacy of telerehabilitation for brain infarction patients. Therefore, more high quality trials are needed to provide practice evidence for this novel rehabilitation strategy.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Methods/Design</p>
+                </st>
+                <p>Based on recruitment criteria, this assessor blinded, paralleled randomized controlled trial will recruit 210 brain infarction patients. After being randomly allocated into two groups, participants will receive home-based tele-supervising rehabilitation or conventional rehabilitation. Outcome measurement will be conducted at the end of intervention and 90-day follow-up. Among which, Barthel index assessment will be considered as primary outcome measurement, secondary outcome measurements include NIHSS score, mRS score, 3-oz water swallow test and surface electromyography. Adverse events will also be recorded during the whole process of the trial for safety assessment.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Discussion</p>
+                </st>
+                <p>The HTRBIP trial will evaluate efficacy and safety of home-based tele-supervising rehabilitation for brain infarction patients. It is expected to provide new evidence for telerehabilitation application.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Trial registration</p>
+                </st>
+                <p>Registration date: 17 September 2014; Registration number: <url>ChiCTR-TRC-14005233</url>
+                  </p>
+             </sec>
+          </sec>
+       </abs>
+    </fm>
+    <bdy>
+       <sec>
+          <st>
+             <p>Background</p>
+          </st>
+          <p>In China, there are 2.5 million new stroke patients each year and stroke has become a leading cause of adult death and disability <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B3">3</abbr>
+             </abbrgrp>. It is estimated that stroke care annually costs nearly 40 billion RMB (6.35 billion US dollars) in China, which brings a huge health burden to the society <abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp>. Among different stroke types, the incidence of brain infarction is approximately twice that of hemorrhagic stroke; therefore, brain infarction may be a key element for solving the problem caused by stroke <abbrgrp>
+                <abbr bid="B4">4</abbr>
+             </abbrgrp>.</p>
+          <p>Although recombinant tissue plasminogen activator (rt-PA) has been approved as the fundamental therapy for thrombolysis, because of its utilization restrictions, the thrombolytic rate is still low <abbrgrp>
+                <abbr bid="B5">5</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B6">6</abbr>
+             </abbrgrp>. Based on the report of the Chinese National Stroke Registry (CNSR), the rate of administration of intravenous rt-PA rate for acute brain infarction patients in China is merely 1.6% <abbrgrp>
+                <abbr bid="B7">7</abbr>
+             </abbrgrp>; and more than half the survivors are frustrated by physical deficiency after discharge from hospital, which limits their daily activity and poses a heavy burden on their families <abbrgrp>
+                <abbr bid="B8">8</abbr>
+             </abbrgrp>. Numerous clinical trials have demonstrated that physical rehabilitation can ameliorate neurological functional impairment and raise quality of life <abbrgrp>
+                <abbr bid="B9">9</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B10">10</abbr>
+             </abbrgrp>. However, because of transportation restrictions and high costs, most brain infarction survivors in China cannot receive professional supervised rehabilitation, which restricts physical function recovery and delays the best rehabilitation time <abbrgrp>
+                <abbr bid="B11">11</abbr>
+             </abbrgrp>. To resolve the problem, telerehabilitation, a novel rehabilitation strategy, has been put forward.</p>
+          <p>Telerehabilitation, which was first reported in late 1990s, can be defined as an alternative method for delivering rehabilitation services via a certain telecommunication system <abbrgrp>
+                <abbr bid="B12">12</abbr>
+             </abbrgrp>. This novel rehabilitation strategy facilitates brain infarction survivors receiving long-term ongoing rehabilitation with supervision, especially for those who reside in remote areas and have hardly any access to rehabilitation expertise <abbrgrp>
+                <abbr bid="B13">13</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B14">14</abbr>
+             </abbrgrp>. After being first reported in the late 1990s, telerehabilitation aroused wide interest. Several randomized controlled trials have demonstrated that compared with conventional rehabilitation care, telerehabilitation can improve physical function under remote guidance through a tele-consultant <abbrgrp>
+                <abbr bid="B15">15</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B17">17</abbr>
+             </abbrgrp>. It also indicates that there are no differences between telerehabilitation and usual rehabilitation in patients&#8217; satisfaction, comprehension of treatment, user-friendliness, and the patient-therapist relationship <abbrgrp>
+                <abbr bid="B18">18</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B19">19</abbr>
+             </abbrgrp>; moreover, it may also reduce travel time, being more convenient for patients receiving rehabilitation guidance. Therefore, it seems that telerehabilitation can successfully encourage patients to persist with rehabilitation treatment and improve their physical function recovery.</p>
+          <p>Despite its advantages, clinical application for telerehabilitation is still limited. Based on a recent Cochrane study, more randomized controlled trials (RCTs) are needed to supplement clinical evidence for telerehabilitation application <abbrgrp>
+                <abbr bid="B20">20</abbr>
+             </abbrgrp>. And because there is no clinical trial to evaluate telerehabilitation for brain infarction patients, our group will conduct an assessor blinded, randomized, paralleled controlled trial to investigate efficacy and safety of home-based tele-supervising rehabilitation for brain infarction patients, and further increase the experience gained from this novel rehabilitation strategy application.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Methods and design</p>
+          </st>
+          <sec>
+             <st>
+                <p>Study objective</p>
+             </st>
+             <p>The main objective of the home-based tele-supervising rehabilitation for brain infarction patients (HTRBIP) trial is to investigate the efficacy and safety of home-based tele-supervising rehabilitation for patients after brain infarction. The specific study objectives are:</p><p>1. Primary research question: compared with conventional rehabilitation care, will home-based tele-supervising rehabilitation improve daily living activity of brain infarction patients at the end of 90 or 180&#160;days after intervention has been initiated?</p>
+                <p>2. Secondary research question: compared with conventional rehabilitation care, will home-based tele-supervising rehabilitation improve neurological function of brain infarction patients at the end of 90 or 180&#160;days after intervention has been initiated?</p>
+                <p>3. Record physiological data and adverse events to investigate safety of home-based tele-supervising rehabilitation for brain infarction patients.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Study design</p>
+             </st>
+             <p>The HTRBIP trial is an assessor blinded, paralleled RCT. Participants will be recruited in Shanghai Number 5 Hospital, Fudan University, Shanghai, China. After signing informed consents, eligible patients will receive baseline assessment, and then be randomized into the tele-supervising rehabilitation group or conventional rehabilitation group. Participants in both groups will receive rehabilitation intervention for 90&#160;days; specific rehabilitation strategy in each group will correspond to the allocation. At the end of intervention and 90-day follow-up, a group of assessors blinded to allocation and intervention will measure the outcome. Meanwhile, adverse events will be recorded during the whole process of the trial. Figure&#160;<figr fid="F1">1</figr> depicts simply the study design, and Table&#160;<tblr tid="T1">1</tblr> shows the trial procedure.
+                    
+                  </p>
+             
+                <fig id="F1">
+                   <title>
+                      <p>Figure 1</p>
+                   </title>
+                   <caption>
+                      <p>Flow chart illustrating the home-based tele-supervising rehabilitation for brain infarction patients (HTRBIP) trial design. </p>
+                   </caption>
+                   <text>
+                      <p>
+                            <b>Flow chart illustrating the home-based tele-supervising rehabilitation for brain infarction patients (HTRBIP) trial design.</b>                          
+                      </p>
+                   </text>
+                   <graphic file="s13063-015-0585-5-1"/>
+                </fig>
+             
+             
+                <table id="T1">
+                   <title>
+                      <p>Table 1</p>
+                   </title>
+                   <caption>
+                      <p>
+                            <b>Process chart of home-based tele-supervising rehabilitation for brain infarction patients (HTRBIP) trial</b>                          
+                      </p>
+                   </caption>
+                   <tgroup align="left" cols="7">
+                      <colspec align="left" colname="c1" colnum="1" colwidth="*"/>
+                      <colspec align="left" colname="c2" colnum="2" colwidth="*"/>
+                      <colspec align="left" colname="c3" colnum="3" colwidth="*"/>
+                      <colspec align="left" colname="c4" colnum="4" colwidth="*"/>
+                      <colspec align="left" colname="c5" colnum="5" colwidth="*"/>
+                      <colspec align="left" colname="c6" colnum="6" colwidth="*"/>
+                      <colspec align="left" colname="c7" colnum="7" colwidth="*"/>
+                      <thead>
+                         <row rowsep="1" valign="top">
+                            <entry nameend="c2" namest="c1"/>
+                            <entry colname="c3">
+                               <p>
+                                  <b>Time 1</b>                                
+                                  <sup>
+                                     <b>a</b> 
+                                  </sup>
+                                  <b>: enrollment</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>
+                                  <b>Time 2</b>                                
+                                  <sup>
+                                     <b>b</b> 
+                                  </sup>
+                                  <b>: baseline assessment</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>
+                                  <b>Time 3: intervention</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>
+                                  <b>Time 4</b>                                
+                                  <sup>
+                                     <b>c</b> 
+                                  </sup>
+                                  <b>: at the end of intervention</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c7">
+                               <p>
+                                  <b>Time 5</b>                                
+                                  <sup>
+                                     <b>d</b> 
+                                  </sup>
+                                  <b>: 90- day follow-up</b>                              
+                               </p>
+                            </entry>
+                         </row>
+                      </thead>
+                      <tfoot>
+                         <p>
+                            <sup>a</sup>Time 1: 2 to 7&#160;days before intervention initiation.<sup>b</sup>Time 2: 0 to 2&#160;days before intervention initiation.<sup>c</sup>Time 4: 90&#160;days after intervention initiation.<sup>d</sup>Time 5: 180&#160;days after intervention initiation.</p>
+                         <p>Abbreviations: mRS, modified Rankin Scale; NIHSS, National Institute of Health Stroke Scale; sEMG, surface electromyography.</p>
+                      </tfoot>
+                      <tbody>
+                         <row valign="top">
+                            <entry nameend="c2" namest="c1">
+                               <p>
+                                  <b>Informed consent obtained</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c4"/>
+                            <entry colname="c5"/>
+                            <entry colname="c6"/>
+                            <entry colname="c7"/>
+                         </row>
+                         <row valign="top">
+                            <entry nameend="c2" namest="c1">
+                               <p>
+                                  <b>Epidemic data collection</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c4"/>
+                            <entry colname="c5"/>
+                            <entry colname="c6"/>
+                            <entry colname="c7"/>
+                         </row>
+                         <row valign="top">
+                            <entry nameend="c2" namest="c1">
+                               <p>
+                                  <b>Medical history collection</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c4"/>
+                            <entry colname="c5"/>
+                            <entry colname="c6"/>
+                            <entry colname="c7"/>
+                         </row>
+                         <row valign="top">
+                            <entry nameend="c2" namest="c1">
+                               <p>
+                                  <b>Physical examination</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c4"/>
+                            <entry colname="c5"/>
+                            <entry colname="c6"/>
+                            <entry colname="c7"/>
+                         </row>
+                         <row valign="top">
+                            <entry nameend="c2" namest="c1">
+                               <p>
+                                  <b>Recruitment criteria assessment</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c4"/>
+                            <entry colname="c5"/>
+                            <entry colname="c6"/>
+                            <entry colname="c7"/>
+                         </row>
+                         <row valign="top">
+                            <entry nameend="c2" namest="c1">
+                               <p>
+                                  <b>Randomized allocation</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c3"/>
+                            <entry colname="c4">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c5"/>
+                            <entry colname="c6"/>
+                            <entry colname="c7"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1" morerows="5">
+                               <p>
+                                  <b>Physiological data collection</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Body temperature</p>
+                            </entry>
+                            <entry colname="c3"/>
+                            <entry colname="c4">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c6"/>
+                            <entry colname="c7"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>Respiratory rate</p>
+                            </entry>
+                            <entry colname="c3"/>
+                            <entry colname="c4">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c6"/>
+                            <entry colname="c7"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>Pulse rate</p>
+                            </entry>
+                            <entry colname="c3"/>
+                            <entry colname="c4">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c6"/>
+                            <entry colname="c7"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>Blood pressure</p>
+                            </entry>
+                            <entry colname="c3"/>
+                            <entry colname="c4">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c6"/>
+                            <entry colname="c7"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>Surface electrocardiogram</p>
+                            </entry>
+                            <entry colname="c3"/>
+                            <entry colname="c4">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c6"/>
+                            <entry colname="c7"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>Peripheral blood oxygen saturation</p>
+                            </entry>
+                            <entry colname="c3"/>
+                            <entry colname="c4">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c6"/>
+                            <entry colname="c7"/>
+                         </row>
+                         <row valign="top">
+                            <entry nameend="c2" namest="c1">
+                               <p>
+                                  <b>Primary outcome measurement</b> (Barthel index)</p>
+                            </entry>
+                            <entry colname="c3"/>
+                            <entry colname="c4">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c5"/>
+                            <entry colname="c6">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c7">
+                               <p>&#8730;</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1" morerows="3">
+                               <p>
+                                  <b>Secondary outcome measurement</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>NIHSS score</p>
+                            </entry>
+                            <entry colname="c3"/>
+                            <entry colname="c4">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c5"/>
+                            <entry colname="c6">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c7">
+                               <p>&#8730;</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>mRS score</p>
+                            </entry>
+                            <entry colname="c3"/>
+                            <entry colname="c4">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c5"/>
+                            <entry colname="c6">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c7">
+                               <p>&#8730;</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>3-oz water swallow test</p>
+                            </entry>
+                            <entry colname="c3"/>
+                            <entry colname="c4">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c5"/>
+                            <entry colname="c6">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c7">
+                               <p>&#8730;</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>sEMG</p>
+                            </entry>
+                            <entry colname="c3"/>
+                            <entry colname="c4">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c5"/>
+                            <entry colname="c6">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c7">
+                               <p>&#8730;</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry nameend="c2" namest="c1">
+                               <p>
+                                  <b>Adverse events record</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c3"/>
+                            <entry colname="c4">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c7">
+                               <p>&#8730;</p>
+                            </entry>
+                         </row>
+                      </tbody>
+                   </tgroup>
+                </table>
+             
+          </sec>
+          <sec>
+             <st>
+                <p>Participant recruitment</p>
+             </st>
+             <p>Participant recruitment will be conducted in Shanghai Number 5 Hospital, Fudan University, Shanghai. Before discharge from hospital, each brain infarction patient will be identified by two independent neurologists according to inclusion and exclusion criteria. After being confirmed, eligible patients will receive a face-to-face meeting for exchanging the information of the study. If eligible patients accept and decide to participate in the study, they will be asked to sign the informed consent and follow the subsequent study process, which includes baseline assessment, randomized allocation, intervention receiving, and follow-up visiting. Informed consent from each participant should be obtained before baseline assessments.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Sample measurement</p>
+             </st>
+             <p>Primary outcome of the study will be measured by using the Barthel index. The main purpose of the study is to investigate the efficacy of tele-supervising rehabilitation compared with conventional rehabilitation, and sample size calculation will be conducted by following formula:</p><p><display-formula>
+                   <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" name="s13063-015-0585-5-i1">
+                      <m:msub>
+                         <m:mi>n</m:mi>
+                         <m:mn>1</m:mn>
+                      </m:msub>
+                      <m:mo>=</m:mo>
+                      <m:msub>
+                         <m:mi>n</m:mi>
+                         <m:mn>2</m:mn>
+                      </m:msub>
+                      <m:mo>=</m:mo>
+                      <m:mfrac>
+                         <m:mrow>
+                            <m:mn>2</m:mn>
+                            <m:msup>
+                               <m:mfenced close=")" open="(">
+                                  <m:mrow>
+                                     <m:msub>
+                                        <m:mi>z</m:mi>
+                                        <m:mrow>
+                                           <m:mi>a</m:mi>
+                                           <m:mo stretchy="true">/</m:mo>
+                                           <m:mn>2</m:mn>
+                                        </m:mrow>
+                                     </m:msub>
+                                     <m:mo>+</m:mo>
+                                     <m:msub>
+                                        <m:mi>z</m:mi>
+                                        <m:mi>&#946;</m:mi>
+                                     </m:msub>
+                                  </m:mrow>
+                               </m:mfenced>
+                               <m:mn>2</m:mn>
+                            </m:msup>
+                            <m:msup>
+                               <m:mi>&#963;</m:mi>
+                               <m:mn>2</m:mn>
+                            </m:msup>
+                         </m:mrow>
+                         <m:msup>
+                            <m:mfenced close=")" open="(">
+                               <m:mrow>
+                                  <m:msub>
+                                     <m:mi>&#956;</m:mi>
+                                     <m:mn>1</m:mn>
+                                  </m:msub>
+                                  <m:mo>&#8722;</m:mo>
+                                  <m:msub>
+                                     <m:mi>&#956;</m:mi>
+                                     <m:mn>1</m:mn>
+                                  </m:msub>
+                               </m:mrow>
+                            </m:mfenced>
+                            <m:mn>2</m:mn>
+                         </m:msup>
+                      </m:mfrac>
+                   </m:math>
+                </display-formula></p>
+             <p>According to the previous study, difference in means of 90-day post-stroke Barthel index is 7.8 and standard deviation is 18.35 <abbrgrp>
+                   <abbr bid="B21">21</abbr>
+                </abbrgrp>. Taking 5% 2-side significance level and 80% power into consideration, at least 87 participants need to be recruited in each group. For 20% attrition, our study will recruit 105 participants in each group.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Inclusion criteria</p>
+             </st>
+             <p>Patients will be eligible for inclusion if they meet all the following criteria: 1) be aged 35 to 85&#160;years old, male or female; 2) be first diagnosed as brain infarction or have historical brain infarction but without neurological function impairment; 3) be 14 to 90&#160;days from brain infarction onset; 4) have National Institute of Health Stroke Scale (NIHSS) scores from 2 to 20, modified Rankin Scale (mRS) scores from 1 to 4; 5) have not previously received any rehabilitation intervention.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Exclusion criteria</p>
+             </st>
+             <p>Patients will be excluded if they meet any of following criteria: 1) have Glasgow Coma Scale (GSC) scores under 15, have been confirmed as having dementia based on Minimum Mental State Examination (MMSE) assessment, with mental disorders and unable to cooperate with examination, treatment or follow-up; 2) have disability not induced by brain infarction or disability induced by historical brain infarction; 3) have associated severe primary disease of heart, liver, kidney or hematological system; 4) have cognitive disorder, history of psychosis, substance abuse or alcoholism; 5) have skin infections in the antebrachium or crus; 6) have associated hemorrhagic or skin ulceration tendency; 7) have metal implants in the body, including cardiac pacemaker, metal stent or steel plate; 8) be in the gestation or lactation period or have a fertility plan; 9) have associated malignant tumor or severe progressive disease in any other system; 10) have been recruited by any other clinical trial in the preceding 90&#160;days; 11) be unable to complete the basic course of treatment, with poor treatment adherence or inability to follow-up; 12) have other conditions that render them unable to continue the trial.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Randomization and allocation concealment</p>
+             </st>
+             <p>After being recruited and having undergone baseline assessment, participants will be randomly allocated into either tele-supervising rehabilitation or conventional rehabilitation. Block randomization will be stratified by age (&#8804;65&#160;years old, &gt; 65&#160;years old) and NIHSS score (2 to 10, 11 to 20) with 1:1 allocation to each group. An independent statistician will conduct randomized allocation by using a computer. Allocation concealment will be ensured, as allocation information will be protected in opaque sealed envelopes by a specified staff member who is not involved in the study. Only after participant recruitment and baseline measurements are completed, will the envelopes be opened.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Blinding</p>
+             </st>
+             <p>Because tele-supervising rehabilitation needs the use of a specific device for computer-based tele-consultation, it is impossible to blind the patients and tele-supervising rehabilitation therapists to allocation and intervention. In order to reduce bias, outcome assessment and data analysis will be carried out by an independent neurologist and a statistician respectively; both of them are blinded to allocation, baseline measurements, and rehabilitation intervention.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Intervention</p>
+             </st>
+             <p>Participants in both groups will receive physical exercise and neuromuscular electrical stimulation after discharging form hospital. Physical exercise will be conducted for 2&#160;hours per day following the principle of the Bobath concept, including posture control, passive movement, overturning movement, and bridge movement. Neuromuscular electrical stimulation will be conducted by using a portable muscle electricity biofeedback instrument (MyoNet-COW; NCC Electronic Co. Ltd, Shanghai, China) for 30&#160;minutes per day. Both physical exercise and neuromuscular electrical stimulation will be carried out by trained therapists following the standard operation procedure guidance.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Tele-supervising rehabilitation group</p>
+             </st>
+             <p>Under the guidance of trained therapists and with the help of caregivers, participants in the tele-supervising rehabilitation group will receive rehabilitation therapy at their home via using a telerehabilitation system (Figure&#160;<figr fid="F2">2</figr>). The telerehabilitation system consists of three parts: a doctor work platform, a patient platform and a proprietary network system. The network system provides sufficient bandwidth for remote diagnosis, treatment and data collection. The doctor work platform is composed of a high-quality video/audio system, electronic medical records system and remote control system. Therapists can obtain the medical history information from electronic medical records, guide the participants to do the physical exercise and neuromuscular electrical stimulation by the high-quality video/audio system, and collect data by the remote control system during rehabilitation therapy. The patient platform will be implemented at participants&#8217; homes after randomization allocation, which includes the high-quality video/audio system, physiological data collection system and muscle electricity biofeedback instrument. Participants or their caregivers will receive rehabilitation guidance from therapists via the high-quality video/audio system. Electricity biofeedback instrument will provide neuromuscular electrical simulation to the participants and collect surface electromyography (sEMG). Physiological data collection system (NTH-M6; NCC Electronic Co. Ltd, Shanghai, China) will record body temperature, respiratory rate, pulse rate, blood pressure, surface electrocardiogram, and peripheral blood oxygen saturation during the process of therapy. These physiological data will be feedback to the doctor platform for supervision by the therapists. Each participant will receive rehabilitation therapy once per day.
+                  </p>
+             
+                <fig id="F2">
+                   <title>
+                      <p>Figure 2</p>
+                   </title>
+                   <caption>
+                      <p>Schematic diagram of home-based tele-supervising rehabilitation. </p>
+                   </caption>
+                   <text>
+                      <p>
+                            <b>Schematic diagram of home-based tele-supervising rehabilitation.</b>                          
+                      </p>
+                   </text>
+                   <graphic file="s13063-015-0585-5-2"/>
+                </fig>
+             
+          </sec>
+          <sec>
+             <st>
+                <p>Conventional rehabilitation group</p>
+             </st>
+             <p>Participants in the conventional rehabilitation group will receive rehabilitation therapy once per day in the outpatient department of Shanghai Number 5 Hospital, Fudan University. The therapeutic strategy is the same as the tele-supervising rehabilitation group except for using the telerehabilitation system. Physical exercise and neuromuscular electrical stimulation will be carried out face-to-face by a trained therapist at the bedside. Besides, the equipment model of the muscle electricity biofeedback instrument and physiological data collect system are the same as used in the tele-supervising rehabilitation group.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Data measurement</p>
+             </st>
+             <p>Data measurement will be carried out by trained independent assessors, who are blinded to allocation and intervention, and who will be required to be prevented from learning allocation or intervention information from patients during outcome measurements. Baseline data assessment will be carried out in hospital before randomization allocation. In order to keep allocation and intervention from assessors, outcome measurements will be conducted at the neurology outpatient department at the end of intervention and 90-day follow-up. A specified trial staff member will make an appointment with patients the day before outcome measurements and will make suggestion about the next day&#8217;s physical examination including not to provide treatment information to the physician.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Baseline assessment</p>
+             </st>
+             <p>Baseline assessment consists of epidemiologic data (including age, gender, history of present complaint, past medical history, physical examination, and auxiliary examination); NIHSS score, Barthel index score, mRS score, water swallow test, and sEMG. Meanwhile, physiological data will also be measured, which includes body temperature, respiratory rate, pulse rate, blood pressure, surface electrocardiogram, and peripheral blood oxygen saturation.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Primary outcome measurement</p>
+             </st>
+             <p>Primary outcome measurement will be conducted by using the Barthel index at the end of intervention and 90-day follow-up. The Barthel index consists of ten items: presence or absence of fecal incontinence, presence or absence of urinary incontinence, help needed with grooming, toilet use, feeding, transfers, walking, climbing stairs, bathing and dressing. The score ranges from 0 to 100, with high scores demonstrating high activities of daily living <abbrgrp>
+                   <abbr bid="B22">22</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B23">23</abbr>
+                </abbrgrp>.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Secondary outcome measurement</p>
+             </st>
+             <p>Secondary outcome measurement, which includes NIHSS score, mRS score, 3-oz water swallow test and sEMG, will be carried out at the same time with the primary outcome measurement.</p>
+             <p>Neurological function deficient will be measured by NIHSS score; it has been confirmed as a widely used scale with high reliability and good convergent validity. NIHSS includes 11 items, ranging from 0 to 42, with low scores depicting good neurological function <abbrgrp>
+                   <abbr bid="B24">24</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B25">25</abbr>
+                </abbrgrp>.</p>
+             <p>General disability condition will be measured by mRS score, which consists of 6 ranks: rank 0 demonstrates no disability symptoms; rank 1 demonstrates no significant disability, despite with symptoms, able to perform all usual duties and activities; rank 2 demonstrates slight disability, although with the ability to look after own affairs without assistance, but be unable to carry out all previous activities; rank 3 means moderate disability, requiring some help in daily life, but with the ability to walk without assistance; rank 4 means moderately severe disability, with the inability to walk without assistance and attend to own bodily needs without assistance; rank 5 means severe disability, depicts patients who are bedridden, incontinent or require constant nursing care; rank 6 equates to death <abbrgrp>
+                   <abbr bid="B26">26</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B27">27</abbr>
+                </abbrgrp>.</p>
+             <p>Swallowing function and the presence of dysphagia will be measured by the 3-oz water swallow test <abbrgrp>
+                   <abbr bid="B28">28</abbr>
+                </abbrgrp>. Participants will be asked to drink 3&#160;oz of warm water without interruption. Criteria for assessment of swallowing includes being unable to complete the task, coughing, choking, or with a wet-hoarse vocal quality exhibited either during or within 1&#160;minute of test completion. Compared with other bedside assessment, the 3-oz water swallow test has high specificity and sensitivity in detecting aspiration in dysphagia patients after stroke <abbrgrp>
+                   <abbr bid="B29">29</abbr>
+                </abbrgrp>.</p>
+             <p>As motor unit recruitment is crucial for evaluating muscle activity after brain infarction, sEMG will be employed to monitor the root mean-squared (RMS) value of target body regions. RMS value of the sEMG signals reflects the association of muscle activity with motor unit recruitment <abbrgrp>
+                   <abbr bid="B30">30</abbr>
+                </abbrgrp>.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Adverse events</p>
+             </st>
+             <p>Although therapeutic treatment will be conducted with the guidance of trained therapists, and the intervention strategy of the study is low risk, it is impossible to ignore adverse event measurement. Therefore, all the participants as well as their caregivers and research team staff will be asked to report adverse events. Besides, physiological data will be recorded to assess the physical condition of the participants during intervention. A group of research staff will be trained to record and analyze physiological data and deal with adverse events. If severe adverse events happen, the group will report the events to the study director and quality control committee and the study will be suspended if necessary. Once the study has to be suspended because of severe adverse events, only when the severe adverse events can be successfully prevented, can the suspended study be recommenced.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Quality control</p>
+             </st>
+             <p>The study has been registered in the Chinese Clinical Trial Registry (ChiCTR) and supervised by the superior authority. A Quality Control Committee will be established before trial initiation, and will consist of six members, including two neurologists, two rehabilitation specialties, and two statisticians. The committee will help the research team write the trial protocol and standard operation procedure, supervise the whole process of the study, and control the quality. The research team will receive specific training for standardizing the procedure of the entire study including participant recruitment, therapeutic intervention, outcome measurement and data analysis. Additionally, all the data should be checked according to the standard operation procedure of the study at least once per week during the study process.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Statistics</p>
+             </st>
+             <p>An independent statistician, who is blind to allocation and intervention, will take charge of data analysis. All the variables will be analyzed according to an intent-to-treat (ITT) basis, and the statistical tests will be 2-side and at the 5% significance level. All the participants under randomization will be included in the analysis, regardless of whether or not they adhered to the treatment or provided complete data sets. For providing valid inferences with less restrictive assumptions, multiple imputation will be performed to analyze missing data. Continuous variables will be summarized by means and standard deviation. The normality of the distribution will be checked before comparison by using the Shapiro-Wilk test. Normally distributed variables will be compared by using the <it>t</it>-test, and the Mann-Whitney <it>U-</it>test will be performed to compare non-normally distributed variables. Discrete variables will be summarized by relative frequencies and analyzed by using a non-parametric test. The level of statistical significance will be set at <it>P</it>&#8201;&lt;&#8201;0.05. SAS V9.1 (SAS Institute, Cary, NC, USA) will be employed for all the statistical analysis. The statistical analysis plan will be fully specified and approved before unmasking.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Ethics</p>
+             </st>
+             <p>The HTRBIP trial follows the Helsinki Declaration and has been approved by the Independence Ethics Committee of the Fifth Peoples&#8217; Hospital of Shanghai, Fudan University (ethic approval number: 2014-ETRE-066). Participants will be acquainted with informed consent and asked to sign for it before being recruited.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Dissemination policy</p>
+             </st>
+             <p>The HTRBIP trial study and results will be published in peer-reviewed journals in line with the reporting guidelines; namely, TIDieR for description of interventions and the Consolidated Standards of Reporting Trials (CONSORT) extension for non-pharmacological drugs. Trial results will be submitted to the trial registry, and will be communicated to participants via written and oral reports. The results will also be reported to local policy-makers (Shanghai Municipal Commission of Economy and Informatization, Shanghai Municipal Commission of Health and Family Planning). Additional stakeholders, including telerehabilitation device manufacturers and network service corporations, will be informed of the trial findings. Trial results will be disseminated regardless of the magnitude or direction of effect.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Discussion</p>
+          </st>
+          <p>Stroke is the leading cause of adult death and disability in China, and brain infarction is its majority component. Since over 50% of brain infarction patients are still suffering from physical disabilities after discharge from hospital <abbrgrp>
+                <abbr bid="B20">20</abbr>
+             </abbrgrp>, and because most brain infarction survivors in China used to conduct rehabilitation at home, a novel rehabilitation strategy is needed to facilitate rehabilitation in patients&#8217; residences under professional supervision.</p>
+          <p>Home-based telerehabilitation, which utilizes information and communication technology to connect patients and therapists, is considered as a potential solution for poor rehabilitation outcome of brain infarction patients after discharging from hospital <abbrgrp>
+                <abbr bid="B31">31</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B32">32</abbr>
+             </abbrgrp>. Some research groups conduct clinical trials to investigate the feasibility of home-based physical rehabilitation. To date, there are ten RCTs investigating post-stroke telerehabilitation <abbrgrp>
+                <abbr bid="B20">20</abbr>
+             </abbrgrp>. However, because of small sample size, significant heterogeneity and high risk bias; these previous RCTs could not conclude the practical guidance for post-stroke telerehabilitation application; thus, more adequately powered studies are required. Additionally, because there are currently no clinical trials evaluating the effectiveness of telerehabilitation for brain infarction patients worldwide, it is reasonable for us to conduct this clinical trial to provide new evidence for home-based tele-supervising rehabilitation application.</p>
+          <p>The HTRBIP trial is designed as an assessor blinded, paralleled RCT. Tele-supervising rehabilitation will be conducted through a specialized system that can connect therapist and patient over distance; data collecting will be simultaneously performed during rehabilitation. Barthel index at the end of intervention and at 90-day follow-up will be evaluated as primary outcome measurement, which represents the general physical function for disabled patients after brain infarction. NIHSS score, mRS score, 3-oz water swallow test and sEMG will be employed for secondary outcome measurement. Furthermore, adverse events will be recorded for safety evaluation. For tele-supervising rehabilitation specialized remote interaction devices are required, and because it is impossible to blind the intervention strategy to the patients and therapists, this trial could not be double-blinded. To make up for this limitation and ensure the quality of the trial, outcome assessors and data statisticians will be blind to the allocation and intervention strategy.</p>
+          <p>The HTRBIP trial will evaluate efficacy and safety of home-based tele-supervising rehabilitation for brain infarction survivors in China, which is expected to supplement evidence for telerehabilitation application, and increase the experience gained for its practice.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Trial status</p>
+          </st>
+          <p>Recruitment has begun as of September 2014.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Abbreviations</p>
+          </st>
+          <p>ChiCTR: Chinese Clinical Trial Registry, CONSORT, Consolidated Standards of Reporting Trials</p>
+          <p>CNSR: Chinese National Stroke Registry</p>
+          <p>GSC: Glasgow Coma Scale</p>
+          <p>HTRBIP: Home-based tele-supervising rehabilitation for brain infarction patients</p>
+          <p>ITT: Intention-to-treat</p>
+          <p>MMSE: Minimum Mental State Examination</p>
+          <p>mRS: Modified Rankin Scale</p>
+          <p>NIHSS: National Institute of Health Stroke Scale</p>
+          <p>RCT: Randomized controlled trial</p>
+          <p>RMS: Root mean-squared</p>
+          <p>rt-PA: Recombinant tissue plasminogen activator</p>
+          <p>sEMG: Surface electromyography</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Competing interests</p>
+          </st>
+          <p>The authors declare that they have no competing interests.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Authors&#8217; contributions</p>
+          </st>
+          <p>WJ carried out the recruitment, participated in design of the study and drafted the manuscript. JC carried out the allocation. FS carried out baseline data assessment and helped to obtain measurements. WY carried out tele-rehabilitation device supply and maintenance. YZ carried out tele-rehabilitation software maintenance. YL carried out network service maintenance. WD carried out conventional rehabilitation treatment. YJ took charge of tele-rehabilitation rehabilitation treatment. WM participated in tele-rehabilitation treatment. ZM designed the informed consent. XM participated in tele-rehabilitation software maintenance. YJ performed the statistical analysis. YG carried out outcome measurements. CR conceived of the study, participated in study design and helped to draft the manuscript. All the authors read and approved the final manuscript.</p>
+       </sec>
+    </bdy>
+    <bm>
+       <ack>
+          <sec>
+             <st>
+                <p>Acknowledgements</p>
+             </st>
+             <p>This trial is funded by a project grant from Shanghai Strategic Emerging Industries Project Plan (number 2013SJXW152). We would like to thank Shanghai NCC Electronic Co. Ltd. for equipment support; we also appreciate Shanghai Shinetech Company for its technology support.</p>
+          </sec>
+       </ack>
+       <refgrp>
+          
+          <bibl id="B1">
+             <title>
+                <p>Rapid health transition in China, 1990-2010: findings from the Global Burden of Disease Study 2010</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Yang</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Wang</snm>
+                   <fnm>Y</fnm>
+                </au>
+                <au>
+                   <snm>Zeng</snm>
+                   <fnm>Y</fnm>
+                </au>
+                <au>
+                   <snm>Gao</snm>
+                   <fnm>GF</fnm>
+                </au>
+                <au>
+                   <snm>Liang</snm>
+                   <fnm>X</fnm>
+                </au>
+                <au>
+                   <snm>Zhou</snm>
+                   <fnm>M</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Lancet</source>
+             <pubdate>2013</pubdate>
+             <volume>381</volume>
+             <issue>9882</issue>
+             <fpage>1987</fpage>
+             <lpage>2015</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0140-6736(13)61097-1</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23746901</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B2">
+             <title>
+                <p>Stroke and stroke care in China: huge burden, significant workload, and a national priority</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Liu</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Wang</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Wong</snm>
+                   <fnm>KS</fnm>
+                </au>
+                <au>
+                   <snm>Wang</snm>
+                   <fnm>Y</fnm>
+                </au>
+             </aug>
+             <source>Stroke</source>
+             <pubdate>2011</pubdate>
+             <volume>42</volume>
+             <issue>12</issue>
+             <fpage>3651</fpage>
+             <lpage>4</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1161/STROKEAHA.111.635755</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22052510</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B3">
+             <title>
+                <p>Epidemiology of stroke and its subtypes in Chinese vs white populations: a systematic review</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Tsai</snm>
+                   <fnm>CF</fnm>
+                </au>
+                <au>
+                   <snm>Thomas</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Sudlow</snm>
+                   <fnm>CL</fnm>
+                </au>
+             </aug>
+             <source>Neurology</source>
+             <pubdate>2013</pubdate>
+             <volume>81</volume>
+             <issue>3</issue>
+             <fpage>264</fpage>
+             <lpage>72</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1212/WNL.0b013e31829bfde3</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23858408</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B4">
+             <title>
+                <p>Global and regional burden of first-ever ischaemic and haemorrhagic stroke during 1990-2010: findings from the Global Burden of Disease Study 2010</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Krishnamurthi</snm>
+                   <fnm>RV</fnm>
+                </au>
+                <au>
+                   <snm>Feigin</snm>
+                   <fnm>VL</fnm>
+                </au>
+                <au>
+                   <snm>Forouzanfar</snm>
+                   <fnm>MH</fnm>
+                </au>
+                <au>
+                   <snm>Mensah</snm>
+                   <fnm>GA</fnm>
+                </au>
+                <au>
+                   <snm>Connor</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Bennett</snm>
+                   <fnm>DA</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Lancet Global Health</source>
+             <pubdate>2013</pubdate>
+             <volume>1</volume>
+             <issue>5</issue>
+             <fpage>e259</fpage>
+             <lpage>81</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S2214-109X(13)70089-5</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B5">
+             <title>
+                <p>Guidelines for the early management of patients with acute ischemic stroke: a guideline for healthcare professionals from the American Heart Association/American Stroke Association</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Jauch</snm>
+                   <fnm>EC</fnm>
+                </au>
+                <au>
+                   <snm>Saver</snm>
+                   <fnm>JL</fnm>
+                </au>
+                <au>
+                   <snm>Adams</snm>
+                   <fnm>HP</fnm>
+                   <suf>Jr</suf>
+                </au>
+                <au>
+                   <snm>Bruno</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Connors</snm>
+                   <fnm>JJ</fnm>
+                </au>
+                <au>
+                   <snm>Demaerschalk</snm>
+                   <fnm>BM</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Stroke</source>
+             <pubdate>2013</pubdate>
+             <volume>44</volume>
+             <issue>3</issue>
+             <fpage>870</fpage>
+             <lpage>947</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1161/STR.0b013e318284056a</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23370205</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B6">
+             <title>
+                <p>Chinese Stroke Therapy Expert Panel for Intravenous Recombinant Tissue Plasminogen A. Consensus statement on the use of intravenous recombinant tissue plasminogen activator to treat acute ischemic stroke by the Chinese Stroke Therapy Expert Panel</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Xu</snm>
+                   <fnm>AD</fnm>
+                </au>
+                <au>
+                   <snm>Wang</snm>
+                   <fnm>YJ</fnm>
+                </au>
+                <au>
+                   <snm>Wang</snm>
+                   <fnm>DZ</fnm>
+                </au>
+             </aug>
+             <source>CNS Neurosci Ther</source>
+             <pubdate>2013</pubdate>
+             <volume>19</volume>
+             <issue>8</issue>
+             <fpage>543</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/cns.12126</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23710819</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B7">
+             <title>
+                <p>Using recombinant tissue plasminogen activator to treat acute ischemic stroke in China: analysis of the results from the Chinese National Stroke Registry (CNSR)</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Wang</snm>
+                   <fnm>Y</fnm>
+                </au>
+                <au>
+                   <snm>Liao</snm>
+                   <fnm>X</fnm>
+                </au>
+                <au>
+                   <snm>Zhao</snm>
+                   <fnm>X</fnm>
+                </au>
+                <au>
+                   <snm>Wang</snm>
+                   <fnm>DZ</fnm>
+                </au>
+                <au>
+                   <snm>Wang</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Nguyen-Huynh</snm>
+                   <fnm>MN</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Stroke</source>
+             <pubdate>2011</pubdate>
+             <volume>42</volume>
+             <issue>6</issue>
+             <fpage>1658</fpage>
+             <lpage>64</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1161/STROKEAHA.110.604249</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21512182</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B8">
+             <title>
+                <p>Recovery of upper limb dexterity in patients more than 1&#160;year after stroke: frequency, clinical correlates and predictors</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kong</snm>
+                   <fnm>KH</fnm>
+                </au>
+                <au>
+                   <snm>Chua</snm>
+                   <fnm>KS</fnm>
+                </au>
+                <au>
+                   <snm>Lee</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>Neuro Rehabilitation</source>
+             <pubdate>2011</pubdate>
+             <volume>28</volume>
+             <issue>2</issue>
+             <fpage>105</fpage>
+             <lpage>11</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">21447911</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B9">
+             <title>
+                <p>Remodeling the brain: plastic structural brain changes produced by different motor therapies after stroke</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Gauthier</snm>
+                   <fnm>LV</fnm>
+                </au>
+                <au>
+                   <snm>Taub</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Perkins</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Ortmann</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Mark</snm>
+                   <fnm>VW</fnm>
+                </au>
+                <au>
+                   <snm>Uswatte</snm>
+                   <fnm>G</fnm>
+                </au>
+             </aug>
+             <source>Stroke</source>
+             <pubdate>2008</pubdate>
+             <volume>39</volume>
+             <issue>5</issue>
+             <fpage>1520</fpage>
+             <lpage>5</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1161/STROKEAHA.107.502229</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18323492</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B10">
+             <title>
+                <p>Does repetitive task training improve functional activity after stroke? A Cochrane systematic review and meta-analysis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>French</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Thomas</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Leathley</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Sutton</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>McAdam</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Forster</snm>
+                   <fnm>A</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>J Rehabil Med</source>
+             <pubdate>2010</pubdate>
+             <volume>42</volume>
+             <issue>1</issue>
+             <fpage>9</fpage>
+             <lpage>14</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.2340/16501977-0473</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20111838</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B11">
+             <title>
+                <p>Economic consequences of early inpatient discharge to community-based rehabilitation for stroke in an inner-London teaching hospital</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Beech</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Rudd</snm>
+                   <fnm>AG</fnm>
+                </au>
+                <au>
+                   <snm>Tilling</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Wolfe</snm>
+                   <fnm>CD</fnm>
+                </au>
+             </aug>
+             <source>Stroke</source>
+             <pubdate>1999</pubdate>
+             <volume>30</volume>
+             <issue>4</issue>
+             <fpage>729</fpage>
+             <lpage>35</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1161/01.STR.30.4.729</pubid>
+                   <pubid idtype="pmpid" link="fulltext">10187870</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B12">
+             <title>
+                <p>Telerehabilitation: enabling the remote delivery of healthcare, rehabilitation, and self management</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Brennan</snm>
+                   <fnm>DM</fnm>
+                </au>
+                <au>
+                   <snm>Mawson</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Brownsell</snm>
+                   <fnm>S</fnm>
+                </au>
+             </aug>
+             <source>Stud Health Technol Inform</source>
+             <pubdate>2009</pubdate>
+             <volume>145</volume>
+             <fpage>231</fpage>
+             <lpage>48</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">19592797</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B13">
+             <title>
+                <p>Telerehabilitation in stroke care - a systematic review</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Johansson</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Wild</snm>
+                   <fnm>C</fnm>
+                </au>
+             </aug>
+             <source>J Telemed Telecare</source>
+             <pubdate>2011</pubdate>
+             <volume>17</volume>
+             <issue>1</issue>
+             <fpage>1</fpage>
+             <lpage>6</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1258/jtt.2010.100105</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21097560</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B14">
+             <title>
+                <p>Telerehabilitation - a new model for community-based stroke rehabilitation</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Lai</snm>
+                   <fnm>JC</fnm>
+                </au>
+                <au>
+                   <snm>Woo</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Hui</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Chan</snm>
+                   <fnm>WM</fnm>
+                </au>
+             </aug>
+             <source>J Telemed Telecare</source>
+             <pubdate>2004</pubdate>
+             <volume>10</volume>
+             <issue>4</issue>
+             <fpage>199</fpage>
+             <lpage>205</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1258/1357633041424340</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15273029</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B15">
+             <title>
+                <p>Effects of telerehabilitation on physical function and disability for stroke patients: a randomized, controlled trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Chumbler</snm>
+                   <fnm>NR</fnm>
+                </au>
+                <au>
+                   <snm>Quigley</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Li</snm>
+                   <fnm>X</fnm>
+                </au>
+                <au>
+                   <snm>Morey</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Rose</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Sanford</snm>
+                   <fnm>J</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Stroke</source>
+             <pubdate>2012</pubdate>
+             <volume>43</volume>
+             <issue>8</issue>
+             <fpage>2168</fpage>
+             <lpage>74</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1161/STROKEAHA.111.646943</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22627983</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B16">
+             <title>
+                <p>Home-based telerehabilitation shows improved upper limb function in adults with chronic stroke: a pilot study</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Langan</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Delave</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Phillips</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Pangilinan</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Brown</snm>
+                   <fnm>SH</fnm>
+                </au>
+             </aug>
+             <source>J Rehabil Med</source>
+             <pubdate>2013</pubdate>
+             <volume>45</volume>
+             <issue>2</issue>
+             <fpage>217</fpage>
+             <lpage>20</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.2340/16501977-1115</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23319181</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B17">
+             <title>
+                <p>Feasibility of a home-based telerehabilitation system compared to usual care: arm/hand function in patients with stroke, traumatic brain injury and multiple sclerosis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Huijgen</snm>
+                   <fnm>BC</fnm>
+                </au>
+                <au>
+                   <snm>Vollenbroek-Hutten</snm>
+                   <fnm>MM</fnm>
+                </au>
+                <au>
+                   <snm>Zampolini</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Opisso</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Bernabeu</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Van Nieuwenhoven</snm>
+                   <fnm>J</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>J Telemed Telecare</source>
+             <pubdate>2008</pubdate>
+             <volume>14</volume>
+             <issue>5</issue>
+             <fpage>249</fpage>
+             <lpage>56</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1258/jtt.2008.080104</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18633000</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B18">
+             <title>
+                <p>Satisfaction with care in post-stroke patients undergoing a telerehabilitation programme at home</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Piron</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Turolla</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Tonin</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Piccione</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Lain</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Dam</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>J Telemed Telecare</source>
+             <pubdate>2008</pubdate>
+             <volume>14</volume>
+             <issue>5</issue>
+             <fpage>257</fpage>
+             <lpage>60</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1258/jtt.2008.080304</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18633001</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B19">
+             <title>
+                <p>Multicenter randomized controlled trial of an outreach nursing support program for recently discharged stroke patients</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Boter</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Group</snm>
+                   <fnm>HS</fnm>
+                </au>
+             </aug>
+             <source>Stroke</source>
+             <pubdate>2004</pubdate>
+             <volume>35</volume>
+             <issue>12</issue>
+             <fpage>2867</fpage>
+             <lpage>72</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1161/01.STR.0000147717.57531.e5</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15514186</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B20">
+             <title>
+                <p>Telerehabilitation services for stroke</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Laver</snm>
+                   <fnm>KE</fnm>
+                </au>
+                <au>
+                   <snm>Schoene</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Crotty</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>George</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Lannin</snm>
+                   <fnm>NA</fnm>
+                </au>
+                <au>
+                   <snm>Sherrington</snm>
+                   <fnm>C</fnm>
+                </au>
+             </aug>
+             <source>Cochrane Database Syst Rev</source>
+             <pubdate>2013</pubdate>
+             <volume>12</volume>
+             <fpage>CD010255</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">24338496</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B21">
+             <title>
+                <p>Effectiveness of a video-based therapy program at home after acute stroke: a randomized controlled trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Redzuan</snm>
+                   <fnm>NS</fnm>
+                </au>
+                <au>
+                   <snm>Engkasan</snm>
+                   <fnm>JP</fnm>
+                </au>
+                <au>
+                   <snm>Mazlan</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Freddy Abdullah</snm>
+                   <fnm>SJ</fnm>
+                </au>
+             </aug>
+             <source>Arch Phys Med Rehabil</source>
+             <pubdate>2012</pubdate>
+             <volume>93</volume>
+             <issue>12</issue>
+             <fpage>2177</fpage>
+             <lpage>83</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.apmr.2012.06.025</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22789773</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B22">
+             <title>
+                <p>Measures of adult general functional status: SF-36 Physical Functioning Subscale (PF-10), Health Assessment Questionnaire (HAQ), Modified Health Assessment Questionnaire (MHAQ), Katz Index of Independence in activities of daily living, Functional Independence Measure (FIM), and Osteoarthritis-Function-Computer Adaptive Test (OA-Function-CAT)</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>White</snm>
+                   <fnm>DK</fnm>
+                </au>
+                <au>
+                   <snm>Wilson</snm>
+                   <fnm>JC</fnm>
+                </au>
+                <au>
+                   <snm>Keysor</snm>
+                   <fnm>JJ</fnm>
+                </au>
+             </aug>
+             <source>Arthritis Care Res</source>
+             <pubdate>2011</pubdate>
+             <volume>63</volume>
+             <issue>Suppl 11</issue>
+             <fpage>S297</fpage>
+             <lpage>307</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1002/acr.20638</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B23">
+             <title>
+                <p>Predictors of stroke outcome using objective measurement scales</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Loewen</snm>
+                   <fnm>SC</fnm>
+                </au>
+                <au>
+                   <snm>Anderson</snm>
+                   <fnm>BA</fnm>
+                </au>
+             </aug>
+             <source>Stroke</source>
+             <pubdate>1990</pubdate>
+             <volume>21</volume>
+             <issue>1</issue>
+             <fpage>78</fpage>
+             <lpage>81</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1161/01.STR.21.1.78</pubid>
+                   <pubid idtype="pmpid" link="fulltext">2300994</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B24">
+             <title>
+                <p>Measurements of acute cerebral infarction: a clinical examination scale</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Brott</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Adams</snm>
+                   <fnm>HP</fnm>
+                   <suf>Jr</suf>
+                </au>
+                <au>
+                   <snm>Olinger</snm>
+                   <fnm>CP</fnm>
+                </au>
+                <au>
+                   <snm>Marler</snm>
+                   <fnm>JR</fnm>
+                </au>
+                <au>
+                   <snm>Barsan</snm>
+                   <fnm>WG</fnm>
+                </au>
+                <au>
+                   <snm>Biller</snm>
+                   <fnm>J</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Stroke</source>
+             <pubdate>1989</pubdate>
+             <volume>20</volume>
+             <issue>7</issue>
+             <fpage>864</fpage>
+             <lpage>70</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1161/01.STR.20.7.864</pubid>
+                   <pubid idtype="pmpid" link="fulltext">2749846</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B25">
+             <title>
+                <p>Baseline NIH Stroke Scale score strongly predicts outcome after stroke: a report of the Trial of Org 10172 in Acute Stroke Treatment (TOAST)</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Adams</snm>
+                   <fnm>HP</fnm>
+                   <suf>Jr</suf>
+                </au>
+                <au>
+                   <snm>Davis</snm>
+                   <fnm>PH</fnm>
+                </au>
+                <au>
+                   <snm>Leira</snm>
+                   <fnm>EC</fnm>
+                </au>
+                <au>
+                   <snm>Chang</snm>
+                   <fnm>KC</fnm>
+                </au>
+                <au>
+                   <snm>Bendixen</snm>
+                   <fnm>BH</fnm>
+                </au>
+                <au>
+                   <snm>Clarke</snm>
+                   <fnm>WR</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Neurology</source>
+             <pubdate>1999</pubdate>
+             <volume>53</volume>
+             <issue>1</issue>
+             <fpage>126</fpage>
+             <lpage>31</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1212/WNL.53.1.126</pubid>
+                   <pubid idtype="pmpid" link="fulltext">10408548</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B26">
+             <title>
+                <p>Evaluation of the American Heart Association Stroke Outcome Classification</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Lai</snm>
+                   <fnm>SM</fnm>
+                </au>
+                <au>
+                   <snm>Duncan</snm>
+                   <fnm>PW</fnm>
+                </au>
+             </aug>
+             <source>Stroke</source>
+             <pubdate>1999</pubdate>
+             <volume>30</volume>
+             <issue>9</issue>
+             <fpage>1840</fpage>
+             <lpage>3</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1161/01.STR.30.9.1840</pubid>
+                   <pubid idtype="pmpid" link="fulltext">10471433</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B27">
+             <title>
+                <p>Use of the Barthel index and modified Rankin scale in acute stroke trials</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Sulter</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Steen</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>De Keyser</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>Stroke</source>
+             <pubdate>1999</pubdate>
+             <volume>30</volume>
+             <issue>8</issue>
+             <fpage>1538</fpage>
+             <lpage>41</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1161/01.STR.30.8.1538</pubid>
+                   <pubid idtype="pmpid" link="fulltext">10436097</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B28">
+             <title>
+                <p>Validation of the 3-oz water swallow test for aspiration following stroke</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>DePippo</snm>
+                   <fnm>KL</fnm>
+                </au>
+                <au>
+                   <snm>Holas</snm>
+                   <fnm>MA</fnm>
+                </au>
+                <au>
+                   <snm>Reding</snm>
+                   <fnm>MJ</fnm>
+                </au>
+             </aug>
+             <source>Arch Neurol</source>
+             <pubdate>1992</pubdate>
+             <volume>49</volume>
+             <issue>12</issue>
+             <fpage>1259</fpage>
+             <lpage>61</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1001/archneur.1992.00530360057018</pubid>
+                   <pubid idtype="pmpid" link="fulltext">1449405</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B29">
+             <title>
+                <p>Combined approach in bedside assessment of aspiration risk post stroke: PASS</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Zhou</snm>
+                   <fnm>Z</fnm>
+                </au>
+                <au>
+                   <snm>Salle</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Daviet</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Stuit</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Nguyen</snm>
+                   <fnm>C</fnm>
+                </au>
+             </aug>
+             <source>Eur J Phys Rehabil Med</source>
+             <pubdate>2011</pubdate>
+             <volume>47</volume>
+             <issue>3</issue>
+             <fpage>441</fpage>
+             <lpage>6</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">21508917</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B30">
+             <title>
+                <p>Motor unit rate coding is severely impaired during forceful and fast muscular contractions in individuals post stroke</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Chou</snm>
+                   <fnm>LW</fnm>
+                </au>
+                <au>
+                   <snm>Palmer</snm>
+                   <fnm>JA</fnm>
+                </au>
+                <au>
+                   <snm>Binder-Macleod</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Knight</snm>
+                   <fnm>CA</fnm>
+                </au>
+             </aug>
+             <source>J Neurophysiol</source>
+             <pubdate>2013</pubdate>
+             <volume>109</volume>
+             <issue>12</issue>
+             <fpage>2947</fpage>
+             <lpage>54</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1152/jn.00615.2012</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23554434</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B31">
+             <title>
+                <p>Telerehabilitation: a coming of age</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Russell</snm>
+                   <fnm>TG</fnm>
+                </au>
+             </aug>
+             <source>Aust J Physiother</source>
+             <pubdate>2009</pubdate>
+             <volume>55</volume>
+             <issue>1</issue>
+             <fpage>5</fpage>
+             <lpage>6</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0004-9514(09)70054-6</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19226236</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B32">
+             <title>
+                <p>A systematic review of clinical outcomes, clinical process, healthcare utilization and costs associated with telerehabilitation</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kairy</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Lehoux</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Vincent</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Visintin</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>Disabil Rehabil</source>
+             <pubdate>2009</pubdate>
+             <volume>31</volume>
+             <issue>6</issue>
+             <fpage>427</fpage>
+             <lpage>47</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1080/09638280802062553</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18720118</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+       </refgrp>
+    </bm>
+ </art>

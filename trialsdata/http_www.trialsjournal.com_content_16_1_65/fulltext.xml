@@ -1,0 +1,1608 @@
+<?xml version='1.0'?>
+<!DOCTYPE art SYSTEM 'http://www.biomedcentral.com/xml/article.dtd'>
+<art>
+    <ui>s13063-015-0570-z</ui>
+    <ji>1745-6215</ji>
+    <fm>
+       <dochead>Study protocol</dochead>
+       <bibl>
+          <title>
+             <p>Assessing the effectiveness of a pharmacist-delivered smoking cessation program in the State of Qatar: study protocol for a randomized controlled trial</p>
+          </title>
+          <aug>
+             <au id="A1" ca="yes">
+                <snm>El Hajj</snm>
+                <mnm>Saffouh</mnm>
+                <fnm>Maguy</fnm>
+                <insr iid="I1"/>
+                <email>maguyh@qu.edu.qa</email>
+             </au>
+             <au id="A2">
+                <snm>Kheir</snm>
+                <fnm>Nadir</fnm>
+                <insr iid="I1"/>
+                <email>nadirk@qu.edu.qa</email>
+             </au>
+             <au id="A3">
+                <snm>Al Mulla</snm>
+                <mnm>Mohd</mnm>
+                <fnm>Ahmad</fnm>
+                <insr iid="I2"/>
+                <email>ALMULLA@hmc.org.qa</email>
+             </au>
+             <au id="A4">
+                <snm>Al-Badriyeh</snm>
+                <fnm>Daoud</fnm>
+                <insr iid="I1"/>
+                <email>daoud.a@qu.edu.qa</email>
+             </au>
+             <au id="A5">
+                <snm>Al Kaddour</snm>
+                <fnm>Ahmad</fnm>
+                <insr iid="I1"/>
+                <email>akaddour@qu.edu.qa</email>
+             </au>
+             <au id="A6">
+                <snm>Mahfoud</snm>
+                <mi>R</mi>
+                <fnm>Ziyad</fnm>
+                <insr iid="I3"/>
+                <insr iid="I4"/>
+                <email>zrm2001@qatar-med.cornell.edu</email>
+             </au>
+             <au id="A7">
+                <snm>Salehi</snm>
+                <fnm>Mohammad</fnm>
+                <insr iid="I5"/>
+                <email>salehi@qu.edu.qa</email>
+             </au>
+             <au id="A8">
+                <snm>Fanous</snm>
+                <fnm>Nadia</fnm>
+                <insr iid="I2"/>
+                <email>NFanous@hmc.org.qa</email>
+             </au>
+          </aug>
+          <insg>
+             <ins id="I1">
+                <p>College of Pharmacy, Qatar University, Doha, Qatar</p>
+             </ins>
+             <ins id="I2">
+                <p>Smoking Cessation Clinic, Medicine Department, Hamad Medical Corporation, Doha, Qatar</p>
+             </ins>
+             <ins id="I3">
+                <p>Department of Health Care Policy and Research, Weill Cornell Medical College, New York, NY, USA</p>
+             </ins>
+             <ins id="I4">
+                <p>Department of Global and Public Health, Weill Cornell Medical College, Doha, Qatar</p>
+             </ins>
+             <ins id="I5">
+                <p>Department of Mathematics, Statistics and Physics, College of Arts and Sciences, Qatar University, Doha, Qatar</p>
+             </ins>
+          </insg>
+          <source>Trials</source>
+          <issn>1745-6215</issn>
+          <pubdate>2015</pubdate>
+          <volume>16</volume>
+          <issue>1</issue>
+          <fpage>65</fpage>
+          <url>http://www.trialsjournal.com/content/16/1/65</url>
+          <xrefbib>
+             <pubidlist>
+                <pubid idtype="doi">10.1186/s13063-015-0570-z</pubid>
+             </pubidlist>
+          </xrefbib>
+       </bibl>
+       <history>
+          <rec>
+             <date>
+                <day>14</day>
+                <month>6</month>
+                <year>2014</year>
+             </date>
+          </rec>
+          <acc>
+             <date>
+                <day>19</day>
+                <month>1</month>
+                <year>2015</year>
+             </date>
+          </acc>
+          <pub>
+             <date>
+                <day>26</day>
+                <month>2</month>
+                <year>2015</year>
+             </date>
+          </pub>
+       </history>
+       <cpyrt>
+          <year>2015</year>
+          <collab>El Hajj et al.; licensee BioMed Central.</collab>
+          <note>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/4.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (<url>http://creativecommons.org/publicdomain/zero/1.0/</url>) applies to the data made available in this article, unless otherwise stated.</note>
+       </cpyrt>
+       <kwdg>
+          <kwd>Qatar</kwd>
+          <kwd>Tobacco control</kwd>
+          <kwd>Smoking cessation</kwd>
+          <kwd>Pharmacist</kwd>
+       </kwdg>
+       <abs>
+          <sec>
+             <st>
+                <p>Abstract</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Background</p>
+                </st>
+                <p>It had been reported that up to 37% of the adult male population smokes cigarettes in Qatar. The Global Youth Tobacco Survey also stated that 13.4% of male school students aged 13 to 15 years in Qatar smoke cigarettes. Smoking cessation is key to reducing smoking-related diseases and deaths. Healthcare providers are in an ideal position to encourage smoking cessation. Pharmacists are the most accessible healthcare providers and are uniquely situated to initiate behavior change among patients. Many studies have shown that pharmacists can be successful in helping patients quit smoking. Studies demonstrating the effectiveness of pharmacist-delivered smoking cessation programs are lacking in Qatar. This proposal aims to test the effect of a structured smoking cessation program delivered by trained ambulatory pharmacists in Qatar.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Methods/Design</p>
+                </st>
+                <p>A prospective, randomized, controlled trial is conducted at eight ambulatory pharmacies in Qatar. Participants are randomly assigned to receive an at least four-session face-to-face structured patient-specific smoking cessation program conducted by the pharmacist or 5 to 10 min of unstructured brief smoking cessation advice (emulating current practice) given by the pharmacist. Both groups are offered nicotine replacement therapy if feasible. The primary outcome of smoking cessation will be confirmed by an exhaled carbon monoxide test at 12 months. Secondary outcomes constitute quality-of-life adjustment as well as cost analysis of program resources consumed, including per case and patient outcome.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Discussion</p>
+                </st>
+                <p>If proven to be effective, this smoking cessation program will be considered as a model that Qatar and the region can apply to decrease the smoking burden.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Trial registration</p>
+                </st>
+                <p>Clinical Trials <url>NCT02123329</url>.</p>
+             </sec>
+          </sec>
+       </abs>
+    </fm>
+    <bdy>
+       <sec>
+          <st>
+             <p>Background</p>
+          </st>
+          <p>The leading preventable cause of ill health today is cigarette smoking <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>. It is a major risk factor for several causes of death including heart disease, chronic lung diseases and lung cancer <abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp>. It kills one in ten adults globally and causes more than 5 million deaths annually. If present trends continue, the number of smoking-related deaths is expected to reach more than 8 million deaths per year by 2030 <abbrgrp>
+                <abbr bid="B3">3</abbr>
+             </abbrgrp>. The adverse health consequences of tobacco use not only compromise smokers&#8217; quality of life, but also entail significant direct and indirect economic costs on society. The 2008 World Health Organization (WHO) report states that the global healthcare costs attributable to tobacco use reach hundreds of billions of US dollars each year <abbrgrp>
+                <abbr bid="B4">4</abbr>
+             </abbrgrp>. Smoking cessation is key to reducing the number of smoking-related diseases and deaths. At any age, quitting smoking improves quality of life (QoL) and confers considerable health benefits including reduced risk of coronary heart disease, stroke and smoking-related cancers <abbrgrp>
+                <abbr bid="B5">5</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B6">6</abbr>
+             </abbrgrp>. The World Bank suggests that if adult tobacco consumption were to decrease by 50% by the year 2020, approximately 180 million tobacco-related deaths could be avoided between now and 2050 <abbrgrp>
+                <abbr bid="B7">7</abbr>
+             </abbrgrp>. Health professionals are in an ideal position to encourage smoking cessation. A short intervention by them can considerably increase the smoking cessation rate <abbrgrp>
+                <abbr bid="B8">8</abbr>
+             </abbrgrp>. Of all health professionals, pharmacists are the most easily accessed by the public and are uniquely situated to initiate behavior change among smokers <abbrgrp>
+                <abbr bid="B9">9</abbr>
+             </abbrgrp>. They can provide education and advice without prior appointment and with no direct or additional cost to individuals <abbrgrp>
+                <abbr bid="B10">10</abbr>
+             </abbrgrp>. They regularly interact with patients obtaining medications for smoking-related diseases. In addition, the increased availability of pharmacologic smoking cessation aids including some formulations of nicotine replacement therapy over the counter in pharmacies in many countries gives the pharmacists a distinct opportunity to serve as front-line health providers who can play a major smoking cessation role <abbrgrp>
+                <abbr bid="B11">11</abbr>
+             </abbrgrp>. Moreover, available data support the provision of smoking cessation services in ambulatory and community pharmacies. Many studies have shown that pharmacists can be effective providers of tobacco cessation interventions and can be successful in helping patients quit smoking <abbrgrp>
+                <abbr bid="B12">12</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B20">20</abbr>
+             </abbrgrp> and that these pharmacy interventions can be cost-effective or cost-beneficial <abbrgrp>
+                <abbr bid="B21">21</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B24">24</abbr>
+             </abbrgrp>. Additionally, in many countries there is extensive support at the professional level for the involvement of pharmacists in smoking cessation. The Canadian Pharmacists Association developed a Joint Statement on Smoking Cessation. This statement promotes the involvement of health professionals including pharmacists in tobacco prevention and cessation <abbrgrp>
+                <abbr bid="B8">8</abbr>
+             </abbrgrp>. The International Pharmaceutical Federation (FIP) issued a statement of policy on the role of pharmacists in promoting a tobacco-free future <abbrgrp>
+                <abbr bid="B25">25</abbr>
+             </abbrgrp>. The European Forum adopted a pharmacists&#8217; charter on action against smoking, which states that pharmacists should consider smoking cessation as an essential element of their professional responsibilities <abbrgrp>
+                <abbr bid="B26">26</abbr>
+             </abbrgrp>. The US Public Health Service published evidence-based clinical guidelines recommending that all health care providers, including pharmacists, should offer smoking-cessation interventions <abbrgrp>
+                <abbr bid="B27">27</abbr>
+             </abbrgrp>. The American Society of Health-System Pharmacists&#8217; (ASHP) Therapeutic Position Statement on the Cessation of Tobacco Use strongly encourages pharmacists as well as other healthcare providers to integrate identification of tobacco users and delivery of tobacco-cessation interventions into their routine patient care. As per the ASHP statement, these interventions should address five key elements of comprehensive tobacco cessation counseling (the 5 As): (1) asking patients about tobacco use, (2) advising users to quit, (3) assessing their readiness to quit, (4) assisting them with quitting using behavior modification and smoking cessation medications, and (5) arranging follow-up care. If comprehensive tobacco-cessation counseling cannot be provided because of time constraints or practice site logistics, pharmacists can use a truncated 5 A model whereby they ask about tobacco use, advise tobacco users to quit, and then refer patients to smoking cessation providers or programs <abbrgrp>
+                <abbr bid="B28">28</abbr>
+             </abbrgrp>.</p>
+          <p>In Qatar, tobacco use is a major public health problem that, in addition to the associated morbidity and mortality, constitutes a huge burden on healthcare services. To control tobacco use, Qatar has adopted the international approaches recommended by the World Health Organization (WHO) and regional plan of Arab countries in the Gulf. These approaches are based on three strategies: (1) imposing legislative tobacco control measures, for example, banning smoking in enclosed public places and prohibiting selling cigarettes, tobacco or its derivatives to anyone less than 18 years old, (2) providing smoking cessation services for free in two hospital-based smoking cessation clinics and (3) implementing antismoking public awareness activities <abbrgrp>
+                <abbr bid="B29">29</abbr>
+             </abbrgrp>. Despite these approaches, in Qatar up to 37% of adult males currently smoke tobacco <abbrgrp>
+                <abbr bid="B30">30</abbr>
+             </abbrgrp> and 13.4% of male school students aged 13 to 15 years smoke cigarettes according to the 2007 Global Youth Tobacco Survey <abbrgrp>
+                <abbr bid="B31">31</abbr>
+             </abbrgrp>. Furthermore, smoking-related diseases are the most prevalent in Qatar. Ischemic heart disease, as an example, was ranked as one of the leading causes of burden of disease in Qatar in 2010 <abbrgrp>
+                <abbr bid="B32">32</abbr>
+             </abbrgrp>, and Qatar has a higher age standardized lung cancer incidence rate than many countries in the Gulf (8.95 per 100,000) <abbrgrp>
+                <abbr bid="B33">33</abbr>
+             </abbrgrp>. In addition, according to a recent survey done by Weill Cornell Medical College in Qatar, at least 1 billion cigarettes are smoked in Qatar each year, averaging 12,000 per individual, and 65 million US dollars (USD) are spent on cigarettes annually; 150 million USD are used to cover the healthcare costs of patients affected by smoking-related diseases <abbrgrp>
+                <abbr bid="B34">34</abbr>
+             </abbrgrp>. The potential for pharmacist-assisted tobacco cessation is therefore huge and could have a considerable impact on smoking rates, prevention of tobacco-related diseases and enhancement of public health in Qatar. Around 700 registered pharmacists practice in public and private ambulatory care clinics and in community pharmacies in Qatar. If each of these pharmacists successfully assists just one tobacco user in quitting each month, this would result in more than 8500 quitters annually. However, according to a study conducted by Qatar University&#8217;s College of Pharmacy and funded by the Qatar Foundation under its Undergraduate Research Experience Program (UREP), Qatar&#8217;s ambulatory and community pharmacists are not fully engaged in smoking cessation activities. Eighty percent of Qatar&#8217;s ambulatory and community pharmacists rarely, never or sometimes ask their patients about their smoking status, and 53% rarely, never or sometimes offer smoking cessation counseling to nicotine therapy purchasers. When meeting patients who smoke, only 45% of pharmacists discuss the adverse health effects of smoking, 41% assist them in quitting and 16% arrange follow-up sessions with them to assess their progress in quitting smoking. However, more than 85% of pharmacists are interested in providing smoking cessation counseling and believe that it is an important activity <abbrgrp>
+                <abbr bid="B35">35</abbr>
+             </abbrgrp>. The pharmacists&#8217; perceptions regarding the importance of smoking cessation can be transformed into action if a smoking cessation model is provided that these pharmacists can use in routine practice. Unfortunately, an intensive, patient-specific program of smoking cessation designed exclusively for implementation in community and ambulatory pharmacies is not available in Qatar. In addition, evidence regarding the effect of such a program is lacking in Qatar.</p>
+          <p>Also important, in addition to the numerous knowledge gaps identified above in relation to Qatar, there are also no data on how cost beneficial the running of smoking cessation programs like the currently proposed one is, added to a lacking data on the associated resource implications in the pharmacy setting from the Qatari perspective.</p>
+          <sec>
+             <st>
+                <p>Study objectives</p>
+             </st>
+             <p>This proposal describes a study that is currently being implemented in eight public and private ambulatory clinic pharmacies in Qatar. Our hypothesis is that a patient-specific structured smoking cessation program delivered by smoking cessation-trained ambulatory pharmacists would be significantly more effective in helping smokers stop smoking and achieving long-term smoking abstinence than brief unstructured pharmacist-delivered advice.</p>
+             <p>We also hypothesize that quitting smoking would lead to significant improvement in health-related quality of life.</p>
+             <p>The study objectives are:</p><p> Primary: To test the effect of a face-to-face structured patient-specific smoking cessation program delivered by trained ambulatory pharmacists on smoking cessation rates in Qatar</p>
+                <p> Secondary: To assess the change in health-related quality of life in quitters vs. non-quitters</p>
+                <p> Secondary: To explore the resource utilization of implementing the smoking cessation program as delivered by the ambulatory pharmacists in Qatar. This is a cost analysis of the overall cost of running the proposed patient-specific cessation program, including cost-effectiveness analyses.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Methods/design</p>
+          </st>
+          <sec>
+             <st>
+                <p>Study design</p>
+             </st>
+             <p>The study is a prospective randomized controlled trial comparing the effectiveness of a face-to-face structured patient-specific smoking cessation program conducted by trained ambulatory pharmacists versus brief unstructured pharmacist-delivered advice on smoking cessation rates.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Study sites</p>
+             </st>
+             <p>The study is implemented in eight public and private ambulatory pharmacies in the State of Qatar. These pharmacies are located within large ambulatory clinics that serve a large proportion of the Qatar population. To prevent cross contamination with the study, none of these clinics has established smoking cessation programs. Each study pharmacy is staffed by at least three pharmacists. Two pharmacists from each pharmacy are invited to participate in the study. The study is taking place in a semiprivate area in the pharmacy. This area is secluded enough to ensure adequate patient confidentiality.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Study pharmacists&#8217; training</p>
+             </st>
+             <p>Prior to starting the study, each study site pharmacist was sent a copy of the study methodology along with a written literature review on smoking cessation and asked to study the material.</p>
+             <p>Two to three weeks after receipt of the material, the study pharmacist attended a 2-day (8 h/day) smoking cessation training workshop that was organized by the Hamad Medical Corporation (HMC) smoking cessation clinic team and Qatar University (QU) College of Pharmacy.</p>
+             <p>The training team consisted of Dr. Ahmed al Mulla (Public Health and Disease Control Consultant and HMC smoking cessation clinic head), Dr. Maguy El Hajj (Study Principal Investigator/Assistant Professor and CPP Chair at QU College of Pharmacy), Dr. Nadir Kheir (Associate Professor and CPPD coordinator at QU College of Pharmacy) and Dr. Mohamad Haniki Nik Mohamed [Deputy Dean (Academic Affairs) in Kulliyyahof Pharmacy at the International Islamic University Malaysia (IIUM)]. Dr. Haniki is considered an international authority in the area of substance abuse, including cigarette smoking.</p>
+             <p>The HMC smoking cessation clinic is one of the smoking cessation facilities in Qatar. The clinic is run by highly qualified smoking cessation consultants and has a smoking cessation success rate of 40%. In addition to offering smoking cessation treatment, this clinic contributes to community education on the dangers of smoking among the citizens and residents of Qatar and provides smoking-related lectures and seminars for all age groups in the state <abbrgrp>
+                   <abbr bid="B36">36</abbr>
+                </abbrgrp>.</p>
+             <p>The general objective of this workshop is to provide the study pharmacists with enough smoking cessation knowledge and the necessary skills and tools to assess and treat smokers. A smoking cessation training manual that was developed by the study training team is extensively used in the workshop. This manual is also used as an on-site resource by the study pharmacists in their smoking cessation program.</p>
+             <p>The workshop covered the following: smoking epidemiology and risks, benefits of quitting, a transtheoretical model for behavior change as applied to smoking cessation, the necessary elements for documentation in the patient smoking cessation profile, behavioral modification techniques, classification of smokers according to their stage of change (5 stages: precontemplation, contemplation, preparation, action and maintenance), nicotine replacement therapy (NRT: nicotine patch, lozenge and gum), patient counseling techniques, development of a personalized action plan, use of the exhaled carbon monoxide test, detailed instructions on the program methodology and other needed elements.</p>
+             <p>In addition, the pharmacists&#8217; training workshop included training the pharmacists on how to follow the study protocol exactly. The study team walked the pharmacists through the study protocol including how to randomly allocate participants to the intervention and control groups, how to deliver the intervention and how to deal with control patients.</p>
+             <p>During the training workshops, emphasis was also placed on the importance of behavioral and lifestyle modifications. Pharmacists were instructed to encourage smokers who are anticipating quitting to identify the situations that may increase their risk of smoking such as having smokers within the household or at the workplace as well as getting into stressful situations. After identifying these situations, the pharmacists were provided with information they could give to smokers about strategies to improve coping including lifestyle changes to decrease stress and improve QoL, removing visual cues for smoking and staying away from these situations that normally make patients want to smoke <abbrgrp>
+                   <abbr bid="B37">37</abbr>
+                </abbrgrp>. In addition, the pharmacists were trained to provide the smokers with information about what to expect during quit attempts and to address any individual concerns that the smokers may have <abbrgrp>
+                   <abbr bid="B38">38</abbr>
+                </abbrgrp>. Furthermore, they were advised to encourage the smokers to notify family and friends of the plan to quit and to ask for their support <abbrgrp>
+                   <abbr bid="B37">37</abbr>
+                </abbrgrp>.</p>
+             <p>Participant counseling and interviewing techniques were also part of the training workshops. To enhance learning, the pharmacists applied these techniques using patient role-plays in small groups. Topics that were reviewed included counseling skills, verbal and nonverbal communication skills including use of empathy and active listening, use of open-ended and priming questions, verification of patient understanding, overcoming of communication barriers, communication with difficult patients, communication with patients not interested in discussing smoking cessation and use of strategies to improve medication adherence.</p>
+             <p>Documentation was an important element of the workshop. The pharmacists were trained to document the patient&#8217;s smoking, medical and medication history, basic demographic characteristics, staging, assessment, education, counseling, follow-up and the personalized action plan to quit smoking. In addition, they were instructed on how to fill in the Fagerstrom test for nicotine dependence (FTND). The FTND is a six-item questionnaire designed to assist the healthcare professional in determining a patient&#8217;s degree of nicotine dependence <abbrgrp>
+                   <abbr bid="B39">39</abbr>
+                </abbrgrp>. This questionnaire has already been used in smoking-related research studies in the Middle East area <abbrgrp>
+                   <abbr bid="B40">40</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B41">41</abbr>
+                </abbrgrp>. Furthermore, they were instructed to measure the smoker&#8217;s health-related QoL using the Smoking Cessation Quality of Life (SCQOL) questionnaire. This instrument was developed and validated for use in smoking cessation <abbrgrp>
+                   <abbr bid="B42">42</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B43">43</abbr>
+                </abbrgrp> and has already been used in previous studies that tested the effectiveness of a pharmacist-delivered smoking cessation program <abbrgrp>
+                   <abbr bid="B16">16</abbr>
+                </abbrgrp>. This questionnaire tackles a total of 13 general and smoking cessation-specific quality-of-life domains including physical functioning, role-physical, bodily pain, general health, vitality, social functioning, role-emotional, mental health, social interactions, self-control, sleep, cognitive functioning and anxiety <abbrgrp>
+                   <abbr bid="B43">43</abbr>
+                </abbrgrp>.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Study/program marketing</p>
+             </st>
+             <p>The study pharmacists were trained to recognize many opportunities for the promotion of the smoking cessation program as possible. For example, when dispensing prescriptions, the study pharmacists were encouraged to ask patients about smoking and to tell them about the smoking cessation program. In addition, study site pharmacists displayed posters and leaflets in their pharmacy describing the smoking cessation program. Furthermore, the general practitioners and dentists practicing in the study ambulatory clinics were sent letters inviting them to refer their patients who are interested in quitting to the study pharmacies.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Screening and eligibility criteria</p>
+             </st>
+             <p>Interested smokers meet with the study pharmacists. The study pharmacists use a scripted questionnaire to screen smokers in order to assess their eligibility for the study. Eligible participants are patients aged 18 years and older who currently smoke one or more cigarettes daily for 7 days, are motivated to quit, i.e., in the preparation stage of the stage-of-change model, able to communicate in Arabic or English, and are willing to and capable of attending the scheduled sessions at the study pharmacies. The motivation to quit is determined by the pharmacist using the transtheoretical model of behavior change <abbrgrp>
+                   <abbr bid="B44">44</abbr>
+                </abbrgrp>. Smokers in the precontemplation or contemplation stages are advised to quit, are provided with educational materials regarding tobacco cessation and the health benefits of quitting, and are encouraged to come back to the pharmacy when they feel they are ready to commit to quitting smoking.</p>
+             <p>Exclusion criteria are (1) use of other nicotine or tobacco products and (2) current use or use in the last 30 days of smoking cessation aids or medications, (3) planning to leave Qatar in the next 12 months, (4) presence of any major medical condition that would prevent use of the nicotine replacement therapy including hypersensitivity to the products, history of or recent myocardial infarction, life-threatening arrhythmias, severe or worsening angina, uncontrolled hypertension and temporomandibular joint disease (in case of nicotine gum), (5) pregnancy and (6) psychiatric illness or another debilitating condition that would interfere with participation in the study.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Study enrollment</p>
+             </st>
+             <p>Following the completion of the screening procedure, the study pharmacist gives the eligible participant pertinent background information on the program, explaining what his or her participation would involve (including potential benefits, risks, inconveniences, discomforts), and his or her right to confidentiality. In order to enroll in the study, the interested participant is asked to sign an approved consent form. Once the consent form is signed, the pharmacist collects the participant&#8217;s contact information and sets an appointment with him or her at a date and time that is suitable for both of them.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Initial appointment and randomization</p>
+             </st>
+             <p>One to two days before his or her scheduled appointment, the study pharmacist contacts the enrolled participant to remind him or her about the appointment. At this initial appointment, which takes around 30 min, the study pharmacist first collects the participant&#8217;s sociodemographic characteristics, current medical problems and medications, smoking history (i.e., number of cigarettes per day, duration of smoking, previous quit attempts, smoking habits of other family members and the participant&#8217;s reasons for wanting to quit smoking) and vital signs (i.e., blood pressure and pulse). In addition, the pharmacist assesses the smoker&#8217;s level of nicotine dependence using the Fagerstrom Test for Nicotine Dependence and measures his or her baseline exhaled carbon monoxide (CO) level using the exhaled CO test. Furthermore, the pharmacist administers the smoking cessation quality-of-life (SCQOL) questionnaires. After baseline data collection, the smoker is randomly assigned to either the intervention group or the control group. Randomization is already anonymously preset by the study statistician for each study pharmacist. According to the participant number and the preset list, the participant will be randomized to the intervention or control group. A new appointment is set with the participants assigned to the intervention group. Participants assigned to the control group receive brief unstructured smoking cessation advice as outlined below. Participants in both groups do not pay for their participation.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Intervention group</p>
+             </st>
+             <p>Participants assigned to the treatment group participate in a face-to-face four-session program at the pharmacy delivered by the study pharmacist at 2-4-week intervals over 8 weeks. The sessions are set at a date and time that are convenient for both the pharmacist and participant.</p>
+             <sec>
+                <st>
+                   <p>First session</p>
+                </st>
+                <p>The first session is time-intensive, taking around 30 min. In this session, the study pharmacist facilitates the participant&#8217;s preparation to quit. The participant selects a quit date within the next 2-4 weeks. Based on the transtheoretical model of change, this would give him or her time to get prepared to enter the action stage on the quit date.</p>
+                <p>The pharmacist discusses the benefits of smoking cessation with the participant and provides him or her with tailored behavioral and lifestyle strategies. These strategies take into consideration the participant behaviors, values and beliefs. For example, if the smoker states that the hardest time would be at work when others are taking breaks to smoke, the pharmacist may suggest ways to spend the time during breaks. As outlined under the training section, the pharmacist also provides the participant with information about what to expect during the quit attempt with suggestions to cope with the early days of quitting. In addition, the pharmacist encourages the participant to seek family support during the attempt.</p>
+                <p>To prevent nicotine withdrawal symptoms, the participant is also offered, without cost, nicotine replacement therapy (NRT) as a patch or lozenge depending on his or her previous experience, preference and adverse effect profile. Other NRT dosage forms, e.g., an inhaler, nasal spray and sublingual tablets, are not available in Qatar. The gum is usually not tolerated by patients. The participant is not offered the other smoking cessation aids, including bupropion and varenicline, as they require a prescription in order to be dispensed in Qatar. Before dispensing the NRT, the study pharmacist ensures that the participant does not have any contraindications to nicotine therapy and is not taking any medication that would interact with NRT. The NRT is started on the participant&#8217;s intended quit date. Patient counseling about NRT is provided to each participant regarding the dosage, administration, scheduling, duration of therapy, adverse effects, interactions and proper disposal.</p>
+                <p>Participants who take the nicotine patch start at 21 mg if they smoke ten cigarettes or more per day. Otherwise, they receive a 14-mg patch. Both patches are continued for 6 weeks before being tapered. The 21-mg patch is decreased to 14 mg, continued for 2 weeks and decreased to 7 mg for a final 2 weeks. Patients who start with the 14-mg patch are tapered to 7 mg for a final 2 weeks <abbrgrp>
+                      <abbr bid="B45">45</abbr>
+                   </abbrgrp>. Participants who take the nicotine lozenge use the 1-mg pieces. It is continued for 6 weeks as one lozenge every 1-2 h before being tapered. Then the participant takes one lozenge every 2-4 h for weeks 7 to 9, then one lozenge every 4-8 h for week 10-12 <abbrgrp>
+                      <abbr bid="B46">46</abbr>
+                   </abbrgrp>.</p>
+                <p>A personalized action plan is created by the pharmacist to document the participant&#8217;s quit date, nicotine replacement therapy dosage schedule and counseling, suggested behavioral and lifestyle strategies, and date/time of the next appointment. This plan is signed by both the participant and pharmacist.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Follow-up sessions</p>
+                </st>
+                <p>The first follow-up session is scheduled 1 week after of the participant&#8217;s quit day and takes around 20 min. In this session, the pharmacist determines the participant&#8217;s smoking status, measures his or her blood pressure/pulse/exhaled CO level, and assesses the NRT tolerability. If the patient succeeds in quitting, the pharmacist provides reinforcement and addresses problems associated with quitting such as managing withdrawal symptoms, coping with cravings, relieving stress, and managing fear of weight gain and of change in relationships with other smoking friends or relatives. If the participant fails to quit smoking, the pharmacist carefully reviews the participant&#8217;s experience during the attempt to quit and works through the identified problems. If the participant does not tolerate the NRT side effects (e.g., his or her blood pressure or heart rate increases), the pharmacist asks the participant to stop the NRT and refers him or her to the HMC smoking cessation clinic for further smoking cessation support. This participant is no longer enrolled in the study.</p>
+                <p>The second follow-up session is scheduled 2 weeks after the first follow-up session. The third follow-up session is set at 4 weeks after the second follow-up session. These sessions take no more than 10 or 15 min each. In these sessions the pharmacist assesses the participant&#8217;s smoking status, blood pressure/heart rate/exhaled CO level and NRT tolerability and provides NRT refills. In addition, he or she focuses on maintenance of smoking abstinence with cognitive-behavioral strategies to prevent relapse. The pharmacist documents any action taken by him/her at each follow-up session. After the third follow-up session, all participants are instructed to call or visit the pharmacy for questions or to receive additional support as needed. For more information on participant flow during the study, see Figure&#160;<figr fid="F1">1</figr>.
+                    </p>
+                
+                   <fig id="F1">
+                      <title>
+                         <p>Figure 1</p>
+                      </title>
+                      <caption>
+                         <p>Participant flow during the study. </p>
+                      </caption>
+                      <text>
+                         <p>
+                              <b>Participant flow during the study.</b>                            
+                         </p>
+                      </text>
+                      <graphic file="s13063-015-0570-z-1"/>
+                   </fig>
+                
+             </sec>
+             <sec>
+                <st>
+                   <p>Control group</p>
+                </st>
+                <p>Participants in the control group receive 5-10 min of unstructured brief smoking cessation counseling by the pharmacist (emulating current practice). In addition, they are provided with educational materials about smoking cessation and are offered nicotine replacement therapy (NRT). Before dispensing the NRT, the study pharmacist ensures that the participant does not have any contraindications to nicotine therapy and is not taking any medication that would interact with NRT. The choice of the NRT dosage form (patch or lozenge) depends on the participant&#8217;s previous experience, preference and adverse effect profile. The NRT dosage schedule and duration of therapy are similar to those in the intervention group. Control participants are not asked to attend any follow-up sessions.</p>
+                <p>The education materials address the following topics: the adverse effects of smoking, benefits of smoking cessation, the methods of quitting, setting the quit date, coping with nicotine withdrawal symptoms, getting emotional and social support, and monitoring the blood pressure and pulse when using NRT and avoiding relapse.</p>
+                <p>The study team invests a good deal of time orienting the study pharmacists on their role and training them on how to deal with the control and intervention groups. Part of that orientation is on how &#8216;not&#8217; to provide any intervention to the control subset of smokers.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Study piloting</p>
+             </st>
+             <p>Study pharmacists were provided with assistance in setting up the study pharmacies and given some time to familiarize themselves with the study protocol prior to commencement of the study. Then each pharmacist was asked to pilot the study in the presence of the study team. Piloting occurred by screening/recruiting around four patients in each site and by implementing the study protocol. Feedback was provided as required to the study pharmacists on the quality of patient counseling, patient education and documentation. Very minor adjustments or refinements were made to the study protocol and study tools including the patient consent form, Fagerstrom test for nicotine dependence (FTND) and smoking cessation quality-of-life (SCQOL) questionnaire as needed.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Continuous quality improvement and evaluation plan</p>
+             </st>
+             <p>At all stages of the study implementation, the study pharmacists are closely supervised by the study team. Supervision is through several mechanisms including meetings, communication and site visits.</p>
+             <sec>
+                <st>
+                   <p>Meetings</p>
+                </st>
+                <p>Regular meetings are invaluable for high-quality supervision. Meetings are used to guide the project toward its objectives through team involvement. Bi- or triweekly meetings involving all the team members including the study pharmacists are held. In these meetings, study harmacists summarize their activities during the previous 2-3 weeks, and the study team offers them constructive feedback, acknowledges their input and suggests new directions to them. In addition, ad-hoc meetings are conducted between the study pharmacists and the study team where necessary to address any irregular issues that might arise.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Communication</p>
+                </st>
+                <p>The study team members are in direct touch with each other and with the study pharmacists through electronic communication such as emails.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Site visits</p>
+                </st>
+                <p>To maintain quality control in the smoking cessation study pharmacies, the study team visits each study pharmacy at least once every 2 to 3 weeks to monitor data collection, check protocol adherence, ensure the consistency of program delivery, address any queries that the study pharmacists might have in implementing the study, review patients&#8217; folders for appropriate documentation, provide any on-site support required and provide individual pharmacists with feedback on their performance.</p>
+                <p>Supervision is crucial to:</p><p> Orient study pharmacists to the study&#8217;s objectives and methodology and to their role in the study</p>
+                   <p> Monitor and follow-up the progress of the study</p>
+                   <p> Tackle any issues or concerns that might arise with the study pharmacists while the study is executed</p>
+                   <p> Share study updates</p>
+                   <p> Motivate and support the study pharmacists</p>
+                   <p> Ensure adherence to the study protocol in the different study sites</p>
+                   <p> Ensure standardization of study implementation in the different study sites</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Overview of utilization cost</p>
+             </st>
+             <p>A comparative overview of the cost of resource utilization (economic analysis) will be undertaken for the study arms in this study.</p>
+             <sec>
+                <st>
+                   <p>Model inputs and cost determination</p>
+                </st>
+                <p>This pharmacoeconomic analysis will be based on extrapolating data on resources from the randomized controlled trial; these data will be collected prospectively. Prospective data collection enhances the accuracy and robustness of data and limits bias.</p>
+                <p>The economic analysis is performed from a social perspective. Direct medical costs will be evaluated to the best available, including in relation to NRT, CO monitoring tests and salaries. Direct nonmedical costs will also be evaluated and will include participants&#8217; travel costs to pharmacies (e.g., taxi) and the paperwork and forms. The indirect costs will be accounted for as well, in relation to lost productivity (if any), whether for participants or any unpaid caregivers that participants utilize. Important is that any protocol-driven costs (e.g., researchers salaries) will be excluded from the analysis.</p>
+                <p>The monetary value of resources will be collected from internal sources at the Qatari clinics. It is worth noting that costs involved in this study will be based on wholesale prices, as paid by clinics.</p>
+                <p>All calculated costs will be in Qatari Riyal, adjusted for the financial year 2015-2016, utilizing the Qatari Health Consumer Price Index as appropriate, and no discounts will be applied given the short timeframe of the analysis.</p>
+                <p>The economic evaluation will be undertaken via decision analytic modeling, where a decision tree will be structured to follow the different options and consequences in the management pathways. For each of the participants, the proposed model may include five possible treatment outcomes depending on whether participants quit smoking, and if they do, after what duration. Smokers will be initially assigned to one of two pathways depending on whether they quit smoking at enrollment. Smokers who do not quit at enrollment will be further followed until assigned to one of two pathways, depending on whether the smoker quits smoking after 3 months or not. If not, smokers will be followed up until further assigned to one of two pathways, based on whether they quit smoking after 6 months or not. Those who do not quit by then will be followed up until assigned to one of two pathways depending on whether they quit at 12 months of follow-up or not, which will be the end of follow-up in any case. Smokers who quit at enrollment or after 3, 6 or 12 months will each be followed up separately until the end of the study. Based on this, in addition to data on resources consumed and their monetary values, the model will generate a weighted average cost for patient cessation and quality-of-life adjustment. As per the general decision analysis principles, this will be calculated as the sum-product of the costs of the management outcomes and the respective probabilities.</p>
+                <p>The costs of managing the single episode of smoking cessation will be compared among different management options and against budgeted costs of clinics/government institutions.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Sensitivity analysis</p>
+                </st>
+                <p>The goal of sensitivity analysis is to indicate the robustness of the evaluation conclusion against any potential variations in the model inputs. Deterministic and probabilistic sensitivity tests will be produced by modifications on the base case values of several key variables, in relevance to costs and probabilities, to evaluate the robustness of the study economic outcome. Base case values will be substituted by the highest and lowest values within a reasonable range of values. Where a substitution changes the study economic conclusion, more values within the range will replace the base case value. This will be repeated until the exact variable value that changes the study outcome is identified. Reporting this as part of the study results not only indicates the robustness of results, but also boosts the generalizability of them when being interpreted by decision makers in other settings, with different model inputs, e.g., different resource prices.</p>
+                <p>Uncertainty analysis, by means of Monte Carlo simulation, will be performed via the @Risk-5.0&#174; analysis tool (Palisade Corp., NY, USA) to investigate the likelihood (probability) of a therapy&#8217;s economic advantage. Monte Carlo is a method whereby simulated input values, chosen randomly across a range of probability distributions of a model input, are added into the model. The model is run for each simulated input, resulting in a range of outputs characterizing the output uncertainty. Based on this, a distribution of &#8220;cost savings&#8221; will be generated, indicating the probability of one management option to have an economic advantage over another.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Ethical considerations and confidentiality</p>
+             </st>
+             <p>The study protocol and all associated measures, consent forms and recruitment procedures obtained ethical approval by Qatar University (QU) and Hamad Medical Corp. (HMC) institutional review boards (QU-IRB 76/11 and HMC 11113/11). All the participants&#8217; folders are stored in a password-protected database on the site laptop. Only the study pharmacist can access these folders. In addition, all data are retained in a password-protected database maintained along with all related study documentation in a locked cabinet at QU College of Pharmacy.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Outcome measures</p>
+             </st>
+             <p>The study research assistants will call the study participants in the intervention and control groups to complete the assessment. To avoid any bias in data collection, the research assistants will be blinded to the participant group allocation.</p>
+             <p>They will measure the following outcome variables at 3, 6 and 12 months after the start of the study (i.e., the time of the participant&#8217;s enrollment in the study):</p><p> Self-reported 7-day point prevalence abstinence, defined as having smoked no cigarettes for the previous 7 days at 3, 6 and 12 months</p>
+                <p> Self-reported 30-day point prevalence abstinence defined as having smoked no cigarettes in the last 30 days at 3, 6 and 12 months</p>
+                <p> Self-reported continuous abstinence defined as having smoked no cigarettes since quit day at 3, 6 and 12 months</p>
+                <p> Smoking abstinence as objectively verified by the CO exhaled test at 12 months</p>
+                <p> Mean change in health-related quality-of-life score from baseline at 3, 6 and 12 months for quitters vs. non-quitters</p>
+                <p> Overall costs of interventions as studied, including those of utilization for individual recourses consumed</p>
+                <p> Average and incremental cost-effectiveness ratio of the study smoking cessation intervention</p>
+             <p>To objectively determine long-term abstinence, at 12 months, participants who will self-report not smoking for the previous 7 days will be invited to come to their study clinic to measure their exhaled CO level. The clinic nurse who is responsible for measuring the exhaled CO level will be blinded to the study participant group. Participants will be considered abstinent if they register less than 6 ppm on the test. Interpretation of the CO test results will be made carefully taking into consideration time since last smoke, time of the day the test is done and other factors.</p>
+             <p>Exhaled carbon monoxide is a well-known indicator of cigarette smoking. But because of its short half-life (5-6 h), it only indicates very recent smoking exposure or abstinence. On the other hand, as a result of its relatively long half-life, cotinine can detect nicotine exposure for up to 1 week. However, the use of any NRT formulation can trigger a false-positive urinary cotinine test. Therefore, as it is not expensive and is noninvasive, and it gives the results in a timely manner, the exhaled carbon monoxide test is commonly used in most smoking cessation clinical trials <abbrgrp>
+                   <abbr bid="B47">47</abbr>
+                </abbrgrp>.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Data analysis</p>
+             </st>
+             <p>The CONSORT guidelines will be followed when analyzing the study data. Demographics and other variables related to smoking and quality of life will be summarized using frequency distributions (for categorical variables) and means with standard deviations (for numeric variables) and will be compared between the two study arms using the chi-squared test (or alternatively the Fisher&#8217;s exact test for small cell counts) for categorical variables and the independent <it>t</it>-test (or alternatively the Wilcoxon rank sum test for non-normally distributed variables) for numerical variables.</p>
+             <p>The main outcome will be continuous abstinence at 12 months as self-reported and verified by the CO test. The percentages of participants achieving the main outcome will be computed and compared between the two groups using the chi-squared test. Moreover, the difference in the proportions of continuous abstinence at 12 months between the two study arms (with 95% confidence intervals) will be computed along with the number needed to treat. Multiple logistic regression will be used to obtain the odds ratio of the main outcome between the two study arms adjusting for any imbalances in demographics or other baseline smoking-related variables. Moreover, mixed effects logistic regression, with pharmacy-level random effect, will be considered to adjust for the possible pharmacy effect if it existed. The intent-to-treat principal will be used in the analysis whereby participants who will be lost to follow-up will be classified as smokers and included in the main analysis. This includes those who were removed from the study because they could not tolerate NRT side effects. A sensitivity analysis following that of Borelli, Hogan et al. will be done where the outcome has three possible categories: abstinence, no abstinence and dropout <abbrgrp>
+                   <abbr bid="B48">48</abbr>
+                </abbrgrp>. The suggested multinomial model will allow assessing factors affecting abstinence as well as factors affecting dropout. This will aid in understanding who might need more support during the intervention. Similar analyses for the primary outcome will be done at 3 and 6 months (but do not include verification of abstinence using CO tests).</p>
+             <p>To assess the participants&#8217; health-related quality of life, SCQOL (smoking cessation quality of life) ratings for each question will be translated into scores. A total health-related quality of life score and a domain-specific score will be calculated at baseline, 3 months, 6 months and 12 months for each participant in the intervention and control groups. The change in the total and domain-specific quality-of-life score from baseline will be calculated for each participant at 3, 6 and 12 months and analyzed using linear mixed models, which will include the quitting (quitters and non-quitters) factor and time factor (at 3, 6 and 12 months) and their interaction.</p>
+             <p>There is no interim analysis planned for this trial. Statistical analyses will be conducted using the Statistical Package of Social Sciences (IBM-SPSS&#174;), version 21. In all analyses, the level of significance will be set at 5%.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Sample size calculation</p>
+             </st>
+             <p>For a priori sample size calculation, we assumed a 7-day point prevalence abstinence at 12 months of 3% for the control group and 15% for the intervention group based on the results of one of the previous studies that assessed the effect of a pharmacist-run smoking cessation program <abbrgrp>
+                   <abbr bid="B12">12</abbr>
+                </abbrgrp>. With a two-sided alpha of 5% and 90% power, a minimum sample size of 118 participants was estimated for each group. This sample size was not adjusted for the potential correlation between outcomes of patients within each clinic since this is not a clustered randomized clinical trial, but in this study patients within each clinic are randomized to the two intervention groups, and correlations, if they exist, will be very small; their effect on the power of the study is negligible <abbrgrp>
+                   <abbr bid="B15">15</abbr>
+                </abbrgrp>. The project has a total of 17 study pharmacists. Each study site is expected to enroll at least 30 participants (15 participants in the intervention group and 15 participants in the control group). The recruitment period is over 12 months (48 weeks). Recruiting at least 30 participants at each study site is considered feasible given that at least 100 patients visit each pharmacy per day. Assuming each study site will recruit 1 participant every week, the 30 needed participants will be recruited in 30 weeks (approximately 8 months). An extra 16 weeks of recruitment time is given to study pharmacists to account for workload, holidays and sickness.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Discussion</p>
+          </st>
+          <p>This study is the first randomized controlled trial conducted within Qatar and the Middle East (ME) to test the effect of a pharmacist-delivered smoking cessation program on smoking cessation rates. Furthermore, it is the first study in Qatar to assess the change in health-related quality of life after quitting smoking.</p>
+          <p>Having the economic analysis component in this study is also of unique significance. To our knowledge, there are no economic studies that have evaluated the economics of a smoking cessation program in Qatar or the region. This component is important as in settings where resources are scarce, proving that an intervention brings a good return to the investment can be as important as proving the intervention effective.</p>
+          <p>Indeed, in consideration of limited resources and tight departmental budgets, the additional spending associated with any of the study options should be examined. This will be performed through determining the management option that yields benefits that are associated with most health costs savings. For example, the structured program in this study is expected to have a favorable comparative effect profile. But if the value that is associated with these advantages is not high enough, having the structured program in settings may not be the priority practice to implement. Here, the current study provides a great opportunity for such analysis, seeing that randomized controlled trials are the ideal source of data (i.e., highest level evidence) to be used in the construction of economic analyses.</p>
+          <p>This study will be of significance to Qatar, the ME and to some extent the world. It will advance knowledge about the role that the ambulatory pharmacists in Qatar and possibly in the ME can play in smoking cessation. It will show to what extent these pharmacists would be effective in helping smokers quit smoking. This would be important for Qatar and the ME given the high number of cigarette smokers in these countries <abbrgrp>
+                <abbr bid="B49">49</abbr>
+             </abbrgrp>. This study will also help in comparing the effect of pharmacist-delivered smoking cessation programs in Qatar with the effect of pharmacist-delivered smoking cessation programs in other countries. Many previous studies conducted in Australia, Europe and the USA have demonstrated the effectiveness of pharmacist-run smoking cessation programs <abbrgrp>
+                <abbr bid="B12">12</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B20">20</abbr>
+             </abbrgrp>. Extrapolating the results of these studies to Qatar and the ME is not readily applicable. The pharmacy practice environment in these countries differs from that in Qatar. The pace of improvement in ambulatory pharmacy practice in Qatar, as other ME countries, is slow. Except for a few cognitive and patient-oriented activities, ambulatory pharmacists&#8217; job is limited to prescription processing and medication dispensing <abbrgrp>
+                <abbr bid="B50">50</abbr>
+             </abbrgrp>. Nevertheless, Qatar&#8217;s pharmacists are increasingly interested in defining a well-recognized vocation for themselves in today&#8217;s healthcare system and in moving their focus from pharmaceutical products to patients. This study will be of potential significance to ambulatory pharmacists in Qatar. It will put them in a broader perspective than the product-dispensing context. It will promote their role as public health educators and accessible sources of health information. Ambulatory pharmacists are an essential part of the healthcare system in Qatar and are an existing workforce that needs to be given the opportunity to contribute to patient care. By direct involvement of these pharmacists in smoking cessation, this study will help in improving their professional role and in shifting it to a more patient-centered focus and will assist them in having better integration into the healthcare team in Qatar.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Trial status</p>
+          </st>
+          <p>Patient recruitment is currently ongoing.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Abbreviations</p>
+          </st>
+          <p>WHO: World Health Organization</p>
+          <p>QoL: Quality of life</p>
+          <p>FIP: International Pharmaceutical Federation</p>
+          <p>ASHP: American Society of Health-System Pharmacists</p>
+          <p>UREP: Undergraduate Research Experience Program</p>
+          <p>HMC: Hamad Medical Corporation (HMC)</p>
+          <p>QU: Qatar University</p>
+          <p>CPP: Clinical Pharmacy and Practice</p>
+          <p>CPPD: Continuing professional pharmacy development</p>
+          <p>NRT: Nicotine replacement therapy</p>
+          <p>CO: Carbon monoxide</p>
+          <p>FTND: Fagerstrom test for nicotine dependence</p>
+          <p>SCQOL: Smoking cessation quality of life</p>
+          <p>SPSS: Statistical Package of Social Sciences</p>
+          <p>ME: Middle East</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Competing interests</p>
+          </st>
+          <p>The authors declare that they have no competing interests.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Authors&#8217; contributions</p>
+          </st>
+          <p>MH is the lead principal investigator on the project, leading its design and execution. She wrote the project proposal and manuscript. NK is responsible for the quality-of-life outcome of the study. DB is responsible for the pharmacoeconomic aspect of the study. AM is responsible for looking over the administrative issues in HMC, participates in the training of pharmacists and assists in following up the progress of the study. AK assists in preparing for the study pharmacists&#8217; training, setting up the study sites, coordinating between members of the study team, and assessing the study outcomes in participants. NF is responsible for maintaining the quality checkup of data collection and participants&#8217; recruitment done by the centers. She ensures the availability of the study materials and medications in all centers throughout the data collection period. ZM and MS will help in analyzing the study data. All authors read and approved the final manuscript.</p>
+       </sec>
+    </bdy>
+    <bm>
+       <ack>
+          <sec>
+             <st>
+                <p>Acknowledgments</p>
+             </st>
+             <p>This publication was made possible by a grant from the Qatar National Research Fund under its National Priorities Research Program (NPRP). Its contents are solely the responsibility of the authors and do not necessarily represent the official views of the Qatar National Research Fund.</p>
+             <p>We would like to thank Qatar Primary Health Care (PHC) and Qatar Petroleum (QP) administration and pharmacists for their support and participation in the project.</p>
+          </sec>
+       </ack>
+       <refgrp>
+          
+          <bibl id="B1">
+             <note>Lande G. Nicotine addiction. [<url>http://emedicine.medscape.com/article/287555-overview</url>]</note>
+          </bibl>
+          <bibl id="B2">
+             <note>The World Health Organization. The top 10 causes of death Fact sheet [<url>http://www.who.int/mediacentre/factsheets/fs310/en/index2.html</url>]</note>
+          </bibl>
+          <bibl id="B3">
+             <note>The World Health Organization: Tobacco [<url>http://www.who.int/mediacentre/factsheets/fs339/en/index.html</url>]</note>
+          </bibl>
+          <bibl id="B4">
+             <note>The World Health Organization. WHO Report on the Global Tobacco Epidemic, 2008 The MPOWER package [<url>http://whqlibdoc.who.int/publications/2008/9789241596282_eng.pdf</url>]</note>
+          </bibl>
+          <bibl id="B5">
+             <note>Center for Disease Control and Prevention: Smoking and Tobacco Use Cessation and Interventions [<url>http://www.cdc.gov/tobacco/data_statistics/fact_sheets/cessation/quitting/index.htm</url>]</note>
+          </bibl>
+          <bibl id="B6">
+             <title>
+                <p>Outcomes from an outpatient smoking cessation clinic</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Roth</snm>
+                   <fnm>MT</fnm>
+                </au>
+                <au>
+                   <snm>Andrus</snm>
+                   <fnm>MR</fnm>
+                </au>
+                <au>
+                   <snm>Westman</snm>
+                   <fnm>EC</fnm>
+                </au>
+             </aug>
+             <source>Pharmacotherapy</source>
+             <pubdate>2005</pubdate>
+             <volume>25</volume>
+             <issue>2</issue>
+             <fpage>279</fpage>
+             <lpage>88</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1592/phco.25.2.279.56957</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15767242</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B7">
+             <note>The World Health Organization: Tobacco Free Initiative [<url>http://www.who.int/tobacco/research/economics/cessation/en/index.html</url>]</note>
+          </bibl>
+          <bibl id="B8">
+             <note>Canadian Pharmacists Association. Joint Statement on Smoking Cessation- Tobacco the Role of Health Professionals in Smoking Cessation [<url>http://www.pharmacists.ca/cpha-ca/assets/File/cpha-on-the-issues/PPSmokingCessation.pdf</url>]</note>
+          </bibl>
+          <bibl id="B9">
+             <title>
+                <p>Tobacco cessation counseling: pharmacists&#8217; opinions and practices</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hudmon</snm>
+                   <fnm>KS</fnm>
+                </au>
+                <au>
+                   <snm>Prokhorov</snm>
+                   <fnm>AV</fnm>
+                </au>
+                <au>
+                   <snm>Corelli</snm>
+                   <fnm>RS</fnm>
+                </au>
+             </aug>
+             <source>Patient Educ Couns</source>
+             <pubdate>2006</pubdate>
+             <volume>61</volume>
+             <fpage>152</fpage>
+             <lpage>60</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.pec.2005.03.009</pubid>
+                   <pubid idtype="pmpid" link="fulltext">16533683</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B10">
+             <title>
+                <p>Smoking-cessation services in Iowa community pharmacies</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Aquilino</snm>
+                   <fnm>ML</fnm>
+                </au>
+                <au>
+                   <snm>Farris</snm>
+                   <fnm>KB</fnm>
+                </au>
+                <au>
+                   <snm>Zillich</snm>
+                   <fnm>AJ</fnm>
+                </au>
+                <au>
+                   <snm>Lowe</snm>
+                   <fnm>JB</fnm>
+                </au>
+             </aug>
+             <source>Pharmacotherapy</source>
+             <pubdate>2003</pubdate>
+             <volume>23</volume>
+             <issue>5</issue>
+             <fpage>666</fpage>
+             <lpage>73</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1592/phco.23.5.666.32192</pubid>
+                   <pubid idtype="pmpid" link="fulltext">12741442</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B11">
+             <note>Sinclair HK, Bond CM, Stead LF. Community pharmacy personnel interventions for smoking cessation. Cochrane Database Syst Rev. 2004, Issue 1. Art. No.: CD003698. doi: 10.1002/14651858.CD003698.pub2.</note>
+          </bibl>
+          <bibl id="B12">
+             <title>
+                <p>A randomized controlled trial of a smoking cessation intervention based in community pharmacies</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Maguire</snm>
+                   <fnm>TA</fnm>
+                </au>
+                <au>
+                   <snm>McElnay</snm>
+                   <fnm>JC</fnm>
+                </au>
+                <au>
+                   <snm>Drummond</snm>
+                   <fnm>A</fnm>
+                </au>
+             </aug>
+             <source>Addiction</source>
+             <pubdate>2001</pubdate>
+             <volume>96</volume>
+             <issue>2</issue>
+             <fpage>325</fpage>
+             <lpage>331</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1046/j.1360-0443.2001.96232516.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">11182878</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B13">
+             <title>
+                <p>Smoking cessation program using nicotine patches: linking hospital to the community</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Vial</snm>
+                   <fnm>RJ</fnm>
+                </au>
+                <au>
+                   <snm>Jones</snm>
+                   <fnm>TE</fnm>
+                </au>
+                <au>
+                   <snm>Ruffin</snm>
+                   <fnm>RE</fnm>
+                </au>
+                <au>
+                   <snm>Gilbert</snm>
+                   <fnm>AL</fnm>
+                </au>
+             </aug>
+             <source>J Pharm Pract Res</source>
+             <pubdate>2002</pubdate>
+             <volume>32</volume>
+             <fpage>57</fpage>
+             <lpage>62</lpage>
+          </bibl>
+          <bibl id="B14">
+             <title>
+                <p>A community pharmacy based smoking cessation program using transdermal nicotine replacement therapy: actions and outcomes</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Carroll</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Rois</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Sarson</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Flynn</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>Aust Pharmacist</source>
+             <pubdate>2000</pubdate>
+             <volume>19</volume>
+             <fpage>51</fpage>
+             <lpage>5</lpage>
+          </bibl>
+          <bibl id="B15">
+             <title>
+                <p>Training pharmacists and pharmacy assistants in the stage-of-change model of smoking cessation: a randomized controlled trial in Scotland</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Sinclair</snm>
+                   <fnm>HK</fnm>
+                </au>
+                <au>
+                   <snm>Bond</snm>
+                   <fnm>CM</fnm>
+                </au>
+                <au>
+                   <snm>Lennox</snm>
+                   <fnm>AS</fnm>
+                </au>
+                <au>
+                   <snm>Silcock</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Winfield</snm>
+                   <fnm>AJ</fnm>
+                </au>
+                <au>
+                   <snm>Donnan</snm>
+                   <fnm>PT</fnm>
+                </au>
+             </aug>
+             <source>Tob Control</source>
+             <pubdate>1998</pubdate>
+             <volume>7</volume>
+             <fpage>253</fpage>
+             <lpage>61</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/tc.7.3.253</pubid>
+                   <pubid idtype="pmpid" link="fulltext">9825420</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B16">
+             <title>
+                <p>Effectiveness of a pharmacist-based smoking-cessation program and its impact on quality of life</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Zillich</snm>
+                   <fnm>AJ</fnm>
+                </au>
+                <au>
+                   <snm>Ryan</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Adams</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Yeager</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Farris</snm>
+                   <fnm>K</fnm>
+                </au>
+             </aug>
+             <source>Pharmacotherapy</source>
+             <pubdate>2002</pubdate>
+             <volume>22</volume>
+             <fpage>759</fpage>
+             <lpage>65</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1592/phco.22.9.759.34073</pubid>
+                   <pubid idtype="pmpid" link="fulltext">12066966</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B17">
+             <title>
+                <p>Randomized trial assessing the effectiveness of a pharmacist-delivered program for smoking cessation</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Dent</snm>
+                   <fnm>LA</fnm>
+                </au>
+                <au>
+                   <snm>Harris</snm>
+                   <fnm>KJ</fnm>
+                </au>
+                <au>
+                   <snm>Noonan</snm>
+                   <fnm>CW</fnm>
+                </au>
+             </aug>
+             <source>Ann Pharmacother</source>
+             <pubdate>2009</pubdate>
+             <volume>43</volume>
+             <issue>2</issue>
+             <fpage>194</fpage>
+             <lpage>201</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">19193572</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B18">
+             <title>
+                <p>Pharmacist counseling and outcomes of smoking cessation</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Smith</snm>
+                   <fnm>MD</fnm>
+                </au>
+                <au>
+                   <snm>McGhan</snm>
+                   <fnm>WF</fnm>
+                </au>
+                <au>
+                   <snm>Lauger</snm>
+                   <fnm>G</fnm>
+                </au>
+             </aug>
+             <source>Am Pharm</source>
+             <pubdate>1995</pubdate>
+             <volume>NS35</volume>
+             <issue>8</issue>
+             <fpage>20</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">7677052</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B19">
+             <title>
+                <p>Results of a smoking cessation clinic in community pharmacy practice</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kennedy</snm>
+                   <fnm>DT</fnm>
+                </au>
+                <au>
+                   <snm>Giles</snm>
+                   <fnm>JT</fnm>
+                </au>
+                <au>
+                   <snm>Chang</snm>
+                   <fnm>ZG</fnm>
+                </au>
+                <au>
+                   <snm>Small</snm>
+                   <fnm>RE</fnm>
+                </au>
+                <au>
+                   <snm>Edwards</snm>
+                   <fnm>JH</fnm>
+                </au>
+             </aug>
+             <source>J Am Pharm Assoc (Wash)</source>
+             <pubdate>2002</pubdate>
+             <volume>42</volume>
+             <fpage>51</fpage>
+             <lpage>6</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1331/108658002763538071</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B20">
+             <title>
+                <p>Pharmacist-managed tobacco cessation program in Veterans Health Administration community-based outpatient clinic</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Dent</snm>
+                   <fnm>LA</fnm>
+                </au>
+                <au>
+                   <snm>Scott</snm>
+                   <fnm>JG</fnm>
+                </au>
+                <au>
+                   <snm>Lewis</snm>
+                   <fnm>E</fnm>
+                </au>
+             </aug>
+             <source>J Am Pharm Assoc (Wash DC)</source>
+             <pubdate>2004</pubdate>
+             <volume>44</volume>
+             <fpage>700</fpage>
+             <lpage>15</lpage>
+          </bibl>
+          <bibl id="B21">
+             <title>
+                <p>Costs and effects associated with a community pharmacy-based smoking-cessation programme</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Crealey</snm>
+                   <fnm>GE</fnm>
+                </au>
+                <au>
+                   <snm>McElnay</snm>
+                   <fnm>JC</fnm>
+                </au>
+                <au>
+                   <snm>Maguire</snm>
+                   <fnm>TA</fnm>
+                </au>
+                <au>
+                   <snm>O&#8217;Neill</snm>
+                   <fnm>C</fnm>
+                </au>
+             </aug>
+             <source>Pharmacoeconomics</source>
+             <pubdate>1998</pubdate>
+             <volume>14</volume>
+             <issue>3</issue>
+             <fpage>323</fpage>
+             <lpage>333</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.2165/00019053-199814030-00008</pubid>
+                   <pubid idtype="pmpid" link="fulltext">10186470</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B22">
+             <title>
+                <p>Pharmacoeconomic analysis of smoking cessation interventions</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>McGhan</snm>
+                   <fnm>WF</fnm>
+                </au>
+                <au>
+                   <snm>Smith</snm>
+                   <fnm>MD</fnm>
+                </au>
+             </aug>
+             <source>Am J Health Syst Pharm</source>
+             <pubdate>1996</pubdate>
+             <volume>53</volume>
+             <issue>1</issue>
+             <fpage>45</fpage>
+             <lpage>52</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">8719289</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B23">
+             <title>
+                <p>The cost-effectiveness of intensive pharmaceutical intervention in assisting people to stop smoking</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Sinclair</snm>
+                   <fnm>HK</fnm>
+                </au>
+                <au>
+                   <snm>Silcock</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Bond</snm>
+                   <fnm>CM</fnm>
+                </au>
+                <au>
+                   <snm>Lennox</snm>
+                   <fnm>AS</fnm>
+                </au>
+                <au>
+                   <snm>Winfield</snm>
+                   <fnm>AJ</fnm>
+                </au>
+             </aug>
+             <source>Int J Pharm Pract</source>
+             <pubdate>1999</pubdate>
+             <volume>7</volume>
+             <fpage>107</fpage>
+             <lpage>12</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.2042-7174.1999.tb00957.x</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B24">
+             <title>
+                <p>Modeling the cost-effectiveness of a smoking cessation program in a community pharmacy practice</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Tran</snm>
+                   <fnm>MT</fnm>
+                </au>
+                <au>
+                   <snm>Holdford</snm>
+                   <fnm>DA</fnm>
+                </au>
+                <au>
+                   <snm>Kennedy</snm>
+                   <fnm>DT</fnm>
+                </au>
+                <au>
+                   <snm>Small</snm>
+                   <fnm>RE</fnm>
+                </au>
+             </aug>
+             <source>Pharmacotherapy</source>
+             <pubdate>2002</pubdate>
+             <volume>22</volume>
+             <issue>2</issue>
+             <fpage>1623</fpage>
+             <lpage>31</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1592/phco.22.17.1623.34118</pubid>
+                   <pubid idtype="pmpid" link="fulltext">12495172</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B25">
+             <note>FIP Statement of Policy: the Role of the Pharmacist in Promoting a Tobacco Free Future. [<url>https://www.fip.org/files/fip/news/tobacco-final2.pdf</url>]</note>
+          </bibl>
+          <bibl id="B26">
+             <note>European Forum Pharmacists&#8217; Charter on Action against Smoking [<url>http://www.europharmforum.org/file/13612</url>]</note>
+          </bibl>
+          <bibl id="B27">
+             <note>2008 PHS Guideline Update Panel, Liaisons, and Staff. Treating tobacco use and dependence: 2008 update U.S. Public Health Service Clinical Practice Guideline executive summary. Respir Care. 2008;53(9):1217&#8211;22.</note>
+          </bibl>
+          <bibl id="B28">
+             <title>
+                <p>ASHP therapeutic position statement on the cessation of tobacco Use</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hudmon</snm>
+                   <fnm>KS</fnm>
+                </au>
+                <au>
+                   <snm>Corelli</snm>
+                   <fnm>RL</fnm>
+                </au>
+             </aug>
+             <source>Am J Health Syst Pharm</source>
+             <pubdate>2009</pubdate>
+             <volume>66</volume>
+             <fpage>291</fpage>
+             <lpage>307</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.2146/ajhp070303</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B29">
+             <title>
+                <p>Tobacco control in Qatar</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Al-Kuwari</snm>
+                   <fnm>MG</fnm>
+                </au>
+             </aug>
+             <source>Middle East J Fam Med</source>
+             <pubdate>2008</pubdate>
+             <volume>6</volume>
+             <issue>6</issue>
+             <fpage>11</fpage>
+             <lpage>3</lpage>
+          </bibl>
+          <bibl id="B30">
+             <title>
+                <p>Cigarette smoking habits among Qatari population</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Al-Mulla</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Bener</snm>
+                   <fnm>A</fnm>
+                </au>
+             </aug>
+             <source>Public Health Med</source>
+             <pubdate>2003</pubdate>
+             <volume>4</volume>
+             <issue>3</issue>
+             <fpage>41</fpage>
+             <lpage>4</lpage>
+          </bibl>
+          <bibl id="B31">
+             <note>Global Youth Tobacco Surveillance, 2000-2007 [<url>http://www.cdc.gov/mmwr/preview/mmwrhtml/ss5701a1.htm</url>]</note>
+          </bibl>
+          <bibl id="B32">
+             <title>
+                <p>Measuring burden of diseases in a rapidly developing economy: state of Qatar</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bener</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Zirie</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Kim</snm>
+                   <fnm>EJ</fnm>
+                </au>
+                <au>
+                   <snm>Buz</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Zaza</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Nufal</snm>
+                   <fnm/>
+                </au>
+                <etal/>
+             </aug>
+             <source>Glob J Health Sci</source>
+             <pubdate>2013</pubdate>
+             <volume>5</volume>
+             <issue>2</issue>
+             <fpage>134</fpage>
+             <lpage>44</lpage>
+          </bibl>
+          <bibl id="B33">
+             <title>
+                <p>Clinical and epidemiological characteristics of lung cancer cases in Qatar</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Ibrahim</snm>
+                   <fnm>WH</fnm>
+                </au>
+                <au>
+                   <snm>Rasul</snm>
+                   <fnm>KI</fnm>
+                </au>
+                <au>
+                   <snm>Khinji</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Ahmed</snm>
+                   <fnm>MS</fnm>
+                </au>
+                <au>
+                   <snm>Bener</snm>
+                   <fnm>A</fnm>
+                </au>
+             </aug>
+             <source>East Mediterr Health J</source>
+             <pubdate>2010</pubdate>
+             <volume>16</volume>
+             <issue>2</issue>
+             <fpage>166</fpage>
+             <lpage>70</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">20799569</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B34">
+             <note>Smoking&#8212;Addressing a National Epidemic [<url>https://qatar-weill.cornell.edu/media/intoHealth/SmokingEpidemic.html</url>]</note>
+          </bibl>
+          <bibl id="B35">
+             <title>
+                <p>Smoking cessation counseling in Qatar: community Pharmacists&#8217; attitudes, role perceptions, and practices</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>El Hajj</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Al-Nakeeb</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Al-Qudah</snm>
+                   <fnm>R</fnm>
+                </au>
+             </aug>
+             <source>Int J Clin Pharm</source>
+             <pubdate>2012</pubdate>
+             <volume>34</volume>
+             <issue>4</issue>
+             <fpage>667</fpage>
+             <lpage>76</lpage>
+             <note> doi: 
+                      
+                      10.1007/s11096-012-9663-x
+                      
+                      </note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1007/s11096-012-9663-x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22733168</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B36">
+             <note>Smoking cessation clinic [<url>http://stopsmoking.hamad.qa/ar/clinic/clinic.aspx</url>]</note>
+          </bibl>
+          <bibl id="B37">
+             <note>Sackey JA. Smoking cessation counseling strategies in primary care. [<url>http://www.uptodate.com/contents/smoking-cessation-counseling-strategies-in-primary-care?source=search_result&amp;search=Smoking+cessation+counseling+strategies+in+primary+care&amp;selectedTitle=1~150</url>]</note>
+          </bibl>
+          <bibl id="B38">
+             <title>
+                <p>Development and implementation of a smoking cessation clinic in community pharmacy practice</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kennedy</snm>
+                   <fnm>DT</fnm>
+                </au>
+                <au>
+                   <snm>Small</snm>
+                   <fnm>RE</fnm>
+                </au>
+             </aug>
+             <source>J Am Pharm Assoc</source>
+             <pubdate>2002</pubdate>
+             <volume>42</volume>
+             <issue>1</issue>
+             <fpage>83</fpage>
+             <lpage>92</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1331/108658002763538116</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B39">
+             <title>
+                <p>The Fagerstr&#246;m test for nicotine dependence: a revision of the Fagerstr&#246;m tolerance questionnaire</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Heatherton</snm>
+                   <fnm>TF</fnm>
+                </au>
+                <au>
+                   <snm>Kozlowski</snm>
+                   <fnm>LT</fnm>
+                </au>
+                <au>
+                   <snm>Frecker</snm>
+                   <fnm>RC</fnm>
+                </au>
+                <au>
+                   <snm>Fagerstr&#246;m</snm>
+                   <fnm>KO</fnm>
+                </au>
+             </aug>
+             <source>Br J Addict</source>
+             <pubdate>1991</pubdate>
+             <volume>86</volume>
+             <issue>9</issue>
+             <fpage>1119</fpage>
+             <lpage>27</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1360-0443.1991.tb01879.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">1932883</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B40">
+             <title>
+                <p>Pattern and prevalence of smoking among students at King Faisal University, Al Hassa, Saudi Arabia</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Al Mohamed</snm>
+                   <fnm>HI</fnm>
+                </au>
+                <au>
+                   <snm>Amin</snm>
+                   <fnm>TT</fnm>
+                </au>
+             </aug>
+             <source>EMHJ</source>
+             <pubdate>2010</pubdate>
+             <volume>16</volume>
+             <issue>1</issue>
+             <fpage>56</fpage>
+             <lpage>64</lpage>
+          </bibl>
+          <bibl id="B41">
+             <title>
+                <p>Outcomes and adherence in Syria&#8217;s first smoking cessation trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Asfar</snm>
+                   <fnm>MD</fnm>
+                </au>
+                <au>
+                   <snm>Vander</snm>
+                   <fnm>MW</fnm>
+                </au>
+                <au>
+                   <snm>Maziak</snm>
+                   <fnm>W</fnm>
+                </au>
+                <au>
+                   <snm>Hammal</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Eissenberg</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Ward</snm>
+                   <fnm>KD</fnm>
+                </au>
+             </aug>
+             <source>Am J Health Behav</source>
+             <pubdate>2008</pubdate>
+             <volume>32</volume>
+             <issue>2</issue>
+             <fpage>146</fpage>
+             <lpage>56</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.5993/AJHB.32.2.4</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18052855</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B42">
+             <title>
+                <p>Development of the smoking cessation quality of life questionnaire</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Olufade</snm>
+                   <fnm>AO</fnm>
+                </au>
+                <au>
+                   <snm>Shaw</snm>
+                   <fnm>JW</fnm>
+                </au>
+                <au>
+                   <snm>Foster</snm>
+                   <fnm>SA</fnm>
+                </au>
+                <au>
+                   <snm>Leischow</snm>
+                   <fnm>SJ</fnm>
+                </au>
+                <au>
+                   <snm>Hays</snm>
+                   <fnm>RD</fnm>
+                </au>
+                <au>
+                   <snm>Coons</snm>
+                   <fnm>SJ</fnm>
+                </au>
+             </aug>
+             <source>Clin Ther</source>
+             <pubdate>1999</pubdate>
+             <volume>21</volume>
+             <issue>12</issue>
+             <fpage>2113</fpage>
+             <lpage>30</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0149-2918(00)87242-2</pubid>
+                   <pubid idtype="pmpid" link="fulltext">10645757</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B43">
+             <note>Smoking Cessation Quality of Life (SCQoL) Questionnaire [<url>http://qol.thoracic.org/sections/instruments/pt/pages/scqol.html</url>]</note>
+          </bibl>
+          <bibl id="B44">
+             <title>
+                <p>Pharmacy applications of the transtheoretical model in smoking cessation</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hudmon</snm>
+                   <fnm>KS</fnm>
+                </au>
+                <au>
+                   <snm>Berger</snm>
+                   <fnm>BA</fnm>
+                </au>
+             </aug>
+             <source>Am J Health Syst Pharm</source>
+             <pubdate>1995</pubdate>
+             <volume>52</volume>
+             <fpage>282</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">7749955</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B45">
+             <note>DRUGDEX&#174; Evaluations: Nicotine [<url>http://www.micromedexsolutions.com/home/dispatch</url>]</note>
+          </bibl>
+          <bibl id="B46">
+             <note>DRUGDEX&#174; Evaluations: Nicotine polacrilex [<url>http://www.micromedexsolutions.com/home/dispatch</url>]</note>
+          </bibl>
+          <bibl id="B47">
+             <title>
+                <p>Comparison of expired carbon monoxide and plasma cotinine as markers of cigarette abstinence</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Jatlow</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Toll</snm>
+                   <fnm>BA</fnm>
+                </au>
+                <au>
+                   <snm>Leary</snm>
+                   <fnm>V</fnm>
+                </au>
+                <au>
+                   <snm>Krishnan-Sarin</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>O&#8217;Malley</snm>
+                   <fnm>SS</fnm>
+                </au>
+             </aug>
+             <source>Drug Alcohol Depend</source>
+             <pubdate>2008</pubdate>
+             <volume>98</volume>
+             <issue>3</issue>
+             <fpage>203</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.drugalcdep.2008.05.013</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18650033</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B48">
+             <title>
+                <p>Predictors of quitting and dropout among women in a clinic-based smoking cessation program</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Borelli</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Hogan</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Bock</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Pinto</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Roberts</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Marcus</snm>
+                   <fnm>B</fnm>
+                </au>
+             </aug>
+             <source>Psychol Addict Behav</source>
+             <pubdate>2002</pubdate>
+             <volume>16</volume>
+             <issue>1</issue>
+             <fpage>22</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1037/0893-164X.16.1.22</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B49">
+             <note>Though the smoke: Tobacco use in the Middle East [<url>http://www.ispu.org/Getpolicy/34/1846/Publications.aspx</url>]</note>
+          </bibl>
+          <bibl id="B50">
+             <title>
+                <p>Pharmacy education and practice in 13 Middle Eastern countries</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kheir</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Zaidan</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Younes</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>El Hajj</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Wilbur</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Jewesson</snm>
+                   <fnm>PJ</fnm>
+                </au>
+             </aug>
+             <source>Am J Pharm Educ</source>
+             <pubdate>2008</pubdate>
+             <volume>72</volume>
+             <issue>6</issue>
+             <fpage>1</fpage>
+             <lpage>13</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.5688/aj7206133</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+       </refgrp>
+    </bm>
+ </art>

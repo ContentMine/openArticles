@@ -1,0 +1,99 @@
+{
+  "publisher": {
+    "value": [
+      "BioMed Central Ltd"
+    ]
+  },
+  "journal": {
+    "value": [
+      "Trials"
+    ]
+  },
+  "title": {
+    "value": [
+      "Can oral corticosteroids reduce the severity or duration of an acute cough, and the associated National Health Service and societal costs, in adults presenting to primary care? Study protocol for a randomised controlled trial"
+    ]
+  },
+  "authors": {
+    "value": [
+      "Harriet E Downing",
+      "Fran Carroll",
+      "Sara T Brookes",
+      "Sandra Hollinghurst",
+      "David Timmins",
+      "Elizabeth Orton",
+      "Kay Wang",
+      "Denise Kendrick",
+      "Paul Little",
+      "Mike V Moore",
+      "Anthony Harnden",
+      "Matthew Thompson",
+      "Margaret T May",
+      "Alastair D Hay",
+      "$author.firstName $author.lastName"
+    ]
+  },
+  "date": {
+    "value": [
+      "2015-03-07"
+    ]
+  },
+  "doi": {
+    "value": [
+      "10.1186/s13063-015-0569-5"
+    ]
+  },
+  "volume": {
+    "value": [
+      "16"
+    ]
+  },
+  "issue": {
+    "value": [
+      "1"
+    ]
+  },
+  "firstpage": {
+    "value": [
+      "78"
+    ]
+  },
+  "description": {
+    "value": [
+      "Acute lower respiratory tract infection (LRTI) is one of the most common conditions managed internationally and is costly to health services and patients. Despite good evidence that antibiotics are not effective for improving the symptoms of uncomplicated LRTI, they are widely prescribed, contributing to antimicrobial resistance. Many of the symptoms observed in LRTI are mediated by inflammatory processes also observed in exacerbations of asthma, for which there is strong evidence of corticosteroid effectiveness. The primary aim of the OSAC (Oral Steroids for Acute Cough) Trial is to determine whether oral prednisolone (40 mg daily for 5 days) can reduce the duration of moderately bad (or worse) cough and the severity of all its associated symptoms on days 2 to 4 post-randomisation (day 1 is trial entry) by at least 20% in adults ≥18 years with acute LRTI presenting to primary care."
+    ]
+  },
+  "abstract": {
+    "value": [
+      "Acute lower respiratory tract infection (LRTI) is one of the most common conditions managed internationally and is costly to health services and patients. Despite good evidence that antibiotics are not effective for improving the symptoms of uncomplicated LRTI, they are widely prescribed, contributing to antimicrobial resistance. Many of the symptoms observed in LRTI are mediated by inflammatory processes also observed in exacerbations of asthma, for which there is strong evidence of corticosteroid effectiveness. The primary aim of the OSAC (Oral Steroids for Acute Cough) Trial is to determine whether oral prednisolone (40 mg daily for 5 days) can reduce the duration of moderately bad (or worse) cough and the severity of all its associated symptoms on days 2 to 4 post-randomisation (day 1 is trial entry) by at least 20% in adults ≥18 years with acute LRTI presenting to primary care."
+    ]
+  },
+  "fulltext_html": {
+    "value": []
+  },
+  "fulltext_pdf": {
+    "value": [
+      "http://www.trialsjournal.com/content/pdf/s13063-015-0569-5.pdf"
+    ]
+  },
+  "fulltext_xml": {
+    "value": []
+  },
+  "supplementary_material": {
+    "value": [
+      "http://trialsjournal.com/content/download/supplementary/s13063-015-0569-5-s1.pdf"
+    ]
+  },
+  "figure": {
+    "value": []
+  },
+  "figure_caption": {
+    "value": []
+  },
+  "license": {
+    "value": []
+  },
+  "copyright": {
+    "value": []
+  }
+}

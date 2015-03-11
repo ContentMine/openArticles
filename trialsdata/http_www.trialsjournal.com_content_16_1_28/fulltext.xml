@@ -1,0 +1,3049 @@
+<?xml version='1.0'?>
+<!DOCTYPE art SYSTEM 'http://www.biomedcentral.com/xml/article.dtd'>
+<art>
+    <ui>s13063-014-0545-5</ui>
+    <ji>1745-6215</ji>
+    <fm>
+       <dochead>Research</dochead>
+       <bibl>
+          <title>
+             <p>Empirical evidence for outcome reporting bias in randomized clinical trials of acupuncture: comparison of registered records and subsequent publications</p>
+          </title>
+          <aug>
+             <au id="A1">
+                <snm>Su</snm>
+                <fnm>Chun-Xiang</fnm>
+                <insr iid="I1"/>
+                <insr iid="I2"/>
+                <email>susu18182004@126.com</email>
+             </au>
+             <au id="A2">
+                <snm>Han</snm>
+                <fnm>Mei</fnm>
+                <insr iid="I1"/>
+                <email>hanmeizoujin@163.com</email>
+             </au>
+             <au id="A3">
+                <snm>Ren</snm>
+                <fnm>Jun</fnm>
+                <insr iid="I1"/>
+                <email>renjunmay@foxmail.com</email>
+             </au>
+             <au id="A4">
+                <snm>Li</snm>
+                <fnm>Wen-Yuan</fnm>
+                <insr iid="I1"/>
+                <email>303223969@qq.com</email>
+             </au>
+             <au id="A5">
+                <snm>Yue</snm>
+                <fnm>Shu-Jin</fnm>
+                <insr iid="I2"/>
+                <email>yueliang874@126.com</email>
+             </au>
+             <au id="A6">
+                <snm>Hao</snm>
+                <fnm>Yu-Fang</fnm>
+                <insr iid="I2"/>
+                <email>haoyufang0903@sina.com</email>
+             </au>
+             <au id="A7" ca="yes">
+                <snm>Liu</snm>
+                <fnm>Jian-Ping</fnm>
+                <insr iid="I1"/>
+                <email>jianping_l@hotmail.com</email>
+             </au>
+          </aug>
+          <insg>
+             <ins id="I1">
+                <p>Center for Evidence-Based Chinese Medicine, Beijing University of Chinese Medicine, 11 Bei San Huan Dong Lu, Chaoyang District, Beijing 100029, China</p>
+             </ins>
+             <ins id="I2">
+                <p>School of Nursing, Beijing University of Chinese Medicine, Chaoyang District, Beijing 100102, China</p>
+             </ins>
+          </insg>
+          <source>Trials</source>
+          <issn>1745-6215</issn>
+          <pubdate>2015</pubdate>
+          <volume>16</volume>
+          <issue>1</issue>
+          <fpage>28</fpage>
+          <url>http://www.trialsjournal.com/content/16/1/28</url>
+          <xrefbib>
+             <pubidlist>
+                <pubid idtype="doi">10.1186/s13063-014-0545-5</pubid>
+             </pubidlist>
+          </xrefbib>
+       </bibl>
+       <history>
+          <rec>
+             <date>
+                <day>13</day>
+                <month>9</month>
+                <year>2014</year>
+             </date>
+          </rec>
+          <acc>
+             <date>
+                <day>29</day>
+                <month>12</month>
+                <year>2014</year>
+             </date>
+          </acc>
+          <pub>
+             <date>
+                <day>27</day>
+                <month>1</month>
+                <year>2015</year>
+             </date>
+          </pub>
+       </history>
+       <cpyrt>
+          <year>2015</year>
+          <collab>Su et al.; licensee BioMed Central.</collab>
+          <note>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/4.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (<url>http://creativecommons.org/publicdomain/zero/1.0/</url>) applies to the data made available in this article, unless otherwise stated.</note>
+       </cpyrt>
+       <kwdg>
+          <kwd>Selective outcome reporting</kwd>
+          <kwd>Outcome reporting bias</kwd>
+          <kwd>Publication bias</kwd>
+          <kwd>Trial registration</kwd>
+          <kwd>Acupuncture</kwd>
+          <kwd>Randomized clinical trials</kwd>
+       </kwdg>
+       <abs>
+          <sec>
+             <st>
+                <p>Abstract</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Background</p>
+                </st>
+                <p>Outcome reporting bias has received widespread recognition and been considered to pose two threats to the validity of clinical decision making because they overestimate the effect of treatments or distort the results of trials. However, the problem of outcome-reporting bias has not been systematically studied among randomized clinical trials of acupuncture. Our objectives were to evaluate the consistency between the registered records and subsequent publications with respect to outcomes and other data as well as to determine whether outcome-reporting bias favors significant primary outcomes.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Methods</p>
+                </st>
+                <p>A systematic search of 15 registries was conducted from their inception to January 2014 to identify randomized clinical trials on acupuncture for which the status was listed as &#8216;completed.&#8217; The subsequent publications were retrieved by searching PubMed and three Chinese databases. Basic characteristics and the registration information were extracted from the registered records and publications. We performed comparisons regarding primary outcomes and other data between the registered records and subsequent publications to assess the consistency and selective outcome reporting.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Results</p>
+                </st>
+                <p>Eighty-eight trials on acupuncture with 96 published reports were identified. Only 19.3% (17/88) were registered before the start of the trial, suggesting prospective registration. The trial registration number was unavailable in 36 published reports (37.5%). A comparison of registered and published primary outcomes could be conducted in 71 publications (74.0%), and the inconsistency of the primary outcomes was identified in 45.1% (32 of 71); 71.4% (15 of 21) had a discrepancy that favored statistically significant primary outcomes, while 28.6% (6 of 21) favored nonsignificant primary outcomes. Furthermore, the other inconsistencies between the registry records and subsequent publications involved the inclusion criteria (54.7%), exclusion criteria (47.9%) and controls (22.9%).</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Conclusions</p>
+                </st>
+                <p>We find that prospective registration for randomized clinical trials on acupuncture is insufficient, selective outcome reporting is prevalent, and the change of primary outcomes is intended to favor statistical significance. These discrepancies in outcome reporting may lead to biased and misleading results of randomized clinical trials on acupuncture. To ensure publication of reliable and unbiased results, further promotion and implementation of trial registration are still needed.</p>
+             </sec>
+          </sec>
+       </abs>
+    </fm>
+    <bdy>
+       <sec>
+          <st>
+             <p>Background</p>
+          </st>
+          <p>Outcome reporting bias in a clinical study is defined as the selection of a subset of the original variables recorded on the basis of the significance and direction of the results <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>. It distorts the results of trials and leads to a reduction in the strength of evidence for conducting systematic reviews and developing clinical practice guidelines <abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B5">5</abbr>
+             </abbrgrp>.</p>
+          <p>Prospectively trial registration in international clinical trial registries before participant enrollment is one of the main ways to potentially reduce selective outcome reporting and further outcome reporting bias <abbrgrp>
+                <abbr bid="B6">6</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B7">7</abbr>
+             </abbrgrp>. The International Committee of Medical Journal Editors (ICMJE) announced a policy of requiring investigators to register clinical trials in a clinical trial registry before participant enrollment as a prerequisite for publication in 2004. This policy took effect in 2005 and is applicable to any clinical trial beginning enrollment after 1 July 2005 <abbrgrp>
+                <abbr bid="B8">8</abbr>
+             </abbrgrp>. The World Health Organization formally established the International Clinical Trials Registry Platform (ICTRP; <url>http://www.who.int/ictrp/en/</url>) in 2004 to push for clinical trial registration. Furthermore, several peer-reviewed journals, such as <it>The Lancet</it> and <it>Trials</it>, publish study protocols to achieve transparency regarding performance and reporting of clinical trials.</p>
+          <p>Outcome reporting bias has received much attention. Many empirical studies evaluating the consistency concerning outcomes between the protocol or trial registry entry of randomized clinical trials (RCTs) and subsequent publications have demonstrated that outcome reporting bias is prevalent and favors statistically significant results <abbrgrp>
+                <abbr bid="B9">9</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B16">16</abbr>
+             </abbrgrp>. A recent study focusing on RCTs of traditional Chinese medicine (TCM) showed discrepancies were identified in primary outcomes (29%) and safety reporting (28%) when comparing registered records with their subsequent publications <abbrgrp>
+                <abbr bid="B17">17</abbr>
+             </abbrgrp>. However, the problem of outcome-reporting bias has not been systematically studied among RCTs of acupuncture.</p>
+          <p>Our objectives were to evaluate the consistency between the registered records and subsequent publications with respect to outcomes and other data as well as to determine whether outcome-reporting bias favors significant primary outcomes.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Methods</p>
+          </st>
+          <sec>
+             <st>
+                <p>Inclusion criteria</p>
+             </st>
+             <p>We included RCTs on acupuncture alone or in combination with other interventions that were registered in trial registries. The current status was limited to &#8216;completed&#8217; in the registered records. Acupuncture was defined as a collection of procedures involving penetration of the skin with needles manipulated by the hands or by electrical stimulation to stimulate certain points on the body <abbrgrp>
+                   <abbr bid="B18">18</abbr>
+                </abbrgrp>. We excluded phase 1 trials.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Search and selection of trials</p>
+             </st>
+             <p>A systematic search of 15 major international trial registries was conducted using the search terms &#8220;acupuncture&#8221; or &#8220;electroacupuncture&#8221; or &#8220;auriculotherapy&#8221; from their inception to January 2014. Trial registries included the Australian New Zealand Clinical Trials Registry (ANZCTR), Brazilian Clinical Trials Registry (ReBec), Chinese Clinical Trial Register (ChiCTR), Clinical Research Information Service (CRiS) public of Korea (KCT), ClinicalTrials.gov, Clinical Trials Registry-India (CTRI), Cuban Public Registry of Clinical Trials (RPCEC), EU Clinical Trials Register (EU-CTR), German Clinical Trials Register (DRKS), International Standard Randomized Controlled Trial Number Register (ISRCTN), Iranian Registry of Clinical Trials (IRCT), Japan Primary Registries Network (JPRN), Pan African Clinical Trial Registry (PACTR), the Netherlands National Trial Register (NTR), and Sri Lanka Clinical Trials Registry (SLCTR). If trials were listed as &#8216;completed&#8217; in the registered records, the full texts of subsequently published articles were retrieved by searching PubMed without a language limit and three Chinese electronic bibliographic databases including China National Knowledge Infrastructure (<url>http://www.cnki.net</url>), Chinese Biomedical Database (<url>http://sinomed.imicams.ac.cn/index.jsp</url>), and Chinese VIP Information (<url>http://vip.hbdlib.cn/index.asp</url>) using the trial registration number, registered trial title, and investigator name. Identified articles were checked against the target registered records to determine whether they were a correct match. For each trial, all published articles reporting the final results were included. Abstracts and reports of preliminary results were excluded.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Data extraction</p>
+             </st>
+             <p>Two authors (Su CX, Han M, Ren J, or Li WY) independently extracted data using a standardized, piloted data extraction form. The form was modified based on the previous research <abbrgrp>
+                   <abbr bid="B17">17</abbr>
+                </abbrgrp>. We collected the following information reported in trial registries and published articles: trial design, sample size, participants and diseases/conditions, interventions, controls, primary and secondary outcomes along with the time frame of assessment, inclusion and exclusion criteria, and funding. For each registered trial, we also extracted the date registered, start and end dates of participant enrollment/the trial, sponsors, and country of origin. Publication year and language, journal name, registered number, and <it>P</it> values for all the outcomes were also extracted from each subsequently published report. The 2013 impact factor of journals where registered trials were published was sought. &#8216;Instructions for authors&#8217; of the included journals was checked for whether the registration of the trial and reporting of the trial&#8217;s registration number were required in the published report. The &#8220;history of changes&#8221; in the registries was tracked to determine whether the registered information had been changed since the initial registration. Conditions were classified according to International Statistical Classification of Diseases and Related Health Problems, 10<sup>th</sup> Revision (ICD-10) (<url>http://apps.who.int/classifications/icd10/browse/2010/en</url>; last accessed on 27 January 2014).</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Data analyses</p>
+             </st>
+             <p>Methodological quality of registered records and subsequent publications was assessed independently by two authors (Su CX, Ren J, or Li WY) using the Cochrane Collaboration risk of bias tool, which included generation of the allocation sequence, allocation concealment, blinding, incomplete outcome reporting, selective outcome reporting, and other risk of bias <abbrgrp>
+                   <abbr bid="B19">19</abbr>
+                </abbrgrp>. Other risk of bias was assessed based on the estimated sample size, explicit inclusion and exclusion criteria, and the risk of funding bias.</p>
+             <p>Two authors (Su CX, Ren J, or Li WY) evaluated the consistency and selective outcome reporting regarding the trial design, methodology, and outcomes from the registered records and subsequently published articles. The disagreements were resolved by consensus with a third party (Liu JP). We defined inconsistency as &#8220;when the items in the trial registry were not the same as those in the subsequent publications&#8221; <abbrgrp>
+                   <abbr bid="B17">17</abbr>
+                </abbrgrp>. If over 20% discrepancy was identified between the sample size in the registered trials and published reports, we considered it inconsistent <abbrgrp>
+                   <abbr bid="B19">19</abbr>
+                </abbrgrp>. Selective outcome reporting was defined as &#8220;when the primary outcome specified in the published articles was different, or changed from those defined in the trial registry, or the timing of assessment of the registered and published primary outcomes differed&#8221; <abbrgrp>
+                   <abbr bid="B20">20</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B21">21</abbr>
+                </abbrgrp>.</p>
+             <p>A discrepancy was considered to favor statistically significant results (<it>P</it>&#8201;&lt;&#8201;0.05) if a new statistically significant primary outcome was described in the published articles or if a nonsignificant primary outcome was defined as a nonprimary outcome in the published articles <abbrgrp>
+                   <abbr bid="B10">10</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B21">21</abbr>
+                </abbrgrp>.</p>
+             <p>Data were presented as counts, percentage and frequency for categorical variables. Proportions were compared by the <it>&#967;</it>2 test. <it>P</it>&#8201;&lt;&#8201;0.05 was considered statistically significant. SAS version 9.1 (SAS Institute Inc, Cary, NC) was applied for statistical analysis.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Results</p>
+          </st>
+          <p>Of 860 registered acupuncture trials retrieved, 399 indicated their current status as &#8216;completed&#8217;. After excluding 160 registered trials because of duplicates or being non-RCTs, non-acupuncture and phase I, we searched subsequent publications for 88 of the 239 registered trials (36.8%). The 88 trials produced 96 publications reporting study outcomes, among which all publications were in English (Figure&#160;<figr fid="F1">1</figr>).
+                </p>
+          
+             <fig id="F1">
+                <title>
+                   <p>Figure 1</p>
+                </title>
+                <caption>
+                   <p>Flow diagram of study selection. </p>
+                </caption>
+                <text>
+                   <p>
+                          <b>Flow diagram of study selection.</b>                        
+                   </p>
+                </text>
+                <graphic file="s13063-014-0545-5-1"/>
+             </fig>
+          
+          <p>Of the 88 included trial protocols, 65 (73.9%; 72 articles) were from western countries; 23 (26.1%; 24 articles) were from eastern countries, of which only 7 were performed in mainland China (excluding Hong Kong and Taiwan). The included trial protocols were registered in eight registries and the majority was registered in either clinicaltrials.gov (43/88, 48.9%) or ISRCTN (36/88, 40.9%). The first trial was registered in 2001. Only 19.3% (17/88) were registered before the start of the trial, suggesting prospective registration. The remaining 71 trials were registered after the study began, even after the completion of the study. The proportion of retrospective registration was similar for trials from western countries (54/65, 83.1%) and eastern countries (17/23, 73.9%; <it>P</it>&#8201;=&#8201;0.33). When comparing trials starting before 1 July 2005 (36/40, 90.0%), the proportion of retrospective registration was higher than that in trials starting after 1 July 2005 (35/48, 72.9%; <it>P</it>&#8201;=&#8201;0.04).</p>
+          <p>Ninety-six articles were published in 49 journals from 1997 to 2014 (Figure&#160;<figr fid="F2">2</figr>). Seven (7.3%) were published in alternative and complementary journals. Sixteen (16.7%) were published in journals whose 2013 impact factor was high than 10 (Additional file <supplr sid="S1">1</supplr>: Table S1). Twenty-seven journals (48 articles; 50.0%) provided guidance on trial registration and reporting of the registration number in their instructions for the author. Of 36 articles (37.5%) without description of the registration number, 50.0% (18/36) were published in journals requiring the reporting of the registration number.
+                </p>
+             <fig id="F2">
+                <title>
+                   <p>Figure 2</p>
+                </title>
+                <caption>
+                   <p>Number of included randomized clinical trials on acupuncture in the trial registry and subsequent publication. </p>
+                </caption>
+                <text>
+                   <p>
+                          <b>Number of included randomized clinical trials on acupuncture in the trial registry and subsequent publication.</b>                        
+                   </p>
+                </text>
+                <graphic file="s13063-014-0545-5-2"/>
+             </fig>
+          
+          <p>The characteristics of included articles are presented in Table&#160;<tblr tid="T1">1</tblr>. The majority of the included articles were parallel group (92, 95.8%), single center (55, 57.3%), two armed (59, 61.5%), and sponsored by a university, government or hospital (77, 80.2%). The five most frequent conditions based on ICD-10 were musculoskeletal (26.1%), nervous (19.3%), mental and behavioral disorders (17.0%), respiratory conditions (5.7%) and neoplasms (5.7%; Table&#160;<tblr tid="T2">2</tblr>). Manual acupuncture and electro-acupuncture were reported in 80 (83.3%) and 16 (16.7%) articles, respectively. Interventions in the treatment groups involved acupuncture alone in 70 (72.9%) articles or acupuncture combined with other interventions in 26 (27.1%) articles. There was considerable variation in the control group. Fifty-one articles (53.1%) applied sham/placebo acupuncture; other commonly used controls involved western medicine (26.0%), no intervention (9.4%) and non-pharmaceutical interventions (9.4%). A clear description of the primary outcome and secondary outcome was provided in 71 (74.0%) and 60 articles (62.5%), respectively. However, safety and health-economic outcomes were only reported in 38 (39.6%) and 5 articles (5.2%), respectively.
+                  
+                </p>
+          
+             <table id="T1">
+                <title>
+                   <p>Table 1</p>
+                </title>
+                <caption>
+                   <p>
+                          <b>Characteristics of the included articles</b>                        
+                   </p>
+                </caption>
+                <tgroup align="left" cols="4">
+                   <colspec align="left" colname="c1" colnum="1" colwidth="*"/>
+                   <colspec align="left" colname="c2" colnum="2" colwidth="*"/>
+                   <colspec align="left" colname="c3" colnum="3" colwidth="*"/>
+                   <colspec align="left" colname="c4" colnum="4" colwidth="*"/>
+                   <thead>
+                      <row valign="top">
+                         <entry colname="c1" morerows="1">
+                            <p>
+                              <b>Item</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>
+                              <b>Total</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>
+                              <b>Western countries</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>
+                              <b>Eastern countries</b>                            
+                            </p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c2">
+                            <p>
+                              <b>
+                                  <it>n</it> 
+                              </b>                              
+                               <b>(%)&#8201;=&#8201;96</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>
+                              <b>
+                                  <it>n</it> 
+                              </b>                              
+                               <b>(%)&#8201;=&#8201;72</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>
+                              <b>
+                                  <it>n</it> 
+                              </b>                              
+                               <b>(%)&#8201;=&#8201;24</b>                            
+                            </p>
+                         </entry>
+                      </row>
+                   </thead>
+                   <tfoot>
+                      <p>Note: *Other interventions included western medicine in 18 articles, conventional therapy in 2 articles, non-pharmaceutical interventions in 4 articles, Chinese herbal medicine in 1 article and placebo drug in 1 article.</p>
+                      <p>&#8224;Thirty-seven (38.5%) articles reported three or four arms in one study.</p>
+                      <p>#Placebo acupuncture was conducted by using Streitberger placebo needles, which have a blunt tip. The needle retracted inside its handle when its tip touched the skin rather than penetrating the skin. Sham-acupuncture refers to nonspecific points, mock acupuncture/electro-acupuncture, mock transcutaneous electrical nerve stimulation, shallow needling and minimal acupuncture</p>
+                   </tfoot>
+                   <tbody>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>
+                              <b>Study registration</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c2"/>
+                         <entry colname="c3"/>
+                         <entry colname="c4"/>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>After the trial began</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>76 (79.2)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>58 (80.6)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>18 (75.0)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Before the trial began</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>20 (20.8)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>14 (19.4)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>6 (25.0)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>
+                              <b>Study design</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c2"/>
+                         <entry colname="c3"/>
+                         <entry colname="c4"/>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Parallel</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>92 (95.8)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>68 (94.4)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>24 (100.0)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Crossover</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>4 (4.2)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>4 (5.6)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>0 (0.0)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>
+                              <b>Study center</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c2"/>
+                         <entry colname="c3"/>
+                         <entry colname="c4"/>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Single</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>55 (57.3)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>40 (55.6)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>15 (62.5)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Multiple</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>41 (42.7)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>32 (44.4)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>9 (37.5)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>
+                              <b>Number of arms</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c2"/>
+                         <entry colname="c3"/>
+                         <entry colname="c4"/>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Two</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>59 (61.5)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>46 (63.9)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>13 (54.2)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Three</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>29 (30.2)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>22 (30.6)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>7 (29.2)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Four</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>8 (8.3)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>4 (5.5)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>4 (16.7)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>
+                              <b>Funding source</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c2"/>
+                         <entry colname="c3"/>
+                         <entry colname="c4"/>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>No funding</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>14 (14.6)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>13 (18.1)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>1 (4.2)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>University</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>37 (38.5)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>25 (34.7)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>12 (50.0)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Hospital</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>13 (13.5)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>7 (9.7)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>6 (25.0)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Government</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>27 (28.1)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>23 (31.9)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>4 (16.7)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Private non-profit</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>1 (1.0)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>1 (1.4)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>0 (0.0)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Other source</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>4 (4.2)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>3 (4.2)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>1 (4.2)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>
+                              <b>Type of acupuncture</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c2"/>
+                         <entry colname="c3"/>
+                         <entry colname="c4"/>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Manual acupuncture</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>80 (83.3)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>64 (88.9)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>16 (66.7)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Electro-acupuncture</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>16 (16.7)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>8 (11.1)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>8 (33.3)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>
+                              <b>Intervention</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c2"/>
+                         <entry colname="c3"/>
+                         <entry colname="c4"/>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Acupuncture used alone</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>70 (72.9)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>51 (70.8)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>19 (79.2)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Acupuncture combined with other interventions<b>*</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>26 (27.1)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>21 (29.2)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>5 (20.8)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>
+                              <b>Control&#8224;</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c2"/>
+                         <entry colname="c3"/>
+                         <entry colname="c4"/>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Placebo/sham-acupuncture#</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>51 (53.1)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>37 (51.4)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>14 (58.3)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Western medicine</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>25 (26.0)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>18 (25.0)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>7 (29.2)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>No intervention</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>9 (9.4)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>7 (9.7)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>2 (8.3)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Non-pharmaceutical interventions</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>9 (9.4)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>9 (12.5)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>0 (0.0)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Conventional therapy</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>7 (7.3)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>7 (9.7)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>0 (0.0)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Acupuncture</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>6 (6.3)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>4 (5.6)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>2 (8.3)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Waiting list</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>4 (4.2)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>3 (4.2)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>1 (4.2)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Chinese herbal medicine</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>1 (1.0)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>0 (0.0)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>1 (4.2)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>
+                              <b>Specified primary outcome</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>71 (74.0)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>50 (69.4)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>21 (87.5)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>
+                              <b>Specified secondary outcome</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>60 (62.5)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>42 (58.3)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>18 (75.0)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>
+                              <b>Safety come</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>38 (39.6)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>24 (33.3)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>12 (50.0)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>
+                              <b>Health-economic outcome</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>5 (5.2)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>5 (6.9)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>0 (0.0)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>
+                              <b>Random sequence generation</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c2"/>
+                         <entry colname="c3"/>
+                         <entry colname="c4"/>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Random number table</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>4 (4.2)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>4 (5.6)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>0 (0.0)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Computer random number generator</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>69 (71.9)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>46 (63.9)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>23 (95.8)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Minimization</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>2 (2.1)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>2 (2.8)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>0 (0.0)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Not reported</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>21 (21.9)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>20 (27.8)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>1 (4.2)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>
+                              <b>Allocation concealment</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c2"/>
+                         <entry colname="c3"/>
+                         <entry colname="c4"/>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Opaque sealed envelope</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>23 (24.0)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>19 (26.4)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>4 (16.7)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Central allocation</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>28 (29.2)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>24 (33.3)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>4 (16.7)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Sealed/opaque envelope</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>7 (7.3)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>5 (7.0)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>2 (8.3)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Not reported</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>38 (39.6)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>24 (33.3)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>14 (58.3)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>
+                              <b>Blinding</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c2"/>
+                         <entry colname="c3"/>
+                         <entry colname="c4"/>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Single-blinded</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>37 (38.5)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>26 (36.1)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>11 (45.8)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>&#8195;Blinding to participants</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>21 (21.9)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>16 (22.2)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>5 (20.8)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>&#8195;Blinding to personnel</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>3 (3.1)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>2 (2.8)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>1 (4.2)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>&#8195;Blinding to outcome assessor</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>13 (13.5)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>8 (11.1)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>5 (20.8)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Double-blinded</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>28 (29.2)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>19 (26.4)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>9 (37.5)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>&#8195;Blinding to participants and personnel</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>10 (10.4)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>9 (12.5)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>1 (4.2)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>&#8195;Blinding to participants and outcome assessors</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>18 (18.8)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>10 (13.9)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>8 (33.3)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>&#8195;Blinding to personnel and outcome assessors</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>0 (0.0)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>0 (0.0)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>0 (0.0)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Triple-blinded</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>4 (4.2)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>3 (4.2)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>1 (4.2)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Open</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>15 (15.6)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>11 (15.3)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>4 (16.7)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Not reported</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>12 (12.5)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>11 (15.3)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>1 (4.2)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>
+                              <b>Incomplete outcome reporting</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>33 (34.4)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>28 (38.9)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>5 (20.8)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>
+                              <b>Sample size estimation</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>34 (35.4)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>22 (30.6)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>12 (50.0)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>
+                              <b>Explicit inclusion criteria</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>94 (97.9)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>71 (98.6)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>23 (95.8)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>
+                              <b>Explicit exclusion criteria</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>82 (85.4)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>60 (83.3)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>22 (91.7)</p>
+                         </entry>
+                      </row>
+                   </tbody>
+                </tgroup>
+             </table>
+          
+          
+             <table id="T2">
+                <title>
+                   <p>Table 2</p>
+                </title>
+                <caption>
+                   <p>
+                          <b>Conditions based on the ICD-10 classification treated by acupuncture</b>                        
+                   </p>
+                </caption>
+                <tgroup align="left" cols="4">
+                   <colspec align="left" colname="c1" colnum="1" colwidth="*"/>
+                   <colspec align="left" colname="c2" colnum="2" colwidth="*"/>
+                   <colspec align="left" colname="c3" colnum="3" colwidth="*"/>
+                   <colspec align="left" colname="c4" colnum="4" colwidth="*"/>
+                   <thead>
+                      <row valign="top">
+                         <entry colname="c1" morerows="1">
+                            <p>
+                              <b>Disease/conditions (ICD-10 codes)</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c2" morerows="1">
+                            <p>
+                              <b>No. of trials (%)</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>
+                              <b>Western countries</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>
+                              <b>Eastern countries</b>                            
+                            </p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c3">
+                            <p>
+                              <b>
+                                  <it>n</it> 
+                              </b>                              
+                               <b>(%)</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>
+                              <b>
+                                  <it>n</it> 
+                              </b>                              
+                               <b>(%)</b>                            
+                            </p>
+                         </entry>
+                      </row>
+                   </thead>
+                   <tbody>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>M00-M99 Diseases of the musculoskeletal system and connective tissue</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>23 (26.1)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>19</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>4</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>G00-G99 Diseases of the nervous system</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>17 (19.3)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>12</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>5</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>F00-F99 Mental and behavioral disorders</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>15 (17.0)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>10</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>5</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>J00-J99 Diseases of the respiratory system</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>5 (5.7)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>3</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>2</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>C00-D48 Neoplasms</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>5 (5.7)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>5</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>0</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>E00-E90 Endocrine, nutritional and metabolic diseases</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>4 (4.5)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>3</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>1</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>N00-N99 Diseases of the genitourinary system</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>4 (4.5)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>1</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>3</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>O00-O99 Pregnancy, childbirth and the puerperium</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>4 (4.5)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>4</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>0</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>K00-K93 Diseases of the digestive system</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>3 (3.4)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>3</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>0</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>R00-R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>3 (3.4)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>3</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>0</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>A00-B99 Certain infectious and parasitic diseases</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>1 (1.1)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>1</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>0</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>H60-H95 Diseases of the ear and mastoid process</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>1 (1.1)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>0</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>1</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Health</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>1 (1.1)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>0</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>1</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>L00-L99 Diseases of the skin and subcutaneous tissue</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>1 (1.1)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>0</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>1</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>S00-T98 Injury, poisoning and certain other consequences of external causes</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>1 (1.1)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>1</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>0</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Total</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>88 (100)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>65 (73.9)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>23 (26.1)</p>
+                         </entry>
+                      </row>
+                   </tbody>
+                </tgroup>
+             </table>
+          
+          <p>Seventy-five subsequent publications (78.1%) provided detailed information on the generation of allocation sequences with the most use of a computer random number generator. Fifty-eight articles (60.4%) provided details on allocation concealment. Of 69 articles (71.9%) providing information on blinding, 37 applied single blinding, 28 double blinding, and 4 triple blinding. However, only 3.4% (3/88), 2.3% (2/88) and 61.4% (54/88) of the registered records provided information on the generation of an allocation sequence, allocation concealment and blinding, respectively. Incomplete outcome reporting occurred in 33 (34.4%) articles. The sample size of the 96 articles ranged from 10 (pilot trials) to 960, with the majority (88.6%) of sample sizes between 20 and 500 per trial (Additional file <supplr sid="S2">2</supplr>: Table S2). Only 34 articles (35.4%) carried out a sample size calculation. All registered records lacked information on sample estimation. The majority of the registered records and the subsequent publications clearly described the inclusion and exclusion criteria.</p><p>A comparison of registered and published primary outcomes was impossible in 25 articles (26.0%) because outcomes were not specified as primary outcome or secondary outcome in the subsequent publications. Of the remaining 71 articles, the primary outcomes of 32 articles (45.1%) were inconsistent with those specified in registered records (Table&#160;<tblr tid="T3">3</tblr>). The discrepancies involved a registered primary outcome omitted in the published article (22/71, 31.0%), an absent primary outcome in the registry defined as a primary outcome in the published article (9/71, 12.7%), a published primary outcome registered as a secondary outcome (1/71, 1.4%), a registered primary outcome defined as a secondary outcome in the published article (15/71, 21.1%) and different timing of assessment of the primary outcome in the published article and the registry (12/71, 16.9%). Fourteen articles had two reasons for the difference in primary outcomes, five articles had three reasons for the difference in primary outcomes, and one article had four reasons for the difference in primary outcomes. This inconsistency was also addressed in 13 articles published in journals requiring trial registration; the proportion of inconsistency was lower than those published in journals not requiring trial registration [13 of 38 (34.2%) vs. 19 of 33 (57.6%); <it>P</it>&#8201;=&#8201;0.048]. Five of 13 articles were published in a high-impact-factor journal (IF&#8201;&gt;&#8201;10). When comparing trials from western countries with trials from eastern countries, the proportion of this discrepancy showed no significant difference [6 of 21 (28.6%) vs. 26 of 50 (52.0%); <it>P</it>&#8201;=&#8201;0.07].
+                </p>
+          
+             <table id="T3">
+                <title>
+                   <p>Table 3</p>
+                </title>
+                <caption>
+                   <p>
+                          <b>Proportion of discrepancies in the specified primary outcomes between registered trials and published articles on acupuncture and discrepancies favoring statistically significant results</b>                        
+                   </p>
+                </caption>
+                <tgroup align="left" cols="4">
+                   <colspec align="left" colname="c1" colnum="1" colwidth="*"/>
+                   <colspec align="left" colname="c2" colnum="2" colwidth="*"/>
+                   <colspec align="left" colname="c3" colnum="3" colwidth="*"/>
+                   <colspec align="left" colname="c4" colnum="4" colwidth="*"/>
+                   <thead>
+                      <row valign="top">
+                         <entry colname="c1" morerows="1">
+                            <p>
+                              <b>Discrepancy in published articles relative to registered trials</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>
+                              <b>Total</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>
+                              <b>Western countries</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>
+                              <b>Eastern countries</b>                            
+                            </p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c2">
+                            <p>
+                              <b>
+                                  <it>n</it>
+                              </b> &#8201;
+                                            <b>=&#8201;71 (%)</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>
+                              <b>
+                                  <it>n</it>
+                              </b> &#8201;
+                                            <b>=&#8201;50 (%)</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>
+                              <b>
+                                  <it>n</it>
+                              </b> &#8201;
+                                            <b>=&#8201;21 (%)</b>                            
+                            </p>
+                         </entry>
+                      </row>
+                   </thead>
+                   <tfoot>
+                      <p>
+                        <sup>a</sup>Fourteen articles had two reasons for the difference in primary outcome; five articles had three reasons for the difference in primary outcome; one article had four reasons for the difference in primary outcome.</p>
+                      <p>
+                        <sup>b</sup>Eleven articles had two reasons for the difference in primary outcome; five articles had three reasons for the difference in primary outcome.</p>
+                      <p>
+                        <sup>c</sup>Three article had two reasons for the difference in primary outcome; one article had four reasons for the difference in primary outcome. Compared with articles from western countries: <it>P</it>&#8201;=&#8201;0.07.</p>
+                      <p>
+                        <sup>d</sup>A discrepancy in primary outcome was said to favor statistically significant results when a new, statistically significant primary outcome was introduced in the article or when a statistically nonsignificant primary outcome was defined as a nonprimary outcome in the published article.</p>
+                   </tfoot>
+                   <tbody>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>
+                              <b>Articles with different primary outcomes in the trial registration and the published article</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>32 <sup>a</sup>(45.1)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>26 <sup>b</sup>(52.0)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>6 <sup>c</sup>(28.6)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Registered primary outcome omitted in published articles</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>22 (31.0)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>18 (36.0)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>4 (19.0)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>An absent primary outcome in the registry defined in the published article</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>9 (12.7)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>7 (14.0)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>2 (9.5)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>A published primary outcome registered as a secondary outcome</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>1 (1.4)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>1 (2.0)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>0 (0.0)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>A registered primary outcome defined as a secondary outcome in the published article</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>15 (21.1)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>13 (26.0)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>2 (9.5)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Different timing of assessment of the primary outcome</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>12 (16.9)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>8 (16.0)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>4 (19.0)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>
+                              <b>Discrepancies in primary outcome favoring statistically significant results</b>                              
+                               <sup>
+                                  <b>d</b> 
+                               </sup>
+                            </p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>32</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>26</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>6</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Yes</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>15 (46.9)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>13 (50.0)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>2 (33.3)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>No</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>6 (18.8)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>4 (15.4)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>2 (33.3)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Impossible to conclude</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>11 (34.3)</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>9 (34.6)</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>2 (33.3)</p>
+                         </entry>
+                      </row>
+                   </tbody>
+                </tgroup>
+             </table>
+          
+          <p>Furthermore, 81.7% (138/169) registered primary outcomes were clinically relevant outcomes (patient-centered outcomes). Among them, 22.5% (31/138) clinically relevant outcomes from the 15 registered trial records were missing in the final publications, and 9.4% (13/138) clinically relevant outcomes from 11 registered records had been changed from the original primary outcome to the secondary outcome in the publications.</p>
+          <p>Of the 32 articles with inconsistency in primary outcomes between the published article and registry, the influence of this inconsistency could only be evaluated in 65.6% (21 of 32). Among them, 15 of 21 (71.4%) had discrepancies that favored statistically significant primary outcomes, while 6 of 21 (28.6%) favored nonsignificant primary outcomes.</p>
+          <p>Comparing the 88 registered records with their 96 subsequent publications, the other inconsistencies were identified in the inclusion criteria (54.7%), exclusion criteria (47.9%) and controls (22.9%) (Table&#160;<tblr tid="T4">4</tblr>).
+                </p>
+          
+             <table id="T4">
+                <title>
+                   <p>Table 4</p>
+                </title>
+                <caption>
+                   <p>
+                          <b>Comparison of methodological components between registered records and subsequent publications of randomized clinical trials on acupuncture</b>                        
+                   </p>
+                </caption>
+                <tgroup align="left" cols="4">
+                   <colspec align="left" colname="c1" colnum="1" colwidth="*"/>
+                   <colspec align="left" colname="c2" colnum="2" colwidth="*"/>
+                   <colspec align="left" colname="c3" colnum="3" colwidth="*"/>
+                   <colspec align="left" colname="c4" colnum="4" colwidth="*"/>
+                   <thead>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>
+                              <b>Items</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>
+                              <b>Total inconsistency rate (%)</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>
+                              <b>Inconsistency rate of trials from western countries (%)</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>
+                              <b>Inconsistency rate of trials from eastern countries (%)</b>                            
+                            </p>
+                         </entry>
+                      </row>
+                   </thead>
+                   <tfoot>
+                      <p>
+                        <sup>1</sup>A comparison was available in 57 articles, of which 38 were from western countries.</p>
+                      <p>
+                        <sup>2</sup>A comparison was available in 96 articles, of which 72 were from western countries.</p>
+                      <p>
+                        <sup>3</sup>A comparison was available in 95 articles, of which 71 were from western countries.</p>
+                      <p>
+                        <sup>4</sup>A comparison was available in 71 articles, of which 48 were from western countries.</p>
+                      <p>
+                        <sup>5</sup>A comparison was available in 3 articles, of which 1 were from western countries.</p>
+                      <p>
+                        <sup>6</sup>A comparison was available in 2 articles, of which 1 were from western countries.</p>
+                      <p>
+                        <sup>7</sup>A comparison was available in 60 articles, of which 40 were from western countries.</p>
+                      <p>
+                        <sup>8</sup>A comparison was available in 61 articles, of which 41 were from western countries.</p>
+                      <p>
+                        <sup>9</sup>A comparison was available in 57 articles, of which 37 were from western countries.</p>
+                   </tfoot>
+                   <tbody>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Study design<sup>1</sup>
+                            </p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>7.0</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>10.5</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>0.0</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Arms<sup>2</sup>
+                            </p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>11.5</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>12.5</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>8.3</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Intervention<sup>3</sup>
+                            </p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>8.4</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>11.3</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>0.0</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Control<sup>2</sup>
+                            </p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>22.9</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>26.4</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>12.5</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Sample size<sup>3</sup>
+                            </p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>22.1</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>28.2</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>4.2</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Inclusion criteria<sup>3</sup>
+                            </p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>54.7</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>57.7</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>45.8</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Exclusion criteria<sup>4</sup>
+                            </p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>47.9</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>54.2</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>34.8</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Generation of allocation sequences<sup>5</sup>
+                            </p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>0.0</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>0.0</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>0.0</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Allocation concealment<sup>6</sup>
+                            </p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>0.0</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>0.0</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>0.0</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Blinding of participants<sup>7</sup>
+                            </p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>16.7</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>20.0</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>10.0</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Blinding of personnel<sup>8</sup>
+                            </p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>18.0</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>19.5</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>15.0</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Blinding of outcome assessors<sup>9</sup>
+                            </p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>22.8</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>21.6</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>25.0</p>
+                         </entry>
+                      </row>
+                   </tbody>
+                </tgroup>
+             </table>
+          
+          <p>The &#8216;history of changes&#8217; was available in 44 registered trial records (44/88, 50.0%) from six registries. After the initial registration, a change of primary outcomes was identified in seven registered trial records (7/88, 8.0%), and 14 registered trial records (14/88, 15.9%) had the following changes: changes of study arms, sample size, blinding, controls and inclusion/exclusion criteria.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Discussion</p>
+          </st>
+          <p>To assess outcome reporting bias, we identified a sample of 96 articles of acupuncture trials. Among them, 33.3% (32/96) articles showed clear discrepancies between the registered primary outcomes and the published primary outcomes. The inconsistency was addressed in 13 articles published in those journals requiring trial registration, and 5 of 13 articles were published in high-impact-factor journals. Furthermore, the other inconsistencies between the registry records and subsequent publications involved the inclusion criteria (54.7%), exclusion criteria (47.9%) and control interventions (22.9%). Selective outcome reporting has received widespread recognition. In previous studies, inconsistencies of primary outcomes between the registered records and corresponding publications in Western medicine varied from 18% and 49% <abbrgrp>
+                <abbr bid="B22">22</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B24">24</abbr>
+             </abbrgrp>.</p>
+          <p>Prospective trial registration provides a good opportunity for the editors and peer reviewers to evaluate outcome reporting bias and other deviations between the registered records and subsequent publications. However, we found some evidence of selective outcome reporting in 45.1% of the articles and other discrepancies between the published articles and the registered records in terms of inclusion/exclusion criteria, blinding, sample size, etc. These results highlight that editors and peer reviewers may not cross-check the consistency between the submitted manuscript and the registered records to identify any discrepancies, and to further limit an outcome reporting bias, even though they had a chance to access the registered records. A previous qualitative study of editors&#8217; views on trial registration and publication bias showed that 11 of 15 journals required trial registration as a requisite for publication, but most editors seldom check whether the trial is adequately registered, and some editors did not even enforce trial registration <abbrgrp>
+                <abbr bid="B25">25</abbr>
+             </abbrgrp>.</p>
+          <p>This study also demonstrated that the trial registration number was unavailable in 36 published reports. Our finding is consistent with previous research that also indicated poor reporting of the registration number in published reports <abbrgrp>
+                <abbr bid="B26">26</abbr>
+             </abbrgrp>. This may hamper editors and peer reviewers in accessing the registration records and to further assess the selective outcome reporting <abbrgrp>
+                <abbr bid="B23">23</abbr>
+             </abbrgrp>. Accordingly, an accurate trial registration number should be provided in the publications. Then, the editors and peer reviewers should systematically check the consistency between the submitted manuscript and registration records, especially regarding the adequate reporting of important items such as the primary outcome.</p>
+          <p>As highlighted in our results, which confirmed the earlier findings <abbrgrp>
+                <abbr bid="B20">20</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B21">21</abbr>
+             </abbrgrp>, changes in the primary outcomes, as specified in the publications, from those specified in the registration records favored statistically significant over nonsignificant results. Such changes pose a threat to the reliability of results and further preclude clinicians and policymakers from making correct clinical decisions. Possible reasons for the discrepancies include the following: a preference for primary outcomes with statistical significance to increase the opportunity of the trial for publication and to support the use of the treatment <abbrgrp>
+                <abbr bid="B23">23</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B27">27</abbr>
+             </abbrgrp>.</p>
+          <p>The main purpose of prospective registration of clinical trials is to enhance the transparency of the clinical trial and provide access to the trial protocol <abbrgrp>
+                <abbr bid="B6">6</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B8">8</abbr>
+             </abbrgrp>. If the trial is retrospectively registered, the meaning of the trial registration is lost; if information in registries is insufficiently detailed, with some items not registered or inadequately registered, this information will be useless for comparing the consistency between the registered records and subsequent publications. Therefore, adequate registration is of great significance to safeguard against publication bias <abbrgrp>
+                <abbr bid="B21">21</abbr>
+             </abbrgrp>. However, our study showed that the proportion of prospective registered trials was still considerably low even with the introduction of the ICJME initiative policy implementation; registered information differed widely among trials; essential information such as randomization and blinding was poorly registered in the registries. Hence, the principal investigators and sponsors have the responsibility to adequately register a clinical trial. Furthermore, greater efforts should be made to improve the quality control processes of trial registries <abbrgrp>
+                <abbr bid="B21">21</abbr>
+             </abbrgrp>.</p>
+          <p>Although more than half of journals have required trial registration following the ICMJE guidelines, some journals use ambiguous language (i.e., encouragement of the trial registration) in their instruction to authors. We found similar results in previous studies <abbrgrp>
+                <abbr bid="B22">22</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B28">28</abbr>
+             </abbrgrp>. A lack of submission guideline clarity might contribute to explaining inadequate trial registration and poor reporting of registration numbers.</p>
+          <p>We acknowledge that our study has several potential limitations. First, only trials indicated as having a &#8216;completed&#8217; status in registries were searched for publications. A recent study indicated that many authors seemed to forget to change the status of their study to being completed, even among published studies <abbrgrp>
+                <abbr bid="B29">29</abbr>
+             </abbrgrp>. Therefore, those trials in the registries where the status was not listed as &#8216;completed&#8217; but that had been completed may not have been searched for and included in this study, which may have caused a bias.</p>
+          <p>Second, only PubMed and three Chinese databases were searched for published reports on acupuncture; therefore, some trials that have been published and included in other databases may have been missed.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Conclusions</p>
+          </st>
+          <p>Although trial registration is now the rule, we find that prospective registration for RCTs on acupuncture is insufficient, selective outcome reporting is prevalent, and the change of primary outcomes is intended to favor statistical significance. These discrepancies in outcome reporting may lead to biased and misleading results of RCTs on acupuncture. To ensure publication of reliable and unbiased results, further promotion and implementation of trial registration are still needed.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Abbreviations</p>
+          </st>
+          <p>ICMJE: International Committee of Medical Journal Editors</p>
+          <p>ICTRP: International Clinical Trials Registry Platform</p>
+          <p>RCTs: randomized clinical trials</p>
+          <p>TCM: traditional Chinese medicine</p>
+          <p>ANZCTR: Australian New Zealand Clinical Trials Registry</p>
+          <p>ReBec: Brazilian Clinical Trials Registry</p>
+          <p>ChiCTR: Chinese Clinical Trial Register</p>
+          <p>CRiS: Clinical Research Information Service</p>
+          <p>CTRI: Clinical Trials Registry-India</p>
+          <p>RPCEC: Cuban Public Registry of Clinical Trials</p>
+          <p>EU-CTR: EU Clinical Trials Register</p>
+          <p>DRKS: German Clinical Trials Register</p>
+          <p>ISRCTN: International Standard Randomized Controlled Trial Number Register</p>
+          <p>IRCT: Iranian Registry of Clinical Trials</p>
+          <p>JPRN: Japan Primary Registries Network</p>
+          <p>PACTR: Pan African Clinical Trial Registry</p>
+          <p>NTR: the Netherlands National Trial Register</p>
+          <p>SLCTR: Sri Lanka Clinical Trials Registry</p>
+          <p>ICD-10: International Statistical Classification of Diseases and Related Health Problems 10<sup>th</sup> Revision</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Competing interests</p>
+          </st>
+          <p>The authors declare that they have no competing interests.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Authors&#8217; contributions</p>
+          </st>
+          <p>SCX designed the study, searched and selected studies, extracted and analyzed data, and drafted the manuscript. HM searched and selected studies, extracted data and revised the manuscript. RJ and LWY extracted data. YSJ helped with the design of tables and data analyses and made revisions to the manuscript. HYF provided method perspectives and revised the manuscript. LJP conceived and designed the study and made substantial revisions to the manuscript. All authors have read and approved the final submitted version.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Additional files</p>
+          </st>
+          <suppl id="S1">
+             <title>
+                <p>Additional file 1: Table S1.</p>
+             </title>
+             <text>
+                <p>Top ten journals publishing the included articles of acupuncture ranked by 2013 impact factor (IF) in descending order.</p>
+             </text>
+             <file name="s13063-014-0545-5-S1.docx">
+                <p>Click here for file</p>
+             </file>
+          </suppl>
+          <suppl id="S2">
+             <title>
+                <p>Additional file 2: Table S2.</p>
+             </title>
+             <text>
+                <p>Sample size of included articles.</p>
+             </text>
+             <file name="s13063-014-0545-5-S2.docx">
+                <p>Click here for file</p>
+             </file>
+          </suppl>
+          
+       </sec>
+    </bdy>
+    <bm>
+       <ack>
+          <sec>
+             <st>
+                <p>Acknowledgments</p>
+             </st>
+             <p>We would like to thank Zhong Sun and Shang-Qian Gao for their contributions to the data extraction. This work is partly supported by the Project for Capacity Building of TCM Clinical Researchers (no. 201207007), Beijing Higher Education Young Elite Teacher Project (no. YETP0797) and Independent Research Project of Beijing University of Chinese Medicine (no. 522/010060514). LJP, SCX, HM, RJ and LWY are awardees by the Program for Innovative Research Team of Beijing University of Chinese Medicine (no. 2011-CXTD-09).</p>
+          </sec>
+       </ack>
+       <refgrp>
+          
+          <bibl id="B1">
+             <title>
+                <p>Bias in meta-analysis due to outcome variable selection within studies</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hutton</snm>
+                   <fnm>JL</fnm>
+                </au>
+                <au>
+                   <snm>Williamson</snm>
+                   <fnm>PR</fnm>
+                </au>
+             </aug>
+             <source>Appl Stat.</source>
+             <pubdate>2000</pubdate>
+             <volume>49</volume>
+             <fpage>359</fpage>
+             <lpage>70</lpage>
+          </bibl>
+          <bibl id="B2">
+             <title>
+                <p>The impact of outcome reporting bias in randomised controlled trials on a cohort of systematic reviews</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kirkham</snm>
+                   <fnm>JJ</fnm>
+                </au>
+                <au>
+                   <snm>Dwan</snm>
+                   <fnm>KM</fnm>
+                </au>
+                <au>
+                   <snm>Altman</snm>
+                   <fnm>DA</fnm>
+                </au>
+                <au>
+                   <snm>Gamble</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Dodd</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Smyth</snm>
+                   <fnm>R</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>BMJ.</source>
+             <pubdate>2010</pubdate>
+             <volume>340</volume>
+             <fpage>c365</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/bmj.c365</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20156912</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B3">
+             <title>
+                <p>The effect of scientific misconduct on the results of clinical trials: a Delphi survey</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Al-Marzouki</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Roberts</snm>
+                   <fnm>I</fnm>
+                </au>
+                <au>
+                   <snm>Marshall</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Evans</snm>
+                   <fnm>S</fnm>
+                </au>
+             </aug>
+             <source>Contemp Clin Trials.</source>
+             <pubdate>2005</pubdate>
+             <volume>26</volume>
+             <fpage>331</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.cct.2005.01.011</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15911467</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B4">
+             <title>
+                <p>Association between unreported outcomes and effect size estimates in Cochrane meta-analyses</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Furukawa</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Watanabe</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Omori</snm>
+                   <fnm>I</fnm>
+                </au>
+                <au>
+                   <snm>Montori</snm>
+                   <fnm>V</fnm>
+                </au>
+                <au>
+                   <snm>Guyatt</snm>
+                   <fnm>G</fnm>
+                </au>
+             </aug>
+             <source>JAMA.</source>
+             <pubdate>2007</pubdate>
+             <volume>297</volume>
+             <fpage>468</fpage>
+             <lpage>70</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1001/jama.297.5.468-b</pubid>
+                   <pubid idtype="pmpid" link="fulltext">17284696</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B5">
+             <title>
+                <p>Outcome reporting bias in evaluations of public health interventions: evidence of impact and the potential role of a study register</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Pearson</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Peters</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>J Epidemiol Community Health.</source>
+             <pubdate>2012</pubdate>
+             <volume>66</volume>
+             <fpage>286</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/jech.2010.122465</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21652522</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B6">
+             <title>
+                <p>Registering clinical trials</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Dickersin</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Rennie</snm>
+                   <fnm>D</fnm>
+                </au>
+             </aug>
+             <source>JAMA.</source>
+             <pubdate>2003</pubdate>
+             <volume>290</volume>
+             <fpage>516</fpage>
+             <lpage>23</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1001/jama.290.4.516</pubid>
+                   <pubid idtype="pmpid" link="fulltext">12876095</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B7">
+             <title>
+                <p>Reducing publication bias through trial registration</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Abaid</snm>
+                   <fnm>LN</fnm>
+                </au>
+                <au>
+                   <snm>Grimes</snm>
+                   <fnm>DA</fnm>
+                </au>
+                <au>
+                   <snm>Schulz</snm>
+                   <fnm>KF</fnm>
+                </au>
+             </aug>
+             <source>Obstet Gynecol.</source>
+             <pubdate>2007</pubdate>
+             <volume>109</volume>
+             <fpage>1434</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/01.AOG.0000266557.11064.2a</pubid>
+                   <pubid idtype="pmpid" link="fulltext">17540818</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B8">
+             <title>
+                <p>Clinical trial registration: a statement from the International Committee of Medical Journal Editors</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>De Angelis</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Drazen</snm>
+                   <fnm>JM</fnm>
+                </au>
+                <au>
+                   <snm>Frizelle</snm>
+                   <fnm>FA</fnm>
+                </au>
+                <au>
+                   <snm>Haug</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Hoey</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Horton</snm>
+                   <fnm>R</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>N Engl J Med.</source>
+             <pubdate>2004</pubdate>
+             <volume>351</volume>
+             <fpage>1250</fpage>
+             <lpage>1</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1056/NEJMe048225</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15356289</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B9">
+             <title>
+                <p>Registration rates, adequacy of registration, and a comparison of registered and published primary outcomes in randomized controlled trials published in surgery journals</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Killeen</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Sourallous</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Hunter</snm>
+                   <fnm>IA</fnm>
+                </au>
+                <au>
+                   <snm>Hartley</snm>
+                   <fnm>JE</fnm>
+                </au>
+                <au>
+                   <snm>Grady</snm>
+                   <fnm>HL</fnm>
+                </au>
+             </aug>
+             <source>Ann Surg.</source>
+             <pubdate>2014</pubdate>
+             <volume>259</volume>
+             <fpage>193</fpage>
+             <lpage>6</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/SLA.0b013e318299d00b</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23732270</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B10">
+             <title>
+                <p>Empirical evidence for selective reporting of outcomes in randomized trials: comparison of protocols to published articles</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Chan</snm>
+                   <fnm>AW</fnm>
+                </au>
+                <au>
+                   <snm>Hr&#243;bjartsson</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Haahr</snm>
+                   <fnm>MT</fnm>
+                </au>
+                <au>
+                   <snm>G&#248;tzsche</snm>
+                   <fnm>PC</fnm>
+                </au>
+                <au>
+                   <snm>Altman</snm>
+                   <fnm>DG</fnm>
+                </au>
+             </aug>
+             <source>JAMA.</source>
+             <pubdate>2004</pubdate>
+             <volume>291</volume>
+             <fpage>2457</fpage>
+             <lpage>65</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1001/jama.291.20.2457</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15161896</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B11">
+             <title>
+                <p>Discrepancies in sample size calculations and data analyses reported in randomised trials: comparison of publications with protocols</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Chan</snm>
+                   <fnm>AW</fnm>
+                </au>
+                <au>
+                   <snm>Hr&#243;bjartsson</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>J&#248;rgensen</snm>
+                   <fnm>KJ</fnm>
+                </au>
+                <au>
+                   <snm>G&#248;tzsche</snm>
+                   <fnm>PC</fnm>
+                </au>
+                <au>
+                   <snm>Altman</snm>
+                   <fnm>DG</fnm>
+                </au>
+             </aug>
+             <source>BMJ.</source>
+             <pubdate>2008</pubdate>
+             <volume>337</volume>
+             <fpage>a2299</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/bmj.a2299</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19056791</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B12">
+             <title>
+                <p>Publication and non-publication of clinical trials: longitudinal study of applications submitted to a research ethics committee</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Von Elm</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Rollin</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Blumle</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Huwiler</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Witschi</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Egger</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>SwissMed Wkly.</source>
+             <pubdate>2008</pubdate>
+             <volume>138</volume>
+             <fpage>197</fpage>
+             <lpage>203</lpage>
+          </bibl>
+          <bibl id="B13">
+             <title>
+                <p>Selective reporting in clinical trials: analysis of trial protocols accepted by the Lancet</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Al-Marzouki</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Roberts</snm>
+                   <fnm>I</fnm>
+                </au>
+                <au>
+                   <snm>Evans</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Marshall</snm>
+                   <fnm>T</fnm>
+                </au>
+             </aug>
+             <source>Lancet.</source>
+             <pubdate>2008</pubdate>
+             <volume>372</volume>
+             <fpage>201</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0140-6736(08)61060-0</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18640445</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B14">
+             <title>
+                <p>Trial publication after registration in ClinicalTrials.Gov: a cross-sectional analysis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Ross</snm>
+                   <fnm>JS</fnm>
+                </au>
+                <au>
+                   <snm>Mulvey</snm>
+                   <fnm>GK</fnm>
+                </au>
+                <au>
+                   <snm>Hines</snm>
+                   <fnm>EM</fnm>
+                </au>
+                <au>
+                   <snm>Nissen</snm>
+                   <fnm>SE</fnm>
+                </au>
+                <au>
+                   <snm>Krumholz</snm>
+                   <fnm>HM</fnm>
+                </au>
+             </aug>
+             <source>PLoS Med.</source>
+             <pubdate>2009</pubdate>
+             <volume>6</volume>
+             <fpage>e1000144</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1371/journal.pmed.1000144</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19901971</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B15">
+             <title>
+                <p>Investigation of within-study selective reporting in clinical research: follow-up of applications submitted to a local research ethics committee</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hahn</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Williamson</snm>
+                   <fnm>PR</fnm>
+                </au>
+                <au>
+                   <snm>Hutton</snm>
+                   <fnm>JL</fnm>
+                </au>
+             </aug>
+             <source>J Eval Clin Pract.</source>
+             <pubdate>2002</pubdate>
+             <volume>8</volume>
+             <fpage>353</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1046/j.1365-2753.2002.00314.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">12164983</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B16">
+             <title>
+                <p>Systematic review of the empirical evidence of study publication bias and outcome reporting bias</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Dwan</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Altman</snm>
+                   <fnm>DG</fnm>
+                </au>
+                <au>
+                   <snm>Arnaiz</snm>
+                   <fnm>JA</fnm>
+                </au>
+                <au>
+                   <snm>Bloom</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Chan</snm>
+                   <fnm>AW</fnm>
+                </au>
+                <au>
+                   <snm>Cronin</snm>
+                   <fnm>E</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>PLoS One.</source>
+             <pubdate>2008</pubdate>
+             <volume>3</volume>
+             <fpage>e3081</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1371/journal.pone.0003081</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18769481</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B17">
+             <title>
+                <p>Prospective registration, bias risk and outcome-reporting bias in randomised clinical trials of traditional Chinese medicine: an empirical methodological study</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Liu</snm>
+                   <fnm>JP</fnm>
+                </au>
+                <au>
+                   <snm>Han</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Li</snm>
+                   <fnm>XX</fnm>
+                </au>
+                <au>
+                   <snm>Mu</snm>
+                   <fnm>YJ</fnm>
+                </au>
+                <au>
+                   <snm>Lewith</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Wang</snm>
+                   <fnm>YY</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>BMJ Open.</source>
+             <pubdate>2013</pubdate>
+             <volume>3</volume>
+             <fpage>e002968</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">23864210</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B18">
+             <note>National Center for Complementary and Alternative Medicine (NCCAM). Acupuncture: an introduction. [<url>http://nccam.nih.gov/health/acupuncture/introduction.htm</url>]</note>
+          </bibl>
+          <bibl id="B19">
+             <note>Higgins Jpt, Green S, the Cochrane Collaboration. Cochrane handbook for systematic reviews of interventions. Version 5.1.0. 2011 [<url>http://www.cochrane-handbook.org</url>]</note>
+          </bibl>
+          <bibl id="B20">
+             <title>
+                <p>Identifying outcome reporting bias in randomised trials on PubMed: review of publications and survey of authors</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Chan</snm>
+                   <fnm>AW</fnm>
+                </au>
+                <au>
+                   <snm>Altman</snm>
+                   <fnm>DG</fnm>
+                </au>
+             </aug>
+             <source>BMJ.</source>
+             <pubdate>2005</pubdate>
+             <volume>330</volume>
+             <fpage>753</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/bmj.38356.424606.8F</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15681569</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B21">
+             <title>
+                <p>Comparison of registered and published primary outcomes in randomized controlled trials</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Mathieu</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Boutron</snm>
+                   <fnm>I</fnm>
+                </au>
+                <au>
+                   <snm>Moher</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Altman</snm>
+                   <fnm>DG</fnm>
+                </au>
+                <au>
+                   <snm>Ravaud</snm>
+                   <fnm>P</fnm>
+                </au>
+             </aug>
+             <source>JAMA.</source>
+             <pubdate>2009</pubdate>
+             <volume>302</volume>
+             <fpage>977</fpage>
+             <lpage>84</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1001/jama.2009.1242</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19724045</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B22">
+             <title>
+                <p>Comparison of registered and published primary outcomes in randomized clinical trials of surgical interventions</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hannink</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Gooszen</snm>
+                   <fnm>HG</fnm>
+                </au>
+                <au>
+                   <snm>Rovers</snm>
+                   <fnm>MM</fnm>
+                </au>
+             </aug>
+             <source>Ann Surg.</source>
+             <pubdate>2013</pubdate>
+             <volume>257</volume>
+             <fpage>818</fpage>
+             <lpage>23</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/SLA.0b013e3182864fa3</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23407296</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B23">
+             <title>
+                <p>Outcome reporting bias in randomized trials funded by the Canadian Institutes of Health Research</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Chan</snm>
+                   <fnm>AW</fnm>
+                </au>
+                <au>
+                   <snm>Krleza-Jeric</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Schmid</snm>
+                   <fnm>I</fnm>
+                </au>
+                <au>
+                   <snm>Altman</snm>
+                   <fnm>DG</fnm>
+                </au>
+             </aug>
+             <source>CMAJ.</source>
+             <pubdate>2004</pubdate>
+             <volume>171</volume>
+             <fpage>735</fpage>
+             <lpage>40</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1503/cmaj.1041086</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15451835</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B24">
+             <title>
+                <p>Outcome reporting among drug trials registered in ClinicalTrials.gov</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bourgeois</snm>
+                   <fnm>FT</fnm>
+                </au>
+                <au>
+                   <snm>Murthy</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Mandl</snm>
+                   <fnm>KD</fnm>
+                </au>
+             </aug>
+             <source>Ann Intern Med.</source>
+             <pubdate>2010</pubdate>
+             <volume>153</volume>
+             <fpage>158</fpage>
+             <lpage>66</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.7326/0003-4819-153-3-201008030-00006</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20679560</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B25">
+             <title>
+                <p>&#8220;Hardly worth the effort&#8221;? Medical journals&#8217; policies and their editors&#8217; and publishers&#8217; views on trial registration and publication bias: quantitative and qualitative study</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Wager</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Williams</snm>
+                   <fnm>P</fnm>
+                </au>
+             </aug>
+             <insg>
+                <ins>
+                   <p>Project overcome failure to publish negative findings consortium</p>
+                </ins>
+             </insg>
+             <source>BMJ</source>
+             <pubdate>2013</pubdate>
+             <volume>347</volume>
+             <fpage>f5248</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/bmj.f5248</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24014339</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B26">
+             <title>
+                <p>Trial registration numbers are underreported in biomedical publications</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>van de Wetering</snm>
+                   <fnm>FT</fnm>
+                </au>
+                <au>
+                   <snm>Scholten</snm>
+                   <fnm>RJ</fnm>
+                </au>
+                <au>
+                   <snm>Haring</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Clarke</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Hooft</snm>
+                   <fnm>L</fnm>
+                </au>
+             </aug>
+             <source>PLoS One.</source>
+             <pubdate>2012</pubdate>
+             <volume>7</volume>
+             <fpage>e49599</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1371/journal.pone.0049599</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23166724</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B27">
+             <title>
+                <p>Frequency and reasons for outcome reporting bias in clinical trials: interviews with trialists</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Smyth</snm>
+                   <fnm>RM</fnm>
+                </au>
+                <au>
+                   <snm>Kirkham</snm>
+                   <fnm>JJ</fnm>
+                </au>
+                <au>
+                   <snm>Jacoby</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Altman</snm>
+                   <fnm>DG</fnm>
+                </au>
+                <au>
+                   <snm>Gamble</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Williamson</snm>
+                   <fnm>PR</fnm>
+                </au>
+             </aug>
+             <source>BMJ.</source>
+             <pubdate>2011</pubdate>
+             <volume>342</volume>
+             <fpage>c7153</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/bmj.c7153</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21212122</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B28">
+             <title>
+                <p>Consistency in the analysis and reporting of primary end points in oncology randomized controlled trials from registration to publication: a systematic review</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>You</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Gan</snm>
+                   <fnm>HK</fnm>
+                </au>
+                <au>
+                   <snm>Pond</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Chen</snm>
+                   <fnm>EX</fnm>
+                </au>
+             </aug>
+             <source>J Clin Oncol.</source>
+             <pubdate>2012</pubdate>
+             <volume>30</volume>
+             <fpage>210</fpage>
+             <lpage>6</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1200/JCO.2011.37.0890</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22162583</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B29">
+             <title>
+                <p>Publication and Reporting of Test Accuracy Studies Registered in ClinicalTrials.gov</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Korevaar</snm>
+                   <fnm>DA</fnm>
+                </au>
+                <au>
+                   <snm>Ochodo</snm>
+                   <fnm>EA</fnm>
+                </au>
+                <au>
+                   <snm>Bossuyt</snm>
+                   <fnm>PM</fnm>
+                </au>
+                <au>
+                   <snm>Hooft</snm>
+                   <fnm>L</fnm>
+                </au>
+             </aug>
+             <source>Clin Chem.</source>
+             <pubdate>2014</pubdate>
+             <volume>60</volume>
+             <fpage>651</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1373/clinchem.2013.218149</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24381228</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+       </refgrp>
+    </bm>
+ </art>

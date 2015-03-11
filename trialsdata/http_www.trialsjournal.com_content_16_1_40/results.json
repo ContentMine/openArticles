@@ -1,0 +1,99 @@
+{
+  "publisher": {
+    "value": [
+      "BioMed Central Ltd"
+    ]
+  },
+  "journal": {
+    "value": [
+      "Trials"
+    ]
+  },
+  "title": {
+    "value": [
+      "A mindfulness-based stress prevention training for medical students (MediMind): study protocol for a randomized controlled trial"
+    ]
+  },
+  "authors": {
+    "value": [
+      "Sophie M Kuhlmann",
+      "Arne Bürger",
+      "Günter Esser",
+      "Florian Hammerle"
+    ]
+  },
+  "date": {
+    "value": [
+      "2015-02-08"
+    ]
+  },
+  "doi": {
+    "value": [
+      "10.1186/s13063-014-0533-9"
+    ]
+  },
+  "volume": {
+    "value": [
+      "16"
+    ]
+  },
+  "issue": {
+    "value": [
+      "1"
+    ]
+  },
+  "firstpage": {
+    "value": [
+      "40"
+    ]
+  },
+  "description": {
+    "value": [
+      "Medical training is very demanding and associated with a high prevalence of psychological distress. Compared to the general population, medical students are at a greater risk of developing a psychological disorder. Various attempts of stress management training in medical school have achieved positive results on minimizing psychological distress; however, there are often limitations. Therefore, the use of a rigorous scientific method is needed. The present study protocol describes a randomized controlled trial to examine the effectiveness of a specifically developed mindfulness-based stress prevention training for medical students that includes selected elements of cognitive behavioral strategies (MediMind)."
+    ]
+  },
+  "abstract": {
+    "value": [
+      "Medical training is very demanding and associated with a high prevalence of psychological distress. Compared to the general population, medical students are at a greater risk of developing a psychological disorder. Various attempts of stress management training in medical school have achieved positive results on minimizing psychological distress; however, there are often limitations. Therefore, the use of a rigorous scientific method is needed. The present study protocol describes a randomized controlled trial to examine the effectiveness of a specifically developed mindfulness-based stress prevention training for medical students that includes selected elements of cognitive behavioral strategies (MediMind)."
+    ]
+  },
+  "fulltext_html": {
+    "value": [
+      "http://www.trialsjournal.com/content/16/1/40"
+    ]
+  },
+  "fulltext_pdf": {
+    "value": [
+      "http://www.trialsjournal.com/content/pdf/s13063-014-0533-9.pdf"
+    ]
+  },
+  "fulltext_xml": {
+    "value": [
+      "/content/download/xml/s13063-014-0533-9.xml"
+    ]
+  },
+  "supplementary_material": {
+    "value": []
+  },
+  "figure": {
+    "value": [
+      "/content/figures/s13063-014-0533-9-1.gif"
+    ]
+  },
+  "figure_caption": {
+    "value": [
+      "Figure 1.",
+      "Study design’."
+    ]
+  },
+  "license": {
+    "value": [
+      "\r\n\t\t\t\tThis is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.\r\n\t\t\t"
+    ]
+  },
+  "copyright": {
+    "value": [
+      "\r\n            © 2015 Kuhlmann et al.; licensee BioMed Central. \r\n        "
+    ]
+  }
+}

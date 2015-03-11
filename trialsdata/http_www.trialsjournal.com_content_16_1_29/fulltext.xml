@@ -1,0 +1,2078 @@
+<?xml version='1.0'?>
+<!DOCTYPE art SYSTEM 'http://www.biomedcentral.com/xml/article.dtd'>
+<art>
+    <ui>s13063-014-0546-4</ui>
+    <ji>1745-6215</ji>
+    <fm>
+       <dochead>Study protocol</dochead>
+       <bibl>
+          <title>
+             <p>Pilot study to evaluate a tailored text message intervention for pregnant smokers (MiQuit): study protocol for a randomised controlled trial</p>
+          </title>
+          <aug>
+             <au id="A1" ca="yes">
+                <snm>Cooper</snm>
+                <fnm>Sue</fnm>
+                <insr iid="I1"/>
+                <email>sue.cooper@nottingham.ac.uk</email>
+             </au>
+             <au id="A2">
+                <snm>Foster</snm>
+                <fnm>Katharine</fnm>
+                <insr iid="I1"/>
+                <email>kath.foster@nottingham.ac.uk</email>
+             </au>
+             <au id="A3">
+                <snm>Naughton</snm>
+                <fnm>Felix</fnm>
+                <insr iid="I2"/>
+                <email>fmen2@medschl.cam.ac.uk</email>
+             </au>
+             <au id="A4">
+                <snm>Leonardi-Bee</snm>
+                <fnm>Jo</fnm>
+                <insr iid="I3"/>
+                <email>jo.leonardi-bee@nottingham.ac.uk</email>
+             </au>
+             <au id="A5">
+                <snm>Sutton</snm>
+                <fnm>Stephen</fnm>
+                <insr iid="I2"/>
+                <email>srs34@medschl.cam.ac.uk</email>
+             </au>
+             <au id="A6">
+                <snm>Ussher</snm>
+                <fnm>Michael</fnm>
+                <insr iid="I4"/>
+                <email>mussher@sgul.ac.uk</email>
+             </au>
+             <au id="A7">
+                <snm>Leighton</snm>
+                <fnm>Matthew</fnm>
+                <insr iid="I5"/>
+                <email>matthew.leighton@nottingham.ac.uk</email>
+             </au>
+             <au id="A8">
+                <snm>Montgomery</snm>
+                <fnm>Alan</fnm>
+                <insr iid="I5"/>
+                <email>alan.montgomery@nottingham.ac.uk</email>
+             </au>
+             <au id="A9">
+                <snm>Parrott</snm>
+                <fnm>Steve</fnm>
+                <insr iid="I6"/>
+                <email>steve.parrott@york.ac.uk</email>
+             </au>
+             <au id="A10">
+                <snm>Coleman</snm>
+                <fnm>Tim</fnm>
+                <insr iid="I1"/>
+                <email>tim.coleman@nottingham.ac.uk</email>
+             </au>
+          </aug>
+          <insg>
+             <ins id="I1">
+                <p>Division of Primary Care, University of Nottingham, University Park, Nottingham NG7 2RD, UK</p>
+             </ins>
+             <ins id="I2">
+                <p>Department of Public Health and Primary Care, Institute of Public Health, University of Cambridge, Forvie Site, Robinson Way, Cambridge CB2 0SR, UK</p>
+             </ins>
+             <ins id="I3">
+                <p>Division of Epidemiology and Public Health, University of Nottingham, Clinical Sciences Building, City Hospital, Hucknall Road, Nottingham NG5 1PB, UK</p>
+             </ins>
+             <ins id="I4">
+                <p>Population Health Research Institute, Hunter Wing, St George&#8217;s, University of London, Cranmer Terrace, London SW17 0RE, UK</p>
+             </ins>
+             <ins id="I5">
+                <p>Nottingham Clinical Trials Unit, University of Nottingham, Nottingham Health Science Partners, C Floor, Queen&#8217;s Medical Centre, Nottingham NG7 2UH, UK</p>
+             </ins>
+             <ins id="I6">
+                <p>Department of Health Sciences, Seebohm Rowntree Building, University of York, Heslington, York YO10 5DD, UK</p>
+             </ins>
+          </insg>
+          <source>Trials</source>
+          <issn>1745-6215</issn>
+          <pubdate>2015</pubdate>
+          <volume>16</volume>
+          <issue>1</issue>
+          <fpage>29</fpage>
+          <url>http://www.trialsjournal.com/content/16/1/29</url>
+          <xrefbib>
+             <pubidlist>
+                <pubid idtype="doi">10.1186/s13063-014-0546-4</pubid>
+             </pubidlist>
+          </xrefbib>
+       </bibl>
+       <history>
+          <rec>
+             <date>
+                <day>27</day>
+                <month>8</month>
+                <year>2014</year>
+             </date>
+          </rec>
+          <acc>
+             <date>
+                <day>30</day>
+                <month>12</month>
+                <year>2014</year>
+             </date>
+          </acc>
+          <pub>
+             <date>
+                <day>27</day>
+                <month>1</month>
+                <year>2015</year>
+             </date>
+          </pub>
+       </history>
+       <cpyrt>
+          <year>2015</year>
+          <collab>Cooper et al.; licensee BioMed Central.</collab>
+          <note>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/4.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (<url>http://creativecommons.org/publicdomain/zero/1.0/</url>) applies to the data made available in this article, unless otherwise stated.</note>
+       </cpyrt>
+       <kwdg>
+          <kwd>Smoking cessation</kwd>
+          <kwd>Pregnancy</kwd>
+          <kwd>Self-help</kwd>
+          <kwd>Randomised controlled trial</kwd>
+          <kwd>Protocol</kwd>
+       </kwdg>
+       <abs>
+          <sec>
+             <st>
+                <p>Abstract</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Background</p>
+                </st>
+                <p>Smoking in pregnancy is a public health problem. Self-help smoking cessation support can help pregnant women to stop smoking, but the effects of delivering this kind of support via SMS text message are not known. A previous randomised controlled trial (RCT) demonstrated the feasibility and acceptability of providing such support to pregnant smokers using an automated, tailored text message intervention called MiQuit. This larger RCT will estimate key parameters for and will test the feasibility of delivering a major trial run within the United Kingdom National Health Service settings aimed at providing definitive evidence on the utility of MiQuit for helping pregnant smokers to stop.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Methods/Design</p>
+                </st>
+                <p>This will be a multi-centre, parallel group RCT. Participants are being identified in 16 English antenatal care settings and must be &gt;16&#160;years old, pregnant, &lt;25&#160;weeks gestation, smoke &gt;1 daily cigarette, have smoked &gt;5 daily cigarettes before pregnancy, and able to understand texts in English. After consenting and  the collection of baseline data, participants are randomised to control or intervention groups in a 1:1 ratio; randomisation is stratified by trial site and gestation and employs computer-generated pseudo-random code using random permuted blocks of randomly varying size, and held on a secure server. All participants receive a National Health Service (NHS) leaflet aimed at helping them to stop smoking. Intervention group women also receive the 12-week MiQuit programme of tailored, supportive, interactive text message, self-help cessation support. Women are followed up by telephone 4&#160;weeks after randomisation and at 36&#160;weeks gestation. The study aims to recruit 400 women, and with this sample we will be able to estimate trial centres&#8217; recruitment rates to within +/&#8722;1% (margin of error&#8201;=&#8201;half width of 95% confidence interval); individual trial groups&#8217; ascertainment of rates for smoking outcomes between 4&#160;weeks after randomisation until approximately 36&#160;weeks gestation to within +/&#8722;4%, and across both groups, the combined cessation rate at 36&#160;weeks +/&#8722;3%.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Discussion</p>
+                </st>
+                <p>Pilot trial completion will provide data to facilitate planning for a definitive trial investigating whether MiQuit works for smoking cessation in pregnancy.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Trial registration</p>
+                </st>
+                <p>ClinicalTrials.gov <url>NCT02043509</url> Registered 14 January 2014.</p>
+             </sec>
+          </sec>
+       </abs>
+    </fm>
+    <bdy>
+       <sec>
+          <st>
+             <p>Background</p>
+          </st>
+          <p>Epidemiological evidence indicates that smoking during pregnancy increases the risk of many pregnancy-related complications including low birth weight, preterm birth, spontaneous abortions, stillbirth, ectopic pregnancy and neonatal death and is associated with many adverse postnatal problems including impaired lung function and Sudden Infant Death Syndrome <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>. Taking into account that between one in four <abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp> and one in eight <abbrgrp>
+                <abbr bid="B3">3</abbr>
+             </abbrgrp> women are estimated to smoke during pregnancy, the consequences of prenatal smoking come at a great financial cost to the health service.</p>
+          <p>A review of smoking cessation interventions for pregnant smokers indicates that such interventions can be effective at increasing cessation during pregnancy, although the increase is fairly modest <abbrgrp>
+                <abbr bid="B4">4</abbr>
+             </abbrgrp>. Although smoking cessation support is offered to pregnant smokers through the NHS Stop Smoking Services in England, uptake rates are fairly low <abbrgrp>
+                <abbr bid="B5">5</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B6">6</abbr>
+             </abbrgrp>. While it is important to explore ways of increasing the uptake of face-to-face specialist support among this population, it is equally important to explore the potential of alternative forms of support.</p>
+          <p>One such alternative is self-help. A recent review of the literature indicates that self-help interventions for pregnant smokers almost double the chances of quitting compared with usual care <abbrgrp>
+                <abbr bid="B7">7</abbr>
+             </abbrgrp>. Furthermore, self-help has been identified as being of high interest to pregnant smokers interested in quitting smoking <abbrgrp>
+                <abbr bid="B8">8</abbr>
+             </abbrgrp>. It is also generally of low cost and, potentially, has wide reach. One promising mode of delivery for self-help support is through mobile phone text messages. A recent large trial of a text message smoking cessation intervention for non-pregnant smokers found it doubled cessation rates compared with a no-intervention control group <abbrgrp>
+                <abbr bid="B9">9</abbr>
+             </abbrgrp>. Regarding its potential for pregnant smokers, mobile phone ownership is high across the social class spectrum in the UK, and text messaging is particularly popular among those under 45&#160;years of age <abbrgrp>
+                <abbr bid="B10">10</abbr>
+             </abbrgrp>.</p>
+          <p>A pilot trial of a tailored self-help intervention developed for pregnant smokers in Cambridge (called MiQuit) found that delivering support by text message to pregnant smokers was feasible and also acceptable for recipients <abbrgrp>
+                <abbr bid="B11">11</abbr>
+             </abbrgrp>. Furthermore, the MiQuit intervention increased the likelihood of women setting a quit date and increased women&#8217;s harm beliefs (related to smoking) and confidence in their ability and determination to quit. Although this trial was small (n&#8201;=&#8201;207), it provided an estimate for MiQuit&#8217;s efficacy, albeit with wide 95% confidence intervals, which suggests that this intervention could be a valuable addition to standard NHS support for smoking cessation in pregnancy. At 12&#160;weeks after randomisation, 12.5% of women who used MiQuit reported not having smoked in the previous 7&#160;days, which was validated using salivary cotinine assessment, compared with only 7.8% in the control group; if MiQuit could have such an impact in routine NHS care, its low cost would make it highly cost-effective.</p>
+          <p>Before MiQuit could be used in routine care, a definitive randomised controlled trial would need to prove its effectiveness, so obtaining further evidence concerning its efficacy is appropriate. However, such a trial would need to be very large and expensive and, currently, there is insufficient information to justify conducting this. For example, it is not known if cessation encouraged by MiQuit, in the pilot trial, which was measured, at 12&#160;weeks after randomisation (around mid-pregnancy), persists beyond this point. However, sustained cessation throughout pregnancy would be required before one could expect this potentially-useful intervention to have a meaningful impact on fetal health. Also, there is only very limited information with which one could plan a definitive trial such that this made efficient use of research resources; for example, likely recruitment and follow-up rates need determining. Consequently, we propose a pilot trial, which will investigate whether or not it is possible to evaluate MiQuit in a multi-centre RCT located within the NHS research infrastructure, taking full advantage of appropriate NHS research network resources. This study will provide estimates for the following parameters, which will be of crucial importance when deciding upon resources required for a definitive trial: the range of likely recruitment rates in different centres; quit rates amongst trial participants; feasibility of assessing smoking status of trial participants in later pregnancy; ascertainment rates obtained; and the likely effect of MiQuit when women are offered this in NHS settings. Findings from the pilot trial will permit estimation of the likely impact of MiQuit being introduced into routine clinical practice.</p>
+          <sec>
+             <st>
+                <p>Aims and objectives</p>
+             </st>
+             <p>The aim of this trial is to estimate the likely impact of the MiQuit text message-based smoking cessation intervention for pregnant smokers and to establish robust estimates for key parameters, which would be required in order to design a definitive trial of this intervention.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Primary objective</p>
+             </st>
+             <p>The primary objective of this study is to estimate the key parameters required in order to design a definitive trial testing the efficacy of MiQuit, including the following:</p><p>1. Recruitment rates within pregnant smokers attending hospital recruitment centres</p>
+                <p>2. For individual trial groups, rates of ascertainment of validated smoking cessation between 4&#160;weeks after randomisation until late pregnancy (approximately 36&#160;weeks)</p>
+                <p>3. For both trial groups, the combined quit rate at 36&#160;weeks (cessation as defined above).</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Secondary objectives</p>
+             </st>
+             <p>The secondary objectives are as follows:</p><p>1. To estimate and model the likely effectiveness and cost effectiveness of MiQuit compared with usual care including a generic smoking cessation information leaflet.</p>
+                <p>2. To document participants&#8217; use of MiQuit interactive features and of NHS cessation support.</p>
+                <p>3. To assess the effect of MiQuit on social cognitive determinants of quitting smoking.</p>
+                <p>4. To explore participant views and experiences of using MiQuit.</p>
+                <p>5. To explore research staff views and experiences of the MiQuit pilot trial.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Methods/Design</p>
+          </st>
+          <sec>
+             <st>
+                <p>Trial design</p>
+             </st>
+             <p>This study is a multicentre, two-arm, parallel group, single blind, randomised controlled trial testing the MiQuit text message smoking cessation support system in pregnant women.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Study setting</p>
+             </st>
+             <p>Participants will be recruited from hospital antenatal clinics in England.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Eligibility criteria</p>
+             </st>
+             <p>To be eligible for the trial participants must be i) pregnant and less than 25&#160;weeks gestation, ii) have smoked at least 5 cigarettes per day pre-pregnancy and have continued to smoke at least 1 cigarette on a typical day during pregnancy, iii) aged 16 or over, iv) agree to accept information to assist cessation, v) have their own or have primary use of a mobile phone, vi) be familiar with sending and receiving text messages, vii) be able to understand written English (text messages are in English only) and consent issues explained in English, and viii) be able to give informed consent.</p>
+             <p>They should not already be enrolled in another text service to assist smoking cessation.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Intervention</p>
+             </st>
+             <p>MiQuit is an automated responsive text message support programme lasting 12&#160;weeks, which provides tailored smoking cessation support and advice to the participant&#8217;s mobile phone. The MiQuit system provides advice and support content that is tailored to 12 characteristics of the individual at baseline and is tailored to changes in smoking status collected at two time points during the 12-week programme. In addition, participants can text in a quit date and receive additional support tailored around this date. Participants can also increase or decrease the frequency of support they receive at any time by texting the keywords MORE or LESS. The support includes motivational messages, advice about preparing for a quit attempt, how to manage cravings and withdrawal, dealing with trigger situations, information about how smoking affects babies and general encouragement. Participants will receive between 70 and 145 texts over 12&#160;weeks (0.8 to 1.7 texts per day), dependent upon how they use the system. They also will have the ability to request instant support text messages on demand or distraction messages by texting one of three keywords to the MiQuit system. Any text message replies to MiQuit made by participants will be charged at the usual network rate or included in their text allowance, but texts they received from MiQuit are free. All likely costs to participants will be made clear in the participant information sheet (PIS).</p>
+             <p>In addition to the MiQuit text message intervention, intervention group participants will receive a standard NHS leaflet giving some information and advice on stopping smoking and usual NHS antenatal care.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Control</p>
+             </st>
+             <p>Control group participants will receive the same NHS leaflet giving some information and advice on stopping smoking in addition to usual NHS antenatal care.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Adherence</p>
+             </st>
+             <p>Participants allocated to receive the MiQuit intervention will have an adherence check performed at the late pregnancy/postnatal follow-up stage, at 36&#160;weeks gestation (visit 3). At this stage participants will be asked basic questions about their use of the texts sent.</p>
+             <p>If they wish, participants in both groups will be able to access additional support to help them stop smoking; they will all be asked about any use of support at each contact.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Outcomes</p>
+             </st>
+             <p>There is no single primary outcome for this pilot trial, which deals primarily with feasibility issues.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Feasibility outcomes</p>
+             </st>
+             <p>Feasibility outcomes include the following:</p><p>1. Recruitment rate of participants from pregnant smokers attending trial centres.</p>
+                <p>2. For individual trial groups, proportions of participants with validated smoking cessation data collected between 4&#160;weeks after randomisation until late pregnancy (at approximately 36&#160;weeks gestation).</p>
+                <p>3. For both trial groups combined, collection of validated smoking cessation data, as above, measured in late pregnancy (approximately 36&#160;weeks gestation).</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Smoking outcomes</p>
+             </st>
+             <p>Smoking outcomes are described below:</p><p>1. Proportion of participants with self-reported, continuous abstinence from smoking from 4&#160;weeks after randomisation until follow-up in late pregnancy (approximately 36&#160;weeks gestation), <it>validated</it> by exhaled CO and/or saliva cotinine estimation; there will be no &#8216;grace period&#8217; <abbrgrp>
+                      <abbr bid="B12">12</abbr>
+                   </abbrgrp>. Participants who report smoking no more than five cigarettes in total between the start of their quit attempt (within 4&#160;weeks of randomisation) and late pregnancy will be considered to have quit smoking <abbrgrp>
+                      <abbr bid="B13">13</abbr>
+                   </abbrgrp>.</p>
+                <p>(Note: Participants who cannot be contacted at 4&#160;weeks after randomisation, but who, in late pregnancy, report cessation as outlined above, will be counted as positive for the late pregnancy cessation outcome).</p>
+                <p>NB: We anticipate the above outcome being a <it>primary outcome</it> for any definitive trial that follows this study.</p>
+                <p>2. Proportion of participants with self-reported abstinence from smoking from 4&#160;weeks after randomisation until late pregnancy (at approximately 36&#160;weeks gestation).</p>
+                <p>3. Proportion of participants with self-reported and validated 7&#160;day point prevalence cessation measured in late pregnancy (approximately 36&#160;weeks gestation).</p>
+                <p>4. Proportion of participants with self-reported 7-day point-prevalence cessation at 4&#160;weeks after randomisation.</p>
+                <p>5. Number of 24&#160;hour quit attempts reported in late pregnancy (approximately 36&#160;weeks gestation).</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Other outcomes</p>
+             </st>
+             <p>Other outcomes include the following:</p><p>1. Use of NHS cessation support.</p>
+                <p>2. Social cognitive variables such as health beliefs and outcome expectancies.</p>
+                <p>3. Process variables such as number of contacts with MiQuit for tailoring of content and increase or decrease requests.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Assignment of interventions: allocation and blinding</p>
+             </st>
+             <p>After entering all baseline data onto a secure online database, research midwives or central staff will randomise participants via this database; however, these staff will be unaware of the participant&#8217;s allocated group. Randomisation will use a computer-generated pseudo-random code with random permuted blocks of randomly varying size, created by the Nottingham Clinical Trials Unit and held on a secure server. The randomisation will be stratified by site and gestation (&lt;16&#160;weeks versus &#8805;16&#160;weeks). The database will then send an email to inform unblinded central administrators who are not involved in participant follow-up of the allocation; they will then send participants an information pack, which will provide further information on participant allocation. Local hospital staff and central staff involved in follow-up will remain blind to treatment allocation as far as possible; however, as participants are not blinded it is possible that they may unintentionally reveal their allocation during follow-up. In addition, staff carrying out the final follow-up calls will need to ask participants questions about the intervention and so will become unblinded towards the end of this call. There should be no other reasons why unblinding is needed. Researchers carrying out the analyses will remain blind. Further details are provided in the data collection sections.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Recruitment</p>
+             </st>
+             <p>Women will be recruited as they attend hospitals for antenatal screening (ultrasound) appointments using one or both of two different methods, depending on the locally-available resources in participating Acute Trusts. For both recruitment methods, all pregnant women attending clinics will be asked to complete a brief questionnaire, which identifies smokers and asks those who would like to receive self-help cessation support in the context of a research study to provide contact details. A PIS will be attached to the questionnaire. Questionnaires will be distributed by a member of the patient&#8217;s usual care team (for example, receptionist or midwife); information about the trial will be displayed in relevant clinical areas and adverts in clinic environments may also be used to aid recruitment. The two methods of recruitment are described as follows:</p><p>1. 
+                            <it>Via trial co-ordinating centre staff</it>: A trust staff member will oversee daily collation of questionnaires and interested women&#8217;s contact details at each recruiting site, sending these to a trial office by fax or post. A member of the study team, who has been appropriately trained, would then telephone potentially-interested women and ensure that all aspects pertaining to study participation are verbally-addressed prior to obtaining consent.</p>
+                <p>2. 
+                            <it>Via staff in Acute Trust</it>: This method of recruitment will only be used in trial centres in which Comprehensive Local Research Network (CLRN) research midwives are available. Consent will, in the main, be obtained in person by a CLRN research midwife (RM); however, should the patient need to leave before consent can be obtained, a member of the team may call and consent over the telephone as for method one. A trust staff member or the RM working within these recruiting sites will oversee collation of questionnaires and the RM will follow up face-to-face those respondents who are interested in participating, usually while they are still in clinic. The RM will offer trial enrolment to all eligible, interested women ensuring that relevant aspects of trial procedures are fully explained prior to obtaining written informed consent. Those women who are not able to wait will be asked (where possible) for a convenient time to contact by telephone where the process will be fully explained and consent provided verbally.</p>
+             <p>This trial will, therefore, investigate the feasibility of the two recruitment methods and will also provide an estimate of CLRN resources that might be required for a definitive study using the second recruitment method. A variety of NHS Trusts will be used as recruitment sites to encourage diversity of recruitment and increase generalisability. Reasons why potential participants are not recruited will be collected and reported.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Withdrawal of participants from intervention or assessments</p>
+             </st>
+             <p>Participants may be withdrawn from the trial either at their own request or at the discretion of the Investigator. Participants who experience miscarriage or fetal death will be advised to withdraw from the trial.</p>
+             <p>Individuals in the MiQuit arm may cancel text messages by sending a &#8216;STOP&#8217; text message at any time during the programme&#8217;s duration. However, unless they specifically withdraw, they will remain in the trial as participants.</p>
+             <p>Any participant who has already participated in the study may not re-enter at a later date.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Participant timeline and data collection</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Pre-Screen</p>
+                </st>
+                <p>All potential participants will be identified via a brief questionnaire, which will be attached to a participant information sheet.</p>
+                <p>
+                      <it>Recruitment method one</it>: For recruitment by this method a member of the Co-ordinating centre study team will complete and sign the consent form noting that the consent was taken by telephone.</p>
+                <p>
+                      <it>Recruitment method two</it>: This will cover the details as for method one, except that the participant can provide either written or verbal informed consent; an RM working within the participating acute trust will explain all aspects of the study and will counter-sign the consent form in both cases.</p>
+                <p>All participants will be asked to give written informed consent for the collection of an exhaled breath and/or saliva sample if they report a quit at the week 36 follow-up. They will be made aware that the provision of samples will only be required if a quit is reported at week 36 of their pregnancy and that this may involve a visit to the participant&#8217;s home by the research midwife. If the participant is not happy to be visited at home but is happy to provide a saliva sample, postal sample kits are available. Carbon monoxide levels in exhaled breath samples can only be measured in person during a home visit.</p>
+                <p>Participants will also be given the option at the beginning of the study to consent to be contacted by the study team to discuss whether they would be interested in being interviewed as part of an intervention process evaluation. They will not be consenting to the interview at the start of the study.</p>
+                <p>All participants will be provided with clear information about how to withdraw their consent via Freepost postcard (provided to all participants), text, email, or telephone. In a similar trial in which we provided similar methods to facilitate informed consent, fewer than 60 participants (from &gt;2,500) withdrew consent after enrolment <abbrgrp>
+                      <abbr bid="B14">14</abbr>
+                   </abbrgrp>.</p>
+                <p>Table&#160;<tblr tid="T1">1</tblr> describes the participant assessments at each stage. Figure&#160;<figr fid="F1">1</figr> gives an overview of the study design and measurement timepoints.
+                      
+                    </p>
+                
+                   <table id="T1">
+                      <title>
+                         <p>Table 1</p>
+                      </title>
+                      <caption>
+                         <p>
+                              <b>Participant assessments at each time point</b>                            
+                         </p>
+                      </caption>
+                      <tgroup align="left" cols="7">
+                         <colspec align="left" colname="c1" colnum="1" colwidth="*"/>
+                         <colspec align="left" colname="c2" colnum="2" colwidth="*"/>
+                         <colspec align="left" colname="c3" colnum="3" colwidth="*"/>
+                         <colspec align="left" colname="c4" colnum="4" colwidth="*"/>
+                         <colspec align="left" colname="c5" colnum="5" colwidth="*"/>
+                         <colspec align="left" colname="c6" colnum="6" colwidth="*"/>
+                         <colspec align="left" colname="c7" colnum="7" colwidth="*"/>
+                         <thead>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>
+                                     <b>Participants Assessments</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>
+                                     <b>Pre-screen</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>
+                                     <b>Visit 1: Baseline</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>
+                                     <b>Randomisation</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>
+                                     <b>Visit 2: 4&#160;week Follow-up</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c6">
+                                  <p>
+                                     <b>Visit 3: Late Pregnancy/Postnatal Follow-up</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c7">
+                                  <p>
+                                     <b>Visit 4: Validation of smoking status</b>                                
+                                  </p>
+                               </entry>
+                            </row>
+                         </thead>
+                         <tfoot>
+                            <p>
+                               <sup>a</sup>Telephone and written consent will be performed at Pre-screening.</p>
+                            <p>
+                               <sup>b</sup>Written consent for cotinine sample collection will be performed at V4 for those who provided telephone consent at pre-screening.</p>
+                            <p>
+                               <sup>c</sup>Telephone/face to face visit will be performed at V1 (only) and face to face/postal visit will be performed at V4 (only). Visits 2 and 3 will be telephone, with questionnaires sent to any who cannot be contacted.</p>
+                            <p>
+                               <sup>d</sup>EQ-5D-3&#160;L - European Quality of life Five Dimension, Three Levels questionnaire to be completed by the participant.</p>
+                            <p>
+                               <sup>e</sup>A small number of those who are allocated to the MiQuit group and consent at baseline will be contacted for a qualitative telephone interview to provide feedback on their experience of the study and intervention.</p>
+                            <p>
+                               <sup>f</sup>Measured with saliva cotinine and/or exhaled CO levels.</p>
+                         </tfoot>
+                         <tbody>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Trial Unit (PS)</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>
+                                     <b>X</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c3"/>
+                               <entry colname="c4"/>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                               <entry colname="c7"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Acute Unit (PS)</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>
+                                     <b>X</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c3"/>
+                               <entry colname="c4"/>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                               <entry colname="c7"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Consent<sup>a,b</sup>
+                                  </p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>
+                                     <b>X</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c3"/>
+                               <entry colname="c4"/>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                               <entry colname="c7">
+                                  <p>
+                                     <b>X</b>                                
+                                  </p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Visit Dates<sup>c</sup>
+                                  </p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3">
+                                  <p>
+                                     <b>X</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c4"/>
+                               <entry colname="c5">
+                                  <p>
+                                     <b>X</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c6">
+                                  <p>
+                                     <b>X</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c7">
+                                  <p>
+                                     <b>X</b>                                
+                                  </p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Demographics/Education</p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3">
+                                  <p>
+                                     <b>X</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c4"/>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                               <entry colname="c7"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Smoking Behaviour 1</p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3">
+                                  <p>
+                                     <b>X</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c4"/>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                               <entry colname="c7"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Smoking Behaviour 2</p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3">
+                                  <p>
+                                     <b>X</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c4"/>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                               <entry colname="c7"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Smoking Behaviour 3</p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3"/>
+                               <entry colname="c4"/>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                               <entry colname="c7">
+                                  <p>
+                                     <b>X</b>                                
+                                  </p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Smoking Beliefs</p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3">
+                                  <p>
+                                     <b>X</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c4"/>
+                               <entry colname="c5"/>
+                               <entry colname="c6">
+                                  <p>
+                                     <b>X</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c7"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Pregnancy</p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3">
+                                  <p>
+                                     <b>X</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c4"/>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                               <entry colname="c7"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Relationship Status</p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3">
+                                  <p>
+                                     <b>X</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c4"/>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                               <entry colname="c7"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Eligibility Criteria Check</p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3">
+                                  <p>
+                                     <b>X</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c4"/>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                               <entry colname="c7"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>EQ-5D-3 L<sup>d</sup>
+                                  </p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3">
+                                  <p>
+                                     <b>X</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c4"/>
+                               <entry colname="c5">
+                                  <p>
+                                     <b>X</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c6">
+                                  <p>
+                                     <b>X</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c7"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Allocation - MiQuit/Control</p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3"/>
+                               <entry colname="c4">
+                                  <p>
+                                     <b>X</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                               <entry colname="c7"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Abstinence Check</p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3"/>
+                               <entry colname="c4"/>
+                               <entry colname="c5">
+                                  <p>
+                                     <b>X</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c6"/>
+                               <entry colname="c7"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Stop Smoking Strategy/Quit attempts</p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3"/>
+                               <entry colname="c4"/>
+                               <entry colname="c5"/>
+                               <entry colname="c6">
+                                  <p>
+                                     <b>X</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c7"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Attitude to Intervention (MiQuit only)<sup>e</sup>
+                                  </p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3"/>
+                               <entry colname="c4"/>
+                               <entry colname="c5"/>
+                               <entry colname="c6">
+                                  <p>
+                                     <b>X</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c7"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Assessment of Tobacco Exposure<sup>f</sup>
+                                  </p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3"/>
+                               <entry colname="c4"/>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                               <entry colname="c7">
+                                  <p>
+                                     <b>X</b>                                
+                                  </p>
+                               </entry>
+                            </row>
+                         </tbody>
+                      </tgroup>
+                   </table>
+                
+                
+                   <fig id="F1">
+                      <title>
+                         <p>Figure 1</p>
+                      </title>
+                      <caption>
+                         <p>Participant flowchart: study design and the timeframe for follow-up assessments. </p>
+                      </caption>
+                      <text>
+                         <p>
+                              <b>Participant flowchart: study design and the timeframe for follow-up assessments.</b>                            
+                         </p>
+                      </text>
+                      <graphic file="s13063-014-0546-4-1"/>
+                   </fig>
+                
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Visit 1 - baseline</p>
+             </st>
+             <p>After giving informed consent, participants will be asked to complete a baseline questionnaire, which may be over the telephone with the study team member (<it>recruitment method one</it>) or over the telephone with a local RM or in person by the RM (<it>recruitment method two</it>). This will confirm contact details and ask about socio- demographic data, smoking attitudes and behaviour (for MiQuit tailoring), heaviness of smoking <abbrgrp>
+                   <abbr bid="B15">15</abbr>
+                </abbrgrp>, gestational age, number of births beyond 24&#160;weeks, partner&#8217;s (significant other&#8217;s) smoking status and health status (EQ-5D) <abbrgrp>
+                   <abbr bid="B16">16</abbr>
+                </abbrgrp>.</p>
+             <p>The researcher will enter the participant details on the electronic database and then randomise the participant. This will ensure the researcher will remain blinded to the participant allocation. The participants are randomised, using the Nottingham Clinical Trials Unit's web-based service, to intervention (MiQuit) or control. For participants in either trial arm, a specific information sheet, which describes only details of procedures employed within that arm, will be generated and sent to them by a non-blinded member of the trial team who is not involved in follow-up. Documentation will also include a leaflet giving some information and advice on stopping smoking, details of a contact point for participants who have questions about trial involvement and details of how participants can reverse their decision to take part (outlined in - removal of participants from intervention or assessments). The PIS, information sheets and consent form will be available in English only, as understanding of English is required to receive the MiQuit intervention.</p>
+             <p>Follow-up contacts will use a blend of postal, telephone, email/web and SMS text messaging reminders to elicit maximal response rates. For those participants reporting a quit, where possible, a home visit from their local RM will be arranged.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Visit 2 - 4-week follow-up</p>
+             </st>
+             <p>
+                    <it>At 4&#160;weeks after randomisation</it>, participants will be contacted via telephone in order to assess smoking status, numbers of quit attempts lasting more than 24&#160;hours, quality of life information (EQ-5D) and use of NHS and non-NHS smoking cessation support in the period since randomisation. This visit will, in general, be performed via telephone by a member of the study team at the co-ordinating centre, blind to treatment allocation; however, should the study team be unable to contact by the participant by telephone, other methods will be used in an attempt to elicit the best response. These include; posting a short questionnaire with explanatory letter and pre-paid return envelope, or sending a link, which allows web-based completion or by text.</p>
+             <p>It is possible that if members of the co-ordinating centre study team speak to participants at the 4-week follow-up, they may become un-blinded for the late pregnancy follow-up (visit 3). However, the value of exploring the feasibility of different follow-up approaches for this pilot trial outweighs the small risk of bias presented by this scenario.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Visit 3 - late pregnancy/postnatal follow-up</p>
+             </st>
+             <p>
+                    <it>At 36&#160;weeks gestation</it>: Participants will be asked to complete a questionnaire (data to be collected up to 10&#160;weeks after estimated delivery date will be acceptable for use). This will include quality of life information (EQ-5D) and measures of smoking behaviour, attitudinal/behavioural information, use of NHS smoking cessation support and participants&#8217; ratings of the intervention (MiQuit arm only). As for the 4-week visit, this visit will be performed mainly via telephone by a member of the study team at the co-ordinating centre, blind to treatment allocation. As for the 4-week visit, previously-described alternative methods will be employed to elicit the best response rate.</p>
+             <p>It is recognised that asking about the intervention at follow-up will result in the researcher who conducts the late pregnancy follow-up becoming un-blinded. To ensure that this has minimal impact on follow-up data obtained, the participants will be asked items about the intervention at the end of the interview/questionnaire starting with the question &#8216;<it>Did you receive any stop smoking text messages from the study team</it>?&#8217;</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Visit 4 - validation of smoking status</p>
+             </st>
+             <p>During this assessment, whether in person or by post, participants will be asked to report their smoking status and recent use of nicotine replacement therapies.</p>
+             <p>Participants self-reporting abstinence in late pregnancy will have their smoking status validated by exhaled carbon monoxide (CO) readings and/or salivary cotinine samples. The validation of smoking cessation would be initiated as soon as possible after notification of abstinence at visit 3.</p>
+             <p>Exhaled CO will be measured using a validated hand held CO monitor and can only be taken when a researcher is able to visit the participant in their home. Saliva samples for cotinine (a metabolite of nicotine) analysis could be collected at the same visit. Ideally both forms of assessment would be used, but either CO or cotinine assessment would be sufficient on their own if difficulties in getting a valid sample are experienced with either method. Where it is not possible to visit a participant in their home, a salivary sample pack will be sent by post and participants will be invited to return a sample in a pre-paid postal packet. Written consent agreeing to provide the samples for validation will be obtained from any participants who did not give this consent at baseline (that is, those who were recruited via telephone). This consent will be obtained either during the home visit or by sending a consent form for the participant to complete and return with a postal saliva sample. Cut-off points for biochemical verification will be determined according to the latest evidence, but defined abstinence is likely to be in the region of &lt;9&#160;ppm for CO readings and &lt;10 ng/ml for salivary cotinine <abbrgrp>
+                   <abbr bid="B17">17</abbr>
+                </abbrgrp>.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Duration of the trial</p>
+             </st>
+             <p>It is anticipated that the total duration of the study will be 20&#160;months. This will include 12&#160;months of recruitment and 8&#160;months of follow-up.</p>
+             <p>Late pregnancy outcome ascertainment is intended to be at 36&#160;weeks gestation, or at latest, within two weeks of birth. However, if outcome data become available after this point, we will permit it to be used in analyses provided the timing of data collection is no later than 10&#160;weeks after the estimated due date.</p>
+             <p>Qualitative interviews undertaken as part of a process evaluation will be carried out shortly after the late pregnancy follow-up and are not planned to be carried out any later than 10&#160;weeks after the estimated delivery date.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>End of the trial</p>
+             </st>
+             <p>The end of the trial will be when the late pregnancy outcome has been ascertained for the final participant or it is too long after this participant&#8217;s estimated delivery date (EDD) for such information, if collected, to be used.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Participant stipends and payments</p>
+             </st>
+             <p>All participants will receive compensation for their time to the value of &#163;5 for each study visit in the form of a national high street shopping voucher. Those participants who are asked to provide a saliva sample will be sent a &#163;5 voucher with the sample request pack and a second &#163;5 voucher on receipt of a saliva sample. Those participants who participate in a longer in-depth qualitative interview to gain information on their experience of the intervention (MiQuit arm only) will receive &#163;20 in vouchers as compensation for their time.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Qualitative interviews for process evaluation</p>
+             </st>
+             <p>A small number of semi-structured telephone interviews will be carried out with a selection of participants from the MiQuit arm in order to address secondary objective 4. This process evaluation will provide important data on participant&#8217;s experience of receiving support from MiQuit within the context of their everyday lives and participation in a trial. Semi-structured interviews will enable the researcher to have some control over the data collected to compliment the trial evaluation but at the same time be interactive and allow the participant control also. The findings will greatly assist the design of a definitive trial and optimisation of the intervention.</p>
+             <p>Participants will be purposively selected according to smoking status and cessation behaviour and use of the MiQuit system, including those who decide to discontinue use of MiQuit. Only participants who have already consented at baseline to be contacted to discuss participation in an interview will be contacted and will receive additional information before the call on what to expect. After completing the late pregnancy follow-up, participants in the MiQuit arm, who indicated at baseline that they were happy to be contacted about participation in an interview, will be sent a specific information sheet and blank consent form. A researcher will call a number of participants (not all) and establish if the participant is still interested in going ahead with the interview. If they are happy to continue, the researcher will request verbal consent for the interview and proceed with the interview. If the participant is interested but unable to continue with the interview at that time, a specific date will be set for the interview to take place. In every case, verbal consent will be recorded by the researcher before the interview goes ahead, and a copy of the consent form will be sent to the participant. The participant will be made aware that the interview will be audio-recorded and that they can withdraw from the interview at any time and that this would not affect their subsequent care or rights. Participants will be recruited until the researchers feel that data saturation has occurred (that is, the point where few novel insights are generated from the most recent interviews). Given the focused nature of the interviews, it is anticipated that this would be reached after interviewing 10 to 15 participants. The interview schedule will include questions on the participants&#8217; general experience of smoking and quitting during pregnancy, their experience of using and interacting with MiQuit, their feelings towards whether and how MiQuit might have helped them engage or maintain a quit attempt, and their thoughts on how it could be improved.</p>
+             <p>The interviews will be undertaken by experienced personnel and last up to 60&#160;minutes. The interviews will be analysed using framework analysis, assisted by the qualitative analysis software NVivo. This will include looking at two main characteristics of the participants: that is, smoking status and use of system including those who discontinue (text STOP) and how these relate to several aspects of the experience of receiving the intervention including factors that may affect interaction with MiQuit, feelings towards message content and system features and suggestions for improvements for future use.</p>
+             <p>A number of semi-structured telephone or face to face interviews will also be carried out with a selection of recruiting site research staff involved in the study in order to address secondary objective 5. This will provide important data on the staff experience of running and recruiting into the MiQuit study. As for the participant interviews, the semi-structured interviews will enable the team to have some control over the data collected to complement the trial evaluation but also be interactive to allow the local site research staff to have some control too. The findings will greatly assist the practical design of a definitive trial.</p>
+             <p>A number of staff from recruiting centres will be selected for interview, to allow a variety of opinions and comments to be collected.</p>
+             <p>The objectives for these interviews are as follows:</p><p>1. To develop a taxonomy for describing MiQuit trial recruitment processes.</p>
+                <p>2. To describe research midwives&#8217; perceptions of the key facilitators for and barriers against recruitment.</p>
+                <p>3. To relate key facilitators and barriers to recruitment processes and so further understanding of how, in a definitive trial, recruitment could be maximised.</p>
+                <p>4. To describe from the perspective of research midwives, those factors, which are perceived to influence acute trusts&#8217; decisions to act as a trial centres (NB: after analysis, we will be in a position to hypothesise about how best to encourage trusts to sign up to being trial centres in a definitive study).</p>
+             <p>Issues to be covered in staff interviews will include the following:</p><p>1. The particular process they used in their site to identify, engage and enrol participants, including the consent process;</p>
+                <p>2. their views on the local trial processes, including why particular processes were used, what worked well or was challenging, what the study team could have done to make this easier, particularly focussing on issues that it is possible to influence;</p>
+                <p>3. how decisions are made about Trust involvement in a particular trial and what influenced them to take part, whether they would consider being involved in a similar study again, insights into best way to achieve meaningful collaboration; and</p>
+                <p>4. their views on the intervention.</p>
+             <p>The interviews will be audiotaped and analysed using thematic qualitative analysis.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Statistical methods</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Sample size and justification</p>
+                </st>
+                <p>1. 
+                              <it>Estimation of key trial parameters</it>                            
+                   </p>
+                <p>The primary objective of this pilot trial is to demonstrate the feasibility of running a definitive, multi-centre trial of the MiQuit interevention within an NHS context; with 400 participants, the following key parameters will be estimable within the precision indicated (figures presented are margin of error&#8201;=&#8201;half width of 95% confidence interval):</p><p>a. the recruitment rate of participants from within smokers attending trial centres/hospital to within +/&#8722; 1%,</p>
+                   <p>b. for individual trial groups, proportion of participants with validated smoking cessation between 4&#160;weeks after randomisation until late pregnancy to within +/&#8722; 4%, and</p>
+                   <p>c. for both trial groups, the combined proportion of participants who quit in late pregnancy (cessation as defined above) to within +/&#8722; 3%, assuming that the actual proportion of participants quitting is around 10%.</p><p>2. 
+                              <it>Estimate for short-term efficacy</it>                            
+                   </p>
+                <p>A secondary objective of this pilot trial is to estimate the effectiveness of the MiQuit intervention for promoting smoking cessation. Providing evidence to support the notion that this intervention is likely to be effective would increase the research team&#8217;s future chances of obtaining funding to conduct a definitive trial. We will investigate efficacy of MiQuit at 4&#160;weeks after randomisation by comparing self-reported, 7-day, point-prevalence, cessation rates between trial groups. It should be noted that this is a surrogate end point for that which we plan to use in any definitive trial; a potential strength of using this is that event rates (that is, proportion of participants achieving cessation) are likely to be higher at this time point, which is closer to randomisation than the late pregnancy-assessment point, and this could provide greater power to detect between group differences. A potential disadvantage is that the relationship between this surrogate endpoint and cessation in late pregnancy (approx 36&#160;weeks) is not known; consequently, findings using data obtained at this time point should not be used in isolation to assess whether or not a definitive trial should be conducted. Consequently, using 95% and 80% confidence intervals (CIs), Tables&#160;<tblr tid="T2">2</tblr> and <tblr tid="T3">3</tblr> illustrate for this trial with 400 participants, the precision for detecting different ORs representing differences between groups over a range of control group event (that is, quit) rates. The choices of parameters for the tables are explained below.
+                      
+                    </p>
+                
+                   <table id="T2">
+                      <title>
+                         <p>Table 2</p>
+                      </title>
+                      <caption>
+                         <p>
+                              <b>Estimates for treatment effect: precision estimates presented as 95% confidence intervals</b>                            
+                         </p>
+                      </caption>
+                      <tgroup align="left" cols="4">
+                         <colspec align="left" colname="c1" colnum="1" colwidth="*"/>
+                         <colspec align="left" colname="c2" colnum="2" colwidth="*"/>
+                         <colspec align="left" colname="c3" colnum="3" colwidth="*"/>
+                         <colspec align="left" colname="c4" colnum="4" colwidth="*"/>
+                         <thead>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>
+                                     <b>
+                                        <it>95% CI Odds ratio</it> 
+                                    </b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>
+                                     <b>10% control event rate N&#8201;=&#8201;200 in each group</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>
+                                     <b>15% control event rate N&#8201;=&#8201;200 in each group</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>
+                                     <b>20% control event rate N&#8201;=&#8201;200 in each group</b>                                
+                                  </p>
+                               </entry>
+                            </row>
+                         </thead>
+                         <tbody>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>1.3</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>0.70 to 2.42</p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>0.77 to 2.20</p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>0.81 to 2.09</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>1.5</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>0.82 to 2.76</p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>0.90 to 2.51</p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>0.94 to 2.39</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>1.8</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>1.0 to 3.26</p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>1.09 to 2.98</p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>1.14 to 2.85</p>
+                               </entry>
+                            </row>
+                         </tbody>
+                      </tgroup>
+                   </table>
+                
+                
+                   <table id="T3">
+                      <title>
+                         <p>Table 3</p>
+                      </title>
+                      <caption>
+                         <p>
+                              <b>Estimates for treatment effect: precision estimates presented as 80% confidence intervals</b>                            
+                         </p>
+                      </caption>
+                      <tgroup align="left" cols="4">
+                         <colspec align="left" colname="c1" colnum="1" colwidth="*"/>
+                         <colspec align="left" colname="c2" colnum="2" colwidth="*"/>
+                         <colspec align="left" colname="c3" colnum="3" colwidth="*"/>
+                         <colspec align="left" colname="c4" colnum="4" colwidth="*"/>
+                         <thead>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>
+                                     <b>
+                                        <it>80% CI Odds ratio</it> 
+                                    </b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>
+                                     <b>10% control event rate N&#8201;=&#8201;200 in each group</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>
+                                     <b>15% control event rate N&#8201;=&#8201;200 in each group</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>
+                                     <b>20% control event rate N&#8201;=&#8201;200 in each group</b>                                
+                                  </p>
+                               </entry>
+                            </row>
+                         </thead>
+                         <tbody>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>1.3</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>0.87 to 1.95</p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>0.92 to 1.83</p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>0.95 to 1.77</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>1.5</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>1.01 to 2.23</p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>1.07 to 2.10</p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>1.11 to 2.03</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>1.8</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>1.22 to 2.65</p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>1.29 to 2.51</p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>1.33 to 2.43</p>
+                               </entry>
+                            </row>
+                         </tbody>
+                      </tgroup>
+                   </table>
+                
+                <p>
+                      <it>Control group event (quit) rates</it>: There are few data with which we can estimate control group event (that is, proportion of participants achieving cessation) rates at 1&#160;month after randomisation, but accurate estimates are important to inform meaningful sample size estimates. One recent trial (MiQuit feasibility trial), tested a very similar version of this trial&#8217;s intervention, but in this study 7-day point-prevalence abstinence was measured in similar manner as we propose at <it>12&#160;weeks</it> after randomisation, rather than at 1&#160;month after; in this trial, the control group quit rate was 19.6% <abbrgrp>
+                      <abbr bid="B11">11</abbr>
+                   </abbrgrp>. Two recent UK trials have enrolled pregnant smokers, albeit with different characteristics, and have measured cessation outcomes at 1&#160;month after randomisation. A trial of nicotine patches found a 14% control group rate of self-reported, <it>prolonged</it> cessation between randomisation and 1&#160;month <abbrgrp>
+                      <abbr bid="B18">18</abbr>
+                   </abbrgrp>, and control group women recruited to an exercise intervention RCT had a 13.7% validated abstinence rate, again for reported, <it>prolonged</it> abstinence during the same period (unpublished findings) <abbrgrp>
+                      <abbr bid="B19">19</abbr>
+                   </abbrgrp>. Overall, therefore, assuming that control group quit rates will fall within in a 10 to 20% range seems reasonable.</p><p>3. 
+                              <it>Estimates for treatment effect</it>                            
+                   </p>
+                <p>MiQuit is a self-help intervention and a systematic review of self-help interventions used for smoking cessation in pregnancy found a pooled estimate for the effectiveness of these, which corresponds to an Odds Ratio (OR) and (95% CI) in favour of using such interventions of 1.83 (1.23 to 2.73) <abbrgrp>
+                      <abbr bid="B7">7</abbr>
+                   </abbrgrp>. Using data obtained at 3&#160;months after randomisation, the MiQuit feasibility trial found an OR in favour of using MiQuit of 1.68 (0.66 to 4.31) <abbrgrp>
+                      <abbr bid="B11">11</abbr>
+                   </abbrgrp>. Consequently, using a range of OR from 1.3 to 1.8 is appropriate.</p>
+                <p>
+                      <it>Estimating cessation in late pregnancy:</it> For modelling analyses, we will use a trial-derived estimate for the treatment effect of the intervention derived from between-group differences in validated, longer term quit rates, measured in late pregnancy (that is, at approximately 36&#160;weeks gestation). Again deriving this estimate is a secondary objective of the trial. Tables&#160;<tblr tid="T4">4</tblr> and <tblr tid="T5">5</tblr> use 95% and 80% confidence intervals (CIs), to illustrate for this trial with 400 participants, the precision for detecting different ORs representing differences between groups over a range of control group event (that is, proportion of participants achieving cessation) rates. The proportion of participants in the control group who quit is based on 5% and 10%, as this reflects findings in the three trials described above <abbrgrp>
+                      <abbr bid="B11">11</abbr>
+                   </abbrgrp>,<abbrgrp>
+                      <abbr bid="B18">18</abbr>
+                   </abbrgrp>,<abbrgrp>
+                      <abbr bid="B19">19</abbr>
+                   </abbrgrp>.
+                      
+                    </p>
+                
+                   <table id="T4">
+                      <title>
+                         <p>Table 4</p>
+                      </title>
+                      <caption>
+                         <p>
+                              <b>Estimating cessation in late pregnancy: precision estimates presented as 95% confidence intervals</b>                            
+                         </p>
+                      </caption>
+                      <tgroup align="left" cols="4">
+                         <colspec align="left" colname="c1" colnum="1" colwidth="*"/>
+                         <colspec align="left" colname="c2" colnum="2" colwidth="*"/>
+                         <colspec align="left" colname="c3" colnum="3" colwidth="*"/>
+                         <colspec align="left" colname="c4" colnum="4" colwidth="*"/>
+                         <thead>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>
+                                     <b>
+                                        <it>95% CI Odds ratio</it> 
+                                    </b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>
+                                     <b>5% control event rate N&#8201;=&#8201;200 in each group</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>
+                                     <b>8% control event rate N&#8201;=&#8201;200 in each group</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>
+                                     <b>10% control event rate N&#8201;=&#8201;200 in each group</b>                                
+                                  </p>
+                               </entry>
+                            </row>
+                         </thead>
+                         <tbody>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>1.3</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>0.56 to 3.05</p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>0.65 to 2.58</p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>0.70 to 2.42</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>1.5</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>0.66 to 3.44</p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>0.77 to 2.93</p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>0.82 to 2.76</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>1.8</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>0.81 to 4.02</p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>0.94 to 3.46</p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>1.0 to 3.26</p>
+                               </entry>
+                            </row>
+                         </tbody>
+                      </tgroup>
+                   </table>
+                
+                
+                   <table id="T5">
+                      <title>
+                         <p>Table 5</p>
+                      </title>
+                      <caption>
+                         <p>
+                              <b>Estimating cessation in late pregnancy: precision estimates presented as 80% confidence intervals</b>                            
+                         </p>
+                      </caption>
+                      <tgroup align="left" cols="4">
+                         <colspec align="left" colname="c1" colnum="1" colwidth="*"/>
+                         <colspec align="left" colname="c2" colnum="2" colwidth="*"/>
+                         <colspec align="left" colname="c3" colnum="3" colwidth="*"/>
+                         <colspec align="left" colname="c4" colnum="4" colwidth="*"/>
+                         <thead>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>
+                                     <b>
+                                        <it>80% CI Odds ratio</it> 
+                                    </b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>
+                                     <b>5% control event rate N&#8201;=&#8201;200 in each group</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>
+                                     <b>8% control event rate N&#8201;=&#8201;200 in each group</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>
+                                     <b>10% control event rate N&#8201;=&#8201;200 in each group</b>                                
+                                  </p>
+                               </entry>
+                            </row>
+                         </thead>
+                         <tbody>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>1.3</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>0.75 to 2.27</p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>0.83 to 2.04</p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>0.87 to 1.95</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>1.5</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>0.87 to 2.58</p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>0.97 to 2.33</p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>1.01 to 2.23</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>1.8</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>1.06 to 3.05</p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>1.18 to 2.76</p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>1.22 to 2.65</p>
+                               </entry>
+                            </row>
+                         </tbody>
+                      </tgroup>
+                   </table>
+                
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Data analysis</p>
+             </st>
+             <p>Members of the research team, led by the study statistician, will undertake the analyses. A full statistical analysis plan will be finalised and agreed by the Trial Steering Committee prior to data analysis. Initially, participants in the two intervention groups will be described separately with respect to the following:</p><p>1. Centre</p>
+                <p>2. Age at randomisation</p>
+                <p>3. Ethnic group (white, other)</p>
+                <p>4. Gestation at randomisation (&lt;16&#160;weeks, 16+ weeks)</p>
+                <p>5. Heaviness of smoking</p>
+                <p>6. Number of births beyond 24&#160;weeks,</p>
+                <p>7. Previous history of prenatal smoking</p>
+                <p>8. Partner/significant other&#8217;s smoking status</p>
+                <p>9. Participant&#8217;s health status (EQ5D)</p>
+                <p>10.  Participant&#8217;s motivation to quit</p>
+             <p>Analyses will primarily address the feasibility objectives of the study. We will determine the recruitment rate, with 95% confidence intervals, of participants who take part in the study from pregnant smokers attending trial centre. For each trial treatment group, we will estimate the proportions of participants, with 95% confidence intervals, achieving validated smoking cessation between 4&#160;weeks after randomisation until late pregnancy (at approximately 36&#160;weeks gestation). We will also estimate the proportion of participants, with 95% confidence intervals, who achieve validated smoking cessation in late pregnancy (approximately at 36&#160;weeks gestation) for both trial groups combined.</p>
+             <p>We will perform chi-squared tests to assess the association for the proportion of participants who achieve 4-week and late-pregnancy smoking outcomes between the trial treatment groups. Logistic regression models will then be used to compare the outcomes between the two trial groups with adjustment for factors used to stratify the randomisation (centre and gestation at randomisation; &lt;16&#160;weeks versus &#8805;16&#160;weeks) through including these as fixed covariates in the model. These analyses will be pragmatic and based on intention-to-treat. Additionally, we will create the following graphs to look at the pattern of the outcome response across centres:</p><p>1. Average outcome in the intervention group versus the average outcome in the control group per centre.</p>
+                <p>2. Average difference in outcome between the intervention and control groups per centre versus centre.</p>
+             <p>Further multiple logistic regression analyses will be conducted to assess the strength of association between baseline covariates and 4-week and late-pregnancy smoking outcomes, which will include the following:</p><p>1. Heaviness of smoking.</p>
+                <p>2. Partner/significant other&#8217;s smoking status.</p>
+                <p>3. Education as a measure of SES.</p>
+             <p>These variables have been chosen as potentially requiring adjustment because, in previous studies, they have been shown to be associated with smoking cessation in pregnancy <abbrgrp>
+                   <abbr bid="B20">20</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B21">21</abbr>
+                </abbrgrp>.</p>
+             <p>Other smoking outcomes will be analysed using similar methods: 95% confidence intervals will be presented along with exact two-sided <it>P</it> values. Descriptive analyses will be performed to assess the effect of the intervention on the use of NHS cessation support, use of interactive features of the intervention and social cognitive variables.</p>
+             <p>We also plan to explore the mechanism of effect for the MiQuit intervention that is, how the intervention might change smoking behaviour. For this, we will undertake mediation analyses to explore whether potential changes in social cognitive determinants of smoking cessation explain changes in quitting behaviour. This will be a secondary analysis and, therefore, covered in a separate paper rather than in the main trial outcomes paper.</p>
+             <p>Health economic analysis will investigate the potential incremental cost-effectiveness of MiQuit using costs (actual and estimated) of delivering the intervention and estimates for its effectiveness derived from the trial. Models developed in previous studies will be used to project the likely cessation rates into longer term estimates of life years gained.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Assessment of efficacy</p>
+             </st>
+             <p>The smoking outcome measure used to estimate efficacy will be self-reported, prolonged abstinence from smoking from 4&#160;weeks after randomisation until late pregnancy, validated by exhaled CO and/or saliva cotinine estimation. Smoking up to five cigarettes during the abstinence period will be permitted and consistent with a positive outcome.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Assessment of safety</p>
+             </st>
+             <p>As this evaluation concerns a behavioural intervention we are not assessing any safety variables or collecting any adverse events.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Procedures for missing, unused and spurious data</p>
+             </st>
+             <p>Our primary analyses will use an intention-to-treat approach, analysing all participants&#8217; outcome data within the intervention group to which they were randomised, assuming, as is consistent with the Russell Standard, that participants with missing smoking status data are smoking <abbrgrp>
+                   <abbr bid="B13">13</abbr>
+                </abbrgrp>. Participants are advised to withdraw from the study if they have a miscarriage or still birth or where the infant has died following birth; however, if they do not and this is established at follow-up they may decline to provide information. These women will be included in the analyses and assumed to be smoking.</p>
+             <p>For the descriptive analyses, where there are missing baseline socio-demographic data, a separate category will be created and reported to represent the missing data. For statistical analyses involving socio-demographic variables with missing data, if the proportion of missing data is &lt;5% and roughly similar in both intervention groups, then we will explore the robustness of using a complete-case analysis and an analysis including allowing for the missing data through analysing missing data as a separate category. If &gt;5% of socio-demographic data are missing, then we will consider using imputation methods, such as multiple imputations. The impact of the imputations methods will be assessed fully in sensitivity analyses.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Definition of populations analysed</p>
+             </st>
+             <p>For the efficacy and cost-effectiveness estimate assessments, all randomised participants will be used in the analyses using intention-to-treat population as defined below. All participants in the intention-to-treat population will be used for establishing use of NHS smoking cessation support and for the mechanism of effect analysis.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Intention-to-treat population</p>
+             </st>
+             <p>The intention-to-treat (ITT) population is defined for this trial as all pregnant smokers who were randomised into the trial. Participants will be analysed based on the intervention group to which they were randomised. For participants with missing smoking-related outcomes, we will use the Russell Standard, where these participants will be assumed to be smoking <abbrgrp>
+                   <abbr bid="B13">13</abbr>
+                </abbrgrp>.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Sensitivity analyses</p>
+             </st>
+             <p>Two populations will be used for the sensitivity analyses on the 4-week and late-pregnancy smoking outcome measures:</p><p>1. All pregnant smokers who were randomised into the trial, and who have outcome data available for analysis (complete case analysis). Participants will be analysed based on the intervention group to which they were randomised.</p>
+                <p>2. All pregnant smokers who were randomised into the trial, and who, in the intervention group, self-reported at follow up that they received the intervention leaflet and text messages (per protocol analysis).</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Health economics</p>
+             </st>
+             <p>Per-participant costs of providing the MiQuit service will be calculated. and EQ-5D data will be used with this to estimate the incremental cost-effectiveness of offering the MiQuit intervention. Given that this is a pilot study rather than a definitive trial, it is acknowledged that the estimate for incremental cost-effectiveness will have limited accuracy and so a range of different potential values will be used to model the potential lifetime cost effectiveness of introducing MiQuit into routine clinical practice. Modelling will use i) estimates for uptake of NHS services by smokers and non-smokers after pregnancy, which have been derived from a similar recent trial that employed post-partum follow up <abbrgrp>
+                   <abbr bid="B18">18</abbr>
+                </abbrgrp>, and ii) a model, which values smoking cessation in pregnancy in economic terms and is currently being developed by a PhD student.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Data management</p>
+             </st>
+             <p>Data will be entered electronically on a trial specific database. Only research midwives and the research study team will have database access, which permits them to make new entries and also to access relevant personal data collected from participants at their sites (for example, contact details).</p>
+             <p>To enable anonymisation, each participant will be assigned a unique trial identity code number, allocated at randomisation, for use on all trial documents and the electronic database.</p>
+             <p>The database will be maintained on a server located within the Nottingham Clinical Trials Unit, University of Nottingham (Chief Investigator&#8217;s institution). The database has a regular back-up routine, and will be password protected.</p>
+             <p>Anonymised data, which have been sent to MiQuit and which have been used to individualise SMS text messages, will be held on a secure server within the Institute of Public Health at the University of Cambridge. Only authorised trial staff shall have access to trial documentation other than for the regulatory requirements.</p>
+             <p>All trial staff and investigators will endeavour to protect the rights of the trial&#8217;s participants to privacy and informed consent and will adhere to the Data Protection Act, 1998.</p>
+             <p>Electronic data will be backed up every 24&#160;hours to both local and remote media in encrypted format. Electronic audio files of the interviews will be stored in an encrypted format. Transcribed interviews will be anonymised.</p>
+             <p>Monitoring of trial data shall include confirmation of informed consent; source data verification; data storage and data transfer procedures; local quality control checks and procedures, back-up and disaster recovery of any local databases and validation of data manipulation. The Trial Manager, or where required, a nominated designee of the Sponsor, shall carry out monitoring of trial data as an on-going activity.</p>
+             <p>All records and documents regarding the conduct of the study will be retained for at least 7&#160;years or for longer if required. The trial master file and trial documents held by the Chief Investigator on behalf of the sponsor will be archived at secure archive facilities at the University of Nottingham. This archive shall include all trial databases and associated meta-data encryption codes.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Transport, storage and analysis of saliva samples</p>
+             </st>
+             <p>The use of oral fluid samples (saliva) is a non-invasive way of measuring cotinine, a nicotine metabolite <abbrgrp>
+                   <abbr bid="B22">22</abbr>
+                </abbrgrp>. Saliva samples will be collected at visit 4 (around 36&#160;weeks gestation) to verify smoking status by a researcher or by post if a visit is not possible. Saliva samples will be obtained using clean salivettes; it will involve the participant placing a sterile swab under the tongue, for up to 5&#160;minutes until it is moist and then placing the swab into a sterile vessel. All samples will be stored in a linked anonymised format in a secure freezer storage unit (&#8722;20&#176;C) within Nottingham Health Science Biobank (NHSB) according to their approved protocols. Where researchers obtain samples by visiting participants who live at a distance that would make it impractical to deliver these to Nottingham in person, these samples will be posted by the study team in suitable packaging, and when received, the study team will transfer them to NHSB. Samples are stable at ambient temperatures for several days. For postal samples, the participant will be asked to state the date they provided the sample on the label. Participants will be advised to return the sample (using the protective pre-paid and addressed packaging) on the day they provide the sample. Again these will be transferred to the NHSB by a member of the study team. Nottingham Health Science Biobank has been given full approval by the HTA to be a full licence holder, meeting all legislation requirements.</p>
+             <p>Once all samples have been collected for the study, NHSB will arrange transportation of samples by courier to ABS Laboratories Ltd, Hertfordshire for analysis in a single batch shipment. The shipment will contain a complete inventory of all samples, along with the name of the person responsible for sending the samples. The master database to link all samples will be held by the Nottingham study team in a password encrypted file. The laboratory will quantify salivary cotinine levels using a quantitative enzyme immunoassay technique (EIA). Once the analysis has been completed the saliva samples will be destroyed in accordance with the Human Tissue Act 2004, this will only occur once the study team have received the results and have analysed the data to ensure that all samples remain in a normal range and do not require retesting.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Dissemination</p>
+             </st>
+             <p>Results will be written up for publication in peer reviewed journals and disseminated at local, national, and international meetings where appropriate. A lay summary will be produced and distributed to those participants who have indicated they would like to receive a copy and other interested parties.</p>
+             <p>Participants will not be identified in any publications or presentations resulting from this study.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>User and public involvement</p>
+             </st>
+             <p>A Public and Patient Involvement representative has contributed to this protocol, to trial documents and to the development of the intervention. In addition, several individuals who took part in a pilot trial of MiQuit have been consulted and have provided guidance on the refinement and delivery of MiQuit.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Indemnity</p>
+             </st>
+             <p>Insurance and indemnity for trial participants and trial staff is covered within the NHS Indemnity Arrangements for clinical negligence claims in the NHS, issued under cover of HSG (96)48.</p>
+             <p>The University of Nottingham as research Sponsor indemnifies its staff, research participants and research protocols with both public liability insurance and clinical trials insurance. These policies include provision for indemnity in the event of a successful litigious claim for proven non-negligent harm.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Trial management</p>
+             </st>
+             <p>The Chief Investigator has overall responsibility for the study and will oversee all study management. The Trial Management Group (TMG) will be responsible for the day to day running of the trial. The TMG will be supported by and report to an independent Trial Steering Committee. Trial co-ordination will be managed centrally by the study team based in Nottingham led by a trial manager and guided by the TMG. The Cambridge research team will manage a server hosting the MiQuit intervention; however, the Chief Investigator (Nottingham) will be custodian of all study data.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Ethics approval</p>
+             </st>
+             <p>Ethical approval for this study was granted by Nottingham 1 Research Ethics Committee (NRES reference 13/EM/0427).</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Sponsor</p>
+             </st>
+             <p>The trial is sponsored by the University of Nottingham.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Discussion</p>
+          </st>
+          <p>Once completed, this pilot trial will provide the necessary data to plan for larger definitive study to investigate whether or not self-help cessation support <abbrgrp>
+                <abbr bid="B7">7</abbr>
+             </abbrgrp> provided in an interactive text message format can help pregnant women to achieve cessation. This pilot trial provides information, which complements that from our earlier feasibility trial <abbrgrp>
+                <abbr bid="B11">11</abbr>
+             </abbrgrp> and has been necessary for a number of reasons.</p>
+          <p>First, the primary outcome for the earlier study was self-reported, 7-day, point-prevalence, smoking cessation <abbrgrp>
+                <abbr bid="B12">12</abbr>
+             </abbrgrp> measured at 12&#160;weeks after trial entry <abbrgrp>
+                <abbr bid="B11">11</abbr>
+             </abbrgrp>. Whilst any period of smoking cessation is likely to be beneficial for pregnant women and their infants, maximal health gain for infants is likely to occur if mothers maintain abstinence throughout pregnancy. Additionally, it is possible that women who remain smoke free for the whole of pregnancy will be better able to avoid relapse back to smoking after childbirth and, for both reasons, a definitive study should aim to detect any impact on women&#8217;s smoking throughout the whole of pregnancy. Most smoking cessation trials encourage participants to set a quit date and cessation outcomes are measured prospectively from this point; however, MiQuit is a &#8216;cessation-induction&#8217; intervention, which encourages, but does not require users to set a definite quit date. Finding appropriate time points in pregnancy from which continuous cessation can be measured, monitored and validated, after participants have been exposed to MiQuit, is an important issue that the pilot trial is attempting to resolve. Achieving high ascertainment rates for piloted methods of measuring continuous cessation will mean that our piloted outcome could be used to measure and validate smoking cessation throughout the whole of pregnancy in any future definitive RCT.</p>
+          <p>Second, the treatment effects attributable to smoking cessation interventions are generally inversely proportional to their intensity <abbrgrp>
+                <abbr bid="B23">23</abbr>
+             </abbrgrp> and MiQuit is a low-intensity intervention. For a definitive study to have sufficient power to show whether or not MiQuit has efficacy for smoking cessation in pregnancy, such a study could need a sample size of over 3,000 participants (estimated using data from previous MiQuit trial <abbrgrp>
+                <abbr bid="B11">11</abbr>
+             </abbrgrp>). Clearly, to plan a definitive study that combines a sufficiently high chance of providing a definitive answer with efficient use of resources, the best possible information is needed. This pilot trial will provide the first estimate for the treatment effect that MiQuit might have for influencing continuous smoking cessation between earlier and later (approximately 36&#160;weeks) pregnancy; although the pilot is not powered to provide such an estimate with high precision, it will nevertheless, be a very valuable parameter. Additionally, knowing the combined treatment groups&#8217; cessation rates at 36&#160;weeks will also be useful to inform definitive-trial sample size calculations.</p>
+          <p>Third, recruitment rates from this study will be vital for assessing the feasibility of delivering a large definitive RCT investigating smoking cessation in pregnancy and using English National Health Service (NHS) research structures. Since 2006, the English NHS has developed and revised research networks, funded from the health service budget and orientated towards delivering clinical research; there is a particular focus on RCTs that influence clinical practice <abbrgrp>
+                <abbr bid="B24">24</abbr>
+             </abbrgrp>. Networks provide staff working across the NHS whose remit is to recruit to research studies and researchers who successfully access network staff support can efficiently deliver multi-centre RCTs. However, negotiating access to research networks and subsequently finding the most efficient ways of combining their efforts with those of a university-based research team can be challenging and, significantly the two most recent English pregnancy smoking cessation trials <abbrgrp>
+                <abbr bid="B18">18</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B19">19</abbr>
+             </abbrgrp> were completed with relatively little research network input. To date, overall pilot trial recruitment has been strong and it appears that study methods could, feasibly be used to recruit to a larger definitive study. However, across the 16 trial centres from which this pilot recruits, there has been marked variation in recruitment rates. Consequently, lessons learned from our planned pilot trial process evaluation should help us to better understand the reasons for different recruitment rates in different centres and, potentially to enhance the research network staff experience of recruiting to the trial for any future study.</p>
+          <p>Given the nature of this pilot trial, discussion has principally focussed on methodological issues. However, if after this study, a definitive RCT is conducted and MiQuit is found to be effective for smoking cessation in pregnancy, this very cheap and likely (in that circumstance) highly cost-effective intervention could easily be made very widely available in many different ways to support smoking cessation in pregnancy.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Trial status</p>
+          </st>
+          <p>Recruitment began in February 2014, with the first participant randomised on 18 February 2014. At the time of the manuscript submission, the trial was still recruiting with 385 recruited by 27 August 2014. This article is based on protocol version 2.0, 14 May 2014.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Abbreviations</p>
+          </st>
+          <p>CLRN: Comprehensive Local Research Network</p>
+          <p>CO: carbon monoxide</p>
+          <p>EDD: estimated delivery date</p>
+          <p>EQ-5D: EuroQol-5D-3 Level Questionnaire</p>
+          <p>NHS: National Health Service</p>
+          <p>NHSB: Nottingham Health Science Biobank</p>
+          <p>PIS: participant information sheet</p>
+          <p>RCT: randomised controlled trial</p>
+          <p>RM: research midwife</p>
+          <p>TMG: trial management group</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Competing interests</p>
+          </st>
+          <p>On two occasions since 2008, TC has been paid to attend and present at symposia arranged by Pierre Fabre Laboratories (PFL); PFL is a manufacturer of nicotine replacement therapy. All other authors have no competing interests.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Authors&#8217; contributions</p>
+          </st>
+          <p>SC contributed to the conception and design of the study, drafted and revised this protocol for publication and participated in the coordination of the trial. KF contributed to the design of the study, helped draft and edit the protocol, and coordinates the trial as the Trial Manager. FN designed and developed the MiQuit intervention, contributed to the conception and design of the study and helped draft and edit the protocol. JLB contributed to the conception and design of the study, helped draft and edit the protocol and is the trial statistician. SS designed and developed the MiQuit intervention and contributed to the conception and design of the study. MU contributed to the conception and design of the study and helped draft and edit the protocol. ML contributed to the design of the study and helped draft the protocol. AM contributed to the design of the study and was involved in the development of the statistical analysis. SP contributed to the design of the study and was involved in the development of the health economics analysis. TC conceived and designed the study, drafted and revised this protocol for publication, and is the trial&#8217;s chief investigator. All authors read and approved the final manuscript.</p>
+       </sec>
+    </bdy>
+    <bm>
+       <ack>
+          <sec>
+             <st>
+                <p>Acknowledgements</p>
+             </st>
+             <p>We would like to thank Susanna Mountcastle and Jim Thornton for their input to the development of the study and protocol, and to Nottingham Clinical Trials Unit for their assistance with the study, particularly the development and management of the database and randomisation. We also gratefully acknowledge members of the Trial Steering Committee (Paul Aveyard, Jayne Marshall, Ellinor Olander, Lisa Szatkowski and Kim Watts) for their input and approval of the final trial protocol.</p>
+             <sec>
+                <st>
+                   <p>Funding</p>
+                </st>
+                <p>This project was funded by the National Institute for Health Research (NIHR) under the Programme Grants for Applied Research programme (RP-PG-0109-10020). The views and opinions expressed therein are those of the authors and do not necessarily reflect those of the HTA, NIHR, NHS or the Department of Health. SC, KF, JLB, MU, SP and TC are members of the UK Centre for Tobacco and Alcohol Studies, a UKCRC Public Health Research: Centre of Excellence. Funding from British Heart Foundation, Cancer Research UK, Economic and Social Research Council, Medical Research Council, and the Department of Health, under the auspices of the UK Clinical Research Collaboration, is gratefully acknowledged. Tim Coleman acknowledges the support of the East Midlands Collaboration for Leadership in Applied Health Research and Care (CLARHC). SC, KF and TC are members of the NIHR School for Primary Care Research.</p>
+             </sec>
+          </sec>
+       </ack>
+       <refgrp>
+          
+          <bibl id="B1">
+             <title>
+                <p>The epidemiology of smoking during pregnancy: smoking prevalence, maternal characteristics, and pregnancy outcomes</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Cnattingius</snm>
+                   <fnm>S</fnm>
+                </au>
+             </aug>
+             <source>Nicotine Tob Res.</source>
+             <pubdate>2004</pubdate>
+             <volume>6</volume>
+             <issue>Suppl 2</issue>
+             <fpage>S125</fpage>
+             <lpage>40</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1080/14622200410001669187</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15203816</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B2">
+             <title>
+                <p>Trends in smoking during pregnancy in England, 1992&#8211;7: quota sampling surveys</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Owen</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>McNeill</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Callum</snm>
+                   <fnm>C</fnm>
+                </au>
+             </aug>
+             <source>BMJ.</source>
+             <pubdate>1998</pubdate>
+             <volume>317</volume>
+             <fpage>728</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/bmj.317.7160.728</pubid>
+                   <pubid idtype="pmpid" link="fulltext">9732341</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B3">
+             <note>The NHS Information Centre. Infant Feeding Survey 2010. Early results. The National Health Service Information Centre for Health and Social Care; 2011. <url>http://www.hscic.gov.uk/article/2021/Website-Search?productid=1390&amp;q=infant+feeding+survey&amp;sort=Relevance&amp;size=10&amp;page=1&amp;area=both#top</url>. Accessed 21 Jan 2015.</note>
+          </bibl>
+          <bibl id="B4">
+             <note>Lumley J, Chamberlain C, Dowswell T, Oliver S, Oakley L, Watson L. Interventions for promoting smoking cessation during pregnancy. Cochrane Database Syst Rev. 2009;Issue 3. Art. No.: CD001055. doi:10.1002/14651858.CD001055.pub3.</note>
+          </bibl>
+          <bibl id="B5">
+             <note>Statistics on NHS stop smoking services - England, April 2012 to March 2013. <url>http://www.hscic.gov.uk/searchcatalogue?productid=7993&amp;q=stop+smoking+services&amp;sort=Relevance&amp;size=10&amp;page=1#top</url>. Accessed 21 Jan 2015.</note>
+          </bibl>
+          <bibl id="B6">
+             <aug>
+                <au>
+                   <snm>Taylor</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Hajek</snm>
+                   <fnm>P</fnm>
+                </au>
+             </aug>
+             <source>Smoking cessation services for pregnant women: Results of a survey of established services in English Health Authorities</source>
+             <publisher>Health Development Agency &amp; Department of Health, London</publisher>
+             <pubdate>2001</pubdate>
+          </bibl>
+          <bibl id="B7">
+             <title>
+                <p>Self-help smoking cessation interventions in pregnancy: a systematic review and meta-analysis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Naughton</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Prevost</snm>
+                   <fnm>AT</fnm>
+                </au>
+                <au>
+                   <snm>Sutton</snm>
+                   <fnm>S</fnm>
+                </au>
+             </aug>
+             <source>Addiction.</source>
+             <pubdate>2008</pubdate>
+             <volume>103</volume>
+             <fpage>566</fpage>
+             <lpage>79</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1360-0443.2008.02140.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18339103</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B8">
+             <title>
+                <p>A survey of pregnant smokers' interest in different types of smoking cessation support</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Ussher</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>West</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Hibbs</snm>
+                   <fnm>N</fnm>
+                </au>
+             </aug>
+             <source>Patient Educ Couns.</source>
+             <pubdate>2004</pubdate>
+             <volume>54</volume>
+             <fpage>67</fpage>
+             <lpage>72</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0738-3991(03)00197-6</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15210262</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B9">
+             <title>
+                <p>Smoking cessation support delivered via mobile phone text messaging (txt2stop): a single-blind, randomised trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Free</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Knight</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Robertson</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Whittaker</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Edwards</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Zhou</snm>
+                   <fnm>W</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Lancet.</source>
+             <pubdate>2011</pubdate>
+             <volume>378</volume>
+             <fpage>49</fpage>
+             <lpage>55</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0140-6736(11)60701-0</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21722952</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B10">
+             <note>OFCOM. The consumer experience. UK: Office of Communications; 2010. <url>http://stakeholders.ofcom.org.uk/binaries/research/consumer-experience/tce-10/consumer-esperience-10.pdf</url>. Accessed 21 Jan 2015</note>
+          </bibl>
+          <bibl id="B11">
+             <title>
+                <p>Randomized controlled trial evaluation of a tailored leaflet and sms text message self-help intervention for pregnant smokers (MiQuit)</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Naughton</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Prevost</snm>
+                   <fnm>AT</fnm>
+                </au>
+                <au>
+                   <snm>Gilbert</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Sutton</snm>
+                   <fnm>S</fnm>
+                </au>
+             </aug>
+             <source>Nicotine Tob Res.</source>
+             <pubdate>2012</pubdate>
+             <volume>14</volume>
+             <fpage>569</fpage>
+             <lpage>77</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/ntr/ntr254</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22311960</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B12">
+             <title>
+                <p>Measures of abstinence in clinical trials: issues and recommendations</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hughes</snm>
+                   <fnm>JR</fnm>
+                </au>
+                <au>
+                   <snm>Keely</snm>
+                   <fnm>JP</fnm>
+                </au>
+                <au>
+                   <snm>Niaura</snm>
+                   <fnm>RS</fnm>
+                </au>
+                <au>
+                   <snm>Ossip-Klein</snm>
+                   <fnm>DJ</fnm>
+                </au>
+                <au>
+                   <snm>Richmond</snm>
+                   <fnm>RL</fnm>
+                </au>
+                <au>
+                   <snm>Swan</snm>
+                   <fnm>GE</fnm>
+                </au>
+             </aug>
+             <source>Nicotine Tob Res.</source>
+             <pubdate>2003</pubdate>
+             <volume>5</volume>
+             <fpage>13</fpage>
+             <lpage>25</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/ntr/5.1.13</pubid>
+                   <pubid idtype="pmpid" link="fulltext">12745503</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B13">
+             <title>
+                <p>Outcome criteria in smoking cessation trials: proposal for a common standard</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>West</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Hajek</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Stead</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Stapleton</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>West</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Hajek</snm>
+                   <fnm>P</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Addiction.</source>
+             <pubdate>2005</pubdate>
+             <volume>100</volume>
+             <fpage>299</fpage>
+             <lpage>303</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1360-0443.2004.00995.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15733243</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B14">
+             <title>
+                <p>Effect of offering different levels of support and free nicotine replacement therapy via an English national telephone quitline: randomised controlled trial 3</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Ferguson</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Docherty</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Bauld</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Lewis</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Lorgelly</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Boyd</snm>
+                   <fnm>KA</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>BMJ.</source>
+             <pubdate>2012</pubdate>
+             <volume>344</volume>
+             <fpage>e1696</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/bmj.e1696</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22446739</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B15">
+             <title>
+                <p>Measuring the heaviness of smoking: using self-reported time to the first cigarette of the day and number of cigarettes smoked per day</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Heatherton</snm>
+                   <fnm>TF</fnm>
+                </au>
+                <au>
+                   <snm>Kozlowski</snm>
+                   <fnm>LT</fnm>
+                </au>
+                <au>
+                   <snm>Frecker</snm>
+                   <fnm>RC</fnm>
+                </au>
+                <au>
+                   <snm>Rickert</snm>
+                   <fnm>W</fnm>
+                </au>
+                <au>
+                   <snm>Robinson</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>Br J Addict.</source>
+             <pubdate>1989</pubdate>
+             <volume>84</volume>
+             <fpage>791</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1360-0443.1989.tb03059.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">2758152</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B16">
+             <title>
+                <p>EuroQol: the current state of play</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Brooks</snm>
+                   <fnm>R</fnm>
+                </au>
+             </aug>
+             <source>Health Policy.</source>
+             <pubdate>1996</pubdate>
+             <volume>37</volume>
+             <fpage>53</fpage>
+             <lpage>72</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/0168-8510(96)00822-6</pubid>
+                   <pubid idtype="pmpid" link="fulltext">10158943</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B17">
+             <title>
+                <p>Determination of a saliva cotinine cut-off to distinguish pregnant smokers from pregnant non-smokers</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hegaard</snm>
+                   <fnm>HKK</fnm>
+                </au>
+             </aug>
+             <source>Acta Obstet Gyn Scan.</source>
+             <pubdate>2007</pubdate>
+             <volume>86</volume>
+             <fpage>2007</fpage>
+          </bibl>
+          <bibl id="B18">
+             <title>
+                <p>A randomized trial of nicotine-replacement therapy patches in pregnancy</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Coleman</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Cooper</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Thornton</snm>
+                   <fnm>JG</fnm>
+                </au>
+                <au>
+                   <snm>Grainge</snm>
+                   <fnm>MJ</fnm>
+                </au>
+                <au>
+                   <snm>Watts</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Britton</snm>
+                   <fnm>J</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>N Engl J Med.</source>
+             <pubdate>2012</pubdate>
+             <volume>366</volume>
+             <fpage>808</fpage>
+             <lpage>18</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1056/NEJMoa1109582</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22375972</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B19">
+             <title>
+                <p>Physical activity as an aid to smoking cessation during pregnancy (LEAP) trial: study protocol for a randomized controlled trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Ussher</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Aveyard</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Manyonda</snm>
+                   <fnm>I</fnm>
+                </au>
+                <au>
+                   <snm>Lewis</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>West</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Lewis</snm>
+                   <fnm>B</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Trials.</source>
+             <pubdate>2012</pubdate>
+             <volume>13</volume>
+             <fpage>186</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1186/1745-6215-13-186</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23035669</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B20">
+             <title>
+                <p>Factors associated with smoking cessation in early and late pregnancy in the smoking, nicotine, and pregnancy trial: a trial of nicotine replacement therapy</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Vaz</snm>
+                   <fnm>LR</fnm>
+                </au>
+                <au>
+                   <snm>Leonardi-Bee</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Aveyard</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Cooper</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Grainge</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Coleman</snm>
+                   <fnm>T</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Nicotine Tob Res.</source>
+             <pubdate>2014</pubdate>
+             <volume>16</volume>
+             <fpage>381</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/ntr/ntt156</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24127265</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B21">
+             <title>
+                <p>Partner support for smoking cessation during pregnancy: a systematic review</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hemsing</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Greaves</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>O&#8217;Leary</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Chan</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Okoli</snm>
+                   <fnm>C</fnm>
+                </au>
+             </aug>
+             <source>Nicotine Tob Res.</source>
+             <pubdate>2012</pubdate>
+             <volume>14</volume>
+             <fpage>767</fpage>
+             <lpage>76</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/ntr/ntr278</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22180588</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B22">
+             <title>
+                <p>Nicotine chemistry, metabolism, kinetics and biomarkers</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Benowitz</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Hukkanen</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Jacob</snm>
+                   <fnm>P</fnm>
+                   <suf>III</suf>
+                </au>
+             </aug>
+             <source>Nicotine psychopharmacology</source>
+             <publisher>Springer, Berlin Heidelberg</publisher>
+             <editor>Henningfield EL J, Pogun S</editor>
+             <pubdate>2009</pubdate>
+             <fpage>29</fpage>
+             <lpage>60</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1007/978-3-540-69248-5_2</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B23">
+             <note>Stead LF, Bergson G, Lancaster T. Physician advice for smoking cessation. Cochrane Database Syst Rev. 2008;Issue 2. Art. No.: CD000165. doi:10.1002/14651858.CD000165.pub3.</note>
+          </bibl>
+          <bibl id="B24">
+             <insg>
+                <ins>
+                   <p>Department of Health</p>
+                </ins>
+             </insg>
+             <source>Best research for best health: a new national health research strategy</source>
+             <publisher>Department of Health, England</publisher>
+             <pubdate>2006</pubdate>
+          </bibl>
+       </refgrp>
+    </bm>
+ </art>

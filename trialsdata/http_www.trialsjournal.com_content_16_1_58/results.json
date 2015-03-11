@@ -1,0 +1,109 @@
+{
+  "publisher": {
+    "value": [
+      "BioMed Central Ltd"
+    ]
+  },
+  "journal": {
+    "value": [
+      "Trials"
+    ]
+  },
+  "title": {
+    "value": [
+      "RandomizEd controlled trial for pre-operAtive dose-escaLation BOOST in locally advanced rectal cancer (RECTAL BOOST study): study protocol for a randomized controlled trial"
+    ]
+  },
+  "authors": {
+    "value": [
+      "JP M Burbach",
+      "Helena M Verkooijen",
+      "Martijn Intven",
+      "Jean-Paul JE Kleijnen",
+      "Mirjam E Bosman",
+      "Bas W Raaymakers",
+      "Wilhelmina MU van Grevenstein",
+      "Miriam Koopman",
+      "Enrica Seravalli",
+      "Bram van Asselen",
+      "Onne Reerink"
+    ]
+  },
+  "date": {
+    "value": [
+      "2015-02-22"
+    ]
+  },
+  "doi": {
+    "value": [
+      "10.1186/s13063-015-0586-4"
+    ]
+  },
+  "volume": {
+    "value": [
+      "16"
+    ]
+  },
+  "issue": {
+    "value": [
+      "1"
+    ]
+  },
+  "firstpage": {
+    "value": [
+      "58"
+    ]
+  },
+  "description": {
+    "value": [
+      "Treatment for locally advanced rectal cancer (LARC) consists of chemoradiation therapy (CRT) and surgery. Approximately 15% of patients show a pathological complete response (pCR). Increased pCR-rates can be achieved through dose escalation, thereby increasing the number patients eligible for organ-preservation to improve quality of life (QoL). A randomized comparison of 65 versus 50Gy with external-beam radiation alone has not yet been performed. This trial investigates pCR rate, clinical response, toxicity, QoL and (disease-free) survival in LARC patients treated with 65Gy (boost + chemoradiation) compared with 50Gy standard chemoradiation (sCRT)."
+    ]
+  },
+  "abstract": {
+    "value": [
+      "Treatment for locally advanced rectal cancer (LARC) consists of chemoradiation therapy (CRT) and surgery. Approximately 15% of patients show a pathological complete response (pCR). Increased pCR-rates can be achieved through dose escalation, thereby increasing the number patients eligible for organ-preservation to improve quality of life (QoL). A randomized comparison of 65 versus 50Gy with external-beam radiation alone has not yet been performed. This trial investigates pCR rate, clinical response, toxicity, QoL and (disease-free) survival in LARC patients treated with 65Gy (boost + chemoradiation) compared with 50Gy standard chemoradiation (sCRT)."
+    ]
+  },
+  "fulltext_html": {
+    "value": [
+      "http://www.trialsjournal.com/content/16/1/58"
+    ]
+  },
+  "fulltext_pdf": {
+    "value": [
+      "http://www.trialsjournal.com/content/pdf/s13063-015-0586-4.pdf"
+    ]
+  },
+  "fulltext_xml": {
+    "value": [
+      "/content/download/xml/s13063-015-0586-4.xml"
+    ]
+  },
+  "supplementary_material": {
+    "value": []
+  },
+  "figure": {
+    "value": [
+      "/content/figures/s13063-015-0586-4-1.gif",
+      "/content/figures/s13063-015-0586-4-2.gif"
+    ]
+  },
+  "figure_caption": {
+    "value": [
+      "Figure 1.",
+      "Study design and flowchart.",
+      "Figure 2.",
+      "Cumulative dose plan of boost plus standard chemoradiation fractions (left) with associated\n            dose volume histogram (right)."
+    ]
+  },
+  "license": {
+    "value": [
+      "\r\n\t\t\t\tThis is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.\r\n\t\t\t"
+    ]
+  },
+  "copyright": {
+    "value": [
+      "\r\n            © 2015 Burbach et al.; licensee BioMed Central. \r\n        "
+    ]
+  }
+}

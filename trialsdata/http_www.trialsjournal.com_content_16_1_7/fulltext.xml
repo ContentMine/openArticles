@@ -1,0 +1,737 @@
+<?xml version='1.0'?>
+<!DOCTYPE art SYSTEM 'http://www.biomedcentral.com/xml/article.dtd'>
+<art>
+	<ui>1745-6215-16-7</ui>
+	<ji>1745-6215</ji>
+	<fm>
+		<dochead>Study protocol</dochead>
+		<bibl>
+			<title>
+				<p>Early exercise after spinal cord injury (&#8216;Switch-On&#8217;): study protocol for a randomised controlled trial</p>
+			</title>
+			<aug>
+				<au id="A1" ca="yes"><snm>Galea</snm><mi>P</mi><fnm>Mary</fnm><insr iid="I1"/><email>m.galea@unimelb.edu.au</email></au>
+				<au id="A2"><snm>Dunlop</snm><mi>A</mi><fnm>Sarah</fnm><insr iid="I2"/><email>sarah.dunlop@uwa.edu.au</email></au>
+				<au id="A3"><snm>Marshall</snm><fnm>Ruth</fnm><insr iid="I3"/><email>Ruth.Marshall@health.sa.gov.au</email></au>
+				<au id="A4"><snm>Clark</snm><fnm>Jillian</fnm><insr iid="I3"/><email>Jillian.Clark@health.sa.gov.au</email></au>
+				<au id="A5"><snm>Churilov</snm><fnm>Leonid</fnm><insr iid="I4"/><email>leonid.churilov@florey.edu.au</email></au>
+			</aug>
+			<insg>
+				<ins id="I1"><p>Department of Medicine (Royal Melbourne Hospital), The University of Melbourne, Parkville, VIC 3010, Australia</p></ins>
+				<ins id="I2"><p>School of Animal Biology (M317), The University of Western Australia, Crawley, WA 6009, Australia</p></ins>
+				<ins id="I3"><p>South Australian Spinal Cord Injury Service, Hampstead Rehabilitation Centre, 207-255 Hampstead Road, Northfield, SA 5085, Australia</p></ins>
+				<ins id="I4"><p>Florey Institute of Neurosciences and Mental Health, Melbourne Brain Centre (Austin Campus), Heidelberg, VIC 3084, Australia</p></ins>
+			</insg>
+			<source>Trials</source>
+			<issn>1745-6215</issn>
+			<pubdate>2015</pubdate>
+			<volume>16</volume>
+			<issue>1</issue>
+			<fpage>7</fpage>
+			<url>http://www.trialsjournal.com/content/16/1/7</url>
+			<xrefbib><pubidlist><pubid idtype="doi">10.1186/1745-6215-16-7</pubid><pubid idtype="pmpid">25563584</pubid></pubidlist></xrefbib>
+		</bibl>
+		<history><rec><date><day>11</day><month>5</month><year>2014</year></date></rec><acc><date><day>15</day><month>12</month><year>2014</year></date></acc><pub><date><day>7</day><month>1</month><year>2015</year></date></pub></history>
+		<cpyrt><year>2015</year><collab>Galea et al.; licensee BioMed Central.</collab><note>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/4.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (<url>http://creativecommons.org/publicdomain/zero/1.0/</url>) applies to the data made available in this article, unless otherwise stated.</note></cpyrt>
+		<kwdg>
+			<kwd>Spinal cord injury</kwd>
+			<kwd>Randomised controlled trial</kwd>
+			<kwd>Early exercise</kwd>
+			<kwd>FES cycling</kwd>
+			<kwd>Passive cycling</kwd>
+			<kwd>Muscle atrophy</kwd>
+			<kwd>Biomarkers</kwd>
+			<kwd>Osteoporosis</kwd>
+			<kwd>Neurological function</kwd>
+			<kwd>Immune function</kwd>
+			<kwd>Quality of life</kwd>
+		</kwdg>
+		<abs>
+			<sec>
+				<st>
+					<p>Abstract</p>
+				</st>
+				<sec>
+					<st>
+						<p>Background</p>
+					</st><p>Spinal cord injury (SCI) leads to a profound muscular atrophy, bone loss and bone fragility. While there is evidence that exercising paralysed muscles may lead to reversal of muscle atrophy in the chronic period after SCI, there is little evidence that exercise can prevent muscle changes early after injury. Moreover, whether exercise can prevent bone loss and microarchitectural decay is not clear.</p>
+				</sec>
+				<sec>
+					<st>
+						<p>Methods/Design</p>
+					</st><p>A multi-centre, parallel group, assessor-blinded randomised controlled trial will be conducted. Fifty participants with acute spinal cord injury will be recruited from four SCI units in Australia and New Zealand. Participants will be stratified by site and AIS status and randomised to an experimental or control group. Experimental participants will receive a 12-week programme of functional electrical stimulation (FES)-assisted cycling. Control participants will receive a 12-week programme of passive cycling. The primary outcome is muscle cross-sectional area of the thigh and calf measured using magnetic resonance images (MRI) of the leg. Secondary outcomes include serum biomarkers of SCI osteoporosis (sclerostin, P1NP and &#946;-CTX), markers of immune function (IL-6, IL-10, FGF2, INF-&#947;, TNF-&#945;), neurological function, body composition, depression and quality of life. Leg MRIs will be measured by a single blinded assessor based in Melbourne. Serum samples will be analysed in a central laboratory. All other characteristics will be measured at baseline and 12&#160;weeks by blinded and trained assessors at each site. The first participant was randomised on 27 November 2012.</p>
+				</sec>
+				<sec>
+					<st>
+						<p>Discussion</p>
+					</st><p>The results of this trial will determine the relative effectiveness of a 12-week programme of FES-assisted cycling versus passive cycling in preventing muscle atrophy and maintaining skeletal integrity after spinal cord injury.</p>
+				</sec>
+				<sec>
+					<st>
+						<p>Trial registration</p>
+					</st><p>
+						<a href="https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?id=347596">ACTRN12611001079932</a> (18 October 2011)</p>
+				</sec>
+			</sec>
+		</abs>
+	</fm>
+	<bdy>
+		<sec>
+			<st>
+				<p>Background</p>
+			</st><p>Spinal cord injury (SCI) leads to a profound muscular atrophy, bone loss and bone fragility <abbrgrp>
+					<abbr bid="B1">1</abbr>
+					<abbr bid="B2">2</abbr>
+					<abbr bid="B3">3</abbr>
+				</abbrgrp>. Fractures lead to a marked deterioration in bone quality, and compromise rehabilitation and quality of life <abbrgrp>
+					<abbr bid="B4">4</abbr>
+				</abbrgrp>.</p><p>Furthermore, recent advances have identified mechanisms that link muscle and bone metabolism, thereby identifying such tissues as endocrine organs <abbrgrp>
+					<abbr bid="B5">5</abbr>
+					<abbr bid="B6">6</abbr>
+				</abbrgrp>. The discovery that muscle-secreted factors contribute to osteocyte viability <abbrgrp>
+					<abbr bid="B7">7</abbr>
+				</abbrgrp> suggests a link between disuse and endocrine functions of bone and between muscle endocrine action and susceptibility for chronic disease <abbrgrp>
+					<abbr bid="B8">8</abbr>
+					<abbr bid="B9">9</abbr>
+				</abbrgrp>. Such developments have highlighted inter-relationships between the aetiologies of sarcopenia and osteopenia <abbrgrp>
+					<abbr bid="B10">10</abbr>
+				</abbrgrp>, cardinal features of secondary disuse disorder such as occurs after SCI <abbrgrp>
+					<abbr bid="B11">11</abbr>
+					<abbr bid="B12">12</abbr>
+				</abbrgrp>. Recognition that SCI involves an &#8216;endocrine syndrome&#8217; <abbrgrp>
+					<abbr bid="B13">13</abbr>
+					<abbr bid="B14">14</abbr>
+				</abbrgrp> has advanced our understanding of regulatory mechanisms that contribute to the clinical features of this catastrophic injury. Given that muscle-secreted factors (myokines) have endocrine and other actions, the role of skeletal muscle contraction induced by exercise following SCI warrants closer attention.</p><p>Thigh girth reduces by 50% within 3&#160;weeks of SCI <abbrgrp>
+					<abbr bid="B15">15</abbr>
+				</abbrgrp>; thickness of muscle bulk, measured using ultrasound, reduces by 40% in the first month <abbrgrp>
+					<abbr bid="B16">16</abbr>
+				</abbrgrp>. A magnetic resonance imaging (MRI) study of changes in muscle cross-sectional area (CSA) over the first few months after SCI showed that the mean CSA of the quadriceps, hamstring and adductor muscle groups declined by 16%, 14% and 16% respectively <abbrgrp>
+					<abbr bid="B17">17</abbr>
+				</abbrgrp>.</p><p>Muscle is a dynamic tissue capable of adapting its morphology depending on the functional demands placed on it. There is evidence that exercising paralysed muscles through functional electrical stimulation (FES)-assisted cycling leads to reversal of atrophy <abbrgrp>
+					<abbr bid="B18">18</abbr>
+				</abbrgrp>. Furthermore, in rats with spinal transection, passive exercise in the form of pedaling on a motor-driven cycle results in activation of muscle satellite cells and reversal of hindlimb muscle atrophy. This effect is more marked in muscles with slow oxidative fibres such as soleus <abbrgrp>
+					<abbr bid="B19">19</abbr>
+				</abbrgrp>.</p><p>It is still unknown whether unloading of the bones in the paralysed extremities is the only factor causing rapid bone loss below the level of injury, or if other factors such as neuronal, humoral and vascular adaptations after a SCI are also involved <abbrgrp>
+					<abbr bid="B20">20</abbr>
+					<abbr bid="B21">21</abbr>
+				</abbrgrp>. Muscle forces create the peak forces acting on bone, a relationship summarised by the mechanostat theory <abbrgrp>
+					<abbr bid="B22">22</abbr>
+				</abbrgrp>, which predicts that bone mass, strength and size will respond to increasing muscle maximal forces during bone growth, or the loading of mature bone. Unloading through disuse or immobilisation will have a negative effect on bone mass and strength, both through muscle atrophy and local regulators of cell phenotype, within the bone tissue microenvironment.</p><p>Sclerostin, encoded by the <it>sost</it> gene, is a Wingless-Int (Wnt) signalling pathway antagonist secreted by osteocytes and is a potent inhibitor of bone formation <abbrgrp>
+					<abbr bid="B23">23</abbr>
+				</abbrgrp>. Compared to other bone-related proteins, sclerostin is considered a candidate biomarker for SCI-induced osteoporosis <abbrgrp>
+					<abbr bid="B24">24</abbr>
+				</abbrgrp>. Sclerostin is increased by unloading and suppressed by loading, a feature observed at least in the first few years after SCI <abbrgrp>
+					<abbr bid="B25">25</abbr>
+					<abbr bid="B26">26</abbr>
+				</abbrgrp>. In addition to the mechanical loading of bone through muscle contraction, muscle myokines released from contracting muscles may protect osteocytes from undergoing cell death <abbrgrp>
+					<abbr bid="B27">27</abbr>
+				</abbrgrp>.</p><p>One study has used FES early after injury to <it>prevent</it> muscle changes rather than <it>reverse</it> them when losses are well advanced. Baldi <it>et al</it>. <abbrgrp>
+					<abbr bid="B12">12</abbr>
+				</abbrgrp> compared FES-assisted cycling with FES-induced isometric muscle contractions commencing within the first 12 to 15&#160;weeks of injury. Control subjects who had had no exercise lost 21 to 27% of muscle mass. FES-cycling, but not FES-induced isometric exercise, prevented loss of lower limb lean body mass and gluteal lean body mass at both 3 and 6&#160;months.</p><p>Whether exercise can <it>prevent</it> bone loss and microarchitectural decay or reverse it when established is not clear. A regimen of FES-assisted isotonic contractions instituted early after SCI did not lead to an osteogenic effect in the lower limbs, measured using dual energy X-ray absorptiometry <abbrgrp>
+					<abbr bid="B28">28</abbr>
+				</abbrgrp>. A 2010 systematic review <abbrgrp>
+					<abbr bid="B29">29</abbr>
+				</abbrgrp> has concluded that FES-cycling does not improve or maintain bone at the tibial diaphysis in the acute phase, but may increase/maintain lower extremity bone mineral density (BMD) in the chronic phase after SCI <abbrgrp>
+					<abbr bid="B30">30</abbr>
+				</abbrgrp>, the implication being that site-specific bone adaptation is both time- and dose-dependent and thus, mechanisms of bone adaptation may differ in acute and in established SCI.</p><p>In this trial, we will provide an exercise programme that involves FES-cycling against increasing loads as early as practicable after SCI, commencing when the individual is still confined to bed. We hypothesise that muscle activation will prevent muscle atrophy. In addition, we hypothesise that mechanical strains associated with loading and changing leg position during cycling will inhibit sclerostin levels and thereby preserve skeletal structure by reducing inhibition of bone formation and reduce increased bone resorption at the cellular level seen early after injury.</p>
+		</sec>
+		<sec>
+			<st>
+				<p>Methods</p>
+			</st><p>The trial was registered on the Australian and New Zealand Clinical Trials Registry (ACTRN12611001079932) on 18 October 2011. The first participant was randomised on 27 November 2012, and the final participant on 31 March 2014.</p>
+			<sec>
+				<st>
+					<p>Funding</p>
+				</st><p>The study is being funded by the Transport Accident Commission (Victorian Neurotrauma Initiative), and the National Health and Medical Research Council of Australia. At the conclusion of the trial, all equipment purchased for the trial will be gifted to the participating hospitals.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Design</p>
+				</st><p>A multi-centre, assessor-blinded, randomised controlled trial will be conducted. Experimental group participants will undertake an intensive 12-week programme of FES-assisted cycling, while control group participants will undertake a passive cycling programme over the same period. The trial will be conducted in four spinal units in Australia and New Zealand. Ethical approval has been obtained from the Human Research Ethics Committees at Austin Health in Melbourne (H2012/04476), Royal Perth Hospital in Perth (EC 2012/080), Princess Alexandra Hospital in Brisbane (HREC/12/QPAH/085) and the Multi-region Ethics Committee in New Zealand (MEC/12/02/020) and at the University of Melbourne (Trial Sponsor, HREC 1237599). Participants will be provided with information sheets and written informed consent will be obtained prior to recruitment and baseline assessment. See Table&#160;<tblr tid="T1">1</tblr> for the schedule of enrolment, interventions, and assessments.</p>
+				<table id="T1">
+					<title>
+						<p>Table 1</p>
+					</title>
+					<caption>
+						<p>
+							<b>Standard Protocol Items: Recommendations for Interventional Trials (SPIRIT) checklist: schedule of enrolment, interventions, and assessments</b>
+						</p>
+					</caption>
+					<tgroup align="left" cols="5">
+						<colspec align="right" colname="c1" colnum="1" colwidth="1*"/>
+						<colspec align="center" colname="c2" colnum="2" colwidth="1*"/>
+						<colspec align="center" colname="c3" colnum="3" colwidth="1*"/>
+						<colspec align="center" colname="c4" colnum="4" colwidth="1*"/>
+						<colspec align="center" colname="c5" colnum="5" colwidth="1*"/>
+						<thead valign="top">
+							<row>
+								<entry colname="c1"/>
+								<entry align="center" colname="c2">
+									<p>
+										<b>Enrolment</b>
+									</p>
+								</entry>
+								<entry align="center" colname="c3">
+									<p>
+										<b>Allocation</b>
+									</p>
+								</entry>
+								<entry align="center" colname="c4">
+									<p>
+										<b>Intervention</b>
+									</p>
+								</entry>
+								<entry align="center" colname="c5">
+									<p>
+										<b>Post-intervention</b>
+									</p>
+								</entry>
+							</row>
+							<row rowsep="1">
+								<entry align="right" colname="c1">
+									<p>
+										<b>TIMEPOINT</b>
+									</p>
+								</entry>
+								<entry align="center" colname="c2">
+									<p>
+										<b>
+											<it>-t</it>
+										</b>
+										<sub>
+											<b>
+												<it>1</it>
+											</b>
+										</sub>
+									</p>
+								</entry>
+								<entry align="center" colname="c3">
+									<p>
+										<b>0</b>
+									</p>
+								</entry>
+								<entry align="center" colname="c4">
+									<p>
+										<b>12&#160;weeks</b>
+									</p>
+								</entry>
+								<entry align="center" colname="c5">
+									<p>
+										<b>12&#160;weeks</b>
+									</p>
+								</entry>
+							</row>
+						</thead>
+						<tfoot>
+							<p>*1-week window allowed for assessments.</p><p>FES&#8201;=&#8201;functional electrical stimulation; ISNCSCI&#8201;=&#8201;International Standard for Neurological Classification of Spinal Cord Injury; HADS&#8201;=&#8201;Hospital Anxiety and Depression Scale; HUI3&#8201;=&#8201;Health Utilities Index Mark 3; AQoL&#8201;=&#8201;Assessment of Quality of Life; WHOQoL-Bref&#8201;=&#8201;WHO Quality of Life-Bref.</p>
+						</tfoot>
+						<tbody valign="top">
+							<row>
+								<entry align="right" colname="c1">
+									<p>
+										<b>ENROLMENT:</b>
+									</p>
+								</entry>
+								<entry align="center" colname="c2"/>
+								<entry align="center" colname="c3"/>
+								<entry align="center" colname="c4"/>
+								<entry align="center" colname="c5"/>
+							</row>
+							<row>
+								<entry align="right" colname="c1">
+									<p>
+										<b>Eligibility screen</b>
+									</p>
+								</entry>
+								<entry align="center" colname="c2">
+									<p>X</p>
+								</entry>
+								<entry align="center" colname="c3"/>
+								<entry align="center" colname="c4"/>
+								<entry align="center" colname="c5"/>
+							</row>
+							<row>
+								<entry align="right" colname="c1">
+									<p>
+										<b>Informed consent</b>
+									</p>
+								</entry>
+								<entry align="center" colname="c2">
+									<p>X</p>
+								</entry>
+								<entry align="center" colname="c3"/>
+								<entry align="center" colname="c4"/>
+								<entry align="center" colname="c5"/>
+							</row>
+							<row>
+								<entry align="right" colname="c1">
+									<p>
+										<b>Medical clearance</b>
+									</p>
+								</entry>
+								<entry align="center" colname="c2">
+									<p>X</p>
+								</entry>
+								<entry align="center" colname="c3"/>
+								<entry align="center" colname="c4"/>
+								<entry align="center" colname="c5"/>
+							</row>
+							<row>
+								<entry align="right" colname="c1">
+									<p>
+										<b>Allocation</b>
+									</p>
+								</entry>
+								<entry align="center" colname="c2"/>
+								<entry align="center" colname="c3">
+									<p>X</p>
+								</entry>
+								<entry align="center" colname="c4"/>
+								<entry align="center" colname="c5"/>
+							</row>
+							<row>
+								<entry align="right" colname="c1">
+									<p>
+										<b>INTERVENTIONS:</b>
+									</p>
+								</entry>
+								<entry align="center" colname="c2"/>
+								<entry align="center" colname="c3"/>
+								<entry align="center" colname="c4"/>
+								<entry align="center" colname="c5"/>
+							</row>
+							<row>
+								<entry align="right" colname="c1">
+									<p>
+										<b>
+											<it>FES-assisted cycling</it>
+										</b>
+									</p>
+								</entry>
+								<entry align="center" colname="c2"/>
+								<entry align="center" colname="c3"/>
+								<entry align="center" colname="c4"/>
+								<entry align="center" colname="c5"/>
+							</row>
+							<row>
+								<entry align="right" colname="c1">
+									<p>
+										<b>
+											<it>Passive cycling</it>
+										</b>
+									</p>
+								</entry>
+								<entry align="center" colname="c2"/>
+								<entry align="center" colname="c3"/>
+								<entry align="center" colname="c4"/>
+								<entry align="center" colname="c5"/>
+							</row>
+							<row>
+								<entry align="right" colname="c1">
+									<p>
+										<b>ASSESSMENTS*:</b>
+									</p>
+								</entry>
+								<entry align="center" colname="c2"/>
+								<entry align="center" colname="c3"/>
+								<entry align="center" colname="c4"/>
+								<entry align="center" colname="c5"/>
+							</row>
+							<row>
+								<entry align="right" colname="c1">
+									<p>
+										<b>
+											<it>Muscle cross-sectional area of thigh and calf (1&#176; outcome measure)</it>
+										</b>
+									</p>
+								</entry>
+								<entry align="center" colname="c2">
+									<p>X</p>
+								</entry>
+								<entry align="center" colname="c3"/>
+								<entry align="center" colname="c4"/>
+								<entry align="center" colname="c5">
+									<p>X</p>
+								</entry>
+							</row>
+							<row>
+								<entry align="right" colname="c1">
+									<p>
+										<b>
+											<it>Serum sclerostin</it>
+										</b>
+									</p>
+								</entry>
+								<entry align="center" colname="c2">
+									<p>X</p>
+								</entry>
+								<entry align="center" colname="c3"/>
+								<entry align="center" colname="c4"/>
+								<entry align="center" colname="c5">
+									<p>X</p>
+								</entry>
+							</row>
+							<row>
+								<entry align="right" colname="c1">
+									<p>
+										<b>
+											<it>Other serum biomarkers</it>
+										</b>
+									</p>
+								</entry>
+								<entry align="center" colname="c2">
+									<p>X</p>
+								</entry>
+								<entry align="center" colname="c3"/>
+								<entry align="center" colname="c4"/>
+								<entry align="center" colname="c5">
+									<p>X</p>
+								</entry>
+							</row>
+							<row>
+								<entry align="right" colname="c1">
+									<p>
+										<b>
+											<it>Muscle mass</it>
+										</b>
+									</p>
+								</entry>
+								<entry align="center" colname="c2">
+									<p>X</p>
+								</entry>
+								<entry align="center" colname="c3"/>
+								<entry align="center" colname="c4"/>
+								<entry align="center" colname="c5">
+									<p>X</p>
+								</entry>
+							</row>
+							<row>
+								<entry align="right" colname="c1">
+									<p>
+										<b>
+											<it>ISNCSCI Motor and Sensory Scores</it>
+										</b>
+									</p>
+								</entry>
+								<entry align="center" colname="c2">
+									<p>X</p>
+								</entry>
+								<entry align="center" colname="c3"/>
+								<entry align="center" colname="c4"/>
+								<entry align="center" colname="c5">
+									<p>X</p>
+								</entry>
+							</row>
+							<row>
+								<entry align="right" colname="c1">
+									<p>
+										<b>
+											<it>Depression (HADS)</it>
+										</b>
+									</p>
+								</entry>
+								<entry align="center" colname="c2">
+									<p>X</p>
+								</entry>
+								<entry align="center" colname="c3"/>
+								<entry align="center" colname="c4"/>
+								<entry align="center" colname="c5">
+									<p>X</p>
+								</entry>
+							</row>
+							<row>
+								<entry align="right" colname="c1">
+									<p>
+										<b>
+											<it>Quality of Life</it>
+										</b>
+									</p>
+								</entry>
+								<entry align="center" colname="c2">
+									<p>X</p>
+								</entry>
+								<entry align="center" colname="c3"/>
+								<entry align="center" colname="c4"/>
+								<entry align="center" colname="c5">
+									<p>X</p>
+								</entry>
+							</row>
+							<row rowsep="1">
+								<entry align="right" colname="c1">
+									<p>
+										<b>
+											<it>(HUI3, AQoL, WHOQoL-Bref)</it>
+										</b>
+									</p>
+								</entry>
+								<entry align="center" colname="c2"/>
+								<entry align="center" colname="c3"/>
+								<entry align="center" colname="c4"/>
+								<entry align="center" colname="c5"/>
+							</row>
+						</tbody>
+					</tgroup>
+				</table>
+			</sec>
+			<sec>
+				<st>
+					<p>Participants</p>
+				</st><p>Fifty participants with new acute SCI admitted to one of the four trial sites will be recruited.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Inclusion criteria</p>
+				</st><p>Participants will be included if they:</p><p indent="1">1. Have sustained a complete or incomplete SCI above T12 no more than 3&#160;weeks previously</p><p indent="1">2. Have undergone internal fixation of their spinal fracture or whose fracture is considered sufficiently stable</p><p indent="1">3. Are medically stable</p><p indent="1">4. Are able to provide informed consent</p><p indent="1">5. Have medical and surgical clearance to participate in the study</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Exclusion criteria</p>
+				</st><p indent="1">1. Under 18&#160;years of age</p><p indent="1">2. American Spinal Injury Association Impairment Scale (AIS) D (50% of the muscles below the injury level are scored as 3 or above) at baseline</p><p indent="1">3. In halo or other traction</p><p indent="1">4. In the ICU</p><p indent="1">5. Pressure ulcers</p><p indent="1">6. Peripheral nerve lesion</p><p indent="1">7. Long bone or pelvic fracture</p><p indent="1">8. Lower limb amputation</p><p indent="1">9. Metabolic bone disease, including lytic or renal bone disease, or senile osteoporosis</p><p indent="1">10. Exposure to drugs that affect bone metabolism (amino-bisphosphonate, high-dose glucocorticoids, cyclosporine, anti-epileptic drugs (AEDs))</p><p indent="1">11. Known contraindications to FES (cardiac pacemaker, epilepsy, pregnancy)</p><p indent="1">12. Any other contraindications to participating in exercise programmes, or outcome assessments, as advised by the treating physician</p><p indent="1">13. English language competency insufficient to understand research procedures and provide informed consent.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Randomisation</p>
+				</st><p>Participants will be randomly assigned to either the experimental or control group with a 1:1 allocation as per a computer-generated randomisation schedule stratified by participating site and injury status (AIS) A/B or AIS C). The randomisation schedule will be under the control of a central randomisation unit, independent of the trial, located at Neuroscience Trials Australia in Melbourne. A participant will be considered to have entered the trial once his/her randomisation is revealed to the site coordinator.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Intervention</p>
+				</st><p>All participants will attend the assigned exercise programme for 48 sessions over 12&#160;weeks, with an intended frequency of 4 times weekly.</p>
+				<sec>
+					<st>
+						<p>Experimental group</p>
+					</st><p>Participants in the experimental group will receive FES-assisted cycling using a Hasomed RehaStim FES Unit attached to a MOTOmed cycle (Hasomed GmbH, Magdeburg, Germany) while they are confined to bed, and an RT300 cycle (Restorative Therapies, Baltimore, MD, USA) when they are able to sit in a chair. Surface electrodes will be applied over the belly of the quadriceps, gluteal, and hamstrings muscles according to a standardised protocol <abbrgrp>
+							<abbr bid="B31">31</abbr>
+						</abbrgrp>. The pedal cadence will be set to 15 to 50 rev.min<sup>&#8722;1</sup> Stimulation intensity will be gradually increased to a maximum of 140&#160;mA with a pulse width of 0.3&#160;ms at a frequency of 35&#160;Hz <abbrgrp>
+							<abbr bid="B31">31</abbr>
+							<abbr bid="B32">32</abbr>
+						</abbrgrp>. Participants will exercise at the maximal power output possible at their level of recovery. Therapists will evaluate the degree of muscle contraction, power output and fatigue, and adjust settings appropriately to maximise time, intensity, and power of training with a principle of overloading the muscle. When fatigue occurs, cycling can be stopped and then re-commenced after a 5-minute break if muscle contraction can be re-elicited. For participants with some degree of volitional muscle activity, the settings will be adjusted to ensure that resistance is maintained.</p><p>Participants will undertake 30&#160;minutes of cycling on 4&#160;days/week for 12&#160;weeks, initially in intermittent periods of exercise with rest breaks, but progressing to a maximum of 60&#160;minutes as deemed appropriate by the supervising therapist/assistant. This can be undertaken as a single session or split into two sessions, depending on the participant&#8217;s performance and the availability of staff. All aspects of each training session will be recorded.</p>
+				</sec>
+				<sec>
+					<st>
+						<p>Comparator group</p>
+					</st><p>Participants allocated to this group will undertake up to 60&#160;minutes passive cycling on 4&#160;days/week for 12&#160;weeks at identical pedal cadence to the Experimental Group. Similar to the Experimental Group, cycling while the participant is confined to bed will be with the MOTOmed Letto device (Hasomed GmbH, Magdeburg, Germany) and, once mobilised into a wheelchair, may use the RT300 cycle (Restorative Therapies, Baltimore, MD, USA) but without FES-evoked contractions.</p>
+				</sec>
+				<sec>
+					<st>
+						<p>Follow-up period</p>
+					</st><p>All participants will complete a post-intervention visit at the end of the 12-week intervention period. Assessments completed at baseline will be repeated. A follow-up phone call will be made 1&#160;month after this visit to check on progress or adverse events in the intervening period.</p>
+				</sec>
+				<sec>
+					<st>
+						<p>Quality assurance</p>
+					</st><p>To ensure that treatments are of a high standard and delivered in accordance with the trial protocol, therapists responsible for administration of the exercise programmes will attend workshops where they will be trained in the delivery of the treatment programme and in assessment procedures. Therapists will also be provided with a written protocol and standardised case report forms for documentation of assessments and interventions.</p>
+				</sec>
+			</sec>
+			<sec>
+				<st>
+					<p>Assessments</p>
+				</st><p>Assessments will occur at baseline, and at 12&#160;weeks after the commencement of the intervention. All assessments will be undertaken by therapists blinded to group allocation. Any inadvertent unblinding of assessors will be reported.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Primary outcome</p>
+				</st>
+				<sec>
+					<st>
+						<p>The primary outcome measure is muscle cross-sectional area of the thigh and calf at 12&#160;weeks</p>
+					</st><p>Magnetic resonance images of the leg and thigh will be collected with a 1.5-Tesla magnet. Fifteen transaxial images, 1&#160;cm thick and spaced 0.5&#160;cm apart will be taken from the knee joint to the ankle joint (leg) and from the hip joint to the knee joint (thigh) using a whole-body coil. Markings on the mid-leg and mid-thigh aligned with cross-hairs on the imager will allow for similar positioning during repeat scans. The participants&#8217; feet will be strapped to a brace to maintain the ankle joint at approximately 90&#176; and the knee and hip joints extended. Participants will wear anti-embolism stockings for 30&#160;minutes prior to imaging to minimise fluid shifts in the leg.</p>
+				</sec>
+			</sec>
+			<sec>
+				<st>
+					<p>Secondary outcome measures</p>
+				</st><p>To control for sources of pre-analytical variability, participants will be required to fast for 8&#160;hours before blood is drawn between 0800 and 0900&#160;hours (35&#160;ml per sample). Serum samples will be collected at baseline, 1, 2, 3, 4, 8 and 12&#160;weeks (end of intervention). All samples will be separated and stored at &#9472;20&#176;C until assayed in a central laboratory, and will be destroyed using standard laboratory techniques after the completion of the study.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Serum sclerostin</p>
+				</st><p>Serum sclerostin will be measured using ELISA incorporating a biotinylated antibody/horseradish peroxidase-streptavidin for detection of the analyte. The detection limit of the sclerostin ELISA is 0.18&#8201;<it>mg.mL</it>
+					<sup>
+						<it>&#8722;1</it>
+					</sup> and the intra-assay coefficient of variability (CV) is between 6 to 10% <abbrgrp>
+						<abbr bid="B33">33</abbr>
+					</abbrgrp>.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Other serum markers</p>
+				</st><p>The bone biomarkers N-propeptide of type I procollagen (P1NP) and &#946;-isomerised C-terminal telopeptide of collagen type I (&#946;-CTX) will be measured using the electrochemiluminescence sandwich immunoassays (both Elecsys 1010 Analytics, Roche Diagnostics, Mannheim, Germany).</p><p>The total P1NP assay detects the monomer and trimeric forms of the molecule represented in the serum. The reference standards given by the manufacturer for this assay (imprecision 1.8 to 2.9%) independently were validated (1.4 to 2.3%) (<abbrgrp>
+						<abbr bid="B34">34</abbr>
+					</abbrgrp>. The inter-assay CVs are 1.4%, 1.7% and 2.0% at 74&#160;&#956;<it>g.L</it>
+					<sup>
+						<it>&#8722;1</it>
+					</sup>, 508&#160;&#956;<it>g.L</it>
+					<sup>
+						<it>&#8722;1</it>
+					</sup> and 978&#160;&#956;<it>g.L</it>
+					<sup>
+						<it>&#8722;1</it>
+					</sup>, and intra-assay CVs are 2.0% and 2.3% at 47&#160;&#956;<it>g.L</it>
+					<sup>
+						<it>&#8722;1</it>
+					</sup> and 643&#160;&#956;<it>g.L</it>
+					<sup>
+						<it>&#8722;1</it>
+					</sup>
+					<abbrgrp>
+						<abbr bid="B34">34</abbr>
+					</abbrgrp>.</p><p>The monoclonal antibodies used in the Elecysis B-Cross Laps assay recognise all fragments of the &#946;-&#948;AA octapeptide of type 1 collagen. Intra-assay precision (CVs) given by the manufacturer is 4.6%, 1.8% and 1.0% at 0.08&#8201;<it>ng.mL</it>
+					<sup>
+						<it>&#8722;1</it>
+					</sup>, 0.39&#8201;<it>ng.mL</it>
+					<sup>
+						<it>&#8722;1</it>
+					</sup> and 3.58&#8201;<it>ng.mL</it>
+					<sup>
+						<it>&#8722;1</it>
+					</sup>. Total precision (CV) is 4.7%. 4.3% and 1.6% at 0.08&#8201;<it>ng.mL</it>
+					<sup>
+						<it>&#8722;1</it>
+					</sup>, 0.39&#8201;<it>ng.mL</it>
+					<sup>
+						<it>&#8722;1</it>
+					</sup> and 3.58&#8201;<it>ng.mL</it>
+					<sup>
+						<it>&#8722;1</it>
+					</sup> respectively.</p><p>Biomarkers of immune function (systemic low-level inflammation), which also are myokines, will be assessed using a MILLIPLEX MAP Human Cytokine/Chemokine Magnetic Bead Panel Immunology Multiplex Assay read with a Luminex xMAP&#174; platform (Merck Millipore, Darmstadt, Germany) in a magnetic bead format for the determination (<it>pg.ml</it>
+					<sup>
+						<it>&#8722;1</it>
+					</sup>) of: IL-1&#946;, IL-6, IL-10, IL-15, INF-&#947;, fibroblast growth factor 2 (FGF2), CX3CL1 (fractalkine), CCL2 (monocyte chemotactic protein-1: MCP-1), TNF-&#945;, vascular endothelial derived growth factor (VEGF) and brain-derived neurotrophic factor (BDNF). Precision data given by the manufacturer estimate accuracy as 87 to 107%. Intra-assay and inter-assay CVs are given as 2 to 13% and 5 to 19%, respectively.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Muscle mass</p>
+				</st><p>Muscle mass will be determined using standard anthropometric methods (measurement of lower limb girths and skinfold thickness) <abbrgrp>
+						<abbr bid="B35">35</abbr>
+					</abbrgrp> according to the International Society for the Advancement of Kinanthropometry (ISAK) standards. The intraobserver reliability of anthropomentry is high (R&#8201;&gt;&#8201;0.9) <abbrgrp>
+						<abbr bid="B36">36</abbr>
+					</abbrgrp>.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>ISNCSCI motor and sensory scores</p>
+				</st><p>Motor and sensory recovery will be measured using the International Standard for Neurological Classification of Spinal Cord Injury (ISNCSCI) <abbrgrp>
+						<abbr bid="B37">37</abbr>
+					</abbrgrp>. The motor score is derived from testing strength of five key upper limb and five key lower limb muscles bilaterally with the subject positioned in the supine position (for example, elbow flexors, wrist extensors, hip flexors, quadriceps, dorsiflexors) on a scale of 0&#8201;=&#8201;no contraction to 5&#8201;=&#8201;normal resistance through full range of motion. Scores are summed to give a total possible score of 50 for the upper extremities and 50 for the lower extremities. The sensory test involves testing pin-prick and light-touch sensation at key points representing each dermatome. Pin-prick and light-touch sensation of each dermatome are separately scored on a 3-point scale (0, 1 and 2). Scores will be summed to give a total possible score of 224, where a higher score indicates better sensation than a lower score. The total ISNCSCI motor, light-touch and pin-prick scores are highly reliable when assessed by experienced examiners <abbrgrp>
+						<abbr bid="B38">38</abbr>
+					</abbrgrp>.</p><p>This assessment will be used during the baseline visit to confirm the participant&#8217;s motor, sensory and neurological levels as well as the AIS classification, which indicates the degree of completeness of the spinal cord lesion prior to randomisation and then again at the post-intervention assessment.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Depression</p>
+				</st><p>Depression will be measured using the Hospital Anxiety and Depression Scale (HADS) <abbrgrp>
+						<abbr bid="B39">39</abbr>
+					</abbrgrp>, which has been found to be valid <abbrgrp>
+						<abbr bid="B40">40</abbr>
+					</abbrgrp> and reliable <abbrgrp>
+						<abbr bid="B41">41</abbr>
+					</abbrgrp> for people with SCI.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Assessment of Quality of Life (AQoL-8)</p>
+				</st><p>The AQoL-8 is a multi-attribute utility instrument. It will be used to evaluate whether the study intervention improves participants&#8217; quality of life as well as for an economic evaluation of the intervention&#8217;s cost-effectiveness. The AQoL-8 is a self-administered 8-item questionnaire <abbrgrp>
+						<abbr bid="B42">42</abbr>
+					</abbrgrp> with excellent test-retest reliability <abbrgrp>
+						<abbr bid="B43">43</abbr>
+					</abbrgrp>.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Health Utilities Index Mark 3 (HUI-3)</p>
+				</st><p>HUI-3 is a measure of health-related quality of life widely used in population health surveys, clinical studies and cost-utility analyses. HUI-3 includes eight attributes (vision, hearing, speech, ambulation, dexterity, emotion, cognition and pain), with five or six levels for each attribute. HUI-3 is reliable <abbrgrp>
+						<abbr bid="B44">44</abbr>
+					</abbrgrp> and is able to discriminate various aspects of burden associated with chronic conditions as well as describing the differences in overall health-related quality of life levels <abbrgrp>
+						<abbr bid="B45">45</abbr>
+					</abbrgrp>.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>WHOQoL-Bref</p>
+				</st><p>The WHOQoL-Bref questionnaire was designed by an international collaboration on quality of life by the World Health Organisation. It contains 26 questions about many different aspects of quality of life, with some additional questions about the person and his/her health. It has good test-retest reliability <abbrgrp>
+						<abbr bid="B46">46</abbr>
+					</abbrgrp> and has been found to be a valid measure in people with SCI <abbrgrp>
+						<abbr bid="B47">47</abbr>
+					</abbrgrp>.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Statistical analyses</p>
+				</st>
+				<sec>
+					<st>
+						<p>Sample size</p>
+					</st><p>The power analysis is for a one-way fixed effects analysis of covariance (ANCOVA) with two levels that correspond to FES cycling and passive cycling arms of the study. This analysis includes baseline value of muscle CSA in the thigh and calf as a covariate, and uses the value of muscle CSA in the thigh and calf at week 12 as the primary outcome. Based on available pilot data <abbrgrp>
+							<abbr bid="B17">17</abbr>
+						</abbrgrp>, the participants in the passive cycling arm are likely to lose around 33% of the baseline muscle CSA (mean&#8201;=&#8201;75, SD&#8201;=&#8201;20) over a period of 12&#160;weeks after SCI (measured using MRI). Assuming this loss could be contained to 10% by the proposed FES cycling intervention, thus resulting in mean changes of 25 (SD&#8201;=&#8201;20) and 7.5 (SD&#8201;=&#8201;20) for passive cycling and FES cycling respectively, the total sample size of 42 patients equally distributed between FES cycling and passive cycling arms will yield power of 0.8 to reject the null hypothesis at 0.05 level of significance. The ANCOVA is conservative (that is assuming no correlation between the baseline and follow-up measures) and non-directional (that is two-tailed) which means that an effect in either direction will be interpreted. Allowing for a15% drop-out rate, the final sample size for this study is calculated to be 50 patients equally distributed between FES cycling and passive cycling arms.</p>
+				</sec>
+			</sec>
+			<sec>
+				<st>
+					<p>Statistical analysis</p>
+				</st><p>The primary and secondary endpoint analyses will be conducted on an intention-to-treat basis. Baseline comparisons between the 2 arms of the study will be made using means or medians and proportions with 95% confidence intervals. All endpoints and analyses have been prospectively categorised as either primary or secondary. Differences in both primary and secondary endpoints between the 2 arms of the study will be tested independently at the 0.05 level of significance, using a one-way ANCOVA model that will include the baseline value of a given outcome in question as a covariate. No formal adjustments will be undertaken to constrain the overall type I error associated with the secondary analyses. Their purpose is to supplement evidence from the confirmatory primary analysis to help more fully characterise the treatment effect. Results from the secondary analyses will be interpreted in this context.</p><p>Additional exploratory analyses of the effects of stratification factors on the differences in both primary and secondary endpoints between the two arms of the study will be undertaken by either explicitly including these factors into the model (injury status) or by treating them as random effects in a random-effect regression model (study sites).</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Data integrity and management</p>
+				</st><p>Data will be stored electronically on a database with secured and restricted access. Data transfer will be encrypted and any information capable of identifying individuals removed.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Withdrawals</p>
+				</st><p>A participant will be considered to have withdrawn from the trial when consent is revoked or if the participant cannot be contacted or located. If this occurs, no further assessments will be performed. Participants will not be withdrawn from the trial for protocol violations.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Monitoring</p>
+				</st><p>The trial will be overseen and monitored by a Programme Manager. The Programme Manager will visit each site to examine trial procedures, ensure data quality and monitor compliance with the trial protocol. All adverse events and serious adverse events will be recorded according to standard procedures. An interim safety analysis is planned when 25 participants have completed their post-intervention assessment. It will be done by an independent Data Safety Monitoring Board (DSMB) comprising a statistician and two rehabilitation doctors. If there are concerns about the safety of participants, this board will make a recommendation to the trial steering committee about continuing, stopping, or modifying the trial.</p>
+			</sec>
+		</sec>
+		<sec>
+			<st>
+				<p>Discussion</p>
+			</st><p>This trial will provide information about the relative effectiveness of FES-assisted cycling versus passive cycling in preventing muscle atrophy. This is important because muscle atrophy is associated with blood vessel atrophy <abbrgrp>
+					<abbr bid="B48">48</abbr>
+				</abbrgrp> and predisposes to the development of pressure ulcers. The mechanisms by which active and passive exercise programmes improve function after SCI also need to be better understood because they allow for development of new and more effective therapeutic strategies. In this study, the control intervention is not standard care but an active intervention, involving passive cycling. This ensures that the intensity of both exercise programmes is similar, so that the effects of active exercise of the paralysed lower limbs can be identified over and above passive movement of the limbs.</p><p>This trial will adhere to key methodological principles important for minimising bias (International Conference on Harmonisation Good Clinical Practice annotated by the Therapeutic Goods Administration of Australia) <abbrgrp>
+					<abbr bid="B49">49</abbr>
+				</abbrgrp> and will be reported according to the CONSORT guidelines <abbrgrp>
+					<abbr bid="B50">50</abbr>
+				</abbrgrp>. For example, allocation will be concealed and randomised, assessors will be blinded and analyses will be performed on an intention-to-treat basis. Therapists and participants will not be blinded due to the nature of the intervention. One primary outcome and a number of secondary outcomes will be used. The primary outcome is a measure of muscle CSA. The secondary outcomes include measures of a biomarker for disuse osteoporosis, body composition, neurological function, and quality of life. Importantly, all adverse events will be rigorously documented, so that the safety of the interventions can be evaluated. It is anticipated that this trial will take 24&#160;months to complete.</p>
+		</sec>
+		<sec>
+			<st>
+				<p>Trial status</p>
+			</st><p>Recruitment commenced in October 2012. Recruitment continued until 31 May 2014.</p>
+		</sec>
+		<sec>
+			<st>
+				<p>Abbreviations</p>
+			</st><p>AED: Anti-epileptic drugs; AIS: American Spinal Injuries Association Impairment Scale; ANCOVA: Analysis of covariance; AQoL-8: Assessment of Quality of Life 8; &#946;-CTX: &#946;-isomerised C-terminal telopeptide of collagen type I; BDNF: Brain derived neurotrophic factor; BMD: Bone mineral density; CCL2: Monocyte chemotactic protein-1(MCP-1); CONSORT: Consolidated Standards of Reporting Trials; CSA: Cross-sectional area; CV: Coefficient of variation; CX3CL1: Fractalkine; DSMB: Data Safety Monitoring Board; ELISA: Enzyme-linked immunosorbent assay; FES: Functional electrical stimulation; FGF2: Fibroblast growth factor 2; HADS: Hospital Depression Anxiety Scale; HUI-3: Health Utilities Index Mark 3; IL: Interleukini; INF: Interferon; ISAK: International Society for the Advancement of Kinanthropometry; ISNCSCI: International Standard for Neurological Classification of Spinal Cord Injury; MRI: Magnetic Resonance imaging; P1NP: N-propeptide of type I procollagen; SD: Standard deviation; SCI: Spinal cord injury; SPIRIT: Standard Protocol Items: Recommendations for Interventional Trials; TNF&#945;: Tumour necrosis factor alpha; VEGF: Vascular endothelial derived growth factor; WHOQoL-Bref: World Health Organisation Quality of Life Short Form; Wnt: Wingless-related integration site gene.</p>
+		</sec>
+		<sec>
+			<st>
+				<p>Competing interests</p>
+			</st><p>The authors declare that they have no competing interests.</p>
+		</sec>
+		<sec>
+			<st>
+				<p>Authors&#8217; contributions</p>
+			</st><p>MPG, SAD, RM and JC were responsible for the design of the trial, and secured funding. MPG is responsible for the co-ordination and management of the trial. LC is responsible for statistical design and analysis. All authors have read and approved the final manuscript.</p>
+		</sec>
+	</bdy>
+	<bm>
+		<ack>
+			<sec>
+				<st>
+					<p>Acknowledgements</p>
+				</st><p>Funding from the Transport Accident Commission (Victorian Neurotrauma Initiative) and the National Health and Medical Research Council of Australia.</p>
+			</sec>
+		</ack>
+		<refgrp><bibl id="B1"><title><p>Soft tissue body composition differences in monozygotic twins discordant for spinal cord injury</p></title><aug><au><snm>Spungen</snm><fnm>AM</fnm></au><au><snm>Wang</snm><fnm>J</fnm></au><au><snm>Pierson</snm><fnm>RN</fnm><suf>Jr</suf></au><au><snm>Bauman</snm><fnm>WA</fnm></au></aug><source>J Appl Physiol</source><pubdate>2000</pubdate><volume>88</volume><fpage>1310</fpage><lpage>1315</lpage><xrefbib><pubid idtype="pmpid" link="fulltext">10749824</pubid></xrefbib></bibl><bibl id="B2"><title><p>Longitudinal study of the bone mineral content and of soft tissue composition after spinal cord section</p></title><aug><au><snm>Wilmet</snm><fnm>E</fnm></au><au><snm>Ismail</snm><fnm>AA</fnm></au><au><snm>Heilporn</snm><fnm>A</fnm></au><au><snm>Welraeds</snm><fnm>D</fnm></au><au><snm>Bergmann</snm><fnm>P</fnm></au></aug><source>Paraplegia</source><pubdate>1995</pubdate><volume>33</volume><fpage>674</fpage><lpage>677</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1038/sc.1995.141</pubid><pubid idtype="pmpid">8584304</pubid></pubidlist></xrefbib></bibl><bibl id="B3"><title><p>Continuous loss of bone during chronic immobilization: a monozygotic twin study</p></title><aug><au><snm>Bauman</snm><fnm>WA</fnm></au><au><snm>Spungen</snm><fnm>AM</fnm></au><au><snm>Wang</snm><fnm>J</fnm></au><au><snm>Pierson</snm><fnm>RN</fnm><suf>Jr</suf></au><au><snm>Schwartz</snm><fnm>E</fnm></au></aug><source>Osteoporos Int</source><pubdate>1999</pubdate><volume>10</volume><fpage>123</fpage><lpage>127</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1007/s001980050206</pubid><pubid idtype="pmpid" link="fulltext">10501792</pubid></pubidlist></xrefbib></bibl><bibl id="B4"><title><p>Lower extremity fractures after spinal cord injury: a retrospective study</p></title><aug><au><snm>Ragnarsson</snm><fnm>KT</fnm></au><au><snm>Sell</snm><fnm>GH</fnm></au></aug><source>Arch Phys Med Rehabil</source><pubdate>1981</pubdate><volume>62</volume><fpage>418</fpage><lpage>423</lpage><xrefbib><pubid idtype="pmpid">7283682</pubid></xrefbib></bibl><bibl id="B5"><title><p>Insulin signalling in osteoblasts integrates bone remodelling and energy metabolism</p></title><aug><au><snm>Ferron</snm><fnm>M</fnm></au><au><snm>Wei</snm><fnm>J</fnm></au><au><snm>Yoshizawa</snm><fnm>T</fnm></au><au><snm>Del Fatto</snm><fnm>A</fnm></au><au><snm>DePinho</snm><fnm>RA</fnm></au><au><snm>Teti</snm><fnm>A</fnm></au><au><snm>Ducy</snm><fnm>P</fnm></au><au><snm>Karsenty</snm><fnm>G</fnm></au></aug><source>Cell</source><pubdate>2010</pubdate><volume>142</volume><fpage>296</fpage><lpage>308</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1016/j.cell.2010.06.003</pubid><pubid idtype="pmcid">2910411</pubid><pubid idtype="pmpid">20655470</pubid></pubidlist></xrefbib></bibl><bibl id="B6"><title><p>Bone-specific insulin resistance disrupts whole-body glucose homeostatis via decreased osteocalcin activation</p></title><aug><au><snm>Wei</snm><fnm>J</fnm></au><au><snm>Ferron</snm><fnm>M</fnm></au><au><snm>Clarke</snm><fnm>CJ</fnm></au><au><snm>Hannun</snm><fnm>YA</fnm></au><au><snm>Jiang</snm><fnm>H</fnm></au><au><snm>Blaner</snm><fnm>WS</fnm></au><au><snm>Karsenty</snm><fnm>G</fnm></au></aug><source>J Clin Invest</source><pubdate>2014</pubdate><volume>124</volume><fpage>1781</fpage><lpage>1793</lpage><xrefbib><pubid idtype="doi">10.1172/JCI72323</pubid></xrefbib></bibl><bibl id="B7"><title><p>A role for myokines in muscle-bone interactions</p></title><aug><au><snm>Hamrick</snm><fnm>MW</fnm></au></aug><source>Exerc Sport Sci Rev</source><pubdate>2011</pubdate><volume>39</volume><fpage>43</fpage><lpage>47</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1097/JES.0b013e318201f601</pubid><pubid idtype="pmcid">3791922</pubid><pubid idtype="pmpid" link="fulltext">21088601</pubid></pubidlist></xrefbib></bibl><bibl id="B8"><title><p>Muscle as an endocrine organ: focus on muscle-derived interleukin-6</p></title><aug><au><snm>Pedersen</snm><fnm>BK</fnm></au><au><snm>Febbraio</snm><fnm>MA</fnm></au></aug><source>Physiol Rev</source><pubdate>2008</pubdate><volume>88</volume><fpage>1379</fpage><lpage>1406</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1152/physrev.90100.2007</pubid><pubid idtype="pmpid" link="fulltext">18923185</pubid></pubidlist></xrefbib></bibl><bibl id="B9"><title><p>Muscles and their myokines</p></title><aug><au><snm>Pedersen</snm><fnm>BK</fnm></au></aug><source>J Exp Biol</source><pubdate>2011</pubdate><volume>214</volume><fpage>337</fpage><lpage>346</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1242/jeb.048074</pubid><pubid idtype="pmpid" link="fulltext">21177953</pubid></pubidlist></xrefbib></bibl><bibl id="B10"><title><p>Linkage between muscle and bone: common catabolic signals resulting in osteoporosis and sarcopenia</p></title><aug><au><snm>Kaji</snm><fnm>H</fnm></au></aug><source>Curr Opin Clin Nutr Metab Care</source><pubdate>2013</pubdate><volume>16</volume><fpage>272</fpage><lpage>277</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1097/MCO.0b013e32835fe6a5</pubid><pubid idtype="pmpid" link="fulltext">23481148</pubid></pubidlist></xrefbib></bibl><bibl id="B11"><title><p>Longitudinal study of bone mineral content in the lumbar spine, the forearm and the lower extremities after spinal cord injury</p></title><aug><au><snm>Biering-Sorensen</snm><fnm>F</fnm></au><au><snm>Bohr</snm><fnm>HH</fnm></au><au><snm>Schaadt</snm><fnm>OP</fnm></au></aug><source>Eur J Clin Invest</source><pubdate>1990</pubdate><volume>20</volume><fpage>330</fpage><lpage>335</lpage><xrefbib><pubid idtype="pmpid">2114994</pubid></xrefbib></bibl><bibl id="B12"><title><p>Muscle atrophy is prevented in patients with acute spinal cord injury using functional electrical stimulation</p></title><aug><au><snm>Baldi</snm><fnm>JC</fnm></au><au><snm>Jackson</snm><fnm>RD</fnm></au><au><snm>Moraille</snm><fnm>R</fnm></au><au><snm>Mysiw</snm><fnm>WJ</fnm></au></aug><source>Spinal Cord</source><pubdate>1998</pubdate><volume>36</volume><fpage>463</fpage><lpage>469</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1038/sj.sc.3100679</pubid><pubid idtype="pmpid">9670381</pubid></pubidlist></xrefbib></bibl><bibl id="B13"><title><p>Plasma leptin is directly related to body adiposity in subjects with spinal cord injury</p></title><aug><au><snm>Bauman</snm><fnm>WA</fnm></au><au><snm>Spungen</snm><fnm>AM</fnm></au><au><snm>Zhong</snm><fnm>YG</fnm></au><au><snm>Mobbs</snm><fnm>CV</fnm></au></aug><source>Horm Metab Res</source><pubdate>1996</pubdate><volume>28</volume><fpage>732</fpage><lpage>736</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1055/s-2007-979889</pubid><pubid idtype="pmpid" link="fulltext">9013753</pubid></pubidlist></xrefbib></bibl><bibl id="B14"><title><p>Metabolic and endocrine changes in persons aging with spinal cord injury</p></title><aug><au><snm>Bauman</snm><fnm>WA</fnm></au><au><snm>Spungen</snm><fnm>AM</fnm></au><au><snm>Adkins</snm><fnm>RH</fnm></au><au><snm>Kemp</snm><fnm>BJ</fnm></au></aug><source>Assist Technol</source><pubdate>1999</pubdate><volume>11</volume><fpage>88</fpage><lpage>96</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1080/10400435.1999.10131993</pubid><pubid idtype="pmpid">11010069</pubid></pubidlist></xrefbib></bibl><bibl id="B15"><title><p>Limb blood flow, cardiac output and quadriceps muscle bulk following spinal cord injury and the effect of training for the Odstock functional electrical stimulation standing system</p></title><aug><au><snm>Taylor</snm><fnm>PN</fnm></au><au><snm>Ewins</snm><fnm>DJ</fnm></au><au><snm>Fox</snm><fnm>B</fnm></au><au><snm>Grundy</snm><fnm>D</fnm></au><au><snm>Swain</snm><fnm>ID</fnm></au></aug><source>Paraplegia</source><pubdate>1993</pubdate><volume>31</volume><fpage>303</fpage><lpage>310</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1038/sc.1993.54</pubid><pubid idtype="pmpid">8332376</pubid></pubidlist></xrefbib></bibl><bibl id="B16"><title><p>Skeletal muscle atrophy and increased intramuscular fat after incomplete spinal cord injury</p></title><aug><au><snm>Gorgey</snm><fnm>AS</fnm></au><au><snm>Dudley</snm><fnm>GA</fnm></au></aug><source>Spinal Cord</source><pubdate>2007</pubdate><volume>45</volume><fpage>304</fpage><lpage>309</lpage><xrefbib><pubid idtype="pmpid" link="fulltext">16940987</pubid></xrefbib></bibl><bibl id="B17"><title><p>Influence of complete spinal cord injury on skeletal muscle cross-sectional area within the first 6&#160;months of injury</p></title><aug><au><snm>Castro</snm><fnm>MJ</fnm></au><au><snm>Apple</snm><fnm>DF</fnm><suf>Jr</suf></au><au><snm>Hillegass</snm><fnm>EA</fnm></au><au><snm>Dudley</snm><fnm>GA</fnm></au></aug><source>Eur J Appl Physiol</source><pubdate>1999</pubdate><volume>80</volume><fpage>373</fpage><lpage>378</lpage><xrefbib><pubid idtype="doi">10.1007/s004210050606</pubid></xrefbib></bibl><bibl id="B18"><title><p>Muscle fiber regeneration in human permanent motoneuron denervation: relevance to safety and effectiveness of FES-training which induces recovery in SCI subjects</p></title><aug><au><snm>Carraro</snm><fnm>U</fnm></au><au><snm>Rossini</snm><fnm>K</fnm></au><au><snm>Mayr</snm><fnm>W</fnm></au><au><snm>Kern</snm><fnm>H</fnm></au></aug><source>Artif Organs</source><pubdate>2005</pubdate><volume>29</volume><fpage>187</fpage><lpage>191</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1111/j.1525-1594.2005.29032.x</pubid><pubid idtype="pmpid" link="fulltext">15725214</pubid></pubidlist></xrefbib></bibl><bibl id="B19"><title><p>Early changes in muscle fiber size and gene expression in response to spinal cord transaction and exercise</p></title><aug><au><snm>Dupont-Versteegden</snm><fnm>EE</fnm></au><au><snm>Houl&#233;</snm><fnm>JD</fnm></au><au><snm>Gurley</snm><fnm>CM</fnm></au><au><snm>Petersen</snm><fnm>CA</fnm></au></aug><source>Am J Physiol Cell Physiol</source><pubdate>1998</pubdate><volume>275</volume><fpage>1124</fpage><lpage>1133</lpage></bibl><bibl id="B20"><title><p>Rapid vascular adaptations to training and detraining of persons with spinal cord injury</p></title><aug><au><snm>Thijssen</snm><fnm>DH</fnm></au><au><snm>Ellenkamp</snm><fnm>R</fnm></au><au><snm>Smits</snm><fnm>P</fnm></au><au><snm>Hopman</snm><fnm>MT</fnm></au></aug><source>Arch Phys Med Rehabil</source><pubdate>2006</pubdate><volume>87</volume><fpage>474</fpage><lpage>481</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1016/j.apmr.2005.11.005</pubid><pubid idtype="pmpid" link="fulltext">16571385</pubid></pubidlist></xrefbib></bibl><bibl id="B21"><title><p>Early modifications of biochemical markers of bone metabolism in spinal cord injury patients. A preliminary study</p></title><aug><au><snm>Uebelhart</snm><fnm>D</fnm></au><au><snm>Hartmann</snm><fnm>D</fnm></au><au><snm>Vuagnat</snm><fnm>H</fnm></au><au><snm>Castanier</snm><fnm>M</fnm></au><au><snm>Hachen</snm><fnm>HJ</fnm></au><au><snm>Chantraine</snm><fnm>A</fnm></au></aug><source>Scand J Rehabil Med</source><pubdate>1994</pubdate><volume>26</volume><fpage>197</fpage><lpage>202</lpage><xrefbib><pubid idtype="pmpid">7878394</pubid></xrefbib></bibl><bibl id="B22"><title><p>Bone&#8217;s mechanostat: a 2003 update</p></title><aug><au><snm>Frost</snm><fnm>HM</fnm></au></aug><source>Anat Rec</source><pubdate>2003</pubdate><volume>275A</volume><fpage>1081</fpage><lpage>1101</lpage><xrefbib><pubid idtype="doi">10.1002/ar.a.10119</pubid></xrefbib></bibl><bibl id="B23"><title><p>An overview of the regulation of bone remodellimg at the cellular level</p></title><aug><au><snm>Kular</snm><fnm>J</fnm></au><au><snm>Tickner</snm><fnm>J</fnm></au><au><snm>Chim</snm><fnm>SM</fnm></au><au><snm>Xu</snm><fnm>J</fnm></au></aug><source>Clin Biochem</source><pubdate>2012</pubdate><volume>45</volume><fpage>863</fpage><lpage>873</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1016/j.clinbiochem.2012.03.021</pubid><pubid idtype="pmpid" link="fulltext">22465238</pubid></pubidlist></xrefbib></bibl><bibl id="B24"><title><p>Sclerostin: a candidate biomarker of SCI-induced osteoporosis</p></title><aug><au><snm>Morse</snm><fnm>LR</fnm></au><au><snm>Sudhakar</snm><fnm>S</fnm></au><au><snm>Lazzari</snm><fnm>AA</fnm></au><au><snm>Garschick</snm><fnm>W</fnm></au><au><snm>Zafonte</snm><fnm>R</fnm></au><au><snm>Battaglino</snm><fnm>RA</fnm></au></aug><source>Osteoporos Int</source><pubdate>2013</pubdate><volume>24</volume><fpage>961</fpage><lpage>968</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1007/s00198-012-2072-0</pubid><pubid idtype="pmcid">3611240</pubid><pubid idtype="pmpid" link="fulltext">22801952</pubid></pubidlist></xrefbib></bibl><bibl id="B25"><title><p>Spinal cord injury-induced osteoporosis: pathogenesis and emerging therapies</p></title><aug><au><snm>Battaglino</snm><fnm>RA</fnm></au><au><snm>Lazzari</snm><fnm>AA</fnm></au><au><snm>Garshick</snm><fnm>E</fnm></au><au><snm>Morse</snm><fnm>LR</fnm></au></aug><source>Curr Osteopros Rep</source><pubdate>2012</pubdate><volume>10</volume><fpage>278</fpage><lpage>285</lpage><xrefbib><pubid idtype="doi">10.1007/s11914-012-0117-0</pubid></xrefbib></bibl><bibl id="B26"><title><p>Circulating sclerostin is elevated in short-term and reduced in long-term SCI</p></title><aug><au><snm>Battaglino</snm><fnm>RA</fnm></au><au><snm>Sudhakar</snm><fnm>S</fnm></au><au><snm>Lazzari</snm><fnm>AA</fnm></au><au><snm>Garschick</snm><fnm>E</fnm></au><au><snm>Zafonte</snm><fnm>R</fnm></au><au><snm>Morse</snm><fnm>LR</fnm></au></aug><source>Bone</source><pubdate>2012</pubdate><volume>51</volume><fpage>600</fpage><lpage>605</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1016/j.bone.2012.04.019</pubid><pubid idtype="pmcid">3412894</pubid><pubid idtype="pmpid" link="fulltext">22575440</pubid></pubidlist></xrefbib></bibl><bibl id="B27"><title><p>Skeletal muscle secreted factors prevent glucocorticoid-induced osteocyte apoptosis through activation of &#946;-catenin</p></title><aug><au><snm>J&#228;hn</snm><fnm>K</fnm></au><au><snm>Lara-Castillo</snm><fnm>N</fnm></au><au><snm>Brotto</snm><fnm>L</fnm></au><au><snm>Mo</snm><fnm>CL</fnm></au><au><snm>Johnson</snm><fnm>ML</fnm></au><au><snm>Brotto</snm><fnm>M</fnm></au><au><snm>Bonewald</snm><fnm>LF</fnm></au></aug><source>Eur Cells Mater</source><pubdate>2012</pubdate><volume>24</volume><fpage>197</fpage><lpage>210</lpage></bibl><bibl id="B28"><title><p>Physiological effects of lower extremity functional electrical stimulation in early spinal cord injury: lack of efficacy to prevent bone loss</p></title><aug><au><snm>Clark</snm><fnm>JM</fnm></au><au><snm>Jelbart</snm><fnm>M</fnm></au><au><snm>Rischbieth</snm><fnm>H</fnm></au><au><snm>Strayer</snm><fnm>J</fnm></au><au><snm>Chatterton</snm><fnm>B</fnm></au><au><snm>Schultz</snm><fnm>C</fnm></au><au><snm>Marshall</snm><fnm>R</fnm></au></aug><source>Spinal Cord</source><pubdate>2007</pubdate><volume>45</volume><fpage>78</fpage><lpage>85</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1038/sj.sc.3101929</pubid><pubid idtype="pmpid" link="fulltext">16636686</pubid></pubidlist></xrefbib></bibl><bibl id="B29"><title><p>Bone health following spinal cord injury</p></title><aug><au><snm>Ashe</snm><fnm>M</fnm></au><au><snm>Craven</snm><fnm>BC</fnm></au><au><snm>Krassioukov</snm><fnm>A</fnm></au><au><snm>Eng</snm><fnm>J</fnm></au></aug><source>Spinal Cord Injury Rehabilitation Evidence</source><publisher>Burnaby BC, Canada: Monkey Hill Health Communications</publisher><editor>Burnaby BC, Eng JJ, Teasell RW, Miller WC, Wolfe DL, Townson AF, Hsieh JTC, Connolly SJ, Mehta S, Sakakibara BM</editor><series>
+   <title>
+      <p>Version 3.0</p>
+   </title>
+</series><pubdate>2010</pubdate><fpage>1</fpage><lpage>29</lpage></bibl><bibl id="B30"><title><p>Bone steady-state is established at reduced bone strength after spinal cord injury: a longitudinal study using peripheral quantitative computed tomography (pQCT)</p></title><aug><au><snm>Frotzler</snm><fnm>A</fnm></au><au><snm>Berger</snm><fnm>M</fnm></au><au><snm>Knecht</snm><fnm>H</fnm></au><au><snm>Eser</snm><fnm>P</fnm></au></aug><source>Bone</source><pubdate>2008</pubdate><volume>43</volume><fpage>549</fpage><lpage>555</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1016/j.bone.2008.05.006</pubid><pubid idtype="pmpid" link="fulltext">18567554</pubid></pubidlist></xrefbib></bibl><bibl id="B31"><title><p>Cardiovascular and metabolic responses during functional electric stimulation cycling at different cadences</p></title><aug><au><snm>Fornusek</snm><fnm>C</fnm></au><au><snm>Davis</snm><fnm>GM</fnm></au></aug><source>Arch Phys Med Rehabil</source><pubdate>2008</pubdate><volume>89</volume><fpage>719</fpage><lpage>725</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1016/j.apmr.2007.09.035</pubid><pubid idtype="pmpid" link="fulltext">18374003</pubid></pubidlist></xrefbib></bibl><bibl id="B32"><title><p>Effect of electrical stimulation-induced cycling on bone mineral density in spinal cord injured patients</p></title><aug><au><snm>Eser</snm><fnm>P</fnm></au><au><snm>de Bruin</snm><fnm>ED</fnm></au><au><snm>Telley</snm><fnm>I</fnm></au><au><snm>Lechner</snm><fnm>HE</fnm></au><au><snm>Knecht</snm><fnm>H</fnm></au><au><snm>St&#252;ssi</snm><fnm>G</fnm></au></aug><source>Eur J Clin Invest</source><pubdate>2003</pubdate><volume>33</volume><fpage>412</fpage><lpage>419</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1046/j.1365-2362.2003.01156.x</pubid><pubid idtype="pmpid" link="fulltext">12713456</pubid></pubidlist></xrefbib></bibl><bibl id="B33"><title><p>Increased sclerostin serum levels associated with bone formation and resorption markers in patients with immobilization-induced bone loss</p></title><aug><au><snm>Gaudio</snm><fnm>A</fnm></au><au><snm>Pennisi</snm><fnm>P</fnm></au><au><snm>Bratengeier</snm><fnm>C</fnm></au><au><snm>Torrisi</snm><fnm>V</fnm></au><au><snm>Lindner</snm><fnm>B</fnm></au><au><snm>Mangiafico</snm><fnm>RA</fnm></au><au><snm>Pulvirenti</snm><fnm>I</fnm></au><au><snm>Hawa</snm><fnm>G</fnm></au><au><snm>Tringali</snm><fnm>G</fnm></au><au><snm>Fiore</snm><fnm>CE</fnm></au></aug><source>J Clin Endocrinol Metab</source><pubdate>2010</pubdate><volume>95</volume><fpage>2248</fpage><lpage>2253</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1210/jc.2010-0067</pubid><pubid idtype="pmpid" link="fulltext">20305005</pubid></pubidlist></xrefbib></bibl><bibl id="B34"><title><p>Analytical evaluation of commercial P1NP assay</p></title><aug><au><snm>Marcius</snm><fnm>M</fnm></au><au><snm>Vrkic</snm><fnm>N</fnm></au><au><snm>Getaldi&#263;-&#352;varc</snm><fnm>B</fnm></au></aug><source>Biochemia Medica</source><pubdate>2006</pubdate><volume>16</volume><fpage>178</fpage><lpage>190</lpage></bibl><bibl id="B35"><title><p>An anthropometric determination of leg fat and muscle plus bone volumes in male and female adults</p></title><aug><au><snm>Jones</snm><fnm>PRM</fnm></au><au><snm>Pearson</snm><fnm>J</fnm></au></aug><source>J Physiol</source><pubdate>1969</pubdate><volume>204</volume><fpage>63</fpage><lpage>66</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1113/jphysiol.1969.sp008898</pubid><pubid idtype="pmcid">1351593</pubid><pubid idtype="pmpid" link="fulltext">4310944</pubid></pubidlist></xrefbib></bibl><bibl id="B36"><title><p>Interviewer variability in anthropometric measurements and estimates of body composition</p></title><aug><au><snm>Klipstein-Grobusch</snm><fnm>K</fnm></au><au><snm>Georg</snm><fnm>T</fnm></au><au><snm>Boeing</snm><fnm>H</fnm></au></aug><source>Int J Epidemiol</source><pubdate>1997</pubdate><volume>26</volume><issue>Suppl 1</issue><fpage>S174</fpage><lpage>S180</lpage><xrefbib><pubid idtype="pmpid" link="fulltext">9126545</pubid></xrefbib></bibl><bibl id="B37"><aug><au><cnm>American Spinal Injury Association</cnm></au></aug><source>Reference Manual of the International Standards for Neurological Classification of Spinal Cord Injury</source><publisher>Chicago, IL: American Spinal Injury Association</publisher><pubdate>2003</pubdate></bibl><bibl id="B38"><title><p>Inter-rater reliability of motor and sensory examinations peformed according to American Spinal Injury Association standards</p></title><aug><au><snm>Savic</snm><fnm>G</fnm></au><au><snm>Bergstr&#246;m</snm><fnm>EMK</fnm></au><au><snm>Frankel</snm><fnm>HL</fnm></au><au><snm>Jamous</snm><fnm>J</fnm></au><au><snm>Jones</snm><fnm>PW</fnm></au></aug><source>Spinal Cord</source><pubdate>2007</pubdate><volume>45</volume><fpage>444</fpage><lpage>451</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1038/sj.sc.3102044</pubid><pubid idtype="pmpid" link="fulltext">17387316</pubid></pubidlist></xrefbib></bibl><bibl id="B39"><title><p>The hospital anxiety and depression scale</p></title><aug><au><snm>Zigmond</snm><fnm>AS</fnm></au><au><snm>Snaith</snm><fnm>RP</fnm></au></aug><source>Acta Psychiatr Scand</source><pubdate>1983</pubdate><volume>67</volume><fpage>361</fpage><lpage>370</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1111/j.1600-0447.1983.tb09716.x</pubid><pubid idtype="pmpid">6880820</pubid></pubidlist></xrefbib></bibl><bibl id="B40"><title><p>A preliminary psychometric evaluation of the Hospital Anxiety and Depression Scale (HADS) in 963 people living with spinal cord injury</p></title><aug><au><snm>Woolrich</snm><fnm>RA</fnm></au><au><snm>Kennedy</snm><fnm>P</fnm></au><au><snm>Tasiemski</snm><fnm>T</fnm></au></aug><source>Psychol Health Med</source><pubdate>2006</pubdate><volume>11</volume><fpage>80</fpage><lpage>90</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1080/13548500500294211</pubid><pubid idtype="pmpid" link="fulltext">17129897</pubid></pubidlist></xrefbib></bibl><bibl id="B41"><title><p>Evaluation of the psychometric characteristics of the Spanish version of the Hospital Anxiety and Depression Scale</p></title><aug><au><snm>Quintana</snm><fnm>JM</fnm></au><au><snm>Padierna</snm><fnm>A</fnm></au><au><snm>Esteban</snm><fnm>C</fnm></au><au><snm>Arostegui</snm><fnm>I</fnm></au><au><snm>Bilbao</snm><fnm>A</fnm></au><au><snm>Ruiz</snm><fnm>I</fnm></au></aug><source>Acta Psychiatr Scand</source><pubdate>2003</pubdate><volume>107</volume><fpage>216</fpage><lpage>221</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1034/j.1600-0447.2003.00062.x</pubid><pubid idtype="pmpid" link="fulltext">12580829</pubid></pubidlist></xrefbib></bibl><bibl id="B42"><title><p>Assessing utility where short measures are required: development of the Short Assessment of Quality of Life-8 (AQoL-8) Instrument</p></title><aug><au><snm>Hawthorne</snm><fnm>G</fnm></au></aug><source>Value Health</source><pubdate>2009</pubdate><volume>12</volume><fpage>948</fpage><lpage>957</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1111/j.1524-4733.2009.00526.x</pubid><pubid idtype="pmpid">19490558</pubid></pubidlist></xrefbib></bibl><bibl id="B43"><aug><au><snm>Richardson</snm><fnm>J</fnm></au><au><snm>Iezzi</snm><fnm>A</fnm></au></aug><source>Psychometric validity and the AQoL-8D multi attribute utility instrument</source><publisher>Melbourne Australia: Centre for Health Economics Monash University</publisher><pubdate>2011</pubdate><fpage>13</fpage></bibl><bibl id="B44"><title><p>A comparison of health utility measures for the evaluation of multiple sclerosis treatments</p></title><aug><au><snm>Fisk</snm><fnm>JD</fnm></au><au><snm>Brown</snm><fnm>MG</fnm></au><au><snm>Sketris</snm><fnm>IS</fnm></au><au><snm>Metz</snm><fnm>LM</fnm></au><au><snm>Murray</snm><fnm>TJ</fnm></au><au><snm>Stadnyk</snm><fnm>KJ</fnm></au></aug><source>J Neurol Neurosurg Psychiatr</source><pubdate>2005</pubdate><volume>76</volume><fpage>58</fpage><lpage>63</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1136/jnnp.2003.017897</pubid><pubid idtype="pmcid">1739294</pubid><pubid idtype="pmpid" link="fulltext">15607996</pubid></pubidlist></xrefbib></bibl><bibl id="B45"><title><p>The Health Utilities Index (HUI): concepts, measurement properties and applications</p></title><aug><au><snm>Horsman</snm><fnm>J</fnm></au><au><snm>Furlong</snm><fnm>W</fnm></au><au><snm>Feeny</snm><fnm>D</fnm></au><au><snm>Torrance</snm><fnm>G</fnm></au></aug><source>Health Qual Life Outcomes</source><pubdate>2003</pubdate><volume>1</volume><fpage>54</fpage><xrefbib><pubidlist><pubid idtype="doi">10.1186/1477-7525-1-54</pubid><pubid idtype="pmcid">293474</pubid><pubid idtype="pmpid" link="fulltext">14613568</pubid></pubidlist></xrefbib></bibl><bibl id="B46"><title><p>Development of the World Health Organization WHOQOL-BREF quality of life assessment</p></title><aug><au><snm>Group</snm><fnm>WHOQOL</fnm></au></aug><source>Psychol Med</source><pubdate>1998</pubdate><volume>28</volume><fpage>551</fpage><lpage>558</lpage><xrefbib><pubid idtype="pmpid">9626712</pubid></xrefbib></bibl><bibl id="B47"><title><p>A validity study of the WHOQOLBREF assessment in persons with traumatic spinal cord injury</p></title><aug><au><snm>Jang</snm><fnm>Y</fnm></au><au><snm>Hsieh</snm><fnm>C-L</fnm></au><au><snm>Wang</snm><fnm>Y-H</fnm></au><au><snm>Wu</snm><fnm>Y-H</fnm></au></aug><source>Arch Phys Med Rehabil</source><pubdate>2004</pubdate><volume>85</volume><fpage>1890</fpage><lpage>1895</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1016/j.apmr.2004.02.032</pubid><pubid idtype="pmpid" link="fulltext">15520987</pubid></pubidlist></xrefbib></bibl><bibl id="B48"><title><p>Rapid and extensive arterial adaptations after spinal cord injury</p></title><aug><au><snm>De Groot</snm><fnm>P</fnm></au><au><snm>Bleeker</snm><fnm>MW</fnm></au><au><snm>van Kuppevelt</snm><fnm>DH</fnm></au><au><snm>van der Woude</snm><fnm>LH</fnm></au><au><snm>Hopman</snm><fnm>MT</fnm></au></aug><source>Arch Phys Med Rehabil</source><pubdate>2006</pubdate><volume>87</volume><fpage>688</fpage><lpage>696</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1016/j.apmr.2006.01.022</pubid><pubid idtype="pmpid" link="fulltext">16635632</pubid></pubidlist></xrefbib></bibl><bibl id="B49"><aug><au><cnm>Therapeutic Good Administration</cnm></au></aug><source>Note for guidance on good clinical practice (CPMP/ICH/135/95) annotated with TGA comments</source><publisher>Canberra Australia: Commonwealth Department of Health and Aged Care</publisher><pubdate>2000</pubdate></bibl><bibl id="B50"><title><p>CONSORT 2010 explanation and elaboration: updated guidelines for reporting parallel group randomised trials</p></title><aug><au><snm>Moher</snm><fnm>D</fnm></au><au><snm>Hopewell</snm><fnm>S</fnm></au><au><snm>Schulz</snm><fnm>KF</fnm></au><au><snm>Montori</snm><fnm>V</fnm></au><au><snm>G&#248;tzsche</snm><fnm>PC</fnm></au><au><snm>Devereaux</snm><fnm>PJ</fnm></au><au><snm>Elbourne</snm><fnm>D</fnm></au><au><snm>Egger</snm><fnm>M</fnm></au><au><snm>Altman</snm><fnm>DG</fnm></au></aug><source>BMJ</source><pubdate>2010</pubdate><volume>340</volume><fpage>c869</fpage><xrefbib><pubidlist><pubid idtype="doi">10.1136/bmj.c869</pubid><pubid idtype="pmcid">2844943</pubid><pubid idtype="pmpid" link="fulltext">20332511</pubid></pubidlist></xrefbib></bibl></refgrp>
+	</bm>
+</art>

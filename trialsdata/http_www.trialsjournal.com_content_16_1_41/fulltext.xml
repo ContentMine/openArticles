@@ -1,0 +1,1765 @@
+<?xml version='1.0'?>
+<!DOCTYPE art SYSTEM 'http://www.biomedcentral.com/xml/article.dtd'>
+<art>
+    <ui>s13063-015-0551-2</ui>
+    <ji>1745-6215</ji>
+    <fm>
+       <dochead>Study protocol</dochead>
+       <bibl>
+          <title>
+             <p>The Community In-Reach and Care Transition (CIRACT) clinical and cost-effectiveness study: study protocol for a randomised controlled trial</p>
+          </title>
+          <aug>
+             <au id="A1" ca="yes">
+                <snm>Watson</snm>
+                <fnm>Alison</fnm>
+                <insr iid="I1"/>
+                <email>Alison.watson@nuh.nhs.uk</email>
+             </au>
+             <au id="A2">
+                <snm>Charlesworth</snm>
+                <fnm>Lisa</fnm>
+                <insr iid="I2"/>
+                <email>lisa.charlesworth@manchester.ac.uk</email>
+             </au>
+             <au id="A3">
+                <snm>Jacob</snm>
+                <fnm>Ruth</fnm>
+                <insr iid="I3"/>
+                <email>R.Jacob@warwick.ac.uk</email>
+             </au>
+             <au id="A4">
+                <snm>Kendrick</snm>
+                <fnm>Denise</fnm>
+                <insr iid="I4"/>
+                <email>denise.kendrick@nottingham.ac.uk</email>
+             </au>
+             <au id="A5">
+                <snm>Logan</snm>
+                <fnm>Philippa</fnm>
+                <insr iid="I4"/>
+                <email>pip.logan@nottingham.ac.uk</email>
+             </au>
+             <au id="A6">
+                <snm>Marshall</snm>
+                <fnm>Fiona</fnm>
+                <insr iid="I5"/>
+                <email>fiona.marshall@nottingham.ac.uk</email>
+             </au>
+             <au id="A7">
+                <snm>Montgomery</snm>
+                <fnm>Alan</fnm>
+                <insr iid="I4"/>
+                <email>alan.montgomery@nottingham.ac.uk</email>
+             </au>
+             <au id="A8">
+                <snm>Sach</snm>
+                <fnm>Tracey</fnm>
+                <insr iid="I6"/>
+                <email>T.Sach@uea.ac.uk</email>
+             </au>
+             <au id="A9">
+                <snm>Tan</snm>
+                <fnm>Wei</fnm>
+                <insr iid="I2"/>
+                <email>wei.tan@nottingham.ac.uk</email>
+             </au>
+             <au id="A10">
+                <snm>Walker</snm>
+                <fnm>Maria</fnm>
+                <insr iid="I7"/>
+                <email>maria.walker@nottinghamcity.nhs.uk</email>
+             </au>
+             <au id="A11">
+                <snm>Waring</snm>
+                <fnm>Justin</fnm>
+                <insr iid="I5"/>
+                <email>Justin.waring@nottingham.ac.uk</email>
+             </au>
+             <au id="A12">
+                <snm>Whitham</snm>
+                <fnm>Diane</fnm>
+                <insr iid="I2"/>
+                <email>diane.whitham@nottingham.ac.uk</email>
+             </au>
+             <au id="A13">
+                <snm>Sahota</snm>
+                <fnm>Opinder</fnm>
+                <insr iid="I1"/>
+                <email>Opinder.sahota@nuh.nhs.uk</email>
+             </au>
+          </aug>
+          <insg>
+             <ins id="I1">
+                <p>Queens Medical Centre, Nottingham University Hospitals, Derby Road, Nottingham NG7 2UH, England</p>
+             </ins>
+             <ins id="I2">
+                <p>Nottingham Clinical Trials Unit|, University of Nottingham, Queens Medical Centre, Derby Road, Nottingham NG7 2UH, England</p>
+             </ins>
+             <ins id="I3">
+                <p>Health Sciences, University of Warwick, University Road, Coventry CV4 7AL, England</p>
+             </ins>
+             <ins id="I4">
+                <p>School of Medicine, Faculty of Medicine and Health Sciences, University of Nottingham, Queens Medical Centre, Derby Road, Nottingham NG7 2UH, England</p>
+             </ins>
+             <ins id="I5">
+                <p>Nottingham University Business School, Jubilee Campus, Nottingham NG8 1BB, England</p>
+             </ins>
+             <ins id="I6">
+                <p>School of Medicine, Health Policy and Practice, Norwich Medical School, University of East Anglia, Norwich Research Park, Norwich NR4 7TJ, England</p>
+             </ins>
+             <ins id="I7">
+                <p>Nottingham City Care Partnership, 1 Standard Court, Park Row, Nottingham NG1 6GN, England</p>
+             </ins>
+          </insg>
+          <source>Trials</source>
+          <issn>1745-6215</issn>
+          <pubdate>2015</pubdate>
+          <volume>16</volume>
+          <issue>1</issue>
+          <fpage>41</fpage>
+          <url>http://www.trialsjournal.com/content/16/1/41</url>
+          <xrefbib>
+             <pubidlist>
+                <pubid idtype="doi">10.1186/s13063-015-0551-2</pubid>
+             </pubidlist>
+          </xrefbib>
+       </bibl>
+       <history>
+          <rec>
+             <date>
+                <day>14</day>
+                <month>5</month>
+                <year>2014</year>
+             </date>
+          </rec>
+          <acc>
+             <date>
+                <day>6</day>
+                <month>1</month>
+                <year>2015</year>
+             </date>
+          </acc>
+          <pub>
+             <date>
+                <day>8</day>
+                <month>2</month>
+                <year>2015</year>
+             </date>
+          </pub>
+       </history>
+       <cpyrt>
+          <year>2015</year>
+          <collab>Watson et al.; licensee BioMed Central.</collab>
+          <note>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/4.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (<url>http://creativecommons.org/publicdomain/zero/1.0/</url>) applies to the data made available in this article, unless otherwise stated.</note>
+       </cpyrt>
+       <kwdg>
+          <kwd>Rehabilitation</kwd>
+          <kwd>In-reach</kwd>
+          <kwd>Community</kwd>
+          <kwd>In-patients</kwd>
+          <kwd>Older people</kwd>
+       </kwdg>
+       <abs>
+          <sec>
+             <st>
+                <p>Abstract</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Background</p>
+                </st>
+                <p>Older people represent a significant proportion of patients admitted to hospital. Their care compared to younger patients is more challenging, length of stay is longer, risk of hospital-acquired problems higher and the risk of being re-admitted within 28&#160;days greater. This study aims to compare a Community In-Reach and Care Transition (CIRACT) service with Traditional Hospital Based rehabilitation (THB-Rehab) provided to the older person. The CIRACT service differs from the THB-rehab service in that they are able to provide more intensive hospital rehabilitation, visiting patients daily, and are able to continue with the patient&#8217;s rehabilitation following discharge allowing a seamless, integrated discharge working alongside community providers. A pilot comparing the two services showed that the CIRACT service demonstrated reduced length of stay and reduced re-admission rates when analysed over a four-month period.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Methods/Design</p>
+                </st>
+                <p>This trial will evaluate the clinical and cost-effectiveness of the CIRACT service, conducted as a randomised controlled trial (RCT) with an integral qualitative mechanism and action study designed to provide the explanatory and theoretical components on how the CIRACT service compares to current practice. The RCT element consists of 240 patients over 70&#160;years of age, being randomised to either the THB therapy group or the CIRACT service following an unplanned hospital admission. The primary outcome will be hospital length of stay from admission to discharge from the general medical elderly care ward. Additional outcome measures including the Barthel Index, Charlson Co-morbidity Scale, EuroQoL-5D and the modified Client Service Receipt Inventory will be assessed at the time of recruitment and repeated at 91&#160;days post-discharge. The qualitative mechanism and action study will involve a systematic programme of organisational profiling, observations of work processes, interviews with key informants and care providers and tracking of participants. In addition, a within-trial economic evaluation will be undertaken comparing the CIRACT and THB-rehab services to determine cost-effectiveness.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Discussion</p>
+                </st>
+                <p>The outcome of the study will inform clinical decision-making, with respect to allocation of resources linked to hospital discharge planning and re-admissions, in a resource intensive and growing group of patients.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Trial registration</p>
+                </st>
+                <p>Registered with the ISRCTN registry (<url>ISCRCTN94393315</url>) on 25 April 2013 (version 3.1, 11 September 2014).</p>
+             </sec>
+          </sec>
+       </abs>
+    </fm>
+    <bdy>
+       <sec>
+          <st>
+             <p>Background</p>
+          </st>
+          <p>The number of people aged 70&#160;years and over in the United Kingdom is expected to double by 2025 <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>, with an associated increase in the proportion of unplanned medical admissions in this age group over the next 10&#160;years <abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp>. Many of these patients have multiple co-morbidities. These include poly-pharmacy, cognitive deficits and physical impairments which makes their care, management and timely discharge from hospital complex. This often prolongs length of stay and increases 28&#160;day re-admission rates in older patients when compared to their younger counterparts <abbrgrp>
+                <abbr bid="B3">3</abbr>
+             </abbrgrp>.</p>
+          <p>Nationally, over the last six years, length of stay has reduced but 28&#160;day re-admission rates have increased from 11 to 14% <abbrgrp>
+                <abbr bid="B4">4</abbr>
+             </abbrgrp>. In Nottingham, between 2010 and 2013 the mean length of stay across the medical elderly care wards (five wards, 6,924 patients) decreased from 14 to nine days, but 28&#160;day re-admission rates increased from 14 to 19% (Sahota and Fleming, 2013, unpublished data). The reasons for these readmissions are multi-factorial. Patients are often unprepared for their self-management role in the next care setting <abbrgrp>
+                <abbr bid="B5">5</abbr>
+             </abbrgrp> and are often unable to reach an appropriate healthcare practitioner who has access to their discharge summary when problems arise <abbrgrp>
+                <abbr bid="B6">6</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B8">8</abbr>
+             </abbrgrp>. There simply may not be appropriate resources in the community to respond to the needs of these patients in a responsive manner, placing them at risk of readmissions. Furthermore, patient safety is often compromised during this vulnerable period, with high rates of medication errors <abbrgrp>
+                <abbr bid="B9">9</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B12">12</abbr>
+             </abbrgrp>, incomplete or inaccurate information on transfer <abbrgrp>
+                <abbr bid="B13">13</abbr>
+             </abbrgrp> and lack of appropriate follow-up care <abbrgrp>
+                <abbr bid="B14">14</abbr>
+             </abbrgrp>, collectively leading to fragmented discharge planning and increased rates of recidivism to high intensity care settings when patients&#8217; care needs are not met <abbrgrp>
+                <abbr bid="B15">15</abbr>
+             </abbrgrp>. This increases health and social care costs, which will be further exacerbated by government plans to reduce funding if patients are re-admitted as an emergency within 28&#160;days of being discharged <abbrgrp>
+                <abbr bid="B16">16</abbr>
+             </abbrgrp>.</p>
+          <p>In England and Wales, to address the problem of rising re-admission rates, the Department of Health has allocated &#163;300 million in 2014, as part of the &#8216;funding for re-ablement linked to the hospital discharge&#8217; funding stream <abbrgrp>
+                <abbr bid="B17">17</abbr>
+             </abbrgrp>. This money is to be spent on developing local plans in conjunction with the Local Authority, Foundation Trusts and NHS Trusts and Community Health services, to facilitate seamless care for patients on discharge from hospital and prevent avoidable hospital readmissions. Some Clinical Commissioning Groups (CCGs) have invested in &#8216;early supported discharge at home&#8217; schemes, some into &#8216;community-based rehabilitation&#8217; schemes and some have invested very little at all. Reviews of the literature suggest that it is currently unclear which is the most effective and efficient structure and organisation of community and intermediate care services in relation to their purpose <abbrgrp>
+                <abbr bid="B18">18</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B19">19</abbr>
+             </abbrgrp>.</p>
+          <p>We undertook a structured literature review to identify systematic and Cochrane reviews of &#8216;early supported discharge&#8217;, &#8216;discharge planning from hospital to home&#8217; and &#8216;care transition&#8217; interventions <abbrgrp>
+                <abbr bid="B5">5</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B10">10</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B18">18</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B23">23</abbr>
+             </abbrgrp>. The key components in the successful RCTs of high methodological quality were then identified as more intensive rehabilitation, working closer with the patient and their relatives and facilitating &#8216;care transition&#8217; back into community, informing the frequency and duration of the service intervention.</p>
+          <p>This was followed by a series of multi-perspective focus group meetings with service users, experienced healthcare professionals and service managers. The key aims and objectives of these meetings were to identify the make-up of the team and the delivery of the intervention. Important areas identified the need for generic rehabilitation staff, a dedicated allied healthcare &#8216;transition coach&#8217; and senior leadership and governance within the team.</p>
+          <p>The &#8216;care transition model&#8217; has been proposed as a model to address potential threats to patient quality and safety during care transition <abbrgrp>
+                <abbr bid="B22">22</abbr>
+             </abbrgrp>, and has been shown to reduce early hospital re-admission rates <abbrgrp>
+                <abbr bid="B5">5</abbr>
+             </abbrgrp>. Care transition is defined as a set of actions ensuring the coordination and continuity of care as patients transfer between different locations. These include logistical arrangements, education of the patient and family and coordination among the health professionals involved in the transition essential for persons with complex care needs. Key to this model is a home visit, ideally within 48 to 72&#160;hours after hospital discharge. The aim of the visit is to ensure that the patient has received appropriate services and equipment, coordinate communication between primary and secondary care and review the patient&#8217;s goals established on discharge from hospital.</p>
+          <p>Provision for elderly medical inpatients in Nottingham takes two forms. One consists of the Traditional Hospital Based multidisciplinary rehabilitation (THB-rehab) service, referring the patient on to different community rehabilitation and social services on discharge. The other is a pilot Community In-Reach rehabilitation and Care Transition (CIRACT) service, consisting of a senior occupational therapist, senior physiotherapist, social services practitioner and an assistant practitioner, working more closely across multiple boundaries with patients and their carers. The CIRACT intervention is set apart from other models of care as although the team is based on the hospital ward, they are employed by a community NHS provider (NHS Nottingham City Care Partnership), and therefore are able to bring their community expertise into the hospital care setting, bridging the gap between the community and hospital settings. In addition, the CIRACT service aims to i) provide intensive rehabilitation; ii) work closely with the patient, relatives and community-based health and social care professionals to facilitate and access a wider range of care and services in the community and iii) provide a community follow-up service.</p>
+          <p>Pilot data suggest that compared to the THB-rehab service, the CIRACT service can reduce median length of stay and 28&#160;day re-admission rates, over a four-month period. However the clinical and cost-effectiveness of the service needs to be evaluated in a randomised trial.</p>
+          <sec>
+             <st>
+                <p>Objectives</p>
+             </st>
+             <p>The primary objective of the CIRACT trial is to assess whether length of hospital stay for unplanned hospital admission among people aged 70&#160;years or older allocated to receive the CIRACT service is different compared with the THB-rehab. The secondary objectives include assessing the effects of the CIRACT service on re-admission rates within 28&#160;days post-discharge; super spell bed days (total time in NHS care); patient function and patient health-related quality of life. Alongside this, the qualitative part of the trial aims to investigate the design and delivery of the CIRACT service and assess service user experiences of the two forms of rehabilitation delivery. The health economics part of the study aims to evaluate the cost-effectiveness of the CIRACT service compared to the THB-rehab service.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Trial design</p>
+             </st>
+             <p>The study is a single-centre pragmatic parallel randomised controlled trial with an integral qualitative mechanism and action study and health economic study. Participants will be followed-up to 91&#160;days post-discharge.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Methods/Design</p>
+          </st>
+          <p>The initial part of the study including recruitment, treatment allocation and in-patient rehabilitation will take place on the acute hospital ward. Follow-up data will be collected via a telephone interview with the participant or personal consultee in their own home.</p>
+          <sec>
+             <st>
+                <p>Study setting</p>
+             </st>
+             <p>Any patient admitted to the hospital from the medical admissions unit to one of the three acute, general medical elderly care wards at the Queen&#8217;s Medical Centre (1,800 beds serving a population of 680,000), Nottingham, United Kingdom will be screened for inclusion into the trial.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Eligibility criteria</p>
+             </st>
+             <p>Participants will be eligible for the study if all of the inclusion and none of the exclusion criteria are met.</p>
+             <sec>
+                <st>
+                   <p>Inclusion criteria</p>
+                </st>
+                <p>The inclusion criteria are as follows:</p><p>1. aged 70&#160;years and over,</p>
+                   <p>2. have been admitted to hospital on the general medical elderly care ward as an unplanned admission,</p>
+                   <p>3. have been admitted to hospital from their own home or residential care home and</p>
+                   <p>4. have their registered GP within the Nottingham City CCG catchment area.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Exclusion criteria</p>
+                </st>
+                <p>The exclusion criteria are as follows:</p><p>1. were bed bound prior to admission or moribund on admission,</p>
+                   <p>2. are receiving palliative care,</p>
+                   <p>3. were previously included in the trial on an earlier admission or</p>
+                   <p>4. are not able to be screened and recruited by the Research Assistant (RA) within 36&#160;hours of admission to the study ward. A 36-hour deadline ensures there is not a delay to the participant receiving therapy, and will enable the recruitment of a large proportion of patients admitted over a weekend, when no RA will be available recruit.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Study intervention</p>
+             </st>
+             <p>Each participant will be randomly allocated to the CIRACT service (intervention arm) or THB-rehab (control arm). The CIRACT team will conduct an assessment of the participant&#8217;s ability to perform certain tasks within 24&#160;hours of randomization, enabling the formulation of a comprehensive rehabilitation plan. The CIRACT team will consist of a physiotherapist, an occupational therapist and a community care officer who will be employed by Nottingham CityCare, but will be based on one of the study wards. While in hospital the participants will be treated daily (seven days a week, if appropriate) by the CIRACT team and the time of rehabilitation they receive will be dependent on their needs. During the participant&#8217;s hospital stay the CIRACT team will liaise with the participant and their carer(s) to visit the participant&#8217;s home to assess and provide recommendations for equipment and make adaptations and/or modifications if required. The CIRACT service will utilise the teams&#8217; expertise in community working to form links with the appropriate services to ensure a smooth and effective discharge. In more complex cases the CIRACT team will take the participant out of the hospital for a home visit prior to discharge. Following discharge, the CIRACT team will visit the participant at home within 48&#160;hours of discharge to assess the level of rehabilitation required at home, and the CIRACT team will undertake further follow-up visits as deemed necessary.</p>
+             <p>The THB-rehab service will be provided by the hospital-based therapy teams on weekdays only as a control group receiving &#8216;usual care&#8217;. Members of these teams will jointly conduct an assessment of the participant&#8217;s ability to perform certain tasks and provide recommendation for rehabilitation. The ward team will refer the participant to the appropriate community-based services for the provision of equipment at home, personal care and ongoing rehabilitation where appropriate at discharge. Once discharged from hospital, the patient will have no contact with the ward rehabilitation staff.</p>
+             <p>In either group, if a participant becomes medically unwell at any point to the extent they are no longer able to undertake therapy (as directed by the ward doctor), the treating team will withhold further therapy until being instructed by the ward doctor it is safe to recommence therapy. The nursing and medical care provided by the ward staff will not differ between the two groups.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Primary outcome measures</p>
+             </st>
+             <p>The primary outcome is hospital length of stay from randomisation to discharge from a general medical elderly care ward. The date of randomisation will be used instead of date of admission to the ward to negate for the impact of a delay in randomisation and reduce the risk of cross contamination.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Secondary outcome measures</p>
+             </st>
+             <p>The secondary outcome measures are:</p><p>1. Super spell bed days (total time in NHS care including hospital care and intermediate care) from admission to 91-day follow-up.</p>
+                <p>2. Unplanned re-admission rates at day 28 and day 91. Days 28 and 91 were selected as they are the commissioners&#8217; targets for re-admission.</p>
+                <p>3. The Barthel ADL index <abbrgrp>
+                      <abbr bid="B24">24</abbr>
+                   </abbrgrp> at baseline and at 91&#160;days post-discharge to assess activities of daily living (ADL) and mobility.</p>
+                <p>4. EQ-5D-3&#160;L health-related quality of life measure <abbrgrp>
+                      <abbr bid="B25">25</abbr>
+                   </abbrgrp> at baseline and at 91&#160;days post-discharge. The EQ-5D-3&#160;L is a standardized measure of quality of life looking at mobility, self-care, usual activities, pain and/or discomfort and anxiety and/or depression.</p>
+                <p>5. The Charlson comorbidity index <abbrgrp>
+                      <abbr bid="B26">26</abbr>
+                   </abbrgrp> at baseline and at 91&#160;days post-discharge to assess comorbidity. The Charlson codes a total of 22 comorbid conditions into a single score.</p>
+                <p>6. The mean cost per patient of CIRACT and THB-rehab will be estimated using micro-costing methods.</p>
+                <p>7. The modified Client Service Receipt Inventory (CSRI) questionnaire <abbrgrp>
+                      <abbr bid="B27">27</abbr>
+                   </abbrgrp> at baseline and at 91&#160;days post-discharge. The CSRI is a cost questionnaire designed to measure and compare the service cost of both rehabilitation services.</p>
+             <p>The RA will collect demographic data (including age, sex, reason for admission and living circumstances) and outcome measures via face-to-face interviews on trial entry, and via a telephone interview at the three-month follow-up assessment. The RA will be blinded to treatment allocation. The time schedule of enrolment, interventions, assessments and visits for participants is shown in Additional file <supplr sid="S1">1</supplr> and the trial flow diagram is presented in Figure&#160;<figr fid="F1">1</figr>.
+                  </p>
+                <fig id="F1">
+                   <title>
+                      <p>Figure 1</p>
+                   </title>
+                   <caption>
+                      <p>Trial flow diagram. </p>
+                   </caption>
+                   <text>
+                      <p>
+                            <b>Trial flow diagram.</b> Shaded areas represent parts of the study which do not have participant involvement. CCI&#8201;=&#8201;Charlson Comorbidity Index, CIRACT&#8201;=&#8201;Community In-Reach and Care Transition, CSRI&#8201;=&#8201;Client Services Record Inventory, EQ-5D-3&#160;L&#8201;=&#8201;EuroQol-5 dimension-3 Level quality of life scale, MMSE&#8201;=&#8201;Mini Mental State Examination, THB-Rehab&#8201;=&#8201;Traditional Hospital Based Rehabilitation.</p>
+                   </text>
+                   <graphic file="s13063-015-0551-2-1"/>
+                </fig>
+             
+          </sec>
+          <sec>
+             <st>
+                <p>Sample size calculation</p>
+             </st>
+             <p>The primary statistical analysis will compare length of hospital stay for those allocated to receive the CIRACT service versus the THB-rehab service. Pilot data showed the log transformed length of stay to be normally distributed, with a standard deviation of 0.9. Therefore, 111 patients per arm will be required for analysis in order to detect a clinically important effect size of three days (equivalent to a ratio of geometric means of 0.7) with two-sided alpha of 5% and 80% power. Allowing for 5% non-collection of primary outcome data, 240 patients in total will be randomised following an acute unplanned admission to hospital over a 13-month recruitment period.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Recruitment and consent</p>
+             </st>
+             <p>All eligible participants will be made aware of the trial at the time of admission and invited to participate in the trial. Written informed consent will be obtained by the RA in accordance with the International Conference on Harmonisation Guidelines for Good Clinical Practice (ICH GCP) <abbrgrp>
+                   <abbr bid="B28">28</abbr>
+                </abbrgrp>. In patients who are confused (dementia or delirium such that the subject cannot understand the nature of consenting to a research study and the study process), consent will be obtained by carers or other proxies including staff, following the established framework of Berghmans and Ter Meulen <abbrgrp>
+                   <abbr bid="B29">29</abbr>
+                </abbrgrp>, used in previous ethically approved studies in older persons with dementia.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Randomisation procedure</p>
+             </st>
+             <p>Once the RA has gained consent from the participant, subjects will be allocated to the CIRACT service or the traditional hospital rehabilitation service (control) arm using the web-based randomisation service provided by the Clinical Trials Support Unit, University of Nottingham.</p>
+             <p>Randomisation will be determined by a computer-generated pseudo-random code using random permuted blocks of randomly varying size, created by the Nottingham Clinical Trials Unit (CTU), in accordance with their standard operating procedure (SOP) and held on a secure server. Participants will be allocated with equal probability to either arm of the study. The randomisations will be requested through a PC with internet explorer and internet access. The system is located on a dedicated secure server within the University of Nottingham. All communications between the user's PC and the server will be fully encrypted (secured SSL 128-bit encrypted) and via a unique username and password.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Blinding</p>
+             </st>
+             <p>The RA collecting data and the research team analysing the data will be blinded to treatment allocation. The participant and ward staff will not be blinded to treatment allocation as the treating therapists will be liaising closely with ward staff to ensure optimal patient care. The three-month follow-up data will be collected by an RA blinded to treatment allocation.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Qualitative, implementation and action study</p>
+             </st>
+             <p>The qualitative, implementation and action study aims to understand the situated activities and interactions that constitute the CIRACT service in comparison to THB-rehab service, and to understand how these mechanics of care interact with other factors located in the wider care system. This will investigate how the service is perceived by all participants in terms of transitional planning, effective therapy delivery and the general organisational aspects in relation to the concurrent services provided within the research wards.</p>
+             <p>The qualitative appraisal also draws upon recent developments in the field of implementation science. It is widely recognised that new interventions or ways of working do not easily move from policy into practice, but are transformed and even inhibited by the contexts into which change is desired, especially professional boundaries <abbrgrp>
+                   <abbr bid="B30">30</abbr>
+                </abbrgrp>. Recent developments in implementation science have led to new approaches for understanding this process, such as the Promoting Action on Research Implementation in Health Services (PARIHS) framework and Normalisation Process Theory. This appraisal of CIRACT was informed by Damschroder <it>et al</it>.&#8217;s <abbrgrp>
+                   <abbr bid="B31">31</abbr>
+                </abbrgrp> consolidated framework. This draws attention to a range of key factors that frame and are involved in the implementation of new practices including:</p><p>1. Characteristics of the intervention itself.</p>
+                <p>2. The outer and inner context (outer context referring to the wider institutional, political and social environment, with the inner context referring to the internal organisational environment where change is to be made).</p>
+                <p>3. The role of individuals and groups within the given context including their sense-making, mind-sets, cultures and networks.</p>
+             <p>A range of behavioural theories inform analysis of individual behaviours, but this study adopts a socio-cultural practice perspective that considers how social practices are embedded within wider social and cultural fields of influence, whilst allowing for individual agency. This is especially relevant in healthcare settings given the influence of professional cultures and boundaries on practices. The final aspect is the implementation processes itself which cuts through involves the above factors. The model also suggests that implementation is non-linear and can cut across organisational and practice levels.</p>
+             <sec>
+                <st>
+                   <p>Nested qualitative appraisal</p>
+                </st>
+                <p>The aim of the qualitative, implementation and action study is to understand how the two forms of rehabilitation service (CIRACT service and THB-rehab service) are delivered as a complex intervention in older patients.</p>
+                <p>In considering the implementation, organisation and delivery of CIRACT, this model draws analytical attention to: i) the nature of CIRACT including how it is configured, disseminated and translated into practice settings; ii) the role of wider changes within the organisation and delivery acute and community care, including wider political issues, financial and regulatory issues; iii) the influence of local organising factors such as resources and staffing, modes of working and professional boundaries and iv) the role of local actors, especially CIRACT and ward staff, but also patients and carers.</p>
+                <p>This will involve three linked activities (A to C), linked to three research techniques (D to F).</p><p>A. Each rehabilitation service will be described and analysed to understand the local context factors that might shape service delivery, including staffing and resource levels, participant group type and variability, provision of support services, service culture, receptivity to change and team/and professional work dynamics.</p>
+                   <p>B. In a purposive selection of participants, the organisation and delivery of the intervention will be described and analysed in-depth to understand how the service is configured and how therapy is planned and delivered.</p>
+                   <p>C. The views and experiences of professionals and participants at each participating site will be described and analysed to understand their involvement in, reactions to and continued use of both forms of rehabilitation.</p>
+                   <p>D. Organisational profiling: involving a relatively standardised checklist pro forum of known contextual and organisational variables known to influence implementation of change and the delivery of complex intervention. This will be completed through focussed visits, guided tours and key stakeholder interviews. These will be undertaken over a two to three day period and recorded using a standard form to facilitate rapid data analysis and comparison.</p>
+                   <p>E. More detailed observations of service organisation and delivery over a period of three to four weeks within a purposive selection of participants. This will be informed by the principles of ethnographic observation, with the research undertaking prolonged periods of direct observation of how the service is organised and delivered.</p>
+                   <p>F. Qualitative interviews and focus groups with representative groups of professionals and participants to understand their shared and distinct experiences of service delivery of each form of rehabilitation.</p>
+                <p>All interview and focus group data will be analysed following the conventions of framework analysis <abbrgrp>
+                      <abbr bid="B32">32</abbr>
+                   </abbrgrp>-<abbrgrp>
+                      <abbr bid="B34">34</abbr>
+                   </abbrgrp>. This is a hierarchical, matrix-based method developed for applied or policy relevant qualitative research. It is a highly structured, transparent and rigorous approach to qualitative data which is well suited to research where timescales are limited, and the goals of research are clearly defined at the outset.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Health economic study</p>
+             </st>
+             <p>The health economic study will undertake a within-trial cost-effectiveness and cost utility analysis using established methods <abbrgrp>
+                   <abbr bid="B35">35</abbr>
+                </abbrgrp>. The CIRACT service will be compared to the THB-rehab service from a NHS and Personal and Social Services (PSS) perspective in order to help inform commissioning decisions.</p>
+             <p>In addition to measuring the cost of the intervention, the resources consumed in the two arms of the study are likely to differ, as there is the potential for differential equipment requests and differential lengths of stay in hospital. Resources will be valued using published unit cost data or where needed using locally derived unit costs.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Cost analysis</p>
+             </st>
+             <p>A detailed cost analysis of the two services to the NHS will be considered from a time and motion study, and compared against cost estimates based on standard methods of collecting resource use information (here via a modified Client Service Receipt Inventory (CSRI) questionnaire <abbrgrp>
+                   <abbr bid="B27">27</abbr>
+                </abbrgrp> at baseline and at 91&#160;days post-discharge). The detailed micro-costing study will be conducted in three phases:</p><p>1. A structured literature review (phase one): The review will provide information on how to conduct the time and motion study (phase three).</p>
+                <p>2. Observation and semi-structured interviews (phase two): Observations and interviews will provide information on how to conduct the time and motion study (phase three) and define what activities are undertaken by each service. The observations of the therapists will enable a greater understanding of what each team offers and how they differ in their service provision. This will allow comparisons to be drawn between the two groups.</p>
+                <p>3. Micro-costing study (phase 3): using the information from phase one and two a time and motion study will be conducted with 10 patients in each arm, recruited through purposive sampling, over a six-month period. Within each treatment arm, we will aim to include half of the participants with baseline admission Barthel ADL of less than 14, and the other half with a Barthel ADL of greater than 14, in order to ensure a wide range of abilities are observed. The time and motion study will record therapy interactions with the patient (face-to-face and indirect) to enable costing of each service provision. To get this data an RA will contact the ward therapists or the CIRACT team (depending on allocation) on a twice daily basis and ask how much time they have spent in direct face-to-face contact with the patient and indirectly, through non-face-to-face contact (ward rounds, telephone calls, referrals, and so forth).</p>
+             <p>To capture the contacts with therapists post-discharge, the RA will establish from the therapists if they have been referred on for further therapy and, if so, the contact details of the community-based team. The RA will then contact the treating therapist in the community to gather contact time (non-face-to-face may then include travel time) for two weeks following discharge. This will provide us with the data required to cost the contact time for each patient and enable comparisons between groups. The specific activities undertaken by the therapists with the patient will be explored through phase two.</p>
+             <sec>
+                <st>
+                   <p>Outcome measurement</p>
+                </st>
+                <p>We will use the EQ-5D-3&#160;L and convert scores into quality-adjusted life years (QALYs) using linear interpolation and area under the curve methods for the trial period <abbrgrp>
+                      <abbr bid="B36">36</abbr>
+                   </abbrgrp>. We will adjust for any baseline differences between treatment groups <abbrgrp>
+                      <abbr bid="B37">37</abbr>
+                   </abbrgrp>. The main outcome for the cost utility analysis will therefore be incremental cost per QALYs estimated from the change in EQ-5D-3&#160;L score at baseline and at 91&#160;days follow-up, post-discharge.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Economic analysis</p>
+                </st>
+                <p>The results of the analysis will be presented using the incremental cost effectiveness ratio (ICER), if appropriate, with decision uncertainty represented via cost effectiveness acceptability curves (CEACs) based on nonparametric bootstrapping of cost and effect pairs <abbrgrp>
+                      <abbr bid="B38">38</abbr>
+                   </abbrgrp>. This will provide robust results to inform decision-makers about whether the NHS should provide the CIRACT service or not compared to traditional care.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Data collection</p>
+             </st>
+             <p>Data will be collected using CIRACT trial data collection forms which will be monitored by the Nottingham Clinical Trials Unit (NCTU) for consistency, validity and quality. Missing data and data queries will be referred promptly back to the recruiting site for clarification. If a participant withdraws from the study, the data collected up to that point will be used (as specified in the consent form) but no further data will be collected about that participant. Participants will not be replaced if they withdraw from the study. All reasonable attempts will be made to contact any participant lost to follow-up during the course of the trial in order to complete assessments.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Data management</p>
+             </st>
+             <p>All trial data will be entered on a trial-specific database with participants identified only by the unique trial number, date of birth and initials. The database will be developed and maintained by the trial coordinating centre at the NCTU. Access to the database will be restricted and secure. Data quality and compliance with the protocol will be assessed throughout the trial by verification of trial data against clinical records, and by data checking for accuracy and internal consistency. For the follow-up phase, identifiable information about participants will be held in a separate database to the trial anonymised data. Access to this information will be restricted to those involved in the follow-up phase, as authorised by the Chief Investigator.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Statistical analyses</p>
+             </st>
+             <p>The analysis and reporting of the trial will be in accordance with the Consolidated Standards of Reporting (CONSORT) guidelines. A full statistical analysis plan will developed before any data are analysed. Appropriate descriptive statistics will be used to compare the characteristics of the randomised participants across the trial groups. The primary approach to all comparative analyses will be based on treatment allocated without imputation of missing data. Between-group differences will be estimated using regression models appropriate for outcome type, adjusting for baseline value of the outcome if collected, and paying attention to 95% confidence intervals as well as <it>P</it> values. Analysis of subgroups will be agreed with the Trial Steering Committee and all those undertaken will be reported.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Data monitoring</p>
+             </st>
+             <p>The day-to-day management of the trial is the responsibility of the Trial Manager, including research staff training and management. Regular monitoring will be performed by the trial Manager according to the Medical Research Council (MRC) Guidelines for Good Clinical Practice (GCP) in Clinical Trials (22). Following written standard operating procedures, the Trial Manager or where required, a nominated designee of the Sponsor, will verify that the clinical study is conducted and data are generated, documented and reported in compliance with the protocol GCP guidelines and the applicable regulatory requirements.</p>
+             <p>The study finance, documentation (such as assessment forms and operating procedures), data recording and storage is managed by the Trial Manager, who also monitors progress and provides appropriate reports to the Trial Steering Committee. The Principal Investigator will instigate audits of procedures as required and takes overall responsibility for any protocol changes throughout the study.</p>
+             <p>As the trial is regarded as low risk, the Trial Steering Committee will also act as the trial management group, and the data monitoring committee. The group will be chaired by the Principal Investigator, and will be comprised of investigators, research staff and patient representatives and will monitors all aspects of the conduct and progress of the trial, ensures that the protocol is adhered to, and will take appropriate action to safeguard participants and the quality of the trial.</p>
+             <p>In the case of an adverse event, the Trial Manager will receive adverse event forms electronically and the group will meet as required in the event of an excessive serious adverse event rate, or if other information is reported to it which raises concern over the safe conduct of the trial. There is no plan for any interim analyses.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Harms</p>
+             </st>
+             <p>Data shall be collected for each individual participant with regards to any fall that occurs whilst an inpatient on the ward until time of discharge, and will be classed as an &#8216;adverse event&#8217;. If the fall results in a fracture, confirmed by radiological findings, it will be classed as a &#8216;serious adverse event&#8217;. This was agreed by the Trial Steering Committee. All serious adverse events will be reported to the sponsor within 24&#160;hours of knowledge of the event using the adapted Nottingham University Hospitals NHS Trust reporting forms made specific to this study. The adverse event risks of taking part in the trial is minimal, as the CIRACT service is not a different type of rehabilitation, but a change in delivery of the THB-rehab service the patients would receive as part of their usual care. The CIRACT service has been assessed in a pilot study and no adverse events occurred.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Ethics</p>
+             </st>
+             <p>This study has been given favourable opinion by NRES Committee West Midlands- Staffordshire Research Ethics Committee (REC Reference Number: 13/WM/0050) on 27 February 2013. The trial will be conducted in accordance with ethical principles that have their origin in the Declaration of Helsinki 1996, principles of good clinical practice and the Department of Health Research Governance Framework for Health and Social Care. Any protocol amendments will be submitted to the trial sponsor and ethics committee. A register of protocol amendments will be made available in the study protocol.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Confidentiality</p>
+             </st>
+             <p>Confidentiality of all participant information will be maintained throughout the trial. Each participant will be assigned a unique trial identification number (based on their initials and recruitment number), allocated at randomisation to be used for data collection forms, trial documents and the trial database. Data collection forms will be treated as confidential documents, and held securely. The Chief Investigator is the custodian of the data. Participants will not be identified in any future publication.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Discussion</p>
+          </st>
+          <p>This article describes the protocol of a randomised trial comparing the clinical and cost-effectiveness of the THB-rehab service, with that of the CIRACT service. The outcome of the study will influence clinical decision-making, with respect to allocation of resources linked to hospital discharge planning and re-admissions, in a very resource intensive and growing group of patients.</p>
+          <p>The theoretical model underpinning the CIRACT service has been based on the Medical Research Council framework, funded by a Research and Development Pump Priming Research award (Nottingham University Hospitals Charitable funds) and re-ablement funding stream (Nottingham City CCG).</p>
+          <p>Most early and/or supported discharge models in care of the older person involve receiving patients back into the community from hospital, with little or no direct involvement in hospital-based rehabilitation. The novel aspect of the CIRACT intervention compared to other models of care is that although the team will be based on the hospital ward, they will be employed by a community NHS provider enabling the team to bring their community knowledge into the hospital care setting, in addition to providing more intensive rehabilitation, working closer with the patient and their relatives and being able to facilitate and access a wider range of care and services in the community. This is in contrast to the hospital ward-based therapists, employed by the hospital, who may not have the knowledge and direct and/or rapid accessibility of care and services in the community.</p>
+          <p>From a financial and cost point of view, we know that the NHS is facing unprecedented financial challenges over the next few years. Therefore any new service requires both clinical and cost-effectiveness evidence to support decision-making. However, many research studies lack good quality costing or cost-effectiveness data, and where studies have been published, average cost of events are often assigned using national and centre-specific price weights, which may not reflect true costs. Micro-costing studies involve direct enumeration and detailed costing of each input consumed <abbrgrp>
+                <abbr bid="B39">39</abbr>
+             </abbrgrp> although are infrequently undertaken in complex interventional studies. Therefore, in addition to the clinical evaluation of the CIRACT service, we propose to undertake a cost and cost-effectiveness evaluation of this service delivery.</p>
+          <p>One of the main limitations of this study is that the ward staff and participants cannot be blinded to the rehabilitation group allocation as both services are provided within each ward. However, early pilot work <abbrgrp>
+                <abbr bid="B40">40</abbr>
+             </abbrgrp> demonstrated that participants and staff very quickly become unaware of group allocation, presumably related to the fluid nature of the ward environment and that much of the rehabilitation is undertaken away from the bedside. Baseline data will be collected prior to randomisation and outcome measures collected by a blinded RA to minimize the risk of detection bias. A statistician blind to group assignment will perform the data analysis.</p>
+          <sec>
+             <st>
+                <p>Patient and public involvement (PPI)</p>
+             </st>
+             <p>Members of the PPI advisory group will be present at Trial Management Group (TMG) meetings and a service user representative will be part of the Trial Steering Committee. This patient and public involvement will aim to provide guidance and advice from the patient perspective.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Dissemination policy</p>
+             </st>
+             <p>The trial will be reported according to the CONSORT guidelines and will contribute to knowledge on the delivery of change across organisational systems, linkages between different care agencies and sectors and detailed resource use and costing associated with complex interventions. Findings will be published in relevant periodicals and updates sent to relevant websites such as the Health Service Journal and the NHS Primary Care Commissioning website. We will also undertake high-impact conference presentations. Participants who requested a copy of the report will be sent a lay summary of the study. A publication policy will be agreed with co-applicants and a systematic plan, including authorship, for the peer-reviewed publications.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Trial status</p>
+             </st>
+             <p>Recruitment to CIRACT commenced in June 2013 and is ongoing at the time of manuscript submission. The expected time of recruitment completion is August 2014.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Major protocol amendments</p>
+             </st>
+             <p>Over the course of the trial a number of protocol amendments were made as summarised in Table&#160;<tblr tid="T1">1</tblr>.
+                  </p>
+             
+                <table id="T1">
+                   <title>
+                      <p>Table 1</p>
+                   </title>
+                   <caption>
+                      <p>
+                            <b>Summary of major protocol amendments</b>                          
+                      </p>
+                   </caption>
+                   <tgroup align="left" cols="3">
+                      <colspec align="left" colname="c1" colnum="1" colwidth="*"/>
+                      <colspec align="left" colname="c2" colnum="2" colwidth="*"/>
+                      <colspec align="left" colname="c3" colnum="3" colwidth="*"/>
+                      <thead>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>
+                                  <b>Date of amendment</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>
+                                  <b>Wording pre-amendment</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>
+                                  <b>Wording post-amendment</b>                              
+                               </p>
+                            </entry>
+                         </row>
+                      </thead>
+                      <tbody>
+                         <row valign="top">
+                            <entry colname="c1" morerows="1">
+                               <p>14 October, 2013</p>
+                            </entry>
+                            <entry colname="c2" morerows="1">
+                               <p>Follow-up at day 91 post-discharge face-to-face interviews by RA at participant&#8217;s home.</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>Follow-up at day 91 post-discharge.</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c3">
+                               <p>Telephone or face-to-face interviews by RA at participant&#8217;s home.</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>14 October, 2013</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Follow-up to be completed at day 91 (+/&#8722; 3&#160;days) post-discharge.</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>Follow-up to be completed at day 91 (&#8722;7/+28&#160;days) post- discharge.</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>14 October, 2013</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Patients excluded at discharge will be excluded from the length of stay (LOS) analysis, but a sensitivity analysis using proxy LOS models will be used to check the robustness of the exclusion.</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>The final intention-to-treat analysis will include all randomised participants for whom the follow-up assessment of the primary outcome measure is available. Per protocol analysis will include all randomised participants who are deemed to have no protocol violations.</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>14 October, 2013</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Additional paragraph.</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>Modified client services receipt inventory: GP practices may be contacted by the research team to confirm visit data supplied by the participant.</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>10 March, 2014.</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>We propose to conduct the trial on two wards which will give the required numbers within our proposed timetable for the study.</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>We propose to conduct the trial on two to three wards which will give the required numbers within our proposed timetable for the study.</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>10 March, 2014.</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Additional paragraph.</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>The RA will contact the therapist involved with looking after the patient at two time points during the day, from admission onto the ward until the patient is discharged from the ward, and continuing if applicable into the participant&#8217;s place of residence for a period of two weeks Data collected will be coded and entered into the database recording total time spent with the patient (face-to-face and non-contact). A summary of location codes will be extrapolated from phase two.</p>
+                            </entry>
+                         </row>
+                      </tbody>
+                   </tgroup>
+                </table>
+             
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Abbreviations</p>
+          </st>
+          <p>ADL: Activities of daily living</p>
+          <p>CCG: Clinical Commissioning Group</p>
+          <p>CIRACT: Community In-Reach and Care Transition</p>
+          <p>CSRI: Client Service Receipt Inventory</p>
+          <p>EQ-5D: EuroQol group&#8217;s five dimensions of quality of life measure</p>
+          <p>NCTU: Nottingham Clinical Trials Unit</p>
+          <p>NHS: National Health Service</p>
+          <p>NIHR: National Institute of Health Research</p>
+          <p>NRES: National Research Ethics Service</p>
+          <p>PPI: Patient and Public Involvement</p>
+          <p>PPS: Prospective payment system</p>
+          <p>PSS: Patient and social services</p>
+          <p>RA: Research Assistant</p>
+          <p>RCT: Randomised controlled trial</p>
+          <p>REC: Research Ethics Committee</p>
+          <p>THB-rehab: Traditional hospital-based rehabilitation</p>
+          <p>TMG: Trial Management Group</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Competing interests</p>
+          </st>
+          <p>The authors declare that they have no competing interests.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Authors&#8217; contributions</p>
+          </st>
+          <p>OS is the Chief Investigator, AM, PL, JW, DW, LC, WT, DK, and MW are co-investigators RJ and TS are the trial health economists. All authors were involved in the study design and implementation. FM undertook the qualitative research and supported the design of the micro-costing elements. OS and AB were responsible for writing this manuscript; all authors reviewed and approved the final manuscript.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Additional file</p>
+          </st>
+          <suppl id="S1">
+             <title>
+                <p>Additional file 1:</p>
+             </title>
+             <text>
+                <p>
+                              <b>Schedule of enrolment, interventions and assessments in the CIRACT trial.</b>                            
+                </p>
+             </text>
+             <file name="s13063-015-0551-2-S1.doc">
+                <p>Click here for file</p>
+             </file>
+          </suppl>
+          
+       </sec>
+    </bdy>
+    <bm>
+       <ack>
+          <sec>
+             <st>
+                <p>Acknowledgements</p>
+             </st>
+             <p>Patient and public involvement (PPI): Rosemary Clacy and Peter Cass. Trial Steering Committee (TSC): Dr Anne-Louise Schokker (chair), Mr Edwin Sum, Ms Kate Robertson and Professor Lee Shepstone. The research is being funded by the National Institute of Health Research (NIHR) Health Services and Delivery Research (HS&amp;DR) programme (grant code: 11/1023/10). The trial is sponsored by Nottingham University Hospitals NHS Trust, who assisted with the ethics application and ongoing monitoring of the trial.</p>
+          </sec>
+       </ack>
+       <refgrp>
+          
+          <bibl id="B1">
+             <note>Office for National Statistics. Population estimates for UK, England and Wales, Scotland and Northern Ireland, Mid-2010 - (superseded). 2010. <url>http://www.ons.gov.uk/ons/rel/pop-estimate/population-estimates-for-uk--englandand-wales--scotland-and-northern-ireland/mid-2001-to-mid-2010-revised/index.html</url>. Accessed 16 Jan 2015</note>
+          </bibl>
+          <bibl id="B2">
+             <note>Blunt IM, Bardsley M, Dixon J. Trends in emergency admissions in England 2004&#8211;2009: is greater efficiency breeding inefficiency? The Nuffield Trust: for Research and Policy Studies in Health Service. 2010. <url>http://www.nuffieldtrust.org.uk/sites/files/nuffield/publication/Trends_in_emergency_admissions_BRIEFING.pdf</url>. Accessed 16 Jan 2015</note>
+          </bibl>
+          <bibl id="B3">
+             <title>
+                <p>Functional outcomes of acute medical illness and hospitalization in older persons</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Sager</snm>
+                   <fnm>MA</fnm>
+                </au>
+                <au>
+                   <snm>Franke</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Inouye</snm>
+                   <fnm>SK</fnm>
+                </au>
+                <au>
+                   <snm>Landefeld</snm>
+                   <fnm>CS</fnm>
+                </au>
+                <au>
+                   <snm>Morgan</snm>
+                   <fnm>TM</fnm>
+                </au>
+                <au>
+                   <snm>Rudberg</snm>
+                   <fnm>MA</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Arch Int Med</source>
+             <pubdate>1996</pubdate>
+             <volume>156</volume>
+             <issue>6</issue>
+             <fpage>645</fpage>
+             <lpage>52</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1001/archinte.1996.00440060067008</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B4">
+             <note>Department of Health. Emergency readmission rates: further analysis. 2008. <url>http://www.healthcaretoday.co.uk/doclibrary/documents/pdf/130_Emergency_readmission_rates_further_analysis.pdf</url>. Accessed 16 Jan 2015</note>
+          </bibl>
+          <bibl id="B5">
+             <title>
+                <p>The care transitions intervention: results of a randomized Controlled Trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Coleman</snm>
+                   <fnm>EA</fnm>
+                </au>
+                <au>
+                   <snm>Parry</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Chalmers</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Min</snm>
+                   <fnm>SJ</fnm>
+                </au>
+             </aug>
+             <source>Arch Int Med</source>
+             <pubdate>2006</pubdate>
+             <volume>166</volume>
+             <issue>17</issue>
+             <fpage>1822</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1001/archinte.166.17.1822</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B6">
+             <aug>
+                <au>
+                   <snm>Levine</snm>
+                   <fnm>C</fnm>
+                </au>
+             </aug>
+             <source>Rough crossings: family caregivers' odysseys through the health care system</source>
+             <publisher>United Hospital Fund of New York, New York</publisher>
+             <pubdate>1998</pubdate>
+          </bibl>
+          <bibl id="B7">
+             <title>
+                <p>Carepartner experiences with hospital care</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Vom Eigen</snm>
+                   <fnm>KA</fnm>
+                </au>
+                <au>
+                   <snm>Walker</snm>
+                   <fnm>JD</fnm>
+                </au>
+                <au>
+                   <snm>Edgman-Levitan</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Cleary</snm>
+                   <fnm>PD</fnm>
+                </au>
+                <au>
+                   <snm>Delbanco</snm>
+                   <fnm>TL</fnm>
+                </au>
+             </aug>
+             <source>Med Care</source>
+             <pubdate>1999</pubdate>
+             <volume>37</volume>
+             <issue>1</issue>
+             <fpage>33</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/00005650-199901000-00006</pubid>
+                   <pubid idtype="pmpid" link="fulltext">10413390</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B8">
+             <title>
+                <p>Patients' and caregivers' transition from hospital to home: needs and recommendations</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Weaver</snm>
+                   <fnm>FM</fnm>
+                </au>
+                <au>
+                   <snm>Perloff</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Waters</snm>
+                   <fnm>T</fnm>
+                </au>
+             </aug>
+             <source>Home Health Care Serv</source>
+             <pubdate>1998</pubdate>
+             <volume>17</volume>
+             <issue>3</issue>
+             <fpage>27</fpage>
+             <lpage>48</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1300/J027v17n03_03</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B9">
+             <title>
+                <p>Compliance with medication orders among the elderly after hospital discharge</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Beers</snm>
+                   <fnm>MH</fnm>
+                </au>
+                <au>
+                   <snm>Sliwkowski</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Brooks</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>Hosp Formul</source>
+             <pubdate>1999</pubdate>
+             <volume>27</volume>
+             <issue>7</issue>
+             <fpage>720</fpage>
+             <lpage>4</lpage>
+          </bibl>
+          <bibl id="B10">
+             <title>
+                <p>Posthospital medication discrepancies: prevalence and contributing factors</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Coleman</snm>
+                   <fnm>EAJ</fnm>
+                </au>
+                <au>
+                   <snm>Smith</snm>
+                   <fnm>JD</fnm>
+                </au>
+                <au>
+                   <snm>Raha</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Min</snm>
+                   <fnm>SJ</fnm>
+                </au>
+             </aug>
+             <source>Arch Int Med</source>
+             <pubdate>2005</pubdate>
+             <volume>165</volume>
+             <issue>16</issue>
+             <fpage>1842</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1001/archinte.165.16.1842</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B11">
+             <title>
+                <p>Unintended medication discrepancies at the time of hospital admission</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Cornish</snm>
+                   <fnm>PL</fnm>
+                </au>
+                <au>
+                   <snm>Knowles</snm>
+                   <fnm>SR</fnm>
+                </au>
+                <au>
+                   <snm>Marchesano</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Tam</snm>
+                   <fnm>V</fnm>
+                </au>
+                <au>
+                   <snm>Shadowitz</snm>
+                   <fnm>Z</fnm>
+                </au>
+                <au>
+                   <snm>Juurlink</snm>
+                   <fnm>DN</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Arch Int Med</source>
+             <pubdate>2005</pubdate>
+             <volume>165</volume>
+             <issue>4</issue>
+             <fpage>424</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1001/archinte.165.4.424</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B12">
+             <title>
+                <p>Medical errors related to discontinuity of care from an inpatient to outpatient setting</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Moore</snm>
+                   <fnm>CJ</fnm>
+                </au>
+                <au>
+                   <snm>Wisnivesky</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Williams</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>McGinn</snm>
+                   <fnm>T</fnm>
+                </au>
+             </aug>
+             <source>J Gen Intern Med</source>
+             <pubdate>2003</pubdate>
+             <volume>18</volume>
+             <issue>8</issue>
+             <fpage>646</fpage>
+             <lpage>51</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1046/j.1525-1497.2003.20722.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">12911647</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B13">
+             <title>
+                <p>Effect of discharge summary availability during postdischarge visits on hospital readmission</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Van Walraven</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Seth</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Austin</snm>
+                   <fnm>PC</fnm>
+                </au>
+                <au>
+                   <snm>Laupacis</snm>
+                   <fnm>A</fnm>
+                </au>
+             </aug>
+             <source>J Gen Intern Med</source>
+             <pubdate>2002</pubdate>
+             <volume>17</volume>
+             <issue>3</issue>
+             <fpage>186</fpage>
+             <lpage>92</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1046/j.1525-1497.2002.10741.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">11929504</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B14">
+             <title>
+                <p>The impact of follow-up telephone calls to patients after hopsitalisation</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Dudas</snm>
+                   <fnm>V</fnm>
+                </au>
+                <au>
+                   <snm>Bookwalter</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Kerr</snm>
+                   <fnm>KM</fnm>
+                </au>
+                <au>
+                   <snm>Pantilat</snm>
+                   <fnm>SZ</fnm>
+                </au>
+             </aug>
+             <source>Am J Med</source>
+             <pubdate>2001</pubdate>
+             <volume>111</volume>
+             <issue>9B</issue>
+             <fpage>26S</fpage>
+             <lpage>30</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0002-9343(01)00966-4</pubid>
+                   <pubid idtype="pmpid" link="fulltext">11790365</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B15">
+             <title>
+                <p>Adverse events due to discontinuations in drug use and dose changes in patients transferred between acute and long-term care facilities</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Boockvar</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Fishman</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Kyriacou</snm>
+                   <fnm>CK</fnm>
+                </au>
+                <au>
+                   <snm>Monias</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Gavi</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Cortes</snm>
+                   <fnm>T</fnm>
+                </au>
+             </aug>
+             <source>Arch Int Med</source>
+             <pubdate>2004</pubdate>
+             <volume>164</volume>
+             <issue>5</issue>
+             <fpage>545</fpage>
+             <lpage>50</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1001/archinte.164.5.545</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B16">
+             <note>Lansley, A. My ambition for patient-centred care. Department of Health. 2010. <url>http://webarchive.nationalarchives.gov.uk/+/www.dh.gov.uk/en/mediacentre/speeches/dh_116643</url>. Accessed 16 Jan 2015</note>
+          </bibl>
+          <bibl id="B17">
+             <note>Department of Health. Making sure health and social care services work together. 2012. <url>https://www.gov.uk/government/policies/making-sure-health-and-social-care-services-work-together</url>. Accessed 16 Jan 2015</note>
+          </bibl>
+          <bibl id="B18">
+             <title>
+                <p>Inpatient rehabilitation specifically designed for geriatric patients: systematic review and meta-analysis of randomised controlled trials</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bachmann</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Finger</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Huss</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Egger</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Stuck</snm>
+                   <fnm>AE</fnm>
+                </au>
+                <au>
+                   <snm>Clough-Gorr</snm>
+                   <fnm>KM</fnm>
+                </au>
+             </aug>
+             <source>BMJ</source>
+             <pubdate>2010</pubdate>
+             <volume>340</volume>
+             <fpage>c1718</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/bmj.c1718</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20406866</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B19">
+             <title>
+                <p>Looking inside the black box of community rehabilitation and intermediate care teams in the United Kingdom: an audit of service and staffing</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Nancarrow</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Moran</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Freeman</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Enderby</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Dixon</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Parker</snm>
+                   <fnm>S</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Qual Prim Care</source>
+             <pubdate>2009</pubdate>
+             <volume>17</volume>
+             <issue>5</issue>
+             <fpage>323</fpage>
+             <lpage>33</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">20003718</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B20">
+             <title>
+                <p>Discharge planning quality from the carer perspective</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Grimmer</snm>
+                   <fnm>KA</fnm>
+                </au>
+                <au>
+                   <snm>Moss</snm>
+                   <fnm>JR</fnm>
+                </au>
+                <au>
+                   <snm>Gill</snm>
+                   <fnm>TK</fnm>
+                </au>
+             </aug>
+             <source>Qual Life Res</source>
+             <pubdate>2000</pubdate>
+             <volume>9</volume>
+             <issue>9</issue>
+             <fpage>1005</fpage>
+             <lpage>13</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1023/A:1016693825758</pubid>
+                   <pubid idtype="pmpid" link="fulltext">11332222</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B21">
+             <title>
+                <p>The cost-effectiveness of rehabilitation in the home: a study of Swedish elderly</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Melin</snm>
+                   <fnm>AL</fnm>
+                </au>
+                <au>
+                   <snm>Hakansson</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Bygren</snm>
+                   <fnm>LO</fnm>
+                </au>
+             </aug>
+             <source>Am J Public Health</source>
+             <pubdate>1993</pubdate>
+             <volume>83</volume>
+             <issue>3</issue>
+             <fpage>356</fpage>
+             <lpage>62</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.2105/AJPH.83.3.356</pubid>
+                   <pubid idtype="pmpid" link="fulltext">8438972</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B22">
+             <title>
+                <p>The care transitions intervention: a patient-centered approach to ensuring effective transfers between sites of geriatric care</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Parry</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Coleman</snm>
+                   <fnm>EA</fnm>
+                </au>
+                <au>
+                   <snm>Smith</snm>
+                   <fnm>JD</fnm>
+                </au>
+                <au>
+                   <snm>Frank</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Kramer</snm>
+                   <fnm>AM</fnm>
+                </au>
+             </aug>
+             <source>Home Health Care Serv Q</source>
+             <pubdate>2003</pubdate>
+             <volume>22</volume>
+             <issue>3</issue>
+             <fpage>1</fpage>
+             <lpage>17</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1300/J027v22n03_01</pubid>
+                   <pubid idtype="pmpid" link="fulltext">14629081</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B23">
+             <title>
+                <p>Discharge planning from hospital to home</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Shepperd</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Parkes</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>McClaren</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Phillips</snm>
+                   <fnm>C</fnm>
+                </au>
+             </aug>
+             <source>Cochrane Database Syst Rev</source>
+             <pubdate>2010</pubdate>
+             <volume>1</volume>
+             <note>Article ID CD000313</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">20091507</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B24">
+             <title>
+                <p>Functional evaluation: The Barthel Index</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Mahoney</snm>
+                   <fnm>FI</fnm>
+                </au>
+                <au>
+                   <snm>Barthel</snm>
+                   <fnm>DW</fnm>
+                </au>
+             </aug>
+             <source>Md State Med J</source>
+             <pubdate>1965</pubdate>
+             <volume>14</volume>
+             <fpage>61</fpage>
+             <lpage>5</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">14258950</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B25">
+             <title>
+                <p>EuroQol&#8211;a new facility for the measurement of health-related quality of life</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Group</snm>
+                   <fnm>EQ</fnm>
+                </au>
+             </aug>
+             <source>Health Policy</source>
+             <pubdate>1990</pubdate>
+             <volume>16</volume>
+             <issue>3</issue>
+             <fpage>199</fpage>
+             <lpage>208</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/0168-8510(90)90421-9</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B26">
+             <title>
+                <p>A new method of classifying prognostic comorbidity in longitudinal studies: development and validation</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Charlson</snm>
+                   <fnm>ME</fnm>
+                </au>
+                <au>
+                   <snm>Pompei</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Ales</snm>
+                   <fnm>KL</fnm>
+                </au>
+                <au>
+                   <snm>MacKenzie</snm>
+                   <fnm>CR</fnm>
+                </au>
+             </aug>
+             <source>J Chron Dis</source>
+             <pubdate>1987</pubdate>
+             <volume>40</volume>
+             <issue>5</issue>
+             <fpage>373</fpage>
+             <lpage>83</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/0021-9681(87)90171-8</pubid>
+                   <pubid idtype="pmpid" link="fulltext">3558716</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B27">
+             <title>
+                <p>Chapter 12: Costing Psychiatric Interventions. Discussion Paper 1536</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Beecham</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Knapp</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>Measuring Mental Health Needs</source>
+             <publisher>Gaskell, London</publisher>
+             <editor>Thornicroft G</editor>
+             <edition>2</edition>
+             <pubdate>1999</pubdate>
+             <fpage>200</fpage>
+             <lpage>24</lpage>
+          </bibl>
+          <bibl id="B28">
+             <note>ICH Expert Working Group. International Conference on Harmonisation on Good Clinical Practice Guidelines (ICH-GCP). 1996, 24. <url>http://www.ich.org/fileadmin/Public_Web_Site/ICH_Products/Guidelines/Efficacy/E6/E6_R1_Guideline.pdf</url> Accessed 27th January 2015</note>
+          </bibl>
+          <bibl id="B29">
+             <title>
+                <p>Ethical issues in research with dementia patients</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Berghmans</snm>
+                   <fnm>RLP</fnm>
+                </au>
+                <au>
+                   <snm>Ter Meulen</snm>
+                   <fnm>RHJ</fnm>
+                </au>
+             </aug>
+             <source>Int J Geriatr Psychiatry</source>
+             <pubdate>1995</pubdate>
+             <volume>10</volume>
+             <fpage>64751</fpage>
+          </bibl>
+          <bibl id="B30">
+             <title>
+                <p>The non-spread of innovations: the mediating role of professionals</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Ferlie</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Fitzgerald</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Wood</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Hawkins</snm>
+                   <fnm>C</fnm>
+                </au>
+             </aug>
+             <source>Acad Manag J</source>
+             <pubdate>2005</pubdate>
+             <volume>48</volume>
+             <issue>1</issue>
+             <fpage>117</fpage>
+             <lpage>34</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.5465/AMJ.2005.15993150</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B31">
+             <title>
+                <p>Fostering implementation of health services research findings into practice: a consolidated framework for advancing implementation science</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Damschroder</snm>
+                   <fnm>LJ</fnm>
+                </au>
+                <au>
+                   <snm>Aron</snm>
+                   <fnm>DC</fnm>
+                </au>
+                <au>
+                   <snm>Keith</snm>
+                   <fnm>RE</fnm>
+                </au>
+                <au>
+                   <snm>Kirsh</snm>
+                   <fnm>SR</fnm>
+                </au>
+                <au>
+                   <snm>Alexander</snm>
+                   <fnm>JA</fnm>
+                </au>
+                <au>
+                   <snm>Lowery</snm>
+                   <fnm>JC</fnm>
+                </au>
+             </aug>
+             <source>Implement Sci</source>
+             <pubdate>2009</pubdate>
+             <volume>4</volume>
+             <fpage>50</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1186/1748-5908-4-50</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19664226</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B32">
+             <title>
+                <p>Analysing qualitative data</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Pope</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Ziebland</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Mayes</snm>
+                   <fnm>N</fnm>
+                </au>
+             </aug>
+             <source>BMJ</source>
+             <pubdate>2000</pubdate>
+             <volume>320</volume>
+             <issue>7227</issue>
+             <fpage>114</fpage>
+             <lpage>6</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/bmj.320.7227.114</pubid>
+                   <pubid idtype="pmpid" link="fulltext">10625273</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B33">
+             <aug>
+                <au>
+                   <snm>Ritchie</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Lewis</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>Qualitative research practice: a guide for social science students and researchers</source>
+             <publisher>Sage Publications, London</publisher>
+             <pubdate>2003</pubdate>
+          </bibl>
+          <bibl id="B34">
+             <title>
+                <p>Qualitative data analysis for applied policy research</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Ritchie</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Spencer</snm>
+                   <fnm>L</fnm>
+                </au>
+             </aug>
+             <source>Analysing qualitative data</source>
+             <publisher>Routledge, London</publisher>
+             <editor>Bryman A, Burgess R</editor>
+             <pubdate>1993</pubdate>
+             <fpage>173</fpage>
+             <lpage>94</lpage>
+          </bibl>
+          <bibl id="B35">
+             <aug>
+                <au>
+                   <snm>Drummond</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Schulpher</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Torrance</snm>
+                   <fnm>GW</fnm>
+                </au>
+                <au>
+                   <snm>O'Brien</snm>
+                   <fnm>BJ</fnm>
+                </au>
+                <au>
+                   <snm>Stoddart</snm>
+                   <fnm>G</fnm>
+                </au>
+             </aug>
+             <source>Methods for the Economic Evaluation of Health Care Programmes</source>
+             <publisher>Oxford University Press, New York</publisher>
+             <edition>3</edition>
+             <pubdate>2005</pubdate>
+          </bibl>
+          <bibl id="B36">
+             <title>
+                <p>Modelling valuations for EuroQol health states</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Dolan</snm>
+                   <fnm>P</fnm>
+                </au>
+             </aug>
+             <source>Med Care</source>
+             <pubdate>1997</pubdate>
+             <volume>35</volume>
+             <fpage>1095</fpage>
+             <lpage>108</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/00005650-199711000-00002</pubid>
+                   <pubid idtype="pmpid" link="fulltext">9366889</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B37">
+             <title>
+                <p>Estimating mean QALYs in trial-based cost-effectiveness analysis: the importance of controlling for baseline utility</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Manca</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Hawkins</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Sculpher</snm>
+                   <fnm>MJ</fnm>
+                </au>
+             </aug>
+             <source>Health Econ</source>
+             <pubdate>2005</pubdate>
+             <volume>14</volume>
+             <issue>5</issue>
+             <fpage>487</fpage>
+             <lpage>96</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1002/hec.944</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15497198</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B38">
+             <title>
+                <p>A guide to cost-effectiveness acceptability curves</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Fenwick</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Byford</snm>
+                   <fnm>S</fnm>
+                </au>
+             </aug>
+             <source>Br J Psychiatry</source>
+             <pubdate>2005</pubdate>
+             <volume>187</volume>
+             <fpage>106</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1192/bjp.187.2.106</pubid>
+                   <pubid idtype="pmpid" link="fulltext">16055820</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B39">
+             <title>
+                <p>Impact of comorbid conditions and race/ethnicity on glycaemic control among the US population with type 2 diabetes, 1988-1994 to 1999-2004</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Suh</snm>
+                   <fnm>DC</fnm>
+                </au>
+                <au>
+                   <snm>Choi</snm>
+                   <fnm>IS</fnm>
+                </au>
+                <au>
+                   <snm>Plauschinat</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Kwon</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Baron</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>J Diabetes Complications</source>
+             <pubdate>2010</pubdate>
+             <volume>24</volume>
+             <issue>6</issue>
+             <fpage>382</fpage>
+             <lpage>91</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.jdiacomp.2009.07.001</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19716320</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B40">
+             <note>Walker M, Sahota O, Logan P, Clinical effectiveness. Age and Ageing. 2013;42 Suppl 2: ii5&#8211;16.</note>
+          </bibl>
+       </refgrp>
+    </bm>
+ </art>

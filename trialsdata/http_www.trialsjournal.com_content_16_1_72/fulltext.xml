@@ -1,0 +1,2101 @@
+<?xml version='1.0'?>
+<!DOCTYPE art SYSTEM 'http://www.biomedcentral.com/xml/article.dtd'>
+<art>
+    <ui>s13063-015-0574-8</ui>
+    <ji>1745-6215</ji>
+    <fm>
+       <dochead>Research</dochead>
+       <bibl>
+          <title>
+             <p>The Stroke Hyperglycemia Insulin Network Effort (SHINE) trial: an adaptive trial design case study</p>
+          </title>
+          <aug>
+             <au id="A1" ca="yes">
+                <snm>Connor</snm>
+                <mi>T</mi>
+                <fnm>Jason</fnm>
+                <insr iid="I1"/>
+                <insr iid="I2"/>
+                <email>jason@berryconsultants.com</email>
+             </au>
+             <au id="A2">
+                <snm>Broglio</snm>
+                <mi>R</mi>
+                <fnm>Kristine</fnm>
+                <insr iid="I1"/>
+                <email>kristine@berryconsultants.com</email>
+             </au>
+             <au id="A3">
+                <snm>Durkalski</snm>
+                <fnm>Valerie</fnm>
+                <insr iid="I3"/>
+                <email>durkalsv@musc.edu</email>
+             </au>
+             <au id="A4">
+                <snm>Meurer</snm>
+                <mi>J</mi>
+                <fnm>William</fnm>
+                <insr iid="I4"/>
+                <email>wmeurer@med.umich.edu</email>
+             </au>
+             <au id="A5">
+                <snm>Johnston</snm>
+                <mi>C</mi>
+                <fnm>Karen</fnm>
+                <insr iid="I5"/>
+                <email>KJ4V@hscmail.mcc.virginia.edu</email>
+             </au>
+          </aug>
+          <insg>
+             <ins id="I1">
+                <p>Berry Consultants, LLC, 4301 Westbank Dr Bldg B Suite 140, Austin 78746, TX, USA</p>
+             </ins>
+             <ins id="I2">
+                <p>University of Central Florida College of Medicine, 6850 Lake Nona Blvd, Orlando 32827, FL, USA</p>
+             </ins>
+             <ins id="I3">
+                <p>Department of Public Health Sciences, Medical University of South Carolina, 135 Cannon Street Suit 303, Charleston 29425, SC, USA</p>
+             </ins>
+             <ins id="I4">
+                <p>Department of Emergency Medicine, University of Michigan Health System, 1500 E Medical Center Dr, Ann Arbor 48109, MI, USA</p>
+             </ins>
+             <ins id="I5">
+                <p>Department of Neurology, University of Virginia Health System, Charlottesville 22908, VA, USA</p>
+             </ins>
+          </insg>
+          <source>Trials</source>
+          <issn>1745-6215</issn>
+          <pubdate>2015</pubdate>
+          <volume>16</volume>
+          <issue>1</issue>
+          <fpage>72</fpage>
+          <url>http://www.trialsjournal.com/content/16/1/72</url>
+          <xrefbib>
+             <pubidlist>
+                <pubid idtype="doi">10.1186/s13063-015-0574-8</pubid>
+             </pubidlist>
+          </xrefbib>
+       </bibl>
+       <history>
+          <rec>
+             <date>
+                <day>30</day>
+                <month>7</month>
+                <year>2014</year>
+             </date>
+          </rec>
+          <acc>
+             <date>
+                <day>20</day>
+                <month>1</month>
+                <year>2015</year>
+             </date>
+          </acc>
+          <pub>
+             <date>
+                <day>4</day>
+                <month>3</month>
+                <year>2015</year>
+             </date>
+          </pub>
+       </history>
+       <cpyrt>
+          <year>2015</year>
+          <collab>Connor et al.; licensee BioMed Central.</collab>
+          <note>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/4.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (<url>http://creativecommons.org/publicdomain/zero/1.0/</url>) applies to the data made available in this article, unless otherwise stated.</note>
+       </cpyrt>
+       <kwdg>
+          <kwd>Bayesian adaptive design</kwd>
+          <kwd>Group sequential</kwd>
+          <kwd>Sample size estimation</kwd>
+          <kwd>Predictive probabilities</kwd>
+          <kwd>Neurologic emergencies</kwd>
+       </kwdg>
+       <abs>
+          <sec>
+             <st>
+                <p>Abstract</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Background</p>
+                </st>
+                <p>The &#8216;Adaptive Designs Accelerating Promising Trials into Treatments (ADAPT-IT)&#8217; project is a collaborative effort supported by the National Institutes of Health (NIH) and United States Food &amp; Drug Administration (FDA) to explore how adaptive clinical trial design might improve the evaluation of drugs and medical devices. ADAPT-IT uses the National Institute of Neurologic Disorders &amp; Stroke-supported Neurological Emergencies Treatment Trials (NETT) network as a &#8216;laboratory&#8217; in which to study the development of adaptive clinical trial designs in the confirmatory setting. The Stroke Hyperglycemia Insulin Network Effort (SHINE) trial was selected for funding by the NIH-NINDS at the start of ADAPT-IT and is currently an ongoing phase III trial of tight glucose control in hyperglycemic acute ischemic stroke patients. Within ADAPT-IT, a Bayesian adaptive Goldilocks trial design alternative was developed.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Methods</p>
+                </st>
+                <p>The SHINE design includes response adaptive randomization, a sample size re-estimation, and monitoring for early efficacy and futility according to a group sequential design. The Goldilocks design includes more frequent monitoring for predicted success or futility and a longitudinal model of the primary endpoint. Both trial designs were simulated and compared in terms of their mean sample size and power across a range of treatment effects and success rates for the control group.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Results</p>
+                </st>
+                <p>As simulated, the SHINE design tends to have slightly higher power and the Goldilocks design has a lower mean sample size. Both designs were tuned to have approximately 80% power to detect a difference of 25% versus 32% between control and treatment, respectively. In this scenario, mean sample sizes are 1,114 and 979 for the SHINE and Goldilocks designs, respectively.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Conclusions</p>
+                </st>
+                <p>Two designs were brought forward, and both were evaluated, revised, and improved based on the input of all parties involved in the ADAPT-IT process. However, the SHINE investigators were tasked with choosing only a single design to implement and ultimately elected not to implement the Goldilocks design. The Goldilocks design will be retrospectively executed upon completion of SHINE to later compare the designs based on their use of patient resources, time, and conclusions in a real world setting.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Trial registration</p>
+                </st>
+                <p>ClinicalTrials.gov <url>NCT01369069</url> June 2011.</p>
+             </sec>
+          </sec>
+       </abs>
+    </fm>
+    <bdy>
+       <sec>
+          <st>
+             <p>Background</p>
+          </st>
+          <p>In 2010, The National Institutes of Health (NIH) and the Food and Drug Administration (FDA) jointly awarded four grants to support research in the area of regulatory science <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>. One of these awards, &#8216;Adaptive Designs Accelerating Promising Trials into Treatments (ADAPT-IT)&#8217;, is a collaborative effort between the University of Michigan, Medical University of South Carolina, and Berry Consultants, LLC. The overall objective of ADAPT-IT is to explore how adaptive designs in a confirmatory setting might improve the evaluation of drugs and medical devices in neurologic emergency settings <abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp>. ADAPT-IT uses the NINDS-supported Neurological Emergencies Treatment Trials (NETT) network as a &#8216;laboratory&#8217; in which to study the development of adaptive clinical trial designs. The NETT Network includes 22 hubs, along with a clinical coordinating center (University of Michigan), and statistical and data management center (Medical University of South Carolina) and focuses on conducting large trials in acute injuries and illnesses affecting the brain, spinal cord, and peripheral nervous system <abbrgrp>
+                <abbr bid="B3">3</abbr>
+             </abbrgrp>. For each of five randomized clinical trials undergoing proposal development for implementation within NETT, the ADAPT-IT investigators developed an adaptive trial design in collaboration with each study&#8217;s principal investigators and statisticians at the data coordinating center. During this process another research team used both qualitative and quantitative methods to characterize the beliefs, opinions, and concerns of the trial&#8217;s key stakeholders regarding the ethics, scientific validity, and integrity of the adaptive designs and how these beliefs may have changed over the course of the design process.</p>
+          <p>The ADAPT-IT process begins with an initial meeting of clinical investigators and statisticians to describe the scientific question and sketch out potential designs. An initial adaptive design is then constructed and presented to the trial team for feedback. There are several iterations of the design and accompanying discussions. Once a final design is agreed upon, the trial is submitted for funding.</p>
+          <p>Each of the five trials included in ADAPT-IT were at varying stages of development and funding. The first trial considered within ADAPT-IT, the Stroke Hyperglycemia Insulin Network Effort (SHINE) trial had a completed design. Also, unlike the other four trials, SHINE was approved for funding by the NIH-NINDS at the time the ADAPT-IT project began. Regardless, through the ADAPT-IT process, an alternative adaptive design was developed. We present the SHINE trial design that is currently being conducted, which is an adaptive design including group sequential stopping, response adaptive randomization, and a blinded sample size re-estimation. We also present the alternative ADAPT-IT design, which is a Bayesian adaptive Goldilocks trial design <abbrgrp>
+                <abbr bid="B4">4</abbr>
+             </abbrgrp>. We compare the performance of the two designs via simulation and then describe how SHINE will be virtually re-executed according to the Goldilocks design.</p>
+          <p>There are examples where an alternative trial design has been retrospectively created and executed in order to compare the potential benefits of different design features <abbrgrp>
+                <abbr bid="B5">5</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B6">6</abbr>
+             </abbrgrp>. However, SHINE is a unique learning opportunity in that the same team developed, in a prospective manner, two different trial designs with the same scientific objectives in mind. In the trial design process, it is typical to consider several different candidate designs. One design is selected for conduct and the alternatives are discarded. However, we propose to consider both the selected design and the counterfactual, comparing and contrasting both the design and the execution of two innovative adaptive trial designs.</p>
+          <p>The two designs we will describe have several differences, and therefore, this is not an &#8216;apples to apples&#8217; comparison where we compare one simple difference at a time. However, this is also not an academic exercise in which the goal is to consider only the difference between the frequentist and the Bayesian perspectives. Rather, we present a more &#8216;real world&#8217; setting in which two candidate designs are weighed against each other based on their own unique sets of benefits and drawbacks.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Methods</p>
+          </st>
+          <sec>
+             <st>
+                <p>SHINE trial design</p>
+             </st>
+             <p>The SHINE trial design is completely described elsewhere <abbrgrp>
+                   <abbr bid="B7">7</abbr>
+                </abbrgrp>. SHINE is a randomized multicenter Phase III trial comparing tight glucose control with IV insulin (experimental) to a therapy of subcutaneous insulin (control) in hyperglycemic acute ischemic stroke patients. The SHINE protocol was approved by IRBs at the University of Virginia, the NETT Clinical Coordinating Center (University of Michigan), and Statistics and Data Management Center (Medical University of South Carolina), as well as all enrolling sites. The name of the ethical body that approved the SHINE protocol at each enrolling site is shown in the appendix. Consent is obtained either from patients, or where cognitively impaired from stroke, a legally authorized representative, before a patient is enrolled in the SHINE trial.</p>
+             <p>The primary efficacy endpoint is a dichotomized modified Rankin scale (mRS), adjusted to the baseline stroke severity score (NIHSS), measured at 90&#160;days following randomization. The null hypothesis is that the success rates for the two arms are equal. The alterative hypothesis is two-sided, that the success rates for the two arms are not equal. The alternative hypothesis will be accepted if either the experimental therapy is significantly better than the control or if the control therapy is significantly better than the experimental. Based on preliminary data, it is expected that 25% of patients in the control group will achieve success. At least a 7% absolute difference in the proportion of patients achieving a success between the treatment and control arms would be considered clinically meaningful. Based on a chi-square test, four interim analyses, an overall 0.05 Type I error rate, a control success rate of 25%, and a 3% lost to follow-up rate, 1,400 patients would provide 80% power to detect the 7% absolute difference between treatment arms.</p>
+             <p>SHINE will be monitored for both early efficacy and futility according to a group sequential design. The stopping boundaries are defined by the gamma family spending function with a parameter of &#8722;4 for both the upper and lower bounds. Four interim analyses are scheduled when complete information on the primary endpoint (90-day data) is available for 500, 700, 900, and 1,100 patients. The two-sided <it>P</it> values required for stopping for efficacy or futility at each of these interim looks are shown in Table&#160;<tblr tid="T1">1</tblr>. To control the overall two-sided Type I error rate to less than 5%, the final analysis will be conducted at the 0.043 significance level. The primary efficacy analysis will be a logistic regression model with terms for treatment group, baseline NIHSS strata, and use of IV thrombolysis use (yes or no). Multiple imputation will be implemented when the 90-day outcome is missing or collected outside of the allowable window of &#8722;14&#160;day/+30&#160;days from the 90-day visit.
+                  </p>
+             
+                <table id="T1">
+                   <title>
+                      <p>Table 1</p>
+                   </title>
+                   <caption>
+                      <p>
+                            <b>SHINE two-sided</b>                            
+                         <b>
+                            <it>P</it> 
+                        </b>                            
+                         <b>values for stopping for success or futility at each interim analysis</b>                          
+                      </p>
+                   </caption>
+                   <tgroup align="left" cols="3">
+                      <colspec align="left" colname="c1" colnum="1" colwidth="*"/>
+                      <colspec align="left" colname="c2" colnum="2" colwidth="*"/>
+                      <colspec align="left" colname="c3" colnum="3" colwidth="*"/>
+                      <thead>
+                         <row rowsep="1" valign="top">
+                            <entry colname="c1">
+                               <p>
+                                  <b>Information fraction</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>
+                                  <b>Success</b>                                
+                                  <b>
+                                     <it>P</it> 
+                                 </b>                                
+                                  <b>Value</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>
+                                  <b>Futility</b>                                
+                                  <b>
+                                     <it>P</it> 
+                                 </b>                                
+                                  <b>Value</b>                              
+                               </p>
+                            </entry>
+                         </row>
+                      </thead>
+                      <tbody>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>36%</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>0.003</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>0.949</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>50%</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>0.004</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>0.896</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>64%</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>0.008</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>0.652</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>78%</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>0.016</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>0.293</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>100%</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>0.043</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>0.043</p>
+                            </entry>
+                         </row>
+                      </tbody>
+                   </tgroup>
+                </table>
+             
+             <p>SHINE also contains a sample-size re-estimation analysis to ensure 80% power if the control success rate is higher than expected and variance is increased. The sample size re-estimation will follow the approach of Gould and Shih <abbrgrp>
+                   <abbr bid="B8">8</abbr>
+                </abbrgrp>, and will be based on the observed overall success rate and assuming a 7% absolute difference between treatment arms. If the overall pooled success rate is greater than 31%, the maximum sample size may be increased. As specified in Gould and Shih, to maintain the blind, the sample size re-estimation is planned just prior to the first unblinded interim analysis. If the sample size is increased, the timing of the interim looks will be adjusted accordingly to preserve the planned information fraction at each look. The largest possible increase to the maximum sample size would be 318 patients.</p>
+             <p>Finally, patients will be randomized to either the experimental or control arm based on a randomization scheme that includes both covariate balancing and response adaptive randomization. Covariates to be balanced are the baseline NIHSS (3 strata), use of IV thrombolysis (yes or no), and site. As SHINE is currently ongoing, to prevent operational bias, the details of the response adaptive randomization component of the design have not been provided to the SHINE study investigators who are potentially enrolling patients and are not included in this manuscript.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Goldilocks design alternative</p>
+             </st>
+             <p>The only constraints applied to the alternative design for the SHINE design were having a maximum sample size of 1,400 patients, and the assumptions of a control rate favorable outcome of 25% where a 7% improvement would be clinically meaningful. All other design parameters were subject to change.</p>
+             <p>The alternative SHINE trial design is a Bayesian adaptive Goldilocks design that includes frequent interim looks, based on predictive probabilities, to stop early for efficacy or futility <abbrgrp>
+                   <abbr bid="B4">4</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B9">9</abbr>
+                </abbrgrp>. Because patients can also be assessed for mRS at 6&#160;weeks, we use a longitudinal model of the primary endpoint to allow the 6-week measure of mRS to aid prediction of mRS at 90&#160;days. Patients are equally randomized to either the experimental or control arm. The minimum sample size is 500 patients, and the maximum sample size is 1,400 patients and there are scheduled interim analyses after every additional 100 patients are enrolled. The primary analysis is fully Bayesian, comparing the posterior distributions of the success rates between the two arms. In this design, the alternative hypothesis is one-sided, that the success rate on the experimental arm is greater than on the control arm. The rationale for a one-sided alternative hypothesis is that the clinical implications of either futility (the two treatments being similar) or the experimental therapy being worse than control are the same - patients would continue to receive the control treatment, the current standard of care. Therefore this design would not continue in order to show that the experimental therapy is significantly worse than control.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Interim monitoring</p>
+             </st>
+             <p>Interim monitoring for early efficacy or futility begins when 500 patients are enrolled and interim analyses are planned after every additional 100 patient are enrolled for a total of nine possible interim analyses. Interim monitoring for futility is based on the predictive probability that the trial will be successful at the maximum sample size of 1,400 patients, <it>P</it>                    
+                <sub>
+                   <it>max</it> 
+                </sub>. If, at any interim analysis <it>P</it>                    
+                <sub>
+                   <it>max</it> 
+                </sub> is less than 5%<sub>,</sub> the trial will stop for futility. Interim monitoring for efficacy is based on the predictive probability that the trial will be successful at the current sample size, <it>n</it>, if accrual to the trial would stop and all currently enrolled patients completed follow-up, <it>P</it>                    
+                <sub>
+                   <it>n</it> 
+                </sub>. If, at any interim analysis <it>P</it>                    
+                <sub>
+                   <it>n</it> 
+                </sub> is greater than 99%, accrual will stop for predicted success. If the trial is not stopped early for futility or if accrual is not stopped early for predicted success (<it>P</it>                    
+                <sub>
+                   <it>max</it> 
+                </sub> &gt;5% and <it>P</it>                    
+                <sub>
+                   <it>n</it> 
+                </sub> &lt;99%), then the trial will continue enrollment to the maximum sample size. If accrual stops early for predicted success, or the trial continues to the maximum sample size of 1,400 patients, the primary efficacy analysis will be conducted when all enrolled patients have completed their 90-day follow-up.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Primary efficacy analysis</p>
+             </st>
+             <p>The primary efficacy analysis will be conducted after all enrolled patients have completed follow-up for the primary endpoint. We assume the probability of success, <it>&#952;</it>                    
+                <sub>
+                   <it>j</it> 
+                </sub>, has a Beta prior distribution</p><p><display-formula>
+                   <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" name="s13063-015-0574-8-i1">
+                      <m:mfenced close="]" open="[">
+                         <m:msub>
+                            <m:mi>&#952;</m:mi>
+                            <m:mi>j</m:mi>
+                         </m:msub>
+                      </m:mfenced>
+                      <m:mo>~</m:mo>
+                      <m:mi mathvariant="italic">Beta</m:mi>
+                      <m:mfenced close=")" open="(">
+                         <m:mrow>
+                            <m:mn>1</m:mn>
+                            <m:mo>,</m:mo>
+                            <m:mspace width="0.25em"/>
+                            <m:mn>1</m:mn>
+                         </m:mrow>
+                      </m:mfenced>
+                      <m:mtext>,</m:mtext>
+                   </m:math>
+                </display-formula></p>
+             <p>where <it>j</it>&#8201;=&#8201;C is the control arm and <it>j</it>&#8201;=&#8201;E is the experimental arm. This prior distribution is equivalent to a uniform prior across the unknown event rates and equates to observing two patients&#8217; worth of information where one experienced a success and one did not. Therefore even with the minimum sample size of 250 patients per group, the prior contributes less than 1% of the information in the posterior. At each interim analysis and at the final analysis the number of observed successes, <it>x</it>                    
+                <sub>
+                   <it>j</it> 
+                </sub>, among the currently enrolled patients, <it>n</it>                    
+                <sub>
+                   <it>j</it> 
+                </sub>, is modeled as a binomial distribution</p><p><display-formula>
+                   <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" name="s13063-015-0574-8-i2">
+                      <m:mfenced close="]" open="[">
+                         <m:msub>
+                            <m:mi>x</m:mi>
+                            <m:mi>j</m:mi>
+                         </m:msub>
+                      </m:mfenced>
+                      <m:mo>~</m:mo>
+                      <m:mi mathvariant="italic">Binomial</m:mi>
+                      <m:mfenced close=")" open="(">
+                         <m:mrow>
+                            <m:msub>
+                               <m:mi>n</m:mi>
+                               <m:mi>j</m:mi>
+                            </m:msub>
+                            <m:mo>,</m:mo>
+                            <m:msub>
+                               <m:mi>&#952;</m:mi>
+                               <m:mi>j</m:mi>
+                            </m:msub>
+                         </m:mrow>
+                      </m:mfenced>
+                      <m:mtext>.</m:mtext>
+                   </m:math>
+                </display-formula></p>
+             <p>We update the prior distribution with the currently observed data (<it>x</it>                    
+                <sub>
+                   <it>j</it> 
+                </sub>, <it>n</it>                    
+                <sub>
+                   <it>j</it> 
+                </sub>) and the resulting posterior distribution is</p><p><display-formula>
+                   <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" name="s13063-015-0574-8-i3">
+                      <m:mfenced close="]" open="[">
+                         <m:mrow>
+                            <m:msub>
+                               <m:mi>&#952;</m:mi>
+                               <m:mi>j</m:mi>
+                            </m:msub>
+                            <m:mo stretchy="true">|</m:mo>
+                            <m:msub>
+                               <m:mi>x</m:mi>
+                               <m:mi>j</m:mi>
+                            </m:msub>
+                            <m:mo>,</m:mo>
+                            <m:msub>
+                               <m:mi>n</m:mi>
+                               <m:mi>j</m:mi>
+                            </m:msub>
+                         </m:mrow>
+                      </m:mfenced>
+                      <m:mo>~</m:mo>
+                      <m:mi mathvariant="italic">Beta</m:mi>
+                      <m:mfenced close=")" open="(">
+                         <m:mrow>
+                            <m:mn>1</m:mn>
+                            <m:mo>+</m:mo>
+                            <m:msub>
+                               <m:mi>x</m:mi>
+                               <m:mrow>
+                                  <m:mi>j</m:mi>
+                                  <m:mo>,</m:mo>
+                               </m:mrow>
+                            </m:msub>
+                            <m:mn>1</m:mn>
+                            <m:mo>+</m:mo>
+                            <m:msub>
+                               <m:mi>n</m:mi>
+                               <m:mi>j</m:mi>
+                            </m:msub>
+                            <m:mo>&#8722;</m:mo>
+                            <m:msub>
+                               <m:mi>x</m:mi>
+                               <m:mi>j</m:mi>
+                            </m:msub>
+                         </m:mrow>
+                      </m:mfenced>
+                      <m:mtext>.</m:mtext>
+                   </m:math>
+                </display-formula></p>
+             <p>Given the number of successes in each group <it>x</it>                    
+                <sub>
+                   <it>C</it> 
+                </sub> and x<sub>
+                   <it>E</it> 
+                </sub> and the total number randomized to each group, <it>n</it>                    
+                <sub>
+                   <it>C</it> 
+                </sub> and <it>n</it>                    
+                <sub>
+                   <it>E</it> 
+                </sub>, the primary analysis is</p><p><display-formula>
+                   <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" name="s13063-015-0574-8-i4">
+                      <m:mo>Pr</m:mo>
+                      <m:mfenced close=")" open="(">
+                         <m:mrow>
+                            <m:msub>
+                               <m:mi>&#952;</m:mi>
+                               <m:mi>E</m:mi>
+                            </m:msub>
+                            <m:mo>&gt;</m:mo>
+                            <m:msub>
+                               <m:mi>&#952;</m:mi>
+                               <m:mi>C</m:mi>
+                            </m:msub>
+                            <m:mo>|</m:mo>
+                            <m:mi mathvariant="normal">Trial</m:mi>
+                            <m:mspace width="0.25em"/>
+                            <m:mi mathvariant="normal">Data</m:mi>
+                         </m:mrow>
+                      </m:mfenced>
+                      <m:mo>=</m:mo>
+                      <m:mstyle displaystyle="true">
+                         <m:msubsup>
+                            <m:mo stretchy="true">&#8747;</m:mo>
+                            <m:mn>0</m:mn>
+                            <m:mn>1</m:mn>
+                         </m:msubsup>
+                         <m:mrow>
+                            <m:mstyle displaystyle="true">
+                               <m:msubsup>
+                                  <m:mo stretchy="true">&#8747;</m:mo>
+                                  <m:mn>0</m:mn>
+                                  <m:msub>
+                                     <m:mi>&#952;</m:mi>
+                                     <m:mi>E</m:mi>
+                                  </m:msub>
+                               </m:msubsup>
+                               <m:mrow>
+                                  <m:mfrac>
+                                     <m:mrow>
+                                        <m:mi mathvariant="normal">&#915;</m:mi>
+                                        <m:mfenced close=")" open="(">
+                                           <m:mrow>
+                                              <m:mn>2</m:mn>
+                                              <m:mo>+</m:mo>
+                                              <m:msub>
+                                                 <m:mi>n</m:mi>
+                                                 <m:mi>E</m:mi>
+                                              </m:msub>
+                                           </m:mrow>
+                                        </m:mfenced>
+                                     </m:mrow>
+                                     <m:mrow>
+                                        <m:mi mathvariant="normal">&#915;</m:mi>
+                                        <m:mfenced close=")" open="(">
+                                           <m:mrow>
+                                              <m:mn>1</m:mn>
+                                              <m:mo>+</m:mo>
+                                              <m:msub>
+                                                 <m:mi>x</m:mi>
+                                                 <m:mi>E</m:mi>
+                                              </m:msub>
+                                           </m:mrow>
+                                        </m:mfenced>
+                                        <m:mi mathvariant="normal">&#915;</m:mi>
+                                        <m:mfenced close=")" open="(">
+                                           <m:mrow>
+                                              <m:mn>1</m:mn>
+                                              <m:mo>+</m:mo>
+                                              <m:msub>
+                                                 <m:mi>n</m:mi>
+                                                 <m:mi>E</m:mi>
+                                              </m:msub>
+                                              <m:mo>&#8722;</m:mo>
+                                              <m:msub>
+                                                 <m:mi>x</m:mi>
+                                                 <m:mi>E</m:mi>
+                                              </m:msub>
+                                           </m:mrow>
+                                        </m:mfenced>
+                                     </m:mrow>
+                                  </m:mfrac>
+                                  <m:msubsup>
+                                     <m:mi>&#952;</m:mi>
+                                     <m:mi>E</m:mi>
+                                     <m:msub>
+                                        <m:mi>x</m:mi>
+                                        <m:mi>E</m:mi>
+                                     </m:msub>
+                                  </m:msubsup>
+                                  <m:msup>
+                                     <m:mfenced close=")" open="(">
+                                        <m:mrow>
+                                           <m:mn>1</m:mn>
+                                           <m:mo>&#8722;</m:mo>
+                                           <m:msub>
+                                              <m:mi>&#952;</m:mi>
+                                              <m:mi>E</m:mi>
+                                           </m:msub>
+                                        </m:mrow>
+                                     </m:mfenced>
+                                     <m:mrow>
+                                        <m:msub>
+                                           <m:mi>n</m:mi>
+                                           <m:mi>E</m:mi>
+                                        </m:msub>
+                                        <m:mo>&#8722;</m:mo>
+                                        <m:msub>
+                                           <m:mi>x</m:mi>
+                                           <m:mi>E</m:mi>
+                                        </m:msub>
+                                     </m:mrow>
+                                  </m:msup>
+                                  <m:mfrac>
+                                     <m:mrow>
+                                        <m:mi mathvariant="normal">&#915;</m:mi>
+                                        <m:mfenced close=")" open="(">
+                                           <m:mrow>
+                                              <m:mn>2</m:mn>
+                                              <m:mo>+</m:mo>
+                                              <m:msub>
+                                                 <m:mi>n</m:mi>
+                                                 <m:mi>C</m:mi>
+                                              </m:msub>
+                                           </m:mrow>
+                                        </m:mfenced>
+                                     </m:mrow>
+                                     <m:mrow>
+                                        <m:mi mathvariant="normal">&#915;</m:mi>
+                                        <m:mfenced close=")" open="(">
+                                           <m:mrow>
+                                              <m:mn>1</m:mn>
+                                              <m:mo>+</m:mo>
+                                              <m:msub>
+                                                 <m:mi>x</m:mi>
+                                                 <m:mi>C</m:mi>
+                                              </m:msub>
+                                           </m:mrow>
+                                        </m:mfenced>
+                                        <m:mi>&#915;</m:mi>
+                                        <m:mfenced close=")" open="(">
+                                           <m:mrow>
+                                              <m:mn>1</m:mn>
+                                              <m:mo>+</m:mo>
+                                              <m:msub>
+                                                 <m:mi>n</m:mi>
+                                                 <m:mi>C</m:mi>
+                                              </m:msub>
+                                              <m:mo>&#8722;</m:mo>
+                                              <m:msub>
+                                                 <m:mi>x</m:mi>
+                                                 <m:mi>C</m:mi>
+                                              </m:msub>
+                                           </m:mrow>
+                                        </m:mfenced>
+                                     </m:mrow>
+                                  </m:mfrac>
+                               </m:mrow>
+                            </m:mstyle>
+                         </m:mrow>
+                      </m:mstyle>
+                      <m:msubsup>
+                         <m:mi>&#952;</m:mi>
+                         <m:mi>C</m:mi>
+                         <m:msub>
+                            <m:mi>x</m:mi>
+                            <m:mi>C</m:mi>
+                         </m:msub>
+                      </m:msubsup>
+                      <m:msup>
+                         <m:mfenced close=")" open="(">
+                            <m:mrow>
+                               <m:mn>1</m:mn>
+                               <m:mo>&#8722;</m:mo>
+                               <m:msub>
+                                  <m:mi>&#952;</m:mi>
+                                  <m:mi>C</m:mi>
+                               </m:msub>
+                            </m:mrow>
+                         </m:mfenced>
+                         <m:mrow>
+                            <m:msub>
+                               <m:mi>n</m:mi>
+                               <m:mi>C</m:mi>
+                            </m:msub>
+                            <m:mo>&#8722;</m:mo>
+                            <m:msub>
+                               <m:mi>x</m:mi>
+                               <m:mi>C</m:mi>
+                            </m:msub>
+                         </m:mrow>
+                      </m:msup>
+                      <m:mi>d</m:mi>
+                      <m:msub>
+                         <m:mi>&#952;</m:mi>
+                         <m:mi>C</m:mi>
+                      </m:msub>
+                      <m:mi>d</m:mi>
+                      <m:msub>
+                         <m:mi>&#952;</m:mi>
+                         <m:mi>E</m:mi>
+                      </m:msub>
+                      <m:mtext>.</m:mtext>
+                   </m:math>
+                </display-formula></p>
+             <p>This value is compared to 0.979 in the final analysis. If the posterior probability that the success rate on the experimental arm, <it>&#952;</it>                    
+                <sub>
+                   <it>E</it> 
+                </sub>, is greater than the success rate on the control arm, <it>&#952;</it>                    
+                <sub>
+                   <it>C</it> 
+                </sub>, is greater than 0.979, the treatment will be considered successful,</p><p><display-formula>
+                   <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" name="s13063-015-0574-8-i5">
+                      <m:mo>Pr</m:mo>
+                      <m:mfenced close=")" open="(">
+                         <m:mrow>
+                            <m:msub>
+                               <m:mi mathvariant="normal">&#952;</m:mi>
+                               <m:mi mathvariant="normal">E</m:mi>
+                            </m:msub>
+                            <m:mo>&gt;</m:mo>
+                            <m:msub>
+                               <m:mi mathvariant="normal">&#952;</m:mi>
+                               <m:mi mathvariant="normal">C</m:mi>
+                            </m:msub>
+                            <m:mo stretchy="true">|</m:mo>
+                            <m:mspace width="0.25em"/>
+                            <m:mi mathvariant="normal">Trial</m:mi>
+                            <m:mspace width="0.25em"/>
+                            <m:mi mathvariant="normal">Data</m:mi>
+                         </m:mrow>
+                      </m:mfenced>
+                      <m:mspace width="0.25em"/>
+                      <m:mo>&gt;</m:mo>
+                      <m:mspace width="0.25em"/>
+                      <m:mn>0.979</m:mn>
+                      <m:mtext>.</m:mtext>
+                   </m:math>
+                </display-formula></p>
+             <p>The probability of 0.979 is similar to a one-sided critical value of 0.021 in a frequentist trial. This critical value for the final analysis was selected through simulation to control the one-sided Type I error rate of this trial, given the multiple interim analyses, to less than 0.025. SHINE&#8217;s two-sided 0.05 and the Goldilocks&#8217; one-sided 0.025 Type I error rates are equivalent. However, the overall Type I error was assessed for the Goldilocks design by simulation. The null space is defined both by the accrual rate and the response rates for both groups. Type I error control was shown by simulation only considering an accrual rate of 33 patients per month and for a response rate of 25% in both arms. The overall Type I error of the design may be larger or smaller at other points in the null space.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Longitudinal model and predictive probabilities</p>
+             </st>
+             <p>As described above, interim analyses for efficacy and futility are based on predictive probability calculations. Because of a lag between enrollment and when the primary endpoint is observed, at each interim analysis there will be patients who have complete information through 90&#160;days, more recently enrolled patients who may have only 6-week assessment of mRS, and the most recently enrolled patients who provide only baseline information. For the predictive probability calculations, we utilize the information from patients with incomplete information to the extent that the baseline and 6-week assessments are associated with the primary endpoint at 90&#160;days. Patients with complete information inform this association.</p>
+             <p>A Bayesian model is built to learn the associations between the earlier 6-week time point and the primary endpoint at 90&#160;days. For each arm, we use three beta-binomial distributions to model the transition:</p><p>1) from baseline to 90-days for patients with baseline information only,</p>
+                <p>2) from 6&#160;weeks to 90-days for patients who were a success at 6&#160;weeks, and</p>
+                <p>3) from 6&#160;weeks to 90-days for patients who were not a success at 6&#160;weeks.</p>
+             <p>Because the arms are modeled independently and identically, we present the longitudinal model generically without reference to treatment group. At each interim analysis with a total of <it>n</it> patients enrolled, the number of patients with complete follow-up through 90-days is <it>n</it>                    
+                <sub>
+                   <it>c</it> 
+                </sub>. The number of these patients who have achieved a success is <it>x</it> and the number of these patients who did not achieve success is <it>z</it>. The number of patients enrolled but who have incomplete information is <it>n</it>                    
+                <sup>
+                   <it>*</it> 
+                </sup>. Thus <it>n&#8201;=&#8201;n</it>                    
+                <sub>
+                   <it>c</it> 
+                </sub>&#8201;
+                             <it>+&#8201;n</it>                    
+                <sup>
+                   <it>*</it> 
+                </sup>&#8201;
+                             <it>=&#8201;x&#8201;+&#8201;z</it>&#8201;+&#8201;<it>n</it>                    
+                <sup>
+                   <it>*</it> 
+                </sup>.</p>
+             <p>For the <it>n</it>                    
+                <sup>
+                   <it>*</it> 
+                </sup> patients with incomplete information, they either 1) have no 6-week follow-up<it>, n</it>                    
+                <sup>
+                   <it>*</it> 
+                </sup>
+                    <sub>
+                   <it>0</it> 
+                </sub>, 2) have achieved success at 6&#160;weeks, <it>n</it>                    
+                <sup>
+                   <it>*</it> 
+                </sup>
+                    <sub>
+                   <it>+</it> 
+                </sub> or 3) have not achieved success at 6&#160;week, <it>n</it>                    
+                <sup>
+                   <it>*</it> 
+                </sup>
+                    <sub>
+                   <it>-.</it> 
+                </sub> For each of these three groups, we use a beta-binomial model to predict the number of these patients who will be a success on the primary 90-day endpoint. Given the currently observed <it>n</it>                    
+                <sub>
+                   <it>c</it> 
+                </sub> patients with complete data, the number of patients in each of the three incomplete information groups who will be a success on the primary endpoint is</p><p><display-formula>
+                   <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" name="s13063-015-0574-8-i6">
+                      <m:mtable columnalign="left">
+                         <m:mtr>
+                            <m:mtd>
+                               <m:msub>
+                                  <m:msup>
+                                     <m:mi>x</m:mi>
+                                     <m:mo>*</m:mo>
+                                  </m:msup>
+                                  <m:mn>0</m:mn>
+                               </m:msub>
+                               <m:mo>|</m:mo>
+                               <m:mspace width="0.25em"/>
+                               <m:mi mathvariant="normal">Current</m:mi>
+                               <m:mspace width="0.25em"/>
+                               <m:mi mathvariant="normal">Data</m:mi>
+                               <m:mspace width="0.25em"/>
+                               <m:mo>~</m:mo>
+                               <m:mspace width="0.25em"/>
+                               <m:mi mathvariant="normal">Beta</m:mi>
+                               <m:mo>&#8722;</m:mo>
+                               <m:mi mathvariant="normal">binomial</m:mi>
+                               <m:mfenced close=")" open="(">
+                                  <m:mrow>
+                                     <m:msub>
+                                        <m:msup>
+                                           <m:mi>n</m:mi>
+                                           <m:mo>*</m:mo>
+                                        </m:msup>
+                                        <m:mn>0</m:mn>
+                                     </m:msub>
+                                     <m:mo>,</m:mo>
+                                     <m:mspace width="0.25em"/>
+                                     <m:mn>1</m:mn>
+                                     <m:mspace width="0.25em"/>
+                                     <m:mo>+</m:mo>
+                                     <m:mspace width="0.25em"/>
+                                     <m:mi>x</m:mi>
+                                     <m:mo>,</m:mo>
+                                     <m:mspace width="0.25em"/>
+                                     <m:mn>1</m:mn>
+                                     <m:mspace width="0.25em"/>
+                                     <m:mo>+</m:mo>
+                                     <m:mspace width="0.25em"/>
+                                     <m:mi>z</m:mi>
+                                  </m:mrow>
+                               </m:mfenced>
+                            </m:mtd>
+                         </m:mtr>
+                         <m:mtr>
+                            <m:mtd>
+                               <m:msub>
+                                  <m:msup>
+                                     <m:mi>x</m:mi>
+                                     <m:mo>*</m:mo>
+                                  </m:msup>
+                                  <m:mo>+</m:mo>
+                               </m:msub>
+                               <m:mo>|</m:mo>
+                               <m:mspace width="0.25em"/>
+                               <m:mi mathvariant="normal">Current</m:mi>
+                               <m:mspace width="0.25em"/>
+                               <m:mi mathvariant="normal">Data</m:mi>
+                               <m:mspace width="0.25em"/>
+                               <m:mo>~</m:mo>
+                               <m:mspace width="0.25em"/>
+                               <m:mi mathvariant="normal">Beta</m:mi>
+                               <m:mo>&#8722;</m:mo>
+                               <m:mi mathvariant="normal">binomial</m:mi>
+                               <m:mfenced close=")" open="(">
+                                  <m:mrow>
+                                     <m:msub>
+                                        <m:msup>
+                                           <m:mi>n</m:mi>
+                                           <m:mo>*</m:mo>
+                                        </m:msup>
+                                        <m:mo>+</m:mo>
+                                     </m:msub>
+                                     <m:mo>,</m:mo>
+                                     <m:mspace width="0.25em"/>
+                                     <m:mn>1</m:mn>
+                                     <m:mspace width="0.25em"/>
+                                     <m:mo>+</m:mo>
+                                     <m:mspace width="0.25em"/>
+                                     <m:msub>
+                                        <m:mi>x</m:mi>
+                                        <m:mo>+</m:mo>
+                                     </m:msub>
+                                     <m:mo>,</m:mo>
+                                     <m:mspace width="0.25em"/>
+                                     <m:mn>1</m:mn>
+                                     <m:mspace width="0.25em"/>
+                                     <m:mo>+</m:mo>
+                                     <m:mspace width="0.25em"/>
+                                     <m:msub>
+                                        <m:mi>z</m:mi>
+                                        <m:mo>+</m:mo>
+                                     </m:msub>
+                                  </m:mrow>
+                               </m:mfenced>
+                            </m:mtd>
+                         </m:mtr>
+                         <m:mtr>
+                            <m:mtd>
+                               <m:msub>
+                                  <m:msup>
+                                     <m:mi>x</m:mi>
+                                     <m:mo>*</m:mo>
+                                  </m:msup>
+                                  <m:mo>&#8722;</m:mo>
+                               </m:msub>
+                               <m:mo stretchy="true">|</m:mo>
+                               <m:mspace width="0.25em"/>
+                               <m:mi mathvariant="normal">Current</m:mi>
+                               <m:mspace width="0.25em"/>
+                               <m:mi mathvariant="normal">Data</m:mi>
+                               <m:mspace width="0.25em"/>
+                               <m:mo>~</m:mo>
+                               <m:mspace width="0.25em"/>
+                               <m:mi mathvariant="normal">Beta</m:mi>
+                               <m:mo>&#8722;</m:mo>
+                               <m:mi mathvariant="normal">binomial</m:mi>
+                               <m:mfenced close=")" open="(">
+                                  <m:mrow>
+                                     <m:msub>
+                                        <m:msup>
+                                           <m:mi>n</m:mi>
+                                           <m:mo>*</m:mo>
+                                        </m:msup>
+                                        <m:mo>&#8722;</m:mo>
+                                     </m:msub>
+                                     <m:mo>,</m:mo>
+                                     <m:mspace width="0.25em"/>
+                                     <m:mn>1</m:mn>
+                                     <m:mspace width="0.25em"/>
+                                     <m:mo>+</m:mo>
+                                     <m:mspace width="0.25em"/>
+                                     <m:msub>
+                                        <m:mi mathvariant="normal">x</m:mi>
+                                        <m:mo>&#8722;</m:mo>
+                                     </m:msub>
+                                     <m:mo>,</m:mo>
+                                     <m:mspace width="0.25em"/>
+                                     <m:mn>1</m:mn>
+                                     <m:mspace width="0.25em"/>
+                                     <m:mo>+</m:mo>
+                                     <m:mspace width="0.25em"/>
+                                     <m:msub>
+                                        <m:mi>z</m:mi>
+                                        <m:mo>&#8722;</m:mo>
+                                     </m:msub>
+                                  </m:mrow>
+                               </m:mfenced>
+                            </m:mtd>
+                         </m:mtr>
+                      </m:mtable>
+                   </m:math>
+                </display-formula></p>
+             <p>where x and z are the number of patients who are 90-day successes and failures, respectively; <it>x</it>                    
+                <sub>
+                   <it>+</it> 
+                </sub> and <it>z</it>                    
+                <sub>
+                   <it>+</it> 
+                </sub> are the number of patients who were 6-week successes who were successes (<it>x</it>                    
+                <sub>
+                   <it>+</it> 
+                </sub>) and failures (<it>z</it>                    
+                <sub>
+                   <it>+</it> 
+                </sub>) at 90-days, respectively; and <it>x</it>                    
+                <sub>
+                   <it>&#8722;</it> 
+                </sub> and <it>z</it>                    
+                <sub>
+                   <it>&#8722;</it> 
+                </sub> are the number of patients who were not 6-week successes who were successes (<it>x</it>                    
+                <sub>
+                   <it>&#8722;</it> 
+                </sub>) and failures (<it>z</it>                    
+                <sub>
+                   <it>&#8722;</it> 
+                </sub>) at 90-days.</p>
+             <p>For each value of <it>x</it>                    
+                <sup>
+                   <it>*</it> 
+                </sup>
+                    <sub>
+                   <it>0</it> 
+                </sub>
+                    <it>, x</it>                    
+                <sup>
+                   <it>*</it> 
+                </sup>
+                    <sub>
+                   <it>+</it> 
+                </sub>
+                    <it>, x</it>                    
+                <sup>
+                   <it>*</it> 
+                </sup>
+                    <sub>
+                   <it>&#8722;</it> 
+                </sub>
+                    <it>,</it> there is an associated probability based upon the described distributions, and correspondingly, there is an associated probability for every possible number of total successes if all patients were to complete follow-up.</p>
+             <p>For each pair of possible total successes between the experimental and control group, we can determine if that combination would result in a success on the primary efficacy analysis, whether Pr(<it>&#952;</it>                    
+                <sub>
+                   <it>E</it> 
+                </sub>&#8201;&gt;&#8201;<it>&#952;</it>                    
+                <sub>
+                   <it>C</it> 
+                </sub> &gt;0.979). Summing the probabilities for the cases that would result in trial success is the predictive probability of trial success for the currently enrolled patients.</p>
+             <p>For the predictive probability of success at the maximum sample size, we perform a similar calculation but assume the trial continues enrollment to the maximum sample size of 1,400 patients. However, this requires calculation of the predictive distribution of success for patients not yet enrolled. These future patients are included in the predictive probability calculation described above as patients that have only a baseline assessment (no available interim data).</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Results</p>
+          </st>
+          <p>Table&#160;<tblr tid="T2">2</tblr> summarizes the differences between the two designs. Both designs are innovative and complex, and both offer many features that help address the primary objective of the trial. There is little common ground for a head-to-head comparison, except to explore how each design behaves in terms of power and mean sample size across a range of scenarios.
+                </p>
+          
+             <table id="T2">
+                <title>
+                   <p>Table 2</p>
+                </title>
+                <caption>
+                   <p>
+                          <b>Summary of design features for SHINE and the Goldilocks alternative</b>                        
+                   </p>
+                </caption>
+                <tgroup align="left" cols="3">
+                   <colspec align="left" colname="c1" colnum="1" colwidth="*"/>
+                   <colspec align="left" colname="c2" colnum="2" colwidth="*"/>
+                   <colspec align="left" colname="c3" colnum="3" colwidth="*"/>
+                   <thead>
+                      <row rowsep="1" valign="top">
+                         <entry colname="c1"/>
+                         <entry colname="c2">
+                            <p>
+                              <b>SHINE</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>
+                              <b>Goldilocks</b>                            
+                            </p>
+                         </entry>
+                      </row>
+                   </thead>
+                   <tbody>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Hypothesis testing</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Two-sided</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>One sided</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Primary analysis</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Covariate adjusted</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>Unadjusted</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Randomization</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Response adaptive</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>1:1</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Minimum sample size</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Approx 600</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>Fixed at 500</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Maximum sample size</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Between 1,400 and 1,718</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>Fixed at 1,400</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Planned interim analyses</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>4</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>9</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Stopping boundaries</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Group sequential</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>Predictive probabilities, incorporating early information</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Complete follow-up of all patients in event of early termination</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Undefined critical value</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>Explicitly defined critical value</p>
+                         </entry>
+                      </row>
+                   </tbody>
+                </tgroup>
+             </table>
+          
+          <p>To determine the operating characteristics of each design, we simulated both the SHINE design and the Goldilocks design across a range of treatment effects and a range of success rates for the control group. The SHINE design was simulated including the group sequential stopping boundaries, the sample size re-estimation, and using a chi-square test between treatment groups as the primary analysis (consistent with the primary power calculation). The response adaptive randomization component of the design was not included in order to preserve the operational integrity of the trial. The Goldilocks design was simulated exactly as described above. Simulation code was written in the R statistical language <abbrgrp>
+                <abbr bid="B10">10</abbr>
+             </abbrgrp> and 10,000 trials were simulated for each scenario. All simulations assume no lost to follow-up, and an accrual rate of 33 patients per month. Thus, at each interim analysis there are approximately 100 patients enrolled but without complete follow-up through 90&#160;days. The nature of the longitudinal data necessary for simulation of the Goldilocks design was estimated based on the transitions in mRS observed within the raw data from the NINDS tPA trial including both the tPA and control groups since SHINE includes both <abbrgrp>
+                <abbr bid="B11">11</abbr>
+             </abbrgrp>.</p>
+          <sec>
+             <st>
+                <p>Sample size</p>
+             </st>
+             <p>The left panel of Figure&#160;<figr fid="F1">1</figr> shows the total mean number of patients enrolled for the two designs. Generally, when the treatment effects are null or small, both designs stop early for futility and when the treatment effects are large, both designs stop early for success. Thus, sample sizes are smaller at each end of the treatment effect range than in the middle.
+                  </p>
+             
+                <fig id="F1">
+                   <title>
+                      <p>Figure 1</p>
+                   </title>
+                   <caption>
+                      <p>Mean total sample size enrolled (left panel) and probability of trial success (right panel). </p>
+                   </caption>
+                   <text>
+                      <p>
+                            <b>Mean total sample size enrolled (left panel) and probability of trial success (right panel).</b> SHINE is plotted with a circle and the Goldilocks is plotted with an x. Heavy line represents a control success rate of 25%, medium line represents a control success rate of 30%, and light line represents a control rate of 35%. Dashed line on the right panel shows 80% power for reference.</p>
+                   </text>
+                   <graphic file="s13063-015-0574-8-1"/>
+                </fig>
+             
+             <p>Across all simulated scenarios, the SHINE design tends to enroll a greater number of patients than the Goldilocks design. The difference in sample size between the two designs is attributable to a different number of interim analyses, different mechanisms for early stopping, differing aggressiveness of the stopping boundaries, and that SHINE is based on a two-sided alternative hypothesis while the Goldilocks design is based on a one-sided alternative hypothesis.</p>
+             <p>The SHINE design includes four interim analyses and the Goldilocks design includes nine. With more interim analyses, the Goldilocks design has more opportunities to stop early. Additionally, the two designs have different mechanisms for early stopping and differently account for complete follow-up of all enrolled patients should the trial stop early. Early stopping for the SHINE design is based on the information fraction, or the number of patients with observed 90-day outcomes. It stops early only when observed 90-day data produces an overwhelming effect for efficacy or futility. For example, when 1,000 patients are enrolled, we expect that 900 patients will have complete data. The trial will stop for efficacy if, based on these 900 patients, the <it>P</it> value is less than 0.008 (Table&#160;<tblr tid="T1">1</tblr>) and the trial is considered a success. There is no defined critical value for a later analysis that might include the 100 outstanding patients once they have completed follow-up.</p>
+             <p>Early stopping in the Goldilocks design is based on the number of patients enrolled and allows for complete follow-up of all enrolled patients. Thus, the Goldilocks design is able to have more aggressive early stopping behavior, stopping accrual and then allowing for the additional follow-up of enrolled patients in order to observe the necessary information for success, whereas the SHINE design stops only once the necessary information for success is already observed. The Goldilocks design might stop when 900 patients are enrolled, and 800 patients have complete data, as long as there is a high probability that including the outstanding 100 patients in the final analysis (many of whom have interim 6-week mRS values) would result in trial success. In the Goldilocks design, all enrolled patients are explicitly included in the final analysis.</p>
+             <p>The difference in expected sample size is largest when the control is only slightly better than the experimental arm. The alternative hypothesis for the SHINE design is two-sided, but is one-sided for the Goldilocks design. This contributes to different stopping behavior when the control arm is only slightly better than the treatment. In these scenarios, the Goldilocks design stops early for futility, reacting to the fact that it is unlikely the experimental treatment will be proven to be superior to the control. The SHINE design continues in these scenarios, not crossing a futility boundary (the treatments are the same), and not seeing a large enough treatment effect to cross a success boundary (the control is significantly better than the experimental).</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Probability of trial success</p>
+             </st>
+             <p>The right panel of Figure&#160;<figr fid="F1">1</figr> shows the probability of trial success for the two designs. When the treatment effect is null, SHINE has an analytically controlled two-sided overall Type I error rate of 5% and the Goldilocks design has a simulated one-sided Type I error rate of approximately 2.5%. We present only one null scenario, and the Type I error rate for the Goldilocks design may vary across the null space. When the treatment arm is slightly worse than control, the SHINE design may conclude success of control over treatment, whereas the Goldilocks design cannot. Thus, the SHINE design has a higher probability of trial success in these scenarios.</p>
+             <p>When the control rate is 25%, the probability of success in scenarios where the treatment is better than control is similar between the two designs. As the control rate increases, a small amount of power is lost in the Goldilocks design. The Goldilocks design loses approximately 2% power when the control rate increases from 25% to 30%, and approximately another 2% power when the control rate increases from 30% to 35%.</p>
+             <p>The SHINE design includes a sample size re-estimation to preserve power if the control rate is higher than expected. Thus, as the control rate increases, the power of the design is unchanged. However, the mean sample size increases (left panel Figure&#160;<figr fid="F1">1</figr>). In the most extreme case, the Data Safety and Monitoring Board (DSMB) could be asked to increase the sample size from 1,400 to 1,718 patients. Figure&#160;<figr fid="F2">2</figr> shows the probability that the SHINE maximum sample size is increased and the mean number of patients added. The size of the sample size re-estimation is proportional to the pooled success rate and so depends on both the control success rate and the treatment effect. Because the sample size re-estimation is blinded it is not possible to diagnose whether a high pooled event rate is due to a higher than expected control rate, or to a larger than expected treatment effect. In fact, because the treatment effect is fixed at 7% in the sample size re-estimation procedure, a high pooled event rate is always attributed to a higher than expected control rate. As a result, even when the true control rate is 25%, a large treatment effect can trigger a sample size increase and the larger the treatment effect, the larger the increase to the maximum sample size. However, with a large treatment effect, the trial is then also likely to stop early for success. The trial&#8217;s mean sample size does not increase by exactly the number of patients added to the maximum sample size because of this potential for early success stopping. However, the potential delay to the first interim look may translate to an increase in the mean sample size.
+                  </p>
+             
+                <fig id="F2">
+                   <title>
+                      <p>Figure 2</p>
+                   </title>
+                   <caption>
+                      <p>Probability of increasing the maximum sample size (left panel) and mean number of patients added (right panel). </p>
+                   </caption>
+                   <text>
+                      <p>
+                            <b>Probability of increasing the maximum sample size (left panel) and mean number of patients added (right panel).</b> SHINE is plotted with a circle (Goldilocks design does not include sample size re-estimation). Heavy line represents a control success rate of 25%, medium line represents a control success rate of 30%, and light line represents a control rate of 35%.</p>
+                   </text>
+                   <graphic file="s13063-015-0574-8-2"/>
+                </fig>
+             
+          </sec>
+          <sec>
+             <st>
+                <p>Compare and contrast</p>
+             </st>
+             <p>The strengths of the SHINE design include the sample size re-estimation and the covariate adjusted final analysis. SHINE has analytical control of overall Type I error, and as simulated, the SHINE design offers a slight advantage in terms of power. Covariates were not included in the simulation study, but a covariate adjusted primary analysis is likely to increase the trial&#8217;s overall power from what was simulated. With fewer interim analyses, there is also less operational complexity. However, the adaptive randomization component was not included in the simulations. This type of randomization scheme has the potential to increase operational complexity and reduce power. While response adaptive randomization would likely randomize more patients to the more effective therapy, the power of the trial could be reduced because in a two-arm trial, equal allocation between arms should provide maximum power.</p>
+             <p>The strengths of the Goldilocks design include more frequent interim analyses, the longitudinal model of the primary outcome, and explicitly accounting for patients with incomplete follow-up if accrual to the trial where to stop early. The Goldilocks design offers advantages in terms of sample size. If accrual to the trial is faster than expected, the difference in sample size between the two designs will be greater than described here. If accrual to the trial is slower than expected, the difference in sample size will be smaller. Accrual to clinical trials is frequently slower than expected. While the Goldilocks design randomizes patients equally to the two treatment arms, an increased potential to stop the trial earlier would allow results to be communicated earlier and would allow patients outside the trial to be treated with the more effective therapy sooner.</p>
+             <p>The comparison of operating characteristics should be interpreted with caution bearing in mind the many differences between the two designs (Table&#160;<tblr tid="T2">2</tblr>), in particular the differences in the stopping boundaries and the limitations of the simulation study, specifically that covariates and the adaptive randomization component of the SHINE design were not included. The operating characteristics of the Goldilocks design, in particular Type I error control, are assessed with simulation and so the Type I error rates of the two designs may not be exactly equal across the entire null space. While we see that the SHINE design offers advantages in terms of power and that the Goldilocks offers advantages in terms of sample size, we expect that a greater sample size would confer greater power. The largest difference in power we observed in the simulations was when the control rate was 35% and the treatment rate was 41%. In this scenario SHINE has 9.5% more power (58.6% versus 68.1%) and enrolls an average of 308 additional patients.</p>
+             <p>None of the simulated scenarios showed a similar sample size between the two designs, the Goldilocks design always had a smaller mean sample size. In the primary expected scenario of 32% vs. 25%, both designs are tuned to have approximately 80% power, and the average sample size in SHINE is 135 patients higher than in the Goldilocks design (1,114 vs. 979). For similar powers the Goldilocks trial saves at least 100 patients, oftentimes more. When the difference between arms is very small, only 2%, the two designs have similar power, approximately 12%, regardless of the control rate. The SHINE design averages 273, 322, and 429 more patients at control rates of 25%, 30%, and 35%, respectively. When the treatment effect is large, 10%, SHINE has an additional 1 to 3% power, but averages and additional 139, 178, and 213 patients at control rates of 25%, 30%, and 35%, respectively.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Trial execution</p>
+             </st>
+             <p>SHINE is currently ongoing. The Goldilocks design will be virtually executed upon completion of SHINE using the observed patient data from SHINE. The purpose of this virtual trial execution is to determine the resources used and resulting evidence for the comparison of the experimental versus control arms had SHINE been conducted according to the Goldilocks design. The outcomes of the two trial executions can be compared in terms of final trial conclusions, total number of patients enrolled, number of patients enrolled to the most effective treatment arm, and trial duration.</p>
+             <p>This exercise will require datasets that provide snapshots of the accumulated data from SHINE to conduct each of the planned interim analyses and the final analysis. The trial&#8217;s data coordinating center has agreed to provide these snap shots and store these blinded datasets until the SHINE results are released. If SHINE stops accrual early, but the Goldilocks design indicates continuing enrollment, patients for the future interim analyses for the Goldilocks design will be simulated by re-sampling the observed SHINE patients. We emphasize that we have a prospectively defined design and execution plan. Limitations in the re-execution approach will be assessed and reported at the time the re-execution is performed.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Discussion</p>
+          </st>
+          <p>The original SHINE design presented within ADAPT-IT included response adaptive randomization and had one futility analysis (700 patients with complete data, 50% information) and one early success stopping analysis (938 patients with complete data, 67% information). As the work within ADAPT-IT progressed, the potential benefits of additional interim analyses were discussed. The number of interim analyses for SHINE was re-evaluated and the design was updated to the four interim analyses for early stopping as described here. The Goldilocks design was then finalized. External to the ADAPT-IT process, a sample size re-estimation was then added to the SHINE design and the simulation exercise presented here was then performed. Certainly, the two designs could continue to be iterated to be more similar or pieces of one design could be included in the other. For example, the Goldilocks design could allow a larger sample size and a covariate adjusted final analysis, which are strengths in the SHINE trial design. The SHINE design could have more frequent interim analyses or account for patients with incomplete follow-up when the study stops, which are strengths in the Goldilocks design. However, we present the Goldilocks design as it was developed at the time and we present the SHINE design as it is being conducted.</p>
+          <p>The SHINE investigators were tasked with choosing only a single design to implement and ultimately elected not to implement the Goldilocks alternative. A main aspect for consideration was the potential for formal &#8216;flip-flop&#8217;. The Goldilocks design stops accrual for predicted success if the probability for success with the currently enrolled patients, allowing for the outstanding (approximately) 100 patients to reach their 90-day endpoint, is greater than 99%. There is a small chance that the trial could stop for predicted success, complete follow-up of the enrolled patients, and then at the final analysis, miss the 0.979 posterior probability threshold required for trial success. For example, in the scenario where the experimental treatment offers a 7% absolute benefit, the trial stopped early for predicted success 62% of the time and in 0.5% of those cases, failed to obtain the final critical value for success. Most likely, if such a flip-flop occurs, the experimental treatment is not effective. While such flip-flops occur in 0.5% of early stopping cases when the treatment is effective (+7%) they occurred in 6% of cases when the treatment is ineffective - largely because of regression to the mean in those cases and this in fact helps to conserve Type I error. Even if this were to occur, the final <it>P</it> value would likely still be just a little larger than the critical value.</p>
+          <p>It is important to recognize that this potential exists in a group sequential design as well. While such an occurrence is similarly unlikely, it is not well characterized or formally accounted for. Stopping based on predictive probabilities explicitly accounts for complete follow-up of all enrolled patients and so it is natural to quantify the &#8216;flip-flop&#8217;. Group sequential stopping is typically based on the amount of information observed and while methods exist to account for &#8216;overrun&#8217; <abbrgrp>
+                <abbr bid="B12">12</abbr>
+             </abbrgrp>, the typical implementation of group sequential designs does not dictate how to handle patients with incomplete information should the trial stop early. These designs typically do not include a formal analysis on all enrolled patients and so do not specify the critical value needed for such an analysis. Our simulations of the SHINE design show that in this case such an analysis would likely not meet the <it>P</it> value that was required for early stopping, simply due to regression to the mean, but is likely to meet the <it>P</it> value required for success at the end of the trial with complete information (data not shown).</p>
+          <p>A second consideration for the SHINE investigators surrounding the Goldilocks design was a wholesale change of the design after it had already been through the NIH peer review process and had been selected for funding. Additionally, there was concern from the SHINE PI about whether the design and final analysis would be accepted by the clinical community given the small number phase III trials that have utilized a Bayesian approach.</p>
+          <p>One of the larger differences between the two designs is that SHINE is a two-sided alternative hypothesis while the Goldilocks design is one-sided. Although the error rates are similar, differences in sample size and power between the two designs are confounded with this difference in hypothesis testing in the setting where the standard of care arm is slightly better than the tight control arm. While two-sided trials are standard, and hence the choice for the SHINE investigators, the Goldilocks design considers it unlikely that a DSMB would let a trial proceed only to show that an expensive, more laborious therapy is in fact significantly inferior to the standard of care. However, the clinical community is currently quite divided on the utility of intensive glucose control in stroke and both the SHINE and the NETT leadership believe that the greatest opportunity for SHINE to leave stroke physicians with a definitive answer is through the two-sided design. Certainly, there are many stroke physicians who would be satisfied with the one-sided hypothesis tested by the Goldilocks design, yet there is a concern that practice will not be changed unless there is a definitive answer in favor of one treatment or the other. Of course, even the two-sided design may end in the null space; given the additional resources required to perform the intense glucose controls it is likely that most would abandon this treatment.</p>
+          <p>The primary lesson learned in the ADAPT-IT design process for SHINE was about the value of trial simulation. Trial simulation may typically be associated Bayesian designs or with more complex adaptive designs, such as where a close form solution for Type I error and power are not available. In the ADAPT-IT design process, clinical trial simulation illuminated several points of discussion with both designs. Clinical trial simulation of the Goldilocks design was necessary to understand its early stopping behavior and the potential for &#8216;flip-flop&#8217;. A remedy for &#8216;flip-flop&#8217; is to increase the threshold required for early stopping, which was done during the design process, but this will decrease the probability of early stopping and increase mean sample size. Such trade-offs can only be assessed through the process of clinical trial simulation. Trial simulation also illuminated the differences in trial behavior due to two-sided versus one-sided hypothesis testing for the investigators and initiated the discussion about which test would ultimately be used in the conduct of the trial.</p>
+          <p>Finally, the SHINE design includes two &#8216;well understood&#8217; <abbrgrp>
+                <abbr bid="B13">13</abbr>
+             </abbrgrp> adaptive trial features that are commonly used in phase III trials: a blinded sample size re-estimation and group sequential stopping boundaries. While the statistical properties of each are completely understood separately, combining two well-understood design features does not add up to a well-understood design. For example, when the experimental therapy is performing better than control, the sample size may be increased due to the sample size re-estimation and the first interim analysis will be delayed. The trial may stop for success, though with additional patients and more time than it might require otherwise. Given that the experimental therapy is performing well, the additional patients and time could be undesirable. On the other hand, the delay could be considered small and worth the protection of power that the sample size re-estimation provides. Even with the simulation exercise presented here, the SHINE design is still not completely characterized because covariates and the adaptive randomization component are not included.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Conclusions</p>
+          </st>
+          <p>The goal of this project was to illustrate two alternative real-world designs, the two primary designs considered for a multi-center NIH-funded randomized clinical trial. Because they are two real-world designs, simple head-to-head comparisons changing one feature at a time are not possible and the alternative trials must be judged on the totality of their operating characteristics.</p>
+          <p>The consideration of alternative trial designs was a successful venture in that two designs were brought forward, and both were evaluated, revised, and improved based on the input of all parties involved in the ADAPT-IT process. Simulation of an entire design as it will be conducted was necessary to evaluate the selected design features in concert with each other and to inform the study team of the gains/losses associated with various design choices. Trial simulation should not be reserved for only complex adaptive designs. Rather, all trialists should consider trial simulation an important tool for developing a complete understanding of the statistical properties of their trial design <abbrgrp>
+                <abbr bid="B14">14</abbr>
+             </abbrgrp>.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Abbreviations</p>
+          </st>
+          <p>ADAPT-IT: Adaptive Designs Accelerating Promising Trials into Treatments</p>
+          <p>DSMB: Data safety and monitoring board</p>
+          <p>FDA: Food and Drug Administration</p>
+          <p>IV: Intravenous</p>
+          <p>IRB: Institutional review board</p>
+          <p>mRS: Modified Rankin Score</p>
+          <p>NETT: Neurologic emergencies treatment trials</p>
+          <p>NIH: National Institutes of Health</p>
+          <p>NIHSS: NIH Stroke Scale</p>
+          <p>NINDS: National Institute of Neurologic Disorders and Stroke</p>
+          <p>SHINE: The Stroke Hyperglycemia Insulin Network Effort</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Competing interests</p>
+          </st>
+          <p>The authors declare that they have no competing interests.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Authors&#8217; contributions</p>
+          </st>
+          <p>JT, KB, WM, VD, and KJ participated in the design and simulation of the two trials presented and helped to draft the manuscript. All authors read and approved the final manuscript.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Authors&#8217; information</p>
+          </st>
+          <p>Dr. Johnston is the PI of the SHINE Trial.</p>
+          <p>Dr. Durkalski coordinates the trial from the NETT Data Coordinating Center.</p>
+          <p>Dr Connor and Ms Broglio are employees of Berry Consultants LLC, a company that designs adaptive clinical trials for pharmaceutical and medical device companies and National Institutes of Health cooperative groups.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Appendix</p>
+          </st>
+          <p>The following list contains the ethics boards or institutional review boards that approved the SHINE study at each participating clinical site in the Neurological Emergency Treatment Trials Network (Table&#160;<tblr tid="T3">3</tblr>).
+                  </p>
+          
+             <table id="T3">
+                <title>
+                   <p>Table 3</p>
+                </title>
+                <caption>
+                   <p>
+                            <b>Ethical body at each enrolling site</b>                          
+                   </p>
+                </caption>
+                <tgroup align="left" cols="2">
+                   <colspec align="left" colname="c1" colnum="1" colwidth="*"/>
+                   <colspec align="left" colname="c2" colnum="2" colwidth="*"/>
+                   <thead>
+                      <row rowsep="1" valign="top">
+                         <entry colname="c1">
+                            <p>
+                                <b>Spoke</b>                              
+                            </p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>
+                                <b>IRB name</b>                              
+                            </p>
+                         </entry>
+                      </row>
+                   </thead>
+                   <tbody>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>University of Arizona Medical Center - University Campus, Tucson, AZ</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>University of Arizona Human Subjects Protection Program IRB</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>University of Arizona Medical Center - South Campus, Tucson, AZ</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>University of Arizona Human Subjects Protection Program IRB</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>University of Cincinnati Medical Center, Cincinnati, OH</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>University of Cincinnati Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Emory University Hospital, Atlanta, GA</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Emory University Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Emory University Hospital Midtown, Atlanta, GA</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Emory University Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Grady Memorial Hospital, Atlanta, GA</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Emory University Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>University of Michigan Medical Center, Ann Arbor, MI</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>University of Michigan IRBMED</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Henry Ford Hospital, Detroit, MI</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Henry Ford Health System Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>University of Kentucky Hospital, Lexington, KY</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>University of Kentucky Medical Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>University of Maryland Medical Center, Baltimore, MD</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>University of Maryland, Baltimore (UMB) Institutional Review Board (IRB)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Massachusetts General Hospital</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Partners Human Research Committee</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Hennepin County Medical Center, Minneapolis, MN</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Hennepin County Medical Center Human Subjects Research Review Committee</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>University of Kansas Hospital, Kansas City, KS</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Kansas University Medical Center Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>University of Minnesota Medical Center Fairview, Minneapolis, MN</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>University of Minnesota Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>NYP Columbia University Medical Center, New York, NY</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Columbia University Medical Center Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>OSU Wexner Medical Center, Columbus, OH</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Biomedical Sciences Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Summa Akron City Hospital, Akron, OH</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Summa Health System Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Harborview Medical Center, Seattle, WA</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>University of Washington Human Subjects Division Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>UPMC Presbyterian Hospital, Pittsburgh, PA</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>University of Pittsburgh Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>UPMC Mercy Hospital, Pittsburgh, PA</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>University of Pittsburgh Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>NYP Weill Cornell Medical Center, New York, NY</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Weill Cornell Medical College Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>WVU Healthcare Ruby Memorial Hospital, Morgantown, WV</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>West Virginia University Institutional Review Board (IRB)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Buffalo General Medical Center, Buffalo, NY</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>SUNY University at Buffalo Health Sciences IRB (HSIRB)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Northwestern University</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Northwestern University Biomedical IRB</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>UT Southwestern - Parkland Hospital</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>UT Southwestern Institutional Review Board (IRB)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>UT Southwestern University Hospital-Zale Lipshy, Dallas, TX</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>UT Southwestern Institutional Review Board (IRB)</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Baylor College of Medicine, Houston, TX</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Baylor College of Medicine Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Vanderbilt University Medical Center</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Vanderbilt University Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>St. Thomas Hospital, Nashville, TN</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Sterling Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>UVA Medical Center, Charlottesville, VA</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>University of Virginia Institutional Review Board for Health Sciences Research</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>OSF Saint Francis Medical Center</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>University of Illinois College of Medicine at Peoria Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Penn State Hershey Medical Center, Hershey, PA</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Penn State Hershey College of Medicine Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Georgia Regents Medical Center, Augusta, GA</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Georgia Regents University Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>University of Utah Healthcare, Salt Lake City, UT</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>University of Utah Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Mayo Clinic, Jacksonville, FL</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Mayo Clinic Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Stanford University Medical Center, Stanford, CA</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Stanford University Human Subjects Committee IRB</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>SUNY Downstate</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Biomedical Research Alliance of New York (BRANY) Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Kings County Hospital</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Biomedical Research Alliance of New York (BRANY) Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Lincoln Medical and Mental Health Center, Bronx, NY</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Biomedical Research Alliance of New York (BRANY) Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Maimonides Medical Center</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Biomedical Research Alliance of New York (BRANY) Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Allegheny General Hospital</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Allegheny Singer Research Institute Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Thomas Jefferson University Hospital, Philadelphia, PA</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Thomas Jefferson University Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Hackensack University Medical Center, Hackensack, NJ</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Hackensack UMC Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Temple University Hospital, Philadelphia, PA</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Temple University Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>University Medical Center Brackenridge, Austin, TX</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Seton Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Seton Medical Center, Austin, TX</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Seton Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Valley Baptist Medical Center - Harlingen, Harlingen, TX</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Valley Baptist Medical Center Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Memorial Hermann Texas Medical Center, Houston, TX</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>UT Health Committee for the Protection of Human Subjects</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Long Beach Memorial Medical Center, Long Beach, CA</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Memorialcare Health System Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Ronald Reagan UCLA Medical Center, Los Angeles, CA</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>University of California Los Angeles Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>San Francisco General Hospital, San Francisco, CA</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>University of California at San Francisco Committee on Human Research</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>UCSF Medical Center, San Francisco, CA</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>University of California at San Francisco Committee on Human Research</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>California Pacific Medical Center Pacific Campus, San Francisco, CA</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Sutter Health Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>California Pacific Medical Center Davies Campus, San Francisco, CA</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Sutter Health Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Hospital of the University of Pennsylvania, Philadelphia, PA</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>University of Pennsylvania Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>WellSpan York Hospital, York, PA</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>WellSpan Health Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Abington Memorial Hospital, Abington, PA</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Abington Memorial Hospital Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>VCU Medical Center, Richmond, VA</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Virginia Commonwealth University Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Detroit Receiving Hospital, Detroit, MI</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Wayne State University Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Sinai-Grace Hospital, Detroit, MI</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Wayne State University Institutional Review Board</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>William Beaumont Hospital-Troy, Troy, MI</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Beaumont Research Institute Human Investigation Committee</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>William Beaumont Hospital, Royal Oak, MI</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Beaumont Research Institute Human Investigation Committee</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Froedtert Memorial Lutheran Hospital, Milwaukee, WI</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>Medical College of Wisconsin Institutional Review Board</p>
+                         </entry>
+                      </row>
+                   </tbody>
+                </tgroup>
+             </table>
+          
+       </sec>
+    </bdy>
+    <bm>
+       <ack>
+          <sec>
+             <st>
+                <p>Acknowledgements</p>
+             </st>
+             <p>On behalf of the ADAPT-IT and SHINE investigators. The SHINE trial is funded by an NIH/NINDS grant U01-NS069498. The ADAPT-IT project was supported jointly by the NIH Common Fund and the FDA, with funding administered by the National Institutes of Neurological Disorders and Stroke (NINDS) (U01NS073476). The NETT Network Clinical Coordinating Center (U01NS056975) and Statistical and Data Management Center (U01NS059041) are funded by the NINDS.</p>
+          </sec>
+       </ack>
+       <refgrp>
+          
+          <bibl id="B1">
+             <note>NIH and FDA announce awards to advance regulatory science. [<url>http://www.nih.gov/news/health/sep2010/od-27.htm</url>]</note>
+          </bibl>
+          <bibl id="B2">
+             <title>
+                <p>An overview of the adaptive designs accelerating promising trials into treatments (ADAPT-IT) project</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Meurer</snm>
+                   <fnm>WJ</fnm>
+                </au>
+                <au>
+                   <snm>Lewis</snm>
+                   <fnm>RJ</fnm>
+                </au>
+                <au>
+                   <snm>Tagle</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Fetters</snm>
+                   <fnm>MD</fnm>
+                </au>
+                <au>
+                   <snm>Legocki</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Berry</snm>
+                   <fnm>S</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Ann Emerg Med</source>
+             <pubdate>2012</pubdate>
+             <volume>60</volume>
+             <fpage>451</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.annemergmed.2012.01.020</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22424650</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B3">
+             <note>NETT Neurological Emergency Treatment Trials [<url>http://nett.umich.edu/nett/welcome</url>]</note>
+          </bibl>
+          <bibl id="B4">
+             <title>
+                <p>Not too big, not too small: a goldilocks approach to sample size selection</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Broglio</snm>
+                   <fnm>KR</fnm>
+                </au>
+                <au>
+                   <snm>Connor</snm>
+                   <fnm>JT</fnm>
+                </au>
+                <au>
+                   <snm>Berry</snm>
+                   <fnm>SM</fnm>
+                </au>
+             </aug>
+             <source>J Biopharm Stat</source>
+             <pubdate>2014</pubdate>
+             <volume>24</volume>
+             <fpage>685</fpage>
+             <lpage>705</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1080/10543406.2014.888569</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24697532</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B5">
+             <title>
+                <p>Influence of adaptive analysis on unnecessary patient recruitment: reanalysis of the RATPAC trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Sutton</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Julious</snm>
+                   <fnm>SA</fnm>
+                </au>
+                <au>
+                   <snm>Goodacre</snm>
+                   <fnm>SW</fnm>
+                </au>
+             </aug>
+             <source>Ann Emerg Med.</source>
+             <pubdate>2012</pubdate>
+             <volume>60</volume>
+             <fpage>442</fpage>
+             <lpage>8</lpage>
+             <note> e1</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.annemergmed.2012.03.032</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22632776</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B6">
+             <title>
+                <p>Do Bayesian adaptive trials offer advantages for comparative effectiveness research? Protocol for the RE-ADAPT study</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Connor</snm>
+                   <fnm>JT</fnm>
+                </au>
+                <au>
+                   <snm>Luce</snm>
+                   <fnm>BR</fnm>
+                </au>
+                <au>
+                   <snm>Broglio</snm>
+                   <fnm>KR</fnm>
+                </au>
+                <au>
+                   <snm>Ishak</snm>
+                   <fnm>KJ</fnm>
+                </au>
+                <au>
+                   <snm>Mullins</snm>
+                   <fnm>CD</fnm>
+                </au>
+                <au>
+                   <snm>Vanness</snm>
+                   <fnm>DJ</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Clin Trials</source>
+             <pubdate>2013</pubdate>
+             <volume>10</volume>
+             <fpage>807</fpage>
+             <lpage>27</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1177/1740774513497293</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23983160</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B7">
+             <title>
+                <p>The Stroke Hyperglycemia Insulin Network Effort (SHINE) trial protocol: a randomized, blinded, efficacy trial of standard vs. intensive hyperglycemia management in acute stroke</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bruno</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Durkalski</snm>
+                   <fnm>VL</fnm>
+                </au>
+                <au>
+                   <snm>Hall</snm>
+                   <fnm>CE</fnm>
+                </au>
+                <au>
+                   <snm>Juneja</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Barsan</snm>
+                   <fnm>WG</fnm>
+                </au>
+                <au>
+                   <snm>Janis</snm>
+                   <fnm>S</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Int J Stroke</source>
+             <pubdate>2014</pubdate>
+             <volume>9</volume>
+             <fpage>246</fpage>
+             <lpage>51</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/ijs.12045</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23506245</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B8">
+             <title>
+                <p>Modifying the design of ongoing trials without unblinding</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Gould</snm>
+                   <fnm>AL</fnm>
+                </au>
+                <au>
+                   <snm>Shih</snm>
+                   <fnm>WJ</fnm>
+                </au>
+             </aug>
+             <source>Stat Med</source>
+             <pubdate>1998</pubdate>
+             <volume>17</volume>
+             <fpage>89</fpage>
+             <lpage>100</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1002/(SICI)1097-0258(19980115)17:1&lt;89::AID-SIM730&gt;3.0.CO;2-D</pubid>
+                   <pubid idtype="pmpid" link="fulltext">9463852</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B9">
+             <title>
+                <p>The utility of Bayesian predictive probabilities for interim monitoring of clinical trials</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Saville</snm>
+                   <fnm>BR</fnm>
+                </au>
+                <au>
+                   <snm>Connor</snm>
+                   <fnm>JT</fnm>
+                </au>
+                <au>
+                   <snm>Ayers</snm>
+                   <fnm>GD</fnm>
+                </au>
+                <au>
+                   <snm>Alvarez</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>Clin Trials</source>
+             <pubdate>2014</pubdate>
+             <volume>11</volume>
+             <fpage>485</fpage>
+             <lpage>93</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1177/1740774514531352</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24872363</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B10">
+             <note>R Core Development Team. R: A language and environment for statistical computing. R Foundation for Statistical Computing Vienna Austria 2014. http:<url>www.R-project.org</url>.</note>
+          </bibl>
+          <bibl id="B11">
+             <title>
+                <p>Tissue plasminogen activator for acute ischemic stroke</p>
+             </title>
+             <insg>
+                <ins>
+                   <p>The National Institute of Neurological Disorders and Stroke rt-PA Stroke Study Group</p>
+                </ins>
+             </insg>
+             <source>N Engl J Med</source>
+             <pubdate>1995</pubdate>
+             <volume>333</volume>
+             <fpage>1581</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1056/NEJM199512143332401</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B12">
+             <title>
+                <p>Group sequential tests for delayed responses (with discussion): Group Sequential Tests</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hampson</snm>
+                   <fnm>LV</fnm>
+                </au>
+                <au>
+                   <snm>Jennison</snm>
+                   <fnm>C</fnm>
+                </au>
+             </aug>
+             <source>J Royal Stat Soc Ser B</source>
+             <pubdate>2013</pubdate>
+             <volume>75</volume>
+             <fpage>3</fpage>
+             <lpage>54</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1467-9868.2012.01030.x</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B13">
+             <note>Food and Drug Administration. Guidance for industry adaptive design clinical trials for drugs and biologics. 2010; <url>http://www.fda.gov/downloads/Drugs/Guidances/ucm201790.pdf</url>.</note>
+          </bibl>
+          <bibl id="B14">
+             <insg>
+                <ins>
+                   <p>Patient-Centered Outcomes Research Institute</p>
+                </ins>
+             </insg>
+             <source>Draft Methodology Report: &#8220;Our Questions, Our Decisions: Standards for Patient-centered Outcomes Research&#8221;. Draft. Patient-Centered Outcomes Research Institute</source>
+             <pubdate>2012</pubdate>
+          </bibl>
+       </refgrp>
+    </bm>
+ </art>

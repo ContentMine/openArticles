@@ -1,0 +1,3339 @@
+<?xml version='1.0'?>
+<!DOCTYPE art SYSTEM 'http://www.biomedcentral.com/xml/article.dtd'>
+<art>
+    <ui>s13063-015-0589-1</ui>
+    <ji>1745-6215</ji>
+    <fm>
+       <dochead>Study protocol</dochead>
+       <bibl>
+          <title>
+             <p>Reducing suicidal thoughts in the Australian general population through web-based self-help: study protocol for a randomized controlled trial</p>
+          </title>
+          <aug>
+             <au id="A1" ca="yes">
+                <snm>van Spijker</snm>
+                <mnm>AJ</mnm>
+                <fnm>Bregje</fnm>
+                <insr iid="I1"/>
+                <insr iid="I2"/>
+                <email>Bregje.vanspijker@anu.edu.au</email>
+             </au>
+             <au id="A2">
+                <snm>Calear</snm>
+                <mi>L</mi>
+                <fnm>Alison</fnm>
+                <insr iid="I1"/>
+                <email>Alison.Calear@anu.edu.au</email>
+             </au>
+             <au id="A3">
+                <snm>Batterham</snm>
+                <mi>J</mi>
+                <fnm>Philip</fnm>
+                <insr iid="I1"/>
+                <email>Philip.Batterham@anu.edu.au</email>
+             </au>
+             <au id="A4">
+                <snm>Mackinnon</snm>
+                <mi>J</mi>
+                <fnm>Andrew</fnm>
+                <insr iid="I3"/>
+                <email>Andrew.Mackinnon@unimelb.edu.au</email>
+             </au>
+             <au id="A5">
+                <snm>Gosling</snm>
+                <mi>A</mi>
+                <fnm>John</fnm>
+                <insr iid="I1"/>
+                <email>John.Gosling@anu.edu.au</email>
+             </au>
+             <au id="A6">
+                <snm>Kerkhof</snm>
+                <mnm>JFM</mnm>
+                <fnm>Ad</fnm>
+                <insr iid="I4"/>
+                <email>Ajfm.Kerkhof@vu.nl</email>
+             </au>
+             <au id="A7">
+                <snm>Solomon</snm>
+                <fnm>Daniela</fnm>
+                <insr iid="I2"/>
+                <email>D.Solomon@blackdog.org.au</email>
+             </au>
+             <au id="A8">
+                <snm>Christensen</snm>
+                <fnm>Helen</fnm>
+                <insr iid="I2"/>
+                <email>H.Christensen@blackdog.org.au</email>
+             </au>
+          </aug>
+          <insg>
+             <ins id="I1">
+                <p>National Institute for Mental Health Research, The Australian National University, Building 63, Canberra 2601, ACT, Australia</p>
+             </ins>
+             <ins id="I2">
+                <p>Black Dog Institute, The University of New South Wales, Hospital Road, Prince of Wales Hospital, Randwick 2031, NSW, Australia</p>
+             </ins>
+             <ins id="I3">
+                <p>Orygen Youth Health Research Centre, University of Melbourne, 35 Poplar Road, Parkville 3052, VIC, Australia</p>
+             </ins>
+             <ins id="I4">
+                <p>Department of Clinical Psychology and the EMGO Institute for Health and Care Research, Faculty of Psychology and Education, VU University Amsterdam, van der Boechorststraat 1, Amsterdam, 1081 BT, the Netherlands</p>
+             </ins>
+          </insg>
+          <source>Trials</source>
+          <issn>1745-6215</issn>
+          <pubdate>2015</pubdate>
+          <volume>16</volume>
+          <issue>1</issue>
+          <fpage>62</fpage>
+          <url>http://www.trialsjournal.com/content/16/1/62</url>
+          <xrefbib>
+             <pubidlist>
+                <pubid idtype="doi">10.1186/s13063-015-0589-1</pubid>
+             </pubidlist>
+          </xrefbib>
+       </bibl>
+       <history>
+          <rec>
+             <date>
+                <day>19</day>
+                <month>8</month>
+                <year>2014</year>
+             </date>
+          </rec>
+          <acc>
+             <date>
+                <day>3</day>
+                <month>2</month>
+                <year>2015</year>
+             </date>
+          </acc>
+          <pub>
+             <date>
+                <day>25</day>
+                <month>2</month>
+                <year>2015</year>
+             </date>
+          </pub>
+       </history>
+       <cpyrt>
+          <year>2015</year>
+          <collab>van Spijker et al.; licensee BioMed Central.</collab>
+          <note>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/4.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (<url>http://creativecommons.org/publicdomain/zero/1.0/</url>) applies to the data made available in this article, unless otherwise stated.</note>
+       </cpyrt>
+       <kwdg>
+          <kwd>Suicidal ideation</kwd>
+          <kwd>Suicidal thoughts</kwd>
+          <kwd>Internet</kwd>
+          <kwd>Web-based</kwd>
+          <kwd>Self-help</kwd>
+          <kwd>Cognitive behavioral therapy</kwd>
+          <kwd>Randomized controlled trial</kwd>
+       </kwdg>
+       <abs>
+          <sec>
+             <st>
+                <p>Abstract</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Background</p>
+                </st>
+                <p>Suicidal thoughts are common in the general population, causing significant disability. However, a substantial number of people struggling with suicidality do not access appropriate services. Online self-help may help overcome barriers to help-seeking. This study aims to examine the effectiveness of an online self-help program targeted at reducing suicidal thoughts compared with an attention-matched control condition in the Australian adult population. This trial is based on a Dutch self-help program, which was found to be effective in reducing suicidal thoughts.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Methods/Design</p>
+                </st>
+                <p>A total of 570 community-dwelling adults (18 to 65&#160;years old) with suicidal thoughts will be recruited via various media and randomly assigned to the 6-week online program aimed at reducing suicidal thoughts or a 6-week attention-matched control program. Primary outcome measure is the severity of suicidal thoughts. Secondary outcome measures include suicide plans, capacity to cope with suicidal thoughts, reasons for living, symptoms of depression, hopelessness, anxiety/worry, rumination, panic, perceived burdensomeness and thwarted belongingness, acquired capability, alcohol consumption, insomnia, and various cost-effectiveness measures.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Discussion</p>
+                </st>
+                <p>Although the original Dutch trial found web-based self-help to be effective in reducing suicidal thoughts, randomized controlled trials (RCT) of online programs for suicidal thoughts are rare. The present study extends previous research by running the first English language RCT of this sort. As a result of the original study, the current RCT includes refinements to the design, including greater levels of participant anonymity and longer follow-up periods. Limitations of this trial include the potential for high drop-out and the inability to ascertain whether any suicides occur during the study.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Trial registration</p>
+                </st>
+                <p>Australian New Zealand Clinical Trials Registry (ANZCTR) Registration number: <url>ACTRN12613000410752</url> (15 April 2013). Universal Trial Number (UTN): U1111-1141-6595 (15 April 2013).</p>
+             </sec>
+          </sec>
+       </abs>
+    </fm>
+    <bdy>
+       <sec>
+          <st>
+             <p>Background</p>
+          </st>
+          <p>Suicidal thoughts are common in the general population. A cross-national study of 17 countries reported an average lifetime prevalence of 9.2% for suicidal thoughts, 3.1% for plans, and 2.7% for attempts. However, there was considerable variability in prevalence rates between the countries <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>. In Australia, an estimated 13.3% of adults experience suicidal thoughts at some stage in their lives, 4.0% make a suicide plan, and approximately 3.2% of adults attempt suicide <abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp>.</p>
+          <p>A significant proportion of people with suicidal thoughts or plans do not use services for mental health problems (in Australia, 40.9% and 32.0% respectively). In people who attempt suicide, about one in four (26.6%) fail to access services <abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp>. In a worldwide survey, it was found that 44% of people experiencing any suicidal outcome in high income countries do not receive treatment <abbrgrp>
+                <abbr bid="B3">3</abbr>
+             </abbrgrp>, indicating that current services do not reach everyone in need.</p>
+          <p>Reasons for a failure to seek help among suicidal people are diverse and likely to be complex. However, factors that may play a role include fear of stigma, shame, dissatisfaction or past negative experiences with mental health services, preference for self-reliance (handling the problem alone), denying the severity of the problem, and financial constraints <abbrgrp>
+                <abbr bid="B3">3</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B6">6</abbr>
+             </abbrgrp>.</p>
+          <p>It is widely acknowledged that suicide prevention services that are anonymous, confidential and readily available appeal to those at risk. Illustrative of this is the worldwide use of telephone support services. Although these are generally perceived as a valuable suicide prevention strategy, evidence for their effectiveness is limited and equivocal <abbrgrp>
+                <abbr bid="B7">7</abbr>
+             </abbrgrp>. The internet is also increasingly being used as a source of information and of help and support for suicidal people and their loved ones, as demonstrated by the availability of peer-to-peer support forums, e-mail and chat therapy services, crisis chat services, and self-tests with advice and referrals <abbrgrp>
+                <abbr bid="B8">8</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B11">11</abbr>
+             </abbrgrp>. Reviews of empirical studies into online suicide prevention efforts show that this is an emergent but promising field <abbrgrp>
+                <abbr bid="B12">12</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B14">14</abbr>
+             </abbrgrp>.</p>
+          <p>There is also recent evidence that web-based programs are associated with a reduction of suicidal thoughts. An uncontrolled study into web-based Cognitive Behavior Therapy (CBT) for depression found that suicidal ideation decreased post-treatment <abbrgrp>
+                <abbr bid="B15">15</abbr>
+             </abbrgrp>. A randomized controlled (RCT) trial into online CBT for depression found reductions in suicidal thoughts irrespective of group allocation <abbrgrp>
+                <abbr bid="B16">16</abbr>
+             </abbrgrp>. Both these earlier trials were of depression interventions. A Dutch trial studying an online unguided self-help program aimed specifically at reducing suicidal thoughts found this program to be effective compared to a control condition receiving psycho education <abbrgrp>
+                <abbr bid="B17">17</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B18">18</abbr>
+             </abbrgrp>. To permit further and broader investigation, the Dutch program has now been translated into English.</p>
+          <p>This paper describes the protocol of the &#8216;Healthy Thinking&#8217; trial, which aims to include 570 community dwelling adults living in Australia. Participants will be randomly allocated to one of the following conditions: &#8216;Living with Deadly Thoughts&#8217; (LWDT) - the web-based self-help program aimed at helping people reduce suicidal thoughts, or &#8216;Living Well&#8217; - an attention-matched control condition. This trial is based on the previous Dutch trial <abbrgrp>
+                <abbr bid="B19">19</abbr>
+             </abbrgrp>, but was adapted to the Australian context and improved. Limitations of the Dutch trial included the use of a waitlisted psycho-education control group, introducing unequal amounts of material presented to each group as a potential confound. The current trial utilizes an attention-matched comparator condition to account for this. In addition, participants in the Dutch trial were not anonymous, which may have impacted sample representativeness due to (un)willingness to participate. The current trial therefore offers anonymity as an option. Safety procedures developed specifically for the trial will operate while still permitting anonymous participation. These are documented here. Finally, the current trial employs a longer follow-up period to gauge longer-term maintenance of effects, and the look and feel of the program website has been improved to enhance user experience.</p>
+          <p>The primary objective of this parallel group RCT is to determine whether the Living with Deadly Thoughts program is superior to the Living Well program. It is hypothesized that participants receiving the LWDT program will have lower levels of suicidal thoughts on the Columbia-Suicide Severity Rating Scale (C-SSRS) relative to the control condition at post-test (6&#160;weeks). The relative advantage of the active program compared to the control program is expected to be maintained at 6 and 12&#160;month follow-up.</p>
+          <p>The key secondary outcomes include suicide plans, capacity to cope with suicidal thoughts, reasons for living, symptoms of depression, hopelessness, anxiety/worry, rumination, panic, perceived burdensomeness and thwarted belongingness, acquired capability, alcohol consumption, insomnia, help-seeking intentions and health care utilization. Relative to the control condition, LWDT participants are expected to 1) show a reduction of self-reported suicide plans at post-test and at 6 and 12&#160;month follow-up; 2) show an improvement of capacity to cope with suicidal thoughts at post-test and 6 and 12&#160;months; 3) experience an increase in &#8216;reasons for living&#8217; at post-test, 6 and 12&#160;months; 4) have lower symptoms of depression, hopelessness, anxiety/worry, rumination, panic, perceived burdensomeness, thwarted belongingness, and disability at post-test, 6 and 12&#160;months; and 5) demonstrate an increase in help-seeking intentions and utilization of primary and mental health care at 6 and 12&#160;months (but not necessarily in hospitalization).</p>
+          <p>For participants in the active group, improvements in suicidality (as measured by suicidal ideation, suicide plans and capacity to cope with suicide thoughts) are hypothesized to be associated with reduction of anxiety and depressive symptoms; a history of fewer self-reported attempts; shorter history of suicidal thinking; reduction in rumination; and improvement in perceived burdensomeness and thwarted belongingness. Improvement in suicidality is not expected to be related to changes in capability to attempt suicide, as per Joiner&#8217;s Interpersonal Theory of Suicide <abbrgrp>
+                <abbr bid="B20">20</abbr>
+             </abbrgrp>. Stronger adherence to the program at 6&#160;weeks is expected to be associated with lower baseline levels of hopelessness and higher baseline levels of internet literacy. Trial dropout at post-test, 6 and 12&#160;months is hypothesized to be associated with higher baseline levels of hopelessness in both groups <abbrgrp>
+                <abbr bid="B18">18</abbr>
+             </abbrgrp>. Other factors associated with adherence and drop-out will be explored.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Methods/Design</p>
+          </st>
+          <sec>
+             <st>
+                <p>Design</p>
+             </st>
+             <p>This study is designed as a two-arm randomized controlled trial with one active program (&#8216;Living with Deadly Thoughts&#8217;) and one control program (&#8216;Living Well&#8217;). There will be five main measurement occasions: screening, baseline, post-test (6&#160;weeks after baseline), and two follow-up measures (6 and 12&#160;months after post-test). In addition, suicidal thoughts will be monitored on a fortnightly basis during the first six weeks after randomization (that is, while the active group goes through the active program) to inform safety procedures (see below). The trial flow is illustrated in Figure&#160;<figr fid="F1">1</figr>. Participants who stop using the program they are assigned to will still be sent all follow-up questionnaires to complete (unless they have requested to be withdrawn from the study).
+                  </p>
+             
+                <fig id="F1">
+                   <title>
+                      <p>Figure 1</p>
+                   </title>
+                   <caption>
+                      <p>Flow chart for the healthy thinking study. </p>
+                   </caption>
+                   <text>
+                      <p>
+                            <b>Flow chart for the healthy thinking study.</b>                          
+                      </p>
+                   </text>
+                   <graphic file="s13063-015-0589-1-1"/>
+                </fig>
+             
+             <p>We adhere to the SPIRIT guidelines in reporting the trial in this protocol (see Table&#160;<tblr tid="T1">1</tblr> for the items from the World Health Organization Trial Registration Data Set) <abbrgrp>
+                   <abbr bid="B21">21</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B22">22</abbr>
+                </abbrgrp>.
+                  </p>
+             
+                <table id="T1">
+                   <title>
+                      <p>Table 1</p>
+                   </title>
+                   <caption>
+                      <p>
+                            <b>Items from the World Health Organization Trial Registration Data Set</b>                          
+                      </p>
+                   </caption>
+                   <tgroup align="left" cols="2">
+                      <colspec align="left" colname="c1" colnum="1" colwidth="*"/>
+                      <colspec align="left" colname="c2" colnum="2" colwidth="*"/>
+                      <thead>
+                         <row rowsep="1" valign="top">
+                            <entry colname="c1">
+                               <p>
+                                  <b>Data category</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>
+                                  <b>Information</b>                              
+                               </p>
+                            </entry>
+                         </row>
+                      </thead>
+                      <tbody>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Primary registry and trial identifying number</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Australian New Zealand Clinical Trials Registry: ACTRN12613000410752</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Date of registration in primary registry</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>15 April 2013</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1" morerows="1">
+                               <p>Secondary identifying numbers</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>National Health and Medical Research Council project grant: GNT1046317</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>Universal Trial Number: U1111-1141-6595</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Source(s) of monetary or material support</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>National Health and Medical Research Council</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Primary sponsor</p>
+                            </entry>
+                            <entry colname="c2"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Secondary sponsor(s)</p>
+                            </entry>
+                            <entry colname="c2"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Contact for public queries</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>B.A.J. van Spijker</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Contact for scientific queries</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>B.A.J. van Spijker</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Public title</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Healthy Thinking project: A randomized controlled trial of a web-based self-help program to reduce suicide ideation</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Scientific title</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>A randomized controlled trial comparing a web-based self-help program to reduce suicide ideation with an attention matched control program in community members with suicide ideation</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Countries of recruitment</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Australia</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Health condition(s) or problem(s) studied</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Suicidal thoughts</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1" morerows="1">
+                               <p>Intervention(s)</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Active comparator: &#8216;Living with Deadly Thoughts&#8217; program</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>Control comparator: &#8216;Living Well&#8217; program</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1" morerows="2">
+                               <p>Key inclusion and exclusion criteria</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Ages eligible for study: 18 to 65&#160;years; Sexes eligible for study: both; Accepts healthy volunteers: no</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>Inclusion criteria: current suicidal thoughts</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>Exclusion criteria: no current suicidal thoughts; suicide attempt in the past month; diagnosis of a psychotic disorder</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1" morerows="2">
+                               <p>Study type</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Interventional</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>Allocation: randomized; Intervention model: parallel assignment; Masking: participants blinded</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c2">
+                               <p>Primary purpose: prevention</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Date of first enrollment</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>19 November 2013</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Target sample size</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>570</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Recruitment status</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Recruiting</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Primary outcome</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Suicidal thoughts</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Key secondary outcomes</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Depression, hopelessness, reasons for living, anxiety, panic, alcohol use, insomnia, rumination, thwarted belongingness, perceived burdensomeness, acquired capability, health and disability, health care utilization, health status, help seeking, evaluation and utility of website</p>
+                            </entry>
+                         </row>
+                      </tbody>
+                   </tgroup>
+                </table>
+             
+          </sec>
+          <sec>
+             <st>
+                <p>Sample and recruitment</p>
+             </st>
+             <p>A total of 570 Australian community dwelling adults experiencing suicidal thoughts will be recruited through various online and offline media, relevant websites, popular social networking sites and advertising on popular search engines. Through these advertisements, respondents are linked to a welcome screen where a brief introduction to the study is provided. Next, respondents will be invited to provide informed consent to complete the online screening procedure to verify eligibility.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Eligibility and screening</p>
+             </st>
+             <p>Eligibility is based on 1) being aged between 18 and 65, 2) having a valid email address, 3) having a reliable internet connection, 4) currently being located in Australia, 5) being fluent in English, 6) never having been diagnosed with a psychotic disorder such as schizophrenia, 7) currently experiencing suicidal thoughts, and 8) not having attempted suicide in the past month.</p>
+             <p>During screening, respondents indicate their eligibility by answering questions about the above criteria. Ineligibility during the screening process results in redirection to a &#8216;thank you&#8217; page with relevant referral information. Respondents who are excluded based on a recent suicide attempt (past month) are also provided with the opportunity to submit their phone number to receive a phone call from the Suicide Call Back Service (SCBS: a 24-hour, Australia-wide, not-for-profit service that provides telephone counseling to people who are suicidal).</p>
+             <p>All eligible respondents are provided with a participant information statement, which outlines that participation includes agreeing to make contact with the SCBS and completing the baseline questionnaire before being randomly allocated to one of the two programs. Making initial contact with the SCBS is needed as this organization plays a significant role in the safety procedures (described in more detail below). After having read the participant information statement (see Additional file <supplr sid="S1">1</supplr>), respondents will be invited to provide informed consent online (see Additional file <supplr sid="S2">2</supplr>) and will need to provide only a valid email address and a first name to register their participation. They are also given the option to submit their phone number while consenting, which can then be used in the safety procedures if needed, but this is not mandatory for participation. This way, participants can remain anonymous if desired. See also Figure&#160;<figr fid="F1">1</figr> for the trial flow-chart. Participants only enter the trial after they have provided informed consent.</p></sec>
+          <sec>
+             <st>
+                <p>Random allocation procedure</p>
+             </st>
+             <p>Randomization to the active program or the comparator will be on a 1:1 ratio and based on blocks of length 4, stratified by sex and severity/extent of suicidal thoughts. The latter is defined as endorsing &#8216;yes&#8217; on item 5 of the &#8216;Suicidal Ideation&#8217; part of the Columbia-Suicide Severity Rating Scale (C-SSRS) <abbrgrp>
+                   <abbr bid="B23">23</abbr>
+                </abbrgrp>, regarding active suicidal ideation with specific plan and intent. The randomization procedure is incorporated into the website and therefore fully automated. Participants are blinded as to which program is active and which is control. Participants in the control condition will receive access to the LWDT program after the 12-month follow-up assessment.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Active condition: &#8216;Living with Deadly Thoughts&#8217;</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Background</p>
+                </st>
+                <p>It has been convincingly demonstrated that online self-help interventions reduce mental health problems <abbrgrp>
+                      <abbr bid="B24">24</abbr>
+                   </abbrgrp>-<abbrgrp>
+                      <abbr bid="B29">29</abbr>
+                   </abbrgrp>. Self-help is nowadays often offered through the Internet and can be delivered with or without support. Guided self-help generally shows larger effect sizes <abbrgrp>
+                      <abbr bid="B24">24</abbr>
+                   </abbrgrp> and lower dropout rates, whereas unguided self-help has the advantage that it can be delivered to a large number of people at relatively low cost.</p>
+                <p>There is a large body of research indicating that Cognitive Behavior Therapy (CBT) is effective for many different mental health problems <abbrgrp>
+                      <abbr bid="B30">30</abbr>
+                   </abbrgrp>, and most of the existing (effective) self-help interventions are based on CBT <abbrgrp>
+                      <abbr bid="B31">31</abbr>
+                   </abbrgrp>. The program used in this trial is called Living with Deadly Thoughts and is a translation and adaptation of the Dutch web-based program &#8216;<it>Leven onder Controle</it>&#8217; (literally &#8216;Living Under Control&#8217;). Its basis lies in evidence-based treatment programs for suicidality, mainly Cognitive Behavior Therapy (CBT); <abbrgrp>
+                      <abbr bid="B32">32</abbr>
+                   </abbrgrp>,<abbrgrp>
+                      <abbr bid="B33">33</abbr>
+                   </abbrgrp> and Dialectical Behavior Therapy (DBT); <abbrgrp>
+                      <abbr bid="B34">34</abbr>
+                   </abbrgrp>-<abbrgrp>
+                      <abbr bid="B37">37</abbr>
+                   </abbrgrp>, but also Problem Solving Treatment (PST); <abbrgrp>
+                      <abbr bid="B38">38</abbr>
+                   </abbrgrp>,<abbrgrp>
+                      <abbr bid="B39">39</abbr>
+                   </abbrgrp> and Mindfulness Based Cognitive Therapy (MBCT); <abbrgrp>
+                      <abbr bid="B40">40</abbr>
+                   </abbrgrp>-<abbrgrp>
+                      <abbr bid="B42">42</abbr>
+                   </abbrgrp>.</p>
+                <p>The main goal of the program is helping participants decrease the frequency and intensity of their suicidal thoughts. Special attention is given to the often repetitive character of suicidal thoughts <abbrgrp>
+                      <abbr bid="B43">43</abbr>
+                   </abbrgrp>. As such, these thoughts are believed to be amenable to techniques found to be effective in reducing worry thoughts used in &#8216;Metacognitive Therapy for Worry and Generalised Anxiety Disorder&#8217; <abbrgrp>
+                      <abbr bid="B44">44</abbr>
+                   </abbrgrp>. From a patient perspective, these techniques are easy to grasp, offer novelty to those who have had prior CBT treatment, and can be readily taught as part of self-help care.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Structure</p>
+                </st>
+                <p>The program consists of six modules, and participants are encouraged to complete one module per week. Ideally, they spend 30&#160;minutes per day on the program. Each module contains four components: 1) theory, 2) a weekly assignment, 3) two to three recommended exercises, and 4) several optional exercises to help consolidate relevant information and skills. In addition, at the end of each module a number of Frequently Asked Questions (FAQs) are listed that participants can refer to at any time. Each module builds on previous modules and these become available in sequence, 4&#160;days after starting the previous module. Completed modules remain available throughout the intervention. Finally, participants also have access to referral information via a &#8216;get-help-now&#8217; button that is visible from every page. Participants are also informed that participation is not meant to replace treatment as usual and are therefore encouraged to seek further treatment (if they are not receiving this already).</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Content</p>
+                </st>
+                <p>In the first module, similarities between suicidal thinking and worry are outlined. Core exercises are aimed at recognizing how often suicidal thoughts are repeated and learning to manage this repetitiveness better. The second module focuses on learning to tolerate and regulate intense emotions. The theory section explains how to recognize an upcoming crisis and taps into dealing with the urge to self-harm. Core exercises introduce different ways of coping with intense emotions, such as behavioral activation (for example, seeking distraction), and acceptance (waiting until the feelings subside). Participants are also encouraged to make a crisis plan. The third, fourth, and fifth modules deal with identifying automatic thoughts, recognizing common thinking patterns (for example, all or nothing thinking, overgeneralization, and mind reading), and cognitively restructuring the three most important identified negative automatic thoughts. The final module is dedicated to relapse prevention. It discusses the possibility of future setbacks and disappointments. Core exercises pertain to envisaging a realistic picture of the future, dealing with future setbacks, and recognizing and preventing relapse by making a relapse prevention plan.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Attention-matched control condition: &#8216;Living Well&#8217;</p>
+             </st>
+             <p>The attention-matched control condition uses a 6-week program that contains lifestyle information. This program follows a similar structure to the active program; that is, each module contains theory, a weekly assignment, several exercises, and a number of FAQs. Each module has a different topic: 1) nutrition, 2) a healthy home environment, 3) a healthy weight, 4) a healthy heart, 5) a healthy skin, and 6) a healthy mouth. The program was designed so that no specific mental health information or suicide-related content was included. New modules become available 4&#160;days after starting the previous module. Similar to the active program, participants in the Living Well program have access to referral information via a &#8216;get-help-now&#8217; button that is visible from every page and are informed that participation is not meant to replace treatment they may already be receiving or the necessity to seek further treatment.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Measures</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Primary outcome measure</p>
+                </st>
+                <p>The primary outcome measure is severity of suicidal thoughts, assessed using the &#8216;intensity of suicidal ideation&#8217; section of the C-SSRS <abbrgrp>
+                      <abbr bid="B23">23</abbr>
+                   </abbrgrp>. The C-SSRS was developed to identify those at risk and track changes in a person&#8217;s suicidal thinking and behavior over time. The full scale addresses the complete range of suicidal thinking and behavior and consists of three parts: 1) suicidal ideation, 2) intensity of suicidal ideation, and 3) suicidal behavior. Table&#160;<tblr tid="T2">2</tblr> provides an overview of all measures used in the study.
+                    </p>
+                
+                   <table id="T2">
+                      <title>
+                         <p>Table 2</p>
+                      </title>
+                      <caption>
+                         <p>
+                              <b>Scales administered per measurement occasion in the healthy thinking study</b>                            
+                         </p>
+                      </caption>
+                      <tgroup align="left" cols="6">
+                         <colspec align="left" colname="c1" colnum="1" colwidth="*"/>
+                         <colspec align="left" colname="c2" colnum="2" colwidth="*"/>
+                         <colspec align="left" colname="c3" colnum="3" colwidth="*"/>
+                         <colspec align="left" colname="c4" colnum="4" colwidth="*"/>
+                         <colspec align="left" colname="c5" colnum="5" colwidth="*"/>
+                         <colspec align="left" colname="c6" colnum="6" colwidth="*"/>
+                         <thead>
+                            <row rowsep="1" valign="top">
+                               <entry colname="c1">
+                                  <p>
+                                     <b>Measure</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>
+                                     <b>Baseline</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>
+                                     <b>2 and 4&#160;weeks</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>
+                                     <b>Post-test</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>
+                                     <b>6-month follow-up</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c6">
+                                  <p>
+                                     <b>12-month follow-up</b>                                
+                                  </p>
+                               </entry>
+                            </row>
+                         </thead>
+                         <tfoot>
+                            <p>C-SSRS, Columbia Suicide Severity Rating Scale; SIDAS, Suicidal Ideation Attributes Scale; Brief COPE, Brief Coping Orientation Problems Experienced; BRFL, Brief Reasons for Living Scale; CES-D, Center for Epidemiological Studies - Depression; GAD-7, Generalized Anxiety Disorder-7; RRS, Ruminative Response Scale; Brief PHQ, Brief Patient Health Questionnaire; INQ, Interpersonal Needs Questionnaire; ACSS, Acquired Capability for Suicide Scale; AUDIT-C, Alcohol Use Disorders Identification Test Consumption; ISI, Insomnia Severity Index; IEUQ, Internet Evaluation and Utility Questionnaire; GHSQ, General Help-Seeking Questionnaires; CSRI, Client Service Receipt Inventory; SF-12, Short Form-12; WHODAS 2.0, World Health Organization Disability Assessment Schedule 2.0.</p>
+                         </tfoot>
+                         <tbody>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Demographics</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c3"/>
+                               <entry colname="c4"/>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>C-SSRS</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>X (3 items)</p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c6">
+                                  <p>X</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>SIDAS</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c3"/>
+                               <entry colname="c4">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c6">
+                                  <p>X</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Brief COPE</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c3"/>
+                               <entry colname="c4">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c6">
+                                  <p>X</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>BRFL</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c3"/>
+                               <entry colname="c4">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c6">
+                                  <p>X</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>CES-D</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c3"/>
+                               <entry colname="c4">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c6">
+                                  <p>X</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Hopelessness scale</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c3"/>
+                               <entry colname="c4">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c6">
+                                  <p>X</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>GAD-7</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c3"/>
+                               <entry colname="c4">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c6">
+                                  <p>X</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>RRS</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c3"/>
+                               <entry colname="c4">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c6">
+                                  <p>X</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Brief PHQ (panic subscale)</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c3"/>
+                               <entry colname="c4">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c6">
+                                  <p>X</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>INQ</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c3"/>
+                               <entry colname="c4">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c6">
+                                  <p>X</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>ACSS</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c3"/>
+                               <entry colname="c4">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c6">
+                                  <p>X</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>AUDIT-C</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c3"/>
+                               <entry colname="c4">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c6">
+                                  <p>X</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>ISI</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c3"/>
+                               <entry colname="c4">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c6">
+                                  <p>X</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>IEUQ</p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3"/>
+                               <entry colname="c4">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>GHSQ</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c3"/>
+                               <entry colname="c4"/>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>CSRI</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c3"/>
+                               <entry colname="c4">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c6">
+                                  <p>X</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>SF-12</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c3"/>
+                               <entry colname="c4">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c6">
+                                  <p>X</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>WHODAS 2.0</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c3"/>
+                               <entry colname="c4">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c6">
+                                  <p>X</p>
+                               </entry>
+                            </row>
+                         </tbody>
+                      </tgroup>
+                   </table>
+                
+             </sec>
+             <sec>
+                <st>
+                   <p>Secondary outcome measures</p>
+                </st>
+                <p>Secondary outcome measures include the following: reporting of suicide plans, measured by the &#8216;suicidal ideation&#8217; section of the C-SSRS; capacity to cope with suicidal thoughts, using selected scales (self-distraction, active coping, positive reframing, planning, and self-blame) from the Brief Coping Orientation Problems Experienced (Brief COPE) <abbrgrp>
+                      <abbr bid="B45">45</abbr>
+                   </abbrgrp>; reasons for living, using the Brief Reasons for Living Scale (BRFL) <abbrgrp>
+                      <abbr bid="B46">46</abbr>
+                   </abbrgrp>; symptoms of depression, measured by Centre for Epidemiological Studies - Depression (CES-D) <abbrgrp>
+                      <abbr bid="B47">47</abbr>
+                   </abbrgrp>; hopelessness, assessed by the Burns Hopelessness Scale (unpublished scale, Burns, D.D.); anxiety/worry, measured by the Generalized Anxiety Disorder-7 (GAD-7) <abbrgrp>
+                      <abbr bid="B48">48</abbr>
+                   </abbrgrp>; rumination, assessed by the Ruminative Response Scale (RSS) <abbrgrp>
+                      <abbr bid="B49">49</abbr>
+                   </abbrgrp>,<abbrgrp>
+                      <abbr bid="B50">50</abbr>
+                   </abbrgrp>; panic, using the panic syndrome subscale of the Brief Patient Health Questionnaire (Brief PHQ) <abbrgrp>
+                      <abbr bid="B51">51</abbr>
+                   </abbrgrp>,<abbrgrp>
+                      <abbr bid="B52">52</abbr>
+                   </abbrgrp>; perceived burdensomeness and thwarted belongingness, assessed by the Interpersonal Needs Questionnaire (INQ) <abbrgrp>
+                      <abbr bid="B53">53</abbr>
+                   </abbrgrp>; acquired capability, measured by the Acquired Capability for Suicide Scale (ACSS) <abbrgrp>
+                      <abbr bid="B53">53</abbr>
+                   </abbrgrp>; alcohol consumption, using the Alcohol Use Disorders Identification Test Consumption (AUDIT-C) <abbrgrp>
+                      <abbr bid="B54">54</abbr>
+                   </abbrgrp>; and insomnia, assessed by the Insomnia Severity Index (ISI) <abbrgrp>
+                      <abbr bid="B55">55</abbr>
+                   </abbrgrp>,<abbrgrp>
+                      <abbr bid="B56">56</abbr>
+                   </abbrgrp>.</p>
+                <p>In addition, the following measures will be included to assess predictors of outcome and potential mediators of the effectiveness of the program: standard demographic information including internet literacy; history of suicidal thoughts, measured by number of months having experienced suicidal thoughts; history of suicide attempts, assessed by self-reported lifetime suicide attempts; adherence to the program, measured by website usage; evaluation of the program, using the Internet Evaluation and Utility Questionnaire (IEUQ) <abbrgrp>
+                      <abbr bid="B57">57</abbr>
+                   </abbrgrp>,<abbrgrp>
+                      <abbr bid="B58">58</abbr>
+                   </abbrgrp> and several additional questions; and help-seeking for suicidal thoughts, assessed by the General Help-Seeking Questionnaires (GHSQ) <abbrgrp>
+                      <abbr bid="B59">59</abbr>
+                   </abbrgrp>.</p>
+                <p>Finally, a recently developed scale, the Suicidal Ideation Attributes Scale (SIDAS) <abbrgrp>
+                      <abbr bid="B60">60</abbr>
+                   </abbrgrp>, is included in the study to further validate it in a help-seeking population and determine sensitivity to change. See also Table&#160;<tblr tid="T1">1</tblr>.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Cost-effectiveness</p>
+                </st>
+                <p>In addition to the outcomes described above, several measures are included in the study to allow for cost-effectiveness analyses. Specifically, the Client Service Receipt Inventory (CSRI) is used to collect data on health care utilization <abbrgrp>
+                      <abbr bid="B61">61</abbr>
+                   </abbrgrp>. The CSRI can be tailored to suit data requirements, and in the current study the following domains will be captured: GP consultations, practice nurse visits, use of hospital services for physical problems, use of hospital services for mental health problems, mental health helpline contacts, psychiatric crisis support team contacts, social worker contacts, counseling contacts, therapy contacts, self-help group contacts, and psychiatrist contacts. In addition, the Short Form-12 (SF-12) <abbrgrp>
+                      <abbr bid="B62">62</abbr>
+                   </abbrgrp> is included as a generic measure of perceived health status that can be used to estimate a preference-based single index for use in economic evaluations <abbrgrp>
+                      <abbr bid="B63">63</abbr>
+                   </abbrgrp>. Similarly, the World Health Organization Disability Assessment Schedule 2.0 (WHODAS 2.0) is administered to assess generic health and disability <abbrgrp>
+                      <abbr bid="B64">64</abbr>
+                   </abbrgrp>,<abbrgrp>
+                      <abbr bid="B65">65</abbr>
+                   </abbrgrp>. Finally, costs related to the program are documented. See also Table&#160;<tblr tid="T1">1</tblr>.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Safety of participants</p>
+             </st>
+             <p>As this research is being conducted in a vulnerable, at-risk population, safety procedures were designed in collaboration with the Suicide Call Back Service (SCBS), which is an Australia-wide 24-hour service that provides telephone and online counseling to people 15&#160;years and over who are suicidal, are bereaved by suicide, have a suicidal loved one, or are professionals working with suicidal clients. The goal was to design a procedure that would protect and assist participants while enabling them to maintain anonymity within the trial if they chose.</p>
+             <p>To be able to enroll in the study, eligible participants will be required to contact the SCBS to obtain a unique code. They will be required to submit this code on their first login to the trial portal, before the participant is directed to the baseline questionnaire. This code subsequently enables researchers to identify the participant to the SCBS when needed (and vice versa), while not revealing the identity of the individual.</p>
+             <p>On each measurement occasion (that is, 2 and 4&#160;weeks into the program, the week 6 post-test, 6-month follow-up and 12-month follow-up), the first three items of the &#8216;intensity of ideation&#8217; section of the C-SSRS are used to detect high risk, defined as a score of 5 on any of these items. Whenever a participant meets this criterion, an automated email will prompt them to contact the SCBS. If they do not contact the SCBS within 2&#160;days, an automated reminder will be sent. At the same time of this reminder, an automated email will be sent to the SCBS, which will contain the participant&#8217;s contact details if these were provided at registration. If no contact details were provided, the SCBS will take no further action; otherwise the SCBS will try to call the participant with a maximum of three attempts.</p>
+             <p>These safety procedures were designed from the perspective that participants should be able to maintain their anonymity as much as possible considering ethical and clinical obligations and also should be allowed to remain autonomous in their decision to make contact with services as much as possible. This approach is consistent with the concept of self-help and patient empowerment.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Sample size and power</p>
+             </st>
+             <p>Power to detect change in suicidal thoughts is based on the expected effect of the intervention on the primary outcome measure. Based on the findings from the Dutch trial <abbrgrp>
+                   <abbr bid="B18">18</abbr>
+                </abbrgrp>, the expected effect size is 0.30 (Cohen&#8217;s d). To be able to detect this effect size, assuming a correlation between pre- and post-test measures of .5, including an expected drop-out rate of 30%, and allowing a width of about&#8201;&#177;&#8201;0.20 for the confidence intervals of the effect size, 285 starters (expected to yield 200 completers) would be needed in each condition (with alpha&#8201;=&#8201;0.05 and power of 0.80). The aim is therefore to recruit 570 participants in the trial.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Statistical considerations</p>
+             </st>
+             <p>Primary analyses will be undertaken on an intention-to-treat basis, including all participants randomized regardless of their level of adherence to the program or trial drop-out (unless someone specifically requests to remove their data from the study). Available information from all participants will be retained using linear mixed models analyses. Transformation of variables will be done as necessary to meet distributional assumptions and to accommodate potential outlying observations. For other analyses, multiple imputation including demographic and other background variables will be used as necessary to allow inclusion of data from all participants.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Data Safety Monitoring Board</p>
+             </st>
+             <p>A Data Safety Monitoring Board (DSMB) has been established for this study, consisting of two senior psychiatrists and one senior suicidologist. All members have extensive clinical and/or research experience with suicidal people. This DSMB is independent of all investigators and the funding agency, and no member of the DSMB has direct involvement in the conduct of the study. The DSMB will receive monthly reports from the trial manager detailing the number of participants contacting the SCBS and number of self-reported suicide attempts on completed follow-up questionnaires. Furthermore, the DSMB will be notified of any adverse events within 72&#160;hours of knowledge of the event. The DSMB will also receive a report if there is any evidence suggesting potential risk to participants, for example, as detected by the trial manager or chief investigators. Finally, interim analyses will be performed once one-third of the total sample (that is, 190 participants) has reached 1) the 6-week post-test assessment, 2) the 6-month follow-up, and 3) the 12-month follow-up. The DSMB may recommend termination or modification of the study on the basis of any perceived safety concern based on their clinical judgment. This may include, but is not limited to, higher anticipated rates of primary safety indicators (suicidal ideation and attempted suicide, both assessed by self-report), or unexpected serious adverse events.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Ethics approval, data storage, and dissemination of results</p>
+             </st>
+             <p>This study (protocol version 2, 17 June 2013) has been approved by the Human Research Ethics Committees of the University of New South Wales (#HC13117) and the Australian National University (2013/416). Any modifications to the protocol will be agreed upon by the researchers and approved by the ethics committees prior to implementation. Participant responses will be identified by a unique user ID. Data files linking email addresses to ID numbers will be stored separately from raw research data. Collected data will be stored on a secure server. All chief investigators will be given access to the data set, and data will be published in nonidentifiable form. Authorship will be based on contribution to the study. A de-identified data set will be available from the authors no later than 3&#160;years after collection of the final post-test data.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Discussion</p>
+          </st>
+          <p>This paper describes the study protocol of a randomized controlled trial comparing a web-based self-help program for suicidal thoughts with an attention-matched program. This trial is a continuation of the first study that examined the effectiveness of web-based self-help for suicidal thoughts in the Netherlands <abbrgrp>
+                <abbr bid="B17">17</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B19">19</abbr>
+             </abbrgrp> and is the first English-language RCT of this sort. The use of an attention-matched comparator condition, increased levels of participant anonymity, longer follow-up periods, and an improved look and feel of the program website improved the design of the study.</p>
+          <p>This study will contribute to the growing body of evidence regarding the effectiveness of online suicide prevention. Currently, there is evidence indicating that a reduction in suicidal thoughts is associated with the use of web-interventions <abbrgrp>
+                <abbr bid="B15">15</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B16">16</abbr>
+             </abbrgrp>, and that the effect is greater than waitlist control condition <abbrgrp>
+                <abbr bid="B18">18</abbr>
+             </abbrgrp>; but more research is needed to establish that programs targeting suicidal thoughts are more effective than wait lists. If effective, web-based self-help has the potential to be implemented and disseminated in a cost-effective way <abbrgrp>
+                <abbr bid="B17">17</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B66">66</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B68">68</abbr>
+             </abbrgrp>.</p>
+          <p>Limitations of this study include the potential for high drop-out, to which web-based self-help programs are often subject <abbrgrp>
+                <abbr bid="B69">69</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B70">70</abbr>
+             </abbrgrp> and may introduce selection bias. The anonymity of the participants will make it impossible to ascertain whether any suicides occur during the study. Similarly, the recording of suicide attempts relies solely on self-report and cannot be verified by objective records. Both these limitations are inherent to the self-help character of the trial and mimic real-life conditions if the program were to be implemented after the trial.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Trial status</p>
+          </st>
+          <p>Recruitment started in November 2013 and is due to finish in 2015. The final participants are expected to complete their 12&#160;month follow-up assessment in 2016.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Abbreviations</p>
+          </st>
+          <p>ACSS: Acquired Capability for Suicide Scale</p>
+          <p>AUDIT-C: Alcohol Use Disorders Identification Test Consumption</p>
+          <p>Brief COPE: Brief Coping Orientation Problems Experienced</p>
+          <p>Brief PHQ: Brief Patient Health Questionnaire</p>
+          <p>BRFL: Brief Reasons for Living Scale</p>
+          <p>CBT: Cognitive Behavior Therapy</p>
+          <p>CES-D: Center for Epidemiological Studies - Depression</p>
+          <p>CSRI: Client Service Receipt Inventory</p>
+          <p>C-SSRS: Columbia-Suicide Severity Rating Scale</p>
+          <p>DBT: Dialectical Behavior Therapy</p>
+          <p>DSMB: Data Safety Monitoring Board</p>
+          <p>FAQs: frequently asked questions</p>
+          <p>GAD-7: Generalized Anxiety Disorder-7</p>
+          <p>GHSQ: General Help-Seeking Questionnaire</p>
+          <p>IEUQ: Internet Evaluation and Utility Questionnaire</p>
+          <p>INQ: Interpersonal Needs Questionnaire</p>
+          <p>ISI: Insomnia Severity Index</p>
+          <p>LWDT: Living with Deadly Thoughts</p>
+          <p>MBCT: Mindfulness Based Cognitive Therapy</p>
+          <p>PST: Problem Solving Treatment</p>
+          <p>RCT: randomized controlled trial</p>
+          <p>RRS: Ruminative Response Scale</p>
+          <p>SCBS: Suicide Call Back Service</p>
+          <p>SF-12: Short Form-12</p>
+          <p>SIDAS: Suicidal Ideation Attributes Scale</p>
+          <p>WHODAS 2.0: World Health Organization Disability Assessment Schedule 2.0</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Competing interests</p>
+          </st>
+          <p>BvS and AK are authors of the Dutch web-based program described in this manuscript. BvS and AK are also authors of, and receive royalties from, an adapted paper version of the self-help program, published under the title &#8216;Piekeren over zelfdoding&#8217; by Boom: Amsterdam (2012). BvS, AK and HC are authors of the English translation of the web-based program described in this manuscript.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Authors&#8217; contributions</p>
+          </st>
+          <p>BvS and AK conducted the study in the Netherlands on which the current project is based. BvS, AC, PB, AM, JG, AK and HC obtained funding for the Australian study. DS is trial manager for the study. All authors contributed to the design of this study, the writing of the manuscript, and have read and approved the final version of the manuscript.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Additional files</p>
+          </st>
+          <suppl id="S1">
+             <title>
+                <p>Additional file 1:</p>
+             </title>
+             <text>
+                <p>
+                              <b>Participant information statement.</b>                            
+                </p>
+             </text>
+             <file name="s13063-015-0589-1-S1.pdf">
+                <p>Click here for file</p>
+             </file>
+          </suppl>
+          <suppl id="S2">
+             <title>
+                <p>Additional file 2:</p>
+             </title>
+             <text>
+                <p>
+                              <b>Consent form.</b>                            
+                </p>
+             </text>
+             <file name="s13063-015-0589-1-S2.pdf">
+                <p>Click here for file</p>
+             </file>
+          </suppl>
+          
+       </sec>
+    </bdy>
+    <bm>
+       <ack>
+          <sec>
+             <st>
+                <p>Acknowledgements</p>
+             </st>
+             <p>This study is supported by a grant from the National Health and Medical Research Council (NHMRC) Australia (GNT1046317) and forms part of research conducted by the NHMRC Centre for Research Excellence in Suicide Prevention (CRESP) (GNT1042580). The funder does not have any role or ultimate authority in the study design; collection, management, analysis, and interpretation of data; writing of the report; and the decision to submit the report for publication. AC is supported by NHMRC Early Career Fellowship 1013199. PB is supported by NHMRC Early Career Fellowship 1035262. HC is supported by NHMRC Fellowship 1056964.</p>
+          </sec>
+       </ack>
+       <refgrp>
+          
+          <bibl id="B1">
+             <title>
+                <p>Cross-national prevalence and risk factors for suicidal ideation, plans and attempts</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Nock</snm>
+                   <fnm>MK</fnm>
+                </au>
+                <au>
+                   <snm>Borges</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Bromet</snm>
+                   <fnm>EJ</fnm>
+                </au>
+                <au>
+                   <snm>Alonso</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Angermeyer</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Beautrais</snm>
+                   <fnm>A</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Br J Psychiatry</source>
+             <pubdate>2008</pubdate>
+             <volume>192</volume>
+             <fpage>98</fpage>
+             <lpage>105</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1192/bjp.bp.107.040113</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18245022</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B2">
+             <title>
+                <p>Suicidal thoughts and behaviours among Australian adults: findings from the, National Survey of Mental Health and Wellbeing</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Johnston</snm>
+                   <fnm>AK</fnm>
+                </au>
+                <au>
+                   <snm>Pirkis</snm>
+                   <fnm>JE</fnm>
+                </au>
+                <au>
+                   <snm>Burgess</snm>
+                   <fnm>PM</fnm>
+                </au>
+             </aug>
+             <source>Aust N Z J Psychiatry</source>
+             <pubdate>2009</pubdate>
+             <volume>43</volume>
+             <fpage>635</fpage>
+             <lpage>43</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1080/00048670902970874</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19530020</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B3">
+             <title>
+                <p>Treatment of suicidal people around the world</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bruffaerts</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Demytenaere</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Hwang</snm>
+                   <fnm>I</fnm>
+                </au>
+                <au>
+                   <snm>Chiu</snm>
+                   <fnm>WT</fnm>
+                </au>
+                <au>
+                   <snm>Sampson</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Kessler</snm>
+                   <fnm>RC</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Br J Psychiatry</source>
+             <pubdate>2011</pubdate>
+             <volume>199</volume>
+             <fpage>64</fpage>
+             <lpage>70</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1192/bjp.bp.110.084129</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21263012</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B4">
+             <title>
+                <p>Young people's help-seeking for mental health problems</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Rickwood</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Deane</snm>
+                   <fnm>FP</fnm>
+                </au>
+                <au>
+                   <snm>Wilson</snm>
+                   <fnm>CJ</fnm>
+                </au>
+                <au>
+                   <snm>Ciarrochi</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>AeJAMH</source>
+             <pubdate>2005</pubdate>
+             <volume>4</volume>
+             <issue>Suppl 3</issue>
+             <fpage>1</fpage>
+             <lpage>34</lpage>
+          </bibl>
+          <bibl id="B5">
+             <title>
+                <p>National suicide prevention lifeline: Enhancing mental health care for suicidal individuals and other people in crisis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Gould</snm>
+                   <fnm>MS</fnm>
+                </au>
+                <au>
+                   <snm>Munfakh</snm>
+                   <fnm>JLH</fnm>
+                </au>
+                <au>
+                   <snm>Kleinman</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Lake</snm>
+                   <fnm>AM</fnm>
+                </au>
+             </aug>
+             <source>Suicide Life Threat Behav</source>
+             <pubdate>2012</pubdate>
+             <volume>42</volume>
+             <fpage>22</fpage>
+             <lpage>35</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1943-278X.2011.00068.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22320194</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B6">
+             <title>
+                <p>Help-seeking for suicidal thoughts and self-harm in young people: A systematic review</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Michelmore</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Hindley</snm>
+                   <fnm>P</fnm>
+                </au>
+             </aug>
+             <source>Suicide Life Threat Behav</source>
+             <pubdate>2012</pubdate>
+             <volume>42</volume>
+             <fpage>507</fpage>
+             <lpage>24</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1943-278X.2012.00108.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22889130</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B7">
+             <title>
+                <p>Crisis hotlines</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Gould</snm>
+                   <fnm>MS</fnm>
+                </au>
+                <au>
+                   <snm>Kalafat</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>Suicide and Suicide Prevention</source>
+             <publisher>Oxford University Press, Oxford</publisher>
+             <editor>Wasserman D, Wasserman C</editor>
+             <pubdate>2009</pubdate>
+             <fpage>459</fpage>
+             <lpage>62</lpage>
+          </bibl>
+          <bibl id="B8">
+             <title>
+                <p>Suicide prevention via internet and telephone: 113Online [in Dutch]</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Mokkenstorm</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Huisman</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Kerkhof</snm>
+                   <fnm>AJFM</fnm>
+                </au>
+             </aug>
+             <source>Tijdschr Psychiatr</source>
+             <pubdate>2012</pubdate>
+             <volume>54</volume>
+             <fpage>341</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">22508352</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B9">
+             <title>
+                <p>Emotional support and suicide prevention through the internet: A field project report</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Barak</snm>
+                   <fnm>A</fnm>
+                </au>
+             </aug>
+             <source>Comput Human Behav</source>
+             <pubdate>2007</pubdate>
+             <volume>23</volume>
+             <fpage>971</fpage>
+             <lpage>84</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.chb.2005.08.001</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B10">
+             <title>
+                <p>An interactive web-based method of outreach to college students at risk for suicide</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Haas</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Koestner</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Rosenberg</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Moore</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Garlow</snm>
+                   <fnm>SJ</fnm>
+                </au>
+                <au>
+                   <snm>Sedway</snm>
+                   <fnm>J</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>J Am Coll Health</source>
+             <pubdate>2008</pubdate>
+             <volume>57</volume>
+             <fpage>15</fpage>
+             <lpage>22</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.3200/JACH.57.1.15-22</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18682341</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B11">
+             <title>
+                <p>Examining suicide-risk individuals who go online for suicide-related purposes</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Harris</snm>
+                   <fnm>KM</fnm>
+                </au>
+                <au>
+                   <snm>McLean</snm>
+                   <fnm>JP</fnm>
+                </au>
+                <au>
+                   <snm>Sheffield</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>Arch Suicide Res</source>
+             <pubdate>2009</pubdate>
+             <volume>13</volume>
+             <fpage>264</fpage>
+             <lpage>76</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1080/13811110903044419</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19591000</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B12">
+             <title>
+                <p>Telecommunication and suicide prevention: hopes and challenges for the new century</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Krysinska</snm>
+                   <fnm>KE</fnm>
+                </au>
+                <au>
+                   <snm>De Leo</snm>
+                   <fnm>D</fnm>
+                </au>
+             </aug>
+             <source>Omega</source>
+             <pubdate>2007</pubdate>
+             <volume>55</volume>
+             <fpage>237</fpage>
+             <lpage>53</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">18214070</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B13">
+             <aug>
+                <au>
+                   <snm>Pietrzak</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>McLaughlin</snm>
+                   <fnm>R</fnm>
+                </au>
+             </aug>
+             <source>The effectiveness of online suicide prevention programs: 1998-2009. A literature review</source>
+             <publisher>University of Queensland - Centre for Military and Veterans Health, Brisbane</publisher>
+             <pubdate>2009</pubdate>
+          </bibl>
+          <bibl id="B14">
+             <title>
+                <p>Caught in the web: A review of web-based suicide prevention</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Lai</snm>
+                   <fnm>MH</fnm>
+                </au>
+                <au>
+                   <snm>Maniam</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Chan</snm>
+                   <fnm>LF</fnm>
+                </au>
+                <au>
+                   <snm>Ravidran</snm>
+                   <fnm>AV</fnm>
+                </au>
+             </aug>
+             <source>JMIR</source>
+             <pubdate>2014</pubdate>
+             <volume>16</volume>
+             <fpage>e30</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">24472876</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B15">
+             <title>
+                <p>A clinical audit of changes in suicide ideas with internet treatment for depression</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Watts</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Newby</snm>
+                   <fnm>JM</fnm>
+                </au>
+                <au>
+                   <snm>Mewton</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Andrews</snm>
+                   <fnm>G</fnm>
+                </au>
+             </aug>
+             <source>BMJ Open</source>
+             <pubdate>2012</pubdate>
+             <volume>2</volume>
+             <fpage>e001558</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/bmjopen-2012-001558</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22983787</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B16">
+             <title>
+                <p>The effect of a web-based depression intervention on suicide ideation: secondary outcome from a randomised controlled trial in a helpline</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Christensen</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Farrer</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Batterham</snm>
+                   <fnm>PJ</fnm>
+                </au>
+                <au>
+                   <snm>Mackinnon</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Griffiths</snm>
+                   <fnm>KM</fnm>
+                </au>
+                <au>
+                   <snm>Donker</snm>
+                   <fnm>T</fnm>
+                </au>
+             </aug>
+             <source>BMJ Open</source>
+             <pubdate>2013</pubdate>
+             <volume>3</volume>
+             <fpage>e002886</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">23811172</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B17">
+             <title>
+                <p>Reducing suicidal ideation: Cost-effectiveness analysis of a randomized controlled trial of unguided web-based self-help</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>van Spijker</snm>
+                   <fnm>BAJ</fnm>
+                </au>
+                <au>
+                   <snm>Majo</snm>
+                   <fnm>CM</fnm>
+                </au>
+                <au>
+                   <snm>Smit</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>van Straten</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Kerkhof</snm>
+                   <fnm>AJFM</fnm>
+                </au>
+             </aug>
+             <source>JMIR</source>
+             <pubdate>2012</pubdate>
+             <volume>14</volume>
+             <fpage>e141</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">23103835</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B18">
+             <title>
+                <p>Effectiveness of online self-help for suicidal thoughts: Results of a randomised controlled trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>van Spijker</snm>
+                   <fnm>BAJ</fnm>
+                </au>
+                <au>
+                   <snm>van Straten</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Kerkhof</snm>
+                   <fnm>AJFM</fnm>
+                </au>
+             </aug>
+             <source>PLoS One</source>
+             <pubdate>2014</pubdate>
+             <volume>9</volume>
+             <fpage>e90118</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1371/journal.pone.0090118</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24587233</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B19">
+             <title>
+                <p>The effectiveness of a web-based self-help intervention to reduce suicidal thoughts: A randomized controlled trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>van Spijker</snm>
+                   <fnm>BAJ</fnm>
+                </au>
+                <au>
+                   <snm>van Straten</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Kerkhof</snm>
+                   <fnm>AJFM</fnm>
+                </au>
+             </aug>
+             <source>Trials</source>
+             <pubdate>2010</pubdate>
+             <volume>11</volume>
+             <fpage>25</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1186/1745-6215-11-25</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20214777</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B20">
+             <title>
+                <p>The interpersonal theory of suicide</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>van Orden</snm>
+                   <fnm>KA</fnm>
+                </au>
+                <au>
+                   <snm>Witte</snm>
+                   <fnm>TK</fnm>
+                </au>
+                <au>
+                   <snm>Cukrowicz</snm>
+                   <fnm>KC</fnm>
+                </au>
+                <au>
+                   <snm>Braithwaite</snm>
+                   <fnm>SR</fnm>
+                </au>
+                <au>
+                   <snm>Selby</snm>
+                   <fnm>EA</fnm>
+                </au>
+                <au>
+                   <snm>Joiner</snm>
+                   <fnm>TE</fnm>
+                </au>
+             </aug>
+             <source>Psychol Rev</source>
+             <pubdate>2010</pubdate>
+             <volume>117</volume>
+             <fpage>575</fpage>
+             <lpage>600</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1037/a0018697</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20438238</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B21">
+             <title>
+                <p>SPIRIT, Statement: Defining standard protocol items for clinical trials</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Chan</snm>
+                   <fnm>AW</fnm>
+                </au>
+                <au>
+                   <snm>Tetzlaff</snm>
+                   <fnm>JM</fnm>
+                </au>
+                <au>
+                   <snm>Altman</snm>
+                   <fnm>DG</fnm>
+                </au>
+                <au>
+                   <snm>Laupacis</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>G&#248;tzsche</snm>
+                   <fnm>PC</fnm>
+                </au>
+                <au>
+                   <snm>Krle&#382;a-Jeri&#263;</snm>
+                   <fnm>K</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Ann Intern Med</source>
+             <pubdate>2013</pubdate>
+             <volume>158</volume>
+             <fpage>200</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.7326/0003-4819-158-3-201302050-00583</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23295957</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B22">
+             <title>
+                <p>SPIRIT 2013 explanation and elaboration: guidance for protocols of clinical trials</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Chan</snm>
+                   <fnm>AW</fnm>
+                </au>
+                <au>
+                   <snm>Tetzlaff</snm>
+                   <fnm>JM</fnm>
+                </au>
+                <au>
+                   <snm>G&#248;tzsche</snm>
+                   <fnm>PC</fnm>
+                </au>
+                <au>
+                   <snm>Altman</snm>
+                   <fnm>DG</fnm>
+                </au>
+                <au>
+                   <snm>Mann</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Berlin</snm>
+                   <fnm>JA</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>BMJ</source>
+             <pubdate>2013</pubdate>
+             <volume>346</volume>
+             <fpage>e7586</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/bmj.e7586</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23303884</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B23">
+             <title>
+                <p>The Columbia-Suicide Severity Rating Scale: Initial validity and internal consistency findings from three multisite studies with adolescents and adults</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Posner</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Brown</snm>
+                   <fnm>GK</fnm>
+                </au>
+                <au>
+                   <snm>Stanley</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Brent</snm>
+                   <fnm>DA</fnm>
+                </au>
+                <au>
+                   <snm>Yershova</snm>
+                   <fnm>KV</fnm>
+                </au>
+                <au>
+                   <snm>Oquendo</snm>
+                   <fnm>MA</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Am J Psychiatry</source>
+             <pubdate>2011</pubdate>
+             <volume>168</volume>
+             <fpage>1266</fpage>
+             <lpage>77</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1176/appi.ajp.2011.10111704</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22193671</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B24">
+             <title>
+                <p>Internet-based and other computerized psychological treatments for adult depression: A meta-analysis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Andersson</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Cuijpers</snm>
+                   <fnm>P</fnm>
+                </au>
+             </aug>
+             <source>Cogn Behav Ther</source>
+             <pubdate>2009</pubdate>
+             <volume>38</volume>
+             <fpage>196</fpage>
+             <lpage>205</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1080/16506070903318960</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20183695</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B25">
+             <title>
+                <p>Computer therapy for the anxiety and depression disorders is effective, acceptable and practical health care: A meta-analysis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Andrews</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Cuijpers</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Craske</snm>
+                   <fnm>MG</fnm>
+                </au>
+                <au>
+                   <snm>McEnvoy</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Titov</snm>
+                   <fnm>N</fnm>
+                </au>
+             </aug>
+             <source>PLoS One</source>
+             <pubdate>2010</pubdate>
+             <volume>5</volume>
+             <fpage>e13196</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1371/journal.pone.0013196</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20967242</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B26">
+             <title>
+                <p>Internet-administered cognitive behavior therapy for health problems: a systematic review</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Cuijpers</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>van Straten</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Andersson</snm>
+                   <fnm>G</fnm>
+                </au>
+             </aug>
+             <source>J Behav Med</source>
+             <pubdate>2008</pubdate>
+             <volume>31</volume>
+             <fpage>169</fpage>
+             <lpage>77</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1007/s10865-007-9144-1</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18165893</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B27">
+             <title>
+                <p>A systematic review of internet-based therapy for the treatment of addictions</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Gainsbury</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Blaszczynski</snm>
+                   <fnm>A</fnm>
+                </au>
+             </aug>
+             <source>Clin Psychol Rev</source>
+             <pubdate>2011</pubdate>
+             <volume>31</volume>
+             <fpage>490</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.cpr.2010.11.007</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21146272</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B28">
+             <title>
+                <p>Online alcohol interventions: A systematic review</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>White</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Kavanagh</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Stallman</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Klein</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Kay-Lambkin</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Proudfoot</snm>
+                   <fnm>J</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>JMIR</source>
+             <pubdate>2010</pubdate>
+             <volume>12</volume>
+             <fpage>e62</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">21169175</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B29">
+             <title>
+                <p>The efficacy of internet interventions for depression and anxiety disorders: a review of randomised controlled trials</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Griffiths</snm>
+                   <fnm>KM</fnm>
+                </au>
+                <au>
+                   <snm>Farrer</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Christensen</snm>
+                   <fnm>H</fnm>
+                </au>
+             </aug>
+             <source>MJA</source>
+             <pubdate>2010</pubdate>
+             <volume>192</volume>
+             <fpage>S4</fpage>
+             <lpage>11</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">20528707</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B30">
+             <title>
+                <p>The empirical status of cognitive-behavioral therapy: A review of meta-analyses</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Butler</snm>
+                   <fnm>AC</fnm>
+                </au>
+                <au>
+                   <snm>Chapman</snm>
+                   <fnm>JE</fnm>
+                </au>
+                <au>
+                   <snm>Forman</snm>
+                   <fnm>EM</fnm>
+                </au>
+                <au>
+                   <snm>Beck</snm>
+                   <fnm>AT</fnm>
+                </au>
+             </aug>
+             <source>Clin Psychol Rev</source>
+             <pubdate>2006</pubdate>
+             <volume>26</volume>
+             <fpage>17</fpage>
+             <lpage>31</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.cpr.2005.07.003</pubid>
+                   <pubid idtype="pmpid" link="fulltext">16199119</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B31">
+             <title>
+                <p>Internet and psychological treatment. How well can they be combined?</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Carlbring</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Andersson</snm>
+                   <fnm>G</fnm>
+                </au>
+             </aug>
+             <source>Comput Human Behav</source>
+             <pubdate>2006</pubdate>
+             <volume>22</volume>
+             <fpage>545</fpage>
+             <lpage>53</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.chb.2004.10.009</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B32">
+             <title>
+                <p>Cognitive-behavioral interventions to reduce suicide behavior. A systematic review and meta-analysis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Tarrier</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Taylor</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Gooding</snm>
+                   <fnm>P</fnm>
+                </au>
+             </aug>
+             <source>Behav Modif</source>
+             <pubdate>2008</pubdate>
+             <volume>32</volume>
+             <fpage>77</fpage>
+             <lpage>108</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1177/0145445507304728</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18096973</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B33">
+             <aug>
+                <au>
+                   <snm>Wenzel</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Brown</snm>
+                   <fnm>GK</fnm>
+                </au>
+                <au>
+                   <snm>Beck</snm>
+                   <fnm>AT</fnm>
+                </au>
+             </aug>
+             <source>Cognitive therapy for suicidal patients: Scientific and clinical applications</source>
+             <publisher>American Psychological Association, Washington, DC</publisher>
+             <pubdate>2009</pubdate>
+          </bibl>
+          <bibl id="B34">
+             <aug>
+                <au>
+                   <snm>Linehan</snm>
+                   <fnm>MM</fnm>
+                </au>
+             </aug>
+             <source>Cognitive-Behavioral Treatment of Borderline Personality Disorder</source>
+             <publisher>Guilford Press, New York, NY</publisher>
+             <pubdate>1993</pubdate>
+          </bibl>
+          <bibl id="B35">
+             <aug>
+                <au>
+                   <snm>Linehan</snm>
+                   <fnm>MM</fnm>
+                </au>
+             </aug>
+             <source>Skills Training Manual for Treating Borderline Personality Disorder</source>
+             <publisher>Guilford Press, New York, NY</publisher>
+             <pubdate>1993</pubdate>
+          </bibl>
+          <bibl id="B36">
+             <title>
+                <p>Sustained efficacy of dialectical behaviour therapy for borderline personality disorder</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>van den Bosch</snm>
+                   <fnm>LMC</fnm>
+                </au>
+                <au>
+                   <snm>Koeter</snm>
+                   <fnm>MWJ</fnm>
+                </au>
+                <au>
+                   <snm>Stijnen</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Verheul</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>van den Brink</snm>
+                   <fnm>W</fnm>
+                </au>
+             </aug>
+             <source>Behav Res Ther</source>
+             <pubdate>2005</pubdate>
+             <volume>43</volume>
+             <fpage>1231</fpage>
+             <lpage>41</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.brat.2004.09.008</pubid>
+                   <pubid idtype="pmpid" link="fulltext">16005708</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B37">
+             <title>
+                <p>Dialectical behaviour therapy for women with borderline personality disorder</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Verheul</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>van den Bosch</snm>
+                   <fnm>LMC</fnm>
+                </au>
+                <au>
+                   <snm>Koeter</snm>
+                   <fnm>MWJ</fnm>
+                </au>
+                <au>
+                   <snm>de Ridder</snm>
+                   <fnm>MAJ</fnm>
+                </au>
+                <au>
+                   <snm>Stijnen</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>van den Brink</snm>
+                   <fnm>W</fnm>
+                </au>
+             </aug>
+             <source>Br J Psychiatry</source>
+             <pubdate>2003</pubdate>
+             <volume>182</volume>
+             <fpage>135</fpage>
+             <lpage>40</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1192/bjp.182.2.135</pubid>
+                   <pubid idtype="pmpid" link="fulltext">12562741</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B38">
+             <title>
+                <p>Psychosocial and pharmacological treatments for deliberate self-harm (review)</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hawton</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Townsend</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Arensman</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Gunnell</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Hazell</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>House</snm>
+                   <fnm>A</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Cochrane Database Syst Rev</source>
+             <pubdate>2000</pubdate>
+             <volume>2</volume>
+             <fpage>CD001764</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">10796818</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B39">
+             <title>
+                <p>The efficacy of problem-solving treatments after deliberate self-harm: meta-analysis of randomized controlled trials with respect to depression, hopelessness and improvement in problems</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Townsend</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Hawton</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Altman</snm>
+                   <fnm>DG</fnm>
+                </au>
+                <au>
+                   <snm>Arensman</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Gunnell</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Hazell</snm>
+                   <fnm>P</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Psychol Med</source>
+             <pubdate>2001</pubdate>
+             <volume>31</volume>
+             <fpage>979</fpage>
+             <lpage>88</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1017/S0033291701004238</pubid>
+                   <pubid idtype="pmpid" link="fulltext">11513383</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B40">
+             <title>
+                <p>Mindfulness-based cognitive therapy as a treatment for chronic depression: A preliminary study</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Barnhofer</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Crane</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Hargus</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Amarasinghe</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Winder</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Williams</snm>
+                   <fnm>JMG</fnm>
+                </au>
+             </aug>
+             <source>Behav Res Ther</source>
+             <pubdate>2009</pubdate>
+             <volume>47</volume>
+             <fpage>366</fpage>
+             <lpage>73</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.brat.2009.01.019</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19249017</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B41">
+             <title>
+                <p>Mindfulness-based cognitive therapy for prevention of recurrence of suicidal behavior</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Williams</snm>
+                   <fnm>JMG</fnm>
+                </au>
+                <au>
+                   <snm>Duggan</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Crane</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Fennell</snm>
+                   <fnm>MJV</fnm>
+                </au>
+             </aug>
+             <source>J Clin Psychol</source>
+             <pubdate>2006</pubdate>
+             <volume>62</volume>
+             <fpage>201</fpage>
+             <lpage>10</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1002/jclp.20223</pubid>
+                   <pubid idtype="pmpid" link="fulltext">16342287</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B42">
+             <title>
+                <p>The use of mindfulness-based approaches for suicidal patients</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Williams</snm>
+                   <fnm>JMG</fnm>
+                </au>
+                <au>
+                   <snm>Swales</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>Arch Suicide Res</source>
+             <pubdate>2004</pubdate>
+             <volume>8</volume>
+             <fpage>315</fpage>
+             <lpage>29</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1080/13811110490476671</pubid>
+                   <pubid idtype="pmpid" link="fulltext">16081399</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B43">
+             <title>
+                <p>Worrying and rumination as proximal risk factors for suicidal behaviour</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kerkhof</snm>
+                   <fnm>AJFM</fnm>
+                </au>
+                <au>
+                   <snm>Van Spijker</snm>
+                   <fnm>BAJ</fnm>
+                </au>
+             </aug>
+             <source>International Handboook of Suicide Prevention: Research, Policy and Practice</source>
+             <publisher>Wiley - Blackwell, Chichester</publisher>
+             <editor>O'Connor RC, Platt S, Gordon J</editor>
+             <pubdate>2011</pubdate>
+             <fpage>199</fpage>
+             <lpage>209</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1002/9781119998556.ch12</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B44">
+             <title>
+                <p>Metacognitive therapy for worry and generalised anxiety disorder</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Wells</snm>
+                   <fnm>A</fnm>
+                </au>
+             </aug>
+             <source>Worry and its psychological disorders: Theory, Assessment and Treatment</source>
+             <publisher>John Wiley &amp; Sons, Ltd, Chichester</publisher>
+             <editor>Davey GCL, Wells A</editor>
+             <pubdate>2006</pubdate>
+             <fpage>259</fpage>
+             <lpage>72</lpage>
+          </bibl>
+          <bibl id="B45">
+             <title>
+                <p>You want to measure coping but your protocol's too long: consider the brief COPE</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Carver</snm>
+                   <fnm>CS</fnm>
+                </au>
+             </aug>
+             <source>Int J Behav Med</source>
+             <pubdate>1997</pubdate>
+             <volume>4</volume>
+             <fpage>92</fpage>
+             <lpage>100</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1207/s15327558ijbm0401_6</pubid>
+                   <pubid idtype="pmpid" link="fulltext">16250744</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B46">
+             <title>
+                <p>The brief reasons for living inventory for adolescents (BRFL-A)</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Osman</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Kopper</snm>
+                   <fnm>BA</fnm>
+                </au>
+                <au>
+                   <snm>Barrios</snm>
+                   <fnm>FX</fnm>
+                </au>
+                <au>
+                   <snm>Osman</snm>
+                   <fnm>JR</fnm>
+                </au>
+                <au>
+                   <snm>Besett</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Linehan</snm>
+                   <fnm>MM</fnm>
+                </au>
+             </aug>
+             <source>J Abnorm Child Psychol</source>
+             <pubdate>1996</pubdate>
+             <volume>24</volume>
+             <fpage>433</fpage>
+             <lpage>43</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1007/BF01441566</pubid>
+                   <pubid idtype="pmpid" link="fulltext">8886940</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B47">
+             <title>
+                <p>The CES-D scale: a self-report depression scale for research in the general population</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Sawyer</snm>
+                   <fnm>RL</fnm>
+                </au>
+             </aug>
+             <source>Appl Psychol Meas</source>
+             <pubdate>1977</pubdate>
+             <volume>1</volume>
+             <fpage>385</fpage>
+             <lpage>401</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1177/014662167700100306</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B48">
+             <title>
+                <p>A brief measure for assessing generalized anxiety disorder: the GAD-7</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Spitzer</snm>
+                   <fnm>RL</fnm>
+                </au>
+                <au>
+                   <snm>Kroenke</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Williams</snm>
+                   <fnm>JB</fnm>
+                </au>
+                <au>
+                   <snm>Lowe</snm>
+                   <fnm>B</fnm>
+                </au>
+             </aug>
+             <source>Arch Intern Med</source>
+             <pubdate>2006</pubdate>
+             <volume>166</volume>
+             <fpage>1092</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1001/archinte.166.10.1092</pubid>
+                   <pubid idtype="pmpid" link="fulltext">16717171</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B49">
+             <title>
+                <p>Rumination reconsidered: A psychometric analysis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Treynor</snm>
+                   <fnm>W</fnm>
+                </au>
+                <au>
+                   <snm>Gonzalez</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Nolen-Hoeksema</snm>
+                   <fnm>S</fnm>
+                </au>
+             </aug>
+             <source>Cognit Ther Res</source>
+             <pubdate>2003</pubdate>
+             <volume>26</volume>
+             <fpage>167</fpage>
+             <lpage>77</lpage>
+          </bibl>
+          <bibl id="B50">
+             <title>
+                <p>A prospective study of depression and posttraumatic stress symptoms after a natural disaster: The, Loma Prieta earthquake</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Nolen-Hoeksema</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Morrow</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>J Pers Soc Psychol</source>
+             <pubdate>1991</pubdate>
+             <volume>61</volume>
+             <fpage>115</fpage>
+             <lpage>21</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1037/0022-3514.61.1.115</pubid>
+                   <pubid idtype="pmpid" link="fulltext">1890582</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B51">
+             <note>Spitzer RL, Williams JBW, Kroenke K. Instructions for Patient Health Questionnaire (PHQ) and GAD-7 measures. <url>http://www.phqscreeners.com/overview.aspx</url> n.d. Accessed 14 August 2014.</note>
+          </bibl>
+          <bibl id="B52">
+             <title>
+                <p>Validity and utility of a self-report version of PRIME-MD. The PHQ primary care study</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Spitzer</snm>
+                   <fnm>RL</fnm>
+                </au>
+                <au>
+                   <snm>Kroenke</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Williams</snm>
+                   <fnm>JB</fnm>
+                </au>
+             </aug>
+             <source>JAMA</source>
+             <pubdate>1999</pubdate>
+             <volume>282</volume>
+             <fpage>1737</fpage>
+             <lpage>44</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1001/jama.282.18.1737</pubid>
+                   <pubid idtype="pmpid" link="fulltext">10568646</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B53">
+             <title>
+                <p>Suicidal desire and the capability for suicide: Test of the interpersonal-psychological theory of suicidal behavior among adults</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>van Orden</snm>
+                   <fnm>KA</fnm>
+                </au>
+                <au>
+                   <snm>Witte</snm>
+                   <fnm>TK</fnm>
+                </au>
+                <au>
+                   <snm>Gordon</snm>
+                   <fnm>KH</fnm>
+                </au>
+                <au>
+                   <snm>Bender</snm>
+                   <fnm>TW</fnm>
+                </au>
+                <au>
+                   <snm>Joiner</snm>
+                   <fnm>TE</fnm>
+                </au>
+             </aug>
+             <source>J Consult Clin Psychol</source>
+             <pubdate>2008</pubdate>
+             <volume>76</volume>
+             <fpage>72</fpage>
+             <lpage>83</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1037/0022-006X.76.1.72</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18229985</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B54">
+             <title>
+                <p>The AUDIT alcohol consumption questions (AUDIT-C)</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bush</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Kivlahan</snm>
+                   <fnm>DR</fnm>
+                </au>
+                <au>
+                   <snm>McDonell</snm>
+                   <fnm>MB</fnm>
+                </au>
+                <au>
+                   <snm>Fihn</snm>
+                   <fnm>SD</fnm>
+                </au>
+                <au>
+                   <snm>Bradley</snm>
+                   <fnm>KA</fnm>
+                </au>
+             </aug>
+             <source>Arch Intern Med</source>
+             <pubdate>1998</pubdate>
+             <volume>158</volume>
+             <fpage>1789</fpage>
+             <lpage>95</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1001/archinte.158.16.1789</pubid>
+                   <pubid idtype="pmpid" link="fulltext">9738608</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B55">
+             <title>
+                <p>Validation of the Insomnis Severity Index as an outcome measure for insomnia research</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bastien</snm>
+                   <fnm>CH</fnm>
+                </au>
+                <au>
+                   <snm>Valli&#232;res</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Morin</snm>
+                   <fnm>CM</fnm>
+                </au>
+             </aug>
+             <source>Sleep Med</source>
+             <pubdate>2001</pubdate>
+             <volume>2</volume>
+             <fpage>297</fpage>
+             <lpage>307</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S1389-9457(00)00065-4</pubid>
+                   <pubid idtype="pmpid" link="fulltext">11438246</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B56">
+             <title>
+                <p>The Insomnia Severity Index: Psychometric indicators to detect insomnia cases and evaluate treatment response</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Morin</snm>
+                   <fnm>CM</fnm>
+                </au>
+                <au>
+                   <snm>Belleville</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>B&#233;langer</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Ivers</snm>
+                   <fnm>H</fnm>
+                </au>
+             </aug>
+             <source>Sleep</source>
+             <pubdate>2011</pubdate>
+             <volume>34</volume>
+             <fpage>601</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">21532953</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B57">
+             <title>
+                <p>Real world use of an Internet intervention for pediatric encopresis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Ritterband</snm>
+                   <fnm>LM</fnm>
+                </au>
+                <au>
+                   <snm>Ardalan</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Thorndike</snm>
+                   <fnm>FP</fnm>
+                </au>
+                <au>
+                   <snm>Magee</snm>
+                   <fnm>JC</fnm>
+                </au>
+                <au>
+                   <snm>Saylor</snm>
+                   <fnm>DK</fnm>
+                </au>
+                <au>
+                   <snm>Cox</snm>
+                   <fnm>DJ</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>J Med Internet Res</source>
+             <pubdate>2008</pubdate>
+             <volume>10</volume>
+             <fpage>e16</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.2196/jmir.1081</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18653440</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B58">
+             <title>
+                <p>Development and perceived utility and impact of an Internet intervention for insomnia</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Thorndike</snm>
+                   <fnm>FP</fnm>
+                </au>
+                <au>
+                   <snm>Saylor</snm>
+                   <fnm>DK</fnm>
+                </au>
+                <au>
+                   <snm>Bailey</snm>
+                   <fnm>ET</fnm>
+                </au>
+                <au>
+                   <snm>Gonder-Frederick</snm>
+                   <fnm>LA</fnm>
+                </au>
+                <au>
+                   <snm>Morin</snm>
+                   <fnm>CM</fnm>
+                </au>
+                <au>
+                   <snm>Ritterband</snm>
+                   <fnm>LM</fnm>
+                </au>
+             </aug>
+             <source>E J Appl Psychol</source>
+             <pubdate>2008</pubdate>
+             <volume>4</volume>
+             <fpage>32</fpage>
+             <lpage>42</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.7790/ejap.v4i2.133</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20953264</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B59">
+             <title>
+                <p>Measuring help-seeking intentions: Properties of the General Help-Seeking Questionnaire</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Wilson</snm>
+                   <fnm>CJ</fnm>
+                </au>
+                <au>
+                   <snm>Deane</snm>
+                   <fnm>FP</fnm>
+                </au>
+                <au>
+                   <snm>Ciarrochi</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>Can J Counsel</source>
+             <pubdate>2005</pubdate>
+             <volume>39</volume>
+             <fpage>15</fpage>
+             <lpage>28</lpage>
+          </bibl>
+          <bibl id="B60">
+             <title>
+                <p>The Suicidal Ideation Attributes Scale (SIDAS): Community-based validation study of a new scale for the measurement of suicidal ideation</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>van Spijker</snm>
+                   <fnm>BAJ</fnm>
+                </au>
+                <au>
+                   <snm>Batterham</snm>
+                   <fnm>PJ</fnm>
+                </au>
+                <au>
+                   <snm>Calear</snm>
+                   <fnm>AL</fnm>
+                </au>
+                <au>
+                   <snm>Farrer</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Christensen</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Reynolds</snm>
+                   <fnm>J</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Suicide Life Threat Behav</source>
+             <pubdate>2014</pubdate>
+             <volume>44</volume>
+             <fpage>408</fpage>
+             <lpage>19</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/sltb.12084</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24612048</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B61">
+             <title>
+                <p>Costing psychiatric interventions</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Beecham</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Knapp</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>Measuring mental health needs</source>
+             <publisher>Gaskell/Royal College of Psychiatrists, London</publisher>
+             <editor>Thornicroft G, Brewin CR</editor>
+             <pubdate>1992</pubdate>
+             <fpage>163</fpage>
+             <lpage>83</lpage>
+          </bibl>
+          <bibl id="B62">
+             <aug>
+                <au>
+                   <snm>Ware</snm>
+                   <fnm>JE</fnm>
+                </au>
+                <au>
+                   <snm>Kolinski</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Keller</snm>
+                   <fnm>SD</fnm>
+                </au>
+             </aug>
+             <source>How to score the SF-12 physical and mental health summaries: A user's manual</source>
+             <publisher>The Health Institute, New England Medical Centre, Boston, MA</publisher>
+             <pubdate>1995</pubdate>
+          </bibl>
+          <bibl id="B63">
+             <title>
+                <p>The estimation of a preference-based measure of health from the SF-12</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Brazier</snm>
+                   <fnm>JE</fnm>
+                </au>
+                <au>
+                   <snm>Robers</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>Med Care</source>
+             <pubdate>2004</pubdate>
+             <volume>42</volume>
+             <fpage>851</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/01.mlr.0000135827.18610.0d</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15319610</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B64">
+             <aug>
+                <au>
+                   <snm>&#220;st&#252;n</snm>
+                   <fnm>TB</fnm>
+                </au>
+                <au>
+                   <snm>Kostansjsek</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Chatterji</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Rehm</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>Measuring health and disability: Manual for WHO Disability Assessment Schedule (WHODAS 2.0)</source>
+             <publisher>World Health Organisation, Geneva</publisher>
+             <pubdate>2010</pubdate>
+          </bibl>
+          <bibl id="B65">
+             <title>
+                <p>Developing the World Health Organization Disability Assessment Schedule 2.0</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Ustun</snm>
+                   <fnm>TB</fnm>
+                </au>
+                <au>
+                   <snm>Chatterji</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Kostansjsek</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Rehm</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Kennedy</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Epping-Jordan</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>Bull World Health Organ</source>
+             <pubdate>2010</pubdate>
+             <volume>88</volume>
+             <fpage>815</fpage>
+             <lpage>23</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.2471/BLT.09.067231</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21076562</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B66">
+             <title>
+                <p>Cost-utility and cost-effectiveness of internet-based treatment for adults with depressive symptoms: Randomized trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Warmerdam</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Smit</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>van Straten</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Riper</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Cuijpers</snm>
+                   <fnm>P</fnm>
+                </au>
+             </aug>
+             <source>J Med Internet Res</source>
+             <pubdate>2010</pubdate>
+             <volume>12</volume>
+             <fpage>e53</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.2196/jmir.1436</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21169166</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B67">
+             <title>
+                <p>Economic evaluation of online computerised cognitive-behavioural therapy without support for depression in primary care: randomised trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Gerhards</snm>
+                   <fnm>SAH</fnm>
+                </au>
+                <au>
+                   <snm>de Graaf</snm>
+                   <fnm>LE</fnm>
+                </au>
+                <au>
+                   <snm>Jacobs</snm>
+                   <fnm>LE</fnm>
+                </au>
+                <au>
+                   <snm>Severens</snm>
+                   <fnm>JL</fnm>
+                </au>
+                <au>
+                   <snm>Huibers</snm>
+                   <fnm>MJH</fnm>
+                </au>
+                <au>
+                   <snm>Arntz</snm>
+                   <fnm>A</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Br J Psychiatry</source>
+             <pubdate>2010</pubdate>
+             <volume>196</volume>
+             <fpage>310</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1192/bjp.bp.109.065748</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20357309</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B68">
+             <title>
+                <p>Internet-based interventions for problem drinkers: From efficacy trials to implementation</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Cunningham</snm>
+                   <fnm>JA</fnm>
+                </au>
+                <au>
+                   <snm>Khadjesari</snm>
+                   <fnm>Z</fnm>
+                </au>
+                <au>
+                   <snm>Bewick</snm>
+                   <fnm>BM</fnm>
+                </au>
+                <au>
+                   <snm>Riper</snm>
+                   <fnm>H</fnm>
+                </au>
+             </aug>
+             <source>Drug Alcohol Rev</source>
+             <pubdate>2010</pubdate>
+             <volume>29</volume>
+             <fpage>617</fpage>
+             <lpage>22</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1465-3362.2010.00201.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20973846</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B69">
+             <title>
+                <p>The law of attrition</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Eysenbach</snm>
+                   <fnm>G</fnm>
+                </au>
+             </aug>
+             <source>J Med Internet Res</source>
+             <pubdate>2005</pubdate>
+             <volume>7</volume>
+             <fpage>e11</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.2196/jmir.7.1.e11</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15829473</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B70">
+             <title>
+                <p>Dropout from internet-based treatment for psychological disorders</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Melville</snm>
+                   <fnm>KM</fnm>
+                </au>
+                <au>
+                   <snm>Casey</snm>
+                   <fnm>LM</fnm>
+                </au>
+                <au>
+                   <snm>Kavanagh</snm>
+                   <fnm>DJ</fnm>
+                </au>
+             </aug>
+             <source>Br J Clin Psychol</source>
+             <pubdate>2010</pubdate>
+             <volume>49</volume>
+             <fpage>455</fpage>
+             <lpage>71</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1348/014466509X472138</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19799804</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+       </refgrp>
+    </bm>
+ </art>

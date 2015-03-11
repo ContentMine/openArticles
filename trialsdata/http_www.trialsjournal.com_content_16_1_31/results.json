@@ -1,0 +1,106 @@
+{
+  "publisher": {
+    "value": [
+      "BioMed Central Ltd"
+    ]
+  },
+  "journal": {
+    "value": [
+      "Trials"
+    ]
+  },
+  "title": {
+    "value": [
+      "Effectiveness of three oral hygiene regimens on oral malodor reduction: a randomized clinical trial"
+    ]
+  },
+  "authors": {
+    "value": [
+      "Ei E Aung",
+      "Masayuki Ueno",
+      "Takashi Zaitsu",
+      "Sayaka Furukawa",
+      "Yoko Kawaguchi"
+    ]
+  },
+  "date": {
+    "value": [
+      "2015-01-27"
+    ]
+  },
+  "doi": {
+    "value": [
+      "10.1186/s13063-015-0549-9"
+    ]
+  },
+  "volume": {
+    "value": [
+      "16"
+    ]
+  },
+  "issue": {
+    "value": [
+      "1"
+    ]
+  },
+  "firstpage": {
+    "value": [
+      "31"
+    ]
+  },
+  "description": {
+    "value": [
+      "Breath odor is a nuisance problem for many people around the world. Bad breath affects social interactions of people in daily life by causing personal discomfort and emotional stress. There are chemical and mechanical methods for controlling oral malodor. Many studies of various mouth rinse applications and tongue cleaning procedures have been conducted. However, few studies have compared the effect of simultaneous chemical and mechanical procedures on the reduction of volatile sulfur compounds (VSCs) in subjects with oral malodor. The purpose of this study was to assess the effects of different oral hygiene procedures on reduction of VSCs in subjects with oral malodor."
+    ]
+  },
+  "abstract": {
+    "value": [
+      "Breath odor is a nuisance problem for many people around the world. Bad breath affects social interactions of people in daily life by causing personal discomfort and emotional stress. There are chemical and mechanical methods for controlling oral malodor. Many studies of various mouth rinse applications and tongue cleaning procedures have been conducted. However, few studies have compared the effect of simultaneous chemical and mechanical procedures on the reduction of volatile sulfur compounds (VSCs) in subjects with oral malodor. The purpose of this study was to assess the effects of different oral hygiene procedures on reduction of VSCs in subjects with oral malodor."
+    ]
+  },
+  "fulltext_html": {
+    "value": [
+      "http://www.trialsjournal.com/content/16/1/31"
+    ]
+  },
+  "fulltext_pdf": {
+    "value": [
+      "http://www.trialsjournal.com/content/pdf/s13063-015-0549-9.pdf"
+    ]
+  },
+  "fulltext_xml": {
+    "value": [
+      "/content/download/xml/s13063-015-0549-9.xml"
+    ]
+  },
+  "supplementary_material": {
+    "value": []
+  },
+  "figure": {
+    "value": [
+      "/content/figures/s13063-015-0549-9-1.gif",
+      "/content/figures/s13063-015-0549-9-2.gif",
+      "/content/figures/s13063-015-0549-9-3.gif"
+    ]
+  },
+  "figure_caption": {
+    "value": [
+      "Figure 1.",
+      "Diagram of study protocol.",
+      "Figure 2.",
+      "Changes of mean total VSCs (ppb) in groups A and B.",
+      "Figure 3.",
+      "Changes of the percentage of subjects with oral malodor in groups A and B."
+    ]
+  },
+  "license": {
+    "value": [
+      "\r\n\t\t\t\tThis is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.\r\n\t\t\t"
+    ]
+  },
+  "copyright": {
+    "value": [
+      "\r\n            © 2015 Aung et al.; licensee BioMed Central. \r\n        "
+    ]
+  }
+}

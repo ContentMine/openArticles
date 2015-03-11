@@ -1,0 +1,1800 @@
+<?xml version='1.0'?>
+<!DOCTYPE art SYSTEM 'http://www.biomedcentral.com/xml/article.dtd'>
+<art>
+    <ui>s13063-014-0528-6</ui>
+    <ji>1745-6215</ji>
+    <fm>
+       <dochead>Study protocol</dochead>
+       <bibl>
+          <title>
+             <p>Erythropoietin in traumatic brain injury: study protocol for a randomised controlled trial</p>
+          </title>
+          <aug>
+             <au id="A1">
+                <snm>Nichol</snm>
+                <fnm>Alistair</fnm>
+                <insr iid="I1"/>
+                <insr iid="I2"/>
+                <insr iid="I3"/>
+                <insr iid="I4"/>
+                <email>alistair.nichol@monash.edu</email>
+             </au>
+             <au id="A2">
+                <snm>French</snm>
+                <fnm>Craig</fnm>
+                <insr iid="I5"/>
+                <insr iid="I6"/>
+                <email>craig.french@wh.org.au</email>
+             </au>
+             <au id="A3">
+                <snm>Little</snm>
+                <fnm>Lorraine</fnm>
+                <insr iid="I1"/>
+                <email>lorraine.little@monash.edu</email>
+             </au>
+             <au id="A4">
+                <snm>Presneill</snm>
+                <fnm>Jeffrey</fnm>
+                <insr iid="I1"/>
+                <insr iid="I7"/>
+                <email>intensive@fastmail.com.au</email>
+             </au>
+             <au id="A5">
+                <snm>Cooper</snm>
+                <mnm>James</mnm>
+                <fnm>D</fnm>
+                <insr iid="I1"/>
+                <insr iid="I2"/>
+                <email>jamie.cooper@monash.edu</email>
+             </au>
+             <au id="A6">
+                <snm>Haddad</snm>
+                <fnm>Samir</fnm>
+                <insr iid="I1"/>
+                <insr iid="I8"/>
+                <email>haddads55@yahoo.com</email>
+             </au>
+             <au id="A7">
+                <snm>Duranteau</snm>
+                <fnm>Jacques</fnm>
+                <insr iid="I1"/>
+                <insr iid="I9"/>
+                <email>jacques.duranteau@bct.aphp.fr</email>
+             </au>
+             <au id="A8">
+                <snm>Huet</snm>
+                <fnm>Olivier</fnm>
+                <insr iid="I10"/>
+                <email>olivier.huet@chu-brest.fr</email>
+             </au>
+             <au id="A9">
+                <snm>Skrifvars</snm>
+                <fnm>Markus</fnm>
+                <insr iid="I11"/>
+                <email>Markus.Skrifvars@hus.fi</email>
+             </au>
+             <au id="A10">
+                <snm>Arabi</snm>
+                <fnm>Yaseen</fnm>
+                <insr iid="I1"/>
+                <insr iid="I12"/>
+                <email>Arabi@NGHA.MED.SA</email>
+             </au>
+             <au id="A11" ca="yes">
+                <snm>Bellomo</snm>
+                <fnm>Rinaldo</fnm>
+                <insr iid="I1"/>
+                <insr iid="I6"/>
+                <insr iid="I13"/>
+                <email>rinaldo.bellomo@austin.org.au</email>
+             </au>
+             <au id="A12" type="on_behalf">
+                <cnm>On behalf of the EPO-TBI Investigators and the Australian and New Zealand Intensive Care Society Clinical Trials Group</cnm>
+             </au>
+          </aug>
+          <insg>
+             <ins id="I1">
+                <p>Australian and New Zealand Intensive Care Research Centre, School of Public Health and Preventive Medicine, Monash University, 99 Commercial Road, Melbourne 3004, Australia</p>
+             </ins>
+             <ins id="I2">
+                <p>Department of Intensive Care Medicine, The Alfred, Commercial Road, Melbourne 3004, Australia</p>
+             </ins>
+             <ins id="I3">
+                <p>Department of Anaesthesia and Intensive Care Medicine, St Vincent&#8217;s University Hospital, Elm Park, Dublin 4, Ireland</p>
+             </ins>
+             <ins id="I4">
+                <p>School of Medicine and Medical Sciences, University College Dublin, Elm Park, Dublin 4, Ireland</p>
+             </ins>
+             <ins id="I5">
+                <p>Department of Intensive Care, Western Health, Gordon Street, Footscray 3011, Australia</p>
+             </ins>
+             <ins id="I6">
+                <p>Department of Medicine North West Academic Centre, The University of Melbourne, Grattan Street, Parkville 3052, Australia</p>
+             </ins>
+             <ins id="I7">
+                <p>Department of Intensive Care, Mater Health Services, Raymond Terrace, South Brisbane 4101, Australia</p>
+             </ins>
+             <ins id="I8">
+                <p>Department of Intensive Care, King Abdulaziz Medical City, Riyadh 11426, Kingdom of Saudi Arabia</p>
+             </ins>
+             <ins id="I9">
+                <p>Service d&#8217;Anesth&#233;sie-R&#233;animation, H&#244;pitaux universitaires Paris Sud, Assistance Publique des H&#244;pitaux de Paris, H&#244;pital de Bic&#234;tre, 78, rue du G&#233;n&#233;ral Leclerc, Le Kremlin Bic&#234;tre, 94275, France</p>
+             </ins>
+             <ins id="I10">
+                <p>Department of Anesthesiology and Intensive Care Medicine, Centre Hospitalier Universitaire La Cavale Blanche Universit&#233; de Bretagne Ouest, Brest Cedex, 29609, France</p>
+             </ins>
+             <ins id="I11">
+                <p>Department of Anaesthesiology and Intensive Care Medicine, Helsinki University Hospital, Helsinki, FIN-00029, Finland</p>
+             </ins>
+             <ins id="I12">
+                <p>Intensive Care Department, College of Medicine King Saud Bin Abdulaziz University for Health Sciences and King Abdullah International Medical Research Center, Riyadh 11426, Kingdom of Saudi Arabia</p>
+             </ins>
+             <ins id="I13">
+                <p>Department of Intensive Care, Austin Health, Studley Road, Heidelberg 3084, Australia</p>
+             </ins>
+          </insg>
+          <source>Trials</source>
+          <issn>1745-6215</issn>
+          <pubdate>2015</pubdate>
+          <volume>16</volume>
+          <issue>1</issue>
+          <fpage>39</fpage>
+          <url>http://www.trialsjournal.com/content/16/1/39</url>
+          <xrefbib>
+             <pubidlist>
+                <pubid idtype="doi">10.1186/s13063-014-0528-6</pubid>
+             </pubidlist>
+          </xrefbib>
+       </bibl>
+       <history>
+          <rec>
+             <date>
+                <day>5</day>
+                <month>9</month>
+                <year>2014</year>
+             </date>
+          </rec>
+          <acc>
+             <date>
+                <day>19</day>
+                <month>12</month>
+                <year>2014</year>
+             </date>
+          </acc>
+          <pub>
+             <date>
+                <day>8</day>
+                <month>2</month>
+                <year>2015</year>
+             </date>
+          </pub>
+       </history>
+       <cpyrt>
+          <year>2015</year>
+          <collab>Nichol et al.; licensee BioMed Central.</collab>
+          <note>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/4.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (<url>http://creativecommons.org/publicdomain/zero/1.0/</url>) applies to the data made available in this article, unless otherwise stated.</note>
+       </cpyrt>
+       <kwdg>
+          <kwd>Traumatic brain injury</kwd>
+          <kwd>Erythropoietin</kwd>
+          <kwd>Outcome</kwd>
+          <kwd>Critical care</kwd>
+          <kwd>Randomised controlled trials</kwd>
+       </kwdg>
+       <abs>
+          <sec>
+             <st>
+                <p>Abstract</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Background</p>
+                </st>
+                <p>Traumatic brain injury is a leading cause of death and disability worldwide. Laboratory and clinical studies demonstrate a possible beneficial effect of erythropoietin in improving outcomes in the traumatic brain injury cohort. However, there are concerns regarding the association of erythropoietin and thrombosis in the critically ill. A large-scale, multi-centre, blinded, parallel-group, placebo-controlled, randomised trial is currently underway to address this hypothesis.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Methods/design</p>
+                </st>
+                <p>The erythropoietin in traumatic brain injury trial is a stratified prospective, multi-centre, randomised, blinded, parallel-group, placebo-controlled phase III trial. It aims to determine whether the administration of erythropoietin compared to placebo improves neurological outcome in patients with moderate or severe traumatic brain injury at six months after injury. The trial is designed to recruit 606 patients between 15 and 65 years of age with severe (Glasgow Coma Score: 3 to 8) or moderate (Glasgow Coma Score: 9 to 12) traumatic brain injury in Australia, New Zealand, Kingdom of Saudi Arabia, France, Finland, Germany and Ireland.</p>
+                <p>Trial patients will receive either subcutaneous erythropoietin or placebo within 24 hours of injury, and weekly thereafter for up to three doses during the intensive care unit admission. The primary outcome will be the combined proportion of unfavourable neurological outcomes at six months: severe disability or death. Secondary outcomes will include the rate of proximal deep venous thrombosis detected by compression Doppler ultrasound, six-month mortality, the proportion of patients with composite vascular events (deep venous thrombosis, pulmonary embolism, myocardial infarction, cardiac arrest and cerebrovascular events) at six months and quality of life with health economic evaluations.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Discussion</p>
+                </st>
+                <p>When completed, the trial aims to provide evidence on the efficacy and safety of erythropoietin in traumatic brain injury patients, and to provide clear guidance for clinicians in their management of this devastating condition.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Trial registration</p>
+                </st>
+                <p>Australian New Zealand Clinical Trials registry: <url>ACTRN12609000827235</url> (registered on 22 September 2009).</p>
+                <p>Clinicaltrials.gov: <url>NCT00987454</url> (registered on 29 September 2009). European Drug Regulatory Authorities Clinical Trials: 2011-005235-22 (registered on 18 January 2012).</p>
+             </sec>
+          </sec>
+       </abs>
+    </fm>
+    <bdy>
+       <sec>
+          <st>
+             <p>Background</p>
+          </st>
+          <p>Traumatic brain injury (TBI) is a devastating condition which affects close to 1,000 people each year in Australia, causes extensive long-term disability and suffering, which subsequently results in approximately 1 billion Australian dollars in lifetimes costs per year <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>. Disability follows from primary and secondary brain injury. Attenuation of secondary brain injury (decreasing the additional injury due to the inflammatory, excitotoxic and apoptotic response to trauma) is possible <abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp>. Erythropoietin (EPO) is a glycoprotein hormone with pleiotropic cytokine-like effects <abbrgrp>
+                <abbr bid="B3">3</abbr>
+             </abbrgrp>. EPO has effects, independent of those on erythropoiesis, which are relevant to patients who have had a TBI. They include anti-apoptotic activity and protective neurological effects in the presence of hypoxia and ischaemia <abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B4">4</abbr>
+             </abbrgrp>. A neuroprotective effect of EPO has been demonstrated in animal models of TBI <abbrgrp>
+                <abbr bid="B5">5</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B6">6</abbr>
+             </abbrgrp>. A large, multi-centre, randomised controlled trial (RCT) demonstrated that EPO improved survival in a retrospectively identified trauma cohort <abbrgrp>
+                <abbr bid="B7">7</abbr>
+             </abbrgrp>. A subsequent large RCT by the same group found that while EPO did not reduce transfusion rates, in a prospectively identified trauma cohort (including TBI) EPO significantly decreased 29-day mortality compared to a placebo (3.5 versus 6.6%) <abbrgrp>
+                <abbr bid="B8">8</abbr>
+             </abbrgrp>. Additional observational studies and one very small RCT support the hypothesis that EPO may improve neurological outcomes after TBI <abbrgrp>
+                <abbr bid="B9">9</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B10">10</abbr>
+             </abbrgrp>. However, many concerns have been raised about the ability of EPO to increase the risk of venous thromboembolism (VTE) <abbrgrp>
+                <abbr bid="B8">8</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B11">11</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B12">12</abbr>
+             </abbrgrp>. The United States Food and Drug Administration recently added a black box warning regarding this risk on EPO preparations. However, it is worth noting that the largest trial in the critically ill to date demonstrates a clear survival advantage in traumatically injured patients who are generally most vulnerable to VTE complications.</p>
+          <p>The question of whether the administration of EPO benefits patients with TBI remains unanswered. To address this evidence gap we are undertaking a large multi-centre, blinded, parallel-group, placebo-controlled randomised trial comparing the administration of EPO with a placebo. This trial will be sufficiently powered to detect clinically relevant differences in neurological outcomes measured by the eight-level Extended Glasgow Outcome Scale (GOSE) <abbrgrp>
+                <abbr bid="B13">13</abbr>
+             </abbrgrp> at six months following injury.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Methods/design</p>
+          </st>
+          <sec>
+             <st>
+                <p>Trial design and outcomes</p>
+             </st>
+             <p>The erythropoietin in traumatic brain injury (EPO-TBI) trial is a stratified prospective, multi-centre, randomised, blinded, parallel-group, placebo-controlled phase III trial. It aims to determine whether the administration of EPO compared to a placebo improves neurological outcome in patients with moderate or severe TBI at six months after injury. The trial is designed to recruit 606 patients between 15 and 65 years of age with severe (Glasgow Coma Score(GCS): 3 to 8) or moderate (GCS: 9 to 12) TBI in Australia, New Zealand, Kingdom of Saudi Arabia, France, Finland, Germany and Ireland.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Participants</p>
+             </st>
+             <p>Patients aged between 15 and 65 years with non-penetrating moderate or severe TBI will be eligible for this trial. These criteria were designed to exclude patients with unsurvivable neurological injury, patients at a high risk of VTE and those who would be exposed to additional risk due to the trial drug.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Inclusion criteria</p>
+             </st>
+             <p>Patients with non-penetrating moderate (Glasgow Coma Score (GCS) 9&#8211;12) or severe (GCS 3&#8211;8) traumatic brain injury admitted to an ICU who:</p><p>1. Are &#8805;15 to &#8804;65 years of age<sup>a</sup>
+                          </p>
+                <p>2. Are &lt;24 hours since primary traumatic injury</p>
+                <p>3. Are expected to stay &#8805;48 hours</p>
+                <p>4. Have a haemoglobin not exceeding the upper limit of the applicable normal reference range in clinical use at the treating institution<sup>b</sup>
+                          </p>
+                <p>5. Have written informed consent from legal surrogate</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Exclusion criteria</p>
+             </st>
+             <p>Patients are excluded from the study if any of the following criteria apply<sup>c</sup>:</p><p>1. GCS = 3 and fixed dilated pupils</p>
+                <p>2. History of deep vein thrombosis, pulmonary embolism or other thromboembolic event</p>
+                <p>3. A chronic hypercoagulable disorder, including known malignancy</p>
+                <p>4. Treatment with erythropoietin in the last 30 days</p>
+                <p>5. First dose of study drug unable to be given within 24 hours of primary injury</p>
+                <p>6. Pregnancy or lactation or 3 months post-partum</p>
+                <p>7. Uncontrolled hypertension (systolic blood pressure &gt;200 mmHg or diastolic blood pressure &gt;110 mmHg)</p>
+                <p>8. Acute myocardial infarct within the past 12 months</p>
+                <p>9. Past history of epilepsy with seizures in past 3 months</p>
+                <p>10. Expected to die imminently (&lt;24 hours)</p>
+                <p>11. Inability to perform lower limb ultrasounds</p>
+                <p>12. Known sensitivity to mammalian cell-derived products</p>
+                <p>13. Hypersensitivity to the active substance or to any of the additives</p>
+                <p>14. Pure red cell aplasia</p>
+                <p>15. End-stage renal failure (receives chronic dialysis)</p>
+                <p>16. Severe pre-existing physical or mental disability or severe co-morbidity that may interfere with the assessment of outcome</p>
+                <p>17. Spinal cord injury</p>
+                <p>18. Treatment with any investigational drug within 30 days before enrolment</p>
+                <p>19. The treating physician believes it is not in the best interests of the patient to be randomised to this trial</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Outcomes measures</p>
+             </st>
+             <p>The primary outcome of this trial is the patients&#8217; neurological status at six months, summarized as a binary midpoint reduction of their eight-level Extended Glasgow Outcome Scale (GOSE) score, defined as favourable (GOSE score: 5 to 8; moderate disability and good recovery) or unfavourable (GOSE score: 1 to 4; death and severe disability).</p>
+             <p>Secondary outcomes include:</p><p>1. Neurological status at six months summarized by the eight-level GOSE</p>
+                <p>2. Quality of life assessment using the Short Form 12 (SF-12) <abbrgrp>
+                      <abbr bid="B14">14</abbr>
+                   </abbrgrp> and EuroQoL-5D (EQ-5D) <abbrgrp>
+                      <abbr bid="B15">15</abbr>
+                   </abbrgrp> at six months</p>
+                <p>3. Mortality at six months</p>
+                <p>4. Proximal deep venous thrombosis (DVT) detected by ultrasound</p>
+                <p>5. Occurrence of a thrombotic vascular event (including DVT, pulmonary embolism, myocardial infarction, cardiac arrest and cerebrovascular events) at six months. The definitions for these events are previously reported <abbrgrp>
+                      <abbr bid="B16">16</abbr>
+                   </abbrgrp>
+                </p>
+                <p>6. Resource use and costs at six months</p>
+                <p>7. Incremental cost effectiveness</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Trial interventions</p>
+             </st>
+             <p>The intervention to be examined in this trial is the subcutaneous administration of erythropoietin 40,000 International Units (IU) compared to a placebo (0.9% saline).</p>
+             <p>A summary of the trial interventions and follow up schedule is provided in Figure&#160;<figr fid="F1">1</figr>.
+                  </p>
+             
+                <fig id="F1">
+                   <title>
+                      <p>Figure 1</p>
+                   </title>
+                   <caption>
+                      <p>Summary of trial treatment and follow up schedule. </p>
+                   </caption>
+                   <text>
+                      <p>
+                            <b>Summary of trial treatment and follow up schedule.</b> The baseline ultrasound may be performed before or at least within 48 hours after the first dose administration. EPO, Erythropoietin (Epoetin alfa) 40,000 IU or normal saline placebo; US, Ultrasound.</p>
+                   </text>
+                   <graphic file="s13063-014-0528-6-1"/>
+                </fig>
+             
+          </sec>
+          <sec>
+             <st>
+                <p>Investigational product</p>
+             </st>
+             <p>The trial drug is Epoetin alfa 40,000 IU in a pre-filled syringe, manufactured by Janssen-Cilag Pty Ltd, or the placebo sodium chloride 0.9. The trial drug will be administered by subcutaneous injection.</p>
+             <p>For patients randomised to the treatment arm, an unblinded nurse will administer the full contents of the Epoetin alfa 40,000 IU pre-filled syringe to the patient. For patients randomised to the placebo arm, an unblinded nurse will administer 1 mL from a sodium chloride 0.9% 10 mL ampoule.</p>
+             <p>The first dose will be given within 24 hours of the estimated time of TBI, and then weekly for up to two more doses (on trial days eight and 15). The trial drug will only be administered to patients during the ICU admission. If the patient is discharged to the general ward (before trial day eight or before day 15) they will not receive any further doses of trial drug. Patients readmitted to ICU during the same hospital stay will not receive any further doses of the trial drug.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Variable haemoglobin threshold for dosing to reduce the risk of thromboembolic complications</p>
+             </st>
+             <p>Previous trials examining the long-term use of EPO in renal failure <abbrgrp>
+                   <abbr bid="B12">12</abbr>
+                </abbrgrp> and cancer <abbrgrp>
+                   <abbr bid="B11">11</abbr>
+                </abbrgrp> patients targeting haemoglobin (Hb) concentrations above 120 g/L (12 g/dL) have demonstrated an increased risk of thromboembolic complications. Observational studies also demonstrate that the Hb concentration in critically ill patients falls rapidly in the first 72 hours of admission <abbrgrp>
+                   <abbr bid="B17">17</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B18">18</abbr>
+                </abbrgrp>. A dosing structure based on Hb concentration was developed to address the known risks of thromboembolic complications associated with EPO use: the first dose of trial drug is administered only if the haemoglobin (Hb) concentration is less than the upper limit of the applicable normal reference range in clinical use at the treating institution; the second and third doses are administered only if the Hb concentration is &lt;120 g/L (12 g/dL).</p>
+             <p>The second (trial day eight) and third (trial day 15) doses may be given the day before or after dosing day, so the trial drug is prepared in pharmacy business hours. The weekly dose will not be administered if the patient&#8217;s pre-medication Hb is &#8805;120 g/L (12 g/dL); the trial drug will be temporarily withheld for that dose. The patient will be assessed on the next scheduled dosing day. If their Hb is &lt;120 g/L (12 g/dL), the dose may be given if the patient is still in the ICU and has not met the permanent withholding criteria.</p>
+             <p>At Johannes Gutenberg-Universtit&#228;t, Mainz Germany an additional temporary trial drug withholding criterion applies. The weekly dose will not be administered if the patient has a refractory high blood pressure; the trial drug will be withheld for that dose, and the patient will be assessed on the next scheduled dosing day. No further doses will be administered if the patient has met any permanent withholding criteria.</p>
+             <p>Permanent withholding criteria:</p><p>1. Development of proximal deep venous thrombosis</p>
+                <p>2. Development of pulmonary embolism</p>
+                <p>3. Any other thrombotic event</p>
+                <p>4. Acute myocardial infarction</p>
+                <p>5. Cardiac arrest or ventricular fibrillation</p>
+                <p>6. Cerebrovascular accident</p>
+                <p>7. Any serious adverse event or protocol deviation where, in the attending physician&#8217;s opinion, the patient should not receive any further doses of the trial drug</p>
+                <p>8. Consent has been withdrawn or consent to continue has not been granted</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Management of traumatic brain injury</p>
+             </st>
+             <p>The ICU medical team will have full independent control of patient management, however the trial management committee request that standardised TBI clinical practice follows Brain Trauma Foundation <abbrgrp>
+                   <abbr bid="B19">19</abbr>
+                </abbrgrp> guidelines.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Compression Doppler ultrasound</p>
+             </st>
+             <p>Critically ill patients are at risk of VTE complications. Previous studies, which did not specifically screen for VTE, have demonstrated an association of EPO with increased rates of VTE. The true risk is unknown in the critically ill as clinical examination has severe limitations, and many clinically undetected VTE complications are revealed when prospective screening is performed. The risk of VTE in the traumatically injured patients is potentially further elevated, as concerns regarding intracerebral haemorrhage frequently discourage clinicians giving pharmaceutical agents (low molecular weight heparins) to mitigate this risk. Therefore, to address this potential and largely unknown risk of EPO in the traumatically injured patients, we designed a prospective VTE screening algorithm. Bilateral compression Doppler ultrasound of the lower extremities will be performed to monitor for proximal DVT at baseline (before the first dose if possible, or at least within 48 hours after the first dose administration) then twice weekly after each dose of the trial drug for three weeks or up to ICU discharge, whichever occurs first. The procedure for the ultrasound was standardised, with evaluation of the following veins: common femoral, proximal femoral, mid femoral, distal femoral, popliteal and trifurcation.</p>
+             <p>Up to six scheduled twice weekly ultrasounds will be performed if the patient is an inpatient in the ICU for longer than three weeks. No further scheduled twice weekly ultrasounds are required beyond trial day 21.</p>
+             <p>If the patient meets a temporary or permanent withholding criteria and remains in the ICU, the twice weekly compression Doppler ultrasounds are performed up to trial day 21 or ICU discharge, whichever occurs first.</p>
+             <p>Bilateral compression Doppler ultrasounds will be performed on the general ward if the patient has been transferred after a dose of the trial drug and before a scheduled ultrasound has been performed. This will ensure at least one bilateral compression Doppler ultrasound will be performed after each dose of the trial drug.</p>
+             <p>The site treating clinicians outside the ICU (known variously by names such as Parent Unit, Admitting Unit or Attending Medical Service) are required to notify the site researchers of any occurrences of VTE as soon as it is diagnosed.</p>
+             <p>Additional bilateral compression Doppler ultrasounds will be performed on suspicion of DVT or pulmonary embolism. The treating clinician may therefore take additional measures to reduce the risk of complications from any identified thrombosis. We anticipate that this algorithm will mitigate any additional risk that could be posed by the use of EPO in this cohort.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Randomisation and allocation concealment</p>
+             </st>
+             <p>Concealed randomisation will be performed via a web-based system that includes block randomisation at each site. Treatment allocation will be stratified by site and also by the severity of TBI at randomisation (moderate (GCS: 9 to 12) or severe (GCS: 3 to 8).</p>
+             <p>Bias will be minimised by concealed random allocation by the use of a robust primary outcome minimally susceptible to ascertainment bias, and by blinded assessment of the primary outcome by a trained outcome assessor at the coordinating centre (Australia and New Zealand) or by trained, blinded outcome assessors in each country in Europe and the Kingdom of Saudi Arabia.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Blinding plan</p>
+             </st>
+             <p>Site personnel will be blinded to treatment allocation. For the efficient conduct of the trial the site pharmacists, site unblinded dosing nurses and the pharmacists at the central pharmacy in France (Clinical Trial Department of the Pharmaceutical Establishment of Assistance Publique-H&#244;pitaux de Paris) will be unblinded to treatment assignment.</p>
+             <p>Staff at the coordinating centre will be blinded to treatment allocation, except for an unblinded project officer (Appendix 1) and designee, the analyst programmers responsible for the web-based data management system and a nominated statistician who will supervise data extraction from the database for interim and final analyses. The French management team will be blinded to treatment assignment.</p>
+             <p>Following patient randomisation by the site investigator or designee, an unblinded trial pharmacist will dispense the trial drug in a tamperproof sealed opaque box (Figure&#160;<figr fid="F2">2</figr>) to blind the treatment assignment. The box may only be opened by the site&#8217;s designated unblinded trial dosing nurse. For patients who receive the active treatment the sealed box will consist of one Epoetin alfa 40,000 IU pre-filled syringe labelled with direction for use &#8216;Inject 1 ml subcutaneously over at least 1 minute&#8217;. For patients who receive the placebo the sealed box will consist of one sodium chloride 0.9% 10 mL ampoule labelled with direction for use &#8216;Inject 1 ml subcutaneously over at least 1 minute&#8217;.
+                  </p>
+             
+                <fig id="F2">
+                   <title>
+                      <p>Figure 2</p>
+                   </title>
+                   <caption>
+                      <p>Blinded tamperproof sealed box. </p>
+                   </caption>
+                   <text>
+                      <p>
+                            <b>Blinded tamperproof sealed box.</b>                          
+                      </p>
+                   </text>
+                   <graphic file="s13063-014-0528-6-2"/>
+                </fig>
+             
+             <p>For safety reasons, unblinded dosing nurses will be allocated in each research site to administer EPO or placebo doses discreetly, with a screen around the patient bed area. The trial drug or placebo dose may be checked with a second unblinded nurse if required to comply with local hospital regulations. After dose administration the unblinded dosing nurse will discard the used trial drug in such a manner as to maintain the blind. These unblinded dosing nurses will have access to the unblinded trial pharmacist. Unblinded dosing nurses will not be involved in the care of a trial patient and may not discuss trial drug treatment with research staff or other members of the ICU or hospital staff.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Data collection and management</p>
+             </st>
+             <p>All data will be collected by trained staff at each trial site using a paper source document developed by the coordinating centre. Data will then be entered into a web database designed by the trial project manager in collaboration with the Monash University Monash University Clinical Informatics and Data Management Unit. Data queries will be automatically generated via the electronic data collection database, and at monitoring by the trial project manager or the clinical research associate (in France).</p>
+             <p>Randomised patients will be followed up to death or six months post-randomisation (whichever occurs first). Data collection will be restricted primarily to those variables necessary to define clinical patient characteristics including: baseline demographics, primary diagnoses, physiological parameters, Acute Physiology and Chronic Health Evaluation II (APACHE II), Injury Severity Score (ISS), Abbreviated Injury Severity Score (AIS) and Computed Tomography Brain Marshall Score <abbrgrp>
+                   <abbr bid="B20">20</abbr>
+                </abbrgrp>, diagnostic interventions, therapeutic interventions, and documentation of deaths and other serious adverse events (SAE).</p>
+             <p>To prepare for the six-month follow-up assessment, patients and/or their legal surrogate will be asked to provide three possible points of contact (home and close family contact details) to the research staff prior to hospital discharge. Full protocol data will be collected in all patients including those excluded at any stage. Patients who are alive at six months after randomisation (or their carer or proxy if more appropriate) will be interviewed by a trained outcome assessor from Monash University for patients in Australia and New Zealand, or trained outcome assessors in each country in Europe and the Kingdom of Saudi Arabia. The regional assessors will use a standardized structured telephone questionnaire <abbrgrp>
+                   <abbr bid="B21">21</abbr>
+                </abbrgrp> to measure the eight-level GOSE <abbrgrp>
+                   <abbr bid="B13">13</abbr>
+                </abbrgrp>. Neurological outcomes will then be defined as favourable (GOSE score: 5 to 8; moderate disability and good recovery) or unfavourable (GOSE score: 1 to 4; death and severe disability). Patients subsequently withdrawn for any reason (DVT, pulmonary embolism, myocardial infarction, cerebrovascular accident, cardiac arrest, or an SAE) or who did not receive the trial drug will be followed up on, according to the study follow-up schedule, and analysed according to the modified intention-to-treat principle <abbrgrp>
+                   <abbr bid="B22">22</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B23">23</abbr>
+                </abbrgrp>.</p>
+             <p>Trained outcome assessors (Appendix 2) will collect data for surviving patients at six months for quality of life assessment using the EQ-5D <abbrgrp>
+                   <abbr bid="B15">15</abbr>
+                </abbrgrp> questionnaire and the SF-12 <abbrgrp>
+                   <abbr bid="B14">14</abbr>
+                </abbrgrp> questionnaire. If the patient is not well enough or not available to complete the questionnaires, the SF-12 questionnaire will not be completed <abbrgrp>
+                   <abbr bid="B24">24</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B25">25</abbr>
+                </abbrgrp> and quality of life will not be assessed for that patient.</p>
+             <p>Data will be collected from surviving patients at six months for cost effectiveness analysis, with utilities calculated using the EQ-5D <abbrgrp>
+                   <abbr bid="B15">15</abbr>
+                </abbrgrp> results, and costs will be calculated based on ICU, acute and post-acute care resource use. If the patient is not well enough or not available to complete the EQ-5D the patient&#8217;s proxy will be asked to complete it for the patient.</p>
+             <p>The outcome assessments will be monitored by an experienced and trained outcome assessor at Monash University.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Ethical issues</p>
+             </st>
+             <p>This is a trial conducted in patients who are unconscious and unable to consent to participation, therefore the patient&#8217;s legal surrogate will be approached to provide consent for the patient. Patients who recover sufficient cognition to understand the explanation of the trial will additionally be asked to consent to continue in the trial if this is required under the ethics committee approval conditions.</p>
+             <p>In France patients may be enrolled under an Emergency clause. Informed consent was obtained from each patient&#8217;s legal surrogate for participation in the trial.</p>
+             <p>Approval for this protocol has been obtained from appropriate regulatory authorities, and from participating hospitals&#8217; human research ethics committees. The list of responsible ethics committees is provided as an Additional file <supplr sid="S1">1</supplr>.</p></sec>
+          <sec>
+             <st>
+                <p>Sample size and power</p>
+             </st>
+             <p>The estimated rate of unfavourable neurological outcome (death and severe disability) in Australian and New Zealand patients with moderate and severe TBI <abbrgrp>
+                   <abbr bid="B26">26</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B27">27</abbr>
+                </abbrgrp> is approximately 50%.</p>
+             <p>A trial of 574 patients will have a 90% power at an alpha of 0.05 to detect a 14% absolute risk reduction (50 versus 36%) and 80% power to detect a 12% (50 versus 38%) absolute risk reduction in unfavourable neurological outcome. A trial of this size was also estimated to have 80% power to detect a 9% absolute risk increase in proximal lower limb DVT from an assumed baseline proportion of 18% (50% increase in relative risk) at a one-sided alpha of 0.05. Allowing for a 5% withdrawal and loss to follow-up rate, we will recruit 606 patients to prevent any loss of power and to conduct an adequately powered modified intention-to-treat analysis <abbrgrp>
+                   <abbr bid="B22">22</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B23">23</abbr>
+                </abbrgrp>.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Statistical analysis</p>
+             </st>
+             <p>Independent senior statisticians at Monash University Department of Epidemiology and Preventive Medicine will perform data analyses following a detailed statistical analysis plan, which will be published separately in the journal <it>Trials</it>.</p>
+             <p>A modified intention-to-treat analysis will be performed based on all randomly assigned patients, except those withdrawing consent for use of all trial data, those not fulfilling inclusion criteria and those who never receive the intervention <abbrgrp>
+                   <abbr bid="B22">22</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B23">23</abbr>
+                </abbrgrp>. Baseline variables will be summarised using descriptive statistics. The trial primary outcome will be compared between treatments with an unadjusted risk ratio and 95% confidence interval. Sensitivity analyses will be performed using logistic regression adjusting for stratification factors, pre-specified prognostic factors and any other baseline covariates exhibiting substantial imbalance between randomisation arms. Furthermore, a proportional odds cumulative logit model <abbrgrp>
+                   <abbr bid="B28">28</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B29">29</abbr>
+                </abbrgrp>, adjusting for relevant covariates, will be applied to the eight-level vector of the six-month GOSE score.</p>
+             <p>Other secondary analyses, including assessment of outcomes according to actual treatment received, quality of life assessment, mortality at hospital discharge and six months and incidence of adverse events (AE), will be compared between treatment groups using unadjusted and adjusted logistic regression and log-binomial regression. Pre-specified subgroup analyses will be obtained using interaction terms in logistic regression models. Adjusted effect estimates of the EPO intervention, derived from logistic and proportional odds ordinal logistic models, will be reported as adjusted risk ratios averaged over the remaining covariates, as recently recommended <abbrgrp>
+                   <abbr bid="B30">30</abbr>
+                </abbrgrp>-<abbrgrp>
+                   <abbr bid="B32">32</abbr>
+                </abbrgrp>. Time-to-event analyses will be undertaken using Kaplan-Meier curves, as well as unadjusted and adjusted Cox proportional hazards regression models.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Data and safety monitoring</p>
+             </st>
+             <p>An independent Data Safety and Monitoring Committee (DSMC) comprising of experts in clinical trials, biostatistics and intensive care, will monitor SAEs throughout the trial, and pre-defined outcomes at designated interim analyses.</p>
+             <p>Given the potential for EPO to increase the risk of VTE, there are two planned interim safety analyses scheduled by the DSMC at six months, following 33% (n = 202) and 66% (n = 404) patient recruitment. The Haybittle-Peto criterion (|Z<sub>k</sub>| &gt; =3) for early stopping were applied at these first and second analyses. The final analyses at full recruitment will be little affected by these interim analyses (final critical value |Z<sub>3</sub>| &gt; =1.975 rather than 1.960) <abbrgrp>
+                   <abbr bid="B33">33</abbr>
+                </abbrgrp>.</p>
+             <p>Consistent with other studies in critically ill patients, AEs already defined and reported as study outcomes (apart from death) will not be reported a second time as SAEs <abbrgrp>
+                   <abbr bid="B34">34</abbr>
+                </abbrgrp>.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Discussion</p>
+          </st>
+          <p>TBI is a common and devastating condition with few proven specific therapies available. The administration of EPO has the potential to reduce neurological damage and improve outcome, and is supported by a scientific rationale and laboratory data. The EPO-TBI design aims to maximise the ability to detect a beneficial effect, if one exists, between EPO and improved neurological function after TBI. Furthermore, our design features also aim to minimise the risk of VTE in this population, and to develop a prospective screening plan which will readily identify VTE events if they occur, allowing clinicians to provide appropriate treatment rapidly. EPO-TBI aims to provide definitive guidance for clinicians regarding the true efficacy and safety of EPO in the management of TBI.</p>
+          <sec>
+             <st>
+                <p>Trial status</p>
+             </st>
+             <p>The trial commenced in May 2010 at The Alfred Hospital, Melbourne Australia. Two interim analyses were conducted with approval by the DSMC to continue the trial without alteration to the protocol. The target recruitment of 606 patients was achieved on 1 November 2014, making final six-month outcomes available by May 2015.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Endnotes</p>
+          </st>
+          <p>
+                  <sup>a</sup>Six sites have a minimum age of 15 years, 13 sites have a minimum age of 16 years and 10 sites have a minimum age of 18 years.</p>
+          <p>
+                  <sup>b</sup>&lt;140 g/L at Johannes Gutenberg-Universtit&#228;t, Mainz Germany, &lt;148 g/L for males and &lt;135 g/L for females at Royal Adelaide Hospital, Adelaide Australia.</p>
+          <p>
+                  <sup>c</sup>Additional exclusion criteria at Johannes Gutenberg-Universtit&#228;t, Mainz Germany. Uncontrolled hypertension parameters were more stringent (systolic blood pressure of &gt;160 mm Hg or diastolic blood pressure of &gt;90 mm Hg), morbid obesity, coronary artery disease, peripheral arterial occlusive disease, vascular disease of the carotid arteries, cerebrovascular disorders, recent stroke, contraindications against prophylaxis of DVT or an increased risk for DVT (for example, with additional trauma and /or operations, severe varicose veins, severe smokers, intake of oral contraceptives, infections and inflammation).</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Abbreviations</p>
+          </st>
+          <p>AE: Adverse event</p>
+          <p>AIS: Abbreviated injury severity score</p>
+          <p>ANZIC-RC: Australian and New Zealand Intensive Care Research Centre</p>
+          <p>APACHE II: Acute Physiology and Chronic Health Evaluation II</p>
+          <p>CI: Confidence interval</p>
+          <p>DSMC: Data and Safety Monitoring Committee</p>
+          <p>DVT: Deep venous thrombosis</p>
+          <p>EPO: Erythropoietin</p>
+          <p>EPO-TBI: Erythropoietin in Traumatic Brain Injury</p>
+          <p>EQ-5D: EuroQol five dimensions</p>
+          <p>GCS: Glasgow coma score</p>
+          <p>GOSE: Extended Glasgow outcome scale</p>
+          <p>Hb: Haemoglobin</p>
+          <p>ISS: Injury severity score</p>
+          <p>SF-12: Short Form-12</p>
+          <p>TBI: Traumatic brain injury</p>
+          <p>VTE: Venous thromboembolism</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Competing interests</p>
+          </st>
+          <p>The authors declare that they have no competing interests.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Authors&#8217; contributions</p>
+          </st>
+          <p>AN contributed to the original concept of the trial, contributed to acquisition of funding and drafted the manuscript; CF contributed to the original concept of the trial, drafted the manuscript and administration; LL manages the trial, contributed to the drafting of the manuscript and administration; JP drafted the statistical analysis component of the manuscript, contributed to the drafting of the manuscript and administration; DJC contributed to the original concept of the trial, acquired funding for the trial and contributed to the statistical analysis plan; SH is the principal investigator of the highest recruiting site, made significant contribution to the setup of the trial in the Kingdom of Saudi Arabia and contributed to the drafting of the manuscript; JD is the national principal investigator for France and contributed to the drafting of the manuscript; OH made a significant contribution to the setup of the trial in France and contributed to the drafting of the manuscript; MS contributed to the drafting of the manuscript and made a significant contribution to the setup of the trial in Finland; YA contributed to the drafting of the manuscript and is sub-investigator at the highest recruiting site; RB contributed to the original concept of the trial, was the leader in acquisition of funding and is the chief investigator. All authors read and approved the final manuscript.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Appendix 1: EPO-TBI unblinded project officer</p>
+          </st>
+          <p>Belinda Howe, Australian and New Zealand Intensive Care Research Centre, Monash University, Melbourne, Australia.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Appendix 2: EPO-TBI outcome assessors</p>
+          </st>
+          <p>Heather Waddy, Australian and New Zealand Intensive Care Research Centre, Monash University, Melbourne, Australia.</p>
+          <p>Marwan Al Kishi, Department of Medicine, King Abdulaziz Medical City, Riyadh, Kingdom of Saudi Arabia.</p>
+          <p>Sarah Kambire, Unit&#233; de Recherche Clinique Lariboisi&#232;re-Saint Louis, Assistance Publique-H&#244;pitaux de Paris, France.</p>
+          <p>Serge Camelo, Unit&#233; de Recherche Clinique Lariboisi&#232;re-Saint Louis, Assistance Publique-H&#244;pitaux de Paris, France.</p>
+          <p>Markus Skrifvars, Intensive Care Unit, Department of Anaesthesiology and Intensive Care Medicine, Helsinki University Hospital, Helsinki, Finland.</p>
+          <p>Stepani Bendel, Intensive Care Unit, Division of Anaesthesiology and Intensive Care Medicine, Kuopio University Hospital, Kuopio, Finland.</p>
+          <p>Carole Schilling, Royal College of Surgeons in Ireland, Education and Research Centre, Beaumont Hospital, Dublin, Ireland.</p>
+          <p>Thomas Kerz, Department of Neurosurgery, Intensive Care Therapy Unit, Universit&#228;tsmedizin, Mainz, Germany.</p>
+          <p>Lynnette Murray, Australian and New Zealand Intensive Care Research Centre, Monash University, Melbourne, Australia.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Appendix 3: EPO-TBI management committee</p>
+          </st>
+          <p>Rinaldo Bellomo, Department of Intensive Care, Austin Health, Melbourne, Australia.</p>
+          <p>Alistair Nichol, Department of Anaesthesia and Intensive Care Medicine, St Vincent&#8217;s University Hospital, Dublin, Ireland.</p>
+          <p>Craig French, Department of Intensive Care, Western Health, Melbourne, Australia.</p>
+          <p>D James Cooper, Department of Intensive Care Medicine, The Alfred, Melbourne, Australia.</p>
+          <p>Olivier Huet, Intensive Care Unit, Department of Anesthesiology and Intensive Care Medicine, Centre Hospitalier Universitaire La Cavale Blanche, Brest, France.</p>
+          <p>Lorraine Little, Australian and New Zealand Intensive Care Research Centre, Monash University, Melbourne, Australia.</p>
+          <p>Anne Mak, Pharmacy Department, The Alfred, Melbourne, Australia.</p>
+          <p>Ville Pettil&#228;, Intensive care Units, Division of Anaesthesiology and Intensive Care Medicine, Helsinki University Central Hospital, Helsinki, Finland.</p>
+          <p>Jeffrey Presneill, Department of Intensive Care, Mater Health Services, Brisbane, Australia.</p>
+          <p>Shirley Vallance, Department of Intensive Care Medicine, The Alfred, Melbourne, Australia.</p>
+          <p>Dinesh Varma, Department of Radiology, The Alfred, Melbourne, Australia.</p>
+          <p>Judy Wills, Department of Radiology, The Alfred, Melbourne, Australia.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Appendix 4: EPO-TBI sites, principal investigator and research coordinator/s</p>
+          </st>
+          <p>Auckland City Hospital, New Zealand: Colin McArthur, Yan Chen, Lynette Newby.</p>
+          <p>Beaumont Hospital, Ireland: Criona Walshe, James O&#8217;Rourke, Carole Schilling.</p>
+          <p>Canberra Hospital, Australia: Imogen Mitchell, Frank Van Haren, Helen Rodgers. Marta Kot</p>
+          <p>Christchurch Hospital, New Zealand: Seton Henderson, Jan Mehrtens, Sascha Noble.</p>
+          <p>Dunedin Hospital, New Zealand: Matthew Bailey, Robyn Hutchinson, Dawn France.</p>
+          <p>Gold Coast University Hospital, Australia: Brent Richards, Mandy Tallott.</p>
+          <p>Helsinki University Central Hospital, Finland: Markus Skrifvars, Heikki Vartiala, Marianne Eliasson.</p>
+          <p>H&#244;pital Caremeau, France: Jean Yves Lefrant, Laurent Muller, Claire Roger, Christian Bengler, Pierre Barbaste.</p>
+          <p>H&#244;pital Charles Nicolle, France: Benoit Veber, Marie Gilles-Baray, Pierre-Gildas Guitard, Helene Braud.</p>
+          <p>H&#244;pital de Bic&#234;tre, France: Jacques Duranteau, Anatole Harrois, Samy Figueiredo, Sophie Hamada.</p>
+          <p>H&#244;pital Lariboisi&#232;re, France: Didier Payen, Anne Claire Lukaszewicz, Charles Damoisel, Sarah Kambire.</p>
+          <p>H&#244;pital Michallon, France: Jean Fran&#231;ois Payen, Pauline Manhes, Gilles Franconey, Perrine Boucheix.</p>
+          <p>Johannes Gutenberg-Universtit&#228;t, Germany: Thomas Kerz.</p>
+          <p>John Hunter Hospital, Australia: Peter Harrigan, Miranda Hardie.</p>
+          <p>King Abdulaziz Medical City, Kingdom of Saudi Arabia: Samir Haddad, Yaseen Arabi, Marwan Al Kishi, Ahmad Deeb, Shmeylan Al Harbi, Lolowa Al-Swaidan ,Turki Al Moammar, Juliet Lingling, Shella Caliwag, Hanie Richi.</p>
+          <p>Kuopio University Hospital, Finland: Stepani Bendel, Sari Rahikainen, Mikko Myllymaki.</p>
+          <p>Liverpool Hospital, Australia: Victor Tam, Sharon Micallef.</p>
+          <p>Nepean Hospital, Australia: Louise Cole, Leonie Weisbrodt.</p>
+          <p>Royal Adelaide Hospital, Australia: Richard Strickland, Justine Rivett, Sonya Kloeden, Stephanie O&#8217;Connor.</p>
+          <p>Royal Hobart Hospital, Australia: David Cooper, Richard McAllister.</p>
+          <p>Royal Melbourne Hospital, Australia: Nerina Harley, Deborah Barge, Elizabeth Moore, Andrea Jordan.</p>
+          <p>Royal North Shore Hospital, Australia: Simon Finfer, Elizabeth Yarad, Simon Bird, Anne O&#8217;Connor.</p>
+          <p>Royal Perth Hospital, Australia: Geoffrey Dobb, Jenny Chamberlain, Michelle Barr, Elizabeth Jenkinson.</p>
+          <p>Royal Prince Alfred Hospital, Australia: David Gattas, Heidi Buhr, Debra Hutch, Megan Keir.</p>
+          <p>St Vincent&#8217;s Hospital Sydney, Australia: Priya Nair, Claire Reynolds, Serena Knowles.</p>
+          <p>The Alfred, Australia: D. James Cooper, Jasmin Board, Shirley Vallance, Phoebe McCracken.</p>
+          <p>The Townsville Hospital, Australia: Geoffrey Gordon, Stephen Reeves.</p>
+          <p>Wellington Regional Hospital, New Zealand: Richard Dinsdale, Lynn Andrews, Dianne Mackle, Sally Hurford.</p>
+          <p>Westmead Hospital, Australia: Vineet Nayyar, Christina Whitehead, Jing Kong.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Appendix 5: EPO-TBI French management team</p>
+          </st>
+          <p>Jacques Duranteau, National Principal Investigator, Service d&#8217;Anesth&#233;sie-R&#233;animation, H&#244;pitaux universitaires Paris Sud, Assistance Publique des H&#244;pitaux de Paris, H&#244;pital de Bic&#234;tre, Le Kremlin-Bic&#234;tre, France.</p>
+          <p>Eric Vicaut, Unit&#233; de Recherche Clinique Lariboisi&#232;re-Saint Louis, Assistance Publique-H&#244;pitaux de Paris, France.</p>
+          <p>Philippe Gallula, Pole Promotion International, Assistance Publique-H&#244;pitaux de Paris, France.</p>
+          <p>Vidhya Raghavan, Unit&#233; de Recherche Clinique Lariboisi&#232;re-Saint Louis, Assistance Publique-H&#244;pitaux de Paris, France.</p>
+          <p>Amel Chamam, Unit&#233; de Recherche Clinique Lariboisi&#232;re-Saint Louis, Assistance Publique-H&#244;pitaux de Paris, France.</p>
+          <p>Sarah Kambire, Unit&#233; de Recherche Clinique Lariboisi&#232;re-Saint Louis, Assistance Publique-H&#244;pitaux de Paris, France.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Additional file</p>
+          </st>
+          <suppl id="S1">
+             <title>
+                <p>Additional file 1:</p>
+             </title>
+             <text>
+                <p>
+                              <b>Project Title: Erythropoietin in traumatic brain injury.</b> List of participating centres and responsible ethics committees.</p>
+             </text>
+             <file name="s13063-014-0528-6-S1.pdf">
+                <p>Click here for file</p>
+             </file>
+          </suppl>
+          
+       </sec>
+    </bdy>
+    <bm>
+       <ack>
+          <sec>
+             <st>
+                <p>Acknowledgements</p>
+             </st>
+             <p>EPO-TBI is funded by the Australian National Health and Medical Research Council Project (project grant ID 545901), and the Victorian Transport Accident Commission (project grant ID D162 - formerly, the Victorian Neurotrauma Initiative). The cost of Epoetin alfa was reimbursed to hospital pharmacy departments by using project grant funds. Neither funding agencies nor the manufacturer of Epoetin alfa had any role in the trial design, data collection or analysis.</p>
+             <p>EPO-TBI trial is coordinated by the Australian and New Zealand Intensive Care Research Centre (ANZIC-RC), Monash University, Melbourne, Australia and endorsed by the Australian and New Zealand Intensive Care Society Clinical Trials Group (ANZICS CTG) and the Irish Critical Care Trials Group. The members of Management Committee are listed in Appendix 3
+                </p>
+             <p>The EPO-TBI trial sites, principal investigator(s) and research coordinator(s) are listed in Appendix 4.</p>
+             <p>EPO-TBI is managed in France by the Unit&#233; de Recherche Clinique Lariboisi&#232;re-Saint Louis, Assistance Publique-H&#244;pitaux de Paris. The EPO-TBI French management team is listed in Appendix 5.</p>
+          </sec>
+       </ack>
+       <refgrp>
+          
+          <bibl id="B1">
+             <note>Access Economics. The economic cost of spinal cord injury and traumatic brain injury in Australia. Report by Access Economics Pty Limited for The Victorian Neurotrauma Initiative<it>.</it> 2009; last access date 28 Jan 2015. <url>http://www.tac.vic.gov.au/about-the-tac/our-organisation/research/tac-neurotrauma-research/vni/the20economic20cost20of20spinal20cord20injury20and20traumatic20brain20injury20in20australia.pdf</url>
+                <it>.</it> 
+             </note>
+          </bibl>
+          <bibl id="B2">
+             <title>
+                <p>Pathophysiology of cerebral ischemia and brain trauma: similarities and differences</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bramlett</snm>
+                   <fnm>HM</fnm>
+                </au>
+                <au>
+                   <snm>Dietrich</snm>
+                   <fnm>WD</fnm>
+                </au>
+             </aug>
+             <source>J Cereb Blood Flow Metab</source>
+             <pubdate>2004</pubdate>
+             <volume>24</volume>
+             <fpage>133</fpage>
+             <lpage>50</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/01.WCB.0000111614.19196.04</pubid>
+                   <pubid idtype="pmpid" link="fulltext">14747740</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B3">
+             <title>
+                <p>The role of erythropoietin in central and peripheral nerve injury</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Lykissas</snm>
+                   <fnm>MG</fnm>
+                </au>
+                <au>
+                   <snm>Korompilias</snm>
+                   <fnm>AV</fnm>
+                </au>
+                <au>
+                   <snm>Vekris</snm>
+                   <fnm>MD</fnm>
+                </au>
+                <au>
+                   <snm>Mitsionis</snm>
+                   <fnm>GI</fnm>
+                </au>
+                <au>
+                   <snm>Sakellariou</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Beris</snm>
+                   <fnm>AE</fnm>
+                </au>
+             </aug>
+             <source>Clin Neurol Neurosurg</source>
+             <pubdate>2007</pubdate>
+             <volume>109</volume>
+             <fpage>639</fpage>
+             <lpage>44</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.clineuro.2007.05.013</pubid>
+                   <pubid idtype="pmpid" link="fulltext">17624659</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B4">
+             <title>
+                <p>Science review: recombinant human erythropoietin in critical illness: a role beyond anemia?</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Coleman</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Brines</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>Crit Care</source>
+             <pubdate>2004</pubdate>
+             <volume>8</volume>
+             <fpage>337</fpage>
+             <lpage>41</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1186/cc2897</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15469595</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B5">
+             <title>
+                <p>Erythropoietin is neuroprotective, improves functional recovery, and reduces neuronal apoptosis and inflammation in a rodent model of experimental closed head injury</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Yatsiv</snm>
+                   <fnm>I</fnm>
+                </au>
+                <au>
+                   <snm>Grigoriadis</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Simeonidou</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Stahel</snm>
+                   <fnm>PF</fnm>
+                </au>
+                <au>
+                   <snm>Schmidt</snm>
+                   <fnm>OI</fnm>
+                </au>
+                <au>
+                   <snm>Alexandrovitch</snm>
+                   <fnm>AG</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>FASEB J</source>
+             <pubdate>2005</pubdate>
+             <volume>19</volume>
+             <fpage>1701</fpage>
+             <lpage>3</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">16099948</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B6">
+             <title>
+                <p>Erythropoietin enhances neurogenesis and restores spatial memory in rats after traumatic brain injury</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Lu</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Mahmood</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Qu</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Goussev</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Schallert</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Chopp</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>J Neurotrauma</source>
+             <pubdate>2005</pubdate>
+             <volume>22</volume>
+             <fpage>1011</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1089/neu.2005.22.1011</pubid>
+                   <pubid idtype="pmpid" link="fulltext">16156716</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B7">
+             <title>
+                <p>Efficacy of recombinant human erythropoietin in critically ill patients: a randomized controlled trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Corwin</snm>
+                   <fnm>HL</fnm>
+                </au>
+                <au>
+                   <snm>Gettinger</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Pearl</snm>
+                   <fnm>RG</fnm>
+                </au>
+                <au>
+                   <snm>Fink</snm>
+                   <fnm>MP</fnm>
+                </au>
+                <au>
+                   <snm>Levy</snm>
+                   <fnm>MM</fnm>
+                </au>
+                <au>
+                   <snm>Shapiro</snm>
+                   <fnm>MJ</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>JAMA</source>
+             <pubdate>2002</pubdate>
+             <volume>288</volume>
+             <fpage>2827</fpage>
+             <lpage>35</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1001/jama.288.22.2827</pubid>
+                   <pubid idtype="pmpid" link="fulltext">12472324</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B8">
+             <title>
+                <p>Efficacy and safety of epoetin alfa in critically ill patients</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Corwin</snm>
+                   <fnm>HL</fnm>
+                </au>
+                <au>
+                   <snm>Gettinger</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Fabian</snm>
+                   <fnm>TC</fnm>
+                </au>
+                <au>
+                   <snm>May</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Pearl</snm>
+                   <fnm>RG</fnm>
+                </au>
+                <au>
+                   <snm>Heard</snm>
+                   <fnm>S</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>N Engl J Med</source>
+             <pubdate>2007</pubdate>
+             <volume>357</volume>
+             <fpage>965</fpage>
+             <lpage>76</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1056/NEJMoa071533</pubid>
+                   <pubid idtype="pmpid" link="fulltext">17804841</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B9">
+             <title>
+                <p>Effect of erythropoietin on Glasgow Coma Scale and Glasgow Outcome Sale in patient with diffuse axonal injury</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Abrishamkar</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Safavi</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Honarmand</snm>
+                   <fnm>A</fnm>
+                </au>
+             </aug>
+             <source>J Res Med Sci</source>
+             <pubdate>2012</pubdate>
+             <volume>17</volume>
+             <fpage>51</fpage>
+             <lpage>6</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">23248657</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B10">
+             <title>
+                <p>Erythropoiesis-stimulating agent administration and survival after severe traumatic brain injury: a prospective study</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Talving</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Lustenberger</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Inaba</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Lam</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Mohseni</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Chan</snm>
+                   <fnm>L</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Arch Surg</source>
+             <pubdate>2012</pubdate>
+             <volume>147</volume>
+             <fpage>251</fpage>
+             <lpage>5</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1001/archsurg.2011.1838</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22430906</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B11">
+             <title>
+                <p>Erythropoietin or darbepoetin for patients with cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Tonia</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Mettler</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Robert</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Schwarzer</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Seidenfeld</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Weingart</snm>
+                   <fnm>O</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Cochrane Database Syst Rev</source>
+             <pubdate>2012</pubdate>
+             <volume>12</volume>
+             <fpage>CD003407</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">23235597</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B12">
+             <title>
+                <p>Correction of anemia with epoetin alfa in chronic kidney disease</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Singh</snm>
+                   <fnm>AK</fnm>
+                </au>
+                <au>
+                   <snm>Szczech</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Tang</snm>
+                   <fnm>KL</fnm>
+                </au>
+                <au>
+                   <snm>Barnhart</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Sapp</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Wolfson</snm>
+                   <fnm>M</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>N Engl J Med</source>
+             <pubdate>2006</pubdate>
+             <volume>355</volume>
+             <fpage>2085</fpage>
+             <lpage>98</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1056/NEJMoa065485</pubid>
+                   <pubid idtype="pmpid" link="fulltext">17108343</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B13">
+             <title>
+                <p>Analyzing outcome of treatment of severe head injury: a review and update on advancing the use of the Glasgow Outcome Scale</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Teasdale</snm>
+                   <fnm>GM</fnm>
+                </au>
+                <au>
+                   <snm>Pettigrew</snm>
+                   <fnm>LE</fnm>
+                </au>
+                <au>
+                   <snm>Wilson</snm>
+                   <fnm>JT</fnm>
+                </au>
+                <au>
+                   <snm>Murray</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Jennett</snm>
+                   <fnm>B</fnm>
+                </au>
+             </aug>
+             <source>J Neurotrauma</source>
+             <pubdate>1998</pubdate>
+             <volume>15</volume>
+             <fpage>587</fpage>
+             <lpage>97</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1089/neu.1998.15.587</pubid>
+                   <pubid idtype="pmpid" link="fulltext">9726258</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B14">
+             <title>
+                <p>A 12-Item Short-Form Health Survey: construction of scales and preliminary tests of reliability and validity</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Ware</snm>
+                   <fnm>J</fnm>
+                   <suf>Jr</suf>
+                </au>
+                <au>
+                   <snm>Kosinski</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Keller</snm>
+                   <fnm>SD</fnm>
+                </au>
+             </aug>
+             <source>Med Care</source>
+             <pubdate>1996</pubdate>
+             <volume>34</volume>
+             <fpage>220</fpage>
+             <lpage>33</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/00005650-199603000-00003</pubid>
+                   <pubid idtype="pmpid" link="fulltext">8628042</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B15">
+             <note>EuroQol Group. EQ-5D&#8482; instrument for describing and valuing health-related quality of life. 2014. Last access date 28 Jan 2015. <url>http://www.euroqol.org/home.html</url>.</note>
+          </bibl>
+          <bibl id="B16">
+             <title>
+                <p>Prophylaxis of Thromboembolism in Critical Care (PROTECT) Trial: a pilot study</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Cook</snm>
+                   <fnm>DJ</fnm>
+                </au>
+                <au>
+                   <snm>Rocker</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Meade</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Guyatt</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Geerts</snm>
+                   <fnm>W</fnm>
+                </au>
+                <au>
+                   <snm>Anderson</snm>
+                   <fnm>D</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>J Crit Care</source>
+             <pubdate>2005</pubdate>
+             <volume>20</volume>
+             <fpage>364</fpage>
+             <lpage>72</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.jcrc.2005.09.010</pubid>
+                   <pubid idtype="pmpid" link="fulltext">16310609</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B17">
+             <title>
+                <p>Anemia and blood transfusion in critically ill patients</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Vincent</snm>
+                   <fnm>JL</fnm>
+                </au>
+                <au>
+                   <snm>Baron</snm>
+                   <fnm>JF</fnm>
+                </au>
+                <au>
+                   <snm>Reinhart</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Gattinoni</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Thijs</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Webb</snm>
+                   <fnm>A</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>JAMA</source>
+             <pubdate>2002</pubdate>
+             <volume>288</volume>
+             <fpage>1499</fpage>
+             <lpage>507</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1001/jama.288.12.1499</pubid>
+                   <pubid idtype="pmpid" link="fulltext">12243637</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B18">
+             <title>
+                <p>The CRIT Study: anemia and blood transfusion in the critically ill - current clinical practice in the United States</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Corwin</snm>
+                   <fnm>HL</fnm>
+                </au>
+                <au>
+                   <snm>Gettinger</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Pearl</snm>
+                   <fnm>RG</fnm>
+                </au>
+                <au>
+                   <snm>Fink</snm>
+                   <fnm>MP</fnm>
+                </au>
+                <au>
+                   <snm>Levy</snm>
+                   <fnm>MM</fnm>
+                </au>
+                <au>
+                   <snm>Abraham</snm>
+                   <fnm>E</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Crit Care Med</source>
+             <pubdate>2004</pubdate>
+             <volume>32</volume>
+             <fpage>39</fpage>
+             <lpage>52</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/01.CCM.0000104112.34142.79</pubid>
+                   <pubid idtype="pmpid" link="fulltext">14707558</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B19">
+             <title>
+                <p>Guidelines for the management of severe traumatic brain injury</p>
+             </title>
+             <insg>
+                <ins>
+                   <p>Brain Trauma Foundation</p>
+                </ins>
+             </insg>
+             <source>J Neurotrauma</source>
+             <pubdate>2007</pubdate>
+             <volume>24</volume>
+             <issue>Suppl 1</issue>
+             <fpage>S1</fpage>
+             <lpage>106</lpage>
+          </bibl>
+          <bibl id="B20">
+             <title>
+                <p>The diagnosis of head injury requires a classification based on computed axial tomography</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Marshall</snm>
+                   <fnm>LF</fnm>
+                </au>
+                <au>
+                   <snm>Marshall</snm>
+                   <fnm>SB</fnm>
+                </au>
+                <au>
+                   <snm>Klauber</snm>
+                   <fnm>MR</fnm>
+                </au>
+                <au>
+                   <snm>Van Berkum</snm>
+                   <fnm>CM</fnm>
+                </au>
+                <au>
+                   <snm>Eisenberg</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Jane</snm>
+                   <fnm>JA</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>J Neurotrauma</source>
+             <pubdate>1992</pubdate>
+             <volume>9</volume>
+             <issue>Suppl 1</issue>
+             <fpage>S287</fpage>
+             <lpage>92</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">1588618</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B21">
+             <title>
+                <p>Structured interviews for the Glasgow Outcome Scale and the extended Glasgow Outcome Scale: guidelines for their use</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Wilson</snm>
+                   <fnm>JT</fnm>
+                </au>
+                <au>
+                   <snm>Pettigrew</snm>
+                   <fnm>LE</fnm>
+                </au>
+                <au>
+                   <snm>Teasdale</snm>
+                   <fnm>GM</fnm>
+                </au>
+             </aug>
+             <source>J Neurotrauma</source>
+             <pubdate>1998</pubdate>
+             <volume>15</volume>
+             <fpage>573</fpage>
+             <lpage>85</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1089/neu.1998.15.573</pubid>
+                   <pubid idtype="pmpid" link="fulltext">9726257</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B22">
+             <title>
+                <p>Post-randomisation exclusions: the intention to treat principle and excluding patients from analysis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Fergusson</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Aaron</snm>
+                   <fnm>SD</fnm>
+                </au>
+                <au>
+                   <snm>Guyatt</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Hebert</snm>
+                   <fnm>P</fnm>
+                </au>
+             </aug>
+             <source>BMJ</source>
+             <pubdate>2002</pubdate>
+             <volume>325</volume>
+             <fpage>652</fpage>
+             <lpage>4</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/bmj.325.7365.652</pubid>
+                   <pubid idtype="pmpid" link="fulltext">12242181</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B23">
+             <title>
+                <p>Hydroxyethyl starch 130/0.42 versus Ringer&#8217;s acetate in severe sepsis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Perner</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Haase</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Guttormsen</snm>
+                   <fnm>AB</fnm>
+                </au>
+                <au>
+                   <snm>Tenhunen</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Klemenzson</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Aneman</snm>
+                   <fnm>A</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>N Engl J Med</source>
+             <pubdate>2012</pubdate>
+             <volume>367</volume>
+             <fpage>124</fpage>
+             <lpage>34</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1056/NEJMoa1204242</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22738085</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B24">
+             <title>
+                <p>Quality of life after traumatic brain injury: a review of research approaches and findings</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Dijkers</snm>
+                   <fnm>MP</fnm>
+                </au>
+             </aug>
+             <source>Arch Phys Med Rehabil</source>
+             <pubdate>2004</pubdate>
+             <volume>85</volume>
+             <fpage>S21</fpage>
+             <lpage>35</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.apmr.2003.08.119</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15083419</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B25">
+             <title>
+                <p>Quality of life in patients with traumatic brain injury-basic issues, assessment and recommendations</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bullinger</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Azouvi</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Brooks</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Basso</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Christensen</snm>
+                   <fnm>AL</fnm>
+                </au>
+                <au>
+                   <snm>Gobiet</snm>
+                   <fnm>W</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Restor Neurol Neurosci</source>
+             <pubdate>2002</pubdate>
+             <volume>20</volume>
+             <fpage>111</fpage>
+             <lpage>24</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">12454360</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B26">
+             <title>
+                <p>Epidemiology and 12-month outcomes from traumatic brain injury in Australia and New Zealand</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Myburgh</snm>
+                   <fnm>JA</fnm>
+                </au>
+                <au>
+                   <snm>Cooper</snm>
+                   <fnm>DJ</fnm>
+                </au>
+                <au>
+                   <snm>Finfer</snm>
+                   <fnm>SR</fnm>
+                </au>
+                <au>
+                   <snm>Venkatesh</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Jones</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Higgins</snm>
+                   <fnm>A</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>J Trauma</source>
+             <pubdate>2008</pubdate>
+             <volume>64</volume>
+             <fpage>854</fpage>
+             <lpage>62</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/TA.0b013e3180340e77</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18404048</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B27">
+             <title>
+                <p>Saline or albumin for fluid resuscitation in patients with traumatic brain injury</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Myburgh</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Cooper</snm>
+                   <fnm>DJ</fnm>
+                </au>
+                <au>
+                   <snm>Finfer</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Bellomo</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Norton</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Bishop</snm>
+                   <fnm>N</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>N Engl J Med</source>
+             <pubdate>2007</pubdate>
+             <volume>357</volume>
+             <fpage>874</fpage>
+             <lpage>84</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1056/NEJMoa067514</pubid>
+                   <pubid idtype="pmpid" link="fulltext">17761591</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B28">
+             <aug>
+                <au>
+                   <snm>Hosmer</snm>
+                   <fnm>DW</fnm>
+                </au>
+                <au>
+                   <snm>Lemeshow</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Sturdivant</snm>
+                   <fnm>RX</fnm>
+                </au>
+             </aug>
+             <source>Applied logistic regression</source>
+             <publisher>Wiley, Hoboken, New Jersey</publisher>
+             <pubdate>2013</pubdate>
+          </bibl>
+          <bibl id="B29">
+             <title>
+                <p>The added value of ordinal analysis in clinical trials: an example in traumatic brain injury</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Roozenbeek</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Lingsma</snm>
+                   <fnm>HF</fnm>
+                </au>
+                <au>
+                   <snm>Perel</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Edwards</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Roberts</snm>
+                   <fnm>I</fnm>
+                </au>
+                <au>
+                   <snm>Murray</snm>
+                   <fnm>GD</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Crit Care</source>
+             <pubdate>2011</pubdate>
+             <volume>15</volume>
+             <fpage>R127</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1186/cc10240</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21586148</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B30">
+             <note>Cummings P. Re: converting an adjusted odds ratio to a risk ratio will produce biased estimates. BMJ. 2014; 348:f7450/rr/684808.</note>
+          </bibl>
+          <bibl id="B31">
+             <title>
+                <p>Converting an odds ratio to a range of plausible relative risks for better communication of research findings</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Grant</snm>
+                   <fnm>RL</fnm>
+                </au>
+             </aug>
+             <source>BMJ</source>
+             <pubdate>2014</pubdate>
+             <volume>348</volume>
+             <fpage>f7450</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/bmj.f7450</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24464277</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B32">
+             <title>
+                <p>Computing adjusted risk ratios and risk differences in Stata</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Norton</snm>
+                   <fnm>EC</fnm>
+                </au>
+                <au>
+                   <snm>Miller</snm>
+                   <fnm>MM</fnm>
+                </au>
+                <au>
+                   <snm>Kleinman</snm>
+                   <fnm>LC</fnm>
+                </au>
+             </aug>
+             <source>Stata J</source>
+             <pubdate>2013</pubdate>
+             <volume>13</volume>
+             <fpage>492</fpage>
+             <lpage>509</lpage>
+          </bibl>
+          <bibl id="B33">
+             <aug>
+                <au>
+                   <snm>Jennison</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Turnbull</snm>
+                   <fnm>BW</fnm>
+                </au>
+             </aug>
+             <source>Group sequential methods with applications to clinical trials</source>
+             <publisher>Chapman &amp; Hall/CRC, Boca Raton, Florida</publisher>
+             <pubdate>2000</pubdate>
+          </bibl>
+          <bibl id="B34">
+             <title>
+                <p>Serious adverse events in academic critical care research</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Cook</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Lauzier</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Rocha</snm>
+                   <fnm>MG</fnm>
+                </au>
+                <au>
+                   <snm>Sayles</snm>
+                   <fnm>MJ</fnm>
+                </au>
+                <au>
+                   <snm>Finfer</snm>
+                   <fnm>S</fnm>
+                </au>
+             </aug>
+             <source>CMAJ</source>
+             <pubdate>2008</pubdate>
+             <volume>178</volume>
+             <fpage>1181</fpage>
+             <lpage>4</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1503/cmaj.071366</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18427095</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+       </refgrp>
+    </bm>
+ </art>

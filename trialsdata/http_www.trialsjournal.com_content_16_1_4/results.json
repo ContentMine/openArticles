@@ -1,0 +1,106 @@
+{
+  "publisher": {
+    "value": [
+      "BioMed Central Ltd"
+    ]
+  },
+  "journal": {
+    "value": [
+      "Trials"
+    ]
+  },
+  "title": {
+    "value": [
+      "Derivation and validation phase for the development of clinical prediction rules for rehabilitation in chronic nonspecific low back pain patients: study protocol for a randomized controlled trial"
+    ]
+  },
+  "authors": {
+    "value": [
+      "Lenie Denteneer",
+      "Gaetane Stassijns",
+      "Willem De Hertogh",
+      "Steven Truijen",
+      "Nienke Jansen",
+      "Ulrike Van Daele"
+    ]
+  },
+  "date": {
+    "value": [
+      "2015-01-06"
+    ]
+  },
+  "doi": {
+    "value": [
+      "10.1186/1745-6215-16-4"
+    ]
+  },
+  "volume": {
+    "value": [
+      "16"
+    ]
+  },
+  "issue": {
+    "value": [
+      "1"
+    ]
+  },
+  "firstpage": {
+    "value": [
+      "4"
+    ]
+  },
+  "description": {
+    "value": [
+      "There is a consensus that exercise therapy should be used as a therapeutic approach in chronic low back pain (CLBP) but little consensus has been reached about the preferential type of therapy. Due to the heterogeneity of the population no clear effect of specific therapy interventions are found. Probably a specific subgroup of the investigated population will benefit from the intervention and another subgroup will not benefit, looking at the total investigated population no significant effects can be found. Therefore there is a need for the development of clinical prediction rules (CPRs). Objectives for this trial are first, the derivation of CPRs to predict treatment response to three forms of exercise therapy for patients with nonspecific CLBP. Secondly, we aim to validate a CPR for the three forms of exercise therapy for patients with nonspecific CLBP."
+    ]
+  },
+  "abstract": {
+    "value": [
+      "There is a consensus that exercise therapy should be used as a therapeutic approach in chronic low back pain (CLBP) but little consensus has been reached about the preferential type of therapy. Due to the heterogeneity of the population no clear effect of specific therapy interventions are found. Probably a specific subgroup of the investigated population will benefit from the intervention and another subgroup will not benefit, looking at the total investigated population no significant effects can be found. Therefore there is a need for the development of clinical prediction rules (CPRs). Objectives for this trial are first, the derivation of CPRs to predict treatment response to three forms of exercise therapy for patients with nonspecific CLBP. Secondly, we aim to validate a CPR for the three forms of exercise therapy for patients with nonspecific CLBP."
+    ]
+  },
+  "fulltext_html": {
+    "value": [
+      "http://www.trialsjournal.com/content/16/1/4"
+    ]
+  },
+  "fulltext_pdf": {
+    "value": [
+      "http://www.trialsjournal.com/content/pdf/1745-6215-16-4.pdf"
+    ]
+  },
+  "fulltext_xml": {
+    "value": [
+      "/content/download/xml/1745-6215-16-4.xml"
+    ]
+  },
+  "supplementary_material": {
+    "value": [
+      "http://trialsjournal.com/content/download/supplementary/1745-6215-16-4-s1.pdf"
+    ]
+  },
+  "figure": {
+    "value": [
+      "/content/figures/1745-6215-16-4-1.gif",
+      "/content/figures/1745-6215-16-4-2.gif"
+    ]
+  },
+  "figure_caption": {
+    "value": [
+      "Figure 1.",
+      "Flow chart representing the design of the derivation phase.",
+      "Figure 2.",
+      "Flow chart representing the design of the validation phase."
+    ]
+  },
+  "license": {
+    "value": [
+      "\r\n\t\t\t\tThis is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.\r\n\t\t\t"
+    ]
+  },
+  "copyright": {
+    "value": [
+      "\r\n            © 2015 Denteneer et al.; licensee BioMed Central. \r\n        "
+    ]
+  }
+}

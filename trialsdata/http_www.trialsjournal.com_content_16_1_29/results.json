@@ -1,0 +1,105 @@
+{
+  "publisher": {
+    "value": [
+      "BioMed Central Ltd"
+    ]
+  },
+  "journal": {
+    "value": [
+      "Trials"
+    ]
+  },
+  "title": {
+    "value": [
+      "Pilot study to evaluate a tailored text message intervention for pregnant smokers (MiQuit): study protocol for a randomised controlled trial"
+    ]
+  },
+  "authors": {
+    "value": [
+      "Sue Cooper",
+      "Katharine Foster",
+      "Felix Naughton",
+      "Jo Leonardi-Bee",
+      "Stephen Sutton",
+      "Michael Ussher",
+      "Matthew Leighton",
+      "Alan Montgomery",
+      "Steve Parrott",
+      "Tim Coleman"
+    ]
+  },
+  "date": {
+    "value": [
+      "2015-01-27"
+    ]
+  },
+  "doi": {
+    "value": [
+      "10.1186/s13063-014-0546-4"
+    ]
+  },
+  "volume": {
+    "value": [
+      "16"
+    ]
+  },
+  "issue": {
+    "value": [
+      "1"
+    ]
+  },
+  "firstpage": {
+    "value": [
+      "29"
+    ]
+  },
+  "description": {
+    "value": [
+      "Smoking in pregnancy is a public health problem. Self-help smoking cessation support can help pregnant women to stop smoking, but the effects of delivering this kind of support via SMS text message are not known. A previous randomised controlled trial (RCT) demonstrated the feasibility and acceptability of providing such support to pregnant smokers using an automated, tailored text message intervention called MiQuit. This larger RCT will estimate key parameters for and will test the feasibility of delivering a major trial run within the United Kingdom National Health Service settings aimed at providing definitive evidence on the utility of MiQuit for helping pregnant smokers to stop."
+    ]
+  },
+  "abstract": {
+    "value": [
+      "Smoking in pregnancy is a public health problem. Self-help smoking cessation support can help pregnant women to stop smoking, but the effects of delivering this kind of support via SMS text message are not known. A previous randomised controlled trial (RCT) demonstrated the feasibility and acceptability of providing such support to pregnant smokers using an automated, tailored text message intervention called MiQuit. This larger RCT will estimate key parameters for and will test the feasibility of delivering a major trial run within the United Kingdom National Health Service settings aimed at providing definitive evidence on the utility of MiQuit for helping pregnant smokers to stop."
+    ]
+  },
+  "fulltext_html": {
+    "value": [
+      "http://www.trialsjournal.com/content/16/1/29"
+    ]
+  },
+  "fulltext_pdf": {
+    "value": [
+      "http://www.trialsjournal.com/content/pdf/s13063-014-0546-4.pdf"
+    ]
+  },
+  "fulltext_xml": {
+    "value": [
+      "/content/download/xml/s13063-014-0546-4.xml"
+    ]
+  },
+  "supplementary_material": {
+    "value": []
+  },
+  "figure": {
+    "value": [
+      "/content/figures/s13063-014-0546-4-1.gif"
+    ]
+  },
+  "figure_caption": {
+    "value": [
+      "Figure 1.",
+      "Participant flowchart: study design and the timeframe for follow-up assessments."
+    ]
+  },
+  "license": {
+    "value": [
+      "\r\n\t\t\t\tThis is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.\r\n\t\t\t"
+    ]
+  },
+  "copyright": {
+    "value": [
+      "\r\n            © 2015 Cooper et al.; licensee BioMed Central. \r\n        "
+    ]
+  }
+}

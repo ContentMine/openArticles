@@ -1,0 +1,2126 @@
+<?xml version='1.0'?>
+<!DOCTYPE art SYSTEM 'http://www.biomedcentral.com/xml/article.dtd'>
+<art>
+    <ui>s13063-015-0552-1</ui>
+    <ji>1745-6215</ji>
+    <fm>
+       <dochead>Study protocol</dochead>
+       <bibl>
+          <title>
+             <p>Use of moxibustion to treat primary dysmenorrhea at two interventional times: study protocol for a randomized controlled trial</p>
+          </title>
+          <aug>
+             <au ce="yes" id="A1">
+                <snm>Yang</snm>
+                <fnm>Jie</fnm>
+                <insr iid="I1"/>
+                <email>jenny_yang_jie@126.com</email>
+             </au>
+             <au ce="yes" id="A2">
+                <snm>Yu</snm>
+                <fnm>Siyi</fnm>
+                <insr iid="I1"/>
+                <email>380895114@qq.com</email>
+             </au>
+             <au id="A3">
+                <snm>Lao</snm>
+                <fnm>Lixing</fnm>
+                <insr iid="I2"/>
+                <email>lxlao1@hku.hk</email>
+             </au>
+             <au id="A4">
+                <snm>Yang</snm>
+                <fnm>Mingxiao</fnm>
+                <insr iid="I1"/>
+                <email>mingxiaoyang@hotmail.com</email>
+             </au>
+             <au id="A5">
+                <snm>Chen</snm>
+                <fnm>JianPing</fnm>
+                <insr iid="I1"/>
+                <insr iid="I2"/>
+                <email>abchen@hku.hk</email>
+             </au>
+             <au id="A6">
+                <snm>Luo</snm>
+                <fnm>Xiao</fnm>
+                <insr iid="I1"/>
+                <email>16959188@qq.com</email>
+             </au>
+             <au id="A7">
+                <snm>Wang</snm>
+                <fnm>Yongxia</fnm>
+                <insr iid="I1"/>
+                <email>825506684@qq.com</email>
+             </au>
+             <au id="A8">
+                <snm>Chen</snm>
+                <fnm>Xiangzhu</fnm>
+                <insr iid="I1"/>
+                <email>1143026181@qq.com</email>
+             </au>
+             <au id="A9">
+                <snm>Li</snm>
+                <fnm>Juan</fnm>
+                <insr iid="I1"/>
+                <email>785939016@qq.com</email>
+             </au>
+             <au id="A10">
+                <snm>Zhu</snm>
+                <fnm>Lihua</fnm>
+                <insr iid="I1"/>
+                <email>zlhcdzy2012@163.com</email>
+             </au>
+             <au id="A11">
+                <snm>Zheng</snm>
+                <fnm>Qianhua</fnm>
+                <insr iid="I1"/>
+                <email>zhengqianhua@gmail.com</email>
+             </au>
+             <au id="A12">
+                <snm>Hu</snm>
+                <fnm>Youping</fnm>
+                <insr iid="I1"/>
+                <email>hypcdutcm@yeah.net</email>
+             </au>
+             <au id="A13" ca="yes">
+                <snm>Wu</snm>
+                <fnm>Xi</fnm>
+                <insr iid="I1"/>
+                <email>wuxi403@126.com</email>
+             </au>
+             <au id="A14" ca="yes">
+                <snm>Liang</snm>
+                <fnm>Fanrong</fnm>
+                <insr iid="I1"/>
+                <email>acuresearch@126.com</email>
+             </au>
+          </aug>
+          <insg>
+             <ins id="I1">
+                <p>Chengdu University of Traditional Chinese Medicine, NO.37, Shierqiao Road, Jinniu District, Chengdu 610072, Sichuan, China</p>
+             </ins>
+             <ins id="I2">
+                <p>School of Chinese Medicine, The University of Hong Kong, 10 Sassoon Road, Pokfulam, Hong Kong, China</p>
+             </ins>
+          </insg>
+          <source>Trials</source>
+          <issn>1745-6215</issn>
+          <pubdate>2015</pubdate>
+          <volume>16</volume>
+          <issue>1</issue>
+          <fpage>35</fpage>
+          <url>http://www.trialsjournal.com/content/16/1/35</url>
+          <note>Jie Yang and Siyi Yu contributed equally to this work.</note>
+          <xrefbib>
+             <pubidlist>
+                <pubid idtype="doi">10.1186/s13063-015-0552-1</pubid>
+             </pubidlist>
+          </xrefbib>
+       </bibl>
+       <history>
+          <rec>
+             <date>
+                <day>19</day>
+                <month>7</month>
+                <year>2014</year>
+             </date>
+          </rec>
+          <acc>
+             <date>
+                <day>6</day>
+                <month>1</month>
+                <year>2015</year>
+             </date>
+          </acc>
+          <pub>
+             <date>
+                <day>30</day>
+                <month>1</month>
+                <year>2015</year>
+             </date>
+          </pub>
+       </history>
+       <cpyrt>
+          <year>2015</year>
+          <collab>Yang et al.; licensee BioMed Central.</collab>
+          <note>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/4.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (<url>http://creativecommons.org/publicdomain/zero/1.0/</url>) applies to the data made available in this article, unless otherwise stated.</note>
+       </cpyrt>
+       <kwdg>
+          <kwd>Moxibustion</kwd>
+          <kwd>Primary dysmenorrhea</kwd>
+          <kwd>Intervention time</kwd>
+          <kwd>Efficacy</kwd>
+          <kwd>RCT</kwd>
+          <kwd>Study protocol</kwd>
+       </kwdg>
+       <abs>
+          <sec>
+             <st>
+                <p>Abstract</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Background</p>
+                </st>
+                <p>Dysmenorrhea is a common menstrual complaint among adolescent girls and women of reproductive age. The treatment of dysmenorrhea is typically selected from multidisciplinary options, including complementary and alternative medicine such as acupuncture and moxibustion. However, there are few published randomized controlled trials concerning moxibustion treatment for dysmenorrhea. This trial aims to investigate the efficacy and safety of moxibustion for primary dysmenorrhea, and to identify the optimal time of moxibustion treatment for primary dysmenorrhea.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Methods/Design</p>
+                </st>
+                <p>This protocol is for a randomized controlled trial in which the assessor and statistician will be blinded. A total of 222 eligible patients with dysmenorrhea will be randomly assigned to three groups in a 1:1:1 ratio as treatment group A (treated before menstruation onset), treatment group B (treated at the onset of menstruation), or control group C (waiting list group). The participants assigned to the treatment groups will receive suspended moxibustion treatment at <it>Sanyinjiao</it> (SP6) and <it>Guanyuan</it> (CV4), while the waiting list group will not receive moxibustion treatment until the completion of the study. The trial period will consist of three baseline menstrual cycles, three menstrual cycles of treatment, and three menstrual cycles in the follow-up period. The primary outcome will be measured by changes in the Cox Menstrual Symptom Scale and the secondary outcomes will be measured using the Visual Analogue Scale, Cox Retrospective Symptom Scale, diary entries, the Self-rating Depression Scale, and the Self-rating Anxiety Scale. The safety of moxibustion will be assessed at every visit.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Discussion</p>
+                </st>
+                <p>This trial aims to assess the effectiveness and safety of moxibustion for primary dysmenorrhea, as well as to determine whether the optimal time of treatment for primary dysmenorrhea in clinical practice is before or after the onset of menstrual pain.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Trial registration</p>
+                </st>
+                <p>Chinese Clinical Trial Register: <url>ChiCTR-TRC-14004627</url>, registered on 9 May 2014.</p>
+             </sec>
+          </sec>
+       </abs>
+    </fm>
+    <bdy>
+       <sec>
+          <st>
+             <p>Background</p>
+          </st>
+          <p>Dysmenorrhea is a common menstrual complaint among adolescent girls and women of reproductive age <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>. It usually consists of two subcategories: primary and secondary dysmenorrhea. The focus of this paper is primary dysmenorrhea (PD), which is defined as painful menses in women with normal pelvic anatomy. Studies using different measurements have reported the prevalence of PD as between 20 and 90% of adolescent girls <abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp>. An Australian study found the prevalence of dysmenorrhea varied between 16 and 91%, with symptoms becoming severely painful in 2 to 29% of the women studied <abbrgrp>
+                <abbr bid="B3">3</abbr>
+             </abbrgrp>.</p>
+          <p>Dysmenorrhea has a significant impact on women&#8217;s lives and represents a substantial public health burden <abbrgrp>
+                <abbr bid="B4">4</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B6">6</abbr>
+             </abbrgrp>. Several studies have shown that female individuals with dysmenorrhea report that it affects their academic performance and social and sporting activities, which is a distressing finding given the availability of effective medications <abbrgrp>
+                <abbr bid="B7">7</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B8">8</abbr>
+             </abbrgrp>. Nonsteroidal anti-inflammatory drugs are widely used as first-line therapy for women with dysmenorrhea <abbrgrp>
+                <abbr bid="B9">9</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B10">10</abbr>
+             </abbrgrp>. However, in some women the side effects may not be well tolerated or the pain relief provided may be inadequate. Therefore, a large number of patients with PD are turning to complementary and alternative medicine such as acupuncture and moxibustion <abbrgrp>
+                <abbr bid="B11">11</abbr>
+             </abbrgrp>.</p>
+          <p>Moxibustion is widely used in Asian countries as a part of Traditional Chinese Medicine (TCM). It is a thermal treatment that involves placing ignited material (usually <it>Artemisia vulgaris</it>) near acupuncture points to cause a warm and painless sensation <abbrgrp>
+                <abbr bid="B12">12</abbr>
+             </abbrgrp>. Moxibustion is used to regulate the meridians and visceral organs of the human body <abbrgrp>
+                <abbr bid="B13">13</abbr>
+             </abbrgrp>. Suspended moxibustion is commonly used, which refers to the application of a burning moxa stick over the acupuncture points from a distance. In TCM, dysmenorrhea is etiologically caused by the stagnated blood or <it>Qi</it> circulation in the uterus. The pathological factors are mostly dampness, blood stasis, and <it>Qi</it> obstructions. Moxibustion as a therapy features on the effect of heat and <it>Artemisia argyi</it>, and thus can improve blood circulation in the uterus and its surrounding veins, and also help to absorb local pathological discharges in patients with PD. It is considered effective in resolving blood stagnation, <it>Qi</it> stagnation, and discomposing cold-damp coagulation, leading to an improved health state <abbrgrp>
+                <abbr bid="B14">14</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B15">15</abbr>
+             </abbrgrp>. Clinical trials and systematic reviews have evaluated the effect of moxibustion for conditions including dysmenorrhea <abbrgrp>
+                <abbr bid="B16">16</abbr>
+             </abbrgrp>, breech presentation <abbrgrp>
+                <abbr bid="B17">17</abbr>
+             </abbrgrp>, ulcerative colitis <abbrgrp>
+                <abbr bid="B18">18</abbr>
+             </abbrgrp>, stroke <abbrgrp>
+                <abbr bid="B19">19</abbr>
+             </abbrgrp>, menopausal hot flashes <abbrgrp>
+                <abbr bid="B20">20</abbr>
+             </abbrgrp>, and constipation <abbrgrp>
+                <abbr bid="B21">21</abbr>
+             </abbrgrp>.</p>
+          <p>Since ancient times, TCM has prescribed acupuncture and moxibustion to treat dysmenorrhea. Acupuncture stimulation, which involves thrusting or twisting needles, results in various biochemical reactions that can have effects throughout the body; moxibustion uses heat stimulation at various temperatures, from mild skin warmth to tissue damage caused by burning. This heat stimulation can yield inflammatory responses and induce vasodilation by releasing mediators such as histamine and substance P around the site of moxibustion therapy <abbrgrp>
+                <abbr bid="B22">22</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B23">23</abbr>
+             </abbrgrp>. According to TCM, the treatment of PD in clinical practice is usually started before menstruation. Several studies have used different time sequences of acupressure in dysmenorrhea to seek evidence-based medical proof regarding the appropriate point selection and timing of intervention in PD <abbrgrp>
+                <abbr bid="B24">24</abbr>
+             </abbrgrp>. Unfortunately, clinical trials regarding the optimal time of moxibustion treatment intervention are lacking.</p>
+          <p>This is a protocol for a randomized controlled trial (RCT) that aims to assess the efficacy and safety of moxibustion, and to determine whether the optimal time of treatment for PD is preventively or after menstrual pain begins.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Methods/Design</p>
+          </st>
+          <sec>
+             <st>
+                <p>Setting</p>
+             </st>
+             <p>This RCT will be conducted in a single center, with the assessor and statistician blinded to treatment allocation. A total of 222 patients diagnosed with PD in accordance with the Clinical Guidelines of Primary Dysmenorrhea by the Society of Obstetricians and Gynecologists of Canada will be enrolled in this trial <abbrgrp>
+                   <abbr bid="B25">25</abbr>
+                </abbrgrp>. The whole treatment process will be carried out in the Third Teaching Hospital of Chengdu University of Traditional Chinese Medicine, Chengdu, Sichuan, China.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Patients</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Recruitment strategies</p>
+                </st>
+                <p>There will be three strategies for PD patient recruitment. First, participants will be recruited from the outpatient and inpatient department of the Third Teaching Hospital of Chengdu University of TCM. Second, printed recruitment posters will be distributed in public clinics and nearby communities. Third, advertisements will be published in the campuses of Chengdu University of TCM, Sichuan University, Southwest University of Nationalities and Southwest Universities of Finance and Economics, and Sichuan Vocational and Technical College of Communications.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Inclusion criteria</p>
+                </st>
+                <p>Participants meeting the following criteria will be included:</p><p>1. Aged from 18 to 30&#160;years without history of delivery,</p>
+                   <p>2. Normal menstrual cycle (28&#8201;&#177;&#8201;seven days) during the last three months,</p>
+                   <p>3. Diagnosed with PD according to the Primary Dysmenorrhea Consensus Guidelines <abbrgrp>
+                         <abbr bid="B25">25</abbr>
+                      </abbrgrp>,</p>
+                   <p>4. Diagnosed with the TCM pattern of stagnation of <it>Qi</it> and blood, or retention of cold-damp coagulation (see Table&#160;<tblr tid="T1">1</tblr>) <abbrgrp>
+                         <abbr bid="B26">26</abbr>
+                      </abbrgrp>,
+                            </p>
+                   
+                      <table id="T1">
+                         <title>
+                            <p>Table 1</p>
+                         </title>
+                         <caption>
+                            <p> 
+                                      <b>Traditional Chinese medicine pattern differentiation protocol for women with primary dysmenorrhea</b>                                    
+                            </p>
+                         </caption>
+                         <tgroup align="left" cols="2">
+                            <colspec align="left" colname="c1" colnum="1" colwidth="*"/>
+                            <colspec align="left" colname="c2" colnum="2" colwidth="*"/>
+                            <thead>
+                               <row valign="top">
+                                  <entry colname="c1">
+                                     <p>
+                                          <b>Diagnostic patterns</b>                                        
+                                     </p>
+                                  </entry>
+                                  <entry colname="c2">
+                                     <p>
+                                          <b>Items</b>                                        
+                                     </p>
+                                  </entry>
+                               </row>
+                            </thead>
+                            <tbody>
+                               <row valign="top">
+                                  <entry colname="c1">
+                                     <p>
+                                          <b>Diagnostic pattern 1</b>                                        
+                                     </p>
+                                  </entry>
+                                  <entry colname="c2"/>
+                               </row>
+                               <row valign="top">
+                                  <entry colname="c1" morerows="4">
+                                     <p>Stagnation of <it>Qi</it> and blood</p>
+                                  </entry>
+                                  <entry colname="c2">
+                                     <p>Pain: distended, stabbing abdominal pain before or during the period aggravated by pressure.</p>
+                                  </entry>
+                               </row>
+                               <row valign="top">
+                                  <entry colname="c2">
+                                     <p>Menstruation: dark purplish in color, clotty and hesitant or scanty in flow, pain relieved after clots discharged.</p>
+                                  </entry>
+                               </row>
+                               <row valign="top">
+                                  <entry colname="c2">
+                                     <p>Accompanying symptoms: distending in breasts, mood swings.</p>
+                                  </entry>
+                               </row>
+                               <row valign="top">
+                                  <entry colname="c2">
+                                     <p>Tongue: purplish.</p>
+                                  </entry>
+                               </row>
+                               <row valign="top">
+                                  <entry colname="c2">
+                                     <p>Pulse: wiry.</p>
+                                  </entry>
+                               </row>
+                               <row valign="top">
+                                  <entry colname="c1">
+                                     <p>
+                                          <b>Diagnostic pattern 2</b>                                        
+                                     </p>
+                                  </entry>
+                                  <entry colname="c2" morerows="1">
+                                     <p>Pain: distended, stabbing abdominal pain before or during the period, favorably to warmth, lower back pain.</p>
+                                  </entry>
+                               </row>
+                               <row valign="top">
+                                  <entry colname="c1" morerows="4">
+                                     <p>Retention of cold-damp coagulation</p>
+                                  </entry>
+                               </row>
+                               <row valign="top">
+                                  <entry colname="c2">
+                                     <p>Menstruation: dark purplish in color, clotty and hesitant in flow, pain relieved after clots discharged.</p>
+                                  </entry>
+                               </row>
+                               <row valign="top">
+                                  <entry colname="c2">
+                                     <p>Accompanying symptoms: distending in breasts, mood swings, and aversion to cold.</p>
+                                  </entry>
+                               </row>
+                               <row valign="top">
+                                  <entry colname="c2">
+                                     <p>Tongue: pale and white greasy tongue coating.</p>
+                                  </entry>
+                               </row>
+                               <row valign="top">
+                                  <entry colname="c2">
+                                     <p>Pulse: deep and slow.</p>
+                                  </entry>
+                               </row>
+                            </tbody>
+                         </tgroup>
+                      </table>
+                   
+                   <p>5. Menstrual pain score of over 40&#160;mm on the Visual Analogue Scale (VAS),</p>
+                   <p>6. Agree to keep a dysmenorrhea diary during the study period, and</p>
+                   <p>7. Agree with all procedures in this trial by signing a written informed consent form.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Exclusion criteria</p>
+                </st>
+                <p>Participants meeting one or more of the following criteria will be excluded:</p><p>1. Secondary dysmenorrhea caused by endometriosis, uterine myoma, endometrial polyps, pelvic inflammatory disease, or other gynecological problems confirmed by a gynecological abdominal ultrasound B examination;</p>
+                   <p>2. Serious contraindications (for example, a life-threatening condition or progressive central nervous disorder);</p>
+                   <p>3. Any other condition that the investigator judges as likely to make the patient unable to complete, comply, or unsuitable for the study;</p>
+                   <p>4. Uncontrolled diagnosed psychiatric disorders;</p>
+                   <p>5. Intent to have a baby during any period of the trial;</p>
+                   <p>6. Having taken antidepressants, anti-serotonin, barbiturates, or psychotropic drugs in the previous two weeks; or</p>
+                   <p>7. Currently receiving or having received any other treatment for PD in the previous three months.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Sample size</p>
+                </st>
+                <p>A previous study found that the mean on the Cox Menstrual Symptom Scale (CMSS) of PD patients after moxibustion was 1.62 <abbrgrp>
+                      <abbr bid="B24">24</abbr>
+                   </abbrgrp>. The average CMSS values of subjects in the proposed study, with the square of standard deviation, are expected to be 1.7, 1.9, and 2.5 for patients treated with moxibustion before menstruation, those treated at the time of menstrual onset, and the waiting list group, respectively. In this case, the three groups are set with the ratio of 1:1:1 as the statistical power is 0.90 and the significance level is 0.05. The sample size was estimated by One Way ANOVA Power Analysis (11th edition, NCSS, LLC, Utah, United States) in NCSS-PASS (11th edition, NCSS, LLC, Utah, United States). After the estimation, the effect size is 0.2266 with 64 patients in each group and 192 patients in total. Therefore, there should ideally be 222 patients in total, with each group containing no less than 74 patients, estimating a dropout rate is 15%.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Ethics</p>
+             </st>
+             <p>This study protocol was reviewed and approved by the Institutional Review Board of the Teaching Hospital of Chengdu University of Traditional Chinese Medicine in February 2014 (approval number: 2013KL-034). The present study was financially supported by the National Natural Science Foundation of China and the trial was registered in Chinese Clinical Trials Registry with the identifier number ChiCTR-TRC-14004627. Prior to undertaking any study-related procedures, all participants will provide written informed consent.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Procedure</p>
+             </st>
+             <p>An independent assessor will initially assess each potential participant according to the inclusion and exclusion criteria. After completing a screening test, participants will enter a baseline period of three months (three menstrual cycles) without moxibustion treatment, during which they will be asked to record menstrual pain and use of acute medication in a dysmenorrhea diary.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Randomization</p>
+             </st>
+             <p>After participants have completed a baseline evaluation, eligible subjects will be randomly classified into three groups: treatment group A (treated before menstruation), treatment group B (treated as the onset of menstruation), and control group C (waiting list group). A computer-generated, blocked random allocation sequence will be generated with SAS software (Version 9.1, SAS Institute Inc., NC, United States). Another research coordinator who is not involved with data collection will provide the random number and group assignment immediately to the independent assessor in opaque, sealed envelopes. This procedure guarantees that randomization concealment is adequate, and not influenced by the acupuncturists or participants. Random allocation will be performed after the first visit to participants who provide informed consent and meet the inclusion criteria. If a participant is eligible to be included in the study, the researcher will open the corresponding envelope in front of the participant. The envelopes will be opened only after the enrolled participants have completed all baseline assessments.</p>
+             <p>Figure&#160;<figr fid="F1">1</figr> summarizes the design of the study and Table&#160;<tblr tid="T2">2</tblr> outlines the measures used in the trial. The duration of the study for every participant will be nine menstrual cycles, including three menstrual cycles in the baseline, treatment, and follow-up periods, respectively.
+                    
+                  </p>
+             
+                <fig id="F1">
+                   <title>
+                      <p>Figure 1</p>
+                   </title>
+                   <caption>
+                      <p>Flow chart of the trial. </p>
+                   </caption>
+                   <text>
+                      <p>
+                            <b>Flow chart of the trial.</b> Participants with a diagnosis of primary dysmenorrhea will be recruited at the Third Teaching Hospital of Chengdu University of Traditional Chinese Medicine. All participants should endure a baseline period of three menstrual cycles and inappropriate participants will be excluded. A total of 222 participants will be randomized to three groups: treatment group A (treated before the menstruation), treatment group B (treated at the onset of menstruation), or control group C (waiting list group) in a 1:1:1 ratio. The trial period will consist of three baseline menstrual cycles, three menstrual cycles of treatment, and three menstrual cycles in the follow-up period, and the outcome will be measured at every visit.</p>
+                   </text>
+                   <graphic file="s13063-015-0552-1-1"/>
+                </fig>
+             
+             
+                <table id="T2">
+                   <title>
+                      <p>Table 2</p>
+                   </title>
+                   <caption>
+                      <p>
+                            <b>Study design schedule</b>                          
+                      </p>
+                   </caption>
+                   <tgroup align="left" cols="9">
+                      <colspec align="left" colname="c1" colnum="1" colwidth="*"/>
+                      <colspec align="left" colname="c2" colnum="2" colwidth="*"/>
+                      <colspec align="left" colname="c3" colnum="3" colwidth="*"/>
+                      <colspec align="left" colname="c4" colnum="4" colwidth="*"/>
+                      <colspec align="left" colname="c5" colnum="5" colwidth="*"/>
+                      <colspec align="left" colname="c6" colnum="6" colwidth="*"/>
+                      <colspec align="left" colname="c7" colnum="7" colwidth="*"/>
+                      <colspec align="left" colname="c8" colnum="8" colwidth="*"/>
+                      <colspec align="left" colname="c9" colnum="9" colwidth="*"/>
+                      <thead>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>
+                                  <b>Period</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>
+                                  <b>Baseline</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>
+                                  <b>Inclusion</b>                              
+                               </p>
+                            </entry>
+                            <entry nameend="c6" namest="c4">
+                               <p>
+                                  <b>Treatment</b>                              
+                               </p>
+                            </entry>
+                            <entry nameend="c9" namest="c7">
+                               <p>
+                                  <b>Follow-up</b>                              
+                               </p>
+                            </entry>
+                         </row>
+                      </thead>
+                      <tbody>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Visit</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>1</p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>2</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>3</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>4</p>
+                            </entry>
+                            <entry colname="c7">
+                               <p>5</p>
+                            </entry>
+                            <entry colname="c8">
+                               <p>6</p>
+                            </entry>
+                            <entry colname="c9">
+                               <p>7</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Menstrual cycle</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>&#8722;3&#160;month</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>0&#160;month</p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>1&#160;month</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>2&#160;month</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>3&#160;month</p>
+                            </entry>
+                            <entry colname="c7">
+                               <p>4&#160;month</p>
+                            </entry>
+                            <entry colname="c8">
+                               <p>5&#160;month</p>
+                            </entry>
+                            <entry colname="c9">
+                               <p>6&#160;month</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Patients</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c4"/>
+                            <entry colname="c5"/>
+                            <entry colname="c6"/>
+                            <entry colname="c7"/>
+                            <entry colname="c8"/>
+                            <entry colname="c9"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Inclusion and exclusion criteria</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c4"/>
+                            <entry colname="c5"/>
+                            <entry colname="c6"/>
+                            <entry colname="c7"/>
+                            <entry colname="c8"/>
+                            <entry colname="c9"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Informed consent</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c4"/>
+                            <entry colname="c5"/>
+                            <entry colname="c6"/>
+                            <entry colname="c7"/>
+                            <entry colname="c8"/>
+                            <entry colname="c9"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Physical examination</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c4"/>
+                            <entry colname="c5"/>
+                            <entry colname="c6">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c7"/>
+                            <entry colname="c8"/>
+                            <entry colname="c9"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Medical history</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c4"/>
+                            <entry colname="c5"/>
+                            <entry colname="c6"/>
+                            <entry colname="c7"/>
+                            <entry colname="c8"/>
+                            <entry colname="c9"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Comorbidities</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c7">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c8">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c9">
+                               <p>&#8730;</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Outcomes</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3"/>
+                            <entry colname="c4"/>
+                            <entry colname="c5"/>
+                            <entry colname="c6"/>
+                            <entry colname="c7"/>
+                            <entry colname="c8"/>
+                            <entry colname="c9"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>CMSS</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3"/>
+                            <entry colname="c4">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c7">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c8">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c9">
+                               <p>&#8730;</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>VAS</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c7">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c8">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c9">
+                               <p>&#8730;</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>RSS</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c4"/>
+                            <entry colname="c5"/>
+                            <entry colname="c6"/>
+                            <entry colname="c7"/>
+                            <entry colname="c8"/>
+                            <entry colname="c9"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>SDS and SAS</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c4"/>
+                            <entry colname="c5"/>
+                            <entry colname="c6">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c7"/>
+                            <entry colname="c8"/>
+                            <entry colname="c9"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Dysmenorrhea diary</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c7">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c8">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c9">
+                               <p>&#8730;</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>PGF2a, PGE2</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c4"/>
+                            <entry colname="c5"/>
+                            <entry colname="c6">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c7"/>
+                            <entry colname="c8"/>
+                            <entry colname="c9"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Gynecological abdominal ultrasound B</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c3"/>
+                            <entry colname="c4"/>
+                            <entry colname="c5"/>
+                            <entry colname="c6"/>
+                            <entry colname="c7"/>
+                            <entry colname="c8"/>
+                            <entry colname="c9"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Trial evaluation</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3"/>
+                            <entry colname="c4"/>
+                            <entry colname="c5"/>
+                            <entry colname="c6"/>
+                            <entry colname="c7"/>
+                            <entry colname="c8"/>
+                            <entry colname="c9"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Patient&#8217;s compliance</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3"/>
+                            <entry colname="c4"/>
+                            <entry colname="c5"/>
+                            <entry colname="c6">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c7"/>
+                            <entry colname="c8"/>
+                            <entry colname="c9">
+                               <p>&#8730;</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Reasons for dropout or withdrawals</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3"/>
+                            <entry colname="c4"/>
+                            <entry colname="c5"/>
+                            <entry colname="c6">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c7"/>
+                            <entry colname="c8"/>
+                            <entry colname="c9">
+                               <p>&#8730;</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Adverse events</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3"/>
+                            <entry colname="c4"/>
+                            <entry colname="c5"/>
+                            <entry colname="c6">
+                               <p>&#8730;</p>
+                            </entry>
+                            <entry colname="c7"/>
+                            <entry colname="c8"/>
+                            <entry colname="c9"/>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Safety evaluation</p>
+                            </entry>
+                            <entry colname="c2"/>
+                            <entry colname="c3"/>
+                            <entry colname="c4"/>
+                            <entry colname="c5"/>
+                            <entry colname="c6"/>
+                            <entry colname="c7"/>
+                            <entry colname="c8"/>
+                            <entry colname="c9">
+                               <p>&#8730;</p>
+                            </entry>
+                         </row>
+                      </tbody>
+                   </tgroup>
+                </table>
+             
+          </sec>
+          <sec>
+             <st>
+                <p>Blinding</p>
+             </st>
+             <p>Double blinding of the clinician and patient is unfeasible owing to the unique nature of moxibustion operations. However, to ensure the integrity of the trial, the researchers will not assess the efficacy of treatment to avoid misleading the patients and inducing potential impacts on the compliance and outcome measurements. The therapist, the assessors of therapeutic effect, the data manager, and the statistician will be separated. Moreover, according to the principle of blinding, only patients allocated to the waiting list group will be told to wait for free treatments at the end of the study; allocation information will be strictly withheld from patients in the other two groups.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Interventions</p>
+             </st>
+             <p>Acupuncturists must receive a license from the Ministry of Health of the People&#8217;s Republic of China and take an educational course to ensure their strict adherence to and familiarity with the study before they become eligible to treat patients in this study. Those participants allocated to a treatment group will be requested to attend (with their partner or support person if available) a training course and demonstration session by their tutors. The training course involves advice, demonstration of moxibustion, and instructions on how to do moxibustion safely at home. The woman or her partner or support person will be trained to light the moxibustion sticks and to hold an individual stick 2.5 to 3&#160;cm above the two acupoints (SP6 and CV4). The participants will be told not to make the acupoints uncomfortable during treatment. They will be requested to perform this treatment for five to 10&#160;minutes on each acupoint once a day for five to seven consecutive days, and will be supplied with sufficient moxibustion sticks to do so in each treatment period.</p>
+             <sec>
+                <st>
+                   <p>Rationale for selection of acupoints</p>
+                </st>
+                <p>The moxibustion treatment protocol to be used is consistent with the principles of traditional moxibustion theories. These principles state that the most common causes of dysmenorrhea in TCM are blood stagnation and cold-damp coagulation in the uterus. According to previous surveys and expert consultations, <it>Sanyinjiao</it> (SP6) and <it>Guanyuan</it> (CV4) are the most common acupoints used in PD treatment. SP6 is the convergent point of the spleen, liver, and kidney meridians according to TCM, and is closely related to the lower abdomen and uterus <abbrgrp>
+                      <abbr bid="B27">27</abbr>
+                   </abbrgrp>. This makes SP6 one of the most commonly used points for gynecologic indications in clinical practice, especially for alleviating dysmenorrhea. The CV4 point in the conception vessel meridian is known as the root of vital <it>Qi</it>, and can exert a regulatory effect on the uterus because of its role of providing power to vital movement. Moxibustion at CV4 can treat dysmenorrhea because of its function of warming the conception vessel meridian, tonifying vital <it>Qi</it>, and promoting blood circulation to remove blood stasis.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Treatment group A (treated before menstruation)</p>
+                </st>
+                <p>Group A will be treated five days before expected menstrual onset and treatment will continue until menstruation begins. However, the subjects&#8217; menstrual cycles may change and so the actual period of treatment will be five to seven days. The treatment will be the application of a moxa stick (herbal preparation with <it>Artemisia vulgaris</it>, Z32021062, Oriental Moxa Co., Suzhou, China) at acupoints SP6 and CV4 to patients in a supine position. The moxa roll is prepared by wrapping mugwort wool (herbal medicines may be mixed in it) with a piece of a paper. It is cylindrical, 1.5&#160;cm in diameter, and 20&#160;cm in length. A lighted moxa roll will be held 2.5 to 3&#160;cm above the acupoint and moved upwards and downwards, to the left and right, or around. The patient should feel warmth but not scorching heat. Each point will be treated with moxibustion for five to 10&#160;minutes.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Treatment group B (treated within menstrual period)</p>
+                </st>
+                <p>Group B treatment will start as soon as menstruation onsets, continuing for five consecutive days. The selection of acupoints and the procedure will be exactly the same as described above for treatment group A.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Control group C (waiting list group)</p>
+                </st>
+                <p>Participants in this group will receive no moxibustion-related intervention while the trial is in process. The subjects in this group will be asked to maintain their normal lifestyle, including diet, exercise, and workload. At the end of the trial, if participants in group C would like to be treated with moxibustion, we will offer free moxibustion treatment five times monthly for three menstrual cycles.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Outcome assessments</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Primary outcome measurement</p>
+                </st>
+                <sec>
+                   <st>
+                      <p>Cox Menstrual Symptom Scale (CMSS)</p>
+                   </st>
+                   <p>The CMSS has been widely used for integrally evaluating patients&#8217; symptoms <abbrgrp>
+                         <abbr bid="B28">28</abbr>
+                      </abbrgrp>. The scale consists of 17 items or symptoms. In the severity evaluation, each symptom is scored via five levels: a score of 0 denotes that the symptom is not noticeable; one denotes it as slightly bothersome; two denotes it as moderately bothersome; three denotes it as severely bothersome; and four denotes it as very severely bothersome. In the duration evaluation, each symptom is scored in five grades: a score of 0 denotes that the symptom did not occur; one denotes that it lasted less than three hours; two denotes that it lasted between three and seven hours; three denotes that it lasted an entire day; and four denotes that it lasted several days. The CMSS will be used in each of the three menstrual cycles of treatment and the three menstrual cycles during the follow-up period.</p>
+                </sec>
+             </sec>
+             <sec>
+                <st>
+                   <p>Secondary outcome measurements</p>
+                </st>
+                <sec>
+                   <st>
+                      <p>Visual Analogue Scale</p>
+                   </st>
+                   <p>The severity of menstrual pain will be measured with the VAS, a 100-mm horizontal line with endpoints from no pain on the far left to the worst possible pain on the far right. The VAS is scored by measuring in millimeters the distance from the side marked no pain to the edge of the mark made by the patient. Possible scores range from a minimum of 0 to a maximum of 100&#160;mm, as participants will be asked to indicate a perception of pain intensity scored from one to 100. The VAS will be used during baseline measurements and during the first, second, third, fourth, fifth, and sixth menstrual cycle after inclusion.</p>
+                </sec>
+                <sec>
+                   <st>
+                      <p>Cox Retrospective Symptom Scale</p>
+                   </st>
+                   <p>The Cox Retrospective Symptom Scale (RSS) is a measurement of menstrual symptoms that has been shown to have high reliability, validity, and sensitivity <abbrgrp>
+                         <abbr bid="B29">29</abbr>
+                      </abbrgrp>. It gives two scores: a Total Frequency Ratings score (RSS COX1) and an Average Severity Ratings score (RSS COX2). Lower scores indicate better health. The RSS will be used before treatment to assess the baseline condition of the patient.</p>
+                </sec>
+                <sec>
+                   <st>
+                      <p>Dysmenorrhea diary</p>
+                   </st>
+                   <p>The women will be provided with dysmenorrhea diaries to record the specific time of menstrual pain attacks, the duration of dysmenorrhea, the associated phenomena, and any medication used. This information will be recorded daily during every menstrual cycle of the three study periods. All patients will be carefully instructed on how to use this diary to rate their symptoms. The dysmenorrhea diary will be used during baseline measurements and during the first, second, third, fourth, fifth, and sixth menstrual cycle after inclusion.</p>
+                </sec>
+                <sec>
+                   <st>
+                      <p>Self-rating Depression Scale</p>
+                   </st>
+                   <p>The Self-rating Depression Scale (SDS) is a 20-item self-reporting questionnaire on the symptoms of depression. Subjects rate each item according to how they felt during the preceding seven days. Item responses are ranked from one to four. The sum of the 20 items produces a score between 20 and 80, with a score of greater than 40 suggesting clinically relevant depression <abbrgrp>
+                         <abbr bid="B30">30</abbr>
+                      </abbrgrp>. The SDS will be used on the day when menstruation ends in the last month of the baseline period, and in the fourth menstrual cycle after inclusion (after completion of three sessions of treatment).</p>
+                </sec>
+                <sec>
+                   <st>
+                      <p>Self-rating Anxiety Scale</p>
+                   </st>
+                   <p>The Self-rating Anxiety Scale (SAS) has been widely used in research and in clinical practice for the detection of anxiety <abbrgrp>
+                         <abbr bid="B31">31</abbr>
+                      </abbrgrp>. It also consists of 20 items rated on numerical values of one to four. The total SAS score may vary from 20 (no anxiety at all) to 80 (severe anxiety), with a value of greater than 40 suggesting the presence of a clinically relevant anxiety disorder. The SAS will be used on the day when menstruation ends in the last month of the baseline period, and in the fourth menstrual cycle after inclusion (after completion of three treatment sessions).</p>
+                </sec>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Follow-up</p>
+             </st>
+             <p>The follow-up assessment is designed to evaluate the long-term effects of moxibustion. Upon completion of treatment, follow-up assessments will be conducted at the fourth, fifth, and sixth menstrual cycle after inclusion, lasting three menstrual cycles. In addition, patients will keep the daily dysmenorrhea diary and complete the CMSS and VAS measurements during every menstrual cycle in the follow-up period. Patients will send the relevant information to researchers immediately via email or short message service. To encourage participant compliance, we will show special solicitude for every participant and closely monitor the evolution of their illness.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Statistical analysis plan</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Data integrity</p>
+                </st>
+                <p>No record can be missed or omitted in the original data source. Any corrections should be explained in the appended notes signed and dated by the physicians participating in the clinical trial; primary entries are not allowed to be changed. After the observation of a clinical case, case report form (CRF) files will be submitted to the project directors for verification and signing by supervisors.</p>
+                <p>Data input will be done separately by two data collectors with computers and locked once the checking work is done. The data manager will clarify any questions regarding the CRF with the researchers through clinical supervisors. Researchers should answer any questions as soon as possible so that the data manager can conduct the modification, validation, and entry of the data.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Analysis</p>
+                </st>
+                <p>A statistician blinded to the whole trial process will perform the statistical analysis using the SAS statistical software package (Version 9.1, SAS Institute Inc.) in the Computer Integrated Manufacturing System. For the evaluation of curative effect in this trial, the per protocol set (PPS) will be used. The full analysis set (FAS) is determined according to an intention-to-treat population; all patients who are randomized and receive at least one treatment session will be included in the analysis set. The PPS is defined as the patients who complete the study and do not have major protocol violations. Demographic data and other basic indicators will be analyzed to test the balance of the three groups at baseline. The main indicators and global indicators will be analyzed within the FAS and PPS. The results will be described with the mean, standard deviation, median, P25 (Percentile 25), P75 (Percentile75), maximum, and minimum values of the differences between the treatment period and the baseline period. Between-group differences will be tested using repeated measure analyses of variance. The accepted level of significance for all analyses was <it>P</it> &lt;0.05. Considering that the efficacy might be affected by factors such as age, age of menarche, and course of disease, all factors will be considered as co-variants for covariance analysis or logistic regression analysis when comparisons among groups are made. Missing data will be replaced according to the principle of multiple imputations.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Safety monitoring</p>
+             </st>
+             <p>Possible adverse events (AEs) due to moxibustion include blisters, redness, itching, burns, and respiratory symptoms. All unexpected and unintended responses will be reported as AEs by the researcher at every visit, even if they are not necessarily related to moxibustion intervention. The AEs will be carefully recorded in the CRF by the corresponding research staff.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Discussion</p>
+          </st>
+          <p>This proposed trial is a randomized, controlled clinical trial with separation of the practitioner, assessor, and statistician. The aims of this trial are to evaluate the efficacy and safety of moxibustion for treating PD, and to identify the optimal interventional time of moxibustion for PD treatment.</p>
+          <p>The form of moxibustion used in this trial will be suspended moxibustion treatment. When suspended moxibustion is applied to acupoints, the patient will have non-local or non-superficial heat sensation, such as penetrating heat, expanding heat, and transmitting heat, as <it>DeQi</it> appears. Selection of optimal acupoints for PD plays an important role in moxibustion treatment effectiveness. In practice, the treatment effect of moxibustion is affected by many other influential factors, including the intensity of heat stimulation, the ingredients of the moxa pillar, and the moxibustion sensations experienced. The most important factor contributing to the effectiveness of moxibustion is thought to be the selection of proper interventional time. However, in existing studies, interventional timing of moxibustion was not included as a key variant to be assessed.</p>
+          <p>In another undergoing study, we mainly focused on the effectiveness of moxibustion for pain relief in PD, which can be referred to the published protocol <abbrgrp>
+                <abbr bid="B32">32</abbr>
+             </abbrgrp>. As to the current one, it is conceived on the basis of the former one. As indicated by the results from the initial analysis, moxibustion is effective for PD pain management; thus we want to further assess the impact of intervention time of moxibustion on the outcome of treating PD, so as the physiological tests&#8217; change by treatment. In clinical practice, moxibustion treatment for PD can also be differed by the intervention timing in China, and there is no relative study on this focus. Thus we carried out the present study as a continuum which is reported by the current protocol. It is anticipated that the result may demonstrate the optimal interventional timing for PD and further extend our understanding of intervention from a chrono-therapeutic perspective, which will be highlights of our further reports. Moreover, the present study that was designed in accordance with the Consolidated Standards of Reporting Trials (CONSORT) statement, and guidelines will provide useful information to guide the clinical practice of moxibustion for PD.</p>
+          <p>In addition, our study may also have the following strengths which will be potential points of discussion in the final reports. The dysmenorrhea diaries will be used to record the symptoms and management of menstrual pain in every menstrual cycle; these diaries are important for quality monitoring of the recurrence of new PD episodes. Besides the evident physical concerns, PD may be particularly disruptive to adolescent girls and women who experience mood fluctuations, such as depression or anxiety. There is increasing evidence that psychological disorders coexist with dysmenorrhea, and these conditions may synchronize with menstrual pain. The question remains whether anxiety and depression make women prone to suffering from dysmenorrhea, or whether dysmenorrhea causes anxiety and depression. We believe that women with mood changes tend to have lowered pain thresholds compared with mentally healthy women. Anxiety and depression disrupt patients&#8217; experiences, expressions, behaviors, and pain-coping responses. Therefore, a better understanding of the relationship between psychological characteristics and PD is crucial to the assessment of the effectiveness of moxibustion as a treatment for PD. Hence, we will apply the SAS and the SDS to examine the link between PD and psychological symptoms of depression and anxiety among dysmenorrhea sufferers.</p>
+          <p>On the other hand, there are also limitations to this study. Concealment is the most critical factor in the allocation process, with a high risk of bias possibly generated by unconcealed allocation <abbrgrp>
+                <abbr bid="B33">33</abbr>
+             </abbrgrp>. One limitation of this study is the possibility of a high risk of bias regarding blinding, as the waiting list group will be used as a control instead of a group receiving a sham procedure. Another limitation is that as moxibustion treatment will begin five to seven days before menstruation or at the onset of pain, the treatment may interfere with the menstrual period; treatment may cause menstruation to occur one or two days sooner or later than the usual cycle. Therefore, it may be difficult to predict an exact menstruation start date for the patients, and this may affect the therapeutic effect.</p>
+          <p>It is believed that this trial will provide good evidence to demonstrate the efficacy and safety of moxibustion for patients with PD. Moreover, it will be of great significance for clinical practice to identify an optimal moxibustion treatment time for PD.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Trial status</p>
+          </st>
+          <p>The trial is currently in the recruitment phase. Participant recruitment started in June 2014, and is expected to end in September 2015.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Abbreviations</p>
+          </st>
+          <p>CMSS: Cox Menstrual Symptom Scale</p>
+          <p>CRF: Case report form</p>
+          <p>FAS: Full analysis set</p>
+          <p>IRB: Institutional Review Board</p>
+          <p>PD: Primary dysmenorrhea</p>
+          <p>PPS: Per protocol set</p>
+          <p>RCT: Randomized controlled trial</p>
+          <p>RSS: Cox Retrospective Symptom Scale</p>
+          <p>SAS: Self-rating Anxiety Scale</p>
+          <p>SDS: Self-rating Depression Scale</p>
+          <p>TCM: Traditional Chinese Medicine</p>
+          <p>VAS: Visual analogue scale</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Competing interests</p>
+          </st>
+          <p>The authors declare that they have no competing interests.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Authors&#8217; contributions</p>
+          </st>
+          <p>JY and SYY contributed equally to this article. FRL and JY conceived this trial and participated in the design of this trial. JY, SYY, XW, and YPH participated in the design of the trial and drafted the manuscript. JL and JPC planed data analysis. LXL and MXY participated in the design of this trial and helped in drafting the manuscript. XL, YXW, XZC, QHZ, and LHZ recruited participants from clinics and universities. All authors read and approved the final manuscript.</p>
+       </sec>
+    </bdy>
+    <bm>
+       <ack>
+          <sec>
+             <st>
+                <p>Acknowledgments</p>
+             </st>
+             <p>We would like to express our gratitude to the outpatient Departments of Acupuncture, Gynecology, and General Practice in the Third Affiliated Hospital of Chengdu University of Traditional Chinese Medicine, for their full cooperation and material support.</p>
+             <p>This trial was financially supported by the National Basic Research Program for development (the &#8216;973 Program&#8217;) with grant number 2012CB518501, support program of the Science and Technology Department of Sichuan Province with grant number: 2012SZ0170, and program of the National Natural Science Foundation of China for Young Scientists, with grant number: 81303060.</p>
+          </sec>
+       </ack>
+       <refgrp>
+          
+          <bibl id="B1">
+             <title>
+                <p>Primary dysmenorrhoea</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kennedy</snm>
+                   <fnm>S</fnm>
+                </au>
+             </aug>
+             <source>Lancet</source>
+             <pubdate>1997</pubdate>
+             <volume>349</volume>
+             <issue>9059</issue>
+             <fpage>1116</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0140-6736(05)63018-8</pubid>
+                   <pubid idtype="pmpid" link="fulltext">9113008</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B2">
+             <title>
+                <p>The burden and determinants of dysmenorrhoea: a population&#8208;based survey of 2262 women in Goa</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Patel</snm>
+                   <fnm>V</fnm>
+                </au>
+                <au>
+                   <snm>Tanksale</snm>
+                   <fnm>V</fnm>
+                </au>
+                <au>
+                   <snm>Sahasrabhojanee</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Gupte</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Nevrekar</snm>
+                   <fnm>P</fnm>
+                </au>
+             </aug>
+             <source>India Br J Obstet Gynaecol</source>
+             <pubdate>2006</pubdate>
+             <volume>113</volume>
+             <issue>4</issue>
+             <fpage>453</fpage>
+             <lpage>63</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1471-0528.2006.00874.x</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B3">
+             <title>
+                <p>The prevalence and risk factors of dysmenorrhea</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Ju</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Jones</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Mishra</snm>
+                   <fnm>G</fnm>
+                </au>
+             </aug>
+             <source>Epidemiol Rev</source>
+             <pubdate>2014</pubdate>
+             <volume>36</volume>
+             <issue>1</issue>
+             <fpage>104</fpage>
+             <lpage>13</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/epirev/mxt009</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24284871</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B4">
+             <title>
+                <p>Lea R: Prevalence of primary dysmenorrhea in Canada</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Burnett</snm>
+                   <fnm>MA</fnm>
+                </au>
+                <au>
+                   <snm>Antao</snm>
+                   <fnm>V</fnm>
+                </au>
+                <au>
+                   <snm>Black</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Feldman</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Grenville</snm>
+                   <fnm>A</fnm>
+                </au>
+             </aug>
+             <source>J Obstet Gynaecol Can</source>
+             <pubdate>2005</pubdate>
+             <volume>27</volume>
+             <issue>8</issue>
+             <fpage>765</fpage>
+             <lpage>70</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">16287008</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B5">
+             <title>
+                <p>Dysmenorrhea</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>French</snm>
+                   <fnm>L</fnm>
+                </au>
+             </aug>
+             <source>Am Fam Physician</source>
+             <pubdate>2005</pubdate>
+             <volume>71</volume>
+             <issue>2</issue>
+             <fpage>285</fpage>
+             <lpage>91</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">15686299</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B6">
+             <title>
+                <p>Johnson SR: The natural history of primary dysmenorrhoea: a longitudinal study</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Weissman</snm>
+                   <fnm>AM</fnm>
+                </au>
+                <au>
+                   <snm>Hartz</snm>
+                   <fnm>AJ</fnm>
+                </au>
+                <au>
+                   <snm>Hansen</snm>
+                   <fnm>MD</fnm>
+                </au>
+             </aug>
+             <source>Br J Obstet Gynaecol</source>
+             <pubdate>2004</pubdate>
+             <volume>111</volume>
+             <issue>4</issue>
+             <fpage>345</fpage>
+             <lpage>52</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1471-0528.2004.00090.x</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B7">
+             <title>
+                <p>Primary dysmenorrhea in young Western Australian women: prevalence, impact, and knowledge of treatment</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hillen</snm>
+                   <fnm>TI</fnm>
+                </au>
+                <au>
+                   <snm>Grbavac</snm>
+                   <fnm>SL</fnm>
+                </au>
+                <au>
+                   <snm>Johnston</snm>
+                   <fnm>PJ</fnm>
+                </au>
+                <au>
+                   <snm>Straton</snm>
+                   <fnm>JA</fnm>
+                </au>
+                <au>
+                   <snm>Keogh</snm>
+                   <fnm>JM</fnm>
+                </au>
+             </aug>
+             <source>J Adolesc Health</source>
+             <pubdate>1999</pubdate>
+             <volume>25</volume>
+             <issue>1</issue>
+             <fpage>40</fpage>
+             <lpage>5</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S1054-139X(98)00147-5</pubid>
+                   <pubid idtype="pmpid" link="fulltext">10418884</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B8">
+             <title>
+                <p>A survey of adolescent dysmenorrhea and premenstrual symptom frequency: a model program for prevention, detection and treatment</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Wilson</snm>
+                   <fnm>CA</fnm>
+                </au>
+                <au>
+                   <snm>Keye</snm>
+                   <fnm>WR</fnm>
+                   <suf>Jr</suf>
+                </au>
+             </aug>
+             <source>J Adolesc Health Care</source>
+             <pubdate>1989</pubdate>
+             <volume>10</volume>
+             <issue>4</issue>
+             <fpage>317</fpage>
+             <lpage>22</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/0197-0070(89)90065-X</pubid>
+                   <pubid idtype="pmpid" link="fulltext">2786516</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B9">
+             <title>
+                <p>Li Wan Po A</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Zhang</snm>
+                   <fnm>W</fnm>
+                </au>
+             </aug>
+             <source>Efficacy of minor analgesics in primary dysmenorrhoea: a systematic review Br J Obstet Gynaecol</source>
+             <pubdate>1998</pubdate>
+             <volume>105</volume>
+             <issue>7</issue>
+             <fpage>780</fpage>
+             <lpage>9</lpage>
+          </bibl>
+          <bibl id="B10">
+             <title>
+                <p>Vecchio TJ: Analgesic efficacy of ibuprofen for treatment of primary dysmenorrhea</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Morrison</snm>
+                   <fnm>JC</fnm>
+                </au>
+                <au>
+                   <snm>Ling</snm>
+                   <fnm>FW</fnm>
+                </au>
+                <au>
+                   <snm>Forman</snm>
+                   <fnm>EK</fnm>
+                </au>
+                <au>
+                   <snm>Bates</snm>
+                   <fnm>GW</fnm>
+                </au>
+                <au>
+                   <snm>Blake</snm>
+                   <fnm>PG</fnm>
+                </au>
+             </aug>
+             <source>South Med J</source>
+             <pubdate>1980</pubdate>
+             <volume>73</volume>
+             <issue>8</issue>
+             <fpage>999</fpage>
+             <lpage>1002</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/00007611-198008000-00014</pubid>
+                   <pubid idtype="pmpid" link="fulltext">6996107</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B11">
+             <title>
+                <p>Systematic review of clinical trials of acupuncture&#8208;related therapies for primary dysmenorrhea</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Yang</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Liu</snm>
+                   <fnm>CZ</fnm>
+                </au>
+                <au>
+                   <snm>Chen</snm>
+                   <fnm>X</fnm>
+                </au>
+                <au>
+                   <snm>Ma</snm>
+                   <fnm>LX</fnm>
+                </au>
+                <au>
+                   <snm>Xie</snm>
+                   <fnm>JP</fnm>
+                </au>
+                <au>
+                   <snm>Guo</snm>
+                   <fnm>NN</fnm>
+                </au>
+             </aug>
+             <source>Acta Obstet Gynecol Scand</source>
+             <pubdate>2008</pubdate>
+             <volume>87</volume>
+             <issue>11</issue>
+             <fpage>1114</fpage>
+             <lpage>22</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1080/00016340802443798</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18951224</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B12">
+             <title>
+                <p>Caesarean section for non-medical reasons at term</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Lavender</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Hofmeyr</snm>
+                   <fnm>GJ</fnm>
+                </au>
+                <au>
+                   <snm>Neilson</snm>
+                   <fnm>JP</fnm>
+                </au>
+                <au>
+                   <snm>Kingdon</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Gyte</snm>
+                   <fnm>GM</fnm>
+                </au>
+             </aug>
+             <source>Cochrane Database Syst Rev</source>
+             <pubdate>2012</pubdate>
+             <volume>14</volume>
+             <issue>3</issue>
+             <note>Article ID CD004660</note>
+          </bibl>
+          <bibl id="B13">
+             <insg>
+                <ins>
+                   <p>World Health Organization</p>
+                </ins>
+             </insg>
+             <source>WHO international standard terminologies on traditional medicine in the western pacific region</source>
+             <publisher>World Health Organization, Western Pacific Region</publisher>
+             <pubdate>2007</pubdate>
+          </bibl>
+          <bibl id="B14">
+             <title>
+                <p>Abdominal acupuncture combined with moxibustion for pelvic inflammation</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Jianhua</snm>
+                   <fnm>C</fnm>
+                </au>
+             </aug>
+             <source>J Acupunct Tuina Sci</source>
+             <pubdate>2011</pubdate>
+             <volume>9</volume>
+             <issue>5</issue>
+             <fpage>301</fpage>
+             <lpage>3</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1007/s11726-011-0537-x</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B15">
+             <title>
+                <p>Modern progress of mechanism of moxibustion therapy</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Zhang</snm>
+                   <fnm>J-F</fnm>
+                </au>
+                <au>
+                   <snm>Wu</snm>
+                   <fnm>Y-C</fnm>
+                </au>
+             </aug>
+             <source>J Acupunct Tuina Sci</source>
+             <pubdate>2006</pubdate>
+             <volume>4</volume>
+             <issue>5</issue>
+             <fpage>257</fpage>
+             <lpage>60</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1007/s11726-005-0257-1</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B16">
+             <title>
+                <p>Analysis on therapeutic effect of substance-partitioned moxibustion at Guanyuan (CV 4) and shenque (CV 8) for treatment of primary dysmenorrhea of cold-damp type</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Li</snm>
+                   <fnm>W</fnm>
+                </au>
+                <au>
+                   <snm>Liu</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Sun</snm>
+                   <fnm>L</fnm>
+                </au>
+             </aug>
+             <source>Zhongguo Zhen Jiu</source>
+             <pubdate>2006</pubdate>
+             <volume>26</volume>
+             <issue>7</issue>
+             <fpage>481</fpage>
+             <lpage>2</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">16903598</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B17">
+             <title>
+                <p>Application of fuzzy comprehensive evaluation technique in CAPP</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Yang</snm>
+                   <fnm>X</fnm>
+                </au>
+                <au>
+                   <snm>Liu</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>Mach Tool Hydraulics</source>
+             <pubdate>2009</pubdate>
+             <volume>2</volume>
+             <issue>051</issue>
+             <fpage>153</fpage>
+             <lpage>5</lpage>
+          </bibl>
+          <bibl id="B18">
+             <title>
+                <p>Moxibustion for ulcerative colitis: a systematic review and meta-analysis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Lee</snm>
+                   <fnm>D-H</fnm>
+                </au>
+                <au>
+                   <snm>Kim</snm>
+                   <fnm>J-I</fnm>
+                </au>
+                <au>
+                   <snm>Lee</snm>
+                   <fnm>MS</fnm>
+                </au>
+                <au>
+                   <snm>Choi</snm>
+                   <fnm>T-Y</fnm>
+                </au>
+                <au>
+                   <snm>Choi</snm>
+                   <fnm>S-M</fnm>
+                </au>
+                <au>
+                   <snm>Ernst</snm>
+                   <fnm>E</fnm>
+                </au>
+             </aug>
+             <source>BMC Gastroenterol</source>
+             <pubdate>2010</pubdate>
+             <volume>10</volume>
+             <issue>1</issue>
+             <fpage>36</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1186/1471-230X-10-36</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20374658</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B19">
+             <title>
+                <p>Moxibustion for stroke rehabilitation systematic review</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Lee</snm>
+                   <fnm>MS</fnm>
+                </au>
+                <au>
+                   <snm>Shin</snm>
+                   <fnm>B-C</fnm>
+                </au>
+                <au>
+                   <snm>Kim</snm>
+                   <fnm>J-I</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Stroke</source>
+             <pubdate>2010</pubdate>
+             <volume>41</volume>
+             <issue>4</issue>
+             <fpage>817</fpage>
+             <lpage>20</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1161/STROKEAHA.109.566851</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20150551</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B20">
+             <title>
+                <p>Moxibustion for treating menopausal hot flashes: a randomized clinical trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Park</snm>
+                   <fnm>J-E</fnm>
+                </au>
+                <au>
+                   <snm>Lee</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Jung</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Kim</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Kang</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Choi</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>Menopause</source>
+             <pubdate>2009</pubdate>
+             <volume>16</volume>
+             <issue>4</issue>
+             <fpage>660</fpage>
+             <lpage>5</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/gme.0b013e318198cdf7</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19293729</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B21">
+             <title>
+                <p>Han C-h, Ernst E: Effects of moxibustion for constipation treatment: a systematic review of randomized controlled trials</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Lee</snm>
+                   <fnm>MS</fnm>
+                </au>
+                <au>
+                   <snm>Choi</snm>
+                   <fnm>T-Y</fnm>
+                </au>
+                <au>
+                   <snm>Park</snm>
+                   <fnm>J-E</fnm>
+                </au>
+             </aug>
+             <source>Chinese Med</source>
+             <pubdate>2010</pubdate>
+             <volume>5</volume>
+             <issue>1</issue>
+             <fpage>28</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1186/1749-8546-5-28</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B22">
+             <title>
+                <p>Moxibustion for hypertension: a systematic review</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kim</snm>
+                   <fnm>J-I</fnm>
+                </au>
+                <au>
+                   <snm>Choi</snm>
+                   <fnm>J-Y</fnm>
+                </au>
+                <au>
+                   <snm>Lee</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Lee</snm>
+                   <fnm>MS</fnm>
+                </au>
+                <au>
+                   <snm>Ernst</snm>
+                   <fnm>E</fnm>
+                </au>
+             </aug>
+             <source>BMC Cardiovasc Disord</source>
+             <pubdate>2010</pubdate>
+             <volume>10</volume>
+             <fpage>33</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1186/1471-2261-10-33</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20602794</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B23">
+             <title>
+                <p>Effects of single moxibustion on cutaneous blood vessel and microvascular permeability in mice</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Okazaki</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Aizawa</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Yamauchi</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Oguchi</snm>
+                   <fnm>K</fnm>
+                </au>
+             </aug>
+             <source>Am J Chin Med</source>
+             <pubdate>1990</pubdate>
+             <volume>18</volume>
+             <issue>03n04</issue>
+             <fpage>121</fpage>
+             <lpage>30</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1142/S0192415X90000162</pubid>
+                   <pubid idtype="pmpid" link="fulltext">2270846</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B24">
+             <title>
+                <p>Du D-Q:A clinical trial of acupuncture about time-varying treatment and points selection in primary dysmenorrhea</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Ma</snm>
+                   <fnm>Y-X</fnm>
+                </au>
+                <au>
+                   <snm>Ye</snm>
+                   <fnm>X-N</fnm>
+                </au>
+                <au>
+                   <snm>Liu</snm>
+                   <fnm>C-Z</fnm>
+                </au>
+                <au>
+                   <snm>Cai</snm>
+                   <fnm>P-Y</fnm>
+                </au>
+                <au>
+                   <snm>Li</snm>
+                   <fnm>Z-F</fnm>
+                </au>
+             </aug>
+             <source>J Ethnopharmacol</source>
+             <pubdate>2013</pubdate>
+             <volume>148</volume>
+             <issue>2</issue>
+             <fpage>498</fpage>
+             <lpage>504</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.jep.2013.04.045</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23684618</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B25">
+             <title>
+                <p>Feldman K,: Primary dysmenorrhea consensus guideline</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Lefebvre</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Pinsonneault</snm>
+                   <fnm>O</fnm>
+                </au>
+                <au>
+                   <snm>Antao</snm>
+                   <fnm>V</fnm>
+                </au>
+                <au>
+                   <snm>Black</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Burnett</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>J Obstet Gynaecol Can</source>
+             <pubdate>2005</pubdate>
+             <volume>27</volume>
+             <issue>12</issue>
+             <fpage>1117</fpage>
+             <lpage>46</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">16524531</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B26">
+             <title>
+                <p>Primary dysmenorrhoea: A comparative study on Australian and Chinese women</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Zhu</snm>
+                   <fnm>X</fnm>
+                </au>
+                <au>
+                   <snm>Bensoussan</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Zhu</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Qian</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Xu</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Zhou</snm>
+                   <fnm>C</fnm>
+                </au>
+             </aug>
+             <source>Complement Ther Med</source>
+             <pubdate>2009</pubdate>
+             <volume>17</volume>
+             <issue>3</issue>
+             <fpage>155</fpage>
+             <lpage>60</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.ctim.2008.10.001</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19398069</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B27">
+             <title>
+                <p>Randomized controlled study on the analgesic effect of superficial needling plus electrostimulation of sanyinjiao (SP6) for primary dysmenorrhea</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Zhi</snm>
+                   <fnm>L</fnm>
+                </au>
+             </aug>
+             <source>Zhen Ci Yan Jiu</source>
+             <pubdate>2007</pubdate>
+             <volume>32</volume>
+             <issue>5</issue>
+             <fpage>342</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">18050629</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B28">
+             <title>
+                <p>Behavioral treatment parameters with primary dysmenorrhea</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Cox</snm>
+                   <fnm>DJ</fnm>
+                </au>
+                <au>
+                   <snm>Meyer</snm>
+                   <fnm>RG</fnm>
+                </au>
+             </aug>
+             <source>J Behav Med</source>
+             <pubdate>1978</pubdate>
+             <volume>1</volume>
+             <issue>3</issue>
+             <fpage>297</fpage>
+             <lpage>310</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1007/BF00846681</pubid>
+                   <pubid idtype="pmpid" link="fulltext">40034</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B29">
+             <title>
+                <p>Yang H: Immediate analgesia effect of single point acupuncture in primary dysmenorrhea: a randomized controlled trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Liu</snm>
+                   <fnm>CZ</fnm>
+                </au>
+                <au>
+                   <snm>Xie</snm>
+                   <fnm>JP</fnm>
+                </au>
+                <au>
+                   <snm>Wang</snm>
+                   <fnm>LP</fnm>
+                </au>
+                <au>
+                   <snm>Zheng</snm>
+                   <fnm>YY</fnm>
+                </au>
+                <au>
+                   <snm>Ma</snm>
+                   <fnm>ZB</fnm>
+                </au>
+             </aug>
+             <source>Pain Med</source>
+             <pubdate>2011</pubdate>
+             <volume>12</volume>
+             <issue>2</issue>
+             <fpage>300</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1526-4637.2010.01017.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21166767</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B30">
+             <title>
+                <p>Self-rating depression scale in an outpatient clinic: further validation of the SDS</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Zung</snm>
+                   <fnm>WW</fnm>
+                </au>
+                <au>
+                   <snm>Richards</snm>
+                   <fnm>CB</fnm>
+                </au>
+                <au>
+                   <snm>Short</snm>
+                   <fnm>MJ</fnm>
+                </au>
+             </aug>
+             <source>Arch Gen Psychiatry</source>
+             <pubdate>1965</pubdate>
+             <volume>13</volume>
+             <issue>6</issue>
+             <fpage>508</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1001/archpsyc.1965.01730060026004</pubid>
+                   <pubid idtype="pmpid" link="fulltext">4378854</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B31">
+             <title>
+                <p>A rating instrument for anxiety disorders</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Zung</snm>
+                   <fnm>WW</fnm>
+                </au>
+             </aug>
+             <source>Psychosomatics</source>
+             <pubdate>1971</pubdate>
+             <volume>12</volume>
+             <issue>6</issue>
+             <fpage>371</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0033-3182(71)71479-0</pubid>
+                   <pubid idtype="pmpid" link="fulltext">5172928</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B32">
+             <title>
+                <p>Effectiveness study of moxibustion on pain relief in primary dysmenorrhea: study protocol of a randomized controlled trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Yang</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Chen</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Lao</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Yang</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Chen</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Bo</snm>
+                   <fnm>L</fnm>
+                </au>
+             </aug>
+             <source>Evid Based Complement Alternat Med</source>
+             <pubdate>2014</pubdate>
+             <volume>2014</volume>
+             <fpage>1</fpage>
+             <lpage>6</lpage>
+          </bibl>
+          <bibl id="B33">
+             <title>
+                <p>Empirical evidence of bias: dimensions of methodological quality associated with estimates of treatment effects in controlled trials</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Schulz</snm>
+                   <fnm>KF</fnm>
+                </au>
+                <au>
+                   <snm>Chalmers</snm>
+                   <fnm>I</fnm>
+                </au>
+                <au>
+                   <snm>Hayes</snm>
+                   <fnm>RJ</fnm>
+                </au>
+                <au>
+                   <snm>Altman</snm>
+                   <fnm>DG</fnm>
+                </au>
+             </aug>
+             <source>JAMA</source>
+             <pubdate>1995</pubdate>
+             <volume>273</volume>
+             <issue>5</issue>
+             <fpage>408</fpage>
+             <lpage>12</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1001/jama.1995.03520290060030</pubid>
+                   <pubid idtype="pmpid" link="fulltext">7823387</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+       </refgrp>
+    </bm>
+ </art>

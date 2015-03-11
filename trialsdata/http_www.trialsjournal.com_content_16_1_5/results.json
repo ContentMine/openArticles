@@ -1,0 +1,101 @@
+{
+  "publisher": {
+    "value": [
+      "BioMed Central Ltd"
+    ]
+  },
+  "journal": {
+    "value": [
+      "Trials"
+    ]
+  },
+  "title": {
+    "value": [
+      "Intravenous iron isomaltoside 1000 administered by high single-dose infusions or standard medical care for the treatment of fatigue in women after postpartum haemorrhage: study protocol for a randomised controlled trial"
+    ]
+  },
+  "authors": {
+    "value": [
+      "Charlotte Holm",
+      "Lars L Thomsen",
+      "Astrid Norgaard",
+      "Jens Langhoff-Roos"
+    ]
+  },
+  "date": {
+    "value": [
+      "2015-01-14"
+    ]
+  },
+  "doi": {
+    "value": [
+      "10.1186/1745-6215-16-5"
+    ]
+  },
+  "volume": {
+    "value": [
+      "16"
+    ]
+  },
+  "issue": {
+    "value": [
+      "1"
+    ]
+  },
+  "firstpage": {
+    "value": [
+      "5"
+    ]
+  },
+  "description": {
+    "value": [
+      "Postpartum haemorrhage can lead to iron deficiency with and without anaemia, the clinical consequences of which include physical fatigue. Although oral iron is the standard treatment, it is often associated with gastrointestinal side effects and poor compliance. To date, no published randomised controlled studies have compared the clinical efficacy and safety of standard medical care with intravenous administration of iron supplementation after postpartum haemorrhage."
+    ]
+  },
+  "abstract": {
+    "value": [
+      "Postpartum haemorrhage can lead to iron deficiency with and without anaemia, the clinical consequences of which include physical fatigue. Although oral iron is the standard treatment, it is often associated with gastrointestinal side effects and poor compliance. To date, no published randomised controlled studies have compared the clinical efficacy and safety of standard medical care with intravenous administration of iron supplementation after postpartum haemorrhage."
+    ]
+  },
+  "fulltext_html": {
+    "value": [
+      "http://www.trialsjournal.com/content/16/1/5"
+    ]
+  },
+  "fulltext_pdf": {
+    "value": [
+      "http://www.trialsjournal.com/content/pdf/1745-6215-16-5.pdf"
+    ]
+  },
+  "fulltext_xml": {
+    "value": [
+      "/content/download/xml/1745-6215-16-5.xml"
+    ]
+  },
+  "supplementary_material": {
+    "value": [
+      "http://trialsjournal.com/content/download/supplementary/1745-6215-16-5-s1.pdf"
+    ]
+  },
+  "figure": {
+    "value": [
+      "/content/figures/1745-6215-16-5-1.gif"
+    ]
+  },
+  "figure_caption": {
+    "value": [
+      "Figure 1.",
+      "Trial flow."
+    ]
+  },
+  "license": {
+    "value": [
+      "\r\n\t\t\t\tThis is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.\r\n\t\t\t"
+    ]
+  },
+  "copyright": {
+    "value": [
+      "\r\n            © 2015 Holm et al.; licensee BioMed Central. \r\n        "
+    ]
+  }
+}

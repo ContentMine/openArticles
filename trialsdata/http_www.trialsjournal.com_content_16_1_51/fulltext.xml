@@ -1,0 +1,3434 @@
+<?xml version='1.0'?>
+<!DOCTYPE art SYSTEM 'http://www.biomedcentral.com/xml/article.dtd'>
+<art>
+    <ui>s13063-014-0538-4</ui>
+    <ji>1745-6215</ji>
+    <fm>
+       <dochead>Study protocol</dochead>
+       <bibl>
+          <title>
+             <p>A complex nursing intervention of complementary and alternative medicine (CAM) to increase quality of life in patients with breast and gynecologic cancer undergoing chemotherapy: study protocol for a partially randomized patient preference trial</p>
+          </title>
+          <aug>
+             <au id="A1" ca="yes">
+                <snm>Klafke</snm>
+                <fnm>Nadja</fnm>
+                <insr iid="I1"/>
+                <email>nadja.klafke@med.uni-heidelberg.de</email>
+             </au>
+             <au id="A2">
+                <snm>Mahler</snm>
+                <fnm>Cornelia</fnm>
+                <insr iid="I1"/>
+                <email>cornelia.mahler@med.uni-heidelberg.de</email>
+             </au>
+             <au id="A3">
+                <snm>von Hagens</snm>
+                <fnm>Cornelia</fnm>
+                <insr iid="I2"/>
+                <email>cornelia.von.hagens@med.uni-heidelberg.de</email>
+             </au>
+             <au id="A4">
+                <snm>Rochon</snm>
+                <fnm>Justine</fnm>
+                <insr iid="I3"/>
+                <email>rochon@imbi.uni-heidelberg.de</email>
+             </au>
+             <au id="A5">
+                <snm>Schneeweiss</snm>
+                <fnm>Andreas</fnm>
+                <insr iid="I4"/>
+                <email>andreas.schneeweiss@med.uni-heidelberg.de</email>
+             </au>
+             <au id="A6">
+                <snm>M&#252;ller</snm>
+                <fnm>Andreas</fnm>
+                <insr iid="I5"/>
+                <email>andreas.mueller.fk@klinikum-karlsruhe.de</email>
+             </au>
+             <au id="A7">
+                <snm>Salize</snm>
+                <fnm>Hans-Joachim</fnm>
+                <insr iid="I6"/>
+                <email>hans-joachim.salize@zi-mannheim.de</email>
+             </au>
+             <au id="A8">
+                <snm>Joos</snm>
+                <fnm>Stefanie</fnm>
+                <insr iid="I1"/>
+                <insr iid="I7"/>
+                <email>stefanie.joos@uni-tuebingen.de</email>
+             </au>
+          </aug>
+          <insg>
+             <ins id="I1">
+                <p>Department of General Practice and Health Services Research, University Hospital Heidelberg, Vo&#223;str. 2, Heidelberg, D-69115, Germany</p>
+             </ins>
+             <ins id="I2">
+                <p>Department of Gynaecological Endocrinology and Reproductive Medicine, University Women&#8217;s Hospital Heidelberg, Im Neuenheimer Feld 440, Heidelberg, D-69120, Germany</p>
+             </ins>
+             <ins id="I3">
+                <p>Institute of Medical Biometry and Informatics, University of Heidelberg, Im Neuenheimer Feld 305, Heidelberg, D-69120, Germany</p>
+             </ins>
+             <ins id="I4">
+                <p>National Center for Tumor Diseases, University Hospital, Im Neuenheimer Feld 460, Heidelberg, D-69120, Germany</p>
+             </ins>
+             <ins id="I5">
+                <p>Community Hospital Karlsruhe, Moltkestra&#223;e 90, Karlsruhe, D-76133, Germany</p>
+             </ins>
+             <ins id="I6">
+                <p>Central Institute of Mental Health, Mental Health Services Research Group, Medical Faculty Mannheim/Heidelberg University, Mannheim D-68159, Germany</p>
+             </ins>
+             <ins id="I7">
+                <p>Institute of General Practice, University Hospital Tuebingen, Oesterbergstr. 9, Tuebingen, D-72074, Germany</p>
+             </ins>
+          </insg>
+          <source>Trials</source>
+          <issn>1745-6215</issn>
+          <pubdate>2015</pubdate>
+          <volume>16</volume>
+          <issue>1</issue>
+          <fpage>51</fpage>
+          <url>http://www.trialsjournal.com/content/16/1/51</url>
+          <xrefbib>
+             <pubidlist>
+                <pubid idtype="doi">10.1186/s13063-014-0538-4</pubid>
+             </pubidlist>
+          </xrefbib>
+       </bibl>
+       <history>
+          <rec>
+             <date>
+                <day>14</day>
+                <month>6</month>
+                <year>2014</year>
+             </date>
+          </rec>
+          <acc>
+             <date>
+                <day>19</day>
+                <month>12</month>
+                <year>2014</year>
+             </date>
+          </acc>
+          <pub>
+             <date>
+                <day>15</day>
+                <month>2</month>
+                <year>2015</year>
+             </date>
+          </pub>
+       </history>
+       <cpyrt>
+          <year>2015</year>
+          <collab>Klafke et al.; licensee BioMed Central.</collab>
+          <note>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/4.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (<url>http://creativecommons.org/publicdomain/zero/1.0/</url>) applies to the data made available in this article, unless otherwise stated.</note>
+       </cpyrt>
+       <kwdg>
+          <kwd>Breast and gynecologic malignancies</kwd>
+          <kwd>Integrative oncology</kwd>
+          <kwd>Complementary and alternative medicine (CAM)</kwd>
+          <kwd>Counseling and nursing</kwd>
+          <kwd>Complex interventions</kwd>
+          <kwd>Health services research</kwd>
+          <kwd>Quality of life</kwd>
+       </kwdg>
+       <abs>
+          <sec>
+             <st>
+                <p>Abstract</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Background</p>
+                </st>
+                <p>Health-related quality of life (HRQoL) is most adversely affected in cancer patients between diagnosis and the end of chemotherapy. The aim of the Complementary Nursing in Gynecologic Oncology (CONGO) study is to assess the effectiveness of a complex nursing care intervention of CAM to increase HRQoL in cancer patients undergoing chemotherapy.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Methods/design</p>
+                </st>
+                <p>CONGO is a prospective partially randomized patient preference (PRPP) trial including adult women diagnosed with breast and gynecologic cancer starting a new chemotherapy regimen. Patients without strong preferences for CAM will be randomized to usual nursing care or complex nursing care; those patients with strong preferences will be allowed their choice. The intervention consists of three interacting and intertwined elements: CAM nursing intervention packet, counseling on CAM using a resource-oriented approach and evidence-based informational material on CAM.</p>
+                <p>Primary outcome data on participants&#8217; HRQoL will be collected from baseline until the end of treatment and long-term follow-up using the EORTC-QLQ-C30. Secondary outcomes include nausea, fatigue, pain, anxiety/depression, social support, self-efficacy, patient competence, spiritual wellbeing, and satisfaction with care. Accompanying research on economic outcomes as well as a mixed-methods process evaluation will be conducted.</p>
+                <p>A total of 590 patients (236 patients in the randomized part of the study and 354 patients in the observational part of the study) will be recruited in the two outpatient clinics. The first analysis step will be the intention-to-treat (ITT) analysis of the randomized part of the trial. A linear mixed model will be used to compare the continuous primary endpoint between the intervention and control arm of the randomized group. The observational part of the trial will be analyzed descriptively. External validity will be assessed by comparing randomized with nonrandomized patients.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Discussion</p>
+                </st>
+                <p>Cancer patients are increasingly using CAM as supportive cancer care, however, a patient-centered model of care that includes CAM for the patient during chemotherapy still needs to be evaluated. This protocol has been designed to test if the effects of the intervention go beyond potential benefits in quality-of-life outcomes.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Trial registration</p>
+                </st>
+                <p>German Clinical Trials Register (DRKS), <url>DRKS00006056</url> (15 April 2014).</p>
+             </sec>
+          </sec>
+       </abs>
+    </fm>
+    <bdy>
+       <sec>
+          <st>
+             <p>Background</p>
+          </st>
+          <p>Gynecologic malignancies, including breast cancer, constitute approximately 95,600 new cases per year, which is nearly half (43%) of all malignancies in women in Germany <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>. It is known that health-related quality of life (HRQoL) is most negatively affected from the time of diagnosis through the completion of chemotherapy <abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp>. In this demanding phase, many patients are looking for help and orient themselves towards the field of complementary and alternative medicine (CAM). Consequently, the use of CAM by cancer patients has increased considerably over recent years <abbrgrp>
+                <abbr bid="B3">3</abbr>
+             </abbrgrp>, particularly in breast cancer populations <abbrgrp>
+                <abbr bid="B4">4</abbr>
+             </abbrgrp>.</p>
+          <p>Research suggests that cancer patients use CAM alongside their conventional therapy for a variety of reasons <abbrgrp>
+                <abbr bid="B5">5</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B6">6</abbr>
+             </abbrgrp>. For example, patients use CAM to improve their HRQoL (for example, to relieve stress and anxiety and to alleviate side-effects of the chemotherapy) or they are motivated by the desire to maximize the success of treatment through their own actions (&#8216;self-efficacy&#8217;) <abbrgrp>
+                <abbr bid="B3">3</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B7">7</abbr>
+             </abbrgrp>. Overall, CAM use constitutes a form of coping strategy that helps cancer patients and their involved significant others (SOs), like family members and close friends, to overcome the distressing cancer diagnosis <abbrgrp>
+                <abbr bid="B8">8</abbr>
+             </abbrgrp>.</p>
+          <p>In a German sample of 1,030 patients with gynecologic and breast cancer, CAM was used by 49% of all women (50% in breast cancer patients versus 44% in gynecologic cancer patients). In this study, CAM users less frequently stated an overall deterioration of their health status (35%) compared to nonusers (50%) <abbrgrp>
+                <abbr bid="B9">9</abbr>
+             </abbrgrp>. These numbers are in line with international studies where the rate of CAM use in women with breast cancer has been reported to be even higher (up to 75%), with the highest percentages in women undergoing chemotherapy <abbrgrp>
+                <abbr bid="B10">10</abbr>
+             </abbrgrp>.</p>
+          <p>Worldwide, oncologists have acknowledged that CAM may contribute positively to patients&#8217; psychological and physical well-being and have started to develop guidelines on integrating CAM within a quality-controlled, evidence-based strategy <abbrgrp>
+                <abbr bid="B11">11</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B13">13</abbr>
+             </abbrgrp> concluding that there is a lack of expert guidance available to patients. It has been suggested that oncology nurses are in a key position to evaluate which symptoms or side-effects patients are experiencing and to identify which CAM therapies may be helpful for symptom control related to treatment and psychological distress due to their cancer and the chemotherapy <abbrgrp>
+                <abbr bid="B14">14</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B15">15</abbr>
+             </abbrgrp>.</p>
+          <p>Internationally, oncology nurses have responded to this high patient demand for CAM by incorporating selected CAM therapies such as acupressure or the application of essential oils by massage, packs or compresses within their everyday practice. In several countries (for example, the United States, Canada, and the United Kingdom.), nursing schools have resumed the incorporation of CAM into their educational curricula and nursing standards <abbrgrp>
+                <abbr bid="B16">16</abbr>
+             </abbrgrp>. Furthermore, nurse-led CAM education programs for patients or services for individualized patient consultations have been established <abbrgrp>
+                <abbr bid="B17">17</abbr>
+             </abbrgrp>.</p>
+          <p>In Germany, CAM therapies have been increasingly integrated into nursing practice, particularly in oncology and palliative care settings <abbrgrp>
+                <abbr bid="B18">18</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B20">20</abbr>
+             </abbrgrp>. These kinds of interventions, often accompanied by individual patient counseling, require additional time inputs to daily routine care. Therefore, staffing shortages and time restrictions can impede the integration of CAM into nursing care. Attempts to do so, with the existing conditions in our health care system, have not been frequent, and the effectiveness of CAM nursing interventions in routine clinical practice still remains to be evaluated. Considering both the demand of cancer patients for CAM and also the possible risks in certain cases due to poor information and/or communication <abbrgrp>
+                <abbr bid="B21">21</abbr>
+             </abbrgrp>, CAM interventions should be systematically researched and, based on evidence, structures accordingly adapted.</p>
+          <p>Levine&#8217;s conservation model <abbrgrp>
+                <abbr bid="B22">22</abbr>
+             </abbrgrp> provides a valuable theoretical framework for guiding and promoting a complex CAM intervention aimed at increasing health-related quality of life in cancer patients undergoing chemotherapy. According to this model, the individual is posited as a spiritual, holistic being experiencing meaning in social relations <abbrgrp>
+                <abbr bid="B22">22</abbr>
+             </abbrgrp>. For maintaining or re-gaining health, and experiencing a state of wholeness, the individual tends to adapt by the conservation of energy, structural integrity, personal integrity, and social integrity. Based on Levine&#8217;s conceptual model, it has been suggested that nurses can support cancer patients in the process of adaptation after a distressing cancer diagnosis and treatment by addressing the patients&#8217; conservation strategies, so that patients can find back to a state of integrated and balanced wholeness <abbrgrp>
+                <abbr bid="B23">23</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B24">24</abbr>
+             </abbrgrp>. These conservation principles guided the development of the current study&#8217;s intervention, and the identification of patient-centered outcomes.</p>
+          <p>Thus, the Complementary Nursing in Gynecologic Oncology (CONGO) study was initiated as a prospective partially randomized controlled intervention study to investigate the effects of a complex nursing care intervention on HRQoL and a wide range of clustered symptoms in female cancer patients undergoing chemotherapy. As patients are rarely neutral towards CAM, this study considers patients&#8217; preferences for receiving or not receiving the intervention. By assessing the quality of life outcomes and evaluating the processes of the intervention, it is anticipated that the CONGO study will provide evidence-based information on integrated health care services relevant for the treatment of cancer.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Methods/design</p>
+          </st>
+          <p>The study protocol received the approval by the ethics committee of the University of Heidelberg (S-008/2014) as well as the ethics committee of the State Medical Council of Baden-Wuerttemberg (B-F-2014-037), and is registered with German Clinical Trials Register (<url>https://drks-neu.uniklinik-freiburg.de/drks_web/</url>) under DRKS00006056.</p>
+          <sec>
+             <st>
+                <p>Objectives</p>
+             </st>
+             <p>The primary outcome of the CONGO study is cancer patients&#8217; HRQoL. It will be assessed if cancer patients, starting a new chemotherapy regime, benefit from a complex nursing care intervention, consisting of a CAM intervention packet (for example, aromatherapy, massage, compress, acupressure), counseling on self-help CAMs, and evidence-based informational material on CAM, regarding HRQoL in comparison to patients receiving usual nursing care.</p>
+             <p>Secondary outcomes are to assess the effects of the complex intervention on a wide range of physical and psychosocial symptoms including nausea, fatigue, pain, anxiety/depression, social support, self-efficacy, patient competence, spiritual wellbeing, patient satisfaction, and the quality of life of patients&#8217; significant others (SOs). Furthermore, accompanying research on health economic outcomes will be conducted.</p>
+             <p>In addition, the acceptability and feasibility of the complex intervention will be evaluated in the two recruiting centers by providing a thorough process evaluation and information about the provision of integrated cancer care in outpatient cancer services. Therefore, quantitative data will be collected that will be supplemented with qualitative interview data involving healthcare staff, patients, and their SOs.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Design of the study</p>
+             </st>
+             <p>The CONGO study has been designed as a partially randomized patient preference (PRPP) trial for the following reasons: randomized clinical trials (RCT) are the gold standard for establishing the efficacy of medical treatments <abbrgrp>
+                   <abbr bid="B25">25</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B26">26</abbr>
+                </abbrgrp>. Randomization has the key advantage of controlling for both known and unknown confounders and the elimination of their influence on the treatment outcome. However, patients often have a preference for a treatment. In such case, randomization might fail (preference effect) <abbrgrp>
+                   <abbr bid="B27">27</abbr>
+                </abbrgrp>. Patients with strong preferences are more likely to decline participation in a RCT because randomization does not guarantee that they will get what they want. If a large number of patients refuse randomization, study results may not be representative of the whole population, and the external validity of the trial will be negatively affected. On the other hand, if patients with strong preferences consent to randomization, this may affect the internal validity of the trial because randomization cannot deal with the post-randomization effects of patients&#8217; preferences on outcomes <abbrgrp>
+                   <abbr bid="B28">28</abbr>
+                </abbrgrp>.</p>
+             <p>If the current study would follow a purely standard RCT design, patients with strong preference for CAM will be pleased when assigned to the &#8216;complex nursing care intervention on CAM&#8217; group and disappointed when assigned to the &#8216;usual nursing care&#8217; group. The preferences will, thus, affect the HRQoL assessment within the trial. Therefore, the current study has been designed as a partially randomized patient preference (PRPP) trial. Patients with strong preferences will be allowed their choice, and those without (strong) preferences will be randomized to usual nursing care or complex nursing care (see Figure&#160;<figr fid="F1">1</figr>).
+                  </p>
+             
+                <fig id="F1">
+                   <title>
+                      <p>Figure 1</p>
+                   </title>
+                   <caption>
+                      <p>Study flow chart. </p>
+                   </caption>
+                   <text>
+                      <p>
+                            <b>Study flow chart.</b> CHT, chemotherapy; EOT, end of treatment; FU, follow-up.</p>
+                   </text>
+                   <graphic file="s13063-014-0538-4-1"/>
+                </fig>
+             
+             <p>The PRPP design allows for recruiting a higher number of patients, which increases the external validity and generalizability of the results <abbrgrp>
+                   <abbr bid="B29">29</abbr>
+                </abbrgrp>. Measurement bias due to patients being disappointed by their treatment allocation will be minimized, as these patients will not be randomized and allowed their desired treatment without randomization. In addition, the PRPP design enables comparisons between patients with and without a preference and an exploration of patients&#8217; characteristics associated with preference.</p>
+             <p>A disadvantage of the PRPP design is that the preference (= observational) arms suffer from selection bias and are therefore susceptible to unmeasured confounding. Primary analysis is therefore usually being performed on the two randomized treatment arms, which should be large enough to reliably answer the study question.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Participants and setting</p>
+             </st>
+             <p>To represent everyday conditions, and for obtaining a high external validity and generalizability, female cancer patients will be recruited under broad inclusion criteria (for example, all adult women diagnosed with breast or gynecologic malignancies starting a new chemotherapy regimen) from different levels of care (university hospital and community hospital). All patients registering for a new adjuvant or neoadjuvant chemotherapy regimen will be informed about and invited for study participation, irrespective of their participation in other studies. The only exclusion criteria are insufficient knowledge of the German language, cognitive impairment, and inability to give informed consent.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Recruitment and randomization</p>
+             </st>
+             <p>Informed consent will be obtained from all women before study entry. Breast and gynecological cancer patients registering for a new chemotherapy regime at the National Centre for Tumour Diseases (NCT) Heidelberg and the Community Hospital Karlsruhe will be informed by flyer, their treating oncologist, or nursing staff about the CONGO study. Then, a CAM-trained nurse will approach the potential participant, briefly inform her about the study and ask her if she would like to have further information. Those agreeing will be provided with details of the study verbally and in written form via the study information leaflet. Patients who agree to participate will be asked to sign the consent form. After informed consent, baseline assessments will be conducted. The nurse will assert if the potential participant has a strong preference to receive the CAM nursing intervention and allocate her into the observational part of the study if applicable. All other participants will be allocated into the randomized part.</p>
+             <p>The CAM-trained nurses will randomize the study participants using <it>randomizer.at</it>, which is an online central randomization service. Participants will be stratified by cancer center (NCT Heidelberg/Community Hospital Karlsruhe) and stage of cancer (curative treatment/palliative treatment), and then randomly allocated at a ratio of 1:1 to the intervention or control arm of the randomized part of the trial. Blocked randomization with varying block sizes will assure that the numbers in the arms are balanced, while the nurses are not being given the possibility to deduce the next allocation. Further, allocation concealment will be ensured, as the randomization service does not release the code for the randomization done by the CAM-trained nurse administering the intervention. Thus, it will be assured that the recruiter has no knowledge about the random sequence and hence cannot influence participants due to possible bias.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Intervention group</p>
+             </st>
+             <p>The complex intervention <abbrgrp>
+                   <abbr bid="B30">30</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B31">31</abbr>
+                </abbrgrp> consists of three interacting and intertwined elements tailored to the patients&#8217; needs: CAM nursing intervention packet, counseling on CAM using a resource-oriented approach and evidence-based informational material on CAM.</p>
+             <p>This complex intervention combines existing evidence and practical experience and was developed by an expert team consisting of a qualified nursing instructor, nursing staff experienced with CAM in cancer patients, study nurses, medical doctors, and researchers specialized in psycho-oncology, complementary therapies, and health services research. The CAM nursing intervention packet was composed during a two-day workshop in February 2014. It was then finalized after several meetings and iterative discussions, modifying and concisely summarizing the intervention packet to meet the study&#8217;s aim. The final intervention packet targets a range of physical and psychological symptoms affecting cancer patients&#8217; HRQoL during chemotherapy administered in an outpatient setting. The CAM-trained nurse will select an intervention from the nursing intervention packet and tailor it to the patient&#8217;s individual needs. In addition, patients receive standardized CAM information sheets with instructions on how to conduct selected CAM practices at home. The selection of these CAM information sheets will depend on the patient&#8217;s physical and psychological concerns, as well as on preferences, and the nurse&#8217;s recommendation. The information sheets will be included in a diary patients have to keep during the study.</p>
+             <p>When patients visit the cancer center for their first cycle of chemotherapy, they will receive an initial counseling interview. In this interview the nurse will explain the potential side-effects of the chemotherapy and how to prevent or alleviate them with usual nursing care or the complex nursing care intervention on CAM. During this interview, the nurse will also provide resource-oriented counseling, in particular informing the patient about how she can activate her own inner resources (for example, following a balanced diet and exercise plan, keeping a positive mind-set by meeting regularly with their family and friends, getting on with or taking up a new hobby). This counseling is based on concepts of patient competence and empowerment <abbrgrp>
+                   <abbr bid="B32">32</abbr>
+                </abbrgrp>-<abbrgrp>
+                   <abbr bid="B34">34</abbr>
+                </abbrgrp>, considering patients&#8217; request to actively do more to complement their conventional treatment. CAM-trained oncology nursing staff will also be responsible for individual patient counseling on CAM, guiding the patient on how to cope with physical and psychological symptoms at home. These nurses will be a liaison person on CAM therapies whom the patient can contact anytime while on the chemotherapy regime. Furthermore, study participants will receive an evidence-based information booklet and a DVD including further answers and guidance about possibilities for complementing their conventional cancer treatment with CAMs. In providing patients further evidence-based CAM material, patients&#8217; self-management of their disease will be promoted in a safe way. The development process of the complex intervention and the intervention packet will be described in detail in a separate publication.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Control group</p>
+             </st>
+             <p>Control group participants of both the randomized and observational part of the study will receive usual care according to the clinic&#8217;s standard. All patients receive medical treatment and supportive care including the administration of analgesics or antiemetics. Other supportive care procedures including counseling or inserting (CAM) products or techniques that are not yet standardized in the two recruiting centers but that will be documented during the whole study phase. Control group patients will participate in all data collection assessments (questionnaires and patient diary) but will not receive any CONGO-related interventions mentioned above.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Training of nursing staff</p>
+             </st>
+             <p>The intervention in the current study will be conducted by nursing staff, who attended two training modules composed for the study in order to achieve standardization between the two centers. The first module consisted of training on CAM therapies for oncology nursing and was taught by a qualified CAM nursing instructor (<url>www.gisela-blaser.de</url>). All CAM therapies, which will be applied in the current study, were performed in the session. Additionally, a CAM nursing manual including supplementary information for the application of these CAM therapies was provided. In the second module, the nurses received training on specific communication/counseling within the intervention. In a simulation exercise with lay persons (students of the University Heidelberg), the nurses were trained to conduct study briefings and resource-oriented counseling interviews (see Intervention group for further information), and they received manuals for the study briefing and patient counseling.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Outcome measures</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Schedule</p>
+                </st>
+                <p>All outcome measures are summarized in Table&#160;<tblr tid="T1">1</tblr>. There are five specific assessment time points, which are illustrated in the timeline (see Figure&#160;<figr fid="F2">2</figr>):
+                      
+                      </p><p> T0: Baseline assessment 1 to 2&#160;weeks before the start of chemotherapy).</p>
+                   <p> T1: Start of intervention (SOI).</p>
+                   <p> T2: Mid-line (after the first half of the chemotherapy regimen; maximum of 12&#160;weeks).</p>
+                   <p> T3: End of intervention (EOI) (after the end of the chemotherapy; maximum 24&#160;weeks).</p>
+                   <p> T4: Follow-up, 6&#160;months after the completion of chemotherapy (after maximum of 48&#160;weeks).</p>
+                
+                   <table id="T1">
+                      <title>
+                         <p>Table 1</p>
+                      </title>
+                      <caption>
+                         <p>
+                              <b>Assessments and instruments used in the Complementary Nursing in Gynecologic Oncology (CONGO) study</b>                            
+                         </p>
+                      </caption>
+                      <tgroup align="left" cols="9">
+                         <colspec align="left" colname="c1" colnum="1" colwidth="*"/>
+                         <colspec align="left" colname="c2" colnum="2" colwidth="*"/>
+                         <colspec align="left" colname="c3" colnum="3" colwidth="*"/>
+                         <colspec align="left" colname="c4" colnum="4" colwidth="*"/>
+                         <colspec align="left" colname="c5" colnum="5" colwidth="*"/>
+                         <colspec align="left" colname="c6" colnum="6" colwidth="*"/>
+                         <colspec align="left" colname="c7" colnum="7" colwidth="*"/>
+                         <colspec align="left" colname="c8" colnum="8" colwidth="*"/>
+                         <colspec align="left" colname="c9" colnum="9" colwidth="*"/>
+                         <thead>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>
+                                     <b>Outcomes</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>
+                                     <b>Instrument</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>
+                                     <b>T0</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>
+                                     <b>T1 Baseline/SOI</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>
+                                     <b>PD Every week</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c6">
+                                  <p>
+                                     <b>PD Once per cycle</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c7">
+                                  <p>
+                                     <b>T2 Midline</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c8">
+                                  <p>
+                                     <b>T3 EOI</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c9">
+                                  <p>
+                                     <b>T4 FU</b>                                
+                                  </p>
+                               </entry>
+                            </row>
+                         </thead>
+                         <tfoot>
+                            <p>
+                               <it>EOI</it> end of intervention, <it>FU</it> follow-up, <it>PD</it> patient diary, <it>SOI</it> start of intervention, <it>SO</it> significant other.</p>
+                         </tfoot>
+                         <tbody>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>
+                                     <b>Primary outcome</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3"/>
+                               <entry colname="c4"/>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                               <entry colname="c7"/>
+                               <entry colname="c8"/>
+                               <entry colname="c9"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Health-related quality of life</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>EORTC-QLQ-C30</p>
+                               </entry>
+                               <entry colname="c3"/>
+                               <entry colname="c4">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c6"/>
+                               <entry colname="c7">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c8">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c9">
+                                  <p>X</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>
+                                     <b>Secondary outcomes</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3"/>
+                               <entry colname="c4"/>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                               <entry colname="c7"/>
+                               <entry colname="c8"/>
+                               <entry colname="c9"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Nausea</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>MAT</p>
+                               </entry>
+                               <entry colname="c3"/>
+                               <entry colname="c4"/>
+                               <entry colname="c5"/>
+                               <entry colname="c6">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c7"/>
+                               <entry colname="c8"/>
+                               <entry colname="c9"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Fatigue</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>FACIT-F</p>
+                               </entry>
+                               <entry colname="c3"/>
+                               <entry colname="c4">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                               <entry colname="c7">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c8">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c9">
+                                  <p>X</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Pain (general)</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>VAS</p>
+                               </entry>
+                               <entry colname="c3"/>
+                               <entry colname="c4">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                               <entry colname="c7">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c8">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c9">
+                                  <p>X</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Anxiety, depression</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>PHQ-9</p>
+                               </entry>
+                               <entry colname="c3"/>
+                               <entry colname="c4">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                               <entry colname="c7">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c8">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c9">
+                                  <p>X</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Social support</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>F-SozU K-14</p>
+                               </entry>
+                               <entry colname="c3"/>
+                               <entry colname="c4">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                               <entry colname="c7"/>
+                               <entry colname="c8">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c9">
+                                  <p>X</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Self-efficacy</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>SES6G</p>
+                               </entry>
+                               <entry colname="c3"/>
+                               <entry colname="c4">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                               <entry colname="c7">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c8">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c9">
+                                  <p>X</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Patient competence</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>FEPK 2-57</p>
+                               </entry>
+                               <entry colname="c3"/>
+                               <entry colname="c4">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                               <entry colname="c7"/>
+                               <entry colname="c8">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c9">
+                                  <p>X</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Spiritual wellbeing</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>Sp-REUK-15</p>
+                               </entry>
+                               <entry colname="c3"/>
+                               <entry colname="c4">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                               <entry colname="c7"/>
+                               <entry colname="c8">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c9">
+                                  <p>X</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Patient satisfaction</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>EORTC-QLQ-PATSAT32</p>
+                               </entry>
+                               <entry colname="c3"/>
+                               <entry colname="c4"/>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                               <entry colname="c7"/>
+                               <entry colname="c8">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c9"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Accompanying research (health economy)</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>Mannheimer Modul RV</p>
+                               </entry>
+                               <entry colname="c3"/>
+                               <entry colname="c4">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                               <entry colname="c7">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c8">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c9"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Quality of life SOs</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>WHOQOL-BREF</p>
+                               </entry>
+                               <entry colname="c3"/>
+                               <entry colname="c4">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                               <entry colname="c7"/>
+                               <entry colname="c8">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c9">
+                                  <p>X</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1"/>
+                               <entry colname="c2">
+                                  <p>CQOLC</p>
+                               </entry>
+                               <entry colname="c3"/>
+                               <entry colname="c4">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                               <entry colname="c7"/>
+                               <entry colname="c8">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c9">
+                                  <p>X</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>
+                                     <b>Others</b> Socio-demographic factors</p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c4"/>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                               <entry colname="c7"/>
+                               <entry colname="c8"/>
+                               <entry colname="c9"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Cancer characteristics</p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c4"/>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                               <entry colname="c7"/>
+                               <entry colname="c8"/>
+                               <entry colname="c9"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Medical history</p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c4"/>
+                               <entry colname="c5"/>
+                               <entry colname="c6"/>
+                               <entry colname="c7"/>
+                               <entry colname="c8"/>
+                               <entry colname="c9"/>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Treatment data</p>
+                               </entry>
+                               <entry colname="c2"/>
+                               <entry colname="c3"/>
+                               <entry colname="c4">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c5"/>
+                               <entry colname="c6">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c7">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c8">
+                                  <p>X</p>
+                               </entry>
+                               <entry colname="c9">
+                                  <p>X</p>
+                               </entry>
+                            </row>
+                         </tbody>
+                      </tgroup>
+                   </table>
+                
+                
+                   <fig id="F2">
+                      <title>
+                         <p>Figure 2</p>
+                      </title>
+                      <caption>
+                         <p>Timeline. </p>
+                      </caption>
+                      <text>
+                         <p>
+                              <b>Timeline.</b> EOI, end of intervention; FU, follow- up; IC, informed consent; ICI, initial counseling interview; SOI, start of intervention.</p>
+                      </text>
+                      <graphic file="s13063-014-0538-4-2"/>
+                   </fig>
+                
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Instruments</p>
+             </st>
+             <p>All study participants, from both the randomized and observational part of the study will be asked to answer the following instruments in paper-based form (questionnaire pack and patient diary).</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Quality of life (patients)</p>
+             </st>
+             <p>The main outcome measure HRQoL will be measured with the global quality of life scale of the European Organization for Research and Treatment of Cancer Quality of Life Questionnaire (EORTC-QLQ-C30) <abbrgrp>
+                   <abbr bid="B35">35</abbr>
+                </abbrgrp>-<abbrgrp>
+                   <abbr bid="B37">37</abbr>
+                </abbrgrp>. The QLQ-C30 is a 30-item questionnaire developed to assess the HRQoL and five multi-item functional scales (physical, role, emotional, cognitive, and social function), three multi-item symptom scales (fatigue, pain, and nausea/vomiting), and six single items assessing further physical symptoms (appetite loss, constipation, diarrhea, dyspnea, and insomnia) and financial difficulties. The global quality of life will be calculated from two items (item 29 &#8216;overall health last week&#8217; and item 30 &#8216;overall HRQoL last week&#8217;) , which are measured in seven interval Likert scales and then combined and transformed into a scale between 0 and 100 points. In the planned trial, the HRQoL will be assessed at all assessment points T1, T2, T3, T4, and weekly in the patient diary.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Nausea</p>
+             </st>
+             <p>Nausea will be assessed with the Multinational Association of Supportive Care in Cancer Antiemesis Tool (MAT), which is an eight-item scale assessing both acute and delayed nausea <abbrgrp>
+                   <abbr bid="B38">38</abbr>
+                </abbrgrp>. The MAT is designed to be used once per cycle on two days, and convinces for employment in the current study with regard to practicability and user-friendliness. The MAT will be included in the patient diary.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Fatigue</p>
+             </st>
+             <p>The Functional Assessment of Cancer Therapy - Fatigue (FACT-F) subscale contains 13 fatigue-specific items, which patients can rate on a 5-point Likert scale; high internal consistency and construct validity have been reported <abbrgrp>
+                   <abbr bid="B39">39</abbr>
+                </abbrgrp>-<abbrgrp>
+                   <abbr bid="B41">41</abbr>
+                </abbrgrp>. The German version of the FACIT did undergo a specific linguistic validation process (FACIT translation methodology), and is thus considered as appropriate for use in the current study <abbrgrp>
+                   <abbr bid="B42">42</abbr>
+                </abbrgrp>.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Pain</p>
+             </st>
+             <p>The global rating of pain is assessed by a single-item pain visual analog scale, which measures patient&#8217;s severity of pain over the previous week <abbrgrp>
+                   <abbr bid="B43">43</abbr>
+                </abbrgrp>.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Anxiety, depression</p>
+             </st>
+             <p>Anxious and depressive symptoms are measured with the nine-item Patient-Health-Questionnaire (PHQ-9), which is a validated tool for measuring DSM-IV depressive disorders <abbrgrp>
+                   <abbr bid="B44">44</abbr>
+                </abbrgrp>. The PHQ-9 is a shorter and more user-friendly form than other depression measurements and thus is being employed in the current study.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Social support</p>
+             </st>
+             <p>The original questionnaire about social support (Fragebogen zur Sozialen Unterst&#252;tzung, F-SozU) is a 54-item questionnaire from Germany covering a range of items about patients&#8217; perception of emotional support, practical support, social integration, burden from the social network, reciprocity, availability of a confident, and satisfaction with social support; and has provided high reliability and validity <abbrgrp>
+                   <abbr bid="B45">45</abbr>
+                </abbrgrp>. We will employ the short F-SozU-14, as we anticipate that a reduction of items will contribute to patients&#8217; compliance in answering the whole questionnaire pack, and reduce potential burden arising from high time exposure.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Self-efficacy</p>
+             </st>
+             <p>Patients&#8217; self-efficacy will be measured with the German version of the Self-Efficacy for Managing Chronic Disease 6-Item Scale (SES6G). This assessment tool has provided high internal consistency and good convergent construct validity <abbrgrp>
+                   <abbr bid="B46">46</abbr>
+                </abbrgrp>. Patients will be asked on 10-point Likert scales to indicate how confident they perceive themselves in handling their chronic illness.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Patient competence</p>
+             </st>
+             <p>The concept of patient competence will be measured with the FEPK 2&#8211;57, which is a 57-item questionnaire involving five problem-focused and three emotion-focused subscales <abbrgrp>
+                   <abbr bid="B34">34</abbr>
+                </abbrgrp>. Patients will be asked on 5-point Likert scales how they perceive their competencies in coping with their disease with regard to employing self-managing strategies and communication with others. The questionnaire has provided satisfactory reliability; while external validity still needs to be evaluated and a short version composed.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Spiritual wellbeing</p>
+             </st>
+             <p>Cancer patients&#8217; quality of life <abbrgrp>
+                   <abbr bid="B47">47</abbr>
+                </abbrgrp> and CAM use <abbrgrp>
+                   <abbr bid="B48">48</abbr>
+                </abbrgrp> are associated with their spiritual well-being, which we will measure with the &#8216;Spiritual and Religious Attitudes in Dealing with Illness&#8217; (SpREUK) instrument <abbrgrp>
+                   <abbr bid="B49">49</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B50">50</abbr>
+                </abbrgrp>. On 5-point Likert scales, participants are asked the extent to which they experienced aspects of search, faith, and reflection in the past week; thereby assessing how their confrontation with an existential illness resulted in their essential need to find meaningful answers and practices. We will employ the short form SpREUK-15 , which has provided high internal consistency and is considered to be suited for oncology populations <abbrgrp>
+                   <abbr bid="B51">51</abbr>
+                </abbrgrp>.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Patient satisfaction</p>
+             </st>
+             <p>For evaluating patients&#8217; perceptions on the quality of medical and nursing care, we will employ the EORTC-QLQ-PATSAT32. This questionnaire has been validated in a cross-cultural context and provides excellent values for reliability and convergent validity <abbrgrp>
+                   <abbr bid="B52">52</abbr>
+                </abbrgrp>.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Quality of life (patients&#8217; significant other)</p>
+             </st>
+             <p>The WHOQOL-BREF is a validated assessment tool for measuring generic quality of life in individuals <abbrgrp>
+                   <abbr bid="B53">53</abbr>
+                </abbrgrp>. We will employ this internationally widely employed tool to assess if patients&#8217; HRQoL correlates with the QoL of their significant others (SOs). In addition, patients&#8217; SOs will be asked to answer the German version of the Caregiver Quality of Life Index-Cancer (CQOLC), an instrument measuring specific and more accurate areas of the quality of life of significant others of patients with cancer <abbrgrp>
+                   <abbr bid="B54">54</abbr>
+                </abbrgrp>. The German translation is accessible in the Patient-Reported Outcome and Quality of Life Instruments Database (PROQOLID), but the psychometric properties of this version have not yet been reported <abbrgrp>
+                   <abbr bid="B55">55</abbr>
+                </abbrgrp>.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Accompanying research on economic data</p>
+             </st>
+             <p>Kligler and colleagues have shown that an integrative medicine approach including holistic nursing and a healing environment in an inpatient oncology setting can decrease anxiety, fatigue, and the use of medications resulting in substantial cost savings in the care of oncology patients <abbrgrp>
+                   <abbr bid="B56">56</abbr>
+                </abbrgrp>. Such evidence provides the rationale for including health economic analyses into our study plan. Secondary health economy-related endpoints will include the following:</p><p>1. the cost of study treatments in intervention and control groups,</p>
+                <p>2. the total cost of health care utilization and productivity losses in intervention and control groups during follow-up,</p>
+                <p>3. the cost-effectiveness of trial intervention,</p>
+                <p>4. the quality adjusted life years (QALY) gain or loss in intervention and control groups during follow-up, and</p>
+                <p>5. the cost per QALY in intervention and control groups.</p>
+             <p>The health economy analyses include the following steps:</p><p>1. the assessment of the cost of the trial related intervention in the experimental groups and costs in the control groups,</p>
+                <p>2. the collection of health service utilization data in the control and intervention groups during the follow-up,</p>
+                <p>3. the assessment of longitudinal HRQoL data for transformation into preference measures and calculation of QALYs lost or gained during the follow-up, in order to calculate costs per QALY of interventions and controls, and</p>
+                <p>4. the calculation of the incremental cost-effectiveness ratio (ICER), cost-effectiveness acceptability curves (CEAC) and willingness-to-pay levels.</p>
+             <p>For collecting data on health services utilization during the follow-up, a scale <abbrgrp>
+                   <abbr bid="B57">57</abbr>
+                </abbrgrp> applied in international research will be adapted to the specific conditions of the German health care system and applied in the study sample (Mannheimer Module RV). To calculate QALYs, preferences generated from the EORCT-QLQ-C30 data will be used for patients <abbrgrp>
+                   <abbr bid="B58">58</abbr>
+                </abbrgrp>, and WHOQOL-BREF data for patients&#8217; SOs <abbrgrp>
+                   <abbr bid="B53">53</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B59">59</abbr>
+                </abbrgrp>.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Side-effects of chemotherapy</p>
+             </st>
+             <p>Adverse events of the conventional cancer treatment will be documented according to the international standard of the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events <abbrgrp>
+                   <abbr bid="B60">60</abbr>
+                </abbrgrp>.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Sample size and power considerations</p>
+             </st>
+             <p>Sample size was calculated for the global quality of life (Items 29 and 30 of EORTC-QLQ-C30) and was based on a two-group comparison using Student&#8217;s t-test because no reliable estimate of the correlation between repeated measures was available. Following the recommendation by Cocks <it>et al</it>. <abbrgrp>
+                   <abbr bid="B36">36</abbr>
+                </abbrgrp>, a difference of 10 points between the randomized groups was considered clinically important (that is, &#8216;smallest medium difference&#8217;). This difference corresponds to a standardized effect of d&#8201;=&#8201;0.4 according to Cohen. To detect d&#8201;=&#8201;0.4 with a power of 1 - &#946;&#8201;=&#8201;80% using a two-sample t-test at a two-sided significance level &#945;&#8201;=&#8201;5%, a total of 200 patients in the randomized arms (100 per arm) will be required. The sample size calculation was performed using nQuery Advisor V7.0. We expect the power of the main statistical analysis to be higher than 80% because repeated measurements will be taken into account and the analysis will be additionally adjusted for relevant covariates such as HRQoL at baseline.</p>
+             <p>We assume that 40% of the patients have no or no strong preference and thus will be randomized. About 60% of the patients are assumed to have a strong preference for the CAM intervention. Therefore, we need to include 200 patients in the randomized arms (100 per arm) and we expect to include about 300 patients in the observational arms. Assuming up to 15% of patients may not have primary outcome data available, the sample size was adjusted to a total of 236 patients in the randomized arms (118 per arm) and about 354 patients in the observational arms.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Data analysis</p>
+             </st>
+             <p>According to Schmoor <it>et al.</it> 
+                <abbrgrp>
+                   <abbr bid="B61">61</abbr>
+                </abbrgrp>, the first analysis step of PRPP trials is the classical analysis of the randomized patients. These are the basic results of the trial and these results have internal validity. The primary objective of the present study is to determine the effectiveness of a complex nursing care intervention on CAM in women with breast and gynecologic cancer undergoing chemotherapy, and to show that the complex intervention results in higher HRQoL, compared to usual nursing care alone. The primary endpoint is the global HRQoL subscale of the EORTC QLQ-C30 questionnaire and is assumed to follow an approximate normal distribution <abbrgrp>
+                   <abbr bid="B35">35</abbr>
+                </abbrgrp>.</p>
+             <p>A linear mixed model will be used to compare HRQoL under chemotherapy between the two randomized groups from treatment start to long-term follow-up (T1 to T4). This model takes into account the hierarchical structure of the data with repeated measurements nested in patients (that is, patients will be included as random effects in the intercept). Fixed effects will include treatment (usual nursing care versus complex nursing care intervention on CAM), the time of measurement (T1 to T4), the interaction of treatment and time, as well as the HRQoL baseline scores at T1, and the stratification variables stage of cancer (non-metastatic versus metastatic) and study centre (university hospital versus community hospital). Because the measurements are not equidistant in time, an unstructured covariance matrix will be estimated. For the main effect of treatment, the null hypothesis of no difference in group averages will be tested at the two-sided significance level of &#945;&#8201;=&#8201;0.05. Differences between short-term and long-term effects will be assessed by the interaction of treatment and time. The primary analysis will be performed for all randomized patients according to the intention-to-treat principle. As sensitivity analysis, the analysis will be repeated in the per protocol set, excluding patients with major protocol violations. Because longitudinal mixed models make use of the missing at random assumption, no imputation will be used to handle missing data in the primary analysis. However, sensitivity analyses will be conducted to assess the impact of missing data (for example, omitted measurements at some time point) by various approaches, including for example the ICA-r method (imputation according to reasons for missingness <abbrgrp>
+                   <abbr bid="B62">62</abbr>
+                </abbrgrp>), the last observation carried forward, and multiple imputation. Model fit will be assessed by visual inspection of residual plots. Descriptive analyses of secondary endpoints will be performed. All estimates will be presented with 95% confidence intervals. External validity will be assessed by comparing the randomized with the non-randomized patients. The comparison of the observational group will thereby facilitate the applicability of the results. The central part of the second analysis step is, thus, to assess whether treatment effects observed in the randomized patients are comparable with those observed in the two observational arms. If there are measurable differences between these two groups with regard to prognostic factors, the effect of these differences will be examined using propensity score methods. Propensity scores will be determined that reflect the patients&#8217; preferences.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Quality assurance</p>
+             </st>
+             <p>The study is planned in accordance with the German data protection law and ICH/GCP guidelines. External monitoring and consultations with an advisory board will ensure patient safety and highest possible data quality. Monitoring visits will be conducted on a regular basis by independent qualified study nurses of the Department of General Practice and Health Services Research, University Hospital Heidelberg. This monitoring will include pre-study-visits and monitoring visits using standard operating procedures with monitoring of complete eCRFs of at least 10% of the patients included and of core and safety data of the remaining patients. Furthermore, study nurses will check the provision of the interventions in both study sites on a random basis.</p>
+             <p>All instruments will be piloted to assure readability and limit missing item response. Survey instruments will be provided by the coordinating centre (Department of General Practice and Health Services Research) to minimize printing error or layout variation. The coordinating centre will be responsible for scanning of all questionnaires from both study sites, for query management and data consistency check. This study is supported by an external advisory board including experts/representatives of CAM, clinical pharmacology, oncology, study methodology, nursing science, statistical science and the patient perspective.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Discussion</p>
+          </st>
+          <p>The CONGO study is the first prospective partially randomized patient preference trial investigating the impact of a nurse-led intervention involving both clinic and home-based CAM use in breast and gynecologic cancer patients undergoing chemotherapy in two outpatient cancer services. The findings from this study will add to the growing body of evidence of the effectiveness of CAM interventions for individuals with cancer, by testing several aspects relevant for the implementation of patient-centered models of integrative healthcare: (1) patients will receive cancer care including CAMs and individual counseling on CAM by oncology nurses; (2) patients&#8217; preference to receive the CAM intervention will be considered; (3) patients&#8217; empowerment resources will be activated in the initial and following individualized counseling interviews, by receiving standardized CAM instructions and an additional information booklet including evidence-based CAM for home use; (4) The effect of the intervention will be measured on HRQoL and a range of other physical and psychosocial symptoms; (5) Sustainability and long-term effects of this intervention will be assessed by follow-up; (6) A thorough process evaluation will provide explanation on succeeding or impedimental factors impacting concomitantly on the process of the intervention.</p>
+          <p>The majority of breast and gynecologic cancer patients receive adjuvant or neoadjuvant chemotherapy, which may help to cure their cancer, or prolong life, but also affects their HRQoL due to treatment side-effects or psychosocial concerns <abbrgrp>
+                <abbr bid="B63">63</abbr>
+             </abbrgrp>. Research consistently demonstrates that cancer patients have a high interest in complementing their conventional cancer treatment by using CAMs <abbrgrp>
+                <abbr bid="B3">3</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B5">5</abbr>
+             </abbrgrp>, and some integrative cancer centers have incorporated patients&#8217; preference in providing counseling and methods reflecting a holistic treatment approach <abbrgrp>
+                <abbr bid="B18">18</abbr>
+             </abbrgrp>. There is, however, a lack of research investigating the effects of such integrated services on a range of patient-centered outcomes in cancer patients treated with chemotherapy <abbrgrp>
+                <abbr bid="B64">64</abbr>
+             </abbrgrp>. Previous randomized trials mostly investigated the efficacy of one CAM therapy on primary and secondary outcomes <abbrgrp>
+                <abbr bid="B65">65</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B68">68</abbr>
+             </abbrgrp>. Likewise, other effectiveness studies, including nonpharmacologic interventions focused on investigating cognitive or educational programs, however, excluded CAM therapies <abbrgrp>
+                <abbr bid="B69">69</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B70">70</abbr>
+             </abbrgrp> not knowing if patients applied CAM nevertheless. The current study aims to address this aspect by supplying patients in the control group with a patient diary to collect data related to physical and psychological symptoms as well as other supportive therapies patients may apply. While many intervention studies with cancer patients aimed to target cancer-related fatigue (CRF) <abbrgrp>
+                <abbr bid="B71">71</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B73">73</abbr>
+             </abbrgrp>, the CONGO study is designed to investigate if cancer patients&#8217; and their significant others&#8217; quality of life will be affected by the complex CAM nursing intervention.</p>
+          <p>In contrast to efficacy studies, the current effectiveness study will consider several elements when analyzing participants&#8217; HRQoL. The intervention targets common symptoms of patients undergoing chemotherapy. To address these symptoms, a range of CAM interventions will be administered to the patient in the outpatient centre at each cycle of chemotherapy. Some of these CAM interventions are already part of the clinics&#8217; nursing standards <abbrgrp>
+                <abbr bid="B20">20</abbr>
+             </abbrgrp>; however, they have not yet been standardized and evaluated. In the current study, the patients will also receive counseling on how to apply some of these CAM interventions at home between cycles. Plus, patients will receive an evidence-based information booklet on different CAM interventions as well as contact sources on other external CAM providers in case they prefer to pursue the wide CAM spectrum further on. As a chemotherapy regimen lasts very long (for example, 24&#160;weeks) the patient will visit the outpatient clinic every 3 to 4&#160;weeks that is, 6 to 8 times. It is likely that the patient builds a relationship with the assigned CAM nurse caring for her, which might also add to improvements in HRQoL. In the randomized group, we can account for potential confounders, and analyze the primary and secondary outcomes, but we cannot explain which single element of the interacting intervention agents has the highest impact on changes in HRQoL.</p>
+          <p>The shift from inpatient to outpatient cancer treatment has increased awareness of patients&#8217; self-care strategies and also of their significant others (SOs) including family members and close friends <abbrgrp>
+                <abbr bid="B74">74</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B75">75</abbr>
+             </abbrgrp>. Cancer has become a family disease affecting not only the individual with the cancer diagnosis, but also involving their SOs who often are experiencing high levels of distress <abbrgrp>
+                <abbr bid="B76">76</abbr>
+             </abbrgrp> while accompanying and supporting their loved one going through the treatment stages and adjusting to a new life situation <abbrgrp>
+                <abbr bid="B77">77</abbr>
+             </abbrgrp>. A strength of the current study is the consideration of patients&#8217; SO, whose QoL will be assessed T1, T3, and T4; and who will be interviewed during the process evaluation to gain a better understanding about their perceptions on the cancer patient&#8217;s experiences with the complex nursing care intervention on CAM. The interventions have been primarily composed for the patient receiving chemotherapy, and therefore exclude couple-based methods; however, some of these home-based interventions can be administered by the SOs (for example, preparing the tea, conducting the massage). Thus, the current study will provide further information in highlighting if the shared CAM use contributes to bonding and improvements of QoL in cancer patients&#8217; SOs <abbrgrp>
+                <abbr bid="B74">74</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B75">75</abbr>
+             </abbrgrp>.</p>
+          <p>A further strength of the CONGO study is the interprofessional aspect, which takes into account the collaboration between health professionals in the design of the study as well as in the composition of the complex nurse-led intervention. To our knowledge, this is one of the first nurse-led CAM intervention studies in Germany that can assess nurses&#8217; relevant contribution in promoting HRQoL during cancer therapy.</p>
+          <p>Another unique aspect of the CONGO study is patients&#8217; choice of the study arm. Due to high interest and prevalence of CAM in cancer populations, we expect that 60% of participants will decide for the intervention and will therefore be allocated into the observational study arm. This study arm will be analyzed descriptively and will be used to assess the external validity of the study results. However, it will be a challenge to recruit enough participants for the randomized arm.</p>
+          <p>The logistic implementation of the CONGO study presents challenges in recruiting the two centers and the healthcare staff involved. Several meetings, involving mutual exchange visits of the involved nursing staff have taken place to facilitate the planning and coordination of the procedure of the study, and to find solutions for recruiting enough patients for the randomized arm. During these pre-study meetings, how the study participants can be recruited without any interruptions for the outpatient clinic routine has been elaborated, as well as how to care for and treat the study participants of the different study arms - with and without receiving the intervention. The organization of the study requires a flexible schedule of the CAM-trained nurses, as they have to inform the patients about the study, collect their informed consent, conduct the initial counseling and follow-up interviews, as well as conduct the intervention while the patient receives chemotherapy. In addition, it will be expected that the CAM-trained nurse cares about the data collection and documents the implementation of the intervention in an electronic case report file (eCRF).</p>
+          <p>In summary, the CONGO study has been designed to evaluate the effectiveness of an intervention involving CAM therapies and counseling on CAM as complementing the supportive care of breast and gynecologic cancer patients undergoing chemotherapy. It is hypothesized that this intervention increases HRQoL and clustered symptoms over the chemotherapy regimen and follow-up in this outpatient population, and that this is highly relevant to know in the context of promoting and advancing integrative cancer care/clinics.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Trial status</p>
+          </st>
+          <p>The trial has received funding in December 2013 and ethical clearance in Mai 2014. At the time of submission of this protocol, the intervention has been standardized and nursing staff has been trained. Recruitment began in July 2014. We anticipate that all data will be collected by May 2016.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Abbreviations</p>
+          </st>
+          <p>CHT: Chemotherapy</p>
+          <p>eCRF: Electronic case report file</p>
+          <p>EOT: End of treatment</p>
+          <p>EOI: End of intervention</p>
+          <p>FU: Follow-up</p>
+          <p>IC: Informed consent</p>
+          <p>ICI: Initial counseling interview</p>
+          <p>PD: Patient diary</p>
+          <p>SOI: Start of intervention</p>
+          <p>SOT: Start of treatment</p>
+          <p>SO: Significant other</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Competing interests</p>
+          </st>
+          <p>The authors declare that they have no competing interests.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Authors&#8217; contributions</p>
+          </st>
+          <p>SJ, CM, CvH, JR, and HJS contributed to the conception, design, trial protocol, and initiation of the project. NK contributed to the conception and design of the study and drafted the manuscript. AS and AM contributed to the trial protocol and initiation of the project. All authors read and approved the final manuscript.</p>
+       </sec>
+    </bdy>
+    <bm>
+       <ack>
+          <sec>
+             <st>
+                <p>Acknowledgements</p>
+             </st>
+             <p>The CONGO study is funded by the Bundesministerium f&#252;r Bildung und Forschung (BMBF) under the Number: 01GY1334 (F&#246;rderkennzeichen). The authors acknowledge financial support by Deutsche Forschungsgemeinschaft and Ruprecht-Karls-Universit&#228;t Heidelberg within the funding programme Open Access Publishing.</p>
+          </sec>
+       </ack>
+       <refgrp>
+          
+          <bibl id="B1">
+             <note>Robert Koch Institut. Krebs in Deutschland 2007/2008. [<url>http://www.rki.de/Krebs/DE/Content/Publikationen/Krebs_in_Deutschland/kid_2012/krebs_in_deutschland_2012.pdf?__blob=publicationFile</url>]</note>
+          </bibl>
+          <bibl id="B2">
+             <title>
+                <p>Quality of life and psychosocial adjustment in gynecologic cancer survivors</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Pearman</snm>
+                   <fnm>T</fnm>
+                </au>
+             </aug>
+             <source>Health Qual Life Outcomes</source>
+             <pubdate>2003</pubdate>
+             <volume>1</volume>
+             <fpage>33</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1186/1477-7525-1-33</pubid>
+                   <pubid idtype="pmpid" link="fulltext">12952541</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B3">
+             <title>
+                <p>How many cancer patients use complementary and alternative medicine: a systematic review and metaanalysis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Horneber</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Bueschel</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Dennert</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Less</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Ritter</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Zwahlen</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>Integr Cancer Ther</source>
+             <pubdate>2012</pubdate>
+             <volume>11</volume>
+             <issue>3</issue>
+             <fpage>187</fpage>
+             <lpage>203</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1177/1534735411423920</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22019489</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B4">
+             <title>
+                <p>Trends in complementary/alternative medicine use by breast cancer survivors: comparing survey data from 1998 and 2005</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Boon</snm>
+                   <fnm>HS</fnm>
+                </au>
+                <au>
+                   <snm>Olatunde</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Zick</snm>
+                   <fnm>SM</fnm>
+                </au>
+             </aug>
+             <source>BMC Womens Health</source>
+             <pubdate>2007</pubdate>
+             <volume>7</volume>
+             <fpage>4</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1186/1472-6874-7-4</pubid>
+                   <pubid idtype="pmpid" link="fulltext">17397542</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B5">
+             <title>
+                <p>Reasons for and characteristics associated with complementary and alternative medicine use among adult cancer patients: a systematic review</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Verhoef</snm>
+                   <fnm>MJ</fnm>
+                </au>
+                <au>
+                   <snm>Balneaves</snm>
+                   <fnm>LG</fnm>
+                </au>
+                <au>
+                   <snm>Boon</snm>
+                   <fnm>HS</fnm>
+                </au>
+                <au>
+                   <snm>Vroegindewey</snm>
+                   <fnm>A</fnm>
+                </au>
+             </aug>
+             <source>Integr Cancer Ther</source>
+             <pubdate>2005</pubdate>
+             <volume>4</volume>
+             <issue>4</issue>
+             <fpage>274</fpage>
+             <lpage>86</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1177/1534735405282361</pubid>
+                   <pubid idtype="pmpid" link="fulltext">16282504</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B6">
+             <title>
+                <p>A systematic review of beliefs involved in the use of complementary and alternative medicine</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bishop</snm>
+                   <fnm>FL</fnm>
+                </au>
+                <au>
+                   <snm>Yardley</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Lewith</snm>
+                   <fnm>GT</fnm>
+                </au>
+             </aug>
+             <source>J Health Psychol</source>
+             <pubdate>2007</pubdate>
+             <volume>12</volume>
+             <issue>6</issue>
+             <fpage>851</fpage>
+             <lpage>67</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1177/1359105307082447</pubid>
+                   <pubid idtype="pmpid" link="fulltext">17956965</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B7">
+             <title>
+                <p>The patient&#8217;s motivation in seeking complementary therapies</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Ritvo</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Irvine</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Katz</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Matthew</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Sacamano</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Shaw</snm>
+                   <fnm>BF</fnm>
+                </au>
+             </aug>
+             <source>Patient Educ Couns</source>
+             <pubdate>1999</pubdate>
+             <volume>38</volume>
+             <issue>2</issue>
+             <fpage>161</fpage>
+             <lpage>5</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0738-3991(99)00063-4</pubid>
+                   <pubid idtype="pmpid" link="fulltext">14560712</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B8">
+             <note>Klafke N, Eliott JA, Olver IN, Wittert GA. Australian men with cancer practice complementary therapies (CTs) as a coping strategy. Psychooncology 2014.</note>
+          </bibl>
+          <bibl id="B9">
+             <title>
+                <p>Association of complementary methods with quality of life and life satisfaction in patients with gynecologic and breast malignancies</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Fasching</snm>
+                   <fnm>PA</fnm>
+                </au>
+                <au>
+                   <snm>Thiel</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Nicolaisen-Murmann</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Rauh</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Engel</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Lux</snm>
+                   <fnm>MP</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Support Care Cancer</source>
+             <pubdate>2007</pubdate>
+             <volume>15</volume>
+             <issue>11</issue>
+             <fpage>1277</fpage>
+             <lpage>84</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1007/s00520-007-0231-1</pubid>
+                   <pubid idtype="pmpid" link="fulltext">17333294</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B10">
+             <title>
+                <p>Complementary and alternative medicine use among women with breast cancer: a systematic review</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Wanchai</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Armer</snm>
+                   <fnm>JM</fnm>
+                </au>
+                <au>
+                   <snm>Stewart</snm>
+                   <fnm>BR</fnm>
+                </au>
+             </aug>
+             <source>Clin J Oncol Nurs</source>
+             <pubdate>2010</pubdate>
+             <volume>14</volume>
+             <issue>4</issue>
+             <fpage>E45</fpage>
+             <lpage>55</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1188/10.CJON.E45-E55</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20682492</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B11">
+             <note>Brustkrebs Leitlinie. <url>http://www.awmf.org/uploads/tx_szleitlinien/032-045OL_l_ S3__Brustkrebs_Mammakarzinom_Diagnostik_Therapie_Nachsorge_2012-07.pdf.,2012</url>.</note>
+          </bibl>
+          <bibl id="B12">
+             <title>
+                <p>The role of complementary and alternative medicine in the management of early breast cancer: recommendations of the European Society of Mastology (EUSOMA)</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Baum</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Cassileth</snm>
+                   <fnm>BR</fnm>
+                </au>
+                <au>
+                   <snm>Daniel</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Ernst</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Filshie</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Nagel</snm>
+                   <fnm>GA</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Eur J Cancer</source>
+             <pubdate>2006</pubdate>
+             <volume>42</volume>
+             <issue>12</issue>
+             <fpage>1711</fpage>
+             <lpage>4</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.ejca.2006.02.019</pubid>
+                   <pubid idtype="pmpid" link="fulltext">16806902</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B13">
+             <title>
+                <p>Evidence-based clinical practice guidelines for integrative oncology: complementary therapies and botanicals</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Deng</snm>
+                   <fnm>GE</fnm>
+                </au>
+                <au>
+                   <snm>Frenkel</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Cohen</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Cassileth</snm>
+                   <fnm>BR</fnm>
+                </au>
+                <au>
+                   <snm>Abrams</snm>
+                   <fnm>DI</fnm>
+                </au>
+                <au>
+                   <snm>Capodice</snm>
+                   <fnm>JL</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>J Soc Integr Oncol</source>
+             <pubdate>2009</pubdate>
+             <volume>7</volume>
+             <issue>3</issue>
+             <fpage>85</fpage>
+             <lpage>120</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">19706235</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B14">
+             <title>
+                <p>Patterns of complementary and alternative medicine use among patients undergoing cancer treatment</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Corner</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Yardley</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Maher</snm>
+                   <fnm>EJ</fnm>
+                </au>
+                <au>
+                   <snm>Roffe</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Young</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Maslin-Prothero</snm>
+                   <fnm>S</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Eur J Cancer Care</source>
+             <pubdate>2009</pubdate>
+             <volume>18</volume>
+             <issue>3</issue>
+             <fpage>271</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1365-2354.2007.00911.x</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B15">
+             <title>
+                <p>Relief of symptoms, side effects, and psychological distress through use of complementary and alternative medicine in women with breast cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Lengacher</snm>
+                   <fnm>CA</fnm>
+                </au>
+                <au>
+                   <snm>Bennett</snm>
+                   <fnm>MP</fnm>
+                </au>
+                <au>
+                   <snm>Kip</snm>
+                   <fnm>KE</fnm>
+                </au>
+                <au>
+                   <snm>Gonzalez</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Jacobsen</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Cox</snm>
+                   <fnm>CE</fnm>
+                </au>
+             </aug>
+             <source>Oncol Nurs Forum</source>
+             <pubdate>2006</pubdate>
+             <volume>33</volume>
+             <issue>1</issue>
+             <fpage>97</fpage>
+             <lpage>104</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1188/06.ONF.97-104</pubid>
+                   <pubid idtype="pmpid" link="fulltext">16470237</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B16">
+             <note>Royal College of Nursing. [<url>http://www.rcn.org.uk/__data/assets/pdf_file/0019/60445/complementarytherapies.pdf</url>]</note>
+          </bibl>
+          <bibl id="B17">
+             <title>
+                <p>An integrative approach to addressing clinical issues in complementary and alternative medicine in an outpatient oncology center</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Chong</snm>
+                   <fnm>OT</fnm>
+                </au>
+             </aug>
+             <source>Clin J Oncol Nurs</source>
+             <pubdate>2006</pubdate>
+             <volume>10</volume>
+             <issue>1</issue>
+             <fpage>83</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1188/06.CJON.83-88</pubid>
+                   <pubid idtype="pmpid" link="fulltext">16482732</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B18">
+             <title>
+                <p>Integrative Oncology: Best of Both Worlds-Theoretical, Practical, and Research Issues</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Cramer</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Cohen</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Dobos</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Witt</snm>
+                   <fnm>CM</fnm>
+                </au>
+             </aug>
+             <source>Evid Based Complement Alternat Med</source>
+             <pubdate>2013</pubdate>
+             <volume>2013</volume>
+             <fpage>383142</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">24371456</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B19">
+             <title>
+                <p>Nurses end-of-life decision making</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Dunger</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Schnell</snm>
+                   <fnm>MW</fnm>
+                </au>
+             </aug>
+             <source>Professional nurses about the application of complementary care for patients with breathlessness Pflege Z</source>
+             <pubdate>2012</pubdate>
+             <volume>65</volume>
+             <issue>3</issue>
+             <fpage>170</fpage>
+             <lpage>5</lpage>
+          </bibl>
+          <bibl id="B20">
+             <title>
+                <p>Mit Lavendel, Thymian &amp; Co die Behandlung unterst&#252;tzen</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Neuberger</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Wettich-Hauser</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Trautmann</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Sohn</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Schneeweis</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>von Hagens</snm>
+                   <fnm>C</fnm>
+                </au>
+             </aug>
+             <source>Die Schwester Der Pfleger</source>
+             <pubdate>2012</pubdate>
+             <volume>06</volume>
+             <issue>51</issue>
+             <fpage>538</fpage>
+             <lpage>42</lpage>
+          </bibl>
+          <bibl id="B21">
+             <title>
+                <p>Drug interactions with phytotherapeutics in oncology</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Haefeli</snm>
+                   <fnm>WE</fnm>
+                </au>
+                <au>
+                   <snm>Carls</snm>
+                   <fnm>A</fnm>
+                </au>
+             </aug>
+             <source>Expert Opin Drug Metab Toxicol</source>
+             <pubdate>2014</pubdate>
+             <volume>10</volume>
+             <issue>3</issue>
+             <fpage>359</fpage>
+             <lpage>77</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1517/17425255.2014.873786</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24387348</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B22">
+             <title>
+                <p>The four conservation principles of nursing</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Levine</snm>
+                   <fnm>ME</fnm>
+                </au>
+             </aug>
+             <source>Nurs Forum</source>
+             <pubdate>1967</pubdate>
+             <volume>6</volume>
+             <issue>1</issue>
+             <fpage>45</fpage>
+             <lpage>59</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1744-6198.1967.tb01297.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">5180875</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B23">
+             <title>
+                <p>Using a conceptual model in nursing research&#8211;mitigating fatigue in cancer patients</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Mock</snm>
+                   <fnm>V</fnm>
+                </au>
+                <au>
+                   <snm>St Ours</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Hall</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Bositis</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Tillery</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Belcher</snm>
+                   <fnm>A</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>J Adv Nurs</source>
+             <pubdate>2007</pubdate>
+             <volume>58</volume>
+             <issue>5</issue>
+             <fpage>503</fpage>
+             <lpage>12</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1365-2648.2007.04293.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">17484740</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B24">
+             <title>
+                <p>Fatigue associated with congestive heart failure: use of Levine&#8217;s Conservation Model</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Schaefer</snm>
+                   <fnm>KM</fnm>
+                </au>
+                <au>
+                   <snm>Shober Potylycki</snm>
+                   <fnm>MJ</fnm>
+                </au>
+             </aug>
+             <source>J Adv Nurs</source>
+             <pubdate>1993</pubdate>
+             <volume>18</volume>
+             <issue>2</issue>
+             <fpage>260</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1046/j.1365-2648.1993.18020260.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">8436716</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B25">
+             <title>
+                <p>Randomized, controlled trials, observational studies, and the hierarchy of research designs</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Concato</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Shah</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Horwitz</snm>
+                   <fnm>R</fnm>
+                </au>
+             </aug>
+             <source>N Engl J Med</source>
+             <pubdate>2000</pubdate>
+             <volume>342</volume>
+             <issue>25</issue>
+             <fpage>1887</fpage>
+             <lpage>92</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1056/NEJM200006223422507</pubid>
+                   <pubid idtype="pmpid" link="fulltext">10861325</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B26">
+             <aug>
+                <au>
+                   <snm>Pocock</snm>
+                   <fnm>S</fnm>
+                </au>
+             </aug>
+             <source>Clinical trials: a practical approach</source>
+             <publisher>John Wiley and Sons, Chichester</publisher>
+             <pubdate>1983</pubdate>
+          </bibl>
+          <bibl id="B27">
+             <title>
+                <p>Patient&#8217;s preference and randomization: new paradigm of evidence-based clinical research</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Millat</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Borie</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Fingerhut</snm>
+                   <fnm>A</fnm>
+                </au>
+             </aug>
+             <source>World J Surg</source>
+             <pubdate>2005</pubdate>
+             <volume>29</volume>
+             <issue>5</issue>
+             <fpage>596</fpage>
+             <lpage>600</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1007/s00268-005-7920-z</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15827836</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B28">
+             <title>
+                <p>Patients&#8217; preferences within randomized trials:systematic review and patient level meta-analysis</p>
+             </title>
+             <insg>
+                <ins>
+                   <p>Preference Collaborative Review Group</p>
+                </ins>
+             </insg>
+             <source>BMJ</source>
+             <pubdate>2008</pubdate>
+             <volume>337</volume>
+             <fpage>a1864</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/bmj.a1864</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B29">
+             <title>
+                <p>Understanding controlled trials. What is a patient preference trial?</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Torgerson</snm>
+                   <fnm>DJ</fnm>
+                </au>
+                <au>
+                   <snm>Sibbald</snm>
+                   <fnm>B</fnm>
+                </au>
+             </aug>
+             <source>BMJ</source>
+             <pubdate>1998</pubdate>
+             <volume>316</volume>
+             <issue>7128</issue>
+             <fpage>360</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/bmj.316.7128.360</pubid>
+                   <pubid idtype="pmpid" link="fulltext">9487173</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B30">
+             <note>Craig P. Complex intervention guidance. 2012; Available from: <url>http://www.mrc.ac.uk/complexinterventionsguidance.</url>
+             </note>
+          </bibl>
+          <bibl id="B31">
+             <title>
+                <p>Developing and evaluating complex interventions: the new Medical Research Council guidance</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Craig</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Dieppe</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Macintyre</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Michie</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Nazareth</snm>
+                   <fnm>I</fnm>
+                </au>
+                <au>
+                   <snm>Petticrew</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>INT J NURS STUD</source>
+             <pubdate>2013</pubdate>
+             <volume>50</volume>
+             <issue>5</issue>
+             <fpage>587</fpage>
+             <lpage>92</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.ijnurstu.2012.09.010</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23159157</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B32">
+             <note>Nagel G, Schreiber D. Results of counselling of patients with early stage breast cancer towards patients expertise and selfempowerment. Stiftung Patientenkompetenz Z&#252;rich 2013.</note>
+          </bibl>
+          <bibl id="B33">
+             <title>
+                <p>Developing a self-rating measure of patient competence in the context of oncology: a multi-center study</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Giesler</snm>
+                   <fnm>JM</fnm>
+                </au>
+                <au>
+                   <snm>Weis</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>Psychooncology</source>
+             <pubdate>2008</pubdate>
+             <volume>17</volume>
+             <issue>11</issue>
+             <fpage>1089</fpage>
+             <lpage>99</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1002/pon.1330</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18318001</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B34">
+             <title>
+                <p>Subjective dimensions of patient competence: relationships with selected healthcare usage behaviors and general features of self-rated competence</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Weis</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Giesler</snm>
+                   <fnm>JM</fnm>
+                </au>
+             </aug>
+             <source>Patient Educ Couns</source>
+             <pubdate>2008</pubdate>
+             <volume>73</volume>
+             <issue>3</issue>
+             <fpage>511</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.pec.2008.07.010</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18952394</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B35">
+             <aug>
+                <au>
+                   <snm>Scott</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Fayers</snm>
+                   <fnm>PM</fnm>
+                </au>
+                <au>
+                   <snm>Aaronson</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Bottomley</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>de Graeff</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Groenvold</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>EORTC QLQ-30. Reference values</source>
+             <publisher>EORTC, Brussels</publisher>
+             <pubdate>2008</pubdate>
+          </bibl>
+          <bibl id="B36">
+             <title>
+                <p>Evidence-based guidelines for determination of sample size and interpretation of the European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire Core 30</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Cocks</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>King</snm>
+                   <fnm>MT</fnm>
+                </au>
+                <au>
+                   <snm>Velikova</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Martyn St-James</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Fayers</snm>
+                   <fnm>PM</fnm>
+                </au>
+                <au>
+                   <snm>Brown</snm>
+                   <fnm>JM</fnm>
+                </au>
+             </aug>
+             <source>J Clin Oncol</source>
+             <pubdate>2011</pubdate>
+             <volume>29</volume>
+             <issue>1</issue>
+             <fpage>89</fpage>
+             <lpage>96</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1200/JCO.2010.28.0107</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21098316</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B37">
+             <title>
+                <p>The European Organization for Research and Treatment of Cancer QLQ-C30: a quality-of-life instrument for use in international clinical trials in oncology</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Aaronson</snm>
+                   <fnm>NK</fnm>
+                </au>
+                <au>
+                   <snm>Ahmedzai</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Bergman</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Bullinger</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Cull</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Duez</snm>
+                   <fnm>NJ</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>J Natl Cancer Inst</source>
+             <pubdate>1993</pubdate>
+             <volume>85</volume>
+             <issue>5</issue>
+             <fpage>365</fpage>
+             <lpage>76</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/jnci/85.5.365</pubid>
+                   <pubid idtype="pmpid" link="fulltext">8433390</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B38">
+             <title>
+                <p>Validation and psychometric assessment of a short clinical scale to measure chemotherapy-induced nausea and vomiting: the MASCC antiemesis tool</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Molassiotis</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Coventry</snm>
+                   <fnm>PA</fnm>
+                </au>
+                <au>
+                   <snm>Stricker</snm>
+                   <fnm>CT</fnm>
+                </au>
+                <au>
+                   <snm>Clements</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Eaby</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Velders</snm>
+                   <fnm>L</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>J Pain Symptom Manage</source>
+             <pubdate>2007</pubdate>
+             <volume>34</volume>
+             <issue>2</issue>
+             <fpage>148</fpage>
+             <lpage>59</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.jpainsymman.2006.10.018</pubid>
+                   <pubid idtype="pmpid" link="fulltext">17509816</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B39">
+             <title>
+                <p>Measuring fatigue and other anemia-related symptoms with the Functional Assessment of Cancer Therapy (FACT) measurement system</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Yellen</snm>
+                   <fnm>SB</fnm>
+                </au>
+                <au>
+                   <snm>Cella</snm>
+                   <fnm>DF</fnm>
+                </au>
+                <au>
+                   <snm>Webster</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Blendowski</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Kaplan</snm>
+                   <fnm>E</fnm>
+                </au>
+             </aug>
+             <source>J Pain Symptom Manage</source>
+             <pubdate>1997</pubdate>
+             <volume>13</volume>
+             <issue>2</issue>
+             <fpage>63</fpage>
+             <lpage>74</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0885-3924(96)00274-6</pubid>
+                   <pubid idtype="pmpid" link="fulltext">9095563</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B40">
+             <title>
+                <p>Measurement of fatigue in people with cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Wu</snm>
+                   <fnm>HS</fnm>
+                </au>
+                <au>
+                   <snm>McSweeney</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>Oncol Nurs Forum</source>
+             <pubdate>2001</pubdate>
+             <volume>28</volume>
+             <issue>9</issue>
+             <fpage>1371</fpage>
+             <lpage>84</lpage>
+             <note> quiz 1385&#8211;1376</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">11683308</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B41">
+             <title>
+                <p>Psychometric characteristics of the ankylosing spondylitis quality of life questionnaire, short form 36 health survey, and functional assessment of chronic illness therapy-fatigue subscale</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Revicki</snm>
+                   <fnm>DA</fnm>
+                </au>
+                <au>
+                   <snm>Rentz</snm>
+                   <fnm>AM</fnm>
+                </au>
+                <au>
+                   <snm>Luo</snm>
+                   <fnm>MP</fnm>
+                </au>
+                <au>
+                   <snm>Wong</snm>
+                   <fnm>RL</fnm>
+                </au>
+                <au>
+                   <snm>Doward</snm>
+                   <fnm>LC</fnm>
+                </au>
+                <au>
+                   <snm>McKenna</snm>
+                   <fnm>SP</fnm>
+                </au>
+             </aug>
+             <source>Health Qual Life Outcomes</source>
+             <pubdate>2009</pubdate>
+             <volume>7</volume>
+             <fpage>6</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1186/1477-7525-7-6</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19183482</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B42">
+             <title>
+                <p>A comprehensive method for the translation and cross-cultural validation of health status questionnaires</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Eremenco</snm>
+                   <fnm>SL</fnm>
+                </au>
+                <au>
+                   <snm>Cella</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Arnold</snm>
+                   <fnm>BJ</fnm>
+                </au>
+             </aug>
+             <source>Eval Health Prof</source>
+             <pubdate>2005</pubdate>
+             <volume>28</volume>
+             <issue>2</issue>
+             <fpage>212</fpage>
+             <lpage>32</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1177/0163278705275342</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15851774</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B43">
+             <title>
+                <p>Measurement of pain</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Huskisson</snm>
+                   <fnm>EC</fnm>
+                </au>
+             </aug>
+             <source>Lancet</source>
+             <pubdate>1974</pubdate>
+             <volume>2</volume>
+             <issue>7889</issue>
+             <fpage>1127</fpage>
+             <lpage>31</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0140-6736(74)90884-8</pubid>
+                   <pubid idtype="pmpid" link="fulltext">4139420</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B44">
+             <title>
+                <p>The PHQ-9: validity of a brief depression severity measure</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kroenke</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Spitzer</snm>
+                   <fnm>RL</fnm>
+                </au>
+                <au>
+                   <snm>Williams</snm>
+                   <fnm>JB</fnm>
+                </au>
+             </aug>
+             <source>J Gen Intern Med</source>
+             <pubdate>2001</pubdate>
+             <volume>16</volume>
+             <issue>9</issue>
+             <fpage>606</fpage>
+             <lpage>13</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1046/j.1525-1497.2001.016009606.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">11556941</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B45">
+             <note>Fydrich T, Sommer G, Br&#228;hler E. F-SozU Fragebogen zur Sozialen Unterst&#252;tzung. G&#246;ttingen; 2007.</note>
+          </bibl>
+          <bibl id="B46">
+             <title>
+                <p>Evaluating self-efficacy for managing chronic disease: psychometeric properties of the six-item Self-Efficacy Scale in Germany</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Freund</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Gensichen</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Goetz</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Szecsenyi</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Mahler</snm>
+                   <fnm>C</fnm>
+                </au>
+             </aug>
+             <source>J Eval Clin Pract</source>
+             <pubdate>2011</pubdate>
+             <volume>19</volume>
+             <fpage>39</fpage>
+             <lpage>43</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1365-2753.2011.01764.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21883720</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B47">
+             <title>
+                <p>Quality of life, life satisfaction, and spirituality: comparing outcomes between rehabilitation and cancer patients</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Tate</snm>
+                   <fnm>DG</fnm>
+                </au>
+                <au>
+                   <snm>Forchheimer</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>Am J Phys Med Rehabil</source>
+             <pubdate>2002</pubdate>
+             <volume>81</volume>
+             <issue>6</issue>
+             <fpage>400</fpage>
+             <lpage>10</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/00002060-200206000-00002</pubid>
+                   <pubid idtype="pmpid" link="fulltext">12023595</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B48">
+             <title>
+                <p>Cancer survivors&#8217; spiritual well-being and use of complementary methods: a report from the American Cancer Society&#8217;s Studies of Cancer Survivors</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Crammer</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Kaw</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Gansler</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Stein</snm>
+                   <fnm>KD</fnm>
+                </au>
+             </aug>
+             <source>J Relig Health</source>
+             <pubdate>2011</pubdate>
+             <volume>50</volume>
+             <issue>1</issue>
+             <fpage>92</fpage>
+             <lpage>107</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1007/s10943-010-9327-x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20300963</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B49">
+             <title>
+                <p>Role of religion and spirituality in medical patients: confirmatory results with the SpREUK questionnaire</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bussing</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Ostermann</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Matthiessen</snm>
+                   <fnm>PF</fnm>
+                </au>
+             </aug>
+             <source>Health Qual Life Outcomes</source>
+             <pubdate>2005</pubdate>
+             <volume>3</volume>
+             <fpage>10</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1186/1477-7525-3-10</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15705195</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B50">
+             <title>
+                <p>[Pilot study for the development of a questionnaire for the measuring of the patients&#8217; attitude towards spirituality and religiosity and their coping with disease(SpREUK)]</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Ostermann</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Bussing</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Matthiessen</snm>
+                   <fnm>PF</fnm>
+                </au>
+             </aug>
+             <source>Forsch Komplementarmed Klass Naturheilkd</source>
+             <pubdate>2004</pubdate>
+             <volume>11</volume>
+             <issue>6</issue>
+             <fpage>346</fpage>
+             <lpage>53</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1159/000082816</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15604625</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B51">
+             <title>
+                <p>Spiritual needs among patients with chronic pain diseases and cancer living in a secular society</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bussing</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Janko</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Baumann</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Hvidt</snm>
+                   <fnm>NC</fnm>
+                </au>
+                <au>
+                   <snm>Kopf</snm>
+                   <fnm>A</fnm>
+                </au>
+             </aug>
+             <source>Pain Med</source>
+             <pubdate>2013</pubdate>
+             <volume>14</volume>
+             <issue>9</issue>
+             <fpage>1362</fpage>
+             <lpage>73</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/pme.12198</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23870113</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B52">
+             <title>
+                <p>An international prospective study of the EORTC cancer in-patient satisfaction with care measure (EORTC IN-PATSAT32)</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bredart</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Bottomley</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Blazeby</snm>
+                   <fnm>JM</fnm>
+                </au>
+                <au>
+                   <snm>Conroy</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Coens</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>D&#8217;Haese</snm>
+                   <fnm>S</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Eur J Cancer</source>
+             <pubdate>2005</pubdate>
+             <volume>41</volume>
+             <issue>14</issue>
+             <fpage>2120</fpage>
+             <lpage>31</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.ejca.2005.04.041</pubid>
+                   <pubid idtype="pmpid" link="fulltext">16182120</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B53">
+             <title>
+                <p>Deutschsprachige Version der WHO Instrumente zur Erfassung von Lebensqualit&#228;t WHOQOL-100 und WHOQOL-BREFM</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Angermeyer</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Kilian</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Matschinger</snm>
+                   <fnm>H</fnm>
+                </au>
+             </aug>
+             <source>Z Med Psychol</source>
+             <pubdate>2002</pubdate>
+             <volume>11</volume>
+             <fpage>44</fpage>
+             <lpage>8</lpage>
+          </bibl>
+          <bibl id="B54">
+             <title>
+                <p>The Caregiver Quality of Life Index-Cancer (CQOLC) scale: development and validation of an instrument to measure quality of life of the family caregiver of patients with cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Weitzner</snm>
+                   <fnm>MA</fnm>
+                </au>
+                <au>
+                   <snm>Jacobsen</snm>
+                   <fnm>PB</fnm>
+                </au>
+                <au>
+                   <snm>Wagner</snm>
+                   <fnm>H</fnm>
+                   <suf>Jr</suf>
+                </au>
+                <au>
+                   <snm>Friedland</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Cox</snm>
+                   <fnm>C</fnm>
+                </au>
+             </aug>
+             <source>Qual Life Res</source>
+             <pubdate>1999</pubdate>
+             <volume>8</volume>
+             <issue>1&#8211;2</issue>
+             <fpage>55</fpage>
+             <lpage>63</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1023/A:1026407010614</pubid>
+                   <pubid idtype="pmpid" link="fulltext">10457738</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B55">
+             <note>Proqolid. Caregiver Quality of Life Index-Cancer (CQOLC) [<url>http://www.proqolid.org/instruments/caregiver_quality_of_life_index_cancer_cqolc?fromSearch=yes&amp;text=yes</url>], 2014.</note>
+          </bibl>
+          <bibl id="B56">
+             <title>
+                <p>Cost savings in inpatient oncology through an integrative medicine approach</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kligler</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Homel</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Harrison</snm>
+                   <fnm>LB</fnm>
+                </au>
+                <au>
+                   <snm>Levenson</snm>
+                   <fnm>HD</fnm>
+                </au>
+                <au>
+                   <snm>Kenney</snm>
+                   <fnm>JB</fnm>
+                </au>
+                <au>
+                   <snm>Merrell</snm>
+                   <fnm>W</fnm>
+                </au>
+             </aug>
+             <source>Am J Manag Care</source>
+             <pubdate>2011</pubdate>
+             <volume>17</volume>
+             <issue>12</issue>
+             <fpage>779</fpage>
+             <lpage>84</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">22216749</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B57">
+             <title>
+                <p>[German adaptation of the client sociodemographic and service receipt inventory - an instrument for the cost of mental health care]</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Roick</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Kilian</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Matschinger</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Bernert</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Mory</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Angermeyer</snm>
+                   <fnm>MC</fnm>
+                </au>
+             </aug>
+             <source>Psychiatr Prax</source>
+             <pubdate>2001</pubdate>
+             <volume>28</volume>
+             <issue>Suppl 2</issue>
+             <fpage>S84</fpage>
+             <lpage>90</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1055/s-2001-17790</pubid>
+                   <pubid idtype="pmpid" link="fulltext">11605129</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B58">
+             <title>
+                <p>Deriving a preference-based measure for cancer using the EORTC QLQ-C30</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Rowen</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Brazier</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Young</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Gaugris</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Craig</snm>
+                   <fnm>BM</fnm>
+                </au>
+                <au>
+                   <snm>King</snm>
+                   <fnm>MT</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Value Health</source>
+             <pubdate>2011</pubdate>
+             <volume>14</volume>
+             <issue>5</issue>
+             <fpage>721</fpage>
+             <lpage>31</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.jval.2011.01.004</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21839411</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B59">
+             <title>
+                <p>Treating alcoholism reduces financial burden on care-givers and increases quality-adjusted life years</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Salize</snm>
+                   <fnm>HJ</fnm>
+                </au>
+                <au>
+                   <snm>Jacke</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Kief</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Franz</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Mann</snm>
+                   <fnm>K</fnm>
+                </au>
+             </aug>
+             <source>Addiction</source>
+             <pubdate>2013</pubdate>
+             <volume>108</volume>
+             <issue>1</issue>
+             <fpage>62</fpage>
+             <lpage>70</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1360-0443.2012.04002.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23005574</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B60">
+             <note>National Cancer Institute. Common Terminology Criteria for Adverse Events (CTCAE). 2010 (Version 4.0).</note>
+          </bibl>
+          <bibl id="B61">
+             <title>
+                <p>Randomized and non-randomized patients in clinical trials: experiences with comprehensive cohort studies</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Schmoor</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Olschewski</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Schumacher</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>Stat Med</source>
+             <pubdate>1996</pubdate>
+             <volume>15</volume>
+             <issue>3</issue>
+             <fpage>263</fpage>
+             <lpage>71</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1002/(SICI)1097-0258(19960215)15:3&lt;263::AID-SIM165&gt;3.0.CO;2-K</pubid>
+                   <pubid idtype="pmpid" link="fulltext">8643884</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B62">
+             <title>
+                <p>Imputation methods for missing outcome data in meta-analysis of clinical trials</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Higgins</snm>
+                   <fnm>JP</fnm>
+                </au>
+                <au>
+                   <snm>White</snm>
+                   <fnm>IR</fnm>
+                </au>
+                <au>
+                   <snm>Wood</snm>
+                   <fnm>AM</fnm>
+                </au>
+             </aug>
+             <source>Clin Trials</source>
+             <pubdate>2008</pubdate>
+             <volume>5</volume>
+             <issue>3</issue>
+             <fpage>225</fpage>
+             <lpage>39</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1177/1740774508091600</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18559412</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B63">
+             <title>
+                <p>Quality of life in patients undergoing systemic therapy for advanced breast cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bottomley</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Therasse</snm>
+                   <fnm>P</fnm>
+                </au>
+             </aug>
+             <source>Lancet Oncol</source>
+             <pubdate>2002</pubdate>
+             <volume>3</volume>
+             <issue>10</issue>
+             <fpage>620</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S1470-2045(02)00876-8</pubid>
+                   <pubid idtype="pmpid" link="fulltext">12372724</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B64">
+             <title>
+                <p>Update on interventions focused on symptom clusters: what has been tried and what have we learned?</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Berger</snm>
+                   <fnm>AM</fnm>
+                </au>
+                <au>
+                   <snm>Yennu</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Million</snm>
+                   <fnm>R</fnm>
+                </au>
+             </aug>
+             <source>Curr Opin Support Palliat Care</source>
+             <pubdate>2013</pubdate>
+             <volume>7</volume>
+             <issue>1</issue>
+             <fpage>60</fpage>
+             <lpage>6</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/SPC.0b013e32835c7d88</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23364298</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B65">
+             <title>
+                <p>Impact of complementary treatment of breast cancer patients with standardized mistletoe extract during aftercare: a controlled multicenter comparative epidemiological cohort study</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Beuth</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Schneider</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Schierholz</snm>
+                   <fnm>JM</fnm>
+                </au>
+             </aug>
+             <source>Anticancer Res</source>
+             <pubdate>2008</pubdate>
+             <volume>28</volume>
+             <issue>1b</issue>
+             <fpage>523</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">18383896</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B66">
+             <title>
+                <p>Effects of meditation on anxiety, depression, fatigue, and quality of life of women undergoing radiation therapy for breast cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kim</snm>
+                   <fnm>YH</fnm>
+                </au>
+                <au>
+                   <snm>Kim</snm>
+                   <fnm>HJ</fnm>
+                </au>
+                <au>
+                   <snm>Ahn</snm>
+                   <fnm>SD</fnm>
+                </au>
+                <au>
+                   <snm>Seo</snm>
+                   <fnm>YJ</fnm>
+                </au>
+                <au>
+                   <snm>Kim</snm>
+                   <fnm>SH</fnm>
+                </au>
+             </aug>
+             <source>Complement Ther Med</source>
+             <pubdate>2013</pubdate>
+             <volume>21</volume>
+             <issue>4</issue>
+             <fpage>379</fpage>
+             <lpage>87</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.ctim.2013.06.005</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23876569</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B67">
+             <title>
+                <p>The effects of P6 acupressure and nurse-provided counseling on chemotherapy-induced nausea and vomiting in patients with breast cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Suh</snm>
+                   <fnm>EE</fnm>
+                </au>
+             </aug>
+             <source>Oncol Nurs Forum</source>
+             <pubdate>2012</pubdate>
+             <volume>39</volume>
+             <issue>1</issue>
+             <fpage>E1</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1188/12.ONF.E1-E9</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22201663</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B68">
+             <title>
+                <p>Interventions for preventing oral mucositis for patients with cancer receiving treatment</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Worthington</snm>
+                   <fnm>HV</fnm>
+                </au>
+                <au>
+                   <snm>Clarkson</snm>
+                   <fnm>JE</fnm>
+                </au>
+                <au>
+                   <snm>Bryan</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Furness</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Glenny</snm>
+                   <fnm>AM</fnm>
+                </au>
+                <au>
+                   <snm>Littlewood</snm>
+                   <fnm>A</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Cochrane Database Syst Rev</source>
+             <pubdate>2011</pubdate>
+             <volume>4</volume>
+             <fpage>Cd000978</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">21491378</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B69">
+             <title>
+                <p>Reducing symptom limitations: a cognitive behavioral intervention randomized trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Doorenbos</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Given</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Given</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Verbitsky</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Cimprich</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>McCorkle</snm>
+                   <fnm>R</fnm>
+                </au>
+             </aug>
+             <source>Psychooncology</source>
+             <pubdate>2005</pubdate>
+             <volume>14</volume>
+             <issue>7</issue>
+             <fpage>574</fpage>
+             <lpage>84</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1002/pon.874</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15643674</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B70">
+             <title>
+                <p>A patient education program is effective in reducing cancer-related fatigue: a multi-centre randomized two-group waiting-list controlled intervention trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Reif</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>de Vries</snm>
+                   <fnm>U</fnm>
+                </au>
+                <au>
+                   <snm>Petermann</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Gorres</snm>
+                   <fnm>S</fnm>
+                </au>
+             </aug>
+             <source>Eur J Oncol Nurs</source>
+             <pubdate>2013</pubdate>
+             <volume>17</volume>
+             <issue>2</issue>
+             <fpage>204</fpage>
+             <lpage>13</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.ejon.2012.07.002</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22898654</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B71">
+             <title>
+                <p>Randomized controlled trial to evaluate the effects of progressive resistance training compared to progressive muscle relaxation in breast cancer patients undergoing adjuvant radiotherapy: the BEST study</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Potthoff</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Schmidt</snm>
+                   <fnm>ME</fnm>
+                </au>
+                <au>
+                   <snm>Wiskemann</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Hof</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Klassen</snm>
+                   <fnm>O</fnm>
+                </au>
+                <au>
+                   <snm>Habermann</snm>
+                   <fnm>N</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>BMC Cancer</source>
+             <pubdate>2013</pubdate>
+             <volume>13</volume>
+             <fpage>162</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1186/1471-2407-13-162</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23537231</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B72">
+             <title>
+                <p>Progressive resistance versus relaxation training for breast cancer patients during adjuvant chemotherapy: design and rationale of a randomized controlled trial (BEATE study)</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Schmidt</snm>
+                   <fnm>ME</fnm>
+                </au>
+                <au>
+                   <snm>Wiskemann</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Krakowski-Roosen</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Knicker</snm>
+                   <fnm>AJ</fnm>
+                </au>
+                <au>
+                   <snm>Habermann</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Schneeweiss</snm>
+                   <fnm>A</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Contemp Clin Trials</source>
+             <pubdate>2013</pubdate>
+             <volume>34</volume>
+             <issue>1</issue>
+             <fpage>117</fpage>
+             <lpage>25</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.cct.2012.10.006</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23103936</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B73">
+             <title>
+                <p>Adapted physical activity and diet (APAD) during adjuvant breast cancer therapy: design and implementation of a prospective randomized controlled trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Carayol</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Romieu</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Bleuse</snm>
+                   <fnm>JP</fnm>
+                </au>
+                <au>
+                   <snm>Senesse</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Gourgou-Bourgade</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Sari</snm>
+                   <fnm>C</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Contemp Clin Trials</source>
+             <pubdate>2013</pubdate>
+             <volume>36</volume>
+             <issue>2</issue>
+             <fpage>531</fpage>
+             <lpage>43</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.cct.2013.09.016</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24096188</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B74">
+             <title>
+                <p>The varied contribution of significant others to Complementary and Alternative Medicine (CAM) uptake by men with cancer: A qualitative analysis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Klafke</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Eliott</snm>
+                   <fnm>JA</fnm>
+                </au>
+                <au>
+                   <snm>Olver</snm>
+                   <fnm>IN</fnm>
+                </au>
+                <au>
+                   <snm>Wittert</snm>
+                   <fnm>GA</fnm>
+                </au>
+             </aug>
+             <source>Eur J Oncol Nurs</source>
+             <pubdate>2014</pubdate>
+             <volume>18</volume>
+             <issue>3</issue>
+             <fpage>329</fpage>
+             <lpage>36</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.ejon.2014.03.001</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24680598</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B75">
+             <title>
+                <p>The role of complementary and alternative medicine (CAM) routines and rituals in men with cancer and their significant others (SOs): a qualitative investigation</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Klafke</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Eliott</snm>
+                   <fnm>JA</fnm>
+                </au>
+                <au>
+                   <snm>Olver</snm>
+                   <fnm>IN</fnm>
+                </au>
+                <au>
+                   <snm>Wittert</snm>
+                   <fnm>GA</fnm>
+                </au>
+             </aug>
+             <source>Support Care Cancer</source>
+             <pubdate>2014</pubdate>
+             <volume>22</volume>
+             <issue>5</issue>
+             <fpage>1319</fpage>
+             <lpage>31</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1007/s00520-013-2090-2</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24366225</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B76">
+             <title>
+                <p>A meta-analytic investigation of the relationship between the psychological distress of cancer patients and their carers</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hodges</snm>
+                   <fnm>LJ</fnm>
+                </au>
+                <au>
+                   <snm>Humphris</snm>
+                   <fnm>GM</fnm>
+                </au>
+                <au>
+                   <snm>Macfarlane</snm>
+                   <fnm>G</fnm>
+                </au>
+             </aug>
+             <source>Soc Sci Med</source>
+             <pubdate>2005</pubdate>
+             <volume>60</volume>
+             <issue>1</issue>
+             <fpage>1</fpage>
+             <lpage>12</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.socscimed.2004.04.018</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15482862</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B77">
+             <title>
+                <p>The quality of life and social support in significant others of patients with breast cancer&#8211;a longitudinal study</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Salonen</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Rantanen</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Kellokumpu-Lehtinen</snm>
+                   <fnm>PL</fnm>
+                </au>
+                <au>
+                   <snm>Huhtala</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Kaunonen</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>Eur J Cancer Care</source>
+             <pubdate>2014</pubdate>
+             <volume>23</volume>
+             <issue>2</issue>
+             <fpage>274</fpage>
+             <lpage>83</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/ecc.12153</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+       </refgrp>
+    </bm>
+ </art>

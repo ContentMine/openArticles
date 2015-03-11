@@ -1,0 +1,1582 @@
+<?xml version='1.0'?>
+<!DOCTYPE art SYSTEM 'http://www.biomedcentral.com/xml/article.dtd'>
+<art>
+    <ui>s13063-014-0537-5</ui>
+    <ji>1745-6215</ji>
+    <fm>
+       <dochead>Study protocol</dochead>
+       <bibl>
+          <title>
+             <p>&#8220;High or low Inferior Mesenteric Artery ligation in Laparoscopic low Anterior Resection: study protocol for a randomized controlled trial&#8221; (HIGHLOW trial)</p>
+          </title>
+          <aug>
+             <au id="A1" ca="yes">
+                <snm>Mari</snm>
+                <fnm>Giulio</fnm>
+                <insr iid="I1"/>
+                <email>giul_mari@yahoo.it</email>
+             </au>
+             <au id="A2">
+                <snm>Maggioni</snm>
+                <fnm>Dario</fnm>
+                <insr iid="I1"/>
+                <email>dario.maggioni@aovimercate.org</email>
+             </au>
+             <au id="A3">
+                <snm>Costanzi</snm>
+                <fnm>Andrea</fnm>
+                <insr iid="I1"/>
+                <email>andrea.costanzi@aovimercate.org</email>
+             </au>
+             <au id="A4">
+                <snm>Miranda</snm>
+                <fnm>Angelo</fnm>
+                <insr iid="I1"/>
+                <email>angelo.Miranda@aovimercate.org</email>
+             </au>
+             <au id="A5">
+                <snm>Rigamonti</snm>
+                <fnm>Luca</fnm>
+                <insr iid="I1"/>
+                <email>rigamonti.luca@gmail.com</email>
+             </au>
+             <au id="A6">
+                <snm>Crippa</snm>
+                <fnm>Jacopo</fnm>
+                <insr iid="I1"/>
+                <email>jack0510@icloud.com</email>
+             </au>
+             <au id="A7">
+                <snm>Magistro</snm>
+                <fnm>Carmelo</fnm>
+                <insr iid="I2"/>
+                <email>carmelo.magistro@ospedaleniguarda.it</email>
+             </au>
+             <au id="A8">
+                <snm>Di Lernia</snm>
+                <fnm>Stefano</fnm>
+                <insr iid="I2"/>
+                <email>stefano.dilernia@ospedaleniguarda.it</email>
+             </au>
+             <au id="A9">
+                <snm>Forgione</snm>
+                <fnm>Antonello</fnm>
+                <insr iid="I2"/>
+                <email>antonello.forgione@ospedaleniguarda.it</email>
+             </au>
+             <au id="A10">
+                <snm>Carnevali</snm>
+                <fnm>Pietro</fnm>
+                <insr iid="I2"/>
+                <email>pietrocarne@gmail.com</email>
+             </au>
+             <au id="A11">
+                <snm>Nichelatti</snm>
+                <fnm>Michele</fnm>
+                <insr iid="I2"/>
+                <email>michele.nichelatti@ospedaleniguarda.it</email>
+             </au>
+             <au id="A12">
+                <snm>Carzaniga</snm>
+                <fnm>Pierluigi</fnm>
+                <insr iid="I3"/>
+                <email>p.carzaniga@ospedale.lecco.it</email>
+             </au>
+             <au id="A13">
+                <snm>Valenti</snm>
+                <fnm>Francesco</fnm>
+                <insr iid="I3"/>
+                <email>francescovalenti2004@libero.it</email>
+             </au>
+             <au id="A14">
+                <snm>Rovagnati</snm>
+                <fnm>Marco</fnm>
+                <insr iid="I1"/>
+                <email>m.rovagnati@ospedale.lecco.it</email>
+             </au>
+             <au id="A15">
+                <snm>Berselli</snm>
+                <fnm>Mattia</fnm>
+                <insr iid="I4"/>
+                <email>mattia.berselli@ospedale.varese.it</email>
+             </au>
+             <au id="A16">
+                <snm>Cocozza</snm>
+                <fnm>Eugenio</fnm>
+                <insr iid="I4"/>
+                <email>eugenio.cocozza@ospedale.varese.it</email>
+             </au>
+             <au id="A17">
+                <snm>Livraghi</snm>
+                <fnm>Lorenzo</fnm>
+                <insr iid="I4"/>
+                <email>Lorenzo.livraghi@ospedale.varese.it</email>
+             </au>
+             <au id="A18">
+                <snm>Origi</snm>
+                <fnm>Matteo</fnm>
+                <insr iid="I2"/>
+                <email>matteo.origin@gmail.com</email>
+             </au>
+             <au id="A19">
+                <snm>Scandroglio</snm>
+                <fnm>Ildo</fnm>
+                <insr iid="I5"/>
+                <email>iscandroglio@aobusto.it</email>
+             </au>
+             <au id="A20">
+                <snm>Roscio</snm>
+                <fnm>Francesco</fnm>
+                <insr iid="I5"/>
+                <email>froscio@aobusto.it</email>
+             </au>
+             <au id="A21">
+                <snm>De Luca</snm>
+                <fnm>Antonio</fnm>
+                <insr iid="I5"/>
+                <email>adeluca@aobusto.it</email>
+             </au>
+             <au id="A22">
+                <snm>Ferrari</snm>
+                <fnm>Giovanni</fnm>
+                <insr iid="I2"/>
+                <email>giovanni.ferrari@ospedaleniguarda.it</email>
+             </au>
+             <au id="A23">
+                <snm>Pugliese</snm>
+                <fnm>Raffaele</fnm>
+                <insr iid="I2"/>
+                <email>raffaele.pugliese@ospedaleniguarda.it</email>
+             </au>
+          </aug>
+          <insg>
+             <ins id="I1">
+                <p>Dipartimento di Chirurgia Generale, AO Vimercate, Ospedale di Desio, Vimercate, Italy</p>
+             </ins>
+             <ins id="I2">
+                <p>Dipartimento di Chirurgia Generale e Videolaparoscopia, Ospedale Niguarda Ca&#8217; Granda di Milano, Milan, Italy</p>
+             </ins>
+             <ins id="I3">
+                <p>Dipartimento di Chirurgia Generale, AO Provincia di Lecco, Ospedale di Merate, Lecco, Italy</p>
+             </ins>
+             <ins id="I4">
+                <p>Dipartimento di Chirurgia Generale, Ospedale di Circolo di Varese, Varese, Italy</p>
+             </ins>
+             <ins id="I5">
+                <p>Dipartimento di Chirurgia Generale, AO Busto Arsizion, Ospedale di Tradate, Tradate, Italy</p>
+             </ins>
+          </insg>
+          <source>Trials</source>
+          <issn>1745-6215</issn>
+          <pubdate>2015</pubdate>
+          <volume>16</volume>
+          <issue>1</issue>
+          <fpage>21</fpage>
+          <url>http://www.trialsjournal.com/content/16/1/21</url>
+          <xrefbib>
+             <pubidlist>
+                <pubid idtype="doi">10.1186/s13063-014-0537-5</pubid>
+             </pubidlist>
+          </xrefbib>
+       </bibl>
+       <history>
+          <rec>
+             <date>
+                <day>18</day>
+                <month>8</month>
+                <year>2014</year>
+             </date>
+          </rec>
+          <acc>
+             <date>
+                <day>19</day>
+                <month>12</month>
+                <year>2014</year>
+             </date>
+          </acc>
+          <pub>
+             <date>
+                <day>27</day>
+                <month>1</month>
+                <year>2015</year>
+             </date>
+          </pub>
+       </history>
+       <cpyrt>
+          <year>2015</year>
+          <collab>Mari et al.; licensee BioMed Central.</collab>
+          <note>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/4.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (<url>http://creativecommons.org/publicdomain/zero/1.0/</url>) applies to the data made available in this article, unless otherwise stated.</note>
+       </cpyrt>
+       <kwdg>
+          <kwd>Genito-urinary function</kwd>
+          <kwd>inferior mesenteric artery ligation;anastomotic leakage</kwd>
+          <kwd>rectal cancer</kwd>
+          <kwd>laparoscopic low anterior resection</kwd>
+          <kwd>oncological outcome</kwd>
+       </kwdg>
+       <abs>
+          <sec>
+             <st>
+                <p>Abstract</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Background</p>
+                </st>
+                <p>The position of arterial ligation during laparoscopic anterior rectal resection with total mesorectal excision can affect genito-urinary function, bowel function, oncological outcomes, and the incidence of anastomotic leakage. Ligation to the inferior mesenteric artery at the origin or preservation of the left colic artery are both widely performed in rectal surgery. The aim of this study is to compare the incidence of genito-urinary dysfunction, anastomotic leak and oncological outcomes in laparoscopic anterior rectal resection with total mesorectal excision with high or low ligation of the inferior mesenteric artery in a controlled randomized trial.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Methods/design</p>
+                </st>
+                <p>The HIGHLOW study is a multicenter randomized controlled trial in which patients are randomly assigned to high or low inferior mesenteric artery ligation during laparoscopic anterior rectal resection with total mesorectal excision for rectal cancer. Inclusion criteria are middle or low rectal cancer (0 to 12 cm from the anal verge), an American Society of Anesthesiologists score of I, II, or III, and a body mass index lower than 30. The primary end-point measure is the incidence of post-operative genito-urinary dysfunction. The secondary end-point measure is the incidence of anastomotic leakage in the two groups. A total of 200 patients (100 per arm) will reliably have 84.45 power in estimating a 20% difference in the incidence of genito-urinary dysfunctions. With a group size of 100 patients per arm it is possible to find a significant difference (&#945; = 0.05, &#946; = 0.1555). Allowing for an estimated dropout rate of 5%, the required sample size is 212 patients.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Discussion</p>
+                </st>
+                <p>The HIGHLOW trial is a randomized multicenter controlled trial that will provide evidence on the merits of the level of arterial ligation during laparoscopic anterior rectal resection with total mesorectal excision in terms of better preserved post-operative genito-urinary function.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Trial registration</p>
+                </st>
+                <p>ClinicalTrials.gov Identifier: <url>NCT02153801</url>
+                  </p>
+                <p>Protocol Registration Receipt 29/5/2014.</p>
+             </sec>
+          </sec>
+       </abs>
+    </fm>
+    <bdy>
+       <sec>
+          <st>
+             <p>Background</p>
+          </st>
+          <p>Colorectal cancer incidence and mortality rates vary around the world. Globally, colorectal cancer is the third most commonly diagnosed cancer in men and the second in women <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>. Surgical treatment of rectal cancer has changed radically in recent years. The introduction of total mesorectal excision <abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp>, neo-adjuvant therapy protocols <abbrgrp>
+                <abbr bid="B3">3</abbr>
+             </abbrgrp>, and the laparoscopic approach <abbrgrp>
+                <abbr bid="B4">4</abbr>
+             </abbrgrp> has made rectal cancer treatment a multidisciplinary management.</p>
+          <p>While laparoscopic resection of colon cancer has slowly gained acceptance worldwide, the role of laparoscopy in the treatment of rectal cancer is still controversial <abbrgrp>
+                <abbr bid="B4">4</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B5">5</abbr>
+             </abbrgrp>. The laparoscopic treatment of rectal cancer raises specific issues related to its anatomical location: difficult exposure in a narrow pelvis, challenging nerve-sparing techniques, low intestinal transection, and total mesorectal excision <abbrgrp>
+                <abbr bid="B6">6</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B7">7</abbr>
+             </abbrgrp>. Ligation of the inferior mesenteric artery at the origin and mobilization of the splenic flexure are not routinely done worldwide <abbrgrp>
+                <abbr bid="B8">8</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B11">11</abbr>
+             </abbrgrp>. The need for well-designed studies to compare the different vascular approaches in rectal surgery has been clearly expressed <abbrgrp>
+                <abbr bid="B12">12</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B14">14</abbr>
+             </abbrgrp>.</p>
+          <p>The level of arterial ligation can affect genito-urinary function (injury to the superior hypogastric plexus), the extent (and yield) of lymphadenectomy, and distal colonic arterial perfusion (especially in older people, where distal colonic arterial perfusion could be deficient due to degenerative disease), and causesympathetic nerve injures <abbrgrp>
+                <abbr bid="B15">15</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B19">19</abbr>
+             </abbrgrp>. Moreover, colonic stump blood supply and anastomosis tension are the main factors in developing leaks in rectal surgery <abbrgrp>
+                <abbr bid="B20">20</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B26">26</abbr>
+             </abbrgrp> and are dependent on the level of ligation.</p>
+          <p>The aim of this study is to compare the incidence of genito-urinary dysfunction and, secondarily, the incidence of anastomotic leakage and the oncological outcomes in laparoscopic anterior rectal resection with total mesorectal excision with high or low ligation of the inferior mesenteric artery in a controlled randomized trial.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Methods/design</p>
+          </st>
+          <sec>
+             <st>
+                <p>Study design</p>
+             </st>
+             <p>The HIGHLOW study is a multicenter controlled trial. Patients are randomly assigned to high or low inferior mesenteric artery during laparoscopy once the surgeon has confirmed intraoperatively, that all inclusion criteria are fulfilled and that the procedure is feasible. All participating surgeons have performed at least 20 laparoscopic procedures per year during the past 5 years. Randomization is performed using sealed envelopes (Figure&#160;<figr fid="F1">1</figr>).
+                  </p>
+             
+                <fig id="F1">
+                   <title>
+                      <p>Figure 1</p>
+                   </title>
+                   <caption>
+                      <p>Study flowchart. </p>
+                   </caption>
+                   <text>
+                      <p>
+                            <b>Study flowchart.</b> LAR: Laparoscopic Anterior Resection. TME: Total Mesorectal Excision.</p>
+                   </text>
+                   <graphic file="s13063-014-0537-5-1"/>
+                </fig>
+             
+          </sec>
+          <sec>
+             <st>
+                <p>Primary and secondary endpoint measures</p>
+             </st>
+             <p>The primary end-point measure is the incidence of post-operative genito-urinary dysfunction compared with a preoperative base-line assessment in both groups. The secondary endpoint measures are the incidence of clinical or subclinical anastomotic leakage in the two groups and the oncological outcomes in both groups.</p>
+             <p>The incidence of clinical or subclinical anastomotic leaks will be determined either as the presence of a radiologically, endoscopically, or surgically proved fistula or as the presence of a subclinical leak observed by endoscopic examination 30 days after surgery in both groups.</p>
+             <p>Oncological outcomes will be assessed in terms of retrieved lymph nodes, number of positive lymph nodes on the root of the inferior mesenteric artery total number of lymph nodes of the mesorectum, and positive lymph nodes of the mesorectum, disease-free survival, overall survival, local recurrence, distant metastasis in both groups.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Participating centers and</p>
+             </st>
+             <p>Five non-academic public Italian hospitals will enroll patients.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Study population</p>
+             </st>
+             <p>The study population consists of patients with cancer of the lower two-thirds of the rectum, who are eligible for laparoscopic low rectal resection with total mesorectal excision.</p>
+             <p>Inclusion criteria are middle or low rectal cancer (from 0 to 12 cm from the dental line), an American Society of Anesthesiologists score of I, II, or III, and a body mass index less than 30. The study will include both preoperatively irradiated and non-irradiated patients.</p>
+             <p>Exclusion criteria are prior surgery on the abdominal aorta and proven arteriosclerosis of the inferior mesenteric artery and its branches.</p>
+             <p>The study will include both pre operatively irradiated and non-irradiated patients.</p>
+             <p>Exclusion criteria: prior surgery on the abdominal aorta, proven arterosclerosis of IMA and IMA branches.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Ethical considerations</p>
+             </st>
+             <p>This study is conducted in accordance with the principles of the Declaration of Helsinki and &#8220;good clinical practice&#8221; guidelines. The study was approved by a Central Ethics Committee (list of names of the Ethical Body in Additional file <supplr sid="S1">1</supplr>). Prior to randomization written informed consent will be obtained from all patients.</p></sec>
+          <sec>
+             <st>
+                <p>Preoperative evaluation</p>
+             </st>
+             <p>Patients with a preoperative diagnosis of adenocarcinoma of the middle or lower rectum and who satisfy the inclusion criteria will be asked to participate in the HIGHLOW trial. Once informed consent is obtained, investigations will include questionnaires for the International Index of Erectile Function <abbrgrp>
+                   <abbr bid="B27">27</abbr>
+                </abbrgrp>, International Consultation on Incontinence Questionnaire <abbrgrp>
+                   <abbr bid="B28">28</abbr>
+                </abbrgrp>, International Prostatic Symptoms Score, Female Sexual Function Inde <abbrgrp>
+                   <abbr bid="B29">29</abbr>
+                </abbrgrp> Uroflowmetry and ultrasound measurement of post-void bladder volume will be performed pre-operatively for all patients.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Surgery</p>
+             </st>
+             <p>The following steps are required in all cases, independently of randomization.</p>
+             <sec>
+                <st>
+                   <p>Laparoscopic anterior rectal resection with total mesorectal excision (without pelvic cylindrical excixion)</p>
+                </st>
+                <p>The first step consist in the opening of the left part of the gastrocolic ligament and the division of the left part of transverse mesocolon. The splenocolic and phrenocolic attachments are then divided, achieving complete dissection of the left colonic angle. The pelvic peritoneum is opened below the sacral promontory and the hypogastric nerves are identified and preserved. The common iliac veins, the genitofemoral nerve, the gonadic vessels, and the left ureter are successively identified and preserved.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>For high ligation</p>
+                </st>
+                <p>The opening of the peritoneum proceeds cephalad, towards the duodenojejunal angle of Treitz, and the mesenteric root is incised 1 cm below the inferior margin of the pancreas. The aortomesenteric window is opened wide and the inferior mesenteric vessels are exposed. The inferior mesenteric artery is ligated and divided at 2 cm from its origin. The inferior mesenteric vein is ligated and divided below the pancreatic margin</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>For low ligation</p>
+                </st>
+                <p>The opening of the peritoneum proceeds upward and then laterally towards the sigmoid colon. The leftcolic artery is identified and preserved while low ligation of the inferior mesenteric artery (the superior hemorrhoidal artery) is performed. Lymphadenectomy is performed medially along the inferior mesenteric artery as far as 2 cm from the aorta.</p>
+                <p>For both groups, dissection is then continued windowing Toldt&#8217;s and Gerota&#8217;s fascias up to the parietocolic gutter. Intra-pelvic dissection is carried out through standardized planes. Dissection of the rectum starts by incision of the peritoneal fold in the pelvis. Mesorectal excision starts posteriorly by dissection through Heald&#8217;s &#8220;holy plane&#8221;, it carries on towards the lateral region of the rectum, sparing the lateral part of the lateral rectal ligaments, and extends on the anterior side in front of Denonvilliers&#8217; fascia.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Post-operative evaluation</p>
+             </st>
+             <p>Colonoscopy will be performed 30 days after surgery to evaluate anastomosis (leakage, signs of ischemia) <abbrgrp>
+                   <abbr bid="B26">26</abbr>
+                </abbrgrp>. Accurate description and pictures of the anastomosis will be produced. Questionnaires for the Internation Index of Erectile Function <abbrgrp>
+                   <abbr bid="B27">27</abbr>
+                </abbrgrp>, International Consultation on Incontinence Questionnaire <abbrgrp>
+                   <abbr bid="B28">28</abbr>
+                </abbrgrp>, International Prostatic Symptoms Score, and Female Sexual Function Index <abbrgrp>
+                   <abbr bid="B29">29</abbr>
+                </abbrgrp> will be administrated, and uroflowmetry and ultrasound measurement of post-void bladder volume will be performed 1 and 9 months post-operatively. Retrieved lymph nodes will be collected from the histopathological examination, and the number of positive lymph nodes on the root of the inferior mesenteric artery, the total number of lymph nodes on the mesorectum, and the number of positive lymph nodes on the mesorectum will be recorded Oncological follow up will be carried out for 5 years, according to National Comprehensive Cancer Network Guidelines <abbrgrp>
+                   <abbr bid="B30">30</abbr>
+                </abbrgrp> Version 1.2015 Rectal Cancer/Surveillance (<url>www.nccn.org</url>).</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Sample size calculation</p>
+             </st>
+             <p>A two tail Fischer exact test applied to two cohorts of 100 patients each will have 84.45 power in estimating a 20% difference in the incidence of genitor-urinary dysfunctions. With a group size of 100 patients per arm it is possible to find a significant difference (&#945;= 0.05, &#946;= 0.1555).</p>
+             <p>With a drop-out estimated rate of 5%, the required sample size is 212 patients. If the number of drop-outs exceed 5%, we plan to ask the ethics committee to enroll more patients to be able to keep the power of analysis well above 80%.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Statistical analysis</p>
+             </st>
+             <p>The Primary end-point measure will be evaluated using Fisher&#8217;s exact test (one-sided). The different incidences of genitor-urinary dysfunction according to sex and the results of each questionnaire will be evaluated using the Mann&#8211;Whitney <it>U test</it> and the <it>t-</it>test. Mc Nemar&#8217;s test will be used to evaluate changes in questionnaires results overtime. Statistical analysis will be performed in accordance with the intention-to-treat principle.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Data collection and monitoring</p>
+             </st>
+             <p>Data will be collected daily using an Access database by one physician for each hospital and referred to a research fellow who will monitor the included data for all institutions. Patients will fill out questionnaires during pre and post-operative physical examinations. There will be regular contact between the study coordinators and the participating centers through scheduled meetings every 3 months. Uroflowmetry and ultrasound measurement of post-void bladder volume will be performed by the urologists of each institution, colonoscopies will be performed by endoscopists of each institution.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Discussion</p>
+          </st>
+          <p>The discussion of the benefits or disadvantages between high tie and low tie in rectal surgery continues to be debated. Retrospective evaluations <abbrgrp>
+                <abbr bid="B9">9</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B31">31</abbr>
+             </abbrgrp> have not produced a high level of significance regarding this issue. On the one hand, the risk of poor blood supply of the anastomosis could outweigh the oncological benefits of performing high ligation of the inferior mesenteric artery routinely, on the other hand a more powerful disease staging achieved with high ligation of the inferior mesenteric artery is found to be associated with an acceptable anastomotic leak rate. There is an increased risk of poor colonic stump blood supply when relying on the marginal artery alone, therefore, if this artery is not adequate, a more extended intestinal resection has to be performed, even if it is oncologically unnecessary. Performing lymphadenectomy extending to the origin of the inferior mesenteric artery even for low ligation provides data on the disease involvement of apical nodes. A significantly lower incidence of anastomotic leak in one or other group could indicate a technical policy for patients for which the vascular component might play a key role. Reduction of fistula in laparoscopic anterior rectal resection will produce a significant improvement in quality of life for these patients. Investigating pre and post-operatibegenitor-urinary function will provide a more complete assessment of the impact of laparoscopic anterior rectal resection on functional outcomes. Arterial ligation far from the hypogastric plexus could help in preserving pelvic autonomic functions, giving a better quality of life to patients.</p>
+          <p>We expect the low tie group to present a lower rate of genito-urinary function depression and post-operative fistula because of the better blood supply provided and better nerve sparing achieved.cpr</p>
+          <sec>
+             <st>
+                <p>Trial status</p>
+             </st>
+             <p>The study is not yet open for participant recruitment.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Abbreviations</p>
+          </st>
+          <p>LAR: Laparoscopic Anterior Rectal Resection</p>
+          <p>TME: Total Mesorectal Excision</p>
+          <p>IMA: Inferior Mesenteric Artery</p>
+          <p>LCA: Left Colic Artery</p>
+          <p>ASA: American Society of Anesthesiologists</p>
+          <p>GU: Genito-Urinary</p>
+          <p>CRC: Colo-Rectal Cancer</p>
+          <p>BMI: Body mass Index</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Competing interests</p>
+          </st>
+          <p>The authors declare that they have no competing interests.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Authors&#8217; contributions</p>
+          </st>
+          <p>All authors have made substantial contributions to either conception and design, acquisition of data, or analysis and interpretation of data. All authors have read and approved the final manuscript. MG: conceived the study and carries out the direction of the study. MD: conceived the study, performs the surgical procedure. CA: performs the surgical procedure. MA: carries out the enrollment and the follow up. RL: carries out the enrollment and the follow up. CJ: carries out the enrollment and the follow up. MC: carries out the enrollment and the follow up. DLS: carries out the enrollment and the follow up. FA: carries out the enrollment and the follow up. CP: carries out the enrollment and the follow up. NM: carries uut the statistical analysis. PC: performs the surgical procedure. VF: carries out the enrollment and the follow up. RM: carries out the enrollment and the follow up. BM: carries out the enrollment and the follow up. CE: performs the surgical procedure. LL: performs the surgical procedure. OM: carries out the enrollment and the follow up. SI: performs the surgical procedure. RF: carries out the enrollment and the follow up. DLA: carries out the enrollment and the follow up. FG: performs the surgical procedure. PR: carries out the enrollment and the follow up. All authors read and approved the final manuscript.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Additional file</p>
+          </st>
+          <suppl id="S1">
+             <title>
+                <p>Additional file 1:</p>
+             </title>
+             <text>
+                <p>
+                              <b>Title and legend section.</b>                            
+                </p>
+             </text>
+             <file name="s13063-014-0537-5-S1.pdf">
+                <p>Click here for file</p>
+             </file>
+          </suppl>
+          
+       </sec>
+    </bdy>
+    <bm>
+       <ack>
+          <sec>
+             <st>
+                <p>Acknowledgements</p>
+             </st>
+             <p>No sponsorship was received for this study. All work was up to the authors of the paper.</p>
+          </sec>
+       </ack>
+       <refgrp>
+          
+          <bibl id="B1">
+             <title>
+                <p>Global cancer statistics</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Jemal</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Bray</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Center</snm>
+                   <fnm>MM</fnm>
+                </au>
+                <au>
+                   <snm>Ferlay</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Ward</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Forman</snm>
+                   <fnm>D</fnm>
+                </au>
+             </aug>
+             <source>CA Cancer J Clin</source>
+             <pubdate>2011</pubdate>
+             <volume>61</volume>
+             <fpage>69</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.3322/caac.20107</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21296855</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B2">
+             <title>
+                <p>A systematic review of cancer related patient outcomes after anterior resection and abdominoperineal excision for rectal cancer in the total mesorectal excision era</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Brown</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Quirke</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Heald</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Moran</snm>
+                   <fnm>B</fnm>
+                </au>
+             </aug>
+             <source>Surg Oncol</source>
+             <pubdate>2011</pubdate>
+             <volume>20</volume>
+             <issue>4</issue>
+             <fpage>e149</fpage>
+             <lpage>55</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.suronc.2011.05.001</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21632237</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B3">
+             <title>
+                <p>Complete response after neoadjuvant therapy in rectal cancer: to operate or not to operate?</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Dedemadi</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Wexner</snm>
+                   <fnm>SD</fnm>
+                </au>
+             </aug>
+             <source>Dig Dis</source>
+             <pubdate>2012</pubdate>
+             <volume>30</volume>
+             <issue>Suppl 2</issue>
+             <fpage>109</fpage>
+             <lpage>17</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1159/000342039</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23207942</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B4">
+             <title>
+                <p>Laparoscopy for rectal cancer reduces short-term mortality and morbidity: results of a systematic review and meta-analysis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Arezzo</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Passera</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Scozzari</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Verra</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Morino</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>Surg Endosc</source>
+             <pubdate>2013</pubdate>
+             <volume>27</volume>
+             <issue>5</issue>
+             <fpage>1485</fpage>
+             <lpage>502</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1007/s00464-012-2649-x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23183871</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B5">
+             <title>
+                <p>Short termbenefits for laparoscopic colorectal resection</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Schwenk</snm>
+                   <fnm>W</fnm>
+                </au>
+                <au>
+                   <snm>Haase</snm>
+                   <fnm>O</fnm>
+                </au>
+                <au>
+                   <snm>Neudecker</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>Cochrane Database Syst Rev</source>
+             <pubdate>2005</pubdate>
+             <volume>20</volume>
+             <issue>3</issue>
+             <fpage>CD003145</fpage>
+          </bibl>
+          <bibl id="B6">
+             <title>
+                <p>What is the established contribution of laparoscopy in the treatment of rectal cancer?</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kirzin</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Lo Dico</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Portier</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Pocard</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>J Visc Surg</source>
+             <pubdate>2012</pubdate>
+             <volume>149</volume>
+             <issue>6</issue>
+             <fpage>371</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.jviscsurg.2012.10.011</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23142401</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B7">
+             <title>
+                <p>An improved technique for low anterior resection of the rectum using the EEA stapler</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Knight</snm>
+                   <fnm>CD</fnm>
+                </au>
+                <au>
+                   <snm>Griffen</snm>
+                   <fnm>FD</fnm>
+                </au>
+             </aug>
+             <source>Surgery</source>
+             <pubdate>1980</pubdate>
+             <volume>88</volume>
+             <fpage>710</fpage>
+             <lpage>4</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">7434211</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B8">
+             <title>
+                <p>Current technique of laparoscopic total mesorectal excision (TME): an international questionnaire among 368 surgeons</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Cjeung</snm>
+                   <fnm>YM</fnm>
+                </au>
+                <au>
+                   <snm>Lange</snm>
+                   <fnm>MM</fnm>
+                </au>
+                <au>
+                   <snm>Buunen</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Lange</snm>
+                   <fnm>JF</fnm>
+                </au>
+             </aug>
+             <source>Surg Endosc</source>
+             <pubdate>2009</pubdate>
+             <volume>23</volume>
+             <fpage>2796</fpage>
+             <lpage>801</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1007/s00464-009-0566-4</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B9">
+             <title>
+                <p>High tie versus low tie of the inferior mesenteric artery in colorectal cancer: a RCT is needed</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Cirocchi</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Trastulli</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Farinella</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Desiderio</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Vettoretto</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Parisi</snm>
+                   <fnm>A</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Surg Oncol</source>
+             <pubdate>2012</pubdate>
+             <volume>21</volume>
+             <issue>3</issue>
+             <fpage>e111</fpage>
+             <lpage>23</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.suronc.2012.04.004</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22770982</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B10">
+             <title>
+                <p>High tie versus low tie of the inferior mesenteric artery: a protocol for a systematic review</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Cirocchi</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Farinella</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Trastulli</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Desiderio</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Di Rocco</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Covarelli</snm>
+                   <fnm>P</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>World J Surg Oncol</source>
+             <pubdate>2011</pubdate>
+             <volume>9</volume>
+             <fpage>147</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1186/1477-7819-9-147</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22071020</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B11">
+             <title>
+                <p>High ligation of the inferior mesenteric artery in rectal cancer surgery</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hida</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Okuno</snm>
+                   <fnm>K</fnm>
+                </au>
+             </aug>
+             <source>Surg Today</source>
+             <pubdate>2013</pubdate>
+             <volume>43</volume>
+             <fpage>8</fpage>
+             <lpage>19</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1007/s00595-012-0359-6</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23052748</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B12">
+             <title>
+                <p>Level of arterial ligation in total mesorectal excision (TME): an anatomical study</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Buunen</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Lange</snm>
+                   <fnm>MM</fnm>
+                </au>
+                <au>
+                   <snm>Ditzel</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Kleinrensink</snm>
+                   <fnm>GJ</fnm>
+                </au>
+                <au>
+                   <snm>van de Velde</snm>
+                   <fnm>CJ</fnm>
+                </au>
+                <au>
+                   <snm>Lange</snm>
+                   <fnm>JF</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Int J Colorectal Dis</source>
+             <pubdate>2009</pubdate>
+             <volume>24</volume>
+             <issue>11</issue>
+             <fpage>1317</fpage>
+             <lpage>20</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1007/s00384-009-0761-8</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19609537</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B13">
+             <title>
+                <p>High tie versus low tie vascular ligation of the inferior mesenteric artery in colorectal cancer surgery: impact on the gain in colon length and implications on the feasibility of anastomoses</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bonnet</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Berger</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Hentati</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Abid</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Chevallier</snm>
+                   <fnm>JM</fnm>
+                </au>
+                <au>
+                   <snm>Wind</snm>
+                   <fnm>P</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Dis Colon Rectum</source>
+             <pubdate>2012</pubdate>
+             <volume>55</volume>
+             <issue>5</issue>
+             <fpage>515</fpage>
+             <lpage>21</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/DCR.0b013e318246f1a2</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22513429</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B14">
+             <title>
+                <p>Laparoscopic anterior resection of rectal carcinoma with preservation of the left colonic artery</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Wu</snm>
+                   <fnm>JH</fnm>
+                </au>
+                <au>
+                   <snm>Rong</snm>
+                   <fnm>ZX</fnm>
+                </au>
+                <au>
+                   <snm>Zhu</snm>
+                   <fnm>DJ</fnm>
+                </au>
+                <au>
+                   <snm>Chen</snm>
+                   <fnm>XW</fnm>
+                </au>
+                <au>
+                   <snm>Ren</snm>
+                   <fnm>BJ</fnm>
+                </au>
+             </aug>
+             <source>Nan Fang Yi Ke Da Xue Xue Bao</source>
+             <pubdate>2009</pubdate>
+             <volume>29</volume>
+             <issue>6</issue>
+             <fpage>1249</fpage>
+             <lpage>50</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">19726377</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B15">
+             <title>
+                <p>Prognostic impact of inferior mesenteric artery lymph node metastasis in colorectal cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kang</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Hur</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Min</snm>
+                   <fnm>BS</fnm>
+                </au>
+                <au>
+                   <snm>Kim</snm>
+                   <fnm>NK</fnm>
+                </au>
+                <au>
+                   <snm>Lee</snm>
+                   <fnm>KY</fnm>
+                </au>
+             </aug>
+             <source>Ann Surg Oncol</source>
+             <pubdate>2011</pubdate>
+             <volume>18</volume>
+             <issue>3</issue>
+             <fpage>704</fpage>
+             <lpage>10</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1245/s10434-010-1291-x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20857225</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B16">
+             <title>
+                <p>Impact of upward lymph node dissection on survival rates in advanced lower rectal carcinoma</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Uehara</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Yamamoto</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Fujita</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Akasu</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Moriya</snm>
+                   <fnm>Y</fnm>
+                </au>
+             </aug>
+             <source>Dig Surg</source>
+             <pubdate>2007</pubdate>
+             <volume>24</volume>
+             <issue>5</issue>
+             <fpage>375</fpage>
+             <lpage>81</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1159/000107779</pubid>
+                   <pubid idtype="pmpid" link="fulltext">17785983</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B17">
+             <title>
+                <p>The oncologic benefit of high ligation of the inferior mesenteric artery in the surgical treatment of rectal or sigmoid colon cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Chin</snm>
+                   <fnm>CC</fnm>
+                </au>
+                <au>
+                   <snm>Yeh</snm>
+                   <fnm>CY</fnm>
+                </au>
+                <au>
+                   <snm>Tang</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Changchien</snm>
+                   <fnm>CR</fnm>
+                </au>
+                <au>
+                   <snm>Huang</snm>
+                   <fnm>WS</fnm>
+                </au>
+                <au>
+                   <snm>Wang</snm>
+                   <fnm>JY</fnm>
+                </au>
+             </aug>
+             <source>Int J Colorectal Dis</source>
+             <pubdate>2008</pubdate>
+             <volume>23</volume>
+             <issue>8</issue>
+             <fpage>783</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1007/s00384-008-0465-5</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18438677</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B18">
+             <title>
+                <p>Influence of prophylactic apical node dissection of the inferior mesenteric artery on prognosis of colorectal cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Ikeda</snm>
+                   <fnm>Y</fnm>
+                </au>
+                <au>
+                   <snm>Shimabukuro</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Saitsu</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Saku</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Maehara</snm>
+                   <fnm>Y</fnm>
+                </au>
+             </aug>
+             <source>Hepatogastroenterology</source>
+             <pubdate>2007</pubdate>
+             <volume>54</volume>
+             <issue>79</issue>
+             <fpage>1985</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">18251144</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B19">
+             <title>
+                <p>The clinicopathological significance of inferior mesenteric lymph node metastasis in colorectal cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kim</snm>
+                   <fnm>JC</fnm>
+                </au>
+                <au>
+                   <snm>Lee</snm>
+                   <fnm>KH</fnm>
+                </au>
+                <au>
+                   <snm>Yu</snm>
+                   <fnm>CS</fnm>
+                </au>
+                <au>
+                   <snm>Kim</snm>
+                   <fnm>HC</fnm>
+                </au>
+                <au>
+                   <snm>Kim</snm>
+                   <fnm>JR</fnm>
+                </au>
+                <au>
+                   <snm>Chang</snm>
+                   <fnm>HM</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Eur J Surg Oncol</source>
+             <pubdate>2004</pubdate>
+             <volume>30</volume>
+             <issue>3</issue>
+             <fpage>271</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.ejso.2003.12.002</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15028308</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B20">
+             <title>
+                <p>The angiographic anatomy of the small arteries and their collaterals in colorectal resections: some insights into anastomotic perfusion</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Allison</snm>
+                   <fnm>AS</fnm>
+                </au>
+                <au>
+                   <snm>Bloor</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Faux</snm>
+                   <fnm>W</fnm>
+                </au>
+                <au>
+                   <snm>Arumugam</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Widdison</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Lloyd-Davies</snm>
+                   <fnm>E</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Ann Surg</source>
+             <pubdate>2010</pubdate>
+             <volume>251</volume>
+             <issue>6</issue>
+             <fpage>1092</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/SLA.0b013e3181deb649</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20485132</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B21">
+             <title>
+                <p>High tie versus low tie in rectal surgery: comparison of anastomotic perfusion</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Komen</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Slieker</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>de Kort</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>de Wilt</snm>
+                   <fnm>JH</fnm>
+                </au>
+                <au>
+                   <snm>van der Harst</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Coene</snm>
+                   <fnm>PP</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Int J Colorectal Dis</source>
+             <pubdate>2011</pubdate>
+             <volume>26</volume>
+             <issue>8</issue>
+             <fpage>1075</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1007/s00384-011-1188-6</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21445553</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B22">
+             <title>
+                <p>Anastomotic leakage after low rectal stapler anastomosis: significance of intraoperative anastomotic testing</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Schmidt</snm>
+                   <fnm>O</fnm>
+                </au>
+                <au>
+                   <snm>Merkel</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Hohenberger</snm>
+                   <fnm>W</fnm>
+                </au>
+             </aug>
+             <source>Eur J Surg Oncol</source>
+             <pubdate>2003</pubdate>
+             <volume>29</volume>
+             <issue>3</issue>
+             <fpage>239</fpage>
+             <lpage>43</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1053/ejso.2002.1416</pubid>
+                   <pubid idtype="pmpid" link="fulltext">12657233</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B23">
+             <title>
+                <p>Intraoperative anastomotic dye test significantly decreases incidence of anastomitic leaks in patients undergoing resection for rectal cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Chen</snm>
+                   <fnm>CW</fnm>
+                </au>
+                <au>
+                   <snm>Chen</snm>
+                   <fnm>MJ</fnm>
+                </au>
+                <au>
+                   <snm>Yeh</snm>
+                   <fnm>YS</fnm>
+                </au>
+                <au>
+                   <snm>Tsai</snm>
+                   <fnm>HL</fnm>
+                </au>
+                <au>
+                   <snm>Chang</snm>
+                   <fnm>YT</fnm>
+                </au>
+                <au>
+                   <snm>Wang</snm>
+                   <fnm>JY</fnm>
+                </au>
+             </aug>
+             <source>Tech Coloproctol</source>
+             <pubdate>2013</pubdate>
+             <volume>17</volume>
+             <issue>5</issue>
+             <fpage>579</fpage>
+             <lpage>83</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1007/s10151-012-0910-x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23104550</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B24">
+             <title>
+                <p>The use of indocyanine green fluorescence to assess anastomotic perfusion during robotic assisted laparoscopic rectal surgery</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Jafari</snm>
+                   <fnm>MD</fnm>
+                </au>
+                <au>
+                   <snm>Lee</snm>
+                   <fnm>KH</fnm>
+                </au>
+                <au>
+                   <snm>Halabi</snm>
+                   <fnm>WJ</fnm>
+                </au>
+                <au>
+                   <snm>Mills</snm>
+                   <fnm>SD</fnm>
+                </au>
+                <au>
+                   <snm>Carmichael</snm>
+                   <fnm>JC</fnm>
+                </au>
+                <au>
+                   <snm>Stamos</snm>
+                   <fnm>MJ</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Surg Endosc</source>
+             <pubdate>2013</pubdate>
+             <volume>27</volume>
+             <issue>8</issue>
+             <fpage>3003</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1007/s00464-013-2832-8</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23404152</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B25">
+             <title>
+                <p>Use of routine intraoperative endoscopy in elective laparoscopic colorectal surgery: can it further avoid anastomotic failure?</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Li</snm>
+                   <fnm>VK</fnm>
+                </au>
+                <au>
+                   <snm>Wexner</snm>
+                   <fnm>SD</fnm>
+                </au>
+                <au>
+                   <snm>Pulido</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Wang</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Jin</snm>
+                   <fnm>HY</fnm>
+                </au>
+                <au>
+                   <snm>Weiss</snm>
+                   <fnm>EG</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Surg Endosc</source>
+             <pubdate>2009</pubdate>
+             <volume>23</volume>
+             <issue>11</issue>
+             <fpage>2459</fpage>
+             <lpage>65</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1007/s00464-009-0416-4</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19301071</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B26">
+             <title>
+                <p>Evaluating the vascularity of intestinal anastomosis. Can narrow band imaging play a role?</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Milsom</snm>
+                   <fnm>JW</fnm>
+                </au>
+                <au>
+                   <snm>Pavoor</snm>
+                   <fnm>RS</fnm>
+                </au>
+                <au>
+                   <snm>Shukla</snm>
+                   <fnm>PJ</fnm>
+                </au>
+             </aug>
+             <source>Med Hypotheses</source>
+             <pubdate>2011</pubdate>
+             <volume>77</volume>
+             <issue>2</issue>
+             <fpage>290</fpage>
+             <lpage>3</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.mehy.2011.04.038</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21601367</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B27">
+             <note>Rosen RC1, Cappelleri JC, Smith MD, Lipsky J, Pe&#241;a BM. Development and evaluation of an abridged, 5-item version of the International Index of Erectile Function (IIEF-5) as a diagnostic tool for erectile dysfunction. Int J Impot Res. 1999 Dec;11(6):319-26.</note>
+          </bibl>
+          <bibl id="B28">
+             <title>
+                <p>ICIQ: a brief and robust measure for evaluating the symptoms and impact of urinary incontinence</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Avery</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Donovan</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Peters</snm>
+                   <fnm>TJ</fnm>
+                </au>
+                <au>
+                   <snm>Shaw</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Gotoh</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Abrams</snm>
+                   <fnm>P</fnm>
+                </au>
+             </aug>
+             <source>Neurourol Urodyn</source>
+             <pubdate>2004</pubdate>
+             <volume>23</volume>
+             <issue>4</issue>
+             <fpage>322</fpage>
+             <lpage>30</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1002/nau.20041</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15227649</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B29">
+             <title>
+                <p>The use of validated questionnaires to assess female sexual dysfunction</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Jones</snm>
+                   <fnm>LA</fnm>
+                </au>
+             </aug>
+             <source>World J Urol</source>
+             <pubdate>2002</pubdate>
+             <volume>20</volume>
+             <fpage>89</fpage>
+             <lpage>92</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1007/s00345-002-0268-1</pubid>
+                   <pubid idtype="pmpid" link="fulltext">12107538</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B30">
+             <note>National Comprehensive Cancer Network: Rectal Cancer/Surveillance, version 1.2015 [<url>http://www.nccn.org/professionals/physician_gls/pdf/rectal.pdf</url>]</note>
+          </bibl>
+          <bibl id="B31">
+             <title>
+                <p>Level of arterial ligation in rectal cancer surgery: low tie preferred over high tie</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Lange</snm>
+                   <fnm>MM</fnm>
+                </au>
+                <au>
+                   <snm>Buunen</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>van de Velde</snm>
+                   <fnm>CJ</fnm>
+                </au>
+                <au>
+                   <snm>Lange</snm>
+                   <fnm>JF</fnm>
+                </au>
+             </aug>
+             <source>A Rev Dis Colon Rectum</source>
+             <pubdate>2008</pubdate>
+             <volume>51</volume>
+             <issue>7</issue>
+             <fpage>1139</fpage>
+             <lpage>45</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1007/s10350-008-9328-y</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+       </refgrp>
+    </bm>
+ </art>

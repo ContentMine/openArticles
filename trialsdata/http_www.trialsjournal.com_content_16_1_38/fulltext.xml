@@ -1,0 +1,604 @@
+<?xml version='1.0'?>
+<!DOCTYPE art SYSTEM 'http://www.biomedcentral.com/xml/article.dtd'>
+<art>
+    <ui>s13063-015-0562-z</ui>
+    <ji>1745-6215</ji>
+    <fm>
+       <dochead>Update</dochead>
+       <bibl>
+          <title>
+             <p>Update to the study protocol, including statistical analysis plan for a randomized clinical trial comparing comprehensive cardiac rehabilitation after heart valve surgery with control: the CopenHeart<sub>VR</sub> trial</p>
+          </title>
+          <aug>
+             <au id="A1" ca="yes">
+                <snm>Sibilitz</snm>
+                <mnm>Laerum</mnm>
+                <fnm>Kirstine</fnm>
+                <insr iid="I1"/>
+                <insr iid="I3"/>
+                <email>kirstine.laerum.sibilitz@rh.regionh.dk</email>
+             </au>
+             <au id="A2">
+                <snm>Berg</snm>
+                <mnm>Kikkenborg</mnm>
+                <fnm>Selina</fnm>
+                <insr iid="I1"/>
+                <insr iid="I2"/>
+                <insr iid="I3"/>
+                <email>selina.kikkenborg.berg@rh.regionh.dk</email>
+             </au>
+             <au id="A3">
+                <snm>Hansen</snm>
+                <mnm>Birgitte</mnm>
+                <fnm>Tina</fnm>
+                <insr iid="I4"/>
+                <email>tbh@regionsjaelland.dk</email>
+             </au>
+             <au id="A4">
+                <snm>Risom</snm>
+                <mnm>Stelling</mnm>
+                <fnm>Signe</fnm>
+                <insr iid="I1"/>
+                <email>signe.stelling.risom@rh.regionh.dk</email>
+             </au>
+             <au id="A5">
+                <snm>Rasmussen</snm>
+                <mnm>Bernholdt</mnm>
+                <fnm>Trine</fnm>
+                <insr iid="I1"/>
+                <insr iid="I2"/>
+                <email>trine.b.rasmussen@rh.regionh.dk</email>
+             </au>
+             <au id="A6">
+                <snm>Hassager</snm>
+                <fnm>Christian</fnm>
+                <insr iid="I1"/>
+                <email>christian.hassager@rh.regionh.dk</email>
+             </au>
+             <au id="A7">
+                <snm>K&#248;ber</snm>
+                <fnm>Lars</fnm>
+                <insr iid="I1"/>
+                <email>lars.koeber@regionh.dk</email>
+             </au>
+             <au id="A8">
+                <snm>Gluud</snm>
+                <fnm>Christian</fnm>
+                <insr iid="I5"/>
+                <email>cgluud@ctu.dk</email>
+             </au>
+             <au id="A9">
+                <snm>Thygesen</snm>
+                <mnm>Caspar</mnm>
+                <fnm>Lau</fnm>
+                <insr iid="I3"/>
+                <email>lct@si-folkesundhed.dk</email>
+             </au>
+             <au id="A10">
+                <snm>Lindschou</snm>
+                <fnm>Jane</fnm>
+                <insr iid="I5"/>
+                <email>jl@ctu.dk</email>
+             </au>
+             <au id="A11">
+                <snm>Schmid</snm>
+                <mnm>Paul</mnm>
+                <fnm>Jean</fnm>
+                <insr iid="I6"/>
+                <email>jean-paul.schmid@spitalnetzbern.ch</email>
+             </au>
+             <au id="A12">
+                <snm>Taylor</snm>
+                <mi>S</mi>
+                <fnm>Rod</fnm>
+                <insr iid="I3"/>
+                <insr iid="I7"/>
+                <email>r.taylor@exeter.ac.uk</email>
+             </au>
+             <au id="A13">
+                <snm>Zwisler</snm>
+                <fnm>Ann-Dorthe</fnm>
+                <insr iid="I1"/>
+                <insr iid="I3"/>
+                <insr iid="I8"/>
+                <email>ann.dorthe.zwisler@rh.regionh.dk</email>
+             </au>
+          </aug>
+          <insg>
+             <ins id="I1">
+                <p>The Heart Centre, Department of Cardiology, Rigshospitalet, Copenhagen University Hospital, Blegdamsvej 9, Copenhagen, 2100, Denmark</p>
+             </ins>
+             <ins id="I2">
+                <p>Department of Cardiology, Gentofte Hospital, Gentofte, Denmark</p>
+             </ins>
+             <ins id="I3">
+                <p>National Institute of Public Health, University of Southern Denmark, Copenhagen, Denmark</p>
+             </ins>
+             <ins id="I4">
+                <p>Department of Cardiology, Roskilde Hospital, Roskilde, Denmark</p>
+             </ins>
+             <ins id="I5">
+                <p>Copenhagen Trial Unit, Centre for Clinical Intervention Research, Rigshospitalet, Copenhagen University Hospital, Copenhagen, Denmark</p>
+             </ins>
+             <ins id="I6">
+                <p>Cardiology Clinic, Tiefenau Hospital and University of Bern, Bern, Switzerland</p>
+             </ins>
+             <ins id="I7">
+                <p>University of Exeter Medical School, Health Services Research, University of Exeter, Exeter, Devon, UK</p>
+             </ins>
+             <ins id="I8">
+                <p>Department of Cardiology, Holb&#230;k Sygehus, Holb&#230;k, Denmark</p>
+             </ins>
+          </insg>
+          <source>Trials</source>
+          <issn>1745-6215</issn>
+          <pubdate>2015</pubdate>
+          <volume>16</volume>
+          <issue>1</issue>
+          <fpage>38</fpage>
+          <url>http://www.trialsjournal.com/content/16/1/38</url>
+          <xrefbib>
+             <pubidlist>
+                <pubid idtype="doi">10.1186/s13063-015-0562-z</pubid>
+             </pubidlist>
+          </xrefbib>
+       </bibl>
+       <history>
+          <rec>
+             <date>
+                <day>5</day>
+                <month>11</month>
+                <year>2014</year>
+             </date>
+          </rec>
+          <acc>
+             <date>
+                <day>12</day>
+                <month>1</month>
+                <year>2015</year>
+             </date>
+          </acc>
+          <pub>
+             <date>
+                <day>5</day>
+                <month>2</month>
+                <year>2015</year>
+             </date>
+          </pub>
+       </history>
+       <cpyrt>
+          <year>2015</year>
+          <collab>Sibilitz et al.; licensee BioMed Central.</collab>
+          <note>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/4.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (<url>http://creativecommons.org/publicdomain/zero/1.0/</url>) applies to the data made available in this article, unless otherwise stated.</note>
+       </cpyrt>
+       <kwdg>
+          <kwd>Heart valve surgery</kwd>
+          <kwd>Rehabilitation</kwd>
+          <kwd>Physical exercise</kwd>
+          <kwd>Psycho-education</kwd>
+       </kwdg>
+       <abs>
+          <sec>
+             <st>
+                <p>Abstract</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Background</p>
+                </st>
+                <p>Heart valve diseases are common with an estimated prevalence of 2.5% in the Western world. The number is rising because of an ageing population. Once symptomatic, heart valve diseases are potentially lethal, and heavily influence daily living and quality of life. Surgical treatment, either valve replacement or repair, remains the treatment of choice. However, post-surgery, the transition to daily living may become a physical, mental and social challenge. We hypothesize that a comprehensive cardiac rehabilitation program can improve physical capacity and self-assessed mental health and reduce hospitalization and healthcare costs after heart valve surgery.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Methods</p>
+                </st>
+                <p>This randomized clinical trial, CopenHeart<sub>VR</sub>, aims to investigate whether cardiac rehabilitation in addition to usual care is superior to treatment as usual after heart valve surgery. The trial will randomly allocate 210 patients 1:1 to an intervention or a control group, using central randomization, and blinded outcome assessment and statistical analyses. The intervention consists of 12&#160;weeks of physical exercise and a psycho-educational intervention comprising five consultations. The primary outcome is peak oxygen uptake (VO<sub>2</sub> peak) measured by cardiopulmonary exercise testing with ventilatory gas analysis. The secondary outcome is self-assessed mental health measured by the standardized questionnaire Short Form-36. Long-term healthcare utilization and mortality as well as biochemistry, echocardiography and cost-benefit will be assessed. A mixed-method design will be used to evaluate qualitative and quantitative findings, encompassing a survey-based study before the trial and a qualitative pre- and post-intervention study.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Conclusion</p>
+                </st>
+                <p>This randomized clinical trial will contribute with evidence of whether cardiac rehabilitation should be provided after heart valve surgery. The study is approved by the local regional Research Ethics Committee (H-1-2011-157), and the Danish Data Protection Agency (j.nr. 2007-58-0015).</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Trial registration</p>
+                </st>
+                <p>Trial registered 16 March 2012; ClinicalTrials.gov (<url>NCT01558765</url>).</p>
+             </sec>
+          </sec>
+       </abs>
+    </fm>
+    <bdy>
+       <sec>
+          <st>
+             <p>Update</p>
+          </st>
+          <p>This update relates to the CopenHeart<sub>VR</sub> trial study protocol, a randomized clinical trial comparing comprehensive cardiac rehabilitation after heart valve surgery, including physical exercise and psycho-education, with usual care. This update should be read in conjunction with the original protocol publication <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>.</p>
+          <sec>
+             <st>
+                <p>Revised trial population</p>
+             </st>
+             <p>The plan for this trial was to include patients having either open heart surgery or percutaneous heart valve procedures. However, because of administrative reasons and other local ongoing clinical trials including patients having percutaneous procedures, we were only able to include patients having open heart surgery.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Statistical analysis plan</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Updated sample size and power</p>
+                </st>
+                <p>Our original recruitment target was 210 with the recruitment period defined as two years. At the end of the two-year recruitment period in May 2014, we were only able to include 147 patients. Therefore, the power calculation has been repeated, based on this revised sample size.</p>
+                <p>The primary outcome is the continuous variable peak oxygen uptake (VO<sub>2</sub> peak) measured by cardiopulmonary exercise testing. Based on the assumptions defined in the protocol (a minimum clinical meaningful difference of 3&#160;mL/kg/min and standard deviation of 6&#160;ml/kg/min), a sample size of 147 would provide 86% power to be able to reject the null hypothesis, with a type I error of 5%. The secondary outcome measure is mental health measured on the continuous variable mental health component scale on the Short Form-36 questionnaire. Based on the assumed minimum important difference of seven points and an updated standard deviation of nine points <abbrgrp>
+                      <abbr bid="B2">2</abbr>
+                   </abbrgrp>, we will be able to reject the null hypothesis with a probability of 99% and a type I error probability of 5%.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Statistical analysis plan for the primary and secondary outcomes</p>
+             </st>
+             <p>While the primary analysis essentially remains the same as defined in the protocol, we propose slight revisions to the analysis model and handling of missing data, and also provide further specification of the handling of multiplicity of outcome testing.</p>
+             <sec>
+                <st>
+                   <p>Primary analysis</p>
+                </st>
+                <p>The level of significance is set at 5%. The intention-to-treat analysis using a mixed model with repeated measures (MMRM) for continuous outcome measures will be adjusted by the trial stratification variable &#8216;left ventricular ejection fraction &lt;45%, yes/no&#8217; <abbrgrp>
+                      <abbr bid="B3">3</abbr>
+                   </abbrgrp>.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Missing values and sensitivity analyses</p>
+                </st>
+                <p>As stated in the protocol, using MMRM ensures that missing data values will not create bias, as long as the values are missing at random <abbrgrp>
+                      <abbr bid="B4">4</abbr>
+                   </abbrgrp>. For the primary and secondary outcomes, if a statistically significant result is obtained (<it>P</it> &#8804;0.05), we will undertake sensitivity analyses that use the method of multiple imputation <abbrgrp>
+                      <abbr bid="B5">5</abbr>
+                   </abbrgrp>,<abbrgrp>
+                      <abbr bid="B6">6</abbr>
+                   </abbrgrp> and also undertake imputation that assumes not missing at random and includes &#8216;worst-case&#8217; and &#8216;best-case&#8217; scenarios.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Multiplicity</p>
+                </st>
+                <p>The primary and secondary outcomes (VO<sub>2</sub> peak and mental health component scale of Short Form-36) will be analyzed as stated above. The various exploratory outcome measures pre-defined in the protocol <abbrgrp>
+                      <abbr bid="B1">1</abbr>
+                   </abbrgrp> will be analyzed with no adjustment of <it>P</it>-values due to multiplicity. Instead, the interpretation of each exploratory outcome measure will be assessed in the light of multiple testing; that is, statistically significant effects will be interpreted in the context of increased risk of type I error.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Per-protocol analysis</p>
+             </st>
+             <p>In addition to the primary analysis, we will also undertake a per-protocol analysis to account for the variable adherence to the prescribed rehabilitation program by intervention group participants <abbrgrp>
+                   <abbr bid="B7">7</abbr>
+                </abbrgrp>. We expect that the effect of the intervention will depend on the participants&#8217; adherence to the study protocol <abbrgrp>
+                   <abbr bid="B8">8</abbr>
+                </abbrgrp>.</p>
+             <p>The per-protocol definition is based on the intervention consisting of two elements: physical exercise and a psycho-educational intervention. Adherence to both elements of the intervention will be described according to compliance data for self-reported training diaries, data from pulse watches, and records made in relation to the nurse consultations.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Physical exercise</p>
+             </st>
+             <p>The physical exercise comprises three weekly sessions conducted between one and four months after surgery, a total of 36 sessions. Participation in the intervention will be defined as participation in an individual consultation to plan exercise training, receiving instruction in the use of the training diary and pulse watch, and participation in 75% (&#8805;27) of the exercise sessions.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Psycho-educational intervention</p>
+             </st>
+             <p>The psycho-educational intervention is based on the theories of RR Parse <abbrgrp>
+                   <abbr bid="B9">9</abbr>
+                </abbrgrp> and comprises one monthly consultation conducted within the first six months after surgery, a total of five consultations. Participation in the intervention will be defined as attending at least 80% (four out of five) of the psycho-educational consultations.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Ethical approval</p>
+             </st>
+             <p>The study was approved by the regional Danish Research Ethics Committee in the Capital Region of Denmark (H-1-2011-157) and the Danish Data Protection Agency (j.nr. 2007-58-0015). All participants have given full written and oral informed consent.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Abbreviation</p>
+          </st>
+          <p>MMRM: Mixed model with repeated measures</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Competing interests</p>
+          </st>
+          <p>The authors declare that they have no competing interests.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Authors&#8217; contributions</p>
+          </st>
+          <p>KLS, SKB, CH, LK, ADZ, CG, JL and JPS designed the trial and developed the protocol. KLS, in close collaboration with ADZ and SKB, drafted the protocol. KLS, SSR and TBR participated significantly in data collection, coordination and management of the trial and revision of the protocol. TBH designed and drafted the economical analyses plan and participated in data collection. RST and LCT performed the statistical analysis and drafted the statistical analysis plan. JPS participated in revision of the manuscript and analysis and interpretation of data regarding the primary outcome. JL and CG participated in planning of the trial and randomization, and helped revise the manuscript. All authors participated in revision of the manuscript and all authors read and approved the final version to be published.</p>
+       </sec>
+    </bdy>
+    <bm>
+       <ack>
+          <sec>
+             <st>
+                <p>Acknowledgements</p>
+             </st>
+             <p>This work is supported by the Strategic Research Council, The Heart Centre Research Foundation Rigshospitalet, Familien Hede Nielsens Fond, The Regional Research Council of Region Sealand (Denmark), The National Institute of Public Health, and the University of Southern Denmark.</p>
+          </sec>
+       </ack>
+       <refgrp>
+          
+          <bibl id="B1">
+             <title>
+                <p>Effect of comprehensive cardiac rehabilitation after heart valve surgery (CopenHeartVR): study protocol for a randomised clinical trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Sibilitz</snm>
+                   <fnm>KL</fnm>
+                </au>
+                <au>
+                   <snm>Berg</snm>
+                   <fnm>SK</fnm>
+                </au>
+                <au>
+                   <snm>Hansen</snm>
+                   <fnm>TB</fnm>
+                </au>
+                <au>
+                   <snm>Risom</snm>
+                   <fnm>SS</fnm>
+                </au>
+                <au>
+                   <snm>Rasmussen</snm>
+                   <fnm>TB</fnm>
+                </au>
+                <au>
+                   <snm>Hassager</snm>
+                   <fnm>C</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Trials</source>
+             <pubdate>2013</pubdate>
+             <volume>14</volume>
+             <issue>1</issue>
+             <fpage>104</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1186/1745-6215-14-104</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23782510</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B2">
+             <title>
+                <p>Improvements in health-related quality of life before and after isolated cardiac operations</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Grady</snm>
+                   <fnm>KL</fnm>
+                </au>
+                <au>
+                   <snm>Lee</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Subacius</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Malaisrie</snm>
+                   <fnm>SC</fnm>
+                </au>
+                <au>
+                   <snm>McGee</snm>
+                   <fnm>EC</fnm>
+                   <suf>Jr</suf>
+                </au>
+                <au>
+                   <snm>Kruse</snm>
+                   <fnm>J</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Ann Thorac Surg</source>
+             <pubdate>2011</pubdate>
+             <volume>91</volume>
+             <issue>3</issue>
+             <fpage>777</fpage>
+             <lpage>83</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.athoracsur.2010.11.015</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21352997</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B3">
+             <title>
+                <p>Improper analysis of trials randomised using stratified blocks or minimisation</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kahan</snm>
+                   <fnm>BC</fnm>
+                </au>
+                <au>
+                   <snm>Morris</snm>
+                   <fnm>TP</fnm>
+                </au>
+             </aug>
+             <source>Stat Med</source>
+             <pubdate>2012</pubdate>
+             <volume>31</volume>
+             <issue>4</issue>
+             <fpage>328</fpage>
+             <lpage>40</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1002/sim.4431</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22139891</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B4">
+             <aug>
+                <au>
+                   <snm>Verbeke</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Molenberghs</snm>
+                   <fnm>G</fnm>
+                </au>
+             </aug>
+             <source>Linear mixed models for longitudinal data</source>
+             <publisher>Biostatistical Centre, Leuven, Belgium. Springer</publisher>
+             <pubdate>2000</pubdate>
+          </bibl>
+          <bibl id="B5">
+             <title>
+                <p>Multiple imputation for missing data in epidemiological and clinical research: potential and pitfalls</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Sterne</snm>
+                   <fnm>JA</fnm>
+                </au>
+                <au>
+                   <snm>White</snm>
+                   <fnm>IR</fnm>
+                </au>
+                <au>
+                   <snm>Carlin</snm>
+                   <fnm>JB</fnm>
+                </au>
+                <au>
+                   <snm>Spratt</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Royston</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Kenward</snm>
+                   <fnm>MG</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>BMJ.</source>
+             <pubdate>2009</pubdate>
+             <volume>338</volume>
+             <fpage>b2393</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/bmj.b2393</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19564179</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B6">
+             <aug>
+                <au>
+                   <snm>Dmitrienko</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Tamhane</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Bretz</snm>
+                   <fnm>F</fnm>
+                </au>
+             </aug>
+             <source>Multiple testing problems in pharmaceutical statistics</source>
+             <publisher>Chapman &amp; Hall/CRC Biostatistics Series, Taylor and Francis Group, Florida, USA</publisher>
+             <pubdate>2010</pubdate>
+          </bibl>
+          <bibl id="B7">
+             <title>
+                <p>What is per protocol analysis?</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Sedgwick</snm>
+                   <fnm>P</fnm>
+                </au>
+             </aug>
+             <source>BMJ.</source>
+             <pubdate>2013</pubdate>
+             <volume>346</volume>
+             <fpage>3748</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/bmj.f3748</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B8">
+             <title>
+                <p>HF-ACTION investigators: relation between volume of exercise and clinical outcomes in patients with heart failure</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Keteyian</snm>
+                   <fnm>SJ</fnm>
+                </au>
+                <au>
+                   <snm>Leifer</snm>
+                   <fnm>ES</fnm>
+                </au>
+                <au>
+                   <snm>Houston-Miller</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Kraus</snm>
+                   <fnm>WE</fnm>
+                </au>
+                <au>
+                   <snm>Brawner</snm>
+                   <fnm>CA</fnm>
+                </au>
+                <au>
+                   <snm>O&#8217;Connor</snm>
+                   <fnm>CM</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>J Am Coll Cardiol</source>
+             <pubdate>2012</pubdate>
+             <volume>60</volume>
+             <issue>19</issue>
+             <fpage>1899</fpage>
+             <lpage>905</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.jacc.2012.08.958</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23062530</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B9">
+             <aug>
+                <au>
+                   <snm>Parse</snm>
+                   <fnm>RR</fnm>
+                </au>
+             </aug>
+             <source>The human becoming school of thought: a perspective for nurses and other health professionals</source>
+             <publisher>Sage, Thousand Oaks, CA</publisher>
+             <pubdate>1998</pubdate>
+          </bibl>
+       </refgrp>
+    </bm>
+ </art>

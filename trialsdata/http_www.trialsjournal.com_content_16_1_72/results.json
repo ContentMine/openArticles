@@ -1,0 +1,103 @@
+{
+  "publisher": {
+    "value": [
+      "BioMed Central Ltd"
+    ]
+  },
+  "journal": {
+    "value": [
+      "Trials"
+    ]
+  },
+  "title": {
+    "value": [
+      "The Stroke Hyperglycemia Insulin Network Effort (SHINE) trial: an adaptive trial design case study"
+    ]
+  },
+  "authors": {
+    "value": [
+      "Jason T Connor",
+      "Kristine R Broglio",
+      "Valerie Durkalski",
+      "William J Meurer",
+      "Karen C Johnston"
+    ]
+  },
+  "date": {
+    "value": [
+      "2015-03-04"
+    ]
+  },
+  "doi": {
+    "value": [
+      "10.1186/s13063-015-0574-8"
+    ]
+  },
+  "volume": {
+    "value": [
+      "16"
+    ]
+  },
+  "issue": {
+    "value": [
+      "1"
+    ]
+  },
+  "firstpage": {
+    "value": [
+      "72"
+    ]
+  },
+  "description": {
+    "value": [
+      "The ‘Adaptive Designs Accelerating Promising Trials into Treatments (ADAPT-IT)’ project is a collaborative effort supported by the National Institutes of Health (NIH) and United States Food & Drug Administration (FDA) to explore how adaptive clinical trial design might improve the evaluation of drugs and medical devices. ADAPT-IT uses the National Institute of Neurologic Disorders & Stroke-supported Neurological Emergencies Treatment Trials (NETT) network as a ‘laboratory’ in which to study the development of adaptive clinical trial designs in the confirmatory setting. The Stroke Hyperglycemia Insulin Network Effort (SHINE) trial was selected for funding by the NIH-NINDS at the start of ADAPT-IT and is currently an ongoing phase III trial of tight glucose control in hyperglycemic acute ischemic stroke patients. Within ADAPT-IT, a Bayesian adaptive Goldilocks trial design alternative was developed."
+    ]
+  },
+  "abstract": {
+    "value": [
+      "The ‘Adaptive Designs Accelerating Promising Trials into Treatments (ADAPT-IT)’ project is a collaborative effort supported by the National Institutes of Health (NIH) and United States Food & Drug Administration (FDA) to explore how adaptive clinical trial design might improve the evaluation of drugs and medical devices. ADAPT-IT uses the National Institute of Neurologic Disorders & Stroke-supported Neurological Emergencies Treatment Trials (NETT) network as a ‘laboratory’ in which to study the development of adaptive clinical trial designs in the confirmatory setting. The Stroke Hyperglycemia Insulin Network Effort (SHINE) trial was selected for funding by the NIH-NINDS at the start of ADAPT-IT and is currently an ongoing phase III trial of tight glucose control in hyperglycemic acute ischemic stroke patients. Within ADAPT-IT, a Bayesian adaptive Goldilocks trial design alternative was developed."
+    ]
+  },
+  "fulltext_html": {
+    "value": [
+      "http://www.trialsjournal.com/content/16/1/72"
+    ]
+  },
+  "fulltext_pdf": {
+    "value": [
+      "http://www.trialsjournal.com/content/pdf/s13063-015-0574-8.pdf"
+    ]
+  },
+  "fulltext_xml": {
+    "value": [
+      "/content/download/xml/s13063-015-0574-8.xml"
+    ]
+  },
+  "supplementary_material": {
+    "value": []
+  },
+  "figure": {
+    "value": [
+      "/content/figures/s13063-015-0574-8-1.gif",
+      "/content/figures/s13063-015-0574-8-2.gif"
+    ]
+  },
+  "figure_caption": {
+    "value": [
+      "Figure 1.",
+      "Mean total sample size enrolled (left panel) and probability of trial success (right\n            panel).",
+      "Figure 2.",
+      "Probability of increasing the maximum sample size (left panel) and mean number of\n            patients added (right panel)."
+    ]
+  },
+  "license": {
+    "value": [
+      "\r\n\t\t\t\tThis is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.\r\n\t\t\t"
+    ]
+  },
+  "copyright": {
+    "value": [
+      "\r\n            © 2015 Connor et al.; licensee BioMed Central. \r\n        "
+    ]
+  }
+}

@@ -1,0 +1,3665 @@
+<?xml version='1.0'?>
+<!DOCTYPE art SYSTEM 'http://www.biomedcentral.com/xml/article.dtd'>
+<art>
+    <ui>s13063-014-0539-3</ui>
+    <ji>1745-6215</ji>
+    <fm>
+       <dochead>Study protocol</dochead>
+       <bibl>
+          <title>
+             <p>Ghana&#8217;s Ensure Mothers and Babies Regular Access to Care (EMBRACE) program: study protocol for a cluster randomized controlled trial</p>
+          </title>
+          <aug>
+             <au id="A1">
+                <snm>Kikuchi</snm>
+                <fnm>Kimiyo</fnm>
+                <insr iid="I1"/>
+                <email>kimiyo@m.u-tokyo.ac.jp</email>
+             </au>
+             <au id="A2">
+                <snm>Ansah</snm>
+                <fnm>Evelyn</fnm>
+                <insr iid="I2"/>
+                <email>evelyn.ansah@ghsmail.org</email>
+             </au>
+             <au id="A3">
+                <snm>Okawa</snm>
+                <fnm>Sumiyo</fnm>
+                <insr iid="I1"/>
+                <email>sumiyo@m.u-tokyo.ac.jp</email>
+             </au>
+             <au id="A4">
+                <snm>Shibanuma</snm>
+                <fnm>Akira</fnm>
+                <insr iid="I1"/>
+                <email>shibanuma@m.u-tokyo.ac.jp</email>
+             </au>
+             <au id="A5">
+                <snm>Gyapong</snm>
+                <fnm>Margaret</fnm>
+                <insr iid="I3"/>
+                <email>margaret.gyapong@ghsmail.org</email>
+             </au>
+             <au id="A6">
+                <snm>Owusu-Agyei</snm>
+                <fnm>Seth</fnm>
+                <insr iid="I4"/>
+                <email>seth.owusu-agyei@kintampo-hrc.org</email>
+             </au>
+             <au id="A7">
+                <snm>Oduro</snm>
+                <fnm>Abraham</fnm>
+                <insr iid="I5"/>
+                <email>Abraham.Oduro@navrongo-hrc.org</email>
+             </au>
+             <au id="A8">
+                <snm>Quansah-Asare</snm>
+                <fnm>Gloria</fnm>
+                <insr iid="I6"/>
+                <email>gloria.quansahasare@ghsmail.org</email>
+             </au>
+             <au id="A9">
+                <snm>Hodgson</snm>
+                <fnm>Abraham</fnm>
+                <insr iid="I2"/>
+                <email>abraham.hodgson@ghsmail.org</email>
+             </au>
+             <au id="A10" ca="yes">
+                <snm>Jimba</snm>
+                <fnm>Masamine</fnm>
+                <insr iid="I1"/>
+                <email>mjimba@m.u-tokyo.ac.jp</email>
+             </au>
+             <au id="A11" type="on_behalf">
+                <cnm>for the Ghana EMBRACE Implementation Research Project</cnm>
+             </au>
+          </aug>
+          <insg>
+             <ins id="I1">
+                <p>Department of Community and Global Health, Graduate School of Medicine, The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-0033, Japan</p>
+             </ins>
+             <ins id="I2">
+                <p>Research and Development Division, Ghana Health Service, Accra, MB 190, Ghana</p>
+             </ins>
+             <ins id="I3">
+                <p>Dodowa Health Research Centre, Dodowa, Greater Accra, Ghana</p>
+             </ins>
+             <ins id="I4">
+                <p>Kintampo Health Research Centre, Kintampo, Brong-Ahafo, Ghana</p>
+             </ins>
+             <ins id="I5">
+                <p>Navrongo Health Research Centre, Navrongo, Upper East, Ghana</p>
+             </ins>
+             <ins id="I6">
+                <p>Ghana Health Service, Accra, Ghana</p>
+             </ins>
+          </insg>
+          <source>Trials</source>
+          <issn>1745-6215</issn>
+          <pubdate>2015</pubdate>
+          <volume>16</volume>
+          <issue>1</issue>
+          <fpage>22</fpage>
+          <url>http://www.trialsjournal.com/content/16/1/22</url>
+          <xrefbib>
+             <pubidlist>
+                <pubid idtype="doi">10.1186/s13063-014-0539-3</pubid>
+             </pubidlist>
+          </xrefbib>
+       </bibl>
+       <history>
+          <rec>
+             <date>
+                <day>9</day>
+                <month>9</month>
+                <year>2014</year>
+             </date>
+          </rec>
+          <acc>
+             <date>
+                <day>22</day>
+                <month>12</month>
+                <year>2014</year>
+             </date>
+          </acc>
+          <pub>
+             <date>
+                <day>27</day>
+                <month>1</month>
+                <year>2015</year>
+             </date>
+          </pub>
+       </history>
+       <cpyrt>
+          <year>2015</year>
+          <collab>Kikuchi et al.; licensee BioMed Central.</collab>
+          <note>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/4.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (<url>http://creativecommons.org/publicdomain/zero/1.0/</url>) applies to the data made available in this article, unless otherwise stated.</note>
+       </cpyrt>
+       <kwdg>
+          <kwd>Continuum of Care</kwd>
+          <kwd>Maternal</kwd>
+          <kwd>Newborn</kwd>
+          <kwd>and Child Health Outcomes</kwd>
+          <kwd>Ghana</kwd>
+       </kwdg>
+       <abs>
+          <sec>
+             <st>
+                <p>Abstract</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Background</p>
+                </st>
+                <p>The United Nations&#8217; Millennium Development Goals call for improving maternal and child health status. Their progress, however, has been minimal and uneven across countries. The continuum of care is a key to strengthening maternal, newborn, and child health. In this context, the Japanese government launched the Ghana Ensure Mothers and Babies Regular Access to Care (EMBRACE) Implementation Research Project in collaboration with the Ghanaian government. This study aims to evaluate the implementation process and effects of an intervention to increase the continuum of care for maternal, newborn, and child health status in Ghana.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Methods/Design</p>
+                </st>
+                <p>We will conduct a cluster randomized controlled trial using an effectiveness-implementation hybrid design in Dodowa, Kintampo, and Navrongo, Ghana. We will provide an intervention package to women living in randomly allocated intervention clusters. The study population is women of reproductive age between the ages of 15 and 49&#160;years. The package includes: 1) use of a new continuum of care card, 2) continuum of care orientation for health workers, 3) 24-hour health facility retention of mothers and newborns after delivery, and 4) postnatal care by home visits. We will measure maternal, newborn, and child health outcomes for both intervention and implementation impacts. The intervention outcomes are continuum of care completion rate, rate of postnatal care within 48&#160;hours, complication rate requiring mothers' and newborns' hospitalizations, and perinatal and neonatal mortality. The implementation outcomes are intervention coverage of the target population, intervention adoption and fidelity, implementation cost, and sustainability.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Discussion</p>
+                </st>
+                <p>In this trial, we will investigate how successful continuum of care can contribute to improving maternal, newborn, and child health outcomes. If successful, this model will then be implemented further in Ghana and other neighboring countries.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Trial registration</p>
+                </st>
+                <p>Current Controlled Trials <url>ISRCTN90618993</url>. Registered on 3 September 2014.</p>
+             </sec>
+          </sec>
+       </abs>
+    </fm>
+    <bdy>
+       <sec>
+          <st>
+             <p>Background</p>
+          </st>
+          <p>The United Nations&#8217; Millennium Development Goals (MDGs) 4 and 5 seek to improve maternal, newborn, and child health (MNCH) status. Their progress, however, has been minimal <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B4">4</abbr>
+             </abbrgrp> and uneven across countries, especially in Sub-Saharan Africa <abbrgrp>
+                <abbr bid="B5">5</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B8">8</abbr>
+             </abbrgrp>. Unless drastic improvement is attained, most countries in Sub-Saharan Africa will not meet MDGs 4 and 5 <abbrgrp>
+                <abbr bid="B5">5</abbr>
+             </abbrgrp>.</p>
+          <p>In this context, global health agencies have advocated continuum of care (CoC) as a new paradigm to overcome MNCH challenges <abbrgrp>
+                <abbr bid="B9">9</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B10">10</abbr>
+             </abbrgrp>. The term CoC is well known in nursing for palliative <abbrgrp>
+                <abbr bid="B11">11</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B12">12</abbr>
+             </abbrgrp> and mental health care <abbrgrp>
+                <abbr bid="B13">13</abbr>
+             </abbrgrp>. In the public health area, the concept of CoC has been used in HIV and AIDS care <abbrgrp>
+                <abbr bid="B12">12</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B14">14</abbr>
+             </abbrgrp>, linking HIV diagnosis, care initiation, therapy retention, and low viral load maintenance. However, for MNCH, the definition of CoC has not yet been clearly established, although several attempts have been made <abbrgrp>
+                <abbr bid="B11">11</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B15">15</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B17">17</abbr>
+             </abbrgrp>. So far, CoC has been explained by sequential time and space dimensions of MNCH activities. The time dimension lasts from pre-pregnancy for women through childhood. The space dimension links homes and communities through health facilities <abbrgrp>
+                <abbr bid="B17">17</abbr>
+             </abbrgrp>.</p>
+          <p>The CoC in MNCH provided a framework to improve health care for both women and their children by implementing integrated interventions <abbrgrp>
+                <abbr bid="B11">11</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B18">18</abbr>
+             </abbrgrp>. Such intervention packages addressed different time stages in the CoC <abbrgrp>
+                <abbr bid="B19">19</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B21">21</abbr>
+             </abbrgrp>. Additionally, single interventions were also efficacious for both women and their children <abbrgrp>
+                <abbr bid="B18">18</abbr>
+             </abbrgrp>. Examples include newborn care preparedness by community-based approaches <abbrgrp>
+                <abbr bid="B22">22</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B23">23</abbr>
+             </abbrgrp>, use of insecticide-treated nets in pregnancy <abbrgrp>
+                <abbr bid="B24">24</abbr>
+             </abbrgrp>, and iron-folic acid supplementation <abbrgrp>
+                <abbr bid="B25">25</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B26">26</abbr>
+             </abbrgrp>. Furthermore, financially focused strategies attempted to increase the demand for MNCH health services <abbrgrp>
+                <abbr bid="B27">27</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B30">30</abbr>
+             </abbrgrp>.</p>
+          <p>In the space dimension, the emphasized linkage is between the home and the first-level facility or the hospital. In most African countries, newborns are vulnerable to care delays and many newborn deaths occur at home <abbrgrp>
+                <abbr bid="B31">31</abbr>
+             </abbrgrp>. Thus, interventions provided appropriate care at home, strengthened health system supports, and improved household and community practices and actions <abbrgrp>
+                <abbr bid="B32">32</abbr>
+             </abbrgrp>. For both women and children, positive impacts were identified by training traditional birth attendants <abbrgrp>
+                <abbr bid="B33">33</abbr>
+             </abbrgrp> and increasing emergency referral systems in the community <abbrgrp>
+                <abbr bid="B34">34</abbr>
+             </abbrgrp>. Although these interventions improved MNCH outcomes, long-term sustainability remains a challenge <abbrgrp>
+                <abbr bid="B35">35</abbr>
+             </abbrgrp>, and it is unclear whether they were effective in &#8216;real-world&#8217; settings. To make the best use of the available interventions, we need to know how they work in such settings <abbrgrp>
+                <abbr bid="B36">36</abbr>
+             </abbrgrp>.</p>
+          <p>Moreover, it is unclear whether health outcomes will be improved by filling the gaps in the CoC. A study estimated that neonatal mortality would be reduced by between 36 and 67% if all standard MNCH care packages (such as the antenatal care (ANC) package, skilled maternal and immediate newborn care package, and emergency obstetric care package) covered 90% of pregnant women <abbrgrp>
+                <abbr bid="B37">37</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B38">38</abbr>
+             </abbrgrp>. However, evidence-based studies are scarce that demonstrate the effectiveness of improved CoC on health outcomes by addressing these gaps.</p>
+          <p>In 2010, the Japanese government presented new global health initiatives at the United Nations High-Level Plenary Meeting on MDGs <abbrgrp>
+                <abbr bid="B39">39</abbr>
+             </abbrgrp>. The statement expressed a strategy to accelerate Japan&#8217;s concerted efforts to help achieve health-related MDGs in developing countries, particularly for maternal and child health <abbrgrp>
+                <abbr bid="B40">40</abbr>
+             </abbrgrp>. The initiative comprised a model program, the Ghana Ensure Mothers and Babies Regular Access to Care (EMBRACE) program. This program exploits a package of effective interventions to improve the health of mothers and children through the CoC approach. A special feature of the initiative was the Japanese government&#8217;s clear intention to implement an &#8216;evidence-based intervention&#8217; <abbrgrp>
+                <abbr bid="B41">41</abbr>
+             </abbrgrp>. To extend the benefits of the Ghana EMBRACE initiative and evidence-based practices in health policy, the Ghana EMBRACE Implementation Research Project was launched in 2012 <abbrgrp>
+                <abbr bid="B42">42</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B43">43</abbr>
+             </abbrgrp>. The project team comprised researchers from the University of Tokyo and the Ghana Health Service (GHS), including Dodowa, Kintampo, and Navrongo Health Research Centres (HRC). Based on formative research results, the project team developed interventions and will implement them in three Health and Demographic Surveillance System (HDSS) sites in Ghana.</p>
+          <p>Ghana is one of the countries that face a significant challenge to improving MNCH status <abbrgrp>
+                <abbr bid="B8">8</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B44">44</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B46">46</abbr>
+             </abbrgrp>. Although it has made progress in different HDSS sites <abbrgrp>
+                <abbr bid="B47">47</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B52">52</abbr>
+             </abbrgrp>, according to the currently available evidence, Ghana is not on track to meet these MDGs <abbrgrp>
+                <abbr bid="B53">53</abbr>
+             </abbrgrp>. In particular, MNCH status is poor in remote areas <abbrgrp>
+                <abbr bid="B47">47</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B49">49</abbr>
+             </abbrgrp>, and care-seeking decisions are delayed for ill mothers and children <abbrgrp>
+                <abbr bid="B54">54</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B55">55</abbr>
+             </abbrgrp>. Neonatal death is associated with maternal factors such as multiple gestations and inadequate birth spacing <abbrgrp>
+                <abbr bid="B56">56</abbr>
+             </abbrgrp>. Additionally, mothers and children do not use all MNCH services continuously. In particular, mothers pay less attention to newborn care. In almost half of home deliveries, postnatal care (PNC) was not completed <abbrgrp>
+                <abbr bid="B45">45</abbr>
+             </abbrgrp>. Approximately 40% of mothers who delivered at home reported that they received PNC for themselves, while only 16% reported receiving it for their newborns <abbrgrp>
+                <abbr bid="B57">57</abbr>
+             </abbrgrp>. However, when mothers appropriately used the antenatal, delivery, and postnatal health services, the risk of neonatal death was reduced <abbrgrp>
+                <abbr bid="B56">56</abbr>
+             </abbrgrp>.</p>
+          <p>MNCH is often influenced by a complex interaction of economic, financial, social, cultural, and clinical factors. Ghana has multiple localities formed by the particular characteristics of each area. Poor infrastructure often limits access to emergency care <abbrgrp>
+                <abbr bid="B55">55</abbr>
+             </abbrgrp>. In certain areas, a traditional illness, <it>asram</it>, could be one cause of care-seeking delay for ill children <abbrgrp>
+                <abbr bid="B58">58</abbr>
+             </abbrgrp>. The diversity of local characteristics implies the need for flexibility in health service provision <abbrgrp>
+                <abbr bid="B59">59</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B60">60</abbr>
+             </abbrgrp>. This explains why implementation trials should be conducted in Ghana in different actual settings.</p>
+          <p>This study proposes specific objectives for the intervention and implementation phases. The intervention objective is to evaluate the impact of increased CoC completion on MNCH status in Ghana. The implementation objective is to evaluate intervention acceptability in different settings in Ghana.</p>
+          <p>In light of pragmatic situations in the intervention settings, we included the following as CoC components:</p><p>1. ANC delivered at least four times by MNCH health service providers at a health facility, in the community, or at home;</p>
+             <p>2. Delivery assisted by skilled birth attendants (SBAs); and</p>
+             <p>3. PNC delivered three times by MNCH health service providers at a health facility, in the community, or at home, within 48&#160;hours, at seven days, and at six weeks postpartum.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Methods/Design</p>
+          </st>
+          <sec>
+             <st>
+                <p>Study design</p>
+             </st>
+             <p>We will conduct a cluster randomized controlled trial using an effectiveness-implementation hybrid design <abbrgrp>
+                   <abbr bid="B36">36</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B61">61</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B62">62</abbr>
+                </abbrgrp>. In this study design, we will assess the effects of both an intervention package and its implementation process. An effectiveness-implementation hybrid trial is an innovative design to shorten the time from intervention development through its implementation in a real-world setting <abbrgrp>
+                   <abbr bid="B63">63</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B64">64</abbr>
+                </abbrgrp>. This study design is categorized into three types. The type one design focuses on testing the intervention while observing or gathering information on the implementation. The type two design simultaneously tests the intervention and its implementation strategy. The type three design focuses more on testing implementation strategy while observing or gathering information on intervention outcomes <abbrgrp>
+                   <abbr bid="B61">61</abbr>
+                </abbrgrp>. In our study, we will adopt the type two hybrid design to determine both the impact of the intervention on CoC completion in MNCH and the acceptability of the implementation strategy by GHS.</p>
+             <p>This design will assess the effectiveness of intervention and implementation by using cluster randomized allocation to divide participants into intervention and control arms. For trial sustainability and scalability, we will consider site-specific contexts in designing interventions <abbrgrp>
+                   <abbr bid="B59">59</abbr>
+                </abbrgrp>. We will conduct the study in three stages: baseline, implementation, and follow-up phases. Acceptability of the trials will also be evaluated through monitoring ongoing trials.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Study site</p>
+             </st>
+             <p>We will conduct the study at three different sites in Ghana; Dodowa (Greater Accra region), Kintampo (Brong-Ahafo region), and Navrongo (Upper East region), where the GHS runs HDSS sites (Figure&#160;<figr fid="F1">1</figr>). These three sites were selected because highly reliable HDSS data are available. HDSS involves semi-annual recording of vital demographic events occurring among residents of all households in the HDSS area: pregnancies, births, deaths, and migration. Other data are also collected and updated regularly, such as economic status, morbidity, and vaccination.
+                  </p>
+             
+                <fig id="F1">
+                   <title>
+                      <p>Figure 1</p>
+                   </title>
+                   <caption>
+                      <p>Map of health and demographic surveillance system sites. </p>
+                   </caption>
+                   <text>
+                      <p>
+                            <b>Map of health and demographic surveillance system sites.</b> Ghana has health and demographic surveillance system (HDSS) sites in Dodowa, Kintampo, and Navrongo. The HDSS areas involve highly reliable semi-annual recording of vital demographic events occurring in residents of all households.</p>
+                   </text>
+                   <graphic file="s13063-014-0539-3-1"/>
+                </fig>
+             
+             <p>At the Dodowa HDSS site, the population was approximately 115,000 in 2011. It is located about 40 kilometers away from Accra <abbrgrp>
+                   <abbr bid="B65">65</abbr>
+                </abbrgrp>. Consequently, pregnant women from this site often prefer to deliver at health facilities in Accra. Service deliveries are challenging since the site land size covers about 40.5% of the Greater Accra region. Most of the communities are scattered, containing small populations <abbrgrp>
+                   <abbr bid="B65">65</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B66">66</abbr>
+                </abbrgrp>.</p>
+             <p>At the Kintampo HDSS site, the surveillance population was approximately 200,000 in 2011. This site is a multi-ethnic area and farming is the most important economic activity. Apart from the central area, most villages are not supplied with electricity and are reached by dirt roads. Access to health facilities is a challenge in Kintampo <abbrgrp>
+                   <abbr bid="B65">65</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B67">67</abbr>
+                </abbrgrp>, and a home delivery is often the first choice <abbrgrp>
+                   <abbr bid="B68">68</abbr>
+                </abbrgrp>.</p>
+             <p>At the Navrongo HDSS site, the surveillance population was approximately 153,000 in 2011 <abbrgrp>
+                   <abbr bid="B65">65</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B69">69</abbr>
+                </abbrgrp>. Navrongo is the first area where the Community-based Health Planning and Services (CHPS) program was launched in Ghana. In that context, Community Health Officers (CHOs) have contributed to improving health status in communities. Among the three HDSS sites, only Navrongo is on track to achieve MDG 5 <abbrgrp>
+                   <abbr bid="B48">48</abbr>
+                </abbrgrp>.</p>
+             <p>As the MNCH services are national priority areas in Ghana, various MNCH interventions have been implemented in the three HDSS sites. Representative interventions include Mobile Technology for Community Health (MoTeCH, between 2009 and 2012) <abbrgrp>
+                   <abbr bid="B70">70</abbr>
+                </abbrgrp>, Quality of prenatal and maternal care (Qualmat, between 2009 and 2014) <abbrgrp>
+                   <abbr bid="B71">71</abbr>
+                </abbrgrp>, and Ghana Essential Health Interventions Programme (GEHIP, between 2009 and 2014) <abbrgrp>
+                   <abbr bid="B72">72</abbr>
+                </abbrgrp> in Navrongo; early neonatal vitamin A supplementation in improving child survival (Neovita, between 2010 and 2012) <abbrgrp>
+                   <abbr bid="B73">73</abbr>
+                </abbrgrp>, and Newborn home intervention study project (Newhints, between 2008 and 2010) <abbrgrp>
+                   <abbr bid="B74">74</abbr>
+                </abbrgrp> in Kintampo; and the conditional cash transfer project (GLST, between 2009 and 2014) <abbrgrp>
+                   <abbr bid="B75">75</abbr>
+                </abbrgrp> and Neonatal Quality Improvement Programme (NQIP, between 2011 and 2012) in Dodowa.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Randomization and allocation</p>
+             </st>
+             <p>Each HDSS site contains two districts, and the districts comprise multiple sub-districts, which are the minimum health administration units in Ghana. We defined the sub-district as a cluster unit. Only Jema and Dumso (which used to be a part of Jema) sub-districts in the Kintampo site were combined to form a cluster. In the three HDSS sites, a total of 36 sub-districts were included. Of them, we excluded four sub-districts of Navrongo where another MNCH project is planned. In total, we chose 32 clusters for our study targets (Figure&#160;<figr fid="F2">2</figr>): eight clusters in Dodowa, 12 clusters in Kintampo, and 12 clusters in Navrongo. We allocated half of the sub-districts to the intervention arm and the other half to the control arm. At least one hospital was allocated to the intervention arm in each site, since the majority of facility deliveries are done in hospitals (Table&#160;<tblr tid="T1">1</tblr>). Due to the nature of the intervention, masking was not feasible.
+                    
+                  </p>
+             
+                <fig id="F2">
+                   <title>
+                      <p>Figure 2</p>
+                   </title>
+                   <caption>
+                      <p>Survey flow diagram for participant recruitment and inclusion. </p>
+                   </caption>
+                   <text>
+                      <p>
+                            <b>Survey flow diagram for participant recruitment and inclusion.</b> Sub-districts were defined as a cluster unit. In total, 32 clusters were chosen as the study targets; eight clusters in Dodowa, 12 clusters in Kintampo, and 12 clusters in Navrongo. Half were allocated to the intervention arm. HDSS; Health and Demographic Surveillance System.</p>
+                   </text>
+                   <graphic file="s13063-014-0539-3-2"/>
+                </fig>
+             
+             
+                <table id="T1">
+                   <title>
+                      <p>Table 1</p>
+                   </title>
+                   <caption>
+                      <p>
+                            <b>Number of facilities (As of June 2014)</b>                          
+                      </p>
+                   </caption>
+                   <tgroup align="left" cols="6">
+                      <colspec align="left" colname="c1" colnum="1" colwidth="*"/>
+                      <colspec align="left" colname="c2" colnum="2" colwidth="*"/>
+                      <colspec align="left" colname="c3" colnum="3" colwidth="*"/>
+                      <colspec align="left" colname="c4" colnum="4" colwidth="*"/>
+                      <colspec align="left" colname="c5" colnum="5" colwidth="*"/>
+                      <colspec align="left" colname="c6" colnum="6" colwidth="*"/>
+                      <thead>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>
+                                  <b>HDSS site</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>
+                                  <b>Arm</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c3">
+                               <p>
+                                  <b>Hospital</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c4">
+                               <p>
+                                  <b>Health center</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c5">
+                               <p>
+                                  <b>Functional CHPS zone</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c6">
+                               <p>
+                                  <b>Private</b>                              
+                               </p>
+                            </entry>
+                         </row>
+                      </thead>
+                      <tfoot>
+                         <p>CHPS, Community-based Health Planning and Services; HDSS, Health and Demographic Surveillance System.</p>
+                      </tfoot>
+                      <tbody>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Dodowa</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Intervention</p>
+                            </entry>
+                            <entry align="right" colname="c3">
+                               <p>1</p>
+                            </entry>
+                            <entry align="right" colname="c4">
+                               <p>1</p>
+                            </entry>
+                            <entry align="right" colname="c5">
+                               <p>13</p>
+                            </entry>
+                            <entry align="right" colname="c6">
+                               <p>5</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1"/>
+                            <entry colname="c2">
+                               <p>Control</p>
+                            </entry>
+                            <entry align="right" colname="c3">
+                               <p>0</p>
+                            </entry>
+                            <entry align="right" colname="c4">
+                               <p>3</p>
+                            </entry>
+                            <entry align="right" colname="c5">
+                               <p>21</p>
+                            </entry>
+                            <entry align="right" colname="c6">
+                               <p>4</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Kintampo</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Intervention</p>
+                            </entry>
+                            <entry align="right" colname="c3">
+                               <p>1</p>
+                            </entry>
+                            <entry align="right" colname="c4">
+                               <p>2</p>
+                            </entry>
+                            <entry align="right" colname="c5">
+                               <p>19</p>
+                            </entry>
+                            <entry align="right" colname="c6">
+                               <p>5</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1"/>
+                            <entry colname="c2">
+                               <p>Control</p>
+                            </entry>
+                            <entry align="right" colname="c3">
+                               <p>1</p>
+                            </entry>
+                            <entry align="right" colname="c4">
+                               <p>4</p>
+                            </entry>
+                            <entry align="right" colname="c5">
+                               <p>22</p>
+                            </entry>
+                            <entry align="right" colname="c6">
+                               <p>0</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Navrongo</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Intervention</p>
+                            </entry>
+                            <entry align="right" colname="c3">
+                               <p>1</p>
+                            </entry>
+                            <entry align="right" colname="c4">
+                               <p>3</p>
+                            </entry>
+                            <entry align="right" colname="c5">
+                               <p>18</p>
+                            </entry>
+                            <entry align="right" colname="c6">
+                               <p>4</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1"/>
+                            <entry colname="c2">
+                               <p>Control</p>
+                            </entry>
+                            <entry align="right" colname="c3">
+                               <p>0</p>
+                            </entry>
+                            <entry align="right" colname="c4">
+                               <p>3</p>
+                            </entry>
+                            <entry align="right" colname="c5">
+                               <p>18</p>
+                            </entry>
+                            <entry align="right" colname="c6">
+                               <p>0</p>
+                            </entry>
+                         </row>
+                      </tbody>
+                   </tgroup>
+                </table>
+             
+             <p>We matched the clusters within the site before randomization in the following aspects: population, number of deliveries in each cluster, and number of midwives available. Cluster randomization was preferred over individual-level randomization to minimize contamination, and also for the pragmatic purposes of a future scale-up of the intervention. The clusters were randomized by a data analyst, who was not a primary member of the study team, using computer-generated random sequences.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Study population and selection criteria</p>
+             </st>
+             <p>Our study population is women of reproductive age between the ages of 15 and 49&#160;years who live in the areas covered by the Dodowa, Kintampo, and Navrongo HDSS sites. Participants will be women who have given birth in the study area between 1 September 2012 and 30 June 2014 for the baseline period, and between 1 October 2014 and 30 September 2015 for the trial period. Exclusion criteria for the trials are women who refuse to participate in the intervention. We expect only a few women will meet it as the interventions will be implemented within the current service delivery system. In other words, they will receive the interventions unless they refuse national standard MNCH services. Exclusion criteria for the impact evaluations are those who decline to be interviewed or who have migrated out of the HDSS sites. We will also involve health service providers in the intervention to provide CoC services and to educate participant women in the CoC concept.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Recruitment and consent of participants</p>
+             </st>
+             <p>We will deliver the interventions to all eligible women in the intervention arm. MNCH service providers will approach them when receiving MNCH care at health facilities or home. The expected recruitment period will be from August to September 2014 for the baseline survey, from October 2014 to September 2015 for the intervention, and from October to November 2015 for the follow-up survey. We will request informed consent form signatures from the survey participants. Additionally, we will obtain participants&#8217; oral consent at their intervention entry point. Their participation will be voluntary and they are free to join or withdraw at any time.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>The Ghana EMBRACE interventions</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Development of an intervention package</p>
+                </st>
+                <p>We developed a package of interventions based on a formative research survey conducted in three different HDSS sites (Table&#160;<tblr tid="T2">2</tblr>). In the survey, we identified the gaps, barriers, and promoters of service reception in continuous MNCH care. To address the actual MNCH conditions in Ghana and site-specific cultural differences in delivery location, geographic conditions, and health system capacity, we developed the following four interventions: the utilization of the CoC card (A-1), CoC orientation (A-2), 24-hour health facility retention of mothers and newborns after delivery (B-1), and PNC by home visits (B-2). We will implement A-1, A-2, and B-2 interventions in all three HDSS sites. However, B-1 will be implemented only in Dodowa and Navrongo because the number of midwives is not enough in Kintampo.
+                    </p>
+                
+                   <table id="T2">
+                      <title>
+                         <p>Table 2</p>
+                      </title>
+                      <caption>
+                         <p>
+                              <b>Interventions of Ghana EMBRACE implementation research project</b>                            
+                         </p>
+                      </caption>
+                      <tgroup align="left" cols="4">
+                         <colspec align="left" colname="c1" colnum="1" colwidth="*"/>
+                         <colspec align="left" colname="c2" colnum="2" colwidth="*"/>
+                         <colspec align="left" colname="c3" colnum="3" colwidth="*"/>
+                         <colspec align="left" colname="c4" colnum="4" colwidth="*"/>
+                         <thead>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>
+                                     <b>Interventions</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>
+                                     <b>Implementations</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>
+                                     <b>Implementers</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>
+                                     <b>Targets</b>                                
+                                  </p>
+                               </entry>
+                            </row>
+                         </thead>
+                         <tfoot>
+                            <p>ANC, antenatal care; CHN, Community Health Nurse; CHO, Community Health Officer; CHPS, Community-based Health Planning and Service; CoC, Continuum of Care; DHMT, District Health Management Team; SDHMT, Sub-District Health Management Team; GHS, Ghana Health Service; MNCH, maternal, newborn, and child health; PNC, postnatal care.</p>
+                         </tfoot>
+                         <tbody>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>(A-1) Utilization of CoC card</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>Encourage mothers to receive four ANC visits, facility delivery, PNC within 48 hours, at 7 days, and at 6 weeks</p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>Health service providers who routinely provide MNCH at health facility, community, or home: doctor, midwife, nurse, CHO, and CHN</p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>Women in prepartum/postpartum period who come to the health facility located in the intervention arm for ANC, delivery, and PNC</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>(A-2) Orientation of health  service providers</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>Reorient supervisors in understanding CoC</p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>Master trainers from GHS/EMBRACE researchers</p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>Regional Health Administrations, DHMT, and SDHMT</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1"/>
+                               <entry colname="c2">
+                                  <p>Reorient health service providers in understanding CoC</p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>Trainer from DHMT/SDHMT who attended the training of trainers</p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>Primary maternal and child health service providers of the health facilities in the intervention sites: midwife, CHO, CHN, doctor, nurse, and health assistant.</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>(B-1) 24-hour retention of mother  and their newborns after delivery</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>Provide PNC within 48 hours by retaining mothers with newborns for at least 24-hours postpartum</p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>Health service providers working at district hospital, health center, CHPS compound, or private clinic with midwife</p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>Mothers who delivered at a relevant health facility and their newborns</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1" morerows="1">
+                                  <p>(B-2) PNC by home visits</p>
+                               </entry>
+                               <entry colname="c2" morerows="1">
+                                  <p>Provide PNC within 48 hours by visiting the home of mothers</p>
+                               </entry>
+                               <entry colname="c3" morerows="1">
+                                  <p>Health service providers working at health center or CHPS compound</p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>Mothers who gave birth but did not stay for 24 hours after delivery</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c4">
+                                  <p>Mothers who delivered at home and their newborns</p>
+                               </entry>
+                            </row>
+                         </tbody>
+                      </tgroup>
+                   </table>
+                
+                <p>In the control arm, Ghanaian government will provide conventional MNCH services. In most of the primary level health facilities, basic MNCH services will be provided. The delivery and laboratory services are provided mainly in the secondary and tertiary level health facilities. ANC services include general check-ups for mothers, urine tests, hemoglobin tests, prevention of mother-to-child transmission (PMTCT) of HIV, nutritional support, tetanus toxoid immunization, and health education for birth preparedness and maternal complications. Delivery services include skilled delivery, facility referral, and emergency obstetric care. PNC services include general check-ups for mothers and children, body weights, infant vaccinations, hemoglobin tests, nutritional support, health education for breastfeeding and child care, and family planning counselling. Home visit check-ups are also provided, however, home visit PNC within 48&#160;hours is poorly adopted.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>A-1 Utilization of the continuum of care card</p>
+                </st>
+                <p>In addition to the maternal health record book, health service providers will provide the MNCH CoC card to all women who receive ANC, delivery, and PNC assisted by SBAs (Table&#160;<tblr tid="T3">3</tblr>). When these women receive follow-up services, health service providers place a sticker on the card to show that they complied with the CoC; this includes four ANC visits, delivery assisted by SBAs, and three PNC visits (within 48&#160;hours, at seven days, and at six weeks after delivery). Additionally, health service providers record on the CoC card: provision of essential services and health education; blood tests for assessing hemoglobin, blood group, and Rhesus factor; intermittent preventive treatment (IPT) for malaria; tetanus toxoid immunization; early initiating and exclusive breastfeeding; family planning; preparing items for delivery and baby; arrangement of transportation for delivery, caregiver, and calling health service providers after delivery; and the presence of danger signs during pregnancy and after delivery for mother and newborn.
+                    </p>
+                
+                   <table id="T3">
+                      <title>
+                         <p>Table 3</p>
+                      </title>
+                      <caption>
+                         <p>
+                              <b>Maternal, newborn, and child health continuum of care card contents</b>                            
+                         </p>
+                      </caption>
+                      <tgroup align="left" cols="2">
+                         <colspec align="left" colname="c1" colnum="1" colwidth="*"/>
+                         <colspec align="left" colname="c2" colnum="2" colwidth="*"/>
+                         <thead>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>
+                                     <b>Contents</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>
+                                     <b>Main components</b>                                
+                                  </p>
+                               </entry>
+                            </row>
+                         </thead>
+                         <tfoot>
+                            <p>ANC, antenatal care; CoC, Continuum of Care; IPT, Intermittent Preventive Treatment; PNC, postnatal care.</p>
+                         </tfoot>
+                         <tbody>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>CoC services</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>Four ANC visits</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1"/>
+                               <entry colname="c2">
+                                  <p>Delivery with skilled birth attendant</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1"/>
+                               <entry colname="c2">
+                                  <p>Three PNC visits</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Essential services</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>Hemoglobin test</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1"/>
+                               <entry colname="c2">
+                                  <p>Malaria drug (IPT)</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1" morerows="1"/>
+                               <entry colname="c2">
+                                  <p>Tetanus toxoid immunization</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c2">
+                                  <p>Blood group and Rhesus factor</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Health education</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>Items for delivery and baby</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1"/>
+                               <entry colname="c2">
+                                  <p>Caregiver</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1" morerows="1"/>
+                               <entry colname="c2">
+                                  <p>Transportation for delivery</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c2">
+                                  <p>Call a health service provider after delivery</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1"/>
+                               <entry colname="c2">
+                                  <p>Early initiate and exclusive breast feeding</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1"/>
+                               <entry colname="c2">
+                                  <p>Family planning counselling</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>Danger signs</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>Identification of danger signs during pregnancy</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1"/>
+                               <entry colname="c2">
+                                  <p>Identification of danger signs at delivery and after delivery for mother</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1"/>
+                               <entry colname="c2">
+                                  <p>Identification of danger signs at birth and after birth for newborn</p>
+                               </entry>
+                            </row>
+                         </tbody>
+                      </tgroup>
+                   </table>
+                
+             </sec>
+             <sec>
+                <st>
+                   <p>A-2 Continuum of care orientation</p>
+                </st>
+                <p>We will implement the MNCH CoC orientation in two stages. First, we will complete the training of trainers for supervisors of District Health Management Teams (DHMT) and Sub-District Health Management Teams (SDHMT). The trained supervisors will then conduct orientations for health service providers at hospitals, health centers, CHPS, and private clinics. We will focus mainly on introducing MNCH CoC concepts, their importance, the extent to which the MNCH CoC card could be used, and the protocols of other interventions.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>B-1 24-hour health facility retention of mothers and newborns after delivery</p>
+                </st>
+                <p>In this intervention, we will encourage mothers to stay with their newborns at health facilities after delivery for at least 24&#160;hours for PNC. This intervention targets only the health facilities where SBAs provide delivery services. In this intervention, mothers and newborns will receive necessary care in a health facility during the 24&#160;hours after delivery. During their stay, we will provide them nutritious drink supplements (for example, Milo (Nestl&#233; S.A., Vevey, Switzerland)). After ensuring all of the necessary health check points, health service providers will discharge them if neither mothers nor babies show any danger signs.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>B-2 Postnatal care by home visits</p>
+                </st>
+                <p>We will encourage CHOs to visit mothers and newborns for PNC within 48 hours after delivery. This intervention is composed of two steps. The first step is delivery notification; when home delivery occurs, community health volunteers, community key informants, or traditional birth attendants will inform the CHOs that the labor or delivery occurred in the community. The second step is PNC by home visits; CHOs visit mothers and newborns for PNC within 48 hours postpartum.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Procurement</p>
+                </st>
+                <p>Where necessary, we will provide beds for postpartum rest, rechargeable lamps or solar lanterns, torchlights for all B-1 intervention facilities, and motorbikes for the B-2 intervention facilities. We will also provide care materials for both eligible categories of health facility such as blood pressure apparatus for mothers and children, stethoscopes, thermometers, and pen lights.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Supportive activities</p>
+                </st>
+                <p>We will organize three types of supportive activities before the start of the intervention to implement the interventions smoothly into the communities. They include stakeholder meetings, community leader meetings, and community durbars. We will organize the stakeholder meetings in both the intervention and control arms. To avoid contamination of the intervention effect, the community leader meetings and community durbars will be held only in the intervention arm.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Monitoring</p>
+                </st>
+                <p>In each HRC, we will form an intervention monitoring team. This team is responsible for monthly monitoring of all implementation activities of health service providers and for supervision of the DHMT/SDHMT supervisors. The EMBRACE researchers will meet monthly to discuss the issues raised during the monitoring and provide feedback to the monitoring team and the DHMT/SDHMT supervisors.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Data collection</p>
+             </st>
+             <p>We will assess the impact of the intervention by interview survey using a semi-structured questionnaire and HDSS data. We will also assess the acceptability of the implementation process by monthly monitoring and supervision, and by conducting a survey of eligible women at the HDSS sites. Data managers of the HRCs will review all of the collected data for accuracy and completion. Data will be entered into computers twice, using Visual FoxPro software (Microsoft, Washington, United States). Verification checks will be done to correct any discrepancies in records.</p>
+             <sec>
+                <st>
+                   <p>Evaluation of intervention efficacy</p>
+                </st>
+                <p>We will assess the intervention efficacy using both survey and HDSS data, as described below:</p><p>1. By survey: to assess the intervention impact, we will conduct the interview survey at baseline and follow-up periods for sampled eligible women. For each survey, we will recruit approximately 500 women from each HDSS site (in total, 1,500 women for each survey). We will select them through the HRC pregnancy registers using the following two steps: (a) creating geographical units (GU) in proportion with the population size of the cluster and selecting 50 GUs from each HDSS site, and (b) selecting 10 eligible women from each GU. We will select the GUs and women using computer-generated random numbers.</p>
+                   <p>The questionnaire items are: sociodemographic and socioeconomic characteristics; MNCH services uptake; health complications during pregnancy, at delivery, and during postnatal period; pregnancy outcomes; and care-seeking behaviors. To control for the effects of health care provider and health facility characteristics on the study outcome, we will conduct health care provider assessment and health facility assessment at the baseline survey for both intervention and control arms. The data we will collect includes information on service provision, knowledge of CoC, supervision, community support, job satisfaction at health care provider level, infrastructure, human resources, MNCH service availability, annual statistics of key MNCH indicators, current practice of retaining mother and newborn for the first 24&#160;hours, and provision of PNC by home visit within 48&#160;hours postpartum.</p>
+                   <p>Prior to the survey, we will complete training for research assistants at each site. The EMBRACE researchers will develop the survey questionnaire through several workshops based on the formative research questionnaire. We will develop the questionnaire in English and the research assistants will interpret it orally when they conduct interviews with participants. As the local languages are not always written, we will not use translated questionnaires. The trained research assistants will pre-test the questionnaire with 20 eligible women and the researchers will revise it accordingly.</p>
+                   <p>2. By HDSS data: we will also obtain the HDSS data to assess the perinatal mortality rate (PMR) and the neonatal mortality rate (NMR) of HDSS sites. We will officially request that HRCs share the relevant data with the Ghana EMBRACE Implementation Research Project.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Evaluation of implementation process acceptability</p>
+                </st>
+                <p>We will assess the acceptability of the implementation process by monitoring, supervision, key informant interviews, and surveys, as described below:</p><p>1. By monitoring: to assess intervention adoption, we will collect data about service provision through monthly monitoring. Data sources will be the health facility register book and District Health Information Management System (DHIMS) reports. The EMBRACE researchers developed the monitoring items through several workshops.</p>
+                   <p>2. By supervision: to assess intervention fidelity, we will collect monthly supervision data to check the consistency of intervention implementation.</p>
+                   <p>3. By key informant interviews: we will conduct key informant interviews among DHMT and SDHMT supervisors, health service providers, and mothers in the intervention arm.</p>
+                   <p>4. By survey: we will ask about health education and essential services provided to the women in the baseline and follow-up surveys. We will ask women in the intervention arm about service preferences through the follow-up survey.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Outcome measures</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Intervention outcome measures</p>
+                </st>
+                <p>The primary outcome of the intervention is CoC completion rate of mothers and their children (Figure&#160;<figr fid="F3">3</figr> and Table&#160;<tblr tid="T4">4</tblr>). The secondary outcomes include the PNC rate within 48&#160;hours, the complication rate requiring mothers&#8217; and newborns' hospitalizations, and the PMR and NMR. The PMR is defined as fetal deaths during any period of pregnancy and newborn deaths within seven completed days after birth. The NMR includes early neonatal deaths occurring during the first seven days of life and late neonatal deaths occurring after seven days but before 28 completed days of life <abbrgrp>
+                      <abbr bid="B76">76</abbr>
+                   </abbrgrp>,<abbrgrp>
+                      <abbr bid="B77">77</abbr>
+                   </abbrgrp>.
+                      
+                    </p>
+                
+                   <fig id="F3">
+                      <title>
+                         <p>Figure 3</p>
+                      </title>
+                      <caption>
+                         <p>Conceptual framework. </p>
+                      </caption>
+                      <text>
+                         <p>
+                              <b>Conceptual framework.</b> The intervention package includes the utilization of the CoC card, CoC orientation for health service providers, 24-hour health facility retention of mothers and newborns after delivery, and home visit PNC. The outcomes will be measured for both intervention and implementation aspects (ANC, antenatal care; CoC, Continuum of Care; NMR, neonatal mortality rate; PMR, perinatal mortality rate; PNC, postnatal care).</p>
+                      </text>
+                      <graphic file="s13063-014-0539-3-3"/>
+                   </fig>
+                
+                
+                   <table id="T4">
+                      <title>
+                         <p>Table 4</p>
+                      </title>
+                      <caption>
+                         <p>
+                              <b>Outcomes of Ghana EMBRACE implementation research project</b>                            
+                         </p>
+                      </caption>
+                      <tgroup align="left" cols="5">
+                         <colspec align="left" colname="c1" colnum="1" colwidth="*"/>
+                         <colspec align="left" colname="c2" colnum="2" colwidth="*"/>
+                         <colspec align="left" colname="c3" colnum="3" colwidth="*"/>
+                         <colspec align="left" colname="c4" colnum="4" colwidth="*"/>
+                         <colspec align="left" colname="c5" colnum="5" colwidth="*"/>
+                         <thead>
+                            <row valign="top">
+                               <entry colname="c1">
+                                  <p>
+                                     <b>Study objective</b>                                
+                                  </p>
+                               </entry>
+                               <entry nameend="c3" namest="c2">
+                                  <p>
+                                     <b>Outcome variables</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>
+                                     <b>Methods</b>                                
+                                  </p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>
+                                     <b>Data source</b>                                
+                                  </p>
+                               </entry>
+                            </row>
+                         </thead>
+                         <tfoot>
+                            <p>ANC, antenatal care; CoC, Continuum of Care; HDSS, Health and Demographic Surveillance System; MNCH, maternal, newborn, and child health; NMR, neonatal mortality rate; PMR, perinatal mortality rate; PNC, postnatal care; SBA, skilled birth attendant.</p>
+                         </tfoot>
+                         <tbody>
+                            <row valign="top">
+                               <entry nameend="c5" namest="c1">
+                                  <p>
+                                     <b>Intervention outcomes</b>                                
+                                  </p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1" morerows="3">
+                                  <p>To examine the effect of the EMBRACE interventions on CoC completion</p>
+                               </entry>
+                               <entry colname="c2" morerows="1">
+                                  <p>1) CoC completion rate</p>
+                               </entry>
+                               <entry colname="c3" morerows="1">
+                                  <p>Rate of mothers and their newborns who completed CoC: ANC 4 visits, delivery assisted by SBAs, PNC 3 times (within 48 hours, at 7 days, at 6 weeks postpartum)</p>
+                               </entry>
+                               <entry colname="c4" morerows="1">
+                                  <p>Quantitative analysis</p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>Interview using semi-structured questionnaire</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c5">
+                                  <p>Monitoring data</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c2" morerows="1">
+                                  <p>2) Rate of PNC within 48 hours</p>
+                               </entry>
+                               <entry colname="c3" morerows="1">
+                                  <p>PNC rate of mothers and newborns within 48 hours postpartum by 24 hours retention at health facility or home visit</p>
+                               </entry>
+                               <entry colname="c4" morerows="1">
+                                  <p>Quantitative analysis</p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>Interview using semi-structured questionnaire</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c5">
+                                  <p>Monitoring data</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1" morerows="2">
+                                  <p>To evaluate the impact of the interventions on MNCH status</p>
+                               </entry>
+                               <entry colname="c2">
+                                  <p>3) Complication rate of mothers and newborns</p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>Complication rates which require mothers&#8217; and newborns&#8217; hospitalizations for more than 24 hours</p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>Quantitative analysis</p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>Interview using semi-structured questionnaire</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c2" morerows="1">
+                                  <p>4) PMR and NMR</p>
+                               </entry>
+                               <entry colname="c3" morerows="1">
+                                  <p>PMR: fetal deaths during any period of pregnancy and newborn death within 7 completed days after birth. Early NMR: neonatal deaths occurring during the first 7 days of life. Late NMR: neonatal deaths occurring after 7 days but before 28 completed days of life</p>
+                               </entry>
+                               <entry colname="c4" morerows="1">
+                                  <p>Quantitative analysis</p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>HDSS data</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c5">
+                                  <p>Interview using semi-structured questionnaire</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry nameend="c5" namest="c1">
+                                  <p>
+                                     <b>Implementation outcomes</b>                                
+                                  </p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c1" morerows="12">
+                                  <p>To evaluate the acceptability of the interventions in different settings in Ghana</p>
+                               </entry>
+                               <entry colname="c2" morerows="1">
+                                  <p>1) Intervention coverage</p>
+                               </entry>
+                               <entry colname="c3" morerows="1">
+                                  <p>Percentage of women covered by intervention</p>
+                               </entry>
+                               <entry colname="c4" morerows="1">
+                                  <p>Quantitative analysis</p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>Interview using semi-structured questionnaire</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c5">
+                                  <p>Monitoring data</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c2" morerows="2">
+                                  <p>2) Adoption</p>
+                               </entry>
+                               <entry colname="c3" morerows="2">
+                                  <p>Percentage and types of settings and staff adopted in the intervention</p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>Quantitative analysis</p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>Monitoring data</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c4" morerows="1">
+                                  <p>Qualitative summary of key informant interviews</p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>Supervision data</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c5">
+                                  <p>Notes from key informant interview</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c2" morerows="3">
+                                  <p>3) Fidelity</p>
+                               </entry>
+                               <entry colname="c3" morerows="3">
+                                  <p>Adherence to the protocol and quality of intervention delivery</p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>Quantitative analysis</p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>Monitoring data</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c4" morerows="2">
+                                  <p>Qualitative summary of key informant interviews </p>
+                                  <p>Monthly meeting of project coordinators</p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>Supervision data</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c5">
+                                  <p>Notes from key informant interview</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c5">
+                                  <p>Discussion notes of coordinators&#8217; meetings</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c2">
+                                  <p>4) Implementation cost</p>
+                               </entry>
+                               <entry colname="c3">
+                                  <p>Direct measures of implementation cost and additional expense of implementation costs</p>
+                               </entry>
+                               <entry colname="c4">
+                                  <p>Quantitative summary</p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>Costing format</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c2" morerows="2">
+                                  <p>5) Sustainability</p>
+                               </entry>
+                               <entry colname="c3" morerows="2">
+                                  <p>Institutionalization of interventions or practice Passage, cycle or routine, and niche saturation</p>
+                               </entry>
+                               <entry colname="c4" morerows="1">
+                                  <p>Discussions incorporating results of intervention research with project supervisors</p>
+                               </entry>
+                               <entry colname="c5">
+                                  <p>Discussion notes of project meetings including district health officer</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c5">
+                                  <p>Notes from key informant interview with health workers and district health officers</p>
+                               </entry>
+                            </row>
+                            <row valign="top">
+                               <entry colname="c4">
+                                  <p>Qualitative summary of key informant interviews</p>
+                               </entry>
+                               <entry colname="c5"/>
+                            </row>
+                         </tbody>
+                      </tgroup>
+                   </table>
+                
+             </sec>
+             <sec>
+                <st>
+                   <p>Implementation outcome measures</p>
+                </st>
+                <p>The implementation outcomes will be measured by five outcomes: 1) intervention coverage of target population, 2) adoption and 3) fidelity in CoC card utilization or PNC within 48&#160;hours by mothers&#8217; retention at health facility or by home visit, 4) implementation cost, and 5) sustainability <abbrgrp>
+                      <abbr bid="B64">64</abbr>
+                   </abbrgrp>,<abbrgrp>
+                      <abbr bid="B78">78</abbr>
+                   </abbrgrp>,<abbrgrp>
+                      <abbr bid="B79">79</abbr>
+                   </abbrgrp>.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Sample size</p>
+             </st>
+             <p>We made a calculation for two types of sample size to measure different outcomes. At first, to measure the CoC completion rate, we used the interview survey and calculated a total of 1,500 women for the sample size. Second, to measure the NMR, we used a HDSS data and calculated a total of 15,000 women for the sample size.</p>
+             <p>To calculate the sample size of the CoC completion rate, we used the data of the formative research collected in the previous year in the same sites. According to the data, the CoC completion rate was 8.0%. The coverage of four ANC visits, delivery attended by SBAs, PNC within 48&#160;hours postpartum, and PNC at two weeks were 86.6%, 75.8%, 13.0%, and 60.0%, respectively. The lowest coverage was identified at PNC within 48&#160;hours postpartum, and if this coverage increases to more than that of PNC at two weeks, the CoC completion rate would also increase to 60.0%. For that, we estimated that coverage of four ANC visits would be improved from 86.6 to 95.0%, and calculated the sample size using an intraclass correlation coefficient (ICC) of 0.02675 determined in the formative research. The ICC was estimated by considering the differences in the sizes of clusters using multilevel regression with a random intercept at the cluster level. The confidence interval (CI) was 95%, and power was 80%. Adding 10% for potential attrition, the total sample size was calculated at 1,500 for each baseline and follow-up survey period. Therefore, we estimated approximately a 500-person sample size for each HDSS site (1,500 in total).</p>
+             <p>In addition to the interview survey, we will also use the HDSS data to evaluate the effect of the interventions on perinatal and neonatal mortality. For the baseline and follow-up survey periods, HDSS data will capture 15,000 pregnancy cases, respectively. The sample size was estimated according to the following assumptions: a 25% reduction of PMR (from 31 to 23 per 1,000 pregnancies), with 95% CI, 80% power, 32 clusters, and an ICC of 0.0007256. The ICC was based on previous MNCH research conducted in the study area <abbrgrp>
+                   <abbr bid="B74">74</abbr>
+                </abbrgrp> and the sample size was calculated at 13,548. In addition, we added 10% for potential attrition.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Statistical analysis</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Continuum of care completion and morbidity</p>
+                </st>
+                <p>We will conduct baseline and follow-up interview surveys to assess changes in each outcome in both the intervention and control arms. To minimize overestimation of intervention impact, we will estimate all intervention impact outcomes with an intention-to-treat analysis. In this analysis, individuals&#8217; outcome data are analyzed according to the allocated arm regardless of the place where they received care. Also, all eligible individuals are included in the analysis regardless of whether they provided outcome data <abbrgrp>
+                      <abbr bid="B80">80</abbr>
+                   </abbrgrp>.</p>
+                <p>We will conduct a descriptive analysis to assess the distribution of various factors related to the mothers and newborns under study. To evaluate the average effectiveness of interventions on CoC completion, we will apply the generalized estimating equations model with both continuous and binary outcomes <abbrgrp>
+                      <abbr bid="B80">80</abbr>
+                   </abbrgrp>. This model uses data on all mothers, including those with incomplete data, over the period from 16&#160;weeks of pregnancy to six weeks postpartum. Adjustment factors include basic demographic characteristics, socioeconomic characteristics, and facility characteristics. The data analysis will mostly be conducted using Stata version 13 (StataCorp LP, College Station, Texas, United States).</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Mortality rate</p>
+                </st>
+                <p>PMR and NMR will be calculated based on the number of live births and perinatal deaths or neonatal deaths as a total of the three HDSS sites, as well as at each HDSS site. These outcomes will be compared before and after interventions.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Adoption of postnatal care within 48&#160;hours and continuum of care card utilization</p>
+                </st>
+                <p>Implementation impact will be evaluated by means of descriptive statistical analysis. The qualitative data will be coded and categorized.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Ethical considerations</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Approval</p>
+                </st>
+                <p>Ethical approval was obtained from the Ethics Review Committee of the GHS (reference: GHS-ERC: 13/03/14), the Institutional Review Boards of Dodowa HRC (reference: FGS-DHRC: 280214), Kintampo HRC (reference: 2014&#8211;11), and Navrongo HRC (reference: NHRCIRB137) in Ghana, and from the Research Ethics Committee of the University of Tokyo in Japan (reference serial number: 10513).</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Individual and community consent</p>
+                </st>
+                <p>Informed consent will be obtained from all survey participants before their inclusion in the study. We will record the consent through a signature or thumbprint. Participants will be withdrawn from the study if they experience a serious or intolerable adverse event, develop or disclose symptoms or conditions listed in the exclusion criteria, or require early discontinuation for any other reason. This will not affect their normal service delivery at any of the health facilities.</p>
+                <p>Permission for conducting the intervention study will be sought from the local health authorities and community leaders before initiating the study.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Benefits and risks</p>
+                </st>
+                <p>This intervention package is not invasive. Thus, the participants will not be exposed to marked risks. By participating in this study, they benefit by improved CoC knowledge and care of mothers and newborns. The MNCH service providers will receive a training session about CoC and the procedures to be performed. Health facilities of the intervention arm will receive a set of PNC services, motorbikes, or rest beds if they are not available ones. We will introduce the intervention to the control arm participants immediately when a positive impact is identified. We will encourage referral to a health facility if we identify minor, acute, or chronic illness in mothers or newborns in either the intervention or control arms.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Confidentiality of information</p>
+                </st>
+                <p>All information obtained through this study will be confidential. Access to information will be limited to research assistants for conducting interviews and data entry management staff. Study records will be identified only by means of study identification numbers.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Dissemination of trial findings</p>
+             </st>
+             <p>The results of the study will be presented first to community members and their leaders in HDSS sites. In addition, policy briefs will be developed in collaboration with the Policy, Planning, Monitoring, and Evaluation Division of the GHS and submitted to the Office of the Director-General of GHS and the Family Health Division. Presentations will be made at the GHS Directors meeting, the Senior Managers Meeting, and international conferences.</p>
+             <p>Trial findings will also be disseminated in scientific meetings and papers on the intervention impact on improving CoC, the impact of increased CoC on MNCH status, the acceptability of the interventions, and the strategies for Japan's international health policy for MNCH.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Discussion</p>
+          </st>
+          <p>This paper describes the protocol for a cluster randomized controlled trial to evaluate the impact of increased CoC completion on MNCH status and the acceptability of the interventions in different settings in Ghana. The interventions will be implemented in close consultation with local health administrative offices that have direct responsibility for supervising health facilities. Ongoing feedback will be provided through routine supervision. Additionally, we developed the study materials in close cooperation with policymakers in Ghana.</p>
+          <p>The study has limitations. First, the short intervention period may limit the power to fully measure the intervention and implementation impacts. The period is short because we needed repeated discussions to develop intervention packages aimed at a sustainable and scalable intervention design in a real-world setting. The project takes into account the next scale-up phase which will likely last years, during which the impacts could be measured more accurately. To reduce this limitation, we adopted the effectiveness-implementation hybrid trial that is an advantageous study design for time efficiency that enables rapid scaling of the intervention up to the national MNCH service standard. Second, our intervention impacts could be affected by previous or current projects implemented at the HDSS sites. To minimize it, we will control the potential effect for data analysis and carefully discuss the study findings.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Trial status</p>
+          </st>
+          <p>The trial was registered in the International Standard Randomized Controlled Trial Number Register on 3 September 2014 (ISRCTN90618993). Recruitment for intervention commences in October 2014 and will continue until September 2015.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Abbreviations</p>
+          </st>
+          <p>ANC: Antenatal care</p>
+          <p>CHO: Community Health Officer</p>
+          <p>CHPS: Community-based Health Planning and Services</p>
+          <p>CI: Confidence interval</p>
+          <p>CoC: Continuum of Care</p>
+          <p>EMBRACE: Ensure Mothers and Babies Regular Access to Care</p>
+          <p>GHS: Ghana Health Service</p>
+          <p>GU: Geographical Unit</p>
+          <p>HDSS: Health and Demographic Surveillance System</p>
+          <p>HRC: Health Research Centre</p>
+          <p>ICC: Intraclass correlation coefficient</p>
+          <p>MDGs: Millennium Development Goals</p>
+          <p>MNCH: Maternal, newborn and child health</p>
+          <p>NMR: Neonatal mortality rate</p>
+          <p>PMR: Perinatal mortality rate</p>
+          <p>PMTCT: Prevention of mother-to-child transmission</p>
+          <p>PNC: Postnatal care</p>
+          <p>SBA: Skilled birth attendant</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Competing interests</p>
+          </st>
+          <p>The authors declare that they have no competing interests.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Authors&#8217; contributions</p>
+          </st>
+          <p>KK and EA prepared the first draft of the manuscript. SO and MJ provided critical comments on the revision of the manuscript. AS provided input on the statistical analysis. MG, SOA, AO, GQA, and AH provided critical comments on the final manuscript. All listed co-authors and the Ghana EMBRACE Implementation Research Project Team contributed to the original trial design. All listed authors have read and approved the final manuscript.</p>
+       </sec>
+    </bdy>
+    <bm>
+       <ack>
+          <sec>
+             <st>
+                <p>Acknowledgements</p>
+             </st>
+             <p>The authors thank the Ministry of Foreign Affairs in Japan and the Ministry of Health in Ghana. Special thanks to the many advisers and implementation members.</p>
+             <p>The Ghana EMBRACE Implementation Research Project is conducted by the Government of the Republic of Ghana, Japan International Cooperation Agency (JICA) Human Development Department, and JICA Research Institute. The content is solely the responsibility of the authors and does not necessarily represent the official views of JICA Human Development Department and JICA Research Institute.</p>
+             <p>Ghana EMBRACE Implementation Research Project Team (in addition to named authors): Ebenezer Appiah-Denkyira, Yoshiharu Yoneyama, Junko Yasuoka, Keiko Nanishi, Yusuke Kamiya, Akiko Hagiwara, Sakiko Shiratori, Sheila Addei, Doris Sarpong, Charlotte Tawiah, Yeetey Enuameh, Kwame Adjei, Cornelius Debpuur, and Francis Yeji.</p>
+          </sec>
+       </ack>
+       <refgrp>
+          
+          <bibl id="B1">
+             <title>
+                <p>Maternal mortality among the Kassena-Nankana of northern Ghana</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Ngom</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Akweongo</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Adongo</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Bawah</snm>
+                   <fnm>AA</fnm>
+                </au>
+                <au>
+                   <snm>Binka</snm>
+                   <fnm>F</fnm>
+                </au>
+             </aug>
+             <source>Stud Fam Plann</source>
+             <pubdate>1999</pubdate>
+             <volume>30</volume>
+             <fpage>142</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1728-4465.1999.00142.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">16617548</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B2">
+             <insg>
+                <ins>
+                   <p>United Nations International Children&#8217;s Fund (UNICEF)</p>
+                </ins>
+             </insg>
+             <source>Levels and trends in child mortality 2013</source>
+             <publisher>UNICEF, New York</publisher>
+             <pubdate>2013</pubdate>
+          </bibl>
+          <bibl id="B3">
+             <insg>
+                <ins>
+                   <p>World Health Organization (WHO)</p>
+                </ins>
+             </insg>
+             <source>Revised 1990 estimate of maternal mortality: a new approach by WHO and UNICEF</source>
+             <publisher>WHO, Geneva</publisher>
+             <pubdate>1996</pubdate>
+          </bibl>
+          <bibl id="B4">
+             <insg>
+                <ins>
+                   <p>World Health Organization (WHO)</p>
+                </ins>
+             </insg>
+             <source>Making a difference in countries: strategic approach to improving maternal and newborn survival and health: ensuring skilled care for every birth</source>
+             <publisher>WHO, Geneva</publisher>
+             <pubdate>2006</pubdate>
+          </bibl>
+          <bibl id="B5">
+             <title>
+                <p>Sub-Saharan Africa&#8217;s mothers, newborns, and children: where and why do they die?</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kinney</snm>
+                   <fnm>MV</fnm>
+                </au>
+                <au>
+                   <snm>Kerber</snm>
+                   <fnm>KJ</fnm>
+                </au>
+                <au>
+                   <snm>Black</snm>
+                   <fnm>RE</fnm>
+                </au>
+                <au>
+                   <snm>Cohen</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Nkrumah</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Coovadia</snm>
+                   <fnm>H</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>PLoS Med</source>
+             <pubdate>2010</pubdate>
+             <volume>7</volume>
+             <fpage>e1000294</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1371/journal.pmed.1000294</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20574524</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B6">
+             <title>
+                <p>Maternal mortality for 181 countries, 1980&#8211;2008: a systematic analysis of progress towards Millennium Development Goal 5</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hogan</snm>
+                   <fnm>MC</fnm>
+                </au>
+                <au>
+                   <snm>Foreman</snm>
+                   <fnm>KJ</fnm>
+                </au>
+                <au>
+                   <snm>Naghavi</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Ahn</snm>
+                   <fnm>SY</fnm>
+                </au>
+                <au>
+                   <snm>Wang</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Makela</snm>
+                   <fnm>SM</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Lancet</source>
+             <pubdate>2010</pubdate>
+             <volume>375</volume>
+             <fpage>1609</fpage>
+             <lpage>23</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0140-6736(10)60518-1</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20382417</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B7">
+             <title>
+                <p>Neonatal, postneonatal, childhood, and under-5 mortality for 187 countries, 1970&#8211;2010: a systematic analysis of progress towards Millennium Development Goal 4</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Rajaratnam</snm>
+                   <fnm>JK</fnm>
+                </au>
+                <au>
+                   <snm>Marcus</snm>
+                   <fnm>JR</fnm>
+                </au>
+                <au>
+                   <snm>Flaxman</snm>
+                   <fnm>AD</fnm>
+                </au>
+                <au>
+                   <snm>Wang</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Levin-Rector</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Dwyer</snm>
+                   <fnm>L</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Lancet</source>
+             <pubdate>2010</pubdate>
+             <volume>375</volume>
+             <fpage>1988</fpage>
+             <lpage>2008</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0140-6736(10)60703-9</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20546887</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B8">
+             <insg>
+                <ins>
+                   <p>United Nations Development Programme (UNDP)</p>
+                </ins>
+             </insg>
+             <source>Beyond the midpoint: achieving the Millennium Development Goals</source>
+             <publisher>UNDP, New York</publisher>
+             <pubdate>2010</pubdate>
+          </bibl>
+          <bibl id="B9">
+             <title>
+                <p>Neonatal survival: a call for action</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Martines</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Paul</snm>
+                   <fnm>VK</fnm>
+                </au>
+                <au>
+                   <snm>Bhutta</snm>
+                   <fnm>ZA</fnm>
+                </au>
+                <au>
+                   <snm>Koblinsky</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Soucat</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Walker</snm>
+                   <fnm>N</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Lancet</source>
+             <pubdate>2005</pubdate>
+             <volume>365</volume>
+             <fpage>1189</fpage>
+             <lpage>97</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0140-6736(05)71882-1</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15794974</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B10">
+             <title>
+                <p>Where is maternal and child health now?</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Lawn</snm>
+                   <fnm>JE</fnm>
+                </au>
+                <au>
+                   <snm>Tinker</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Munjanja</snm>
+                   <fnm>SP</fnm>
+                </au>
+                <au>
+                   <snm>Cousens</snm>
+                   <fnm>S</fnm>
+                </au>
+             </aug>
+             <source>Lancet</source>
+             <pubdate>2006</pubdate>
+             <volume>368</volume>
+             <fpage>1474</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0140-6736(06)69387-2</pubid>
+                   <pubid idtype="pmpid" link="fulltext">17071267</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B11">
+             <title>
+                <p>Continuum of care for maternal, newborn, and child health: from slogan to service delivery</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kerber</snm>
+                   <fnm>KJ</fnm>
+                </au>
+                <au>
+                   <snm>de Graft-Johnson</snm>
+                   <fnm>JE</fnm>
+                </au>
+                <au>
+                   <snm>Bhutta</snm>
+                   <fnm>ZA</fnm>
+                </au>
+                <au>
+                   <snm>Okong</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Starrs</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Lawn</snm>
+                   <fnm>JE</fnm>
+                </au>
+             </aug>
+             <source>Lancet</source>
+             <pubdate>2007</pubdate>
+             <volume>370</volume>
+             <fpage>1358</fpage>
+             <lpage>69</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0140-6736(07)61578-5</pubid>
+                   <pubid idtype="pmpid" link="fulltext">17933651</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B12">
+             <title>
+                <p>The continuum of care: a concept development study</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>McBryde-Foster</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Allen</snm>
+                   <fnm>T</fnm>
+                </au>
+             </aug>
+             <source>J Adv Nurs</source>
+             <pubdate>2005</pubdate>
+             <volume>50</volume>
+             <fpage>624</fpage>
+             <lpage>32</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1365-2648.2005.03447.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15926967</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B13">
+             <title>
+                <p>A continuum of mental health care for children and adolescents</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>McKelvey</snm>
+                   <fnm>RS</fnm>
+                </au>
+             </aug>
+             <source>Hosp Community Psychiatry</source>
+             <pubdate>1988</pubdate>
+             <volume>39</volume>
+             <fpage>870</fpage>
+             <lpage>3</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">3209204</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B14">
+             <title>
+                <p>A new analytical framework of 'continuum of prevention and care' to maximize HIV case detection and retention in care in Vietnam</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Fujita</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Poudel</snm>
+                   <fnm>KC</fnm>
+                </au>
+                <au>
+                   <snm>Do</snm>
+                   <fnm>TN</fnm>
+                </au>
+                <au>
+                   <snm>Bui</snm>
+                   <fnm>DD</fnm>
+                </au>
+                <au>
+                   <snm>Nguyen</snm>
+                   <fnm>VK</fnm>
+                </au>
+                <au>
+                   <snm>Green</snm>
+                   <fnm>K</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>BMC Health Serv Res</source>
+             <pubdate>2012</pubdate>
+             <volume>12</volume>
+             <fpage>483</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1186/1472-6963-12-483</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23272730</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B15">
+             <insg>
+                <ins>
+                   <p>The Partnership for Maternal, Newborn and Child Health (PMNCH)</p>
+                </ins>
+             </insg>
+             <source>Strategic Framework 2012 to 2015</source>
+             <publisher>World Health Organization, Geneva</publisher>
+             <pubdate>2011</pubdate>
+          </bibl>
+          <bibl id="B16">
+             <title>
+                <p>A continuum of care to save newborn lives</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Tinker</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>ten Hoope-Bender</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Azfar</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Bustreo</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Bell</snm>
+                   <fnm>R</fnm>
+                </au>
+             </aug>
+             <source>Lancet</source>
+             <pubdate>2005</pubdate>
+             <volume>365</volume>
+             <fpage>822</fpage>
+             <lpage>5</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0140-6736(05)71016-3</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15752509</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B17">
+             <insg>
+                <ins>
+                   <p>World Health Organization (WHO)</p>
+                </ins>
+             </insg>
+             <source>The World Health Report 2005: make every mother and child count</source>
+             <publisher>WHO, Geneva</publisher>
+             <pubdate>2005</pubdate>
+          </bibl>
+          <bibl id="B18">
+             <title>
+                <p>The interconnections between maternal and newborn health&#8211;evidence and implications for policy</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Lassi</snm>
+                   <fnm>ZS</fnm>
+                </au>
+                <au>
+                   <snm>Majeed</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Rashid</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Yakoob</snm>
+                   <fnm>MY</fnm>
+                </au>
+                <au>
+                   <snm>Bhutta</snm>
+                   <fnm>ZA</fnm>
+                </au>
+             </aug>
+             <source>J Matern Fetal Neonatal Med</source>
+             <pubdate>2013</pubdate>
+             <volume>26</volume>
+             <issue>Suppl 1</issue>
+             <fpage>3</fpage>
+             <lpage>53</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.3109/14767058.2013.784737</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23617260</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B19">
+             <title>
+                <p>An intervention involving traditional birth attendants and perinatal and maternal mortality in Pakistan</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Jokhio</snm>
+                   <fnm>AH</fnm>
+                </au>
+                <au>
+                   <snm>Winter</snm>
+                   <fnm>HR</fnm>
+                </au>
+                <au>
+                   <snm>Cheng</snm>
+                   <fnm>KK</fnm>
+                </au>
+             </aug>
+             <source>N Engl J Med</source>
+             <pubdate>2005</pubdate>
+             <volume>352</volume>
+             <fpage>2091</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1056/NEJMsa042830</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15901862</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B20">
+             <title>
+                <p>Effect of a participatory intervention with women&#8217;s groups on birth outcomes in Nepal: cluster-randomised controlled trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Manandhar</snm>
+                   <fnm>DS</fnm>
+                </au>
+                <au>
+                   <snm>Osrin</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Shrestha</snm>
+                   <fnm>BP</fnm>
+                </au>
+                <au>
+                   <snm>Mesko</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Morrison</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Tumbahangphe</snm>
+                   <fnm>KM</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Lancet</source>
+             <pubdate>2004</pubdate>
+             <volume>364</volume>
+             <fpage>970</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0140-6736(04)17021-9</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15364188</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B21">
+             <title>
+                <p>Process evaluation of a community-based intervention promoting multiple maternal and neonatal care practices in rural Nepal</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>McPherson</snm>
+                   <fnm>RA</fnm>
+                </au>
+                <au>
+                   <snm>Tamang</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Hodgins</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Pathak</snm>
+                   <fnm>LR</fnm>
+                </au>
+                <au>
+                   <snm>Silwal</snm>
+                   <fnm>RC</fnm>
+                </au>
+                <au>
+                   <snm>Baqui</snm>
+                   <fnm>AH</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>BMC Pregnancy Childbirth</source>
+             <pubdate>2010</pubdate>
+             <volume>10</volume>
+             <fpage>31</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1186/1471-2393-10-31</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20529251</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B22">
+             <title>
+                <p>Implementing community-based perinatal care: results from a pilot study in rural Pakistan</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bhutta</snm>
+                   <fnm>ZA</fnm>
+                </au>
+                <au>
+                   <snm>Memon</snm>
+                   <fnm>ZA</fnm>
+                </au>
+                <au>
+                   <snm>Soofi</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Salat</snm>
+                   <fnm>MS</fnm>
+                </au>
+                <au>
+                   <snm>Cousens</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Martines</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>Bull World Health Organ</source>
+             <pubdate>2008</pubdate>
+             <volume>86</volume>
+             <fpage>452</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.2471/BLT.07.045849</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18568274</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B23">
+             <title>
+                <p>Effect of community-based behaviour change management on neonatal mortality in Shivgarh, Uttar Pradesh, India: a cluster-randomised controlled trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kumar</snm>
+                   <fnm>V</fnm>
+                </au>
+                <au>
+                   <snm>Mohanty</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Kumar</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Misra</snm>
+                   <fnm>RP</fnm>
+                </au>
+                <au>
+                   <snm>Santosham</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Awasthi</snm>
+                   <fnm>S</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Lancet</source>
+             <pubdate>2008</pubdate>
+             <volume>372</volume>
+             <fpage>1151</fpage>
+             <lpage>62</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0140-6736(08)61483-X</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18926277</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B24">
+             <title>
+                <p>Insecticide-treated nets for the prevention of malaria in pregnancy: a systematic review of randomised controlled trials</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Gamble</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Ekwaru</snm>
+                   <fnm>PJ</fnm>
+                </au>
+                <au>
+                   <snm>Garner</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>ter Kuile</snm>
+                   <fnm>FO</fnm>
+                </au>
+             </aug>
+             <source>PLoS Med</source>
+             <pubdate>2007</pubdate>
+             <volume>4</volume>
+             <fpage>e107</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1371/journal.pmed.0040107</pubid>
+                   <pubid idtype="pmpid" link="fulltext">17388668</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B25">
+             <title>
+                <p>Anemia vs iron deficiency: increased risk of preterm delivery in a prospective study</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Scholl</snm>
+                   <fnm>TO</fnm>
+                </au>
+                <au>
+                   <snm>Hediger</snm>
+                   <fnm>ML</fnm>
+                </au>
+                <au>
+                   <snm>Fischer</snm>
+                   <fnm>RL</fnm>
+                </au>
+                <au>
+                   <snm>Shearer</snm>
+                   <fnm>JW</fnm>
+                </au>
+             </aug>
+             <source>Am J Clin Nutr</source>
+             <pubdate>1992</pubdate>
+             <volume>55</volume>
+             <fpage>985</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">1570808</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B26">
+             <title>
+                <p>Maternal hematologic levels and pregnancy outcomes</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Garn</snm>
+                   <fnm>SM</fnm>
+                </au>
+                <au>
+                   <snm>Ridella</snm>
+                   <fnm>SA</fnm>
+                </au>
+                <au>
+                   <snm>Petzold</snm>
+                   <fnm>AS</fnm>
+                </au>
+                <au>
+                   <snm>Falkner</snm>
+                   <fnm>F</fnm>
+                </au>
+             </aug>
+             <source>Semin Perinatol</source>
+             <pubdate>1981</pubdate>
+             <volume>5</volume>
+             <fpage>155</fpage>
+             <lpage>62</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">7198826</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B27">
+             <title>
+                <p>Why is continuum of care from home to health facilities essential to improve perinatal survival?</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bahl</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Qazi</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Darmstadt</snm>
+                   <fnm>GL</fnm>
+                </au>
+                <au>
+                   <snm>Martines</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>Semin Perinatol</source>
+             <pubdate>2010</pubdate>
+             <volume>34</volume>
+             <fpage>477</fpage>
+             <lpage>85</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1053/j.semperi.2010.09.001</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21094421</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B28">
+             <note>Witter S, Adjei S, Armar-Klemesu M, Graham W. Providing free maternal health care: ten lessons from an evaluation of the national delivery exemption policy in Ghana. Glob Health Action. 2009;2. doi: 10.3402/gha.v2i0.1881</note>
+          </bibl>
+          <bibl id="B29">
+             <title>
+                <p>Effect on maternal and child health services in Rwanda of payment to primary health-care providers for performance: an impact evaluation</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Basinga</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Gertler</snm>
+                   <fnm>PJ</fnm>
+                </au>
+                <au>
+                   <snm>Binagwaho</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Soucat</snm>
+                   <fnm>AL</fnm>
+                </au>
+                <au>
+                   <snm>Sturdy</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Vermeersch</snm>
+                   <fnm>CM</fnm>
+                </au>
+             </aug>
+             <source>Lancet</source>
+             <pubdate>2011</pubdate>
+             <volume>377</volume>
+             <fpage>1421</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0140-6736(11)60177-3</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21515164</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B30">
+             <title>
+                <p>India&#8217;s Janani Suraksha Yojana, a conditional cash transfer programme to increase births in health facilities: an impact evaluation</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Lim</snm>
+                   <fnm>SS</fnm>
+                </au>
+                <au>
+                   <snm>Dandona</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Hoisington</snm>
+                   <fnm>JA</fnm>
+                </au>
+                <au>
+                   <snm>James</snm>
+                   <fnm>SL</fnm>
+                </au>
+                <au>
+                   <snm>Hogan</snm>
+                   <fnm>MC</fnm>
+                </au>
+                <au>
+                   <snm>Gakidou</snm>
+                   <fnm>E</fnm>
+                </au>
+             </aug>
+             <source>Lancet</source>
+             <pubdate>2010</pubdate>
+             <volume>375</volume>
+             <fpage>2009</fpage>
+             <lpage>23</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0140-6736(10)60744-1</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20569841</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B31">
+             <insg>
+                <ins>
+                   <p>The Partnership for Maternal, Newborn and Child Health (PMNCH)</p>
+                </ins>
+             </insg>
+             <source>Opportunities for Africa&#8217;s newborns: practical data, policy and programmatic support for newborn care in Africa</source>
+             <publisher>World Health Organization, Geneva</publisher>
+             <pubdate>2006</pubdate>
+          </bibl>
+          <bibl id="B32">
+             <aug>
+                <au>
+                   <snm>de Graft-Johnson</snm>
+                   <fnm>JDP</fnm>
+                </au>
+                <au>
+                   <snm>Otchere</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Russell</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Bell</snm>
+                   <fnm>R</fnm>
+                </au>
+             </aug>
+             <source>Household-to-home continuum of maternal and newborn care</source>
+             <publisher>ACCESS Programme, Maryland</publisher>
+             <pubdate>2005</pubdate>
+          </bibl>
+          <bibl id="B33">
+             <title>
+                <p>Traditional birth attendant training for improving health behaviours and pregnancy outcomes</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Sibley</snm>
+                   <fnm>LM</fnm>
+                </au>
+                <au>
+                   <snm>Sipe</snm>
+                   <fnm>TA</fnm>
+                </au>
+                <au>
+                   <snm>Brown</snm>
+                   <fnm>CM</fnm>
+                </au>
+                <au>
+                   <snm>Diallo</snm>
+                   <fnm>MM</fnm>
+                </au>
+                <au>
+                   <snm>McNatt</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Habarta</snm>
+                   <fnm>N</fnm>
+                </au>
+             </aug>
+             <source>Cochrane Database Syst Rev</source>
+             <pubdate>2007</pubdate>
+             <volume>3</volume>
+             <fpage>CD005460</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">17636799</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B34">
+             <title>
+                <p>The effectiveness of emergency obstetric referral interventions in developing country settings: a systematic review</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hussein</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Kanguru</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Astin</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Munjanja</snm>
+                   <fnm>S</fnm>
+                </au>
+             </aug>
+             <source>PLoS Med</source>
+             <pubdate>2012</pubdate>
+             <volume>9</volume>
+             <fpage>e1001264</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1371/journal.pmed.1001264</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22807658</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B35">
+             <aug>
+                <au>
+                   <snm>Abato</snm>
+                   <fnm>MHJ</fnm>
+                </au>
+             </aug>
+             <source>Conditional cash transfer programs and health in conditional cash transfers in Latin America</source>
+             <publisher>Jophns Hopkins University Press, Maryland</publisher>
+             <pubdate>2010</pubdate>
+          </bibl>
+          <bibl id="B36">
+             <title>
+                <p>Implementation research: what it is and how to do it</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>David</snm>
+                   <fnm>HP</fnm>
+                </au>
+                <au>
+                   <snm>Taghreed</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Olakunle</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Irene Akua</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Nhan</snm>
+                   <fnm>T</fnm>
+                </au>
+             </aug>
+             <source>BMJ</source>
+             <pubdate>2013</pubdate>
+             <volume>347</volume>
+             <fpage>f6753</fpage>
+          </bibl>
+          <bibl id="B37">
+             <title>
+                <p>Evidence-based, cost-effective interventions: how many newborn babies can we save?</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Darmstadt</snm>
+                   <fnm>GL</fnm>
+                </au>
+                <au>
+                   <snm>Bhutta</snm>
+                   <fnm>ZA</fnm>
+                </au>
+                <au>
+                   <snm>Cousens</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Adam</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Walker</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>de Bernis</snm>
+                   <fnm>L</fnm>
+                </au>
+             </aug>
+             <source>Lancet</source>
+             <pubdate>2005</pubdate>
+             <volume>365</volume>
+             <fpage>977</fpage>
+             <lpage>88</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0140-6736(05)71088-6</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15767001</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B38">
+             <title>
+                <p>Saving newborn lives in Asia and Africa: cost and impact of phased scale-up of interventions within the continuum of care</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Darmstadt</snm>
+                   <fnm>GL</fnm>
+                </au>
+                <au>
+                   <snm>Walker</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Lawn</snm>
+                   <fnm>JE</fnm>
+                </au>
+                <au>
+                   <snm>Bhutta</snm>
+                   <fnm>ZA</fnm>
+                </au>
+                <au>
+                   <snm>Haws</snm>
+                   <fnm>RA</fnm>
+                </au>
+                <au>
+                   <snm>Cousens</snm>
+                   <fnm>S</fnm>
+                </au>
+             </aug>
+             <source>Health Policy Plann</source>
+             <pubdate>2008</pubdate>
+             <volume>23</volume>
+             <fpage>101</fpage>
+             <lpage>17</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/heapol/czn001</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B39">
+             <note>Naoto Kan PMJ. Promise to the next generation. The high-level plenary meeting of the sixty-fifth session of the general assembly of the United Nations; 2010. <url>http://www.un.org/en/mdg/summit2010/debate/JP_en.pdf</url>. Accessed 4 Jan 2015.</note>
+          </bibl>
+          <bibl id="B40">
+             <insg>
+                <ins>
+                   <p>Ministry of Foreign Affairs of Japan</p>
+                </ins>
+             </insg>
+             <source>Japan&#8217;s Global Health Policy: 2011&#8211;2015</source>
+             <publisher>Ministry of Foreign Affairs of Japan, Tokyo</publisher>
+             <pubdate>2010</pubdate>
+          </bibl>
+          <bibl id="B41">
+             <title>
+                <p>Japan&#8217;s new global health policy: 2011&#8211;2015</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Okada</snm>
+                   <fnm>K</fnm>
+                </au>
+             </aug>
+             <source>Lancet</source>
+             <pubdate>2010</pubdate>
+             <volume>376</volume>
+             <fpage>938</fpage>
+             <lpage>40</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0140-6736(10)61357-8</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20851246</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B42">
+             <title>
+                <p>Can Japan contribute to the Post Millennium Development Goals? Making human security mainstream through the TICAD process</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Takahashi</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Kobayashi</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Nomura-Baba</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Kakimoto</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Nakamura</snm>
+                   <fnm>Y</fnm>
+                </au>
+             </aug>
+             <source>Trop Med Health</source>
+             <pubdate>2013</pubdate>
+             <volume>41</volume>
+             <fpage>135</fpage>
+             <lpage>42</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.2149/tmh.2013-14</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24155655</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B43">
+             <aug>
+                <au>
+                   <snm>Sugiyama</snm>
+                   <fnm>HYA</fnm>
+                </au>
+                <au>
+                   <snm>Murakami</snm>
+                   <fnm>H</fnm>
+                </au>
+             </aug>
+             <source>Japan&#8217;s Global Health Policy; developing a comprehensive approach in period of economic stress</source>
+             <publisher>Rowman &amp; Littlefield Publishers, Lanham</publisher>
+             <pubdate>2013</pubdate>
+          </bibl>
+          <bibl id="B44">
+             <insg>
+                <ins>
+                   <p>Ghana Statistical Service (GSS) Ghana Health Service, ICF Macro</p>
+                </ins>
+             </insg>
+             <source>Ghana Maternal Health Survey 2007</source>
+             <publisher>ICF Macro, Maryland</publisher>
+             <pubdate>2008</pubdate>
+          </bibl>
+          <bibl id="B45">
+             <insg>
+                <ins>
+                   <p>Ghana Statistical Service (GSS) Ghana Health Service, ICF Macro</p>
+                </ins>
+             </insg>
+             <source>Ghana Demographic and Health Survey</source>
+             <publisher>ICF Macro, Maryland</publisher>
+             <pubdate>2009</pubdate>
+          </bibl>
+          <bibl id="B46">
+             <insg>
+                <ins>
+                   <p>World Health Organization (WHO)</p>
+                </ins>
+             </insg>
+             <source>World Health Statistics 2011</source>
+             <publisher>WHO, Geneva</publisher>
+             <pubdate>2011</pubdate>
+          </bibl>
+          <bibl id="B47">
+             <note>Adjuik M, Kanyomse E, Kondayire F, Wak G, Hodgson A. Clustering of under-five mortality in the Navrongo HDSS in the Kassena-Nankana District of northern Ghana. Glob Health Action. 2010;3. doi: 10.3402/gha.v3i0.5233</note>
+          </bibl>
+          <bibl id="B48">
+             <title>
+                <p>Maternal mortality decline in the Kassena-Nankana district of northern Ghana</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Mills</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Williams</snm>
+                   <fnm>JE</fnm>
+                </au>
+                <au>
+                   <snm>Wak</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Hodgson</snm>
+                   <fnm>A</fnm>
+                </au>
+             </aug>
+             <source>Matern Child Health J</source>
+             <pubdate>2008</pubdate>
+             <volume>12</volume>
+             <fpage>577</fpage>
+             <lpage>85</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1007/s10995-007-0289-x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">17957459</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B49">
+             <note>Nettey OE, Zandoh C, Sulemana A, Adda R, Owusu-Agyei S. Clustering of childhood mortality in the Kintampo Health and Demographic Surveillance System in Ghana. Glob Health Action. 2010;3. doi: 10.3402/gha.v3i0.5258</note>
+          </bibl>
+          <bibl id="B50">
+             <title>
+                <p>Spatial variations in childhood mortalities at the Dodowa Health and Demographic Surveillance System site of the INDEPTH Network in Ghana</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Awini</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Mattah</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Sankoh</snm>
+                   <fnm>O</fnm>
+                </au>
+                <au>
+                   <snm>Gyapong</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>Trop Med Int Health</source>
+             <pubdate>2010</pubdate>
+             <volume>15</volume>
+             <fpage>520</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1365-3156.2010.02492.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20345554</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B51">
+             <title>
+                <p>Stillbirths and early neonatal mortality in rural northern Ghana</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Engmann</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Walega</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Aborigo</snm>
+                   <fnm>RA</fnm>
+                </au>
+                <au>
+                   <snm>Adongo</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Moyer</snm>
+                   <fnm>CA</fnm>
+                </au>
+                <au>
+                   <snm>Lavasani</snm>
+                   <fnm>L</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Trop Med Int Health</source>
+             <pubdate>2012</pubdate>
+             <volume>17</volume>
+             <fpage>272</fpage>
+             <lpage>82</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">22175764</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B52">
+             <title>
+                <p>Why are babies dying in the first month after birth? A 7-year study of neonatal mortality in northern Ghana</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Welaga</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Moyer</snm>
+                   <fnm>CA</fnm>
+                </au>
+                <au>
+                   <snm>Aborigo</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Adongo</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Williams</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Hodgson</snm>
+                   <fnm>A</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>PLoS One</source>
+             <pubdate>2013</pubdate>
+             <volume>8</volume>
+             <fpage>e58924</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1371/journal.pone.0058924</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23527050</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B53">
+             <insg>
+                <ins>
+                   <p>World Health Organization (WHO)</p>
+                </ins>
+             </insg>
+             <source>Countdown to 2015: taking stock of maternal, newborn and child survival. Decade Report (2000&#8211;2010)</source>
+             <publisher>WHO, Geneva</publisher>
+             <pubdate>2010</pubdate>
+          </bibl>
+          <bibl id="B54">
+             <title>
+                <p>Beyond symptom recognition: care-seeking for ill newborns in rural Ghana</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bazzano</snm>
+                   <fnm>AN</fnm>
+                </au>
+                <au>
+                   <snm>Kirkwood</snm>
+                   <fnm>BR</fnm>
+                </au>
+                <au>
+                   <snm>Tawiah-Agyemang</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Owusu-Agyei</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Adongo</snm>
+                   <fnm>PB</fnm>
+                </au>
+             </aug>
+             <source>Trop Med Int Health</source>
+             <pubdate>2008</pubdate>
+             <volume>13</volume>
+             <fpage>123</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1365-3156.2007.01981.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18291010</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B55">
+             <title>
+                <p>Identifying obstetrical emergencies at Kintampo Municipal Hospital: a perspective from pregnant women and nursing midwives</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Oiyemhonlan</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Udofia</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Punguyire</snm>
+                   <fnm>D</fnm>
+                </au>
+             </aug>
+             <source>Afr J Reprod Health</source>
+             <pubdate>2013</pubdate>
+             <volume>17</volume>
+             <fpage>129</fpage>
+             <lpage>40</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">24069758</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B56">
+             <title>
+                <p>Individual and community determinants of neonatal mortality in Ghana: a multilevel analysis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kayode</snm>
+                   <fnm>GA</fnm>
+                </au>
+                <au>
+                   <snm>Ansah</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Agyepong</snm>
+                   <fnm>IA</fnm>
+                </au>
+                <au>
+                   <snm>Amoakoh-Coleman</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Grobbee</snm>
+                   <fnm>DE</fnm>
+                </au>
+                <au>
+                   <snm>Klipstein-Grobusch</snm>
+                   <fnm>K</fnm>
+                </au>
+             </aug>
+             <source>BMC Pregnancy Childbirth</source>
+             <pubdate>2014</pubdate>
+             <volume>14</volume>
+             <fpage>165</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1186/1471-2393-14-165</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24884759</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B57">
+             <title>
+                <p>Measuring coverage in MNCH: indicators for global tracking of newborn care</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Moran</snm>
+                   <fnm>AC</fnm>
+                </au>
+                <au>
+                   <snm>Kerber</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Sitrin</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Guenther</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Morrissey</snm>
+                   <fnm>CS</fnm>
+                </au>
+                <au>
+                   <snm>Newby</snm>
+                   <fnm>H</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>PLoS Med</source>
+             <pubdate>2013</pubdate>
+             <volume>10</volume>
+             <fpage>e1001415</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1371/journal.pmed.1001415</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23667335</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B58">
+             <title>
+                <p>Newborn care: the effect of a traditional illness, asram, in Ghana</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Okyere</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Tawiah-Agyemang</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Manu</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Deganus</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Kirkwood</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Hill</snm>
+                   <fnm>Z</fnm>
+                </au>
+             </aug>
+             <source>Ann Trop Paediatr</source>
+             <pubdate>2010</pubdate>
+             <volume>30</volume>
+             <fpage>321</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1179/146532810X12858955921311</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21118627</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B59">
+             <title>
+                <p>Achieving universal coverage with health interventions</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Victora</snm>
+                   <fnm>CG</fnm>
+                </au>
+                <au>
+                   <snm>Hanson</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Bryce</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Vaughan</snm>
+                   <fnm>JP</fnm>
+                </au>
+             </aug>
+             <source>Lancet</source>
+             <pubdate>2004</pubdate>
+             <volume>364</volume>
+             <fpage>1541</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0140-6736(04)17279-6</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15500901</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B60">
+             <title>
+                <p>Impact of packaged interventions on neonatal health: a review of the evidence</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Haws</snm>
+                   <fnm>RA</fnm>
+                </au>
+                <au>
+                   <snm>Thomas</snm>
+                   <fnm>AL</fnm>
+                </au>
+                <au>
+                   <snm>Bhutta</snm>
+                   <fnm>ZA</fnm>
+                </au>
+                <au>
+                   <snm>Darmstadt</snm>
+                   <fnm>GL</fnm>
+                </au>
+             </aug>
+             <source>Health Policy Plann</source>
+             <pubdate>2007</pubdate>
+             <volume>22</volume>
+             <fpage>193</fpage>
+             <lpage>215</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/heapol/czm009</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B61">
+             <title>
+                <p>Effectiveness-implementation hybrid designs: combining elements of clinical effectiveness and implementation research to enhance public health impact</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Curran</snm>
+                   <fnm>GM</fnm>
+                </au>
+                <au>
+                   <snm>Bauer</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Mittman</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Pyne</snm>
+                   <fnm>JM</fnm>
+                </au>
+                <au>
+                   <snm>Stetler</snm>
+                   <fnm>C</fnm>
+                </au>
+             </aug>
+             <source>Med Care</source>
+             <pubdate>2012</pubdate>
+             <volume>50</volume>
+             <fpage>217</fpage>
+             <lpage>26</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/MLR.0b013e3182408812</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22310560</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B62">
+             <title>
+                <p>Improving the reporting of pragmatic trials: an extension of the CONSORT statement</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Zwarenstein</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Treweek</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Gagnier</snm>
+                   <fnm>JJ</fnm>
+                </au>
+                <au>
+                   <snm>Altman</snm>
+                   <fnm>DG</fnm>
+                </au>
+                <au>
+                   <snm>Tunis</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Haynes</snm>
+                   <fnm>B</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>BMJ</source>
+             <pubdate>2008</pubdate>
+             <volume>337</volume>
+             <fpage>a2390</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/bmj.a2390</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19001484</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B63">
+             <title>
+                <p>Telephone care coordination for smokers in VA mental health clinics: protocol for a hybrid type-2 effectiveness-implementation trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Rogers</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Fernandez</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Gillespie</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Smelson</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Hagedorn</snm>
+                   <fnm>HJ</fnm>
+                </au>
+                <au>
+                   <snm>Elbel</snm>
+                   <fnm>B</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Addict Sci Clin Pract</source>
+             <pubdate>2013</pubdate>
+             <volume>8</volume>
+             <fpage>7</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1186/1940-0640-8-7</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23497630</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B64">
+             <aug>
+                <au>
+                   <snm>Brownson</snm>
+                   <fnm>RCCG</fnm>
+                </au>
+                <au>
+                   <snm>Proctor</snm>
+                   <fnm>EK</fnm>
+                </au>
+             </aug>
+             <source>Dissemination and implementation research in health: translating science to practice</source>
+             <publisher>Oxford University Press, Oxford</publisher>
+             <pubdate>2012</pubdate>
+          </bibl>
+          <bibl id="B65">
+             <note>INDEPTH Network. Accra, Ghana. <url>http://www.indepth-network.org</url> (1998). Accessed 4 Jan 2015.</note>
+          </bibl>
+          <bibl id="B66">
+             <title>
+                <p>Profile: the Dodowa HDSS</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Gyapong</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Sarpong</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Awini</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Manyeh</snm>
+                   <fnm>AK</fnm>
+                </au>
+                <au>
+                   <snm>Tei</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Odonkor</snm>
+                   <fnm>G</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Int J Epidemiol</source>
+             <pubdate>2013</pubdate>
+             <volume>42</volume>
+             <fpage>1686</fpage>
+             <lpage>96</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/ije/dyt197</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24415607</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B67">
+             <title>
+                <p>Demographic patterns and trends in Central Ghana: baseline indicators from the Kintampo Health and Demographic Surveillance System</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Owusu-Agyei</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Nettey</snm>
+                   <fnm>OE</fnm>
+                </au>
+                <au>
+                   <snm>Zandoh</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Sulemana</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Adda</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Amenga-Etego</snm>
+                   <fnm>S</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Glob Health Action</source>
+             <pubdate>2012</pubdate>
+             <volume>5</volume>
+             <fpage>1</fpage>
+             <lpage>11</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">23273249</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B68">
+             <title>
+                <p>Social costs of skilled attendance at birth in rural Ghana</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bazzano</snm>
+                   <fnm>AN</fnm>
+                </au>
+                <au>
+                   <snm>Kirkwood</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Tawiah-Agyemang</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Owusu-Agyei</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Adongo</snm>
+                   <fnm>P</fnm>
+                </au>
+             </aug>
+             <source>Int J Gynaecol Obstet</source>
+             <pubdate>2008</pubdate>
+             <volume>102</volume>
+             <fpage>91</fpage>
+             <lpage>4</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.ijgo.2008.02.004</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18395724</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B69">
+             <title>
+                <p>Profile of the Navrongo Health and Demographic Surveillance System</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Oduro</snm>
+                   <fnm>AR</fnm>
+                </au>
+                <au>
+                   <snm>Wak</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Azongo</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Debpuur</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Wontuo</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Kondayire</snm>
+                   <fnm>F</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Int J Epidemiol</source>
+             <pubdate>2012</pubdate>
+             <volume>41</volume>
+             <fpage>968</fpage>
+             <lpage>76</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/ije/dys111</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22933645</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B70">
+             <note>Macleod B, Phillips J, Stone AE, Walji A, Awoonor-Williams JK. The architecture of a software system for supporting community-based primary health care with mobile technology: the mobile technology for community health (MoTeCH) initiative in Ghana. Online J Public Health Inform. 2012;4. doi:10.5210/ojphi.v4i1.3910</note>
+          </bibl>
+          <bibl id="B71">
+             <title>
+                <p>Quality of antenatal and childbirth care in northern Ghana</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Duysburgh</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Williams</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Williams</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Loukanova</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Temmerman</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>BJOG</source>
+             <pubdate>2014</pubdate>
+             <volume>121</volume>
+             <issue>Suppl 4</issue>
+             <fpage>117</fpage>
+             <lpage>26</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/1471-0528.12905</pubid>
+                   <pubid idtype="pmpid" link="fulltext">25236645</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B72">
+             <title>
+                <p>The Ghana essential health interventions program: a plausibility trial of the impact of health systems strengthening on maternal &amp; child survival</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Awoonor-Williams</snm>
+                   <fnm>JK</fnm>
+                </au>
+                <au>
+                   <snm>Bawah</snm>
+                   <fnm>AA</fnm>
+                </au>
+                <au>
+                   <snm>Nyonator</snm>
+                   <fnm>FK</fnm>
+                </au>
+                <au>
+                   <snm>Asuru</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Oduro</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Ofosu</snm>
+                   <fnm>A</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>BMC Health Serv Res</source>
+             <pubdate>2013</pubdate>
+             <volume>13</volume>
+             <issue>Suppl 2</issue>
+             <fpage>S3</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">23819518</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B73">
+             <title>
+                <p>Efficacy of early neonatal vitamin A supplementation in reducing mortality during infancy in Ghana, India and Tanzania: study protocol for a randomized controlled trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Group</snm>
+                   <fnm>NSA</fnm>
+                </au>
+                <au>
+                   <snm>Bahl</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Bhandari</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Dube</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Edmond</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Fawzi</snm>
+                   <fnm>W</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Trials</source>
+             <pubdate>2012</pubdate>
+             <volume>13</volume>
+             <fpage>22</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1186/1745-6215-13-22</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B74">
+             <title>
+                <p>NEWHINTS cluster randomised trial to evaluate the impact on neonatal mortality in rural Ghana of routine home visits to provide a package of essential newborn care interventions in the third trimester of pregnancy and the first week of life: trial protocol</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kirkwood</snm>
+                   <fnm>BR</fnm>
+                </au>
+                <au>
+                   <snm>Manu</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Tawiah-Agyemang</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>ten Asbroek</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Gyan</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Weobong</snm>
+                   <fnm>B</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Trials</source>
+             <pubdate>2010</pubdate>
+             <volume>11</volume>
+             <fpage>58</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1186/1745-6215-11-58</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20478070</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B75">
+             <note>Ghana-Luxembourg Social Trust. International Labour Organization, Switzerland. <url>http://www.ilo.org/addisababa/WCMS_304015/lang--en/index.htm</url> (2009). Accessed 4 Jan 2015.</note>
+          </bibl>
+          <bibl id="B76">
+             <note>World Health Organization (WHO). Consultation on definitions and standards related to maternal and child health and the perinatal period. WHO. 1987. <url>http://www.who.int/iris/handle/10665/61544#sthash.HFPDKlKk.dpuf</url>. Accessed 4 Jan 2015.</note>
+          </bibl>
+          <bibl id="B77">
+             <note>World Health Organization (WHO). International statistical classification of diseases and related health problems 10th revision. WHO. 1995. <url>http://apps.who.int/classifications/icd10/browse/2015/en</url>. Accessed 4 Jan 2015.</note>
+          </bibl>
+          <bibl id="B78">
+             <title>
+                <p>Outcomes for implementation research: conceptual distinctions, measurement challenges, and research agenda</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Proctor</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Silmere</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Raghavan</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Hovmand</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Aarons</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Bunger</snm>
+                   <fnm>A</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Adm Policy Ment Health</source>
+             <pubdate>2011</pubdate>
+             <volume>38</volume>
+             <fpage>65</fpage>
+             <lpage>76</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1007/s10488-010-0319-7</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20957426</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B79">
+             <title>
+                <p>A glossary for dissemination and implementation research in health</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Rabin</snm>
+                   <fnm>BA</fnm>
+                </au>
+                <au>
+                   <snm>Brownson</snm>
+                   <fnm>RC</fnm>
+                </au>
+                <au>
+                   <snm>Haire-Joshu</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Kreuter</snm>
+                   <fnm>MW</fnm>
+                </au>
+                <au>
+                   <snm>Weaver</snm>
+                   <fnm>NL</fnm>
+                </au>
+             </aug>
+             <source>J Public Health Manag Pract</source>
+             <pubdate>2008</pubdate>
+             <volume>14</volume>
+             <fpage>117</fpage>
+             <lpage>23</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/01.PHH.0000311888.06252.bb</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18287916</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B80">
+             <aug>
+                <au>
+                   <snm>Eldridge</snm>
+                   <fnm>SKS</fnm>
+                </au>
+             </aug>
+             <source>A practical guide to cluster randomised trials in health services research</source>
+             <publisher>John Wiley &amp; Sons, New York</publisher>
+             <pubdate>2012</pubdate>
+          </bibl>
+       </refgrp>
+    </bm>
+ </art>

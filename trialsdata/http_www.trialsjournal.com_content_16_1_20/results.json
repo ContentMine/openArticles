@@ -1,0 +1,109 @@
+{
+  "publisher": {
+    "value": [
+      "BioMed Central Ltd"
+    ]
+  },
+  "journal": {
+    "value": [
+      "Trials"
+    ]
+  },
+  "title": {
+    "value": [
+      "The effects of stimulation of the autonomic nervous system via perioperative nutrition on postoperative ileus and anastomotic leakage following colorectal surgery (SANICS II trial): a study protocol for a double-blind randomized controlled trial"
+    ]
+  },
+  "authors": {
+    "value": [
+      "Emmeline G Peters",
+      "Boudewijn JJ Smeets",
+      "Marloes Dekkers",
+      "Marc D Buise",
+      "Wouter J de Jonge",
+      "Gerrit D Slooter",
+      "Tammo S de Vries Reilingh",
+      "Johannes A Wegdam",
+      "Grard AP Nieuwenhuijzen",
+      "Harm JT Rutten",
+      "Ignace HJT de Hingh",
+      "Mickael Hiligsmann",
+      "Wim A Buurman",
+      "Misha DP Luyer"
+    ]
+  },
+  "date": {
+    "value": [
+      "2015-01-27"
+    ]
+  },
+  "doi": {
+    "value": [
+      "10.1186/s13063-014-0532-x"
+    ]
+  },
+  "volume": {
+    "value": [
+      "16"
+    ]
+  },
+  "issue": {
+    "value": [
+      "1"
+    ]
+  },
+  "firstpage": {
+    "value": [
+      "20"
+    ]
+  },
+  "description": {
+    "value": [
+      "Postoperative ileus and anastomotic leakage are important complications following colorectal surgery associated with short-term morbidity and mortality. Previous experimental and preclinical studies have shown that a short intervention with enriched enteral nutrition dampens inflammation via stimulation of the autonomic nervous system and thereby reduces postoperative ileus. Furthermore, early administration of enteral nutrition reduced anastomotic leakage. This study will investigate the effect of nutritional stimulation of the autonomic nervous system just before, during and early after colorectal surgery on inflammation, postoperative ileus and anastomotic leakage."
+    ]
+  },
+  "abstract": {
+    "value": [
+      "Postoperative ileus and anastomotic leakage are important complications following colorectal surgery associated with short-term morbidity and mortality. Previous experimental and preclinical studies have shown that a short intervention with enriched enteral nutrition dampens inflammation via stimulation of the autonomic nervous system and thereby reduces postoperative ileus. Furthermore, early administration of enteral nutrition reduced anastomotic leakage. This study will investigate the effect of nutritional stimulation of the autonomic nervous system just before, during and early after colorectal surgery on inflammation, postoperative ileus and anastomotic leakage."
+    ]
+  },
+  "fulltext_html": {
+    "value": [
+      "http://www.trialsjournal.com/content/16/1/20"
+    ]
+  },
+  "fulltext_pdf": {
+    "value": [
+      "http://www.trialsjournal.com/content/pdf/s13063-014-0532-x.pdf"
+    ]
+  },
+  "fulltext_xml": {
+    "value": [
+      "/content/download/xml/s13063-014-0532-x.xml"
+    ]
+  },
+  "supplementary_material": {
+    "value": []
+  },
+  "figure": {
+    "value": [
+      "/content/figures/s13063-014-0532-x-1.gif"
+    ]
+  },
+  "figure_caption": {
+    "value": [
+      "Figure 1.",
+      "Flow diagram for participants who will be included in the study."
+    ]
+  },
+  "license": {
+    "value": [
+      "\r\n\t\t\t\tThis is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.\r\n\t\t\t"
+    ]
+  },
+  "copyright": {
+    "value": [
+      "\r\n            © 2015 Peters et al.; licensee BioMed Central. \r\n        "
+    ]
+  }
+}

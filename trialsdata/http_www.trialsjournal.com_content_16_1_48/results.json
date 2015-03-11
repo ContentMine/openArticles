@@ -1,0 +1,102 @@
+{
+  "publisher": {
+    "value": [
+      "BioMed Central Ltd"
+    ]
+  },
+  "journal": {
+    "value": [
+      "Trials"
+    ]
+  },
+  "title": {
+    "value": [
+      "The efficacy of indwelling pleural catheter placement versus placement plus talc sclerosant in patients with malignant pleural effusions managed exclusively as outpatients (IPC-PLUS): study protocol for a randomised controlled trial"
+    ]
+  },
+  "authors": {
+    "value": [
+      "Rahul Bhatnagar",
+      "Brennan C Kahan",
+      "Anna J Morley",
+      "Emma K Keenan",
+      "Robert F Miller",
+      "Najib M Rahman",
+      "Nick A Maskell"
+    ]
+  },
+  "date": {
+    "value": [
+      "2015-02-12"
+    ]
+  },
+  "doi": {
+    "value": [
+      "10.1186/s13063-015-0563-y"
+    ]
+  },
+  "volume": {
+    "value": [
+      "16"
+    ]
+  },
+  "issue": {
+    "value": [
+      "1"
+    ]
+  },
+  "firstpage": {
+    "value": [
+      "48"
+    ]
+  },
+  "description": {
+    "value": [
+      "Malignant pleural effusions (MPEs) remain a common problem, with 40,000 new cases in the United Kingdom each year and up to 250,000 in the United States. Traditional management of MPE usually involves an inpatient stay with placement of a chest drain, followed by the instillation of a pleural sclerosing agent such as talc, which aims to minimise further fluid build-up. Despite a good success rate in studies, this approach can be expensive, time-consuming and inconvenient for patients. More recently, an alternative method has become available in the form of indwelling pleural catheters (IPCs), which can be inserted and managed in an outpatient setting. It is currently unknown whether combining talc pleurodesis with IPCs will provide improved pleural symphysis rates over those of IPCs alone."
+    ]
+  },
+  "abstract": {
+    "value": [
+      "Malignant pleural effusions (MPEs) remain a common problem, with 40,000 new cases in the United Kingdom each year and up to 250,000 in the United States. Traditional management of MPE usually involves an inpatient stay with placement of a chest drain, followed by the instillation of a pleural sclerosing agent such as talc, which aims to minimise further fluid build-up. Despite a good success rate in studies, this approach can be expensive, time-consuming and inconvenient for patients. More recently, an alternative method has become available in the form of indwelling pleural catheters (IPCs), which can be inserted and managed in an outpatient setting. It is currently unknown whether combining talc pleurodesis with IPCs will provide improved pleural symphysis rates over those of IPCs alone."
+    ]
+  },
+  "fulltext_html": {
+    "value": [
+      "http://www.trialsjournal.com/content/16/1/48"
+    ]
+  },
+  "fulltext_pdf": {
+    "value": [
+      "http://www.trialsjournal.com/content/pdf/s13063-015-0563-y.pdf"
+    ]
+  },
+  "fulltext_xml": {
+    "value": [
+      "/content/download/xml/s13063-015-0563-y.xml"
+    ]
+  },
+  "supplementary_material": {
+    "value": []
+  },
+  "figure": {
+    "value": [
+      "/content/figures/s13063-015-0563-y-1.gif"
+    ]
+  },
+  "figure_caption": {
+    "value": [
+      "Figure 1.",
+      "Summary flow chart for IPC-PLUS trial."
+    ]
+  },
+  "license": {
+    "value": [
+      "\r\n\t\t\t\tThis is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.\r\n\t\t\t"
+    ]
+  },
+  "copyright": {
+    "value": [
+      "\r\n            © 2015 Bhatnagar et al.; licensee BioMed Central. \r\n        "
+    ]
+  }
+}

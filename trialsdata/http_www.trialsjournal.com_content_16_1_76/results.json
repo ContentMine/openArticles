@@ -1,0 +1,92 @@
+{
+  "publisher": {
+    "value": [
+      "BioMed Central Ltd"
+    ]
+  },
+  "journal": {
+    "value": [
+      "Trials"
+    ]
+  },
+  "title": {
+    "value": [
+      "A core outcome set for localised prostate cancer effectiveness trials: protocol for a systematic review of the literature and stakeholder involvement through interviews and a Delphi survey"
+    ]
+  },
+  "authors": {
+    "value": [
+      "Steven MacLennan",
+      "Hendrika J Bekema",
+      "Paula R Williamson",
+      "Marion K Campbell",
+      "Fiona Stewart",
+      "Sara J MacLennan",
+      "James MO N’Dow",
+      "Thomas BL Lam"
+    ]
+  },
+  "date": {
+    "value": [
+      "2015-03-04"
+    ]
+  },
+  "doi": {
+    "value": [
+      "10.1186/s13063-015-0598-0"
+    ]
+  },
+  "volume": {
+    "value": [
+      "16"
+    ]
+  },
+  "issue": {
+    "value": [
+      "1"
+    ]
+  },
+  "firstpage": {
+    "value": [
+      "76"
+    ]
+  },
+  "description": {
+    "value": [
+      "Prostate cancer is a growing health problem worldwide. The management of localised prostate cancer is controversial. It is unclear which of several surgical, radiotherapeutic, ablative, and surveillance treatments is the most effective. All have cost, process and recovery, and morbidity implications which add to treatment decision-making complexity for patients and healthcare professionals. Evidence from randomised controlled trials (RCTs) is not optimal because of uncertainty as to what constitutes important outcomes. Another issue hampering evidence synthesis is heterogeneity of outcome definition, measurement, and reporting. This project aims to determine which outcomes are the most important to patients and healthcare professionals, and use these findings to recommend a standardised core outcome set for comparative effectiveness trials of treatments for localised prostate cancer, to optimise decision-making."
+    ]
+  },
+  "abstract": {
+    "value": [
+      "Prostate cancer is a growing health problem worldwide. The management of localised prostate cancer is controversial. It is unclear which of several surgical, radiotherapeutic, ablative, and surveillance treatments is the most effective. All have cost, process and recovery, and morbidity implications which add to treatment decision-making complexity for patients and healthcare professionals. Evidence from randomised controlled trials (RCTs) is not optimal because of uncertainty as to what constitutes important outcomes. Another issue hampering evidence synthesis is heterogeneity of outcome definition, measurement, and reporting. This project aims to determine which outcomes are the most important to patients and healthcare professionals, and use these findings to recommend a standardised core outcome set for comparative effectiveness trials of treatments for localised prostate cancer, to optimise decision-making."
+    ]
+  },
+  "fulltext_html": {
+    "value": []
+  },
+  "fulltext_pdf": {
+    "value": [
+      "http://www.trialsjournal.com/content/pdf/s13063-015-0598-0.pdf"
+    ]
+  },
+  "fulltext_xml": {
+    "value": []
+  },
+  "supplementary_material": {
+    "value": [
+      "http://trialsjournal.com/content/download/supplementary/s13063-015-0598-0-s1.pdf"
+    ]
+  },
+  "figure": {
+    "value": []
+  },
+  "figure_caption": {
+    "value": []
+  },
+  "license": {
+    "value": []
+  },
+  "copyright": {
+    "value": []
+  }
+}

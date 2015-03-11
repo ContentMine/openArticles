@@ -1,0 +1,1537 @@
+<?xml version='1.0'?>
+<!DOCTYPE art SYSTEM 'http://www.biomedcentral.com/xml/article.dtd'>
+<art>
+    <ui>s13063-015-0586-4</ui>
+    <ji>1745-6215</ji>
+    <fm>
+       <dochead>Study protocol</dochead>
+       <bibl>
+          <title>
+             <p>RandomizEd controlled trial for pre-operAtive dose-escaLation BOOST in locally advanced rectal cancer (RECTAL BOOST study): study protocol for a randomized controlled trial</p>
+          </title>
+          <aug>
+             <au id="A1" ca="yes">
+                <snm>Burbach</snm>
+                <mnm>Maarten</mnm>
+                <fnm>JP</fnm>
+                <insr iid="I1"/>
+                <email>j.p.m.burbach-2@umcutrecht.nl</email>
+             </au>
+             <au id="A2">
+                <snm>Verkooijen</snm>
+                <mi>M</mi>
+                <fnm>Helena</fnm>
+                <insr iid="I2"/>
+                <email>h.m.verkooijen@umcutrecht.nl</email>
+             </au>
+             <au id="A3">
+                <snm>Intven</snm>
+                <fnm>Martijn</fnm>
+                <insr iid="I1"/>
+                <email>m.intven@umcutrecht.nl</email>
+             </au>
+             <au id="A4">
+                <snm>Kleijnen</snm>
+                <mnm>JE</mnm>
+                <fnm>Jean-Paul</fnm>
+                <insr iid="I1"/>
+                <email>j.j.e.kleijnen@umcutrecht.nl</email>
+             </au>
+             <au id="A5">
+                <snm>Bosman</snm>
+                <mi>E</mi>
+                <fnm>Mirjam</fnm>
+                <insr iid="I1"/>
+                <email>mbosman2@umcutrecht.nl</email>
+             </au>
+             <au id="A6">
+                <snm>Raaymakers</snm>
+                <mi>W</mi>
+                <fnm>Bas</fnm>
+                <insr iid="I1"/>
+                <email>b.w.raaymakers@umcutrecht.nl</email>
+             </au>
+             <au id="A7">
+                <snm>van Grevenstein</snm>
+                <mnm>MU</mnm>
+                <fnm>Wilhelmina</fnm>
+                <insr iid="I3"/>
+                <email>w.m.u.vangrevenstein@umcutrecht.nl</email>
+             </au>
+             <au id="A8">
+                <snm>Koopman</snm>
+                <fnm>Miriam</fnm>
+                <insr iid="I4"/>
+                <email>m.koopman-6@umcutrecht.nl</email>
+             </au>
+             <au id="A9">
+                <snm>Seravalli</snm>
+                <fnm>Enrica</fnm>
+                <insr iid="I1"/>
+                <email>e.seravalli@umcutrecht.nl</email>
+             </au>
+             <au id="A10">
+                <snm>van Asselen</snm>
+                <fnm>Bram</fnm>
+                <insr iid="I1"/>
+                <email>b.vanasselen@umcutrecht.nl</email>
+             </au>
+             <au id="A11">
+                <snm>Reerink</snm>
+                <fnm>Onne</fnm>
+                <insr iid="I1"/>
+                <email>o.reerink@umcutrecht.nl</email>
+             </au>
+          </aug>
+          <insg>
+             <ins id="I1">
+                <p>Department of Radiation Oncology, University Medical Center Utrecht, Heidelberglaan 100, Utrecht, 3584, CX, The Netherlands</p>
+             </ins>
+             <ins id="I2">
+                <p>Trial Bureau Imaging Division, University Medical Center Utrecht, Heidelberglaan 100, Utrecht, 3584, CX, The Netherlands</p>
+             </ins>
+             <ins id="I3">
+                <p>Department of Surgery, University Medical Center Utrecht, Heidelberglaan 100, Utrecht, 3584, CX, The Netherlands</p>
+             </ins>
+             <ins id="I4">
+                <p>Department of Medical Oncology, University Medical Center Utrecht, Heidelberglaan 100, Utrecht, 3584, CX, The Netherlands</p>
+             </ins>
+          </insg>
+          <source>Trials</source>
+          <issn>1745-6215</issn>
+          <pubdate>2015</pubdate>
+          <volume>16</volume>
+          <issue>1</issue>
+          <fpage>58</fpage>
+          <url>http://www.trialsjournal.com/content/16/1/58</url>
+          <xrefbib>
+             <pubidlist>
+                <pubid idtype="doi">10.1186/s13063-015-0586-4</pubid>
+             </pubidlist>
+          </xrefbib>
+       </bibl>
+       <history>
+          <rec>
+             <date>
+                <day>29</day>
+                <month>9</month>
+                <year>2014</year>
+             </date>
+          </rec>
+          <acc>
+             <date>
+                <day>30</day>
+                <month>1</month>
+                <year>2015</year>
+             </date>
+          </acc>
+          <pub>
+             <date>
+                <day>22</day>
+                <month>2</month>
+                <year>2015</year>
+             </date>
+          </pub>
+       </history>
+       <cpyrt>
+          <year>2015</year>
+          <collab>Burbach et al.; licensee BioMed Central.</collab>
+          <note>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/4.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (<url>http://creativecommons.org/publicdomain/zero/1.0/</url>) applies to the data made available in this article, unless otherwise stated.</note>
+       </cpyrt>
+       <abs>
+          <sec>
+             <st>
+                <p>Abstract</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Background</p>
+                </st>
+                <p>Treatment for locally advanced rectal cancer (LARC) consists of chemoradiation therapy (CRT) and surgery. Approximately 15% of patients show a pathological complete response (pCR). Increased pCR-rates can be achieved through dose escalation, thereby increasing the number patients eligible for organ-preservation to improve quality of life (QoL). A randomized comparison of 65 versus 50Gy with external-beam radiation alone has not yet been performed. This trial investigates pCR rate, clinical response, toxicity, QoL and (disease-free) survival in LARC patients treated with 65Gy (boost + chemoradiation) compared with 50Gy standard chemoradiation (sCRT).</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Methods/design</p>
+                </st>
+                <p>This study follows the &#8216;cohort multiple randomized controlled trial&#8217; (cmRCT) design: rectal cancer patients are included in a prospective cohort that registers clinical baseline, follow-up, survival and QoL data. At enrollment, patients are asked consent to offer them experimental interventions in the future. Eligible patients&#8212;histologically confirmed LARC (T3NxM0 &lt;1 mm from mesorectal fascia, T4NxM0 or TxN2M0) located &#8804;10 cm from the anorectal transition who provided consent for  experimental intervention offers&#8212;form a subcohort (<it>n</it> = 120). From this subcohort, a random sample is offered the boost prior to sCRT (<it>n</it> = 60), which they may accept or refuse. Informed consent is signed only after acceptance of the boost. Non-selected patients in the subcohort (<it>n</it> = 60) undergo sCRT alone and are not notified that they participate in the control arm until the trial is completed.</p>
+                <p>sCRT consists of 50Gy (25 &#215; 2Gy) with concomitant capecitabine. The boost (without chemotherapy) is given prior to sCRT and consists of 15 Gy (5 &#215; 3Gy) delivered to the gross tumor volume (GTV). The primary endpoint is pCR (TRG 1). Secondary endpoints include acute grade 3&#8211;4 toxicity, good pathologic response (TRG 1-2), clinical response, surgical complications, QoL and (disease-free) survival. Data is analyzed by intention to treat.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Discussion</p>
+                </st>
+                <p>The boost is delivered prior to sCRT so that GTV adjustment for tumor shrinkage during sCRT is not necessary. Small margins also aim to limit irradiation of healthy tissue. The cmRCT design provides opportunity to overcome common shortcomings of classic RCTs, such as slow recruitment, disappointment-bias in control arm patients and poor generalizability.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Trial registration</p>
+                </st>
+                <p>The Netherlands Trials Register NL46051.041.13. Registered 22 August 2013. ClinicalTrials.gov <url>NCT01951521</url>. Registered 18 September 2013.</p>
+             </sec>
+          </sec>
+       </abs>
+    </fm>
+    <bdy>
+       <sec>
+          <st>
+             <p>Background</p>
+          </st>
+          <p>Colorectal cancer is the second most common cancer in women and third in men worldwide <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>. Almost one-third of Dutch colorectal cancers are located in the rectum <abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp>. Rectal cancers are treated by surgery, preceded by chemoradiation in case of locally advanced rectal cancer (LARC). Chemoradiation consists of a total dose of about 50&#160;Gy combined with capecitabine. With this treatment regimen, approximately 15% of patients show a pathological complete response (pCR) <abbrgrp>
+                <abbr bid="B3">3</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B4">4</abbr>
+             </abbrgrp>, classified by Mandard <it>et al</it>. as tumor regression grade 1 (TRG 1) <abbrgrp>
+                <abbr bid="B5">5</abbr>
+             </abbrgrp>. In a recent meta-analysis, we showed that doses of &#8805;60&#160;Gy were associated with an increased pCR rate to 20.4%, without compromising toxicity <abbrgrp>
+                <abbr bid="B6">6</abbr>
+             </abbrgrp>.</p>
+          <p>Patients with &#8216;good&#8217; clinical response, either pCR (TRG 1) or near-pCR (TRG 2), might be eligible for organ-preserving approaches. The aim of these strategies is to deliver an optimal quality of life (QoL) without compromising the oncologic outcome in this favorable subgroup. Recently, several protocols have been developed, that use either local excision <abbrgrp>
+                <abbr bid="B7">7</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B9">9</abbr>
+             </abbrgrp> or a &#8220;watch-and-wait&#8221; policy <abbrgrp>
+                <abbr bid="B10">10</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B12">12</abbr>
+             </abbrgrp>, in order to omit surgery (total mesorectal excision) as the primary treatment. In addition, patients who reach a pCR often show reduced local recurrence and improved (disease-free) survival probabilities compared with patients with a poor response (TRG 3&#8211;5) <abbrgrp>
+                <abbr bid="B3">3</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B13">13</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B15">15</abbr>
+             </abbrgrp>, possibly driven by a favorable tumor biology.</p>
+          <p>Thus, by escalating the preoperative radiation dose, the amount of patients with a &#8216;good&#8217; clinical response or pCR who are eligible for organ-preserving treatment can potentially be increased. However, response rates after high-dose external radiation with 65&#160;Gy have not yet been investigated in a randomized setting. Therefore, we set up an exploratory trial, the RandomizEd Controlled Trial for Pre-operAtive Dose-escaLation BOOST in Locally Advanced Rectal Cancer (RECTAL BOOST study: ClinicalTrials.gov NCT01951521) to compare tumor pCR rates (TRG 1), pathologic &#8216;good&#8217; responses, toxicity levels, clinical tumor response and QoL between patients treated with 65&#160;Gy chemoradiation (15&#160;Gy boost plus 50&#160;Gy chemoradiation) and those treated with 50&#160;Gy standard chemoradiation therapy (sCRT).</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Methods/design</p>
+          </st>
+          <sec>
+             <st>
+                <p>Study design</p>
+             </st>
+             <p>This study is being conducted within the ProspectIve data CollectioN Initiative on Colorectal cancer (PICNIC) project <abbrgrp>
+                   <abbr bid="B16">16</abbr>
+                </abbrgrp>. The prospective observational PICNIC cohort includes patients with colorectal cancer of all stages. Information collected includes baseline demographic and clinical data, as well as prospective clinical follow-up and patient-reported outcome measures (PROMs). The study follows the cohort multiple randomized controlled trial (cmRCT) design <abbrgrp>
+                   <abbr bid="B17">17</abbr>
+                </abbrgrp> and provides a pragmatic infrastructure for multiple randomized controlled trials (RCTs).</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Patient recruitment</p>
+             </st>
+             <p>At enrollment in the PICNIC cohort, patients are asked to provide informed consent for prospective collection of clinical, survival and PROMs data. In addition, according to the cmRCT design, we ask patients&#8217; consent to be randomly selected to receive offers on experimental interventions in the future and to use their data comparatively within the context of the PICNIC project.</p>
+             <p>From among the PICNIC cohort, we will identify all patients eligible for the boost intervention based on the following inclusion criteria: (1) histologically confirmed LARC, defined as T3 with threatened mesorectal fascia (&lt;1&#160;mm), T4 or N2M0 <abbrgrp>
+                   <abbr bid="B18">18</abbr>
+                </abbrgrp> (based on Dutch guidelines for chemoradiation in rectal cancer <abbrgrp>
+                   <abbr bid="B19">19</abbr>
+                </abbrgrp>, in which N2 is defined as &#8805;4 positive nodes visible with diameter &gt;9&#160;mm or 5 to 9&#160;mm combined with 2 of the following 3 characteristics: irregular border, heterogeneous or round-shaped); (2) tumor located &#8804;10&#160;cm from the anorectal transition; and (3) previously obtained informed consent to be randomly offered experimental interventions within the context of the PICNIC project (Table&#160;<tblr tid="T1">1</tblr>). Patients are ineligible in case of inflammatory bowel disease, pregnancy, previous radiation to the pelvis, contraindication for capecitabine and inadequate comprehension of the Dutch language in speech and/or writing. Female patients in whom the tumor is located on the anterior wall close to the vagina are also ineligible because the maximum tolerated dose to the vagina does not allow for dose escalation when the tumor is in proximity to it.
+                  </p>
+             
+                <table id="T1">
+                   <title>
+                      <p>Table 1</p>
+                   </title>
+                   <caption>
+                      <p>
+                            <b>Inclusion and exclusion criteria for the RECTAL BOOST study</b>                            
+                         <sup>
+                            <b>a</b> 
+                         </sup>
+                          </p>
+                   </caption>
+                   <tgroup align="left" cols="2">
+                      <colspec align="left" colname="c1" colnum="1" colwidth="*"/>
+                      <colspec align="left" colname="c2" colnum="2" colwidth="*"/>
+                      <thead>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>
+                                  <b>Inclusion criteria</b>                              
+                               </p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>
+                                  <b>Exclusion criteria</b>                              
+                               </p>
+                            </entry>
+                         </row>
+                      </thead>
+                      <tfoot>
+                         <p>
+                            <sup>a</sup>RECTAL BOOST, RandomizEd Controlled Trial for Pre-operAtive Dose-escaLation BOOST in Locally Advanced Rectal Cancer; PICNIC, ProspectIve data CollectioN Initiative on Colorectal cancer; MRI, Magnetic resonance imaging.</p>
+                      </tfoot>
+                      <tbody>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Participant in the PICNIC project</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Metastatic disease</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Informed consent obtained for being offered experimental interventions within the PICNIC project</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Inflammatory bowel disease</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Informed consent obtained for questionnaires on patient-reported outcomes within the PICNIC project</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Prior radiation to the pelvis</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Tumor distance of &#8804;10&#160;cm from anorectal transition</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Inadequate understanding of the Dutch language in speech and/or writing</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>Indication for chemoradiation based on Dutch guidelines</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>Recent pregnancy &#8804;1&#160;yr ago</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>No contraindication for MRI</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>No indication for chemoradiation based Dutch guidelines</p>
+                            </entry>
+                         </row>
+                         <row valign="top">
+                            <entry colname="c1">
+                               <p>World Health Organization performance status 0&#8211;2</p>
+                            </entry>
+                            <entry colname="c2">
+                               <p>At least one contraindication for capecitabine administration</p>
+                            </entry>
+                         </row>
+                      </tbody>
+                   </tgroup>
+                </table>
+             
+          </sec>
+          <sec>
+             <st>
+                <p>Random selection</p>
+             </st>
+             <p>Patients within the PICNIC cohort who meet the above inclusion criteria form a subcohort of eligible patients (Figure&#160;<figr fid="F1">1</figr>). From among this subcohort, a random sample is selected on a 1:1 basis with varying block sizes (<it>n</it>&#8201;=&#8201;6 to 8) using a centrally available computer program. Randomly selected patients are offered the experimental intervention (boost prior to sCRT) by their treating physician. If they accept the offer, they will sign an additional informed consent to receive the boost. Patients who refuse the boost will receive care as usual (that is, sCRT). Patients in the subcohort who will not be randomly selected will not be informed about the boost intervention, nor will they be informed about their participation in the control arm of this study. When the trial is completed, aggregate disclosure about the trial results will be provided to the entire PICNIC cohort at the same time.
+                  </p>
+             
+                <fig id="F1">
+                   <title>
+                      <p>Figure 1</p>
+                   </title>
+                   <caption>
+                      <p>Study design and flowchart. </p>
+                   </caption>
+                   <text>
+                      <p>
+                            <b>Study design and flowchart.</b> PICNIC, ProspectIve data CollectioN Initiative on Colorectal cancer; RECTAL BOOST, RandomizEd Controlled Trial for Pre-operAtive Dose-escaLation BOOST in Locally Advanced Rectal Cancer.</p>
+                   </text>
+                   <graphic file="s13063-015-0586-4-1"/>
+                </fig>
+             
+          </sec>
+          <sec>
+             <st>
+                <p>Standard treatment</p>
+             </st>
+             <p>sCRT consists of 50&#160;Gy (25&#8201;&#215;&#8201;2&#160;Gy on weekdays) combined with capecitabine. The radiation dose is delivered by intensity-modulated radiation therapy (IMRT), which is standard care in our hospital, to the planned target volume (PTV), which comprises the gross tumor volume (GTV) and clinical target volume (CTV). Target volumes are delineated on computed tomography (CT) scans, matched to- and combined with T2- and diffusion-weighted magnetic resonance imaging (DWI) according to published guidelines <abbrgrp>
+                   <abbr bid="B20">20</abbr>
+                </abbrgrp>. The CTV follows the mesorectal fascia up to the rectosigmoid curvature and stretches maximally to 4&#160;cm caudal from the tumor, sparing the sphincter in case of a low anterior resection (LAR), or includes the sphincter complex +1-cm margin in case of an abdominoperineal resection (APR). The lymph node regions (internal iliac and obturator) stretch from the caudal end of the v. iliaca communis downward to the crossing of the internal iliac vessels under the m. piriformis, laterally limited by the pelvic muscles. The obturator region stretches from the m. obturatorius to the m. levator, ventrally limited by the ureter or dorsal side of the neurovascular bundle without inclusion of the vesiculae, uterus and vagina. Lateral and dorsal border are marked by the pelvic muscles and ventral iliac region. In addition, the presacral region stretches from the upper level of the iliac vessels to mesorectum, ventrally limited 2&#160;cm from the sacrum, including the a. rectalis superior and excluding the neuroforamina. The PTV<sub>CTV50</sub> is a non-uniform margin around the CTV according to local protocol consisting of an expansion of 13&#160;mm ventrally, 9&#160;mm dorsally, 10&#160;mm laterally and 10&#160;mm craniocaudally (Figure&#160;<figr fid="F2">2</figr>). The prescribed dose to the PTV<sub>CTV50</sub> is that 95% of the prescribed dose should cover &#8805;99% of the PTV. Radiation is delivered with an external beam linear accelerator. For position verification, the sCRT protocol consists of cone-beam CT prior to the first three fractions and weekly thereafter.
+                  </p>
+             
+                <fig id="F2">
+                   <title>
+                      <p>Figure 2</p>
+                   </title>
+                   <caption>
+                      <p>Cumulative dose plan of boost plus standard chemoradiation fractions (left) with associated dose volume histogram (right). </p>
+                   </caption>
+                   <text>
+                      <p>
+                            <b>Cumulative dose plan of boost plus standard chemoradiation fractions (left) with associated dose volume histogram (right).</b> Delineations of gross tumor volume (GTV) plus planned target volume (PTV<sub>GTV</sub>) (red), clinical target volume (CTV) plus PTV (PTV<sub>CTV</sub>) (green), bladder (brown) and sigmoid (pink). Areas that receive a total dose of &gt;65&#160;Gy are represented in orange), and those that receive &gt;50&#160;Gy are shown in turquoise.</p>
+                   </text>
+                   <graphic file="s13063-015-0586-4-2"/>
+                </fig>
+             
+             <p>Capecitabine is administered orally twice daily on treatment days at a dose of 825&#160;mg/m<sup>2</sup>, taken 2&#160;hours before each radiation fraction and 12&#160;hours later. Hematologic toxicity is tested every 2&#160;weeks. Surgery is performed 10 to 12&#160;weeks postradiation according to the Dutch guidelines <abbrgrp>
+                   <abbr bid="B19">19</abbr>
+                </abbrgrp>. The decision whether to perform total mesorectal excision surgery in form of  LAR or APR, is made on the basis of the location and extensiveness of the tumor <abbrgrp>
+                   <abbr bid="B21">21</abbr>
+                </abbrgrp>.</p>
+             <p>Two routine MRI scans are acquired using an MRI protocol developed in house, consisting of T2-weighted and DWI image sequences <abbrgrp>
+                   <abbr bid="B22">22</abbr>
+                </abbrgrp>. The first scan (taken maximally 2&#160;weeks prior to radiation) is used for radiation planning, and the second (obtained 9&#160;weeks postradiation) is used for preoperative response evaluation and surgical planning. Immediately prior to surgery, the surgeon will also perform a digital rectal examination (DRE)  for clinical response evaluation.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Boost intervention</p>
+             </st>
+             <p>The experimental boost intervention consists of 15&#160;Gy (5&#8201;&#215;&#8201;3&#160;Gy on weekdays) to the GTV without concomitant chemotherapy. The boost is delivered in the week prior to the start of sCRT. A cumulative GTV dose of 65&#160;Gy is delivered over the full treatment course of 30 fractions (6&#160;weeks). This results in an equivalent dose in 2-Gy fractions of 66.3&#160;Gy (&#945;/&#946;&#8201;=&#8201;10&#160;Gy) <abbrgrp>
+                   <abbr bid="B23">23</abbr>
+                </abbrgrp>. GTV delineation is based on T2-weighted and DWI scans; no CTV<sub>GTV65</sub> margin is applied; and the PTV<sub>GTV65</sub> is defined by a non-uniform margin of +11&#160;mm in the anteroposterior direction, +7&#160;mm in the lateral direction and +13&#160;mm in the craniocaudal direction around the GTV, which represents tumor movement that was observed on in-house daily MRI scans and setup errors <abbrgrp>
+                   <abbr bid="B24">24</abbr>
+                </abbrgrp>. A volumetric modulated arc therapy stereotactic treatment plan is generated for boost patients, whereas IMRT is standard care used in the control arm, that accumulates the boost and standard chemoradiation doses (Figure&#160;<figr fid="F2">2</figr>). The maximally allowed cumulative dose within the GTV is 80&#160;Gy (123% of 65&#160;Gy), and the volume receiving 95% of the prescribed dose should be larger than 99% of the PTV<sub>GTV65</sub>. The maximum dose around, and dose prescription to, the PTV<sub>CTV50</sub> is similar to the elective sCRT field (that is, 53.5&#160;Gy). Daily online cone-beam CT scans are used for positioning before each boost fraction, and the sCRT position verification protocol follows thereafter.</p>
+             <p>Organs at risk (OARs) consist of the bowel bag (excluding sigmoid), bladder, vagina and anal sphincter. The dose constraints for the OARs remain unchanged for boost patients (namely, the dose to 1&#160;cc of the OARs should be &#8804;53.5&#160;Gy), and the volume receiving 45&#160;Gy is aimed to be less than 195&#160;cc for the bowel bag (excluding the sigmoid). OAR constraints are leading over PTV<sub>GTV65</sub> coverage and may thus limit GTV dose if necessary. If dose prescriptions cannot be reached, a panel of radiation oncologists will discuss the feasibility and anticipated safety of the treatment plan and decide either to continue or to adapt the plan toward acceptable OAR constraints, taking into account anatomical limitations and planned surgery. One additional MRI scan is obtained in patients who receive the boost for response prediction purposes at the end of the second week (after ten fractions including the five boost fractions) and a rectoscopy for clinical response evaluation is performed in a subgroup of boost-arm patients that showed a &#8216;good&#8217; response based on MRI.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Primary endpoint</p>
+             </st>
+             <p>The primary endpoint of this study is pCR, which is classified according to the Mandard classification system as tumor regression grade 1 (TRG 1) <abbrgrp>
+                   <abbr bid="B5">5</abbr>
+                </abbrgrp> (that is, a sterile specimen with absence of residual cancer cells). Experienced gastrointestinal pathologists use a standardized protocol to evaluate the specimens <abbrgrp>
+                   <abbr bid="B25">25</abbr>
+                </abbrgrp>, and central review of pathology is performed.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Secondary endpoints</p>
+             </st>
+             <p>Secondary endpoints include non-complete pathologic responses (TRG 2&#8211;5), acute grade 3&#8211;4 toxicity, clinical response, surgical complications, QoL and disease-free and overall survival. The non-complete pathologic responses are categorized as good (TRG 1&#8211;2) or &#8216;not good&#8217; (TRG 3&#8211;5) by the pathologist. A radiation oncologist will assess toxicity at weekly visits during the radiation treatment, as well as 4&#160;weeks and 4&#160;months after completion of sCRT. Toxicity is recorded according to the National Cancer Institute&#8217;s Common Terminology Criteria for Adverse Events, version 4.03 <abbrgrp>
+                   <abbr bid="B26">26</abbr>
+                </abbrgrp>. Long-term toxicity, (serious) adverse events (SAEs), hospitalization and other health-related problems are registered within the context of the PICNIC cohort during clinical follow-up and annual patient-administered questionnaires on health and oncological status. Clinical response evaluation is based on MRI (9&#160;weeks after completion of chemoradiation; that is, the week before surgery) and DRE and rectoscopy, which are both performed right before surgery while the patient is under anesthesia. MRI and DRE are standardly performed in all patients, whereas rectoscopy is only performed in intervention arm patients who showed a good response based on MRI. For the MRI, a combination of T2-weighted and DWI sequences is used to measure residual tumor tissue in the initially delineated tumor region and its surrounding elective radiation field. Surgical complications are registered up to 30&#160;days after the primary surgery in all patients and after closure of the diverting stoma in patients who previously underwent a LAR. For safety reasons, occurrence of anastomotic leakage is monitored closely in the LAR subgroup by daily review of postoperative patient charts for 30&#160;days. QoL data are recorded by means of either online forms (Patient-Reported Outcomes Following Initial treatment and Long-term Evaluation of Survivorship (PROFILES): <url>http://www.profilesregistry.nl/</url>) or pencil-and-paper questionnaires. For this purpose, cancer-specific QoL questionnaires from the European Organization for Research and Treatment of Cancer (EORTC) are used, including the core (QLQ-C30 <abbrgrp>
+                   <abbr bid="B27">27</abbr>
+                </abbrgrp>) and colorectal cancer-specific (QLQ-CR29 <abbrgrp>
+                   <abbr bid="B28">28</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B29">29</abbr>
+                </abbrgrp>) questionnaires. The EORTC QLQ-C30 covers five functional scales, three symptom scales, a global QoL scale and six single items. The EORTC QLQ-CR29 assesses urinary, bowel and/or stoma, psychological and sexually related QoL issues, as well as side effects due to chemotherapy. These questionnaires are provided at the time of diagnosis (baseline) and 3, 6, 12, 18 and 24&#160;months thereafter. Survival and disease-free survival are monitored within the PICNIC project through clinical follow-up records and via a link with the Dutch Cancer Registry. Disease-free survival is defined as the time in absence of a rectal cancer local recurrence or metastasis.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Safety</p>
+             </st>
+             <p>According to Dutch law, the investigator reports SAEs within 15&#160;days following notification through a government-based internet portal (Centrale Commissie Mensgebonden Onderzoek (Central Committee on Research Involving Human Subjects): <url>https://www.toetsingonline.nl/</url>) to the accredited institutional review board (IRB) that approved the protocol. SAEs that result in death or are life-threatening will be reported within 7&#160;days.</p>
+             <p>Because this is an exploratory dose escalation study, an independent data and safety monitoring board (DSMB) will make recommendations on continuation of the study based on safety results, focusing on toxicity and anastomotic leakage. The DSMB consists of an expert surgeon, a radiation oncologist and a statistician and is provided, annually or after every SAE, with the raw data on the primary and secondary outcomes (including toxicity, surgical complications and survival). After the first 10 patients with LAR have undergone boost treatment, inclusion of patients scheduled for LAR will be stopped for 8&#160;months to let the DSMB compare anastomotic leakages between boost and control arms. The 8-month period will consist of the time between sCRT to primary surgery (10&#8211;12 weeks) followed by the time between primary surgery and bowel reconstruction, including a postoperative monitoring period (16&#8211;20 weeks). Only inclusion of patients undergoing LAR will be halted during this stop, because patients undergoing APR have no risk of anastomotic leakage, owing to their permanent stoma. The DSMB analyzes the data independently of the investigators and reports their advice on continuation of the study to the sponsor, which will decide on continuation or stopping of the study.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Sample size considerations</p>
+             </st>
+             <p>On the basis of our center&#8217;s experience, we assume that 13% of patients will reach pCR if undergoing sCRT. On the basis of a prediction model published by Appelt <it>et al.</it> 
+                <abbrgrp>
+                   <abbr bid="B30">30</abbr>
+                </abbrgrp>, we expect the pCR rate to be 30% after 65&#160;Gy treatment. Because we consider this study to constitute preliminary work for subsequent studies aimed at evaluating even higher dose increases, we deem it important to find an effect if there really is one, but less important to unjustly find an effect. Therefore, we will use a one-sided &#945; of 15% because it is unlikely that the pCR rate after boost treatment plus sCRT will be lower than after sCRT alone, in combination with a power of 80% because we do not want to increase uncertainty when a negative result is achieved. We further expect that approximately 80% of the patients who receive a boost offer will accept it. Patients who are offered the boost treatment but refuse to undergo the boost will remain in the intervention arm for analysis but receive sCRT (Figure&#160;<figr fid="F1">1</figr>). We expect no cross-over from the control arm to the intervention arm, because only patients who are randomly selected to receive a boost offer are informed about and offered it, whereas all non-selected patients undergo standard treatment (that is, sCRT) without receiving information about the boost trial. Taking into account the estimated response rates, together with a 20% refusal rate in the intervention arm, we require 60 patients per arm to demonstrate a statistically significant difference. We expect to complete recruitment within 3&#160;years.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Data analysis</p>
+             </st>
+             <p>Data will be analyzed according to the intention-to-treat principle. Data of eligible patients who were randomly offered the boost (intervention arm) will be compared with eligible patients who were not randomly selected (control arm). In case of dropout (that is, no surgery following chemoradiation), a worst-case analysis will be performed in which all non-resected intervention-arm patients are classified as non-complete responders and all non-resected control patients are classified as complete responders. However, because omission of surgery is not common practice in our institution, we expect these numbers to be small. In case of substantial boost treatment refusal in the intervention arm, complier average causal effect analysis will be performed to deal with differences in compliance with treatment between both arms <abbrgrp>
+                   <abbr bid="B31">31</abbr>
+                </abbrgrp>. Outcomes include tumor pCR rate (TRG 1), good pathological response (TRG 1&#8211;2), clinical response, grade 3&#8211;4 toxicity, QoL, recurrence rates and disease-free and overall survival.</p>
+             <p>The primary outcome (proportion of patients with pCR) will be presented in proportions and compared by means of the &#967;<sup>2</sup> test. Toxicity will be presented as the overall and/or time point-specific incidence of grade 3&#8211;4 toxicity, and differences will be tested with the &#967;<sup>2</sup> test. QoL will be compared at multiple points in time. A relevant change in the patient&#8217;s perspective is indicated by a 10% difference or more than 0.5 of the standard deviation <abbrgrp>
+                   <abbr bid="B32">32</abbr>
+                </abbrgrp>. QoL data will be analyzed by mixed-effects models. Differences in disease-free and overall survival rates will be analyzed by Kaplan-Meier analysis and log-rank test. Differences with a <it>P</it>-value &lt;0.05 are considered statistically significant, except for the primary endpoint, where <it>P</it>&#8201;&lt;&#8201;0.15 has been prespecified.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Ethical approval</p>
+             </st>
+             <p>IRB approval was obtained separately for both the PICNIC project (including the cmRCT infrastructure) and the RECTAL BOOST study from the ethical body of the UMC Utrecht (under reference numbers 12/510 and 13/522, respectively). The PICNIC project is published under NCT02070146 <abbrgrp>
+                   <abbr bid="B16">16</abbr>
+                </abbrgrp> and the RECTAL BOOST study under NCT01951521 <abbrgrp>
+                   <abbr bid="B33">33</abbr>
+                </abbrgrp> on ClinicalTrials.gov.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Discussion</p>
+          </st>
+          <p>The RECTAL BOOST study aims to quantify the effect of an external beam radiation (EBR) boost of 15&#160;Gy prior to standard chemoradiation (50&#160;Gy) on pCR rates in patients with locally advanced rectal cancer. Toxicity, clinical (complete) response, (surgical) complications, (disease-free) survival, QoL and feasibility of boost delivery are secondary endpoints. In this study, we will assess in a randomized fashion whether a preoperative 65&#160;Gy EBR-only regimen (15&#160;Gy boost followed by 50&#160;Gy chemoradiation) can safely increase the proportion of patients with pCR (TRG 1) in comparison with the proportion observed after 50&#160;Gy chemoradiation alone. Although contact X-ray <abbrgrp>
+                <abbr bid="B34">34</abbr>
+             </abbrgrp>, brachytherapy, EBR and EBR-brachytherapy combined studies <abbrgrp>
+                <abbr bid="B6">6</abbr>
+             </abbrgrp> have shown response, sphincter-saving and organ preservation benefits at doses up to 60&#160;Gy, such benefits have not been shown for the 65&#160;Gy dose level when reached by an EBR-only approach.</p>
+          <p>High rates of good responders are important, as this will increase the number of patients eligible for organ-preserving treatment strategies. These strategies aim to improve the QoL of patients with a good response while their good oncologic outcome, and possible survival benefits, are maintained. Nevertheless, the value of tumor regression has not yet been confirmed as a surrogate endpoint for oncologic outcome in this setting. In the present study, however, all patients, including those with a good clinical response to preoperative treatment, will still undergo surgery because pathological response is the primary endpoint, and because resection remains the standard care according to Dutch guidelines <abbrgrp>
+                <abbr bid="B19">19</abbr>
+             </abbrgrp>. Therefore, future randomized studies in patients with good clinical responses after (boost) chemoradiation are needed to further assess the effect of radical surgery versus organ preservation on QoL, toxicity and (disease-free) survival. In this study, we aim to quantify response rate by its current gold standard (that is, pathology), which in turn can be correlated to the clinical response data that are also obtained. In so doing, this study will provide important insight into the results of dose escalation that would otherwise be lacking in a trial that would combine dose escalation and omission of surgery within the same trial.</p>
+          <p>In this study, we choose to deliver the boost prior to chemoradiation to obtain maximal tumor visibility in order to avoid dose administration to healthy tissue. The rationale underlying this is that GTV deformation is likely to occur during sCRT as a result of tumor shrinkage, and because the induced inflammatory reaction results in edema which hinders adequate GTV definition. Both factors make imaging and delineation of the tumor more difficult and less reliable  thereby likely to result in overestimation of the remaining GTV. When larger areas would then incorrectly be irradiated, surrounding healthy tissue might receive a higher dose than planned. On the basis of our own data on patients receiving 5&#8201;&#215;&#8201;5&#160;Gy radiation within one week, we know that tumor shrinkage does not yet occur during the first week of radiation, which implies that GTV delineations made prior to irradiation remain adequate throughout the first week of (chemo)radiation. This allows a single GTV delineation to be used for boost dose planning in the week prior to sCRT. Furthermore, we choose to use IMRT because this is the standard of care in our hospital, and this study is set up as a single-facility trial. Direct applicability of these results should thus be considered when extrapolated to other centers in which different radiation techniques are used.</p>
+          <p>We have chosen to apply the cmRCT design, which aims to overcome common shortcomings of classic RCTs, such as slow recruitment, disappointment bias in patients randomized to the control arm, and poor generalizability. Not uncommonly, oncological patients possess strong preferences for experimental treatments that are (often) falsely regarded to be superior. This prevents such patients from taking part in randomized studies, thereby diminishing recruitment rates for RCTs. Furthermore, patients who remain willing to participate in RCTs often represent a younger, healthier, higher-educated subgroup, and once participating, these patients are unfortunately often allowed to participate in only one trial at a time. All this makes recruitment for RCTs difficult and prone to selection bias. Because the cmRCT design uses a cohort as a recruitment pool, it represents the routine population more adequately because cohort inclusion is generally less selective. Because this baseline may also evolve over time, the cmRCT furthermore provides the advantage that the effectiveness of experimental interventions is compared with the most up-to-date available standard care with which it should compete, instead of competing with outdated treatments which is often the case when classic RCTs are published. A new aspect brought by the cmRCT design is that it provides the opportunity to evaluate acceptance rates of offered treatments. This offers new insights into patient preferences and reasons for refusal of experimental interventions that become increasingly important. It forces clinicians and researchers to rethink their treatment approach at a much earlier stage when, for instance, a large proportion of patients declines the offered treatment. Overall, efficient, less selective recruitment, collection of long-term outcomes and early preference monitoring could reduce research costs significantly when conducting RCTs within the cmRCT design.</p>
+          <p>The RECTAL BOOST study is a pragmatic RCT performed within the infrastructure of the cmRCT design, that aims to quantify the effect on pCR rate of preoperative dose escalation to 65&#160;Gy in comparison with standard 50&#160;Gy chemoradiation in patients with locally advanced rectal cancer. If the proportion of good responders can be increased by dose escalation, this strategy could provide an option to increase the number of patients that may benefit from organ-preserving strategies in the future.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Trial status</p>
+          </st>
+          <p>Ethical approval for this trial was obtained in June 2014. Recruitment started in September 2014 and is currently ongoing.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Abbreviations</p>
+          </st>
+          <p>APR: Abdominoperineal resection</p>
+          <p>cmRCT: Cohort multiple randomized controlled trial</p>
+          <p>CRT: Chemoradiation treatment</p>
+          <p>CT: Computed tomography</p>
+          <p>CTV: Clinical target volume</p>
+          <p>DSMB: Data and safety monitoring board</p>
+          <p>DWI: Diffusion-weighted imaging</p>
+          <p>EBR: External beam radiation</p>
+          <p>EORTC: European Organization for Research and Treatment of Cancer</p>
+          <p>GTV: Gross tumor volume</p>
+          <p>IMRT: Intensity-modulated radiotherapy</p>
+          <p>LAR: Low anterior resection</p>
+          <p>LARC: Locally advanced rectal cancer</p>
+          <p>MRI: Magnetic resonance imaging</p>
+          <p>OAR: Organ at risk</p>
+          <p>pCR: Pathologic complete response, defined as Mandard grade 1 (TRG 1)</p>
+          <p>PICNIC: ProspectIve data CollectioN Initiative on Colorectal cancer</p>
+          <p>PROMs: Patient-reported outcome measures</p>
+          <p>PTV: Planned target volume</p>
+          <p>RCT: Randomized controlled trial</p>
+          <p>SAE: Serious adverse event</p>
+          <p>sCRT: Standard chemoradiation treatment</p>
+          <p>TRG: Tumor regression grade, as defined by Mandard classification</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Competing interests</p>
+          </st>
+          <p>The authors declare that they have no competing interests.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Authors&#8217; contributions</p>
+          </st>
+          <p>JPMB, HMV, MI and OR designed and coordinated the study procedures. WMUVG and MK helped design the study. JJEK, ME, BWR, ES and BVA designed, performed and calculated treatment plan parameters. All authors read and approved the final manuscript.</p>
+       </sec>
+    </bdy>
+    <bm>
+       <refgrp>
+          
+          <bibl id="B1">
+             <note>International Agency for Research on Cancer, World Health Organization. GLOBOCAN 2012: Estimated cancer incidence, mortality and prevalence worldwide in 2012. <url>http://globocan.iarc.fr/Pages/fact_sheets_population.aspx</url>. Accessed 14 Feb 2015.</note>
+          </bibl>
+          <bibl id="B2">
+             <note>Netherlands Cancer Registry. Cancer statistics in the Netherlands. 2013. <url>http://www.cijfersoverkanker.nl/</url>. Accessed 14 Feb 2015.</note>
+          </bibl>
+          <bibl id="B3">
+             <title>
+                <p>Long-term outcome in patients with a pathological complete response after chemoradiation for rectal cancer: a pooled analysis of individual patient data</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Maas</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Nelemans</snm>
+                   <fnm>PJ</fnm>
+                </au>
+                <au>
+                   <snm>Valentini</snm>
+                   <fnm>V</fnm>
+                </au>
+                <au>
+                   <snm>Das</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>R&#246;del</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Kuo</snm>
+                   <fnm>LJ</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Lancet Oncol.</source>
+             <pubdate>2010</pubdate>
+             <volume>11</volume>
+             <fpage>835</fpage>
+             <lpage>44</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S1470-2045(10)70172-8</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20692872</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B4">
+             <title>
+                <p>Chemoradiotherapy for rectal cancer: an updated analysis of factors affecting pathological response</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Sanghera</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Wong</snm>
+                   <fnm>DW</fnm>
+                </au>
+                <au>
+                   <snm>McConkey</snm>
+                   <fnm>CC</fnm>
+                </au>
+                <au>
+                   <snm>Geh</snm>
+                   <fnm>JI</fnm>
+                </au>
+                <au>
+                   <snm>Hartley</snm>
+                   <fnm>A</fnm>
+                </au>
+             </aug>
+             <source>Clin Oncol (R Coll Radiol).</source>
+             <pubdate>2008</pubdate>
+             <volume>20</volume>
+             <fpage>176</fpage>
+             <lpage>83</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.clon.2007.11.013</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18248971</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B5">
+             <title>
+                <p>Pathologic assessment of tumor regression after preoperative chemoradiotherapy of esophageal carcinoma: clinicopathologic correlations</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Mandard</snm>
+                   <fnm>AM</fnm>
+                </au>
+                <au>
+                   <snm>Dalibard</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Mandard</snm>
+                   <fnm>JC</fnm>
+                </au>
+                <au>
+                   <snm>Marnay</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Henry-Amar</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Petiot</snm>
+                   <fnm>JF</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Cancer.</source>
+             <pubdate>1994</pubdate>
+             <volume>73</volume>
+             <fpage>2680</fpage>
+             <lpage>6</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1002/1097-0142(19940601)73:11&lt;2680::AID-CNCR2820731105&gt;3.0.CO;2-C</pubid>
+                   <pubid idtype="pmpid" link="fulltext">8194005</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B6">
+             <title>
+                <p>Impact of radiotherapy boost on pathological complete response in patients with locally advanced rectal cancer: a systematic review and meta-analysis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Burbach</snm>
+                   <fnm>JP</fnm>
+                </au>
+                <au>
+                   <snm>den Harder</snm>
+                   <fnm>AM</fnm>
+                </au>
+                <au>
+                   <snm>Intven</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>van Vulpen</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Verkooijen</snm>
+                   <fnm>HM</fnm>
+                </au>
+                <au>
+                   <snm>Reerink</snm>
+                   <fnm>O</fnm>
+                </au>
+             </aug>
+             <source>Radiother Oncol.</source>
+             <pubdate>2014</pubdate>
+             <volume>113</volume>
+             <fpage>1</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.radonc.2014.08.035</pubid>
+                   <pubid idtype="pmpid" link="fulltext">25281582</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B7">
+             <title>
+                <p>The CARTS study: chemoradiation therapy for rectal cancer in the distal rectum followed by organ-sparing transanal endoscopic microsurgery</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>B&#246;kkerink</snm>
+                   <fnm>GMJ</fnm>
+                </au>
+                <au>
+                   <snm>de Graaf</snm>
+                   <fnm>EJ</fnm>
+                </au>
+                <au>
+                   <snm>Punt</snm>
+                   <fnm>CJ</fnm>
+                </au>
+                <au>
+                   <snm>Nagtegaal</snm>
+                   <fnm>ID</fnm>
+                </au>
+                <au>
+                   <snm>R&#252;tten</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Nuyttens</snm>
+                   <fnm>JJ</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>BMC Surg.</source>
+             <pubdate>2011</pubdate>
+             <volume>11</volume>
+             <fpage>34</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1186/1471-2482-11-34</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22171697</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B8">
+             <title>
+                <p>Local excision after preoperative chemoradiotherapy for rectal cancer: results of a multicenter phase II clinical trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Pucciarelli</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>De Paoli</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Guerrieri</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>La Torre</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Maretto</snm>
+                   <fnm>I</fnm>
+                </au>
+                <au>
+                   <snm>De Marchi</snm>
+                   <fnm>F</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Dis Colon Rectum.</source>
+             <pubdate>2013</pubdate>
+             <volume>56</volume>
+             <fpage>1349</fpage>
+             <lpage>56</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/DCR.0b013e3182a2303e</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24201388</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B9">
+             <note>ISRCTN Registry ISRCTN14422743. Transanal endoscopic microsurgery (TEM) and Radiotherapy in Early rectal Cancer: a randomised phase II feasibility study. <url>http://www.controlled-trials.com/ISRCTN14422743/</url>. Accessed 14 Feb 2015.</note>
+          </bibl>
+          <bibl id="B10">
+             <title>
+                <p>Wait-and-see policy for clinical complete responders after chemoradiation for rectal cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Maas</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Beets-Tan</snm>
+                   <fnm>RG</fnm>
+                </au>
+                <au>
+                   <snm>Lambregts</snm>
+                   <fnm>DM</fnm>
+                </au>
+                <au>
+                   <snm>Lammering</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Nelemans</snm>
+                   <fnm>PJ</fnm>
+                </au>
+                <au>
+                   <snm>Engelen</snm>
+                   <fnm>SM</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>J Clin Oncol.</source>
+             <pubdate>2011</pubdate>
+             <volume>29</volume>
+             <fpage>4633</fpage>
+             <lpage>40</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1200/JCO.2011.37.7176</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22067400</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B11">
+             <title>
+                <p>Nonoperative management of rectal cancer with complete clinical response after neoadjuvant therapy</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Smith</snm>
+                   <fnm>JD</fnm>
+                </au>
+                <au>
+                   <snm>Ruby</snm>
+                   <fnm>JA</fnm>
+                </au>
+                <au>
+                   <snm>Goodman</snm>
+                   <fnm>KA</fnm>
+                </au>
+                <au>
+                   <snm>Saltz</snm>
+                   <fnm>LB</fnm>
+                </au>
+                <au>
+                   <snm>Guillem</snm>
+                   <fnm>JG</fnm>
+                </au>
+                <au>
+                   <snm>Weiser</snm>
+                   <fnm>MR</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Ann Surg.</source>
+             <pubdate>2012</pubdate>
+             <volume>256</volume>
+             <fpage>965</fpage>
+             <lpage>72</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/SLA.0b013e3182759f1c</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23154394</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B12">
+             <title>
+                <p>Local recurrence after complete clinical response and watch and wait in rectal cancer after neoadjuvant chemoradiation: impact of salvage therapy on local disease control</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Habr-Gama</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Gama-Rodrigues</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>S&#227;o Juli&#227;o</snm>
+                   <fnm>GP</fnm>
+                </au>
+                <au>
+                   <snm>Proscurshim</snm>
+                   <fnm>I</fnm>
+                </au>
+                <au>
+                   <snm>Sabbagh</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Lynn</snm>
+                   <fnm>PB</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Int J Radiat Oncol Biol Phys.</source>
+             <pubdate>2014</pubdate>
+             <volume>88</volume>
+             <fpage>822</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.ijrobp.2013.12.012</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24495589</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B13">
+             <title>
+                <p>Quantified pathologic response assessed as residual tumor burden is a predictor of recurrence-free survival in patients with rectal cancer who undergo resection after neoadjuvant chemoradiotherapy</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Agarwal</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Chang</snm>
+                   <fnm>GJ</fnm>
+                </au>
+                <au>
+                   <snm>Hu</snm>
+                   <fnm>CY</fnm>
+                </au>
+                <au>
+                   <snm>Taggart</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Rashid</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Park</snm>
+                   <fnm>IJ</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Cancer.</source>
+             <pubdate>2013</pubdate>
+             <volume>119</volume>
+             <fpage>4231</fpage>
+             <lpage>41</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1002/cncr.28331</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24089344</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B14">
+             <title>
+                <p>Systematic review and meta-analysis of outcomes following pathological complete response to neoadjuvant chemoradiotherapy for rectal cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Martin</snm>
+                   <fnm>ST</fnm>
+                </au>
+                <au>
+                   <snm>Heneghan</snm>
+                   <fnm>HM</fnm>
+                </au>
+                <au>
+                   <snm>Winter</snm>
+                   <fnm>DC</fnm>
+                </au>
+             </aug>
+             <source>Br J Surg.</source>
+             <pubdate>2012</pubdate>
+             <volume>99</volume>
+             <fpage>918</fpage>
+             <lpage>28</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1002/bjs.8702</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22362002</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B15">
+             <title>
+                <p>Complete pathologic response after combined modality treatment for rectal cancer and long-term survival: a meta-analysis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Zorcolo</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Rosman</snm>
+                   <fnm>AS</fnm>
+                </au>
+                <au>
+                   <snm>Restivo</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Pisano</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Nigri</snm>
+                   <fnm>GR</fnm>
+                </au>
+                <au>
+                   <snm>Fancellu</snm>
+                   <fnm>A</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Ann Surg Oncol.</source>
+             <pubdate>2012</pubdate>
+             <volume>19</volume>
+             <fpage>2822</fpage>
+             <lpage>32</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1245/s10434-011-2209-y</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22434243</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B16">
+             <note>ClinicalTrials.gov NCT02070146. The PICNIC Project: a ProspectIve Data CollectioN Initiative on Colorectal Cancer. <url>http://clinicaltrials.gov/show/NCT02070146</url>. Accessed 14 Feb 2015.</note>
+          </bibl>
+          <bibl id="B17">
+             <title>
+                <p>Rethinking pragmatic randomised controlled trials: introducing the &#8220;cohort multiple randomised controlled trial&#8221; design</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Relton</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Torgerson</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>O&#8217;Cathain</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Nicholl</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>BMJ.</source>
+             <pubdate>2010</pubdate>
+             <volume>340</volume>
+             <fpage>c1066</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/bmj.c1066</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20304934</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B18">
+             <title>
+                <p>TNM Classification of malignant tumors. Fifth edition (1997). Union internationale contre le cancer and the American joint committee on cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Sobin</snm>
+                   <fnm>LH</fnm>
+                </au>
+                <au>
+                   <snm>Fleming</snm>
+                   <fnm>ID</fnm>
+                </au>
+             </aug>
+             <source>Cancer</source>
+             <pubdate>1997</pubdate>
+             <volume>80</volume>
+             <fpage>1803</fpage>
+             <lpage>4</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1002/(SICI)1097-0142(19971101)80:9&lt;1803::AID-CNCR16&gt;3.0.CO;2-9</pubid>
+                   <pubid idtype="pmpid" link="fulltext">9351551</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B19">
+             <note>Dutch National Guidelines for Oncological Care: colorectal carcinoma. Version 3.0. Dutch. <url>http://www.oncoline.nl/colorectaalcarcinoom</url>. Accessed 14 Feb 2015.</note>
+          </bibl>
+          <bibl id="B20">
+             <title>
+                <p>Definition and delineation of the clinical target volume for rectal cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Roels</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Duthoy</snm>
+                   <fnm>W</fnm>
+                </au>
+                <au>
+                   <snm>Haustermans</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Penninckx</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Vandecaveye</snm>
+                   <fnm>V</fnm>
+                </au>
+                <au>
+                   <snm>Boterberg</snm>
+                   <fnm>T</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Int J Radiat Oncol Biol Phys.</source>
+             <pubdate>2006</pubdate>
+             <volume>65</volume>
+             <fpage>1129</fpage>
+             <lpage>42</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.ijrobp.2006.02.050</pubid>
+                   <pubid idtype="pmpid" link="fulltext">16750329</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B21">
+             <title>
+                <p>Preoperative radiotherapy combined with total mesorectal excision for resectable rectal cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kapiteijn</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Marijnen</snm>
+                   <fnm>CA</fnm>
+                </au>
+                <au>
+                   <snm>Nagtegaal</snm>
+                   <fnm>ID</fnm>
+                </au>
+                <au>
+                   <snm>Putter</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Steup</snm>
+                   <fnm>WH</fnm>
+                </au>
+                <au>
+                   <snm>Wiggers</snm>
+                   <fnm>T</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>N Engl J Med.</source>
+             <pubdate>2001</pubdate>
+             <volume>345</volume>
+             <fpage>638</fpage>
+             <lpage>46</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1056/NEJMoa010580</pubid>
+                   <pubid idtype="pmpid" link="fulltext">11547717</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B22">
+             <title>
+                <p>Diffusion-weighted MRI in locally advanced rectal cancer: pathological response prediction after neo-adjuvant radiochemotherapy</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Intven</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Reerink</snm>
+                   <fnm>O</fnm>
+                </au>
+                <au>
+                   <snm>Philippens</snm>
+                   <fnm>ME</fnm>
+                </au>
+             </aug>
+             <source>Strahlenther Onkol.</source>
+             <pubdate>2013</pubdate>
+             <volume>189</volume>
+             <fpage>117</fpage>
+             <lpage>22</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1007/s00066-012-0270-5</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23283590</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B23">
+             <aug>
+                <au>
+                   <snm>Joiner</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Van der Kogel</snm>
+                   <fnm>A</fnm>
+                </au>
+             </aug>
+             <source>Basic clinical radiobiology</source>
+             <publisher>CRC Press, Boca Raton, FL</publisher>
+             <edition>4</edition>
+             <pubdate>2009</pubdate>
+          </bibl>
+          <bibl id="B24">
+             <note>Kleijnen JJE, Van Asselen B, Burbach JPM, Intven M, Reerink O, Lagendijk JJW, et al. MRI-based inter-fraction motion analysis for rectal cancer boost radiotherapy [abstract OC-0574]. In Proceedings of the European Society for Radiotherapy &amp; Oncology: ESTRO 33; 4&#8211;8 Apr 2014; Vienna, Austria.</note>
+          </bibl>
+          <bibl id="B25">
+             <title>
+                <p>Reporting colorectal cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Quirke</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Morris</snm>
+                   <fnm>E</fnm>
+                </au>
+             </aug>
+             <source>Histopathology.</source>
+             <pubdate>2007</pubdate>
+             <volume>50</volume>
+             <fpage>103</fpage>
+             <lpage>12</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1365-2559.2006.02543.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">17204025</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B26">
+             <note>National Cancer Institute, National Institutes of Health. Common Terminology Criteria for Adverse Events (CTCAE) v.4 data files. <url>http://evs.nci.nih.gov/ftp1/CTCAE/About.html</url>] Accessed 14 Feb 2015.</note>
+          </bibl>
+          <bibl id="B27">
+             <title>
+                <p>The European Organization for Research and Treatment of Cancer QLQ-C30: a quality-of-life instrument for use in international clinical trials in oncology</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Aaronson</snm>
+                   <fnm>NK</fnm>
+                </au>
+                <au>
+                   <snm>Ahmedzai</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Bergman</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Bullinger</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Cull</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Duez</snm>
+                   <fnm>NJ</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>J Natl Cancer Inst.</source>
+             <pubdate>1993</pubdate>
+             <volume>85</volume>
+             <fpage>365</fpage>
+             <lpage>76</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/jnci/85.5.365</pubid>
+                   <pubid idtype="pmpid" link="fulltext">8433390</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B28">
+             <title>
+                <p>Assessing quality of life in patients with colorectal cancer: an update of the EORTC quality of life questionnaire</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Gujral</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Conroy</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Fleissner</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Sezer</snm>
+                   <fnm>O</fnm>
+                </au>
+                <au>
+                   <snm>King</snm>
+                   <fnm>PM</fnm>
+                </au>
+                <au>
+                   <snm>Avery</snm>
+                   <fnm>KN</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Eur J Cancer.</source>
+             <pubdate>2007</pubdate>
+             <volume>43</volume>
+             <fpage>1564</fpage>
+             <lpage>73</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.ejca.2007.04.005</pubid>
+                   <pubid idtype="pmpid" link="fulltext">17521904</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B29">
+             <title>
+                <p>Clinical and psychometric validation of the EORTC QLQ-CR29 questionnaire module to assess health-related quality of life in patients with colorectal cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Whistance</snm>
+                   <fnm>RN</fnm>
+                </au>
+                <au>
+                   <snm>Conroy</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Chie</snm>
+                   <fnm>W</fnm>
+                </au>
+                <au>
+                   <snm>Costantini</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Sezer</snm>
+                   <fnm>O</fnm>
+                </au>
+                <au>
+                   <snm>Koller</snm>
+                   <fnm>M</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Eur J Cancer.</source>
+             <pubdate>2009</pubdate>
+             <volume>45</volume>
+             <fpage>3017</fpage>
+             <lpage>26</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.ejca.2009.08.014</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19765978</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B30">
+             <title>
+                <p>Radiation dose&#8211;response model for locally advanced rectal cancer after preoperative chemoradiation therapy</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Appelt</snm>
+                   <fnm>AL</fnm>
+                </au>
+                <au>
+                   <snm>Ploen</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Vogelius</snm>
+                   <fnm>IR</fnm>
+                </au>
+                <au>
+                   <snm>Bentzen</snm>
+                   <fnm>SM</fnm>
+                </au>
+                <au>
+                   <snm>Jakobsen</snm>
+                   <fnm>A</fnm>
+                </au>
+             </aug>
+             <source>Int J Radiat Oncol Biol Phys.</source>
+             <pubdate>2013</pubdate>
+             <volume>85</volume>
+             <fpage>74</fpage>
+             <lpage>80</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.ijrobp.2012.05.017</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22763027</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B31">
+             <title>
+                <p>Employing complier average causal effect analytic methods to examine effects of randomized encouragement trials</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Connell</snm>
+                   <fnm>AM</fnm>
+                </au>
+             </aug>
+             <source>Am J Drug Alcohol Abuse.</source>
+             <pubdate>2009</pubdate>
+             <volume>35</volume>
+             <fpage>253</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1080/00952990903005882</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20180678</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B32">
+             <title>
+                <p>Analysis and interpretation of health-related quality-of-life data from clinical trials: basic approach of the National Cancer Institute of Canada Clinical Trials Group</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Osoba</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Bezjak</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Brundage</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Zee</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Tu</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Pater</snm>
+                   <fnm>J</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Eur J Cancer.</source>
+             <pubdate>2005</pubdate>
+             <volume>41</volume>
+             <fpage>280</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.ejca.2004.10.017</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15661554</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B33">
+             <note>ClinicalTrials.gov NCT01951521. RandomizEd Controlled Trial for Pre-operAtive Dose-escaLation BOOST in Locally Advanced Rectal Cancer (RECTAL BOOST study). <url>http://clinicaltrials.gov/show/NCT01951521</url>. Accessed 13 Feb 2015.</note>
+          </bibl>
+          <bibl id="B34">
+             <title>
+                <p>Improved sphincter preservation in low rectal cancer with high-dose preoperative radiotherapy: the Lyon R96-02 randomized trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Gerard</snm>
+                   <fnm>JP</fnm>
+                </au>
+                <au>
+                   <snm>Chapet</snm>
+                   <fnm>O</fnm>
+                </au>
+                <au>
+                   <snm>Nemoz</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Hartweig</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Romestaing</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Coquard</snm>
+                   <fnm>R</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>J Clin Oncol.</source>
+             <pubdate>2004</pubdate>
+             <volume>22</volume>
+             <fpage>2404</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1200/JCO.2004.08.170</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15197202</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+       </refgrp>
+    </bm>
+ </art>

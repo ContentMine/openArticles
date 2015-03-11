@@ -1,0 +1,114 @@
+{
+  "publisher": {
+    "value": [
+      "BioMed Central Ltd"
+    ]
+  },
+  "journal": {
+    "value": [
+      "Trials"
+    ]
+  },
+  "title": {
+    "value": [
+      "Effects and cost-effectiveness of pharmacogenetic screening for CYP2D6 among older adults starting therapy with nortriptyline or venlafaxine: study protocol for a pragmatic randomized controlled trial (CYSCEtrial)"
+    ]
+  },
+  "authors": {
+    "value": [
+      "Elizabeth JJ Berm",
+      "Eelko Hak",
+      "Maarten Postma",
+      "Marjolein Boshuisen",
+      "Laura Breuning",
+      "Jacobus RBJ Brouwers",
+      "Ton Dhondt",
+      "Paul AF Jansen",
+      "Rob M Kok",
+      "Jan G Maring",
+      "Rob van Marum",
+      "Hans Mulder",
+      "Richard C Oude Voshaar",
+      "Arne J Risselada",
+      "Harry Venema",
+      "Liesbeth Vleugel",
+      "Bob Wilffert"
+    ]
+  },
+  "date": {
+    "value": [
+      "2015-01-31"
+    ]
+  },
+  "doi": {
+    "value": [
+      "10.1186/s13063-015-0561-0"
+    ]
+  },
+  "volume": {
+    "value": [
+      "16"
+    ]
+  },
+  "issue": {
+    "value": [
+      "1"
+    ]
+  },
+  "firstpage": {
+    "value": [
+      "37"
+    ]
+  },
+  "description": {
+    "value": [
+      "Nortriptyline and venlafaxine are commonly used antidepressants for treatment of depression in older patients. Both drugs are metabolized by the polymorphic cytochrome P450-2D6 (CYP2D6) enzyme and guidelines for dose adaptations based on the CYP2D6 genotype have been developed. The CYP2D6 Screening Among Elderly (CYSCE) trial is designed to address the potential health and economic value of genotyping for CYP2D6 in optimizing dose-finding of nortriptyline and venlafaxine."
+    ]
+  },
+  "abstract": {
+    "value": [
+      "Nortriptyline and venlafaxine are commonly used antidepressants for treatment of depression in older patients. Both drugs are metabolized by the polymorphic cytochrome P450-2D6 (CYP2D6) enzyme and guidelines for dose adaptations based on the CYP2D6 genotype have been developed. The CYP2D6 Screening Among Elderly (CYSCE) trial is designed to address the potential health and economic value of genotyping for CYP2D6 in optimizing dose-finding of nortriptyline and venlafaxine."
+    ]
+  },
+  "fulltext_html": {
+    "value": [
+      "http://www.trialsjournal.com/content/16/1/37"
+    ]
+  },
+  "fulltext_pdf": {
+    "value": [
+      "http://www.trialsjournal.com/content/pdf/s13063-015-0561-0.pdf"
+    ]
+  },
+  "fulltext_xml": {
+    "value": [
+      "/content/download/xml/s13063-015-0561-0.xml"
+    ]
+  },
+  "supplementary_material": {
+    "value": [
+      "http://trialsjournal.com/content/download/supplementary/s13063-015-0561-0-s1.docx"
+    ]
+  },
+  "figure": {
+    "value": [
+      "/content/figures/s13063-015-0561-0-1.gif"
+    ]
+  },
+  "figure_caption": {
+    "value": [
+      "Figure 1.",
+      "Flowchart for inclusion of patients."
+    ]
+  },
+  "license": {
+    "value": [
+      "\r\n\t\t\t\tThis is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.\r\n\t\t\t"
+    ]
+  },
+  "copyright": {
+    "value": [
+      "\r\n            © 2015 Berm et al.; licensee BioMed Central. \r\n        "
+    ]
+  }
+}

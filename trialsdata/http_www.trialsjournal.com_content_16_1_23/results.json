@@ -1,0 +1,106 @@
+{
+  "publisher": {
+    "value": [
+      "BioMed Central Ltd"
+    ]
+  },
+  "journal": {
+    "value": [
+      "Trials"
+    ]
+  },
+  "title": {
+    "value": [
+      "The efficacy of motivational counseling and SMS-reminders on daily sitting time in patients with rheumatoid arthritis: protocol for a randomized controlled trial"
+    ]
+  },
+  "authors": {
+    "value": [
+      "Bente A Esbensen",
+      "Tanja Thomsen",
+      "Merete L Hetland",
+      "Nina Beyer",
+      "Julie Midtgaard",
+      "Katrine Løppenthin",
+      "Poul Jennum",
+      "Mikkel Østergaard",
+      "Jan Sørensen",
+      "Robin Christensen",
+      "Mette Aadahl"
+    ]
+  },
+  "date": {
+    "value": [
+      "2015-01-27"
+    ]
+  },
+  "doi": {
+    "value": [
+      "10.1186/s13063-014-0540-x"
+    ]
+  },
+  "volume": {
+    "value": [
+      "16"
+    ]
+  },
+  "issue": {
+    "value": [
+      "1"
+    ]
+  },
+  "firstpage": {
+    "value": [
+      "23"
+    ]
+  },
+  "description": {
+    "value": [
+      "Patients with RA (Rheumatoid Arthritis) are more sedentary than the general population. Reduction of Sedentary Behaviour (SB) has been suggested as a mean for improvement of health in patients with chronic diseases and mobility problems. Short-term intervention studies have demonstrated that SB can be reduced by behavioural interventions in healthy populations. However, it remains unexplored whether it is valid for patients with RA also."
+    ]
+  },
+  "abstract": {
+    "value": [
+      "Patients with RA (Rheumatoid Arthritis) are more sedentary than the general population. Reduction of Sedentary Behaviour (SB) has been suggested as a mean for improvement of health in patients with chronic diseases and mobility problems. Short-term intervention studies have demonstrated that SB can be reduced by behavioural interventions in healthy populations. However, it remains unexplored whether it is valid for patients with RA also."
+    ]
+  },
+  "fulltext_html": {
+    "value": [
+      "http://www.trialsjournal.com/content/16/1/23"
+    ]
+  },
+  "fulltext_pdf": {
+    "value": [
+      "http://www.trialsjournal.com/content/pdf/s13063-014-0540-x.pdf"
+    ]
+  },
+  "fulltext_xml": {
+    "value": [
+      "/content/download/xml/s13063-014-0540-x.xml"
+    ]
+  },
+  "supplementary_material": {
+    "value": []
+  },
+  "figure": {
+    "value": [
+      "/content/figures/s13063-014-0540-x-1.gif"
+    ]
+  },
+  "figure_caption": {
+    "value": [
+      "Figure 1.",
+      "Recruitment, screening, enrollment, and randomization."
+    ]
+  },
+  "license": {
+    "value": [
+      "\r\n\t\t\t\tThis is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium,  provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.\r\n\t\t\t"
+    ]
+  },
+  "copyright": {
+    "value": [
+      "\r\n            © 2015 Esbensen et al.; licensee BioMed Central. \r\n        "
+    ]
+  }
+}

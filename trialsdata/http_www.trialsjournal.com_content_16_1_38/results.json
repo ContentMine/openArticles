@@ -1,0 +1,103 @@
+{
+  "publisher": {
+    "value": [
+      "BioMed Central Ltd"
+    ]
+  },
+  "journal": {
+    "value": [
+      "Trials"
+    ]
+  },
+  "title": {
+    "value": [
+      "Update to the study protocol, including statistical analysis plan for a randomized clinical trial comparing comprehensive cardiac rehabilitation after heart valve surgery with control: the CopenHeartVR trial"
+    ]
+  },
+  "authors": {
+    "value": [
+      "Kirstine L Sibilitz",
+      "Selina K Berg",
+      "Tina B Hansen",
+      "Signe S Risom",
+      "Trine B Rasmussen",
+      "Christian Hassager",
+      "Lars Køber",
+      "Christian Gluud",
+      "Lau C Thygesen",
+      "Jane Lindschou",
+      "Jean P Schmid",
+      "Rod S Taylor",
+      "Ann-Dorthe Zwisler"
+    ]
+  },
+  "date": {
+    "value": [
+      "2015-02-05"
+    ]
+  },
+  "doi": {
+    "value": [
+      "10.1186/s13063-015-0562-z"
+    ]
+  },
+  "volume": {
+    "value": [
+      "16"
+    ]
+  },
+  "issue": {
+    "value": [
+      "1"
+    ]
+  },
+  "firstpage": {
+    "value": [
+      "38"
+    ]
+  },
+  "description": {
+    "value": [
+      "Heart valve diseases are common with an estimated prevalence of 2.5% in the Western world. The number is rising because of an ageing population. Once symptomatic, heart valve diseases are potentially lethal, and heavily influence daily living and quality of life. Surgical treatment, either valve replacement or repair, remains the treatment of choice. However, post-surgery, the transition to daily living may become a physical, mental and social challenge. We hypothesize that a comprehensive cardiac rehabilitation program can improve physical capacity and self-assessed mental health and reduce hospitalization and healthcare costs after heart valve surgery."
+    ]
+  },
+  "abstract": {
+    "value": [
+      "Heart valve diseases are common with an estimated prevalence of 2.5% in the Western world. The number is rising because of an ageing population. Once symptomatic, heart valve diseases are potentially lethal, and heavily influence daily living and quality of life. Surgical treatment, either valve replacement or repair, remains the treatment of choice. However, post-surgery, the transition to daily living may become a physical, mental and social challenge. We hypothesize that a comprehensive cardiac rehabilitation program can improve physical capacity and self-assessed mental health and reduce hospitalization and healthcare costs after heart valve surgery."
+    ]
+  },
+  "fulltext_html": {
+    "value": [
+      "http://www.trialsjournal.com/content/16/1/38"
+    ]
+  },
+  "fulltext_pdf": {
+    "value": [
+      "http://www.trialsjournal.com/content/pdf/s13063-015-0562-z.pdf"
+    ]
+  },
+  "fulltext_xml": {
+    "value": [
+      "/content/download/xml/s13063-015-0562-z.xml"
+    ]
+  },
+  "supplementary_material": {
+    "value": []
+  },
+  "figure": {
+    "value": []
+  },
+  "figure_caption": {
+    "value": []
+  },
+  "license": {
+    "value": [
+      "\r\n\t\t\t\tThis is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.\r\n\t\t\t"
+    ]
+  },
+  "copyright": {
+    "value": [
+      "\r\n            © 2015 Sibilitz et al.; licensee BioMed Central. \r\n        "
+    ]
+  }
+}

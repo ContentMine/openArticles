@@ -1,0 +1,1463 @@
+<?xml version='1.0'?>
+<!DOCTYPE art SYSTEM 'http://www.biomedcentral.com/xml/article.dtd'>
+<art>
+    <ui>s13063-015-0595-3</ui>
+    <ji>1745-6215</ji>
+    <fm>
+       <dochead>Study protocol</dochead>
+       <bibl>
+          <title>
+             <p>Effect of a multifaceted educational program for care staff concerning fecal incontinence in nursing home patients: study protocol of a cluster randomized controlled trial</p>
+          </title>
+          <aug>
+             <au id="A1" ca="yes">
+                <snm>Blekken</snm>
+                <mnm>Elisabeth</mnm>
+                <fnm>Lene</fnm>
+                <insr iid="I1"/>
+                <email>lene.blekken@hist.no</email>
+             </au>
+             <au id="A2">
+                <snm>Vinsnes</snm>
+                <mnm>Guttormsen</mnm>
+                <fnm>Anne</fnm>
+                <insr iid="I1"/>
+                <email>anne.g.vinsnes@hist.no</email>
+             </au>
+             <au id="A3">
+                <snm>Gjeilo</snm>
+                <mnm>Hanne</mnm>
+                <fnm>Kari</fnm>
+                <insr iid="I2"/>
+                <insr iid="I3"/>
+                <email>kari.hanne.gjeilo@stolav.no</email>
+             </au>
+             <au id="A4">
+                <snm>M&#248;rkved</snm>
+                <fnm>Siv</fnm>
+                <insr iid="I4"/>
+                <insr iid="I7"/>
+                <email>siv.morkved@stolav.no</email>
+             </au>
+             <au id="A5">
+                <snm>Salvesen</snm>
+                <fnm>&#216;yvind</fnm>
+                <insr iid="I5"/>
+                <email>oyvind.salvesen@ntnu.no</email>
+             </au>
+             <au id="A6">
+                <snm>Norton</snm>
+                <fnm>Christine</fnm>
+                <insr iid="I6"/>
+                <email>christine.norton@kcl.ac.uk</email>
+             </au>
+             <au id="A7">
+                <snm>Nakrem</snm>
+                <fnm>Sigrid</fnm>
+                <insr iid="I1"/>
+                <email>Sigrid.nakrem@hist.no</email>
+             </au>
+          </aug>
+          <insg>
+             <ins id="I1">
+                <p>Faculty of Nursing, S&#248;r-Tr&#248;ndelag University College (HiST), Trondheim, 7004, Norway</p>
+             </ins>
+             <ins id="I2">
+                <p>Department of Cardiothoracic Surgery, Department of Cardiology and National Competence Centre for Complex Symptom Disorders, St. Olavs Hospital, Trondheim University Hospital, Trondheim, 7006, Norway</p>
+             </ins>
+             <ins id="I3">
+                <p>Department of Circulation and Medical Imaging, Norwegian University of Science and Technology (NTNU), Trondheim, 7491, Norway</p>
+             </ins>
+             <ins id="I4">
+                <p>Department of Public Health and General Practice, Norwegian University of Science and Technology (NTNU), Trondheim, 7491, Norway</p>
+             </ins>
+             <ins id="I5">
+                <p>Department of Cancer Research and molecular Medicine, Norwegian University of Science and Technology (NTNU), Trondheim, 7491, Norway</p>
+             </ins>
+             <ins id="I6">
+                <p>Faculty of Nursing and Midwifery, King&#8217; College London, 57 Waterloo Road, London SE1 8WA, UK</p>
+             </ins>
+             <ins id="I7">
+                <p>Clinical Service, St Olavs Hospital, Trondheim University Hospital, Trondheim, 7006, Norway</p>
+             </ins>
+          </insg>
+          <source>Trials</source>
+          <issn>1745-6215</issn>
+          <pubdate>2015</pubdate>
+          <volume>16</volume>
+          <issue>1</issue>
+          <fpage>69</fpage>
+          <url>http://www.trialsjournal.com/content/16/1/69</url>
+          <xrefbib>
+             <pubidlist>
+                <pubid idtype="doi">10.1186/s13063-015-0595-3</pubid>
+             </pubidlist>
+          </xrefbib>
+       </bibl>
+       <history>
+          <rec>
+             <date>
+                <day>19</day>
+                <month>9</month>
+                <year>2014</year>
+             </date>
+          </rec>
+          <acc>
+             <date>
+                <day>9</day>
+                <month>2</month>
+                <year>2015</year>
+             </date>
+          </acc>
+          <pub>
+             <date>
+                <day>1</day>
+                <month>3</month>
+                <year>2015</year>
+             </date>
+          </pub>
+       </history>
+       <cpyrt>
+          <year>2015</year>
+          <collab>Blekken et al.; licensee BioMed Central.</collab>
+          <note>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/4.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (<url>http://creativecommons.org/publicdomain/zero/1.0/</url>) applies to the data made available in this article, unless otherwise stated.</note>
+       </cpyrt>
+       <kwdg>
+          <kwd>Fecal incontinence</kwd>
+          <kwd>Nursing homes</kwd>
+          <kwd>Long-term care</kwd>
+          <kwd>Old patients</kwd>
+          <kwd>Care processes</kwd>
+          <kwd>Nursing</kwd>
+          <kwd>Protocol</kwd>
+          <kwd>Cluster-randomized trial</kwd>
+       </kwdg>
+       <abs>
+          <sec>
+             <st>
+                <p>Abstract</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Background</p>
+                </st>
+                <p>Fecal incontinence has a high prevalence in the older population, which cannot be explained by comorbidity or the anatomical or psychological changes of aging alone. Fecal incontinence leads to a high economic burden to the healthcare system and is an important cause of institutionalization. In addition, fecal incontinence is associated with shame, social isolation and reduced quality of life. The importance of identifying treatable causes in the frail elderly is strongly emphasized. It is recommended that an assessment of fecal incontinence should be implemented as part of an evaluation of older patients. Although there is a substantial evidence base to guide choice of implementation activities targeting healthcare professionals, little implementation research has focused on the care of older people nor involved care processes or care personnel. This study is based on the assumption that fecal incontinence among nursing home patients can be prevented, cured or ameliorated by offering care staff knowledge of best practice through a multifaceted educational program. The primary objective is to test the hypothesis that a multifaceted educational program for nursing home care staff on assessment and treatment of fecal incontinence reduces patients&#8217; frequency of fecal incontinence.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Methods/design</p>
+                </st>
+                <p>The study is a two-armed, parallel cluster-randomized controlled trial. Primary outcome is the frequency of fecal incontinence among patients. Sample size calculations resulted in a need for a total sample of 240 patients. Twenty nursing home units in one city in Norway will be recruited and allocated to intervention or control by an independent statistician using computer-generated tables. The intervention is a multifaceted educational program. Units in the control arm will provide care as usual. The intervention period is 3&#160;months. Data will be collected at baseline, 3, and 6&#160;months. Data will be analyzed using mixed effect models with the cluster treated as a random effect.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Discussion</p>
+                </st>
+                <p>This study is the first randomized controlled trial specifically focusing on this neglected area. The result of the study will give evidence for best practice for continence care in nursing homes, and organizational advice concerning implementation strategies.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Trial registration</p>
+                </st>
+                <p>ClinicalTrials.gov: <url>NCT02183740</url>, registered June 2014.</p>
+             </sec>
+          </sec>
+       </abs>
+    </fm>
+    <bdy>
+       <sec>
+          <st>
+             <p>Background</p>
+          </st>
+          <p>Fecal incontinence (FI) is defined by the International Consultation on Incontinence as &#8216;the involuntary loss of liquid or solid stool that is a social or hygienic problem&#8217; <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>. FI has a higher prevalence in the elderly population than in younger people, which cannot be explained by comorbidity or the anatomical and psychological changes of aging alone <abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp>. In the nursing home (NH) population, previous studies suggest a prevalence of FI between 10 and 69% <abbrgrp>
+                <abbr bid="B3">3</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B5">5</abbr>
+             </abbrgrp>, but it is most often reported to be between 40 and 55% <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B5">5</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B6">6</abbr>
+             </abbrgrp>. The varying prevalence may be due to the lack of a consistent definition of FI, although differences in the quality of continence care in the NHs might also be an explanation <abbrgrp>
+                <abbr bid="B6">6</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B7">7</abbr>
+             </abbrgrp>.</p>
+          <p>FI leads to a high direct and indirect economic burden to the healthcare system, and is an important cause of institutionalization of older patients <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B7">7</abbr>
+             </abbrgrp>. In addition, FI is associated with shame, social isolation and reduced quality of life <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B8">8</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B9">9</abbr>
+             </abbrgrp>. FI among older patients has a more complex etiology compared to the younger population <abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B6">6</abbr>
+             </abbrgrp>, and the importance of identifying treatable causes of FI in frail older people, rather than just managing symptoms passively, is strongly emphasized <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>. The level of awareness among health personnel regarding appropriate assessment and treatment options for FI seems limited <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B10">10</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B12">12</abbr>
+             </abbrgrp>. Further, there are indications that both older patients themselves and health personnel consider FI to be a normal part of aging for which nothing can be done <abbrgrp>
+                <abbr bid="B9">9</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B11">11</abbr>
+             </abbrgrp>. It is recommended that an assessment of FI should be implemented as part of an evaluation of older patients <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B13">13</abbr>
+             </abbrgrp>.</p>
+          <p>There is a substantial evidence base to guide choice of implementation activities targeting healthcare professionals in general <abbrgrp>
+                <abbr bid="B14">14</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B17">17</abbr>
+             </abbrgrp>. However, relatively little of the implementation research has focused on the care of older people or involved care processes or care personnel <abbrgrp>
+                <abbr bid="B18">18</abbr>
+             </abbrgrp>. Even though the evidence is not fully conclusive, implementation research suggests that the most effective method for changing the behavior of health personnel in long-term care settings involves multifaceted educational efforts such as written materials or toolkits combined with individual educational visits, small group training or feedback <abbrgrp>
+                <abbr bid="B14">14</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B17">17</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B19">19</abbr>
+             </abbrgrp>.</p>
+          <p>This study is based on the hypothesis that FI among NH patients can be prevented, cured or ameliorated by offering NH care staff knowledge of best practice through a multifaceted educational program on assessment and treatment of FI. The study has been developed according to guidelines for developing and testing complex interventions <abbrgrp>
+                <abbr bid="B20">20</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B23">23</abbr>
+             </abbrgrp>. As there are very few trials either on the treatment of FI in NH patients or on continence education programs for care staff, it was considered necessary to investigate feasibility before evaluating the complex intervention with a randomized controlled trial <abbrgrp>
+                <abbr bid="B20">20</abbr>
+             </abbrgrp>. Thus, a pilot study was conducted in autumn 2013. The results are not yet published, but the experiences and results have been used in the planning of this cluster-randomized controlled trial.</p>
+          <sec>
+             <st>
+                <p>Aims and objectives</p>
+             </st>
+             <p>The overall aim of this study is to achieve a reduction in bowel leakage and accidents for NH patients by altering the quality of continence care among registered nurses (RNs), authorized social educators (ASEs, see below), and care staff in general. The primary objective is to test the hypothesis that a multifaceted educational program for NH care staff on assessment and treatment of FI reduces patients&#8217; frequency of FI.</p>
+             <p>Secondarily, the trial will investigate the effect of a multifaceted educational program for NH care staff on 1) remission of FI among patients with FI present at baseline or the incidence of new cases of FI among patients identified as continent at baseline; 2) change in NH patients&#8217; FI-related concerns such as mood, constipation, diarrhea and skin condition; 3) increased knowledge among RNs and ASEs; 4) change of practice among RNs, ASEs and care staff in general; 5) and reduction in costs related to FI management. The study also intends to investigate correlates of FI in the NH population.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Methods/design</p>
+          </st>
+          <p>The study is a parallel two-armed cluster randomized controlled trial (C-RCT) with a repeated cross-sectional design. As there will be considerable overlap between patients included at the different data-collection time points, some outcomes will be treated as if they come from a cohort design.</p>
+          <sec>
+             <st>
+                <p>Setting</p>
+             </st>
+             <p>In Norway, the municipalities have a statuary obligation to provide NH care to those who need it. Most Norwegian NHs are owned and run by the municipalities, and financed by a combination of taxes and patient payment. NH size varies between 20 and 120 beds, divided into units most commonly with 15 beds. NHs are managed by RNs and have an agreement with a general practitioner (GP) who visits the NH once a week. There are no legal requirements for staff-to-patient ratios or specifications for qualifications required for workers <abbrgrp>
+                   <abbr bid="B24">24</abbr>
+                </abbrgrp>. However, NHs have RNs and/or ASEs on duty 24&#160;hours a day, and according to unpublished information from Statistics Norway the staff comprises on average 31% RNs/ASEs, 45% licensed practical nurses (care education on high school level most often before age 18) , and 24% healthcare aides (no vocational health education). Statistics Norway has overall responsibility for official statistics in Norway. In Norway, an ASE has a bachelor&#8217;s degree and provides daily care to persons in need, particularly those with intellectual disability, including dementia. ASEs have a defined healthcare and pharmacological competence <abbrgrp>
+                   <abbr bid="B25">25</abbr>
+                </abbrgrp>.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Intervention</p>
+             </st>
+             <p>The educational program has been developed according to recommendations from implementation research, pedagogic theory and experience from members of the project group <abbrgrp>
+                   <abbr bid="B14">14</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B16">16</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B19">19</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B26">26</abbr>
+                </abbrgrp>-<abbrgrp>
+                   <abbr bid="B31">31</abbr>
+                </abbrgrp>. A research group comprising four researchers will facilitate the educational program and will be trained as a unified team to enhance standardization of the intervention. Educational content, pedagogical methods and a paper-based guideline for nurse-led assessment and treatment of FI (the FI-guideline, see below) were developed for this study by expert consensus and were evaluated in the pilot study.</p>
+             <sec>
+                <st>
+                   <p>Content of the multifaceted intervention</p>
+                </st>
+                <p>
+                      <it>The FI-guideline</it> is based on best practice recommendations <abbrgrp>
+                      <abbr bid="B1">1</abbr>
+                   </abbrgrp>,<abbrgrp>
+                      <abbr bid="B13">13</abbr>
+                   </abbrgrp>,<abbrgrp>
+                      <abbr bid="B32">32</abbr>
+                   </abbrgrp>,<abbrgrp>
+                      <abbr bid="B33">33</abbr>
+                   </abbrgrp> and will be introduced to the RNs/ASEs in the intervention NHs during the workshop (see below). The FI-guideline facilitates a systematic assessment of bowel symptom history and bowel patterns. As FI among NH patients is considered to have a complex etiology, the guideline encourages the RN/ASE to consider a range of possible causes. Examples are loose stools, immobility, cognitive impairment, impaction and use of laxatives. Based on this assessment, the RN/ASE defines a nursing diagnosis, for example: &#8216;FI related to loose stools, possibly due to excessive laxatives, urgency and reduced mobility. This leads to FI episodes with loose stool and red perineal skin&#8217;. The guideline then offers a range of possible interventions. The result of the paper-based assessment, the nursing diagnosis and interventions, is then documented in the patient&#8217;s EPR as an individualized care plan.</p>
+                <p>
+                      <it>One one-day educational meeting</it> (7&#160;hours) is defined by the Cochrane Effective Practice and Organization of Care (EPOC) as &#8216;participation of healthcare providers in conference, lectures, workshops or traineeships&#8217; <abbrgrp>
+                      <abbr bid="B14">14</abbr>
+                   </abbrgrp>. The educational meeting will be organized as an interactive workshop, which targets knowledge, attitudes, and skills. The workshop will be conducted in a local meeting room in each intervention NH. Part one of the workshop includes the RNs/ASEs filling in a knowledge test (which is part of the data collection). However, by organizing it as a part of the workshop, the pedagogical intention is to facilitate learning, as it is possible to find the answers in the following theoretical input. Part two of the workshop is case-based discussion concerning the FI-guideline. As individualization of the nurse&#8217;s diagnoses and the interventions is essential, an important pedagogical intention is to empower the RNs/ASEs&#8217; clinical and critical thinking. Another important issue is how to integrate the use of the guideline with the electronic patient record (EPR) system. The topics for the educational meeting, including the FI-guideline, will be made available for the staff as printed educational material <abbrgrp>
+                      <abbr bid="B14">14</abbr>
+                   </abbrgrp>.</p>
+                <p>
+                      <it>A local opinion leader</it> is defined by EPOC as &#8216;use of providers nominated by their colleges as educationally influential&#8217; <abbrgrp>
+                      <abbr bid="B14">14</abbr>
+                   </abbrgrp>. The opinion leader will be recruited after the educational meeting by the informant method <abbrgrp>
+                      <abbr bid="B34">34</abbr>
+                   </abbrgrp> by asking the care manager who is considered to be a principle source of influence. One opinion leader per unit will be recruited. The opinion leader will, together with the care manager, participate in an additional 1.5&#160;hour educational meeting regarding the role of the opinion leader and care manager for this study. They will also receive contact information for the researcher for support during the intervention period. The care manager has responsibility for facilitating adherence to the program and the guidelines in cooperation with the opinion leader.</p>
+                <p>
+                      <it>Educational outreach</it> is defined by EPOC as &#8216;use of a trained person who meets with providers in their practice setting to give information with the intent of changing the providers&#8217; practice&#8217; <abbrgrp>
+                      <abbr bid="B14">14</abbr>
+                   </abbrgrp>. The researcher will meet with the healthcare personnel in the practice setting six times for 1.5&#160;hours each time during the 3-month intervention period. The opinion leader will make an agreement with the researcher on how to work and what to focus on between meetings. The NH care staff as a whole is the target group for the educational outreach and will be invited to participate in the educational meetings throughout the intervention period. Facilitating and empowering the staff&#8217;s critical and clinical thinking is the main pedagogical approach. The pilot study identified a culture of discontinuity among staff in reporting important clinical observations and decisions in the EPR as an essential barrier to change. In addition, even if decisions were reported in the EPR, it was a problem that staff did not check the patients&#8217; EPR for changes in the patients&#8217; care procedures, which resulted in the patients not receiving the correct interventions for his/her condition. Thus, it will be important to facilitate NH unit-specific strategies to ensure continuity in FI care for the individual patient.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Control group</p>
+             </st>
+             <p>The control group will not receive any educational program and will continue with usual care. Data on ordinary practice will be gathered as part of the data collection procedure in this study (health information on patients, ordinary practice as documented in the EPR, care for patients&#8217; FI, diarrhea and constipation as documented in The Fecal Incontinence in Nursing Home Patient questionnaire <abbrgrp>
+                   <abbr bid="B6">6</abbr>
+                </abbrgrp>).</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Eligibility criteria</p>
+             </st>
+             <p>Results from the pilot study confirmed that units in Norwegian NHs are comparable with the definition by Norton and colleagues <abbrgrp>
+                   <abbr bid="B35">35</abbr>
+                </abbrgrp>. NH units with similar care staff/patient ratios on the day shift and GP coverage will be selected. NH units designated with a specialty or with an enhanced care staff/patient ratio will be excluded. RNs and ASEs working half time or more are eligible for participation in the workshop and to be recruited as opinion leaders in the intervention group. RNs/ASEs working less than half time or only night shifts are excluded. All care staff members in the NH will be invited to the educational outreach meetings throughout the intervention period. All long-term care patients (1&#160;month or more) are eligible for inclusion.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Recruitment</p>
+             </st>
+             <p>Approval will be obtained from the director for health and social affairs in the municipality. The first and last authors will participate in a meeting where all managers for the NHs in the municipality will be gathered. The project will be presented and NHs invited to participate. NHs accepting the invitation will be eligible for selection. NH units will be enrolled until the target patient sample size is reached.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Randomization and allocation</p>
+             </st>
+             <p>One unit will be defined as one cluster. Two clusters per NH will be recruited. Allocation stages are as follows:</p><p>1. NHs will be identified and recruited;</p>
+                <p>2. Units will be identified and recruited;</p>
+                <p>3. Patients will be identified;</p>
+                <p>4. Baseline data collection will take place for units and patients;</p>
+                <p>5. Allocation will be done by an independent statistician to intervention or control; and</p>
+                <p>6. RNs/ASEs will be identified and recruited to the intervention (Figure&#160;<figr fid="F1">1</figr>).
+                          </p>
+                
+                   <fig id="F1">
+                      <title>
+                         <p>Figure 1</p>
+                      </title>
+                      <caption>
+                         <p>Trial flow-chart. </p>
+                      </caption>
+                      <text>
+                         <p> 
+                                    <b>Trial flow-chart.</b>                                  
+                         </p>
+                      </text>
+                      <graphic file="s13063-015-0595-3-1"/>
+                   </fig>
+                
+             <p>The clusters will be allocated to the intervention or control arm using minimization <abbrgrp>
+                   <abbr bid="B23">23</abbr>
+                </abbrgrp>. Minimization factors are a) all units from the same NH will be allocated to the same arm and b) cluster size, where NHs will be sequenced in pairs according to size and then randomized to either intervention or control. The randomization method is simple randomization and is computer generated and performed by an independent statistician (Figure&#160;<figr fid="F1">1</figr>).</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Outcome measures</p>
+             </st>
+             <p>The primary outcome measure is frequency of FI among patients 6&#160;months after start of the intervention, as measured by The interRAI Long-Term Care Facilities Assessment System (interRAI LTCF) <abbrgrp>
+                   <abbr bid="B36">36</abbr>
+                </abbrgrp>, section H3: Bowel continence with the categories 0 to 5 (0&#8201;=&#8201;continent, 1&#8201;=&#8201;continent with stoma, 2&#8201;=&#8201;seldom incontinent, 3&#8201;=&#8201;occasionally incontinent, 4&#8201;=&#8201;often incontinent, 5&#8201;=&#8201;incontinent). The interRAI LTCF is an internationally validated questionnaire regarding long-term care patients&#8217; health conditions. In order to get some additional information about the severity of FI and urgency, a Norwegian version of the St. Mark&#8217;s anal incontinence score <abbrgrp>
+                   <abbr bid="B37">37</abbr>
+                </abbrgrp> will be used. The St. Marks grading system is based on the type and frequency of anal incontinence (gas, fluid, or solid) and the impact on daily life, the need to wear a pad/diaper and/or anal plug, the use of constipating medication and the presence of urgency. It gives a total score from 0 (complete continence) to 24 (complete incontinence).</p>
+             <p>The study has the following secondary outcome measures:</p><p>1. 
+                            <it>Remission of FI</it> among patients identified with FI at baseline, or <it>incidence</it> of new cases of FI among patients identified as continent at baseline, measured by interRAI LTCF section H3 and the St Marks score.</p>
+                <p>2. 
+                            <it>Change in FI related concerns</it> measured by interRAI LTCF: section E: Mood and behavior, section F: Psycho-social wellbeing, section H1: Urinary continence, section J: State of health - Constipation and diarrhea, section L: Skin condition, and section M: Participation in activities.</p>
+                <p>3. 
+                            <it>Change in knowledge</it> among RNs/ASEs measured by multiple choice tests developed by the researchers according to established guidelines <abbrgrp>
+                      <abbr bid="B38">38</abbr>
+                   </abbrgrp>.</p>
+                <p>4. 
+                            <it>Change in documented care for FI by health personnel as registered in the EPR</it>: RNs/ASEs will extract data from the EPR. The instrument N-Catch <abbrgrp>
+                      <abbr bid="B39">39</abbr>
+                   </abbrgrp> will be used for this purpose. N-Catch is an audit instrument for nursing reports in the EPR. N-Catch is translated into Norwegian and developed based on the validated D-Catch <abbrgrp>
+                      <abbr bid="B40">40</abbr>
+                   </abbrgrp> and Cat-ch-ing <abbrgrp>
+                      <abbr bid="B41">41</abbr>
+                   </abbrgrp>. Change in care will also be measured by the Fecal Incontinence in Nursing Home Patients questionnaire <abbrgrp>
+                      <abbr bid="B6">6</abbr>
+                   </abbrgrp> where RNs/ASEs are offered a list of interventions for FI, urinary incontinence, diarrhea and constipation and asked to identify what is done for each individual patient.</p>
+                <p>5. 
+                            <it>Change in cost</it> of FI management measured by mapping the use of products (diapers, pads, plugs) and bowel medications measured by interRAI LTCF section H: Continence - remedies, section N: Medications, and the Fecal Incontinence in Nursing Home Patients questionnaire.</p>
+                <p>6. 
+                            <it>Correlates of FI</it> among NH patients measured by interRAI LTCF: section C: Cognitive functioning, section D: Communication and vision, section G: Functionality and mobility, section I: Medical diagnoses, section J: Health condition, section K: Mouth- and nutrition status, section N: Medications, and section O: Treatment, examinations/procedures.</p>
+             <p>Process evaluation will include attendance at the pedagogical program and use of the FI-guideline. Evaluation will be conducted by using checklists administered by the researchers: proportion RNs/ASEs within eligibility criteria participating in the workshop, proportion of staff participating in the educational outreach meetings, proportion of patients assessed by the FI-guideline, and proportion of patient assessments resulting in an individualized care plan in the EPR.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Background variables</p>
+             </st>
+             <p>Organizational characteristics of the NHs and background information on patients&#8217; sex, medical status and length of stay in the NH will be obtained. Background variables for the RNs and ASEs are age, sex, educational level, years since registered/authorized and length of employment at the present site.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Sample size</p>
+             </st>
+             <p>Sample size calculations are based on the primary outcome: frequency of FI among patients. The power calculations have taken into account the results from the pilot study. The pilot study identified the primary outcome variable to be skewed to the right, and methodological consideration resulted in a dichotomization of the primary outcome variable with a cut off between 2 (continent, continent with a stoma and seldom incontinent) and 3 (occasionally incontinent, often incontinent and incontinent). Based on results from the pilot study, we hypothesized that a reasonable and clinically important effect size in the intervention group compared to the control group would be 15% between the two groups in proportions with FI (score of 3 to 5). As the design is a cluster randomized trial, we need to adjust for clustering. The intracluster correlation coefficient (ICC) is estimated to be 0.04. The estimate is based on published patterns in ICCs <abbrgrp>
+                   <abbr bid="B23">23</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B42">42</abbr>
+                </abbrgrp>-<abbrgrp>
+                   <abbr bid="B44">44</abbr>
+                </abbrgrp>, and results from the pilot study where the ICC was calculated to be 0.038. In addition, we had access to the FI variable with the categories 0 to 4 from an epidemiological study of 980 NH patients in Trondheim municipality <abbrgrp>
+                   <abbr bid="B6">6</abbr>
+                </abbrgrp> with an ICC calculated as 0.028. Based on the assumptions of the mixed logistic binominal model, 5% level of significance, test strength of 80%, an average cluster size of 15 patients, and an ICC of 0.04, a study population of 103 patients in each arm of the C-RCT is needed. The number of individuals in each cluster is set because each unit has a fixed number of beds. Assuming a 15% dropout, the sample needed is 120 patients in each arm. This means a total of 240 patients and about 20 NH units (Figure&#160;<figr fid="F1">1</figr>).</p>
+             <p>In addition, the number of patients records needed for data extractions, was calculated. N-Catch measures the quality of the content in the EPR on a scale from 0 to 32 where 0 is low quality and 32 is high quality <abbrgrp>
+                   <abbr bid="B39">39</abbr>
+                </abbrgrp>-<abbrgrp>
+                   <abbr bid="B41">41</abbr>
+                </abbrgrp>. Based on the assumption of a paired <it>t</it>-test, a 5% level of significance, test strength of 80%, an effect size of 3 points and an ICC of 0,04, records from 6 patients per cluster is needed for a total of 146 records (Figure&#160;<figr fid="F1">1</figr>).</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Data collection methods</p>
+             </st>
+             <p>Data are collected at baseline (t<sub>0</sub>), after 3&#160;months (t<sub>1</sub>&#8201;=&#8201;end of intervention), and after 6&#160;months (t<sub>2=</sub>primary time of assessment). A research assistant will, together with the first author, give information and training on completion of the questionnaires and data extraction from EPR at baseline. RNs/ASEs will then be responsible for filling in the questionnaires about the patients&#8217; health condition (proxy) and extracting the data from the EPR. Organized alphabetically by last name on a list, the EPRs of the first six patients per cluster will be extracted. Time scheduled for the information meetings is 2 to 3&#160;hours per NH. The ward manager will fill in a form on organizational characteristics. When completed, the first author and research assistant will collect the data forms. At both t<sub>1</sub> and t<sub>2</sub> the research assistant will deliver, give necessary additional information and collect the completed forms. NHs will be offered economic compensation for the data collection.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Blinding</p>
+             </st>
+             <p>Baseline measurements will be done before randomization. A research assistant who will be blinded to group allocation will inform, deliver and collect the questionnaires/data after 3&#160;months (t<sub>1</sub>) and 6&#160;months (t<sub>2</sub>)<sub>.</sub>
+                  </p>
+          </sec>
+          <sec>
+             <st>
+                <p>Statistical analyses</p>
+             </st>
+             <p>Descriptive statistics will be used to present the population and the characteristics of the three groups (units, RNs/ASEs, and patients). As this is a C-RCT, the model of analysis needs to consider the effect of clustering. Analyses must also allow for inclusion of covariates at both the individual and cluster level. Relevant covariates at the individual level in a multiple logistic regression model are age, sex, length of stay in NH, cognitive performance, mobility, functionality, diarrhea, constipation. Hence, this study will use mixed effect models with the cluster treated as a random effect. Analyses will be computed using Stata 12.1.</p>
+             <sec>
+                <st>
+                   <p>Primary outcome</p>
+                </st>
+                <p>As a consequence of the dichotomization of the variable, the primary outcome will be analyzed according to a mixed logistic binominal model. The model will be fitted by maximum likelihood. Because of the relatively high risk of deaths and movement out of clusters, data will be treated as a cross-sectional time series, with the prevalence among all patients present in the cluster at baseline included as a covariate in the analyses.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Secondary outcomes</p>
+                </st>
+                <p>For remission of FI a cohort approach to data analyses with repeated measures with only those identified with FI at baseline and still present at 3 and 6&#160;month follow-up will be included and analyzed according to a mixed logistic binominal model. For incidence of FI a cohort approach to data analyses with repeated measures with only those identified as continent at baseline and still present at 3 and 6&#160;month follow-up will be included and analyzed according to mixed logistic binominal model. For change in FI-related concerns, change in knowledge among RNs/ASEs, change in care, and change in cost the outcomes, dependent on whether they are continuous, ordered or binary, will be treated as cross-sectional time-series and analyzed according to mixed effects models. Correlates of FI will, dependent on whether they are continuous, ordered or binary, be analyzed according to mixed effect models.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Ethics</p>
+             </st>
+             <p>The study was approved by the Regional Committee for Medical and Health Research Ethics (REK) (2013/1802/REK North) and by The Norwegian Social Science Data Services (36482/2/MB). NH leaders will be informed and give permission to perform the study in the individual NH. Informed consent will be obtained from RNs/ASEs concerning the knowledge test. An essential ethical consideration in this study is whether or not informed consent should be obtained from patients or their representatives. After evaluating the overall project, the REK authorized RNs/ASEs with dispensations from the duty of confidentiality to gather relevant patient health information in order to measure effect of the educational intervention. Since dispensation was given, consent will not be obtained. The justifications of the conclusion are 1) the process of assessing the patients&#8217; cognitive ability to read and understand information, and the distribution of the information letter to the patients or their representatives, is considered as inconvenient for the patients and time consuming for care staff who would need to undertake this; 2) the gathering of patient data will not involve interviewing or examining patients, and the data in question is based on assessments made by RNs/ASEs who have good knowledge of the patients; and 3) the purpose of the study is to evaluate effect of an educational program for care staff. Patients are not the ones recruited to participate in the intervention. All patient information will be de-identified by care staff before transfer to the researcher. The codebook will be stored separate from the patient data according to storing routines by the responsible research institution, S&#248;r-Tr&#248;ndelag University College. The study will be performed in concordance with the Helsinki Declaration. The project is registered in the clinical trial registry (NCT02183740).</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Discussion</p>
+          </st>
+          <p>The aim of this study is to achieve reduction in bowel leakage and accidents for NH patients. The primary objective is to test the hypothesis that a multifaceted educational program for NH care staff on assessment and treatment of FI, reduces patients&#8217; frequency of FI.</p>
+          <p>Major strengths of this study include thorough investigation of both what is considered best practice for assessment, care and treatment of FI among NH patients and what are considered to be the most effective implementation strategies. The study has a rigorous design with randomization, control and blinding where possible. The intervention is classified as a complex intervention, and the study has been designed according to published recommendations <abbrgrp>
+                <abbr bid="B20">20</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B21">21</abbr>
+             </abbrgrp>, where a thorough planning phase included an evaluation of the fit of the different components with a pilot study. In addition, a strength is that we will collect comprehensive information at three levels: NH units, RNs/ASEs and patients. It is of special interest that the educational intervention integrates the FI-guideline of best practice into the EPR as a mean to communicate the assessment and care plan to the staff as a whole. Because of this, we will have the opportunity to evaluate change of practice by investigating the EPR together with the use of the FI-guideline and patient&#8217;s health information.</p>
+          <p>A weakness of the study is the complexity of the intervention with limited possibility to evaluate which of the components in the educational intervention is effective. The more complex the intervention, the harder it is to measure effect <abbrgrp>
+                <abbr bid="B14">14</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B20">20</abbr>
+             </abbrgrp>. With an educational intervention, we also have the problem with the pedagogical ideal versus ideals for an RCT. An important pedagogic ideal is to individualize and adjust pedagogical methods according to the needs of the actual person/group in front of you <abbrgrp>
+                <abbr bid="B15">15</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B29">29</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B31">31</abbr>
+             </abbrgrp>. On the other hand, an important ideal of an RCT is that the intervention is as similar as possible for all the participants <abbrgrp>
+                <abbr bid="B45">45</abbr>
+             </abbrgrp>. In this study, we have agreed that some components will be the same, and some are allowed to vary. For instance, the format of the workshop will be the same, (total hours and themes to be covered), while empowerment strategies, guidance and timeframes for individual themes during the day may vary. During educational outreach, all participants will receive the same number of visits within the same time frame and main themes to be covered, whereas the when and how will vary.</p>
+          <p>As it is the RNs/ASEs who will fill in the questionnaires on the patients&#8217; health status, there is a risk for proxy bias. To counter for that, both the interRAI manual and the information meetings focus on how to include the patient when possible. However, since about 80% of the NH patients have some kind of cognitive impairment <abbrgrp>
+                <abbr bid="B46">46</abbr>
+             </abbrgrp>, the RNs/ASEs&#8217; clinical judgment of the patients&#8217; health status will be the main source of information. The RNs/ASEs involved in the data collection will also be part of the intervention, which means that they will not be blinded to care interventions. The RNs/ASEs will be informed about the importance of objectivity of observations and assessments at all data collection time points. There is also a risk for detection bias as those who have received education might recognize FI more frequently than before intervention.</p>
+          <p>This study is the first RCT specifically focusing on this neglected area. The results of the study will give evidence for best practice for FI care in NHs, and organizational advice concerning implementation strategies.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Trial status</p>
+          </st>
+          <p>Enrollment for the trial began in April 2014. Recruitment is still in progress. Data collection will continue until approximately June 2015.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Abbreviations</p>
+          </st>
+          <p>ASE: Authorized social educator</p>
+          <p>C-RCT: Cluster-randomized controlled trial</p>
+          <p>EPOC: Cochrane effective practice and organization of care</p>
+          <p>EPR: Electronic patient record</p>
+          <p>FI: Fecal incontinence</p>
+          <p>GP: General practitioner</p>
+          <p>ICC: Intra-cluster correlation coefficient</p>
+          <p>interRAI LTCF: The interRAI Long-Term Care Facilities Assessment System</p>
+          <p>NH: Nursing home</p>
+          <p>RN: Registered nurse</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Competing interests</p>
+          </st>
+          <p>The authors declare they have no competing interests.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Authors&#8217; contributions</p>
+          </st>
+          <p>AGV is the principal investigator; LEB, AGV, and SN are responsible for the conception and design of the study; LEB and SN are responsible for recruitment and data management; LEB is responsible for the acquisition of data; LEB, AGV, KHG, SM, &#216;S, CN, and SN are responsible for the analyses; LEB, AGV, KHG, SM, &#216;S, CN, and SN are responsible for critically revising the articles for important intellectual content; and OS is the trial statistician. All authors read and approved the final manuscript.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Authors&#8217; information</p>
+          </st>
+          <p>LEB, registered nurse, PhD student; AGV, Registered nurse, professor; KHG, registered nurse, associate professor; SM, physiotherapist, professor; &#216;S, statistician, associate professor, CN, registered nurse, professor.</p>
+       </sec>
+    </bdy>
+    <bm>
+       <ack>
+          <sec>
+             <st>
+                <p>Acknowledgements</p>
+             </st>
+             <p>The Norwegian Nurses Organization has contributed to the funding of this study.</p>
+          </sec>
+       </ack>
+       <refgrp>
+          
+          <bibl id="B1">
+             <note>Norton C, Whitehead W, Bliss DZ, Harari D, Lang J. Conservative and Pharmacological Management of Faecal Incontinence in Adults. In: Abrams P, Cardozo L, Khoury S, Wein A, editors. Incontinence 4th Edition 2009. <url>http://www.icud.info/PDFs/Incontinence.pdf</url>. Accessed 17 Nov 2010.</note>
+          </bibl>
+          <bibl id="B2">
+             <title>
+                <p>Fecal incontinence in the elderly: FAQ</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Shah</snm>
+                   <fnm>BJ</fnm>
+                </au>
+                <au>
+                   <snm>Chokhavatia</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Rose</snm>
+                   <fnm>S</fnm>
+                </au>
+             </aug>
+             <source>Am J Gastroenterol</source>
+             <pubdate>2012</pubdate>
+             <volume>107</volume>
+             <fpage>1635</fpage>
+             <lpage>46</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1038/ajg.2012.284</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22964553</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B3">
+             <title>
+                <p>The prevalence of and the related factors for urinary and fecal incontinence among older residing in nursing homes</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Aslan</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Beji</snm>
+                   <fnm>NK</fnm>
+                </au>
+                <au>
+                   <snm>Erkan</snm>
+                   <fnm>HA</fnm>
+                </au>
+                <au>
+                   <snm>Yalcin</snm>
+                   <fnm>O</fnm>
+                </au>
+                <au>
+                   <snm>Gungor</snm>
+                   <fnm>F</fnm>
+                </au>
+             </aug>
+             <source>J Clin Nurs</source>
+             <pubdate>2009</pubdate>
+             <volume>18</volume>
+             <fpage>3290</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1365-2702.2009.02936.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19930087</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B4">
+             <title>
+                <p>Does an exercise and incontinence intervention save healthcare costs in a nursing home population?</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Schnelle</snm>
+                   <fnm>JF</fnm>
+                </au>
+                <au>
+                   <snm>Kapur</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Alessi</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Osterweil</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Beck</snm>
+                   <fnm>JG</fnm>
+                </au>
+                <au>
+                   <snm>Al-Samarrai</snm>
+                   <fnm>NR</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>J Am Geriatr Soc</source>
+             <pubdate>2003</pubdate>
+             <volume>51</volume>
+             <fpage>161</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1046/j.1532-5415.2003.51053.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">12558711</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B5">
+             <note>Blekken LE, Saga S, Seim A. Faecal incontinence among elderly patients in nursing homes: A systematic review of prevalence and risk factors (abstract). In: 41st Annual Scientific Meeting of the International Continence Society Glasgow. 2015. <url>http://www.ics.org/2011/programme/abstract/405</url>. Accessed 18 Feb.</note>
+          </bibl>
+          <bibl id="B6">
+             <title>
+                <p>Prevalence and correlates of fecal incontinence among nursing home residents: a population-based cross-sectional study</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Saga</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Vinsnes</snm>
+                   <fnm>AG</fnm>
+                </au>
+                <au>
+                   <snm>M&#248;rkved</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Norton</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Seim</snm>
+                   <fnm>A</fnm>
+                </au>
+             </aug>
+             <source>BMC Geriatr</source>
+             <pubdate>2013</pubdate>
+             <volume>13</volume>
+             <fpage>87</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1186/1471-2318-13-87</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24119057</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B7">
+             <title>
+                <p>The challenge of managing continence care in residential aged care settings: recommendations for research and practice</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>O&#8217;Connell</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Ostaszkiewicz</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Day</snm>
+                   <fnm>K</fnm>
+                </au>
+             </aug>
+             <source>Geriaction</source>
+             <pubdate>2005</pubdate>
+             <volume>23</volume>
+             <fpage>5</fpage>
+             <lpage>18</lpage>
+          </bibl>
+          <bibl id="B8">
+             <title>
+                <p>The epidemiology of Faecal Incontinence</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kenefick</snm>
+                   <fnm>N</fnm>
+                </au>
+             </aug>
+             <source>Bowel continence nursing</source>
+             <publisher>Beaconfield Publisher Ltd, Beaconfield</publisher>
+             <editor>Norton C, Chelvanayagam S</editor>
+             <pubdate>2004</pubdate>
+             <fpage>14</fpage>
+             <lpage>22</lpage>
+          </bibl>
+          <bibl id="B9">
+             <title>
+                <p>Denial, shame and acceptance: generating base-line knowledge and understanding of fecal incontinence amongst long-term care residents and care providers</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Taylor</snm>
+                   <fnm>DW</fnm>
+                </au>
+                <au>
+                   <snm>Cahill</snm>
+                   <fnm>JJ</fnm>
+                </au>
+                <au>
+                   <snm>Rizk</snm>
+                   <fnm>DEE</fnm>
+                </au>
+             </aug>
+             <source>Publ Health Res</source>
+             <pubdate>2014</pubdate>
+             <volume>4</volume>
+             <fpage>13</fpage>
+             <lpage>8</lpage>
+          </bibl>
+          <bibl id="B10">
+             <title>
+                <p>Bowel care in old age</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Harari</snm>
+                   <fnm>D</fnm>
+                </au>
+             </aug>
+             <source>Bowel continence nursing</source>
+             <publisher>Beaconfield Publisher Ltd, Beaconfield</publisher>
+             <editor>Norton C, Chelvanayagam S</editor>
+             <pubdate>2004</pubdate>
+             <fpage>132</fpage>
+             <lpage>49</lpage>
+          </bibl>
+          <bibl id="B11">
+             <title>
+                <p>Continence problems in care homes: auditing assessment and treatment</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Mangnall</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Taylor</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Thomas</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Watterson</snm>
+                   <fnm>L</fnm>
+                </au>
+             </aug>
+             <source>Nurs Older People</source>
+             <pubdate>2006</pubdate>
+             <volume>18</volume>
+             <fpage>20</fpage>
+             <lpage>2</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.7748/nop2006.03.18.2.20.c2414</pubid>
+                   <pubid idtype="pmpid" link="fulltext">16538991</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B12">
+             <title>
+                <p>Awareness of investigations and treatment of faecal incontinence among the general practitioners: a postal questionnaire survey</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Thekkinkattil</snm>
+                   <fnm>DK</fnm>
+                </au>
+                <au>
+                   <snm>Lim</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Finan</snm>
+                   <fnm>PJ</fnm>
+                </au>
+                <au>
+                   <snm>Sagar</snm>
+                   <fnm>PM</fnm>
+                </au>
+                <au>
+                   <snm>Burke</snm>
+                   <fnm>D</fnm>
+                </au>
+             </aug>
+             <source>Colorectal Dis J Assoc Coloproctol</source>
+             <pubdate>2008</pubdate>
+             <volume>10</volume>
+             <fpage>263</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1463-1318.2007.01292.x</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B13">
+             <note>National Institute for Health and Clinical Exellence (NHS). Faecal incontinence: the management of faecal incontinence in adults. Nice Clin Guidel 49 2007. <url>https://www.nice.org.uk/guidance/cg49/resources/guidance-faecal-incontinence-pdf</url> . Accessed 18 Feb 2015.</note>
+          </bibl>
+          <bibl id="B14">
+             <title>
+                <p>Knowledge translation of research findings</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Grimshaw</snm>
+                   <fnm>JM</fnm>
+                </au>
+                <au>
+                   <snm>Eccles</snm>
+                   <fnm>MP</fnm>
+                </au>
+                <au>
+                   <snm>Lavis</snm>
+                   <fnm>JN</fnm>
+                </au>
+                <au>
+                   <snm>Hill</snm>
+                   <fnm>SJ</fnm>
+                </au>
+                <au>
+                   <snm>Squires</snm>
+                   <fnm>JE</fnm>
+                </au>
+             </aug>
+             <source>Implement Sci</source>
+             <pubdate>2012</pubdate>
+             <volume>7</volume>
+             <fpage>3</fpage>
+             <lpage>17</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1186/1748-5908-7-3</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B15">
+             <insg>
+                <ins>
+                   <p>Mezirow &amp; Associates</p>
+                </ins>
+             </insg>
+             <source>Learning as transformation</source>
+             <publisher>Jossey Bass, San Fransisco</publisher>
+             <pubdate>2000</pubdate>
+          </bibl>
+          <bibl id="B16">
+             <title>
+                <p>Organisatorisk l&#230;ring - singel - og double loop</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Argyris</snm>
+                   <fnm>C</fnm>
+                </au>
+             </aug>
+             <source>Tekster om l&#230;ring</source>
+             <publisher>Roskilde Universitets Forlag, Fredriksberg</publisher>
+             <editor>Illeris K</editor>
+             <pubdate>2000</pubdate>
+          </bibl>
+          <bibl id="B17">
+             <title>
+                <p>From best evidence to best practice: effective implementation of change in patients&#8217; care</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Grol</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Grimshaw</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>Lancet</source>
+             <pubdate>2003</pubdate>
+             <volume>362</volume>
+             <fpage>1225</fpage>
+             <lpage>30</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0140-6736(03)14546-1</pubid>
+                   <pubid idtype="pmpid" link="fulltext">14568747</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B18">
+             <title>
+                <p>What do we know about knowledge translation in the care of older adults? A scoping review</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bostr&#246;m</snm>
+                   <fnm>A-M</fnm>
+                </au>
+                <au>
+                   <snm>Slaughter</snm>
+                   <fnm>SE</fnm>
+                </au>
+                <au>
+                   <snm>Dagmara</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Estabrooks</snm>
+                   <fnm>C</fnm>
+                </au>
+             </aug>
+             <source>J Am Med Dir Assoc</source>
+             <pubdate>2012</pubdate>
+             <volume>13</volume>
+             <fpage>210</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.jamda.2010.12.004</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21450230</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B19">
+             <title>
+                <p>The evidence for evidence-based practice implementation</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Titler</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>Patient safety and Quality: An evidence-Baced Handbook for Nurses</source>
+             <publisher>AHRQ Publications, Rockville</publisher>
+             <editor>Hughes RG</editor>
+             <pubdate>2008</pubdate>
+          </bibl>
+          <bibl id="B20">
+             <title>
+                <p>Developing and evaluating complex interventions: reflections on the 2008 MRC guidance</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Craig</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Petticrew</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>Int J Nurs Stud</source>
+             <pubdate>2013</pubdate>
+             <volume>50</volume>
+             <fpage>585</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.ijnurstu.2012.09.009</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23159017</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B21">
+             <title>
+                <p>Developing and evaluating complex interventions: the new Medical Research Council guidance</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Craig</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Dieppe</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Macintyre</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Michie</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Nazareth</snm>
+                   <fnm>I</fnm>
+                </au>
+                <au>
+                   <snm>Petticrew</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>BMJ</source>
+             <pubdate>2008</pubdate>
+             <volume>50</volume>
+             <fpage>587</fpage>
+             <lpage>92</lpage>
+          </bibl>
+          <bibl id="B22">
+             <title>
+                <p>Trials in primary care: statistical issues in the design, conduct and evaluation of complex interventions</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Lancaster</snm>
+                   <fnm>GA</fnm>
+                </au>
+                <au>
+                   <snm>Campbell</snm>
+                   <fnm>MJ</fnm>
+                </au>
+                <au>
+                   <snm>Eldridge</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Farrin</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Marchant</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Muller</snm>
+                   <fnm>S</fnm>
+                </au>
+             </aug>
+             <source>Stat Methods Med Res</source>
+             <pubdate>2010</pubdate>
+             <volume>19</volume>
+             <fpage>349</fpage>
+             <lpage>77</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1177/0962280209359883</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20442193</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B23">
+             <aug>
+                <au>
+                   <snm>Eldridge</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Kerry</snm>
+                   <fnm>SM</fnm>
+                </au>
+             </aug>
+             <source>A practical guide to cluster randomised trials in health services research</source>
+             <publisher>John Wiley &amp; Sons, Chichester, West Sussex</publisher>
+             <pubdate>2012</pubdate>
+          </bibl>
+          <bibl id="B24">
+             <title>
+                <p>Norway: Health system review</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Ringard</snm>
+                   <fnm>&#197;</fnm>
+                </au>
+                <au>
+                   <snm>Sagan</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Saunes</snm>
+                   <fnm>IS</fnm>
+                </au>
+                <au>
+                   <snm>Lindahl</snm>
+                   <fnm>AK</fnm>
+                </au>
+             </aug>
+             <source>Health Sys Transitio.</source>
+             <pubdate>2013</pubdate>
+             <volume>15</volume>
+             <fpage>1</fpage>
+             <lpage>162</lpage>
+          </bibl>
+          <bibl id="B25">
+             <note>The Norwegian Registration Authority for Health Personnel (SAK) <url>http://www.nokut.no/Documents/INVIA/Infoark/Vernepleier_EN_23.pdf</url>. Accessed 5 May 2014.</note>
+          </bibl>
+          <bibl id="B26">
+             <aug>
+                <au>
+                   <snm>Rogers</snm>
+                   <fnm>EM</fnm>
+                </au>
+             </aug>
+             <source>Diffusion of innovations</source>
+             <publisher>Free Press, New York</publisher>
+             <pubdate>2003</pubdate>
+          </bibl>
+          <bibl id="B27">
+             <title>
+                <p>Changing the behavior of healthcare professionals: the use of theory in promoting the uptake of research findings</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Eccles</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Grimshaw</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Walker</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Johnston</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Pitts</snm>
+                   <fnm>N</fnm>
+                </au>
+             </aug>
+             <source>J Clin Epidemiol</source>
+             <pubdate>2005</pubdate>
+             <volume>58</volume>
+             <fpage>107</fpage>
+             <lpage>12</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.jclinepi.2004.09.002</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15680740</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B28">
+             <title>
+                <p>Effectiveness and efficiency of guideline dissemination and implementation strategies</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Grimshaw</snm>
+                   <fnm>JM</fnm>
+                </au>
+                <au>
+                   <snm>Thomas</snm>
+                   <fnm>RE</fnm>
+                </au>
+                <au>
+                   <snm>MacLennan</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Fraser</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Ramsay</snm>
+                   <fnm>CR</fnm>
+                </au>
+                <au>
+                   <snm>Vale</snm>
+                   <fnm>L</fnm>
+                </au>
+             </aug>
+             <source>Health Technol Assess</source>
+             <pubdate>2004</pubdate>
+             <volume>8</volume>
+             <fpage>1</fpage>
+             <lpage>72</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.3310/hta8060</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B29">
+             <note>Mezirow J. Transformative learning as discourse. J Transform Educ 2003; doi:10. 1177/1541344603252172.</note>
+          </bibl>
+          <bibl id="B30">
+             <title>
+                <p>Organisering av kompetanseutvikling i arbeidslivet</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kvalsund</snm>
+                   <fnm>R</fnm>
+                </au>
+             </aug>
+             <source>Voksne, l&#230;ring og kompetanse</source>
+             <publisher>Gyldendal Akademiske, Oslo</publisher>
+             <editor>Aarsand LHE, T&#248;nseth C, T&#248;sse S</editor>
+             <pubdate>2011</pubdate>
+          </bibl>
+          <bibl id="B31">
+             <aug>
+                <au>
+                   <snm>T&#248;sse</snm>
+                   <fnm>S</fnm>
+                </au>
+             </aug>
+             <source>Historie, praksis, teori og politikk: om kunnskapsgrunnlaget for voksnes l&#230;ring</source>
+             <publisher>Tapir Akademisk Forlag, Trondheim</publisher>
+             <pubdate>2011</pubdate>
+          </bibl>
+          <bibl id="B32">
+             <aug>
+                <au>
+                   <snm>Bulechec</snm>
+                   <fnm>G</fnm>
+                </au>
+             </aug>
+             <source>Nursing Interventions classification (NIC)</source>
+             <publisher>Mosby Elsevier, St Louis</publisher>
+             <pubdate>2013</pubdate>
+          </bibl>
+          <bibl id="B33">
+             <aug>
+                <au>
+                   <snm>Herdman</snm>
+                   <fnm>T</fnm>
+                </au>
+             </aug>
+             <source>Nursing Diagnoses. Definition and Classification (2012&#8211;2014) North America Nursing Diagnosis Associations (NANDA)</source>
+             <publisher>Wiley-Blackwell/NANDA International, Chichester</publisher>
+             <pubdate>2012</pubdate>
+          </bibl>
+          <bibl id="B34">
+             <note>Flodgren G, Parmelli E, Doumit G, Gattellari M, O&#8217;Brien MA, Grimshaw J, et al. Local opinion leaders: effects on professional practice and health care outcomes. Cochrane Database Syst Rev, 2011; doi:10. 1002/14651858. CD000125.pub4.</note>
+          </bibl>
+          <bibl id="B35">
+             <note>Norton PG, Murray M, Doupe MB, Cummings GG, Poss JW, Squires JE, et al. Facility versus unit level reporting of quality indicators in nursing homes when performance monitoring is the goal. BMJ Open 2014; doi:10. 1136/bmjopen-2013-004488.</note>
+          </bibl>
+          <bibl id="B36">
+             <note>Morris JN, Belleville-Taylor P, Fries BE, Hawes C, Murphy K, Mor V, et al. InterRAI Long-Term Care Facilities (LTCF) Assessment Form and User&#8217;s Manual. Version 9.1 norwegian version. Washington, DC: interRAI; 2012.</note>
+          </bibl>
+          <bibl id="B37">
+             <note>University Hospital of North Norway. Norwegian registry forAnal Incontinence. St Marks sk&#229;r. <url>http://www.unn.no/getfile.php/UNN%20INTER/Enhet/Inkontinenssenter_web/Dokumenter/Anal%20inkontinens%201B_200214.pdf</url>. Accessed 12 April 2013.</note>
+          </bibl>
+          <bibl id="B38">
+             <aug>
+                <au>
+                   <snm>Sirnes</snm>
+                   <fnm>SM</fnm>
+                </au>
+             </aug>
+             <source>Flervalgsoppgaver - konstruksjon og analyse</source>
+             <publisher>Fagbokforlaget, Bergen</publisher>
+             <pubdate>2005</pubdate>
+          </bibl>
+          <bibl id="B39">
+             <note>N&#248;st TH, Tettum BI, Frigstad SA, Woldstad K, Haugan B, Oppheim AE, et al. N-Catch II &#8211; et granskningsinstrument for vurdering av sykepleiedokumentasjon. Sykepleien (In press).</note>
+          </bibl>
+          <bibl id="B40">
+             <title>
+                <p>D-Catch instrument: development and psychometric testing of a measurement instrument for nursing documentation in hospitals</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Paans</snm>
+                   <fnm>W</fnm>
+                </au>
+                <au>
+                   <snm>Sermeus</snm>
+                   <fnm>W</fnm>
+                </au>
+                <au>
+                   <snm>Nieweg</snm>
+                   <fnm>RMB</fnm>
+                </au>
+             </aug>
+             <source>J Adv Nurs</source>
+             <pubdate>2010</pubdate>
+             <volume>66</volume>
+             <fpage>1388</fpage>
+             <lpage>400</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1365-2648.2010.05302.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20546369</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B41">
+             <title>
+                <p>Long-term increase in quality of nursing documentation: effects of a comprehensive intervention</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bj&#246;rvell</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Wredling</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Thorell-Ekstrand</snm>
+                   <fnm>I</fnm>
+                </au>
+             </aug>
+             <source>Scand J Caring Sci</source>
+             <pubdate>2002</pubdate>
+             <volume>16</volume>
+             <fpage>34</fpage>
+             <lpage>42</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1046/j.1471-6712.2002.00049.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">11985747</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B42">
+             <title>
+                <p>Lessons for cluster randomized trials in the twenty-first century: a systematic review of trials in primary care</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Eldridge</snm>
+                   <fnm>SM</fnm>
+                </au>
+                <au>
+                   <snm>Ashby</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Feder</snm>
+                   <fnm>GS</fnm>
+                </au>
+                <au>
+                   <snm>Rudnicka</snm>
+                   <fnm>AR</fnm>
+                </au>
+                <au>
+                   <snm>Ukoumunne</snm>
+                   <fnm>OC</fnm>
+                </au>
+             </aug>
+             <source>Clin Trials</source>
+             <pubdate>2004</pubdate>
+             <volume>1</volume>
+             <fpage>80</fpage>
+             <lpage>90</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1191/1740774504cn006rr</pubid>
+                   <pubid idtype="pmpid" link="fulltext">16281464</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B43">
+             <note>Health Services Research Unit in Aberdeen. <url>http://www.abdn.ac.uk/hsru/research/research-tools/study-design/</url>. Accessed 14 April 2013.</note>
+          </bibl>
+          <bibl id="B44">
+             <title>
+                <p>Intraclass correlation coefficients for cluster randomized trials in primary care: data from the MRC Trial of the Assessment and Management of Older People in the Community</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Smeeth</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Ng</snm>
+                   <fnm>ES</fnm>
+                </au>
+             </aug>
+             <source>Control Clin Trials</source>
+             <pubdate>2002</pubdate>
+             <volume>23</volume>
+             <fpage>409</fpage>
+             <lpage>21</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0197-2456(02)00208-8</pubid>
+                   <pubid idtype="pmpid" link="fulltext">12161083</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B45">
+             <aug>
+                <au>
+                   <snm>Fayers</snm>
+                   <fnm>PM</fnm>
+                </au>
+                <au>
+                   <snm>Machin</snm>
+                   <fnm>D</fnm>
+                </au>
+             </aug>
+             <source>Randomized clinical trials: design, practice and reporting</source>
+             <publisher>Wiley-Blackwell, Chichester</publisher>
+             <pubdate>2010</pubdate>
+          </bibl>
+          <bibl id="B46">
+             <aug>
+                <au>
+                   <snm>Nylenna</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>Helsetjenesten i Norge: et overblikk</source>
+             <publisher>Gyldendal Akademisk, Oslo</publisher>
+             <pubdate>2014</pubdate>
+          </bibl>
+       </refgrp>
+    </bm>
+ </art>

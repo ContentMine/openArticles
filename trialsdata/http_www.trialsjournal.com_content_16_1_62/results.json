@@ -1,0 +1,106 @@
+{
+  "publisher": {
+    "value": [
+      "BioMed Central Ltd"
+    ]
+  },
+  "journal": {
+    "value": [
+      "Trials"
+    ]
+  },
+  "title": {
+    "value": [
+      "Reducing suicidal thoughts in the Australian general population through web-based self-help: study protocol for a randomized controlled trial"
+    ]
+  },
+  "authors": {
+    "value": [
+      "Bregje AJ van Spijker",
+      "Alison L Calear",
+      "Philip J Batterham",
+      "Andrew J Mackinnon",
+      "John A Gosling",
+      "Ad JFM Kerkhof",
+      "Daniela Solomon",
+      "Helen Christensen"
+    ]
+  },
+  "date": {
+    "value": [
+      "2015-02-25"
+    ]
+  },
+  "doi": {
+    "value": [
+      "10.1186/s13063-015-0589-1"
+    ]
+  },
+  "volume": {
+    "value": [
+      "16"
+    ]
+  },
+  "issue": {
+    "value": [
+      "1"
+    ]
+  },
+  "firstpage": {
+    "value": [
+      "62"
+    ]
+  },
+  "description": {
+    "value": [
+      "Suicidal thoughts are common in the general population, causing significant disability. However, a substantial number of people struggling with suicidality do not access appropriate services. Online self-help may help overcome barriers to help-seeking. This study aims to examine the effectiveness of an online self-help program targeted at reducing suicidal thoughts compared with an attention-matched control condition in the Australian adult population. This trial is based on a Dutch self-help program, which was found to be effective in reducing suicidal thoughts."
+    ]
+  },
+  "abstract": {
+    "value": [
+      "Suicidal thoughts are common in the general population, causing significant disability. However, a substantial number of people struggling with suicidality do not access appropriate services. Online self-help may help overcome barriers to help-seeking. This study aims to examine the effectiveness of an online self-help program targeted at reducing suicidal thoughts compared with an attention-matched control condition in the Australian adult population. This trial is based on a Dutch self-help program, which was found to be effective in reducing suicidal thoughts."
+    ]
+  },
+  "fulltext_html": {
+    "value": [
+      "http://www.trialsjournal.com/content/16/1/62"
+    ]
+  },
+  "fulltext_pdf": {
+    "value": [
+      "http://www.trialsjournal.com/content/pdf/s13063-015-0589-1.pdf"
+    ]
+  },
+  "fulltext_xml": {
+    "value": [
+      "/content/download/xml/s13063-015-0589-1.xml"
+    ]
+  },
+  "supplementary_material": {
+    "value": [
+      "http://trialsjournal.com/content/download/supplementary/s13063-015-0589-1-s1.pdf",
+      "http://trialsjournal.com/content/download/supplementary/s13063-015-0589-1-s2.pdf"
+    ]
+  },
+  "figure": {
+    "value": [
+      "/content/figures/s13063-015-0589-1-1.gif"
+    ]
+  },
+  "figure_caption": {
+    "value": [
+      "Figure 1.",
+      "Flow chart for the healthy thinking study."
+    ]
+  },
+  "license": {
+    "value": [
+      "\r\n\t\t\t\tThis is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.\r\n\t\t\t"
+    ]
+  },
+  "copyright": {
+    "value": [
+      "\r\n            © 2015 van Spijker et al.; licensee BioMed Central. \r\n        "
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "publisher": {
+    "value": [
+      "BioMed Central Ltd"
+    ]
+  },
+  "journal": {
+    "value": [
+      "Trials"
+    ]
+  },
+  "title": {
+    "value": [
+      "Transfusion Indication Threshold Reduction (TITRe2) randomized controlled trial in cardiac surgery: statistical analysis plan"
+    ]
+  },
+  "authors": {
+    "value": [
+      "Katie Pike",
+      "Rachel L Nash",
+      "Gavin J Murphy",
+      "Barnaby C Reeves",
+      "Chris A Rogers"
+    ]
+  },
+  "date": {
+    "value": [
+      "2015-02-22"
+    ]
+  },
+  "doi": {
+    "value": [
+      "10.1186/s13063-015-0564-x"
+    ]
+  },
+  "volume": {
+    "value": [
+      "16"
+    ]
+  },
+  "issue": {
+    "value": [
+      "1"
+    ]
+  },
+  "firstpage": {
+    "value": [
+      "54"
+    ]
+  },
+  "description": {
+    "value": [
+      "The Transfusion Indication Threshold Reduction (TITRe2) trial is the largest randomized controlled trial to date to compare red blood cell transfusion strategies following cardiac surgery. This update presents the statistical analysis plan, detailing how the study will be analyzed and presented. The statistical analysis plan has been written following recommendations from the International Conference on Harmonisation of Technical Requirements for Registration of Pharmaceuticals for Human Use, prior to database lock and the final analysis of trial data. Outlined analyses are in line with the Consolidated Standards of Reporting Trials (CONSORT)."
+    ]
+  },
+  "abstract": {
+    "value": [
+      "The Transfusion Indication Threshold Reduction (TITRe2) trial is the largest randomized controlled trial to date to compare red blood cell transfusion strategies following cardiac surgery. This update presents the statistical analysis plan, detailing how the study will be analyzed and presented. The statistical analysis plan has been written following recommendations from the International Conference on Harmonisation of Technical Requirements for Registration of Pharmaceuticals for Human Use, prior to database lock and the final analysis of trial data. Outlined analyses are in line with the Consolidated Standards of Reporting Trials (CONSORT)."
+    ]
+  },
+  "fulltext_html": {
+    "value": []
+  },
+  "fulltext_pdf": {
+    "value": [
+      "http://www.trialsjournal.com/content/pdf/s13063-015-0564-x.pdf"
+    ]
+  },
+  "fulltext_xml": {
+    "value": []
+  },
+  "supplementary_material": {
+    "value": []
+  },
+  "figure": {
+    "value": []
+  },
+  "figure_caption": {
+    "value": []
+  },
+  "license": {
+    "value": []
+  },
+  "copyright": {
+    "value": []
+  }
+}

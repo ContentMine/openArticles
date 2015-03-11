@@ -1,0 +1,112 @@
+{
+  "publisher": {
+    "value": [
+      "BioMed Central Ltd"
+    ]
+  },
+  "journal": {
+    "value": [
+      "Trials"
+    ]
+  },
+  "title": {
+    "value": [
+      "Home-based tele-supervising rehabilitation for brain infarction patients (HTRBIP): study protocol for a randomized controlled trial"
+    ]
+  },
+  "authors": {
+    "value": [
+      "Wei Jin",
+      "Jing Chen",
+      "Fangfang Shi",
+      "Wuqing Yang",
+      "Yu Zhang",
+      "Yuan Liu",
+      "Wenshuai Dong",
+      "Yan Jin",
+      "Wenfeng Ma",
+      "Zhongju Ma",
+      "Xinli Min",
+      "Yin Jin",
+      "Yong Gu",
+      "Chuancheng Ren"
+    ]
+  },
+  "date": {
+    "value": [
+      "2015-02-25"
+    ]
+  },
+  "doi": {
+    "value": [
+      "10.1186/s13063-015-0585-5"
+    ]
+  },
+  "volume": {
+    "value": [
+      "16"
+    ]
+  },
+  "issue": {
+    "value": [
+      "1"
+    ]
+  },
+  "firstpage": {
+    "value": [
+      "61"
+    ]
+  },
+  "description": {
+    "value": [
+      "With high morbidity, mortality and disability rate, brain infarction brings a huge economic and health burden to the whole society in China. Although some previous studies suggested that telerehabilitation may facilitate rehabilitation for stroke survivors at home, the evidence is insufficient for clinical application; additionally, as yet no trial evaluates efficacy of telerehabilitation for brain infarction patients. Therefore, more high quality trials are needed to provide practice evidence for this novel rehabilitation strategy."
+    ]
+  },
+  "abstract": {
+    "value": [
+      "With high morbidity, mortality and disability rate, brain infarction brings a huge economic and health burden to the whole society in China. Although some previous studies suggested that telerehabilitation may facilitate rehabilitation for stroke survivors at home, the evidence is insufficient for clinical application; additionally, as yet no trial evaluates efficacy of telerehabilitation for brain infarction patients. Therefore, more high quality trials are needed to provide practice evidence for this novel rehabilitation strategy."
+    ]
+  },
+  "fulltext_html": {
+    "value": [
+      "http://www.trialsjournal.com/content/16/1/61"
+    ]
+  },
+  "fulltext_pdf": {
+    "value": [
+      "http://www.trialsjournal.com/content/pdf/s13063-015-0585-5.pdf"
+    ]
+  },
+  "fulltext_xml": {
+    "value": [
+      "/content/download/xml/s13063-015-0585-5.xml"
+    ]
+  },
+  "supplementary_material": {
+    "value": []
+  },
+  "figure": {
+    "value": [
+      "/content/figures/s13063-015-0585-5-1.gif",
+      "/content/figures/s13063-015-0585-5-2.gif"
+    ]
+  },
+  "figure_caption": {
+    "value": [
+      "Figure 1.",
+      "Flow chart illustrating the home-based tele-supervising rehabilitation for brain infarction\n            patients (HTRBIP) trial design.",
+      "Figure 2.",
+      "Schematic diagram of home-based tele-supervising rehabilitation."
+    ]
+  },
+  "license": {
+    "value": [
+      "\r\n\t\t\t\tThis is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.\r\n\t\t\t"
+    ]
+  },
+  "copyright": {
+    "value": [
+      "\r\n            © 2015 Jin et al.; licensee BioMed Central. \r\n        "
+    ]
+  }
+}

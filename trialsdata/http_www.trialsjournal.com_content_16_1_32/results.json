@@ -1,0 +1,101 @@
+{
+  "publisher": {
+    "value": [
+      "BioMed Central Ltd"
+    ]
+  },
+  "journal": {
+    "value": [
+      "Trials"
+    ]
+  },
+  "title": {
+    "value": [
+      "Center for stroke disparities solutions community- based care transition interventions: study protocol of a randomized controlled trial"
+    ]
+  },
+  "authors": {
+    "value": [
+      "Penny H Feldman",
+      "Margaret V McDonald",
+      "Melissa A Trachtenberg",
+      "Antoinette Schoenthaler",
+      "Noreen Coyne",
+      "Jeanne Teresi"
+    ]
+  },
+  "date": {
+    "value": [
+      "2015-01-27"
+    ]
+  },
+  "doi": {
+    "value": [
+      "10.1186/s13063-015-0550-3"
+    ]
+  },
+  "volume": {
+    "value": [
+      "16"
+    ]
+  },
+  "issue": {
+    "value": [
+      "1"
+    ]
+  },
+  "firstpage": {
+    "value": [
+      "32"
+    ]
+  },
+  "description": {
+    "value": [
+      "Racial and ethnic disparities persist in stroke occurrence, recurrence, morbidity and mortality. Uncontrolled hypertension (HTN) is the most important modifiable risk factor for stroke risk. Home health care organizations care for many patients with uncontrolled HTN and history of stroke; however, recurrent stroke prevention has not been a home care priority. We are conducting a randomized controlled trial (RCT) to compare the effectiveness, relative to usual home care (UHC), of two Community Transitions Interventions (CTIs). The CTIs aim to reduce recurrent stroke risk among post-stroke patients via home-based transitional care focused on better HTN management."
+    ]
+  },
+  "abstract": {
+    "value": [
+      "Racial and ethnic disparities persist in stroke occurrence, recurrence, morbidity and mortality. Uncontrolled hypertension (HTN) is the most important modifiable risk factor for stroke risk. Home health care organizations care for many patients with uncontrolled HTN and history of stroke; however, recurrent stroke prevention has not been a home care priority. We are conducting a randomized controlled trial (RCT) to compare the effectiveness, relative to usual home care (UHC), of two Community Transitions Interventions (CTIs). The CTIs aim to reduce recurrent stroke risk among post-stroke patients via home-based transitional care focused on better HTN management."
+    ]
+  },
+  "fulltext_html": {
+    "value": [
+      "http://www.trialsjournal.com/content/16/1/32"
+    ]
+  },
+  "fulltext_pdf": {
+    "value": [
+      "http://www.trialsjournal.com/content/pdf/s13063-015-0550-3.pdf"
+    ]
+  },
+  "fulltext_xml": {
+    "value": [
+      "/content/download/xml/s13063-015-0550-3.xml"
+    ]
+  },
+  "supplementary_material": {
+    "value": []
+  },
+  "figure": {
+    "value": [
+      "/content/figures/s13063-015-0550-3-1.gif"
+    ]
+  },
+  "figure_caption": {
+    "value": [
+      "Figure 1.",
+      "Community Transitions Intervention study design."
+    ]
+  },
+  "license": {
+    "value": [
+      "\r\n\t\t\t\tThis is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.\r\n\t\t\t"
+    ]
+  },
+  "copyright": {
+    "value": [
+      "\r\n            © 2015 Feldman et al.; licensee BioMed Central. \r\n        "
+    ]
+  }
+}

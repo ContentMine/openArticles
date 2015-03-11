@@ -1,0 +1,112 @@
+{
+  "publisher": {
+    "value": [
+      "BioMed Central Ltd"
+    ]
+  },
+  "journal": {
+    "value": [
+      "Trials"
+    ]
+  },
+  "title": {
+    "value": [
+      "Erythropoietin in traumatic brain injury: study protocol for a randomised controlled trial"
+    ]
+  },
+  "authors": {
+    "value": [
+      "Alistair Nichol",
+      "Craig French",
+      "Lorraine Little",
+      "Jeffrey Presneill",
+      "D J Cooper",
+      "Samir Haddad",
+      "Jacques Duranteau",
+      "Olivier Huet",
+      "Markus Skrifvars",
+      "Yaseen Arabi",
+      "Rinaldo Bellomo",
+      "$author.firstName $author.lastName"
+    ]
+  },
+  "date": {
+    "value": [
+      "2015-02-08"
+    ]
+  },
+  "doi": {
+    "value": [
+      "10.1186/s13063-014-0528-6"
+    ]
+  },
+  "volume": {
+    "value": [
+      "16"
+    ]
+  },
+  "issue": {
+    "value": [
+      "1"
+    ]
+  },
+  "firstpage": {
+    "value": [
+      "39"
+    ]
+  },
+  "description": {
+    "value": [
+      "Traumatic brain injury is a leading cause of death and disability worldwide. Laboratory and clinical studies demonstrate a possible beneficial effect of erythropoietin in improving outcomes in the traumatic brain injury cohort. However, there are concerns regarding the association of erythropoietin and thrombosis in the critically ill. A large-scale, multi-centre, blinded, parallel-group, placebo-controlled, randomised trial is currently underway to address this hypothesis."
+    ]
+  },
+  "abstract": {
+    "value": [
+      "Traumatic brain injury is a leading cause of death and disability worldwide. Laboratory and clinical studies demonstrate a possible beneficial effect of erythropoietin in improving outcomes in the traumatic brain injury cohort. However, there are concerns regarding the association of erythropoietin and thrombosis in the critically ill. A large-scale, multi-centre, blinded, parallel-group, placebo-controlled, randomised trial is currently underway to address this hypothesis."
+    ]
+  },
+  "fulltext_html": {
+    "value": [
+      "http://www.trialsjournal.com/content/16/1/39"
+    ]
+  },
+  "fulltext_pdf": {
+    "value": [
+      "http://www.trialsjournal.com/content/pdf/s13063-014-0528-6.pdf"
+    ]
+  },
+  "fulltext_xml": {
+    "value": [
+      "/content/download/xml/s13063-014-0528-6.xml"
+    ]
+  },
+  "supplementary_material": {
+    "value": [
+      "http://trialsjournal.com/content/download/supplementary/s13063-014-0528-6-s1.pdf"
+    ]
+  },
+  "figure": {
+    "value": [
+      "/content/figures/s13063-014-0528-6-1.gif",
+      "/content/figures/s13063-014-0528-6-2.gif"
+    ]
+  },
+  "figure_caption": {
+    "value": [
+      "Figure 1.",
+      "Summary of trial treatment and follow up schedule.",
+      "Figure 2.",
+      "Blinded tamperproof sealed box."
+    ]
+  },
+  "license": {
+    "value": [
+      "\r\n\t\t\t\tThis is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.\r\n\t\t\t"
+    ]
+  },
+  "copyright": {
+    "value": [
+      "\r\n            © 2015 Nichol et al.; licensee BioMed Central. \r\n        "
+    ]
+  }
+}

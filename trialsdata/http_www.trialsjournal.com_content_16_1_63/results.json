@@ -1,0 +1,104 @@
+{
+  "publisher": {
+    "value": [
+      "BioMed Central Ltd"
+    ]
+  },
+  "journal": {
+    "value": [
+      "Trials"
+    ]
+  },
+  "title": {
+    "value": [
+      "Combining cognitive bias modification training with motivational support in alcohol dependent outpatients: study protocol for a randomised controlled trial"
+    ]
+  },
+  "authors": {
+    "value": [
+      "Marilisa Boffo",
+      "Thomas Pronk",
+      "Reinout W Wiers",
+      "Stefania Mannarini"
+    ]
+  },
+  "date": {
+    "value": [
+      "2015-02-26"
+    ]
+  },
+  "doi": {
+    "value": [
+      "10.1186/s13063-015-0576-6"
+    ]
+  },
+  "volume": {
+    "value": [
+      "16"
+    ]
+  },
+  "issue": {
+    "value": [
+      "1"
+    ]
+  },
+  "firstpage": {
+    "value": [
+      "63"
+    ]
+  },
+  "description": {
+    "value": [
+      "Addiction research has hypothesised that automatic and reflective cognitive processes play an important role in the onset and maintenance of alcohol (ab)use, wherein automatic reactions to drug-related cues steer the drug user towards consuming before reflective processes can get over and steer towards a different behavioural response. These automatic processes include the tendency to attend and approach alcohol cues. These biases may be trained away from alcohol via computerised cognitive bias modification (CBM). The present protocol describes the design of a double-blind randomised controlled trial (RCT) testing the effectiveness of attentional bias and approach bias re-training with a 2×2 factorial design, alongside a brief motivational support (MS) program."
+    ]
+  },
+  "abstract": {
+    "value": [
+      "Addiction research has hypothesised that automatic and reflective cognitive processes play an important role in the onset and maintenance of alcohol (ab)use, wherein automatic reactions to drug-related cues steer the drug user towards consuming before reflective processes can get over and steer towards a different behavioural response. These automatic processes include the tendency to attend and approach alcohol cues. These biases may be trained away from alcohol via computerised cognitive bias modification (CBM). The present protocol describes the design of a double-blind randomised controlled trial (RCT) testing the effectiveness of attentional bias and approach bias re-training with a 2×2 factorial design, alongside a brief motivational support (MS) program."
+    ]
+  },
+  "fulltext_html": {
+    "value": [
+      "http://www.trialsjournal.com/content/16/1/63"
+    ]
+  },
+  "fulltext_pdf": {
+    "value": [
+      "http://www.trialsjournal.com/content/pdf/s13063-015-0576-6.pdf"
+    ]
+  },
+  "fulltext_xml": {
+    "value": [
+      "/content/download/xml/s13063-015-0576-6.xml"
+    ]
+  },
+  "supplementary_material": {
+    "value": [
+      "http://trialsjournal.com/content/download/supplementary/s13063-015-0576-6-s1.docx"
+    ]
+  },
+  "figure": {
+    "value": [
+      "/content/figures/s13063-015-0576-6-1.gif",
+      "/content/figures/s13063-015-0576-6-2.gif"
+    ]
+  },
+  "figure_caption": {
+    "value": [
+      "Figure 1.",
+      "Participant flow diagram.",
+      "Figure 2.",
+      "Example of trials in the attentional bias re-training (upper half) and in the approach\n            bias re-training (bottom half)."
+    ]
+  },
+  "license": {
+    "value": [
+      "\r\n\t\t\t\tThis is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.\r\n\t\t\t"
+    ]
+  },
+  "copyright": {
+    "value": [
+      "\r\n            © 2015 Boffo et al.; licensee BioMed Central. \r\n        "
+    ]
+  }
+}

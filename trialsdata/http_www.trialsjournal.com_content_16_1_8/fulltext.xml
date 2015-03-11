@@ -1,0 +1,590 @@
+<?xml version='1.0'?>
+<!DOCTYPE art SYSTEM 'http://www.biomedcentral.com/xml/article.dtd'>
+<art>
+	<ui>1745-6215-16-8</ui>
+	<ji>1745-6215</ji>
+	<fm>
+		<dochead>Study protocol</dochead>
+		<bibl>
+			<title>
+				<p>Effectiveness of score card-based antenatal risk selection, care pathways, and multidisciplinary consultation in the Healthy Pregnancy 4 All study (HP4ALL): study protocol for a cluster randomized controlled trial</p>
+			</title>
+			<aug>
+				<au id="A1" ca="yes"><snm>Vos</snm><mi>A</mi><fnm>Amber</fnm><insr iid="I1"/><email>a.a.vos@erasmusmc.nl</email></au>
+				<au id="A2"><snm>van Voorst</snm><mi>F</mi><fnm>Sabine</fnm><insr iid="I1"/><email>s.vanvoorst@erasmusmc.nl</email></au>
+				<au id="A3"><snm>Waelput</snm><mi>JM</mi><fnm>Adja</fnm><insr iid="I1"/><email>a.waelput@erasmusmc.nl</email></au>
+				<au id="A4"><snm>de Jong-Potjer</snm><mi>C</mi><fnm>Lieke</fnm><insr iid="I1"/><email>l.potjer@erasmusmc.nl</email></au>
+				<au id="A5"><snm>Bonsel</snm><mi>J</mi><fnm>Gouke</fnm><insr iid="I1"/><insr iid="I2"/><email>g.bonsel@erasmusmc.nl</email></au>
+				<au id="A6"><snm>Steegers</snm><mi>AP</mi><fnm>Eric</fnm><insr iid="I1"/><email>e.a.p.steegers@erasmusmc.nl</email></au>
+				<au id="A7"><snm>Denkta&#351;</snm><fnm>Semiha</fnm><insr iid="I1"/><insr iid="I3"/><email>denktas@euc.eur.nl</email></au>
+			</aug>
+			<insg>
+				<ins id="I1"><p>Division of Obstetrics and Prenatal Medicine, Erasmus University Medical Centre, Department of Obstetrics and Gynaecology, P.O. Box 2040, 3000 Rotterdam, CA, The Netherlands</p></ins>
+				<ins id="I2"><p>Department of Public Health, Erasmus University Rotterdam, P.O. Box 2040, 3000 Rotterdam, CA, The Netherlands</p></ins>
+				<ins id="I3"><p>Department of Social Sciences, Erasmus University College, Erasmus University Rotterdam, PO Box 1738, 3000 Rotterdam, DR, The Netherlands</p></ins>
+			</insg>
+			<source>Trials</source>
+			<issn>1745-6215</issn>
+			<pubdate>2015</pubdate>
+			<volume>16</volume>
+			<issue>1</issue>
+			<fpage>8</fpage>
+			<url>http://www.trialsjournal.com/content/16/1/8</url>
+			<xrefbib><pubidlist><pubid idtype="doi">10.1186/1745-6215-16-8</pubid><pubid idtype="pmpid">25559202</pubid></pubidlist></xrefbib>
+		</bibl>
+		<history><rec><date><day>30</day><month>7</month><year>2014</year></date></rec><acc><date><day>15</day><month>12</month><year>2014</year></date></acc><pub><date><day>6</day><month>1</month><year>2015</year></date></pub></history>
+		<cpyrt><year>2015</year><collab>Vos et al.; licensee BioMed Central.</collab><note>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/4.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (<url>http://creativecommons.org/publicdomain/zero/1.0/</url>) applies to the data made available in this article, unless otherwise stated.</note></cpyrt>
+		<kwdg>
+			<kwd>Pregnancy</kwd>
+			<kwd>Antenatal healthcare</kwd>
+			<kwd>Care pathway</kwd>
+			<kwd>Collaboration</kwd>
+			<kwd>Risk assessment</kwd>
+		</kwdg>
+		<abs>
+			<sec>
+				<st>
+					<p>Abstract</p>
+				</st>
+				<sec>
+					<st>
+						<p>Background</p>
+					</st>
+					<p>Promotion of healthy pregnancies has gained high priority in the Netherlands because of relatively unfavorable perinatal outcomes. In response, a nationwide study, &#8216;Healthy Pregnancy 4 All&#8217; (HP4ALL), has been initiated. Part of this study involves systematic and broadened antenatal risk assessment (the Risk Assessment substudy). Risk selection in current clinical practice is mainly based on medical risk factors. Despite the increasing evidence for the influence of nonmedical risk factors (social status, lifestyle or ethnicity) on perinatal outcomes, these risk factors remain highly unexposed. Systematic risk selection, combined with customized care pathways to reduce or treat detected risks, and regular and structured consultation between community midwives, gynecologists and other care providers such as social workers, is part of this study.</p>
+				</sec>
+				<sec>
+					<st>
+						<p>Methods/Design</p>
+					</st>
+					<p>Neighborhoods in 14 municipalities with adverse perinatal outcomes above national and municipal averages are selected for participation. The study concerns a cluster randomized controlled trial. Municipalities are randomly allocated to intervention (n&#8201;=&#8201;3,500 pregnant women) and control groups (n&#8201;=&#8201;3,500 pregnant women). The intervention consists of systematic risk selection with the Rotterdam Reproductive Risk Reduction (R4U) score card in pregnant women at the booking visit, and referral to corresponding care pathways. A risk score, based on weighed risk factors derived from the R4U, above a predefined threshold determines structured multidisciplinary consultation. Primary outcomes of this trial are dysmaturity (birth weight&#8201;&lt;&#8201;p10), prematurity (birth &lt;37&#160;weeks), and efficacy of implementation.</p>
+				</sec>
+				<sec>
+					<st>
+						<p>Discussion</p>
+					</st>
+					<p>The &#8216;HP4ALL&#8217; study introduces a systematic approach in antenatal health care that may improve perinatal outcomes and, thereby, affect future health status of a new generation in the Netherlands.</p>
+				</sec>
+				<sec>
+					<st>
+						<p>Trial registration</p>
+					</st>
+					<p>Dutch Trial Registry (
+						<a href="http://www.trialregister.nl/trialreg/admin/rctview.asp?TC=3367">NTR-3367</a>) on 20 March 2012.</p>
+				</sec>
+			</sec>
+		</abs>
+	</fm>
+	<bdy>
+		<sec>
+			<st>
+				<p>Background</p>
+			</st>
+			<p>Perinatal mortality rates in the Netherlands are higher than in other European countries and are showing a slower rate of decline 
+				<abbrgrp>
+					<abbr bid="B1">1</abbr>
+				</abbrgrp>. The latest confirmed statistics describe a perinatal mortality rate (deaths from 22&#160;weeks of gestation up to 7&#160;days postpartum) of 8.5 per 1,000 births 
+				<abbrgrp>
+					<abbr bid="B2">2</abbr>
+				</abbrgrp>. In addition, higher risks for adverse outcomes were found for women living in socioeconomically deprived areas, particularly in the four largest cities in the Netherlands 
+				<abbrgrp>
+					<abbr bid="B3">3</abbr>
+				</abbrgrp>. The adverse perinatal health outcome in the Netherlands has triggered debates and initiatives to study and intervene in possible causes for these adverse outcomes.</p>
+			<p>More than 85 percent of all causes of perinatal mortality in the Netherlands are associated with four adverse perinatal outcomes, namely congenital disorders, small for gestational age (birth weight &lt;10th percentile for gestational age), premature delivery (birth &lt;37&#160;weeks), and/or a suboptimal start at birth (Apgar score &lt;7 after 5&#160;minutes); these are defined as the &#8216;Big 4&#8217; outcomes 
+				<abbrgrp>
+					<abbr bid="B4">4</abbr>
+				</abbrgrp>. Poor outcomes were especially observed in deprived districts and are often associated with socioeconomic and ethnicity related risk factors such as low education, low income and poor integration into society 
+				<abbrgrp>
+					<abbr bid="B5">5</abbr>
+					<abbr bid="B6">6</abbr>
+				</abbrgrp>.</p>
+			<sec>
+				<st>
+					<p>The Dutch system</p>
+				</st>
+				<p>The Dutch antenatal healthcare system is divided into three levels of care in which a distinction is made between low-risk and high-risk pregnancies. The primary level of care, antenatal health care is provided by independently practicing midwives who deliver care to pregnant women with an uncomplicated pregnancy, childbirth and the postpartum period. These women are estimated to be &#8216;low risk&#8217;. If complications (threaten to) occur, midwives refer the women to a gynecologist at the secondary level of care 
+					<abbrgrp>
+						<abbr bid="B7">7</abbr>
+					</abbrgrp>. The tertiary level of care takes place in centers for perinatology with a neonatal intensive care unit and an obstetric &#8216;high-care&#8217; department. The latter is reserved for severely ill women or threatened pregnancies 
+					<abbrgrp>
+						<abbr bid="B8">8</abbr>
+					</abbrgrp>.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Current practice of risk selection</p>
+				</st>
+				<p>Current risk selection during the antenatal period focuses on medical risk factors 
+					<abbrgrp>
+						<abbr bid="B9">9</abbr>
+						<abbr bid="B10">10</abbr>
+					</abbrgrp>. A list of obstetric indications, for which referral from primary to secondary care is prescribed, has been composed by professionals involved in the field. On this list, the most frequently occurring medical conditions and prior obstetric complications are allocated to the different levels of care. The composition of this list was based on best evidence or best practices. Since the last update in 2003, there has been an increase in evidence of the influence of nonmedical risk factors (social status, lifestyle or ethnicity) on adverse perinatal outcomes 
+					<abbrgrp>
+						<abbr bid="B11">11</abbr>
+					</abbrgrp>. These risk factors are usually not considered in current risk screening practices. Moreover, it was shown that an accumulation of these risk factors can even further harm the chances of a good pregnancy outcome. This phenomenon implies that the presence of a number of smaller risk factors, rather than a single greater one, increases the risk on adverse perinatal outcomes 
+					<abbrgrp>
+						<abbr bid="B4">4</abbr>
+						<abbr bid="B11">11</abbr>
+						<abbr bid="B12">12</abbr>
+					</abbrgrp>.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Initiatives to improve perinatal health</p>
+				</st>
+				<p>To improve perinatal health, especially in socially deprived districts, the Rotterdam municipal council and health scientists of the Erasmus University Medical Centre initiated a city-wide perinatal health program &#8216;Ready for Baby&#8217; in 2009 
+					<abbrgrp>
+						<abbr bid="B5">5</abbr>
+					</abbrgrp>. The &#8216;Ready for Baby&#8217; program provided the framework for this national study. It was within this program that scorecard-based risk screening and corresponding care pathways were developed and piloted. Within the context of this program, the Rotterdam area served as a testing ground for a number of experiments, including the development and piloting of the R4U (Rotterdam Reproductive Risk Reduction) scorecard for antenatal risk screening 
+					<abbrgrp>
+						<abbr bid="B13">13</abbr>
+					</abbrgrp>. These former experiences were used to further improve and implement these tools in other municipalities with high perinatal mortality and morbidity in the Healthy Pregnancy 4 All study. The Healthy Pregnancy 4 All study was launched in 2011 by the Erasmus University Medical Centre in 14 municipalities in the Netherlands. It focuses on preconception care and broadened risk selection during pregnancy 
+					<abbrgrp>
+						<abbr bid="B14">14</abbr>
+					</abbrgrp>.</p>
+				<p>In the risk assessment substudy, we will implement and investigate the Rotterdam Reproductive Risk Reduction (R4U) scorecard, corresponding care pathways and multidisciplinary consultation. This score card focuses on both medical and nonmedical risk factors, including psychological, social, lifestyle, obstetric and nonobstetric care-related risks. During the first antenatal visit, the R4U scorecard will be assessed by a midwife or gynecologist. The aim of this study is to investigate the effectiveness of this new approach in antenatal health care on perinatal outcomes.</p>
+			</sec>
+		</sec>
+		<sec>
+			<st>
+				<p>Methods/Design</p>
+			</st>
+			<sec>
+				<st>
+					<p>Outline</p>
+				</st>
+				<p>The study design concerns a cluster randomized controlled trial at the municipality level. Selected municipalities are randomly allocated to intervention and control groups. The intervention comprises systematic risk selection with the R4U scorecard in pregnant women at the booking visit and referral to the corresponding care pathways. A risk score, based on weighed risk factors derived from the R4U, above a predefined threshold determines consultation among community midwives, gynecologists, and other care providers, such as social workers in a multidisciplinary setting.</p>
+				<p>The study aims 1) to investigate the effectiveness of systematic approach in antenatal health care on adverse pregnancy outcomes (primarily lowering prematurity and small for gestational age outcomes) and 2) the efficacy of implementation (measured by the number of R4Us filled out by the healthcare professional, the performance of multidisciplinary deliberations and patient and healthcare professional satisfaction).</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Participants/eligibility criteria</p>
+				</st>
+				<p>The selection of neighborhoods is based on the presence of an elevated incidence of adverse perinatal outcomes (above both the national and municipal average). Municipalities are extracted after a selection process in which zip codes with high adverse perinatal outcomes are identified in a thorough analysis. For this analysis, data from all singleton pregnancies in the Netherlands over the period of 2000 to 2008 were obtained with permission from the Dutch Perinatal Registry (PRN) 
+					<abbrgrp>
+						<abbr bid="B15">15</abbr>
+					</abbrgrp>. The detailed selection process of the municipalities and geographical areas are described elsewhere 
+					<abbrgrp>
+						<abbr bid="B14">14</abbr>
+					</abbrgrp>.</p>
+				<p>All midwives and gynecologists providing care to women living in these zip codes will be invited to participate in the Healthy Pregnancy 4 All study. All pregnant women living in these selected areas are eligible for this trial. All municipalities deal with an above-average perinatal mortality rate and many disadvantaged neighborhoods. Exclusion criteria include an acute obstetric situation during the booking visit (for example, ectopic pregnancy) and women in labor during this initial visit.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Study design</p>
+				</st>
+				<p>To prevent contamination, we have randomized on the level of municipalities instead of (1) on the level of midwife practices or (2) on the level of hospitals or obstetric collaborations.</p>
+				<p>Randomization at the level of the individual patient is not possible because of contamination to a healthcare professional: a care provider will not be able to distinguish between intervention and control participants within their practice.</p>
+				<p>Many midwife practices are cooperating with hospitals in so-called obstetric collaborations (OC&#8217;s). Randomization on the level of OC&#8217;s was also not an option: hospitals are always involved in one particular OC, but midwife practices can participate in more than one OC. This is especially the case in municipalities with more than one hospital.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Intervention and control</p>
+				</st>
+				<p>Use of the R4U scorecard, corresponding care pathways, and multidisciplinary consultation will be compared with conventional antenatal health care. In municipalities allocated to the intervention group, midwives and gynecologists will use the R4U scorecard during every first antenatal visit (provided that informed consent is given). The R4U scorecard consists of six domains (social status, ethnicity, care, lifestyle, medical history and obstetric history), subdivided into 70 items. The R4U scorecard is proposed to facilitate improved coordination of antenatal care through systematic and uniform risk screening for medical and nonmedical risk factors. A risk score, based on risk factors derived from the R4U, above the predefined cut-off point implies follow-up action. This follow-up action includes multidisciplinary consultation between obstetric caregivers and nonobstetric caregivers (for example, social workers) and prioritization of risk factors. For each cluster, this cut-off point will be calculated after a pilot of 50 R4U scorecards have been completed in a municipality. We strive to assess 20% of all pregnant women in this multidisciplinary setting. Healthcare professionals determine when and how to organize these meetings, with a minimum frequency of once a month. A standardized format is available to discuss a patient in such meetings. The purpose of these meetings is to assess a customized antenatal policy for each individual pregnant woman.</p>
+				<p>We developed 28 templates of care pathways for all risk factors incorporated in the R4U score card. Care pathways consist of steps a caregiver could follow to meet specific needs for pregnant women. Together with local healthcare professionals from both the perinatal care, community health services (called the GGD), and other services, these templates will be adapted to local circumstances. Local facilities, agreements, and guidelines will be incorporated. Depending on local availability, care pathways will developed for all items as presented in the R4U scorecard. These created care pathways will support the individual healthcare professional to encounter complex (non-) medical risk factors. They can also facilitate the collaboration among different healthcare professionals and professionals within the community health services.</p>
+				<p>Pregnant women in the control group will receive conventional antenatal health care. After the inclusion of 700 participants or after two-thirds of our study period (2&#160;years), we will end the control group in a particular municipality and will start with the implementation of the R4U scorecard and corresponding care pathways. As mentioned in our introduction, several studies revealed a disadvantaged position of the Netherlands regarding perinatal mortality. For the first time, the unique organization of antenatal care in the Netherlands was openly questioned. In response, health care professionals and policy makers were urged to undertake interventions. The fact that we made municipalities aware of their perinatal health statistics and allocated them to be &#8216;a control&#8217; was contradictory to ambitions to intervene, as the control status was felt to be the negligent attitude of local health authorities.</p>
+				<p>We are lenient to this aspect and will offer them the opportunity to start with the intervention after they have reached a certain amount of included subjects or at two-thirds of the way through the study. Therefore, we aim to implement and facilitate this new approach in all 14 municipalities at the end of the study period. This implies that the study design remains a parallel trial in which only pregnancy outcomes from regular antenatal health care in control municipalities will be analyzed. Pregnancy outcomes of women enrolled after the &#8216;cross-over&#8217; in control municipalities (that is, women in control municipalities that were exposed the intervention) will not be analyzed for this purpose.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Procedures, recruitment, randomization, and collection of baseline data</p>
+				</st>
+				<p>Randomization took place in January 2011 by an independent statistician who was not involved in executing the study. In order to decide whether matching was necessary, in each cluster, the adverse perinatal outcomes (Big 4 and perinatal mortality) were stratified according to socioeconomic status and ethnicity. Since clusters were not considerably different in terms of these characteristics, we decided that matching of clusters for socio-economic status and ethnicity was unnecessary.</p>
+				<p>As stated before, midwife practices participate in OC&#8217;s. Due to merging plans between OC&#8217;s in the north of the Netherlands, four small municipalities and one large municipality were combined and form one cluster (named Groningen). Thus, ten municipalities were randomly assigned to the intervention (n&#8201;=&#8201;5) or the control group (n&#8201;=&#8201;5).</p>
+				<p>In the randomization procedure, municipalities were numbered according to the expected number at risk. Hereby, we ensured that both arms of the experiment were comparable in size. Five random numbers were drawn from the uniform distribution between zero and one. If the number was below 0.5, the first of the pair would be assigned to the intervention, otherwise to the control group. The clusters Amsterdam, Tilburg, Groningen, Enschede and Nijmegen are allocated as intervention municipalities. The clusters for The Hague, Schiedam, Heerlen, Almere and Utrecht are control municipalities. The randomization scheme is available as an additional file (see Additional file 
+					<supplr sid="S1">1</supplr>).</p>
+				<suppl id="S1">
+					<title>
+						<p>Additional file 1</p>
+					</title>
+					<text>
+						<p>
+							<b>Randomization procedure.</b>
+						</p>
+					</text>
+					<file name="1745-6215-16-8-S1.docx">
+   <p>Click here for file</p>
+</file>
+				</suppl>
+				<p>The logistics are carried out in close collaboration with participating local program coordinators, midwives, gynecologists, and, if available, research midwives in the 14 participating municipalities. Eligible women will receive participant information, and they will be asked for written consent to collect data on their pregnancy outcomes by the participating healthcare professionals. These healthcare professionals will register all participating women anonymously by a study number in a web-based database. We will ask to register the 4-digit zip code, maternal age, gestational age at booking visit, and certain items of the obstetric history. All women participating in the risk assessment study within the HP4ALL study will receive either one or two questionnaires. The first questionnaire contains questions regarding baseline characteristics, such as marital status, household composition and income, education level, ethnicity, lifestyle (smoking, alcohol, and drug use), use of folic acid, medical history, and use of medication. This questionnaire will be completed around the first antenatal visit (depending on local logistics). The second questionnaire focuses on satisfaction. In this questionnaire, we will investigate patient satisfaction regarding their first antenatal visit. We compare satisfaction in participants in the intervention group with participants receiving conventional antenatal health care. This questionnaire will be completed by a selection of study participants. We will ask all participating practices/hospitals to distribute this questionnaire in a predefined time period of 3&#160;months to all study participants having their third antenatal visit. This visit is before the so-called 20-week ultrasound. With this timing, we try to avoid bias in answering the questionnaire due to outcomes resulting from this ultrasound.</p>
+				<p>To provide baseline characteristics from participating healthcare professionals, an interview will be performed with one healthcare professional from each participating midwifery practice and hospital. In this structured interview, we will collect data on the number of patients and employees, the current use of risk-selection instruments, collaboration with hospitals and (other) midwifery practices in OC&#8217;s, and work processes in their antenatal healthcare (for example, counseling for prenatal screening, or ultrasound facilities). This will be repeated at the end of the study. We will use the Relational Coordination survey to measure the coordination performance of healthcare professionals. Gittell&#8217;s theory of Relational Coordination has been developed for measuring coordination performance among different professions. The healthcare professionals will be surveyed about their communication and relationships with other healthcare professionals during the antenatal phase. This will allow us to observe the effect of our intervention on the coordination performance of healthcare professionals 
+					<abbrgrp>
+						<abbr bid="B16">16</abbr>
+					</abbrgrp>. Table&#160;
+					<tblr tid="T1">1</tblr> provides an overview of the planned assessments within the risk assessment substudy including variables, methods and outcomes.</p>
+				<table id="T1">
+					<title>
+						<p>Table 1</p>
+					</title>
+					<caption>
+						<p>
+							<b>Planned assessments of the risk selection experiment: variables, methods and outcomes</b>
+						</p>
+					</caption>
+					<tgroup cols="3">
+						<colspec align="left" colname="c1" colnum="1" colwidth="1*"/>
+						<colspec align="left" colname="c2" colnum="2" colwidth="1*"/>
+						<colspec align="left" colname="c3" colnum="3" colwidth="1*"/>
+						<thead valign="top">
+							<row>
+								<entry colname="c1" nameend="c3" namest="c1" rowsep="1">
+									<p>
+										<b>Patients</b>
+									</p>
+								</entry>
+							</row>
+							<row rowsep="1">
+								<entry colname="c1">
+									<p>
+										<b>Variables</b>
+									</p>
+								</entry>
+								<entry colname="c2">
+									<p>
+										<b>Methods</b>
+									</p>
+								</entry>
+								<entry colname="c3">
+									<p>
+										<b>Outcomes</b>
+									</p>
+								</entry>
+							</row>
+						</thead>
+						<tbody valign="top">
+							<row>
+								<entry colname="c1">
+									<p>1. INTERVENTION GROUP</p>
+								</entry>
+								<entry colname="c2"/>
+								<entry colname="c3"/>
+							</row>
+							<row>
+								<entry colname="c1" morerows="2" valign="top">
+									<p>Nonmedical risk factors: 39 items from the risk scorecard, categorized into the domains of social, ethnicity, care, and lifestyle.</p>
+								</entry>
+								<entry colname="c2" morerows="2" valign="top">
+									<p>R4U scorecard&#8201;+&#8201;registration form &#8216;Obstetric history&#8217;</p>
+								</entry>
+								<entry colname="c3" valign="top">
+									<p>Primary outcomes:</p>
+								</entry>
+							</row>
+							<row>
+								<entry colname="c3">
+									<p>- Preterm birth</p>
+								</entry>
+							</row>
+							<row>
+								<entry colname="c3">
+									<p>- Small for gestational age</p>
+								</entry>
+							</row>
+							<row>
+								<entry colname="c1">
+									<p>Medical risk factors: 30 items from the risk scorecard, categorized into the domains of general history and obstetric history</p>
+								</entry>
+								<entry colname="c2">
+									<p>Questionnaire &#8216;Baseline characteristics&#8217;</p>
+								</entry>
+								<entry colname="c3">
+									<p>Secondary outcomes - Undetected small for gestational age and unexpected preterm births (babies born in the first level of care)</p>
+								</entry>
+							</row>
+							<row>
+								<entry colname="c1" morerows="7" valign="top">
+									<p>Baseline characteristics: Age, zip code, ethnicity, onset of care, household composition, family income, employment, education level, smoking, alcohol, drugs, folic acid use, medication use, pre-existing chronic diseases, and sexually transmitted diseases.</p>
+								</entry>
+								<entry colname="c2" morerows="7" valign="top">
+									<p>Case Record Form &#8216;pregnancy and delivery data&#8217;</p>
+								</entry>
+								<entry colname="c3" valign="top">
+									<p>- Prevalence of risk factors</p>
+								</entry>
+							</row>
+							<row>
+								<entry colname="c3">
+									<p>- Risk accumulation</p>
+								</entry>
+							</row>
+							<row>
+								<entry colname="c3">
+									<p>- Involved healthcare professionals during pregnancy</p>
+								</entry>
+							</row>
+							<row>
+								<entry colname="c3">
+									<p>- Detection and prevention of impaired growth and preterm birth during pregnancy</p>
+								</entry>
+							</row>
+							<row>
+								<entry colname="c3">
+									<p>- Perinatal mortality</p>
+								</entry>
+							</row>
+							<row>
+								<entry colname="c3">
+									<p>- Congenital anomalies</p>
+								</entry>
+							</row>
+							<row>
+								<entry colname="c3">
+									<p>- Delivery modus</p>
+								</entry>
+							</row>
+							<row>
+								<entry colname="c3">
+									<p>- Place of delivery</p>
+								</entry>
+							</row>
+							<row>
+								<entry colname="c1">
+									<p>2. CONTROL GROUP</p>
+								</entry>
+								<entry colname="c2"/>
+								<entry colname="c3"/>
+							</row>
+							<row>
+								<entry colname="c1" morerows="2" valign="top">
+									<p>Baseline characteristics: Age, zip code, ethnicity, onset of care, household composition, family income, employment, education level, smoking, alcohol, drugs, folic acid use, medication use, pre-existing chronic diseases, and sexually transmitted diseases.</p>
+								</entry>
+								<entry colname="c2" valign="top">
+									<p>Registration form &#8216;Obstetric history&#8217;</p>
+								</entry>
+								<entry colname="c3" valign="top">
+									<p>- Asphyxia</p>
+								</entry>
+							</row>
+							<row>
+								<entry colname="c2" morerows="1" valign="top">
+									<p>Questionnaire &#8216;Baseline characteristics&#8217; Case Record Form &#8216;pregnancy and delivery data&#8217;</p>
+								</entry>
+								<entry colname="c3" valign="top">
+									<p>- Neonatal admission</p>
+								</entry>
+							</row>
+							<row>
+								<entry colname="c3">
+									<p>- Maternal morbidity (such as pre-existing chronic disease, pregnancy complications, positive booking bloods), and maternal mortality.</p>
+								</entry>
+							</row>
+							<row>
+								<entry colname="c1" morerows="2" rowsep="1" valign="top">
+									<p>Patient satisfaction in both groups</p>
+								</entry>
+								<entry colname="c2" morerows="2" rowsep="1" valign="top">
+									<p>Questionnaire &#8216;Patient experiences during the first antenatal visit&#8217;</p>
+								</entry>
+								<entry colname="c3" valign="top">
+									<p>- Which topics were discussed (10 examples)?</p>
+								</entry>
+							</row>
+							<row>
+								<entry colname="c3">
+									<p>- What was your experience?</p>
+								</entry>
+							</row>
+							<row rowsep="1">
+								<entry colname="c3">
+									<p>- Do you think this was important to ask?</p>
+								</entry>
+							</row>
+							<row rowsep="1">
+								<entry colname="c1" nameend="c3" namest="c1">
+									<p>
+										<b>Care providers</b>
+									</p>
+								</entry>
+							</row>
+							<row rowsep="1">
+								<entry colname="c1">
+									<p>
+										<b>Variables</b>
+									</p>
+								</entry>
+								<entry colname="c2">
+									<p>
+										<b>Methods</b>
+									</p>
+								</entry>
+								<entry colname="c3">
+									<p>
+										<b>Outcomes</b>
+									</p>
+								</entry>
+							</row>
+							<row>
+								<entry colname="c1" morerows="3" valign="top">
+									<p>General characteristics participating midwives practices and hospitals in both groups</p>
+								</entry>
+								<entry colname="c2" morerows="3" valign="top">
+									<p>Interview-based questionnaire</p>
+								</entry>
+								<entry colname="c3" valign="top">
+									<p>- Current status number of patients and employees</p>
+								</entry>
+							</row>
+							<row>
+								<entry colname="c3">
+									<p>- Use of risk selection instruments</p>
+								</entry>
+							</row>
+							<row>
+								<entry colname="c3">
+									<p>- Collaboration with hospitals and (other) midwifery practices</p>
+								</entry>
+							</row>
+							<row>
+								<entry colname="c3">
+									<p>- Work processes (for example, counseling for prenatal screening, or ultrasound facilities)</p>
+								</entry>
+							</row>
+							<row>
+								<entry colname="c1" morerows="3" rowsep="1" valign="top">
+									<p>Care provider satisfaction in both groups</p>
+								</entry>
+								<entry colname="c2" morerows="3" rowsep="1" valign="top">
+									<p>Questionnaire</p>
+								</entry>
+								<entry colname="c3" valign="top">
+									<p>- Feasibility</p>
+								</entry>
+							</row>
+							<row>
+								<entry colname="c3">
+									<p>- Efficacy of implementation</p>
+								</entry>
+							</row>
+							<row>
+								<entry colname="c3">
+									<p>- Collaboration</p>
+								</entry>
+							</row>
+							<row rowsep="1">
+								<entry colname="c3">
+									<p>- Continuation of intervention</p>
+								</entry>
+							</row>
+						</tbody>
+					</tgroup>
+				</table>
+			</sec>
+			<sec>
+				<st>
+					<p>Outcome</p>
+				</st>
+				<p>The primary outcomes are small for gestational age, preterm birth, and efficacy of implementation. Small for gestational age is defined as birth weight below the 10th percentile for gestational age. Preterm birth is defined as birth before 37&#160;weeks of gestation.</p>
+				<p>Efficacy of implementation will be measured by the number of R4Us completed by the healthcare professional against the number of booking visits, the development and use of care pathways, actual performed multidisciplinary consultations, and patient and healthcare professional satisfaction. Primary outcomes, except for patient satisfaction, will be recorded by healthcare professionals or the project team after delivery on case record forms in an electronic database.</p>
+				<p>Secondary outcomes are perinatal mortality (from the 22th week of gestation until 7&#160;days postpartum), undetected small for gestational age and unexpected preterm births (babies born in the first level of care), and prevalence and accumulation of medical and nonmedical risk factors.</p>
+				<p>Other outcome parameters are: detection and prevention of impaired growth and preterm birth during pregnancy, delivery modus, place of delivery, involved healthcare professionals, congenital anomalies, neonatal admission, asphyxia, maternal morbidity (such as pre-existing chronic disease, pregnancy complications, and positive booking bloods) and maternal mortality.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Follow-up</p>
+				</st>
+				<p>The follow-up period consists of 6&#160;weeks. Details of pregnancy, delivery, and maternal follow-up will be recorded after 6&#160;weeks in a case record form. If necessary, medical records of newborns will be requested (if consent is provided).</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Statistics</p>
+				</st>
+				<sec>
+					<st>
+						<p>Sample size</p>
+					</st>
+					<p>The sample size is determined by focusing on the primary objective of the trial: the effectiveness of systematic antenatal screening on adverse small for gestational age (&lt;10th percentile) and preterm birth (gestational age below 37&#160;weeks). In this cluster-randomized trial, sample size depends on (1) the average risk of small for gestational age and preterm birth without the intervention (&#960;<sub>0</sub>); (2) the expected effect of the intervention (&#960;<sub>1</sub>); (3) the inflation factor reflecting the partial similarity/dependency of women&#8217;s outcomes or responses within the same cluster; (4) the &#945;; and (5) power (1-&#946;) of the test.</p>
+					<p>Based on data from the Dutch perinatal registry 
+						<abbrgrp>
+							<abbr bid="B15">15</abbr>
+						</abbrgrp>, the average prevalence in our selected zip code areas in the years 2000 to 2008 was 16.7%. In the intervention group, we expect a prevalence of 13% at the end of the study period. The average prevalence of both primary outcomes in the Netherlands was 12% for the years 2000 to 2008 
+						<abbrgrp>
+							<abbr bid="B15">15</abbr>
+						</abbrgrp>, and we expect a decline towards this prevalence during our study period. The inflation factor was estimated to be 2.06 
+						<abbrgrp>
+							<abbr bid="B17">17</abbr>
+						</abbrgrp>. This factor reflects the design effect of a cluster trial, and takes into account the degree of similarity among responses within a cluster. With five municipalities in each group (a total of ten clusters) and an alpha of 0.05 (two-sided test), 7,000 participants (3,500 per arm) should provide power in excess of 80%. This means 700 women are needed per cluster. It is assumed that a difference of 150 to 200 participants between the larger and smaller clusters has no implications for the outcome 
+						<abbrgrp>
+							<abbr bid="B17">17</abbr>
+						</abbrgrp>.</p>
+				</sec>
+				<sec>
+					<st>
+						<p>Data analysis</p>
+					</st>
+					<p>Data will be analyzed according to the intention-to-treat principle. The effectiveness of the R4U scorecard, corresponding care pathways and multidisciplinary consultation versus conventional antenatal healthcare (measured as the difference in small for gestational age and preterm birth between both groups) will be assessed by using multilevel logistic regression with random effects. Results will be presented as effect estimates with a measure of precision (95% confidence interval). Data will be analyzed anonymously on two levels: the maternal and the municipal level. To guarantee anonymity, we will not analyze the data on community practice or at the hospital level. Study participants, municipalities, and community practices or hospitals will not be traceable. Other analyses related to our intervention are based on differences in other birth outcomes (for example, Apgar score), the number of referrals between community midwives and gynecologists, adequacy in risk assessment (for example, detection of growth restriction in the antenatal phase), and the contribution of nonmedical risk factors to adverse birth outcomes between the intervention and control group. These outcomes will be assessed with univariate and multivariate regression analysis with 95% confidence intervals.</p>
+				</sec>
+			</sec>
+			<sec>
+				<st>
+					<p>Ethical considerations</p>
+				</st>
+				<p>This study has been approved by the Ethics Committee of the Erasmus Medical Center Rotterdam (Ref. No. MEC-2012-322) and by the management of participating hospitals that requested an extra review (see Additional file 
+					<supplr sid="S2">2</supplr>).</p>
+				<suppl id="S2">
+					<title>
+						<p>Additional file 2</p>
+					</title>
+					<text>
+						<p>
+							<b>Ethical bodies that approved the study.</b>
+						</p>
+					</text>
+					<file name="1745-6215-16-8-S2.doc">
+   <p>Click here for file</p>
+</file>
+				</suppl>
+				<p>All participants will receive written and oral information about the study, after which informed consent will be obtained. Participation is voluntary and no extra incentives will be provided.</p>
+			</sec>
+		</sec>
+		<sec>
+			<st>
+				<p>Discussion</p>
+			</st>
+			<p>The main objective of this trial is to investigate the effectiveness of a new systematic approach in antenatal healthcare on adverse pregnancy outcomes and efficacy of implementation. We will implement and investigate the Rotterdam Reproductive Risk Reduction (R4U) scorecard and corresponding care pathways in 14 municipalities.</p>
+			<p>The study meets the current evidence to intervene early in pregnancy upon (modifiable) risk factors associated with adverse perinatal health outcomes. We aim to target a population that potentially will benefit the most with the use of selected geographical areas. With the use of care pathways, optimal linkage is sought between curative and preventive care, such as public health, government, and social welfare organizations 
+				<abbrgrp>
+					<abbr bid="B14">14</abbr>
+				</abbrgrp>.</p>
+			<p>To our knowledge, this is the first approach in antenatal healthcare whereby systematic risk selection for both medical and nonmedical risk factors, variable thresholds, tailor-made care pathways, and structured consultation between midwives, gynecologists and other care providers are combined. This study will introduce a systematic approach in antenatal health care, which may improve perinatal outcomes and, thereby, future health status of a new generation in the Netherlands.</p>
+			<sec>
+				<st>
+					<p>Trial status</p>
+				</st>
+				<p>Recruitment started in August 2012, and the first included study participant delivered in March 2013. The trial is currently recruiting study participants.</p>
+			</sec>
+		</sec>
+		<sec>
+			<st>
+				<p>Abbreviations</p>
+			</st>
+			<p>HP4ALL: Healthy Pregnancy 4 ALL; OC: obstetric collaboration; PRN: Perinatal Registry Netherlands; R4U: Rotterdam Reproductive Risk Reduction.</p>
+		</sec>
+		<sec>
+			<st>
+				<p>Competing interests</p>
+			</st>
+			<p>The authors declare that they have no competing interests.</p>
+		</sec>
+		<sec>
+			<st>
+				<p>Authors&#8217; contributions</p>
+			</st>
+			<p>AV participated in the design and coordination of the study and drafted the first version of the manuscript. SvV participated in the design and coordination of the study. AW participated in the design and coordination of the study. LJ participated in the design and coordination of the study. GB participated in the design of the study, and helped to draft the manuscript. ES conceived the study and participated in the design of the study. SD conceived the study, participated in the design and coordination of the study, and helped to draft the first version of the manuscript. All authors read and approved the final manuscript.</p>
+		</sec>
+	</bdy>
+	<bm>
+		<ack>
+			<sec>
+				<st>
+					<p>Acknowledgements</p>
+				</st>
+				<p>This study is funded by the Dutch government, Ministry of Welfare and Sports (VWS), grant 318804.</p>
+				<p>This study would not be possible without all participating municipal health authorities, local program coordinators, midwifery practices, obstetric outpatient clinics, research nurses, and child welfare and social services.</p>
+				<p>We would like to thank Dr. R. Bakker and Dr. E. Birnie (Department of Obstetrics and Gynecology, Erasmus MC) for their constructive contributions to initial design.</p>
+				<p>We would like to thank Prof. E. W. Steyerberg PhD and Dr. Casper C.W.N. Looman for their statistical expertise, and F. Santegoets and F. Buyuk Bozkoyun for construction and continuous support in the use of the Web-based database (Department of Public Health, Erasmus MC).</p>
+				<p>Special thanks go to The Netherlands Perinatal Registry, which kindly provided permission for data analysis (number 11.36) and the Advisory Board of the Healthy Pregnancy 4 All study.</p>
+			</sec>
+		</ack>
+		<refgrp><bibl id="B1"><title><p>Better Statistics for Better Health for Pregnant Women and Their Babies in 2004</p></title><aug><au><cnm>European Perinatal Health Report</cnm></au></aug><source>EURO-PERISTAT project in collaboration with SCPE, EUROCAT and EURONEONET; EURO-PERISTAT</source><pubdate>2008</pubdate></bibl><bibl id="B2"><title><p>The health and care of pregnant women and babies in Europe in 2010</p></title><aug><au><cnm>European Perinatal Health Report</cnm></au></aug><source>EURO-PERISTAT Project with SCPE and EUROCAT; EURO-PERISTAT</source><pubdate>2010</pubdate></bibl><bibl id="B3"><title><p>Perinatal outcomes in the four largest cities and in deprived neighbourhoods in The Netherlands</p></title><aug><au><snm>de Graaf</snm><fnm>JP</fnm></au><au><snm>Ravelli</snm><fnm>AC</fnm></au><au><snm>Wildschut</snm><fnm>HI</fnm></au><au><snm>Denktas</snm><fnm>S</fnm></au><au><snm>Voorham</snm><fnm>AJ</fnm></au><au><snm>Bonsel</snm><fnm>GJ</fnm></au><au><snm>Steegers</snm><fnm>EA</fnm></au></aug><source>Ned Tijdschr Geneeskd</source><pubdate>2008</pubdate><volume>152</volume><fpage>2734</fpage><lpage>40</lpage><xrefbib><pubid idtype="pmpid">19192587</pubid></xrefbib></bibl><bibl id="B4"><title><p>Dutch report: Lijnen in de Perinatale Sterfte</p></title><aug><au><snm>Bonsel</snm><fnm>GJ</fnm></au><au><snm>Birnie</snm><fnm>E</fnm></au><au><snm>Denktas</snm><fnm>S</fnm></au><au><snm>Poeran</snm><fnm>J</fnm></au><au><snm>Steegers</snm><fnm>EAP</fnm></au></aug><source>Signalementenstudie Zwangerschap en Geboorte</source><publisher>Rotterdam: Erasmus Medical Center</publisher><pubdate>2010</pubdate></bibl><bibl id="B5"><title><p>An urban perinatal health programme of strategies to improve perinatal health</p></title><aug><au><snm>Denktas</snm><fnm>S</fnm></au><au><snm>Bonsel</snm><fnm>GJ</fnm></au><au><snm>Van der Weg</snm><fnm>EJ</fnm></au><au><snm>Voorham</snm><fnm>AJ</fnm></au><au><snm>Torij</snm><fnm>HW</fnm></au><au><snm>De Graaf</snm><fnm>JP</fnm></au><au><snm>Wildschut</snm><fnm>HI</fnm></au><au><snm>Peters</snm><fnm>IA</fnm></au><au><snm>Birnie</snm><fnm>E</fnm></au><au><snm>Steegers</snm><fnm>EA</fnm></au></aug><source>Matern Child Health J</source><pubdate>2012</pubdate><volume>16</volume><fpage>1553</fpage><lpage>8</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1007/s10995-011-0873-y</pubid><pubid idtype="pmcid">3505522</pubid><pubid idtype="pmpid" link="fulltext">21870042</pubid></pubidlist></xrefbib></bibl><bibl id="B6"><title><p>Urban perinatal health inequalities</p></title><aug><au><snm>Poeran</snm><fnm>J</fnm></au><au><snm>Denktas</snm><fnm>S</fnm></au><au><snm>Birnie</snm><fnm>E</fnm></au><au><snm>Bonsel</snm><fnm>GJ</fnm></au><au><snm>Steegers</snm><fnm>EA</fnm></au></aug><source>J Matern Fetal Neonatal</source><pubdate>2011</pubdate><volume>24</volume><fpage>643</fpage><lpage>6</lpage><xrefbib><pubid idtype="doi">10.3109/14767058.2010.511341</pubid></xrefbib></bibl><bibl id="B7"><title><p>Evaluation of 280,000 cases in Dutch midwifery practices: a descriptive study</p></title><aug><au><snm>Amelink-Verburg</snm><fnm>MP</fnm></au><au><snm>Verloove-Vanhorick</snm><fnm>SP</fnm></au><au><snm>Hakkenberg</snm><fnm>RM</fnm></au><au><snm>Veldhuijzen</snm><fnm>IM</fnm></au><au><snm>Bennebroek Gravenhorst</snm><fnm>J</fnm></au><au><snm>Buitendijk</snm><fnm>SE</fnm></au></aug><source>BJOG</source><pubdate>2008</pubdate><volume>115</volume><fpage>570</fpage><lpage>8</lpage><xrefbib><pubid idtype="pmpid" link="fulltext">18162116</pubid></xrefbib></bibl><bibl id="B8"><title><p>Tertiary obstetric care: the aims of the planning decree on perinatal care of 2001 have not yet been achieved</p></title><aug><au><snm>van Eyck</snm><fnm>J</fnm></au><au><snm>Bloemenkamp</snm><fnm>KW</fnm></au><au><snm>Bolte</snm><fnm>AC</fnm></au><au><snm>Duvekot</snm><fnm>JJ</fnm></au><au><snm>Heringa</snm><fnm>MP</fnm></au><au><snm>Lotgering</snm><fnm>FK</fnm></au><au><snm>Oei</snm><fnm>SG</fnm></au><au><snm>Offermans</snm><fnm>JP</fnm></au><au><snm>Schaap</snm><fnm>AH</fnm></au><au><snm>Sollie-Szarynska</snm><fnm>KM</fnm></au></aug><source>Ned Tijdschr Geneeskd</source><pubdate>2008</pubdate><volume>152</volume><fpage>2121</fpage><lpage>5</lpage><xrefbib><pubid idtype="pmpid">18856029</pubid></xrefbib></bibl><bibl id="B9"><title><p>Pregnancy and labour in the Dutch maternity care system: what is normal? The role division between midwives and obstetricians</p></title><aug><au><snm>Amelink-Verburg</snm><fnm>MP</fnm></au><au><snm>Buitendijk</snm><fnm>SE</fnm></au></aug><source>J Midwifery Womens Health</source><pubdate>2010</pubdate><volume>55</volume><fpage>216</fpage><lpage>25</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1016/j.jmwh.2010.01.001</pubid><pubid idtype="pmpid" link="fulltext">20434081</pubid></pubidlist></xrefbib></bibl><bibl id="B10"><title><p>Perinatal mortality and morbidity in a nationwide cohort of 529,688 low-risk planned home and hospital births</p></title><aug><au><snm>de Jonge</snm><fnm>A</fnm></au><au><snm>van der Goes</snm><fnm>BY</fnm></au><au><snm>Ravelli</snm><fnm>AC</fnm></au><au><snm>Amelink-Verburg</snm><fnm>MP</fnm></au><au><snm>Mol</snm><fnm>BW</fnm></au><au><snm>Nijhuis</snm><fnm>JG</fnm></au><au><snm>Bennebroek Gravenhorst</snm><fnm>J</fnm></au><au><snm>Buitendijk</snm><fnm>SE</fnm></au></aug><source>BJOG</source><pubdate>2009</pubdate><volume>116</volume><fpage>1177</fpage><lpage>84</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1111/j.1471-0528.2009.02175.x</pubid><pubid idtype="pmpid" link="fulltext">19624439</pubid></pubidlist></xrefbib></bibl><bibl id="B11"><title><p>Individual accumulation of heterogeneous risks explains perinatal inequalities within deprived neighbourhoods</p></title><aug><au><snm>Timmermans</snm><fnm>S</fnm></au><au><snm>Bonsel</snm><fnm>GJ</fnm></au><au><snm>Steegers-Theunissen</snm><fnm>RP</fnm></au><au><snm>Mackenbach</snm><fnm>JP</fnm></au><au><snm>Steyerberg</snm><fnm>EW</fnm></au><au><snm>Raat</snm><fnm>H</fnm></au><au><snm>Verbrugh</snm><fnm>HA</fnm></au><au><snm>Tiemeier</snm><fnm>HW</fnm></au><au><snm>Hofman</snm><fnm>A</fnm></au><au><snm>Birnie</snm><fnm>E</fnm></au><au><snm>Looman</snm><fnm>CW</fnm></au><au><snm>Jaddoe</snm><fnm>VW</fnm></au><au><snm>Steegers</snm><fnm>EA</fnm></au></aug><source>Eur J Epidemiol</source><pubdate>2011</pubdate><volume>26</volume><fpage>165</fpage><lpage>80</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1007/s10654-010-9542-5</pubid><pubid idtype="pmcid">3043261</pubid><pubid idtype="pmpid" link="fulltext">21203801</pubid></pubidlist></xrefbib></bibl><bibl id="B12"><title><p>Ethnic differences in preterm birth and its subtypes: the effect of a cumulative risk profile</p></title><aug><au><snm>Goedhart</snm><fnm>G</fnm></au><au><snm>van Eijsden</snm><fnm>M</fnm></au><au><snm>van der Wal</snm><fnm>MF</fnm></au><au><snm>Bonsel</snm><fnm>GJ</fnm></au></aug><source>BJOG</source><pubdate>2008</pubdate><volume>115</volume><fpage>710</fpage><lpage>9</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1111/j.1471-0528.2008.01682.x</pubid><pubid idtype="pmpid" link="fulltext">18410654</pubid></pubidlist></xrefbib></bibl><bibl id="B13"><title><p>Feasibility and reliability of a newly developed antenatal risk score card in routine care</p></title><aug><au><snm>van Veen</snm><fnm>MJ</fnm></au><au><snm>Birnie</snm><fnm>E</fnm></au><au><snm>Poeran</snm><fnm>J</fnm></au><au><snm>Torij</snm><fnm>HW</fnm></au><au><snm>Steegers</snm><fnm>EA</fnm></au><au><snm>Bonsel</snm><fnm>GJ</fnm></au></aug><source>Midwifery</source><pubdate>2014</pubdate><volume>31</volume><fpage>147</fpage><lpage>54</lpage><xrefbib><pubid idtype="pmpid" link="fulltext">25194982</pubid></xrefbib></bibl><bibl id="B14"><title><p>Design and outline of the healthy pregnancy 4 all study</p></title><aug><au><snm>Denkta&#351;</snm><fnm>S</fnm></au><au><snm>Poeran</snm><fnm>VJJ</fnm></au><au><snm>Van Voorst</snm><fnm>SF</fnm></au><au><snm>Vos</snm><fnm>AA</fnm></au><au><snm>De Jong-Potjer</snm><fnm>LC</fnm></au><au><snm>Waelput</snm><fnm>AJM</fnm></au><au><snm>Erwin Birnie</snm><fnm>E</fnm></au><au><snm>Bonsel</snm><fnm>GJ</fnm></au><au><snm>Steegers</snm><fnm>EAP</fnm></au></aug><source>BMC Pregnancy Childbirth</source><pubdate>2014</pubdate><volume>14</volume><fpage>253</fpage><xrefbib><pubidlist><pubid idtype="doi">10.1186/1471-2393-14-253</pubid><pubid idtype="pmcid">4133626</pubid><pubid idtype="pmpid" link="fulltext">25080942</pubid></pubidlist></xrefbib></bibl><bibl id="B15"><source>Perinatal care in The Netherlands 2008 [in Dutch: Perinatale zorg in Nederland 2008]</source><publisher>Utrecht: The Netherlands Perinatal Registry</publisher><pubdate>2011</pubdate></bibl><bibl id="B16"><title><p>Impact of relational coordination on quality of care, postoperative pain and functioning, and length of stay: a nine-hospital study of surgical patients</p></title><aug><au><snm>Gittell</snm><fnm>JH</fnm></au><au><snm>Fairfield</snm><fnm>KM</fnm></au><au><snm>Bierbaum</snm><fnm>B</fnm></au><au><snm>Head</snm><fnm>W</fnm></au><au><snm>Jackson</snm><fnm>R</fnm></au><au><snm>Kelly</snm><fnm>M</fnm></au><au><snm>Laskin</snm><fnm>R</fnm></au><au><snm>Lipson</snm><fnm>S</fnm></au><au><snm>Siliski</snm><fnm>J</fnm></au><au><snm>Thornhill</snm><fnm>T</fnm></au><au><snm>Zuckerman</snm><fnm>J</fnm></au></aug><source>Med Care</source><pubdate>2000</pubdate><volume>38</volume><fpage>807</fpage><lpage>19</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1097/00005650-200008000-00005</pubid><pubid idtype="pmpid" link="fulltext">10929993</pubid></pubidlist></xrefbib></bibl><bibl id="B17"><aug><au><snm>Donner</snm><fnm>A</fnm></au><au><snm>Klar</snm><fnm>N</fnm></au></aug><source>Design and Analysis of Cluster Randomization Trials in Health Research 1st ed</source><publisher>London: Arnold Publishers Limited</publisher><pubdate>2000</pubdate></bibl></refgrp>
+	</bm>
+</art>

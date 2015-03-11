@@ -1,0 +1,1587 @@
+<?xml version='1.0'?>
+<!DOCTYPE art SYSTEM 'http://www.biomedcentral.com/xml/article.dtd'>
+<art>
+    <ui>s13063-015-0591-7</ui>
+    <ji>1745-6215</ji>
+    <fm>
+       <dochead>Study protocol</dochead>
+       <bibl>
+          <title>
+             <p>The efficacy and safety of acupuncture for cerebral vasospasm after subarachnoid hemorrhage: study protocol for a randomized controlled trial</p>
+          </title>
+          <aug>
+             <au id="A1">
+                <snm>Cho</snm>
+                <fnm>Seung-Yeon</fnm>
+                <insr iid="I1"/>
+                <email>sycho83@gmail.com</email>
+             </au>
+             <au id="A2">
+                <snm>Lee</snm>
+                <fnm>Dong-Hyuk</fnm>
+                <insr iid="I1"/>
+                <email>leedh1103@naver.com</email>
+             </au>
+             <au id="A3">
+                <snm>Shin</snm>
+                <mnm>Sup</mnm>
+                <fnm>Hee</fnm>
+                <insr iid="I2"/>
+                <email>realponym@hanmail.net</email>
+             </au>
+             <au id="A4">
+                <snm>Lee</snm>
+                <mnm>Hwan</mnm>
+                <fnm>Seung</fnm>
+                <insr iid="I2"/>
+                <email>toast2000@hanmail.net</email>
+             </au>
+             <au id="A5">
+                <snm>Koh</snm>
+                <mnm>Seok</mnm>
+                <fnm>Jun</fnm>
+                <insr iid="I2"/>
+                <email>neurokoh@hanmail.net</email>
+             </au>
+             <au id="A6">
+                <snm>Jung</snm>
+                <fnm>Woo-Sang</fnm>
+                <insr iid="I1"/>
+                <email>wsjung@khu.ac.kr</email>
+             </au>
+             <au id="A7">
+                <snm>Moon</snm>
+                <fnm>Sang-Kwan</fnm>
+                <insr iid="I1"/>
+                <email>skmoon@khu.ac.kr</email>
+             </au>
+             <au id="A8">
+                <snm>Park</snm>
+                <fnm>Jung-Mi</fnm>
+                <insr iid="I1"/>
+                <email>pajama@khu.ac.kr</email>
+             </au>
+             <au id="A9">
+                <snm>Ko</snm>
+                <fnm>Chang-Nam</fnm>
+                <insr iid="I1"/>
+                <email>kcn202@khu.ac.kr</email>
+             </au>
+             <au id="A10">
+                <snm>Kim</snm>
+                <fnm>Ho</fnm>
+                <insr iid="I3"/>
+                <email>hokim@snu.ac.kr</email>
+             </au>
+             <au id="A11" ca="yes">
+                <snm>Park</snm>
+                <fnm>Seong-Uk</fnm>
+                <insr iid="I1"/>
+                <insr iid="I4"/>
+                <email>seonguk.kr@gmail.com</email>
+             </au>
+          </aug>
+          <insg>
+             <ins id="I1">
+                <p>Department of Cardiology and Neurology, College of Korean Medicine, Kyung Hee University, 26 Kyungheedae-ro, Dongdaemun-gu 130-701, Seoul, Republic of Korea</p>
+             </ins>
+             <ins id="I2">
+                <p>Department of Neurosurgery, College of Medicine, Kyung Hee University, 26 Kyungheedae-ro, Dongdaemun-gu 130-701, Seoul, Republic of Korea</p>
+             </ins>
+             <ins id="I3">
+                <p>Department of Epidemiology and Biostatistics, Graduate School of Public Health &amp; Institute of Health and Environment, Seoul National University, 1 Gwanak-ro, Gwanak-gu 151-742, Seoul, Republic of Korea</p>
+             </ins>
+             <ins id="I4">
+                <p>Stroke &amp; Neurological Disorders Center, Kyung Hee University Hospital at Gangdong, 892 Dongnam-ro, Gangdong-gu 134-727, Seoul, Republic of Korea</p>
+             </ins>
+          </insg>
+          <source>Trials</source>
+          <issn>1745-6215</issn>
+          <pubdate>2015</pubdate>
+          <volume>16</volume>
+          <issue>1</issue>
+          <fpage>68</fpage>
+          <url>http://www.trialsjournal.com/content/16/1/68</url>
+          <xrefbib>
+             <pubidlist>
+                <pubid idtype="doi">10.1186/s13063-015-0591-7</pubid>
+             </pubidlist>
+          </xrefbib>
+       </bibl>
+       <history>
+          <rec>
+             <date>
+                <day>7</day>
+                <month>11</month>
+                <year>2014</year>
+             </date>
+          </rec>
+          <acc>
+             <date>
+                <day>6</day>
+                <month>2</month>
+                <year>2015</year>
+             </date>
+          </acc>
+          <pub>
+             <date>
+                <day>28</day>
+                <month>2</month>
+                <year>2015</year>
+             </date>
+          </pub>
+       </history>
+       <cpyrt>
+          <year>2015</year>
+          <collab>Cho et al.; licensee BioMed Central.</collab>
+          <note>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/4.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (<url>http://creativecommons.org/publicdomain/zero/1.0/</url>) applies to the data made available in this article, unless otherwise stated.</note>
+       </cpyrt>
+       <kwdg>
+          <kwd>Subarachnoid hemorrhage</kwd>
+          <kwd>Vasospasm</kwd>
+          <kwd>Delayed ischemic neurological deficit</kwd>
+          <kwd>Acupuncture</kwd>
+       </kwdg>
+       <abs>
+          <sec>
+             <st>
+                <p>Abstract</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Background</p>
+                </st>
+                <p>Subarachnoid hemorrhage (SAH) is a neurological disease with a high mortality rate. Several serious complications frequently arise after successful surgery for this condition. Cerebral vasospasm, one such complication, occurs in 50 to 70% of SAH patients. These patients suffer neurological symptoms known as delayed ischemic neurological deficit (DIND); however, the effect of treatment of vasospasm is limited. The major pathogenesis of cerebral vasospasm is the reduction of nitric oxide (NO) and activation of vasoconstrictors. Acupuncture is known to increase the production and activity of vascular endothelial cell-derived NO and improve endothelium-dependent vasodilatation. A preliminary retrospective case study to investigate the ability of acupuncture to prevent the occurrence of cerebral vasospasm has been conducted. However, no randomized, controlled clinical trials have been carried out to evaluate the efficacy of acupuncture for cerebral vasospasm.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Methods/Design</p>
+                </st>
+                <p>This trial will be a single-center, randomized, placebo-controlled, parallel group, patient-assessor-blinded clinical trial. A total of 80 patients with SAH will be randomized into two groups: a study group given acupuncture, electroacupuncture, and intradermal acupuncture, and a control group given mock transcutaneous electrical nerve stimulation and sham intradermal acupuncture. Intervention will start within 96 h after SAH, and a total of 12 sessions will be performed during a 2-week period. The primary outcome measure will be the occurrence of DIND, and the secondary outcomes will be vasospasm as measured by cerebral angiography, transcranial Doppler, clinical symptoms, vasospasm-related infarcts, NO and endothelin-1 plasma levels, mortality, and modified Rankin Scale scores.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Discussion</p>
+                </st>
+                <p>This trial will examine the efficacy and safety of acupuncture for cerebral vasospasm after SAH. The placebo effect will be excluded and the mechanism of action of the treatments will be evaluated through blood testing.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Trial registration</p>
+                </st>
+                <p>ClinicalTrials.gov <url>NCT02275949</url>, Registration date: 26 October 2014.</p>
+             </sec>
+          </sec>
+       </abs>
+    </fm>
+    <bdy>
+       <sec>
+          <st>
+             <p>Background</p>
+          </st>
+          <p>Subarachnoid hemorrhage (SAH) can occur spontaneously or as a result of trauma <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>. The most common cause of spontaneous SAH is aneurysm rupture (about 80% of cases), while vascular malformations, tumors, venous angioma, or infectious aneurysms may also cause bleeding <abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B3">3</abbr>
+             </abbrgrp>. The incidence rate is about 1 per 10,000 people per year, and SAH accounts for about 5% of stroke patients <abbrgrp>
+                <abbr bid="B3">3</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B4">4</abbr>
+             </abbrgrp>. The rate of SAH is low when compared to cerebral hemorrhage or cerebral infarction; however, this condition is a large burden to both individual patients and society because of high mortality rates and treatment costs in neurological intensive care units <abbrgrp>
+                <abbr bid="B5">5</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B7">7</abbr>
+             </abbrgrp>.</p>
+          <p>Treatment of SAH involves early ligation of the aneurysm or insertion of a coil; however, complications such as cerebral vasospasm, rebleeding, or hydrocephalus frequently occur after successful surgery <abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B4">4</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B7">7</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B8">8</abbr>
+             </abbrgrp>. Such complications increase the mortality rate of SAH or lead to patient sequelae <abbrgrp>
+                <abbr bid="B4">4</abbr>
+             </abbrgrp>. In particular, cerebral vasospasm is the most serious complication of SAH <abbrgrp>
+                <abbr bid="B9">9</abbr>
+             </abbrgrp>. It is reported that 23% of the deaths or disabilities that occur as a result of SAH are due to vasospasm <abbrgrp>
+                <abbr bid="B10">10</abbr>
+             </abbrgrp>. Cerebral vasospasm begins 3 to 4 days after the onset of SAH and reaches a maximum between 7 and 10 days <abbrgrp>
+                <abbr bid="B7">7</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B11">11</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B12">12</abbr>
+             </abbrgrp>. Vasospasm occurs in 50 to 70% of SAH patients, and about 50% of these patients suffer neurological symptoms such as deterioration of consciousness and language disorders <abbrgrp>
+                <abbr bid="B3">3</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B11">11</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B13">13</abbr>
+             </abbrgrp>. Such symptoms are known as delayed ischemic neurological deficit (DIND). Cerebral infarction occurs in half of DIND patients and a permanent neurological deficit remains in about 35%. In addition, 30% of patients die of DIND <abbrgrp>
+                <abbr bid="B4">4</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B7">7</abbr>
+             </abbrgrp>.</p>
+          <p>Spontaneous vasoconstriction and vasodilatation are adjusted by the physiological regulation of vascular endothelial cells <abbrgrp>
+                <abbr bid="B14">14</abbr>
+             </abbrgrp>. If a cerebral aneurysm ruptures and cerebral blood flow enters the subarachnoid space, hemoglobin in the blood increases the production of reactive oxygen species (ROS) <abbrgrp>
+                <abbr bid="B15">15</abbr>
+             </abbrgrp>. This triggers secretion of the vasoconstrictor substances endothelin-1, prostaglandin H2, and thromboxane A2 from vascular endothelial cells and decreases levels of the vasodilatory substance nitric oxide (NO) <abbrgrp>
+                <abbr bid="B6">6</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B9">9</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B10">10</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B15">15</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B16">16</abbr>
+             </abbrgrp>. It is known that cerebral vasospasm occurs via this mechanism. In particular, NO and hemoglobin combine very easily; thus, the presence of hemoglobin results in the loss of vasodilatory function <abbrgrp>
+                <abbr bid="B16">16</abbr>
+             </abbrgrp>. To prevent vasospasm on the basis of its pathogenesis, various methods such as calcium channel blockers, magnesium sulfate, statin agents, endothelin antagonists, and nicardipine prolonged release implants have been used <abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B3">3</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B7">7</abbr>
+             </abbrgrp>. However, their effects are limited and various studies of new drugs and treatments are now under way <abbrgrp>
+                <abbr bid="B4">4</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B9">9</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B10">10</abbr>
+             </abbrgrp>.</p>
+          <p>Acupuncture is an effective and safe treatment method that has been used for the treatment of acute stroke including SAH for centuries <abbrgrp>
+                <abbr bid="B17">17</abbr>
+             </abbrgrp>. In recent years, a number of studies have been published that show that acupuncture increases the production and activity of vascular endothelial cell-derived NO and can improve the function of damaged vascular endothelial cells <abbrgrp>
+                <abbr bid="B18">18</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B19">19</abbr>
+             </abbrgrp>. Acupuncture point ST36 (Zusanli) is known to lower blood pressure and sympathetic nervous tension <abbrgrp>
+                <abbr bid="B18">18</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B19">19</abbr>
+             </abbrgrp>. In particular, it was reported that electroacupuncture stimulation at ST36 lowers blood pressure by increasing the activity of endothelial NO <abbrgrp>
+                <abbr bid="B19">19</abbr>
+             </abbrgrp>. NO released from endothelial cells plays a key role in maintaining the tension of the vascular wall <abbrgrp>
+                <abbr bid="B20">20</abbr>
+             </abbrgrp>. Since reduction of NO is the major pathogenesis of cerebral vasospasm after SAH, it can be assumed that acupuncture at ST36 will stimulate the production of NO and normalize endothelial function in patients with SAH. Another acupoint, PC6 (Neiguan), is known to reduce the ischemic heart damage caused by increased myocardial oxygen demand as a result of sympathetic nervous excitement; it also lowers blood pressure and reduces nausea and vomiting <abbrgrp>
+                <abbr bid="B21">21</abbr>
+             </abbrgrp>. In a study using a finger photoplethysmogram, acupuncture at PC6 was reported to be effective in reducing arterial stiffness in hypertensive patients <abbrgrp>
+                <abbr bid="B22">22</abbr>
+             </abbrgrp>. Although this study was performed to investigate the acute reaction to acupuncture, it can be assumed that acupuncture at PC6 normalized endothelial cell function and so reduced arterial stiffness.</p>
+          <p>Based on previous reports, a clinical study was conducted in hypertensive patients with damaged arterial endothelial cell function, which confirmed that acupuncture at ST36-PC6 improved endothelium-dependent vasodilatation <abbrgrp>
+                <abbr bid="B23">23</abbr>
+             </abbrgrp>. After this, we carried out a preliminary retrospective case study in patients with SAH. The results indicated the possibility of acupuncture treatment in preventing the occurrence of cerebral vasospasm after SAH <abbrgrp>
+                <abbr bid="B24">24</abbr>
+             </abbrgrp>. To confirm the effectiveness and clinical application of acupuncture for cerebral vasospasm, rigorous clinical trials such as randomized, double-blind trials are required. The aim of this study will be to assess the efficacy and safety of acupuncture treatments in SAH patients for preventing delayed cerebral vasospasm through a randomized controlled trial.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Methods</p>
+          </st>
+          <p>This study will be a single-center, randomized, placebo-controlled, parallel group, patient-assessor-blinded clinical trial. The study will be conducted at Kyung Hee University Hospital in Gangdong, Seoul, Korea.</p>
+          <sec>
+             <st>
+                <p>Ethics</p>
+             </st>
+             <p>The trial will be carried out in accordance with the Declaration of Helsinki and the Korean Good Clinical Practice Guidelines and has been approved by the ethical committee of the Kyung Hee University Hospital at Gangdong (KHNMC-OH-IRB 2014-001-002). It has been registered on <url>www.clinicaltrials.gov</url> (<url>NCT02275949</url>) and will be reported in compliance with the CONSORT statement (<url>www.consort-statement.org</url>).</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Participants</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Subject enrollment, randomization, and blinding</p>
+                </st>
+                <p>A total of 80 participants will be recruited for this trial. Patients with SAH admitted to our hospital are potential candidates for the study. Eligible participants will be randomized to the study group or the control group after written informed consent is obtained. Concealed allocation will be achieved by randomization and allocation by an assigned researcher without patient contact. Randomization will be done using a computer-generated allocation list by an assigned researcher not involved in the intervention or assessment. Stratified block randomization will be carried out according to sex and the Hunt and Hess Scale (HHS) <abbrgrp>
+                      <abbr bid="B25">25</abbr>
+                   </abbrgrp>. The physician involved in the intervention will receive a random number by phone after the informed consent form has been signed and the HHS has been evaluated. A flow chart of the study is presented in Figure&#160;<figr fid="F1">1</figr>.
+                    </p>
+                
+                   <fig id="F1">
+                      <title>
+                         <p>Figure 1</p>
+                      </title>
+                      <caption>
+                         <p>The flow chart. </p>
+                      </caption>
+                      <text>
+                         <p>
+                              <b>The flow chart.</b> HHS, the Hunt and Hess Scale; FG, the Fisher grade; mRS, modified Rankin Scale; NO, nitric oxide; DIND, delayed ischemic neurological deficit.</p>
+                      </text>
+                      <graphic file="s13063-015-0591-7-1"/>
+                   </fig>
+                
+                <p>The participants and the outcome assessors will be blinded to the type of intervention used. The practitioner will not provide any clues about the allocation information to the participants during the study. Blinding will be maintained until the study is completed.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Inclusion criteria</p>
+                </st>
+                <p>Participants conforming to all the following conditions will be included: (1) SAH verified by computed tomography (CT) and cerebral angiography; (2) aneurysm treated by endovascular coiling or surgical clipping; (3) age &gt; 18 years; (4) HHS 1 to 4; (5) acupuncture treatment can start within 96 h after SAH; and (6) participation is voluntary and the informed consent form is signed.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Exclusion criteria</p>
+                </st>
+                <p>Participants with any of the following conditions will be excluded: 1) traumatic or infectious SAH; 2) HHS 5; 3) transcranial Doppler (TCD) cannot be performed; 4) heart, liver, or renal failure; 5) presence of cardiac pacemaker; or 6) have experience of electro-acupuncture.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Intervention</p>
+             </st>
+             <p>Intervention will start within 96 h of SAH, after ruptured aneurysms have been secured by endovascular coiling or surgical clipping. Interventions will be applied once a day, 6 days a week for 2 weeks (a total of 12 sessions) in addition to standard treatments such as prophylactic hypertensive, hypervolemic, and hemodilution (triple-H) therapy and nimodipine. Sterile disposable stainless steel acupuncture needles (length, 4 cm; diameter, 0.25 mm) will be used. All interventions will be performed by one Korean Medicine doctor with over 3 years of working experience who completed a college education of 6 years. This doctor will be trained in the study protocol before the start of the trial.</p>
+             <sec>
+                <st>
+                   <p>Study group</p>
+                </st>
+                <p>Acupuncture, electroacupuncture, and intradermal acupuncture will be performed at every session. Acupuncture needles (Dong Bang Acupuncture Inc., Chungnam, Korea) will be inserted bilaterally at the acupuncture points Zusanli (ST36), Neiguan (PC6), Gongsun (SP4), and Xiangu (ST43). After insertion to a depth of approximately 1.5 cm, the needles will be manually stimulated until <it>de qi</it> (a subjective experience in which patients feel a radiating sensation considered indicative of effective needling) is achieved.</p>
+                <p>An electric stimulator (ES-160, ITO Co., Japan) will be connected to the handle of each needle in the ST36 and PC6 positions and a current of 5 Hz applied. The current intensity will be increased until light muscle contraction is evident and reaches approximately 70% of bearable intensity. The needles will be left in place for 20 min and then removed. The practitioner will be able to regulate the intensity in response to requests from the subjects.</p>
+                <p>After the needles are removed, intradermal acupuncture needles with tape (DB130A, 0.25 mm &#215; 1.5 mm, Dong Bang Acupuncture Inc., Chungnam, Korea) will be inserted bilaterally in the ST36, PC6, SP4, and ST43 positions and maintained until the next session.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Control group</p>
+                </st>
+                <p>Mock transcutaneous electrical nerve stimulation and sham intradermal acupuncture will be carried out by the same Korean Medicine doctor. After an electrical insulator (Medi trace 200 foam electrodes, Ludlow Technical Products Canada, Ltd., Ontario, Canada) is attached bilaterally in the ST36 and PC6 positions, the same electric stimulator will be connected to the same points as used in the study group, but without application of current. The subjects in the control group will see the same lights and hear the same sounds coming from the machine as the study group. After 20 min, the electrical insulator will be removed and sham intradermal acupuncture will be performed at the same points. 3 M micropore medical tape (1 cm &#215; 1 cm) will be placed on the skin. After intradermal acupuncture needles are placed over the tape but not penetrating the skin, micropore medical tape of the same size will be placed over the needles. This will remain in place until the next session.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Assessment</p>
+             </st>
+             <p>The evaluation of each assessment scale will be performed by an investigator blinded to the assigned group. A baseline assessment will include Fisher grade (FG), HHS, modified Rankin Scale (mRS), NO and endothelin-1 in plasma <abbrgrp>
+                   <abbr bid="B26">26</abbr>
+                </abbrgrp>. The occurrence of delayed ischemic neurological deficit (DIND), TCD vasospasm, angiographic vasospasm and a vasospasm-related cerebral infarction will be monitored during the study period. DIND is defined as an unaccountable new focal neurological deficit lasting &gt;2 hours with either angiography or transcranial Doppler findings <abbrgrp>
+                   <abbr bid="B27">27</abbr>
+                </abbrgrp>. TCD (Transcranial Doppler Sys, 2-channel, DWL, Germany) monitoring will be done by a skilled researcher at a certain time every other day <abbrgrp>
+                   <abbr bid="B8">8</abbr>
+                </abbrgrp>. CT angiography or conventional cerebral angiography will be performed when an abnormal increase in blood flow velocity is shown or any neurological changes occur <abbrgrp>
+                   <abbr bid="B4">4</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B10">10</abbr>
+                </abbrgrp>. If necessary, we will check whether vasospasm-related infarction has occurred using CT or magnetic resonance imaging (MRI) <abbrgrp>
+                   <abbr bid="B8">8</abbr>
+                </abbrgrp>. Modified Rankin scale will be measured after 2 weeks, and the follow-up assessment will be conducted 2 weeks after the primary endpoint in order to evaluate mortality and mRS.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Combined treatment</p>
+             </st>
+             <p>All participants will receive conventional therapy in the same way. This is defined as general neurosurgical management carried out in SAH patients to stabilize the vital signs, control pain, and prevent vasospasm through fluid or medication therapy. Any use of medication will be recorded on the case report forms every day.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Dropout criteria</p>
+             </st>
+             <p>Participants conforming to any of following conditions will be removed from the study: (1) more than three sessions (out of a total of 12) are not performed; (2) withdrawal of patient consent; (3) severe adverse events making the trial unsustainable; (4) worsening condition making it difficult to participate in the trial; or (5) impractical to continue with the trial, as judged by the principal investigator.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Outcome measures</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Primary outcome measurement</p>
+                </st>
+                <p>The occurrence of DIND will be compared between the study group and the control group. DIND is defined as an unaccountable new focal neurological deficit lasting &#8805;2 h. Any occurrence of DIND will be recorded by the physician and verified by the investigator every day.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Secondary outcome measurements</p>
+                </st>
+                <p>Secondary outcome measures are as follow:</p><p>1. Incidence of angiographic vasospasm</p>
+                   <p>Angiographic vasospasm is defined as focal or generalized reduction of cerebral arterial caliber on conventional cerebral angiogram or CT angiography confirmed by a neuroradiologist and a neurosurgeon.</p>
+                   <p>2. Incidence of TCD vasospasm</p>
+                   <p>TCD vasospasm is defined as a peak systolic middle cerebral artery velocity (PCA<sub>MCA</sub>) of &gt;200 cm/s and a Lindegaard ratio of &gt;3 (Lindegaard ratio = mean velocity in the MCA/mean velocity in the ipsilateral extracranial internal carotid artery) <abbrgrp>
+                         <abbr bid="B28">28</abbr>
+                      </abbrgrp>-<abbrgrp>
+                         <abbr bid="B30">30</abbr>
+                      </abbrgrp>.</p>
+                   <p>3. Incidence of vasospasm-related infarct on CT or MRI</p>
+                   <p>A vasospasm-related infarct is defined as a cerebral infarction in the region of angiographic vasospasm or TCD vasospasm as shown on CT or MRI.</p>
+                   <p>4. Changes in plasma NO and endothelin-1</p>
+                   <p>A blood sample (3 mL) will be taken from the brachial vein, centrifuged at 3,000 rpm for 15 min, and kept in a freezer at -70&#176;C before analysis. The concentration of NO will be analyzed using a Total Nitric Oxide and Nitrate/Nitrate Parameter Assay Kit (R&amp;D Systems, Inc., USA) and the level of endothelin-1 will be measured using an Endothelin-1 Quantikine ELISA Kit (R&amp;D Systems, Inc., USA). All samples will be discarded after analysis (<url>www.rndsystems.com</url>).</p>
+                   <p>5. Mortality at the end of treatment and 14 days after treatment (or at discharge)</p>
+                   <p>6. Modified Rankin Scale (mRS) score</p>
+                   <p>Functional status is assessed with mRS score at the end of treatment and 14 days after treatment (or at discharge).</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Safety evaluation</p>
+             </st>
+             <p>Any adverse events or abnormalities will be recorded in the case report forms irrespective of the intervention used. Severity will be evaluated as mild, moderate, or severe, and the relation of any events to the intervention will be evaluated as not related, possibly related, or related.</p>
+             <p>If any serious adverse events occur, the intervention will be stopped immediately and appropriate action will be taken. This will be reported promptly to the institutional review board, according to the protocol.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Sample size estimation</p>
+             </st>
+             <p>DIND, the primary outcome of the trial, was used to calculate the sample size. According to our pilot trial carried out in 2012, the incidence rate of DIND was 10% in the study group and 38.9% in the control group <abbrgrp>
+                   <abbr bid="B24">24</abbr>
+                </abbrgrp>. The difference in the expected incidence rate of DIND between the two groups (P<sub>c</sub> - P<sub>t</sub>) is therefore 28.9%. To detect this difference with a two-sided 5% significance level and a power of 95%, 39 participants per intervention arm have to be randomized, allowing for a 20% dropout rate <abbrgrp>
+                   <abbr bid="B31">31</abbr>
+                </abbrgrp>.</p><p><display-formula>
+                   <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" name="s13063-015-0591-7-i1">
+                      <m:mi>n</m:mi>
+                      <m:mo>=</m:mo>
+                      <m:mfrac>
+                         <m:mrow>
+                            <m:msup>
+                               <m:mfenced close=")" open="(">
+                                  <m:mrow>
+                                     <m:msub>
+                                        <m:mi>z</m:mi>
+                                        <m:mrow>
+                                           <m:mi>&#945;</m:mi>
+                                           <m:mo stretchy="true">/</m:mo>
+                                           <m:mn>2</m:mn>
+                                        </m:mrow>
+                                     </m:msub>
+                                     <m:mo>+</m:mo>
+                                     <m:msub>
+                                        <m:mi>z</m:mi>
+                                        <m:mi>&#946;</m:mi>
+                                     </m:msub>
+                                  </m:mrow>
+                               </m:mfenced>
+                               <m:mn>2</m:mn>
+                            </m:msup>
+                            <m:mfenced close=")" open="(">
+                               <m:mrow>
+                                  <m:msub>
+                                     <m:mi>p</m:mi>
+                                     <m:mi>c</m:mi>
+                                  </m:msub>
+                                  <m:msub>
+                                     <m:mi>q</m:mi>
+                                     <m:mi>c</m:mi>
+                                  </m:msub>
+                                  <m:mo>+</m:mo>
+                                  <m:msub>
+                                     <m:mi>p</m:mi>
+                                     <m:mi>t</m:mi>
+                                  </m:msub>
+                                  <m:msub>
+                                     <m:mi>q</m:mi>
+                                     <m:mi>t</m:mi>
+                                  </m:msub>
+                               </m:mrow>
+                            </m:mfenced>
+                         </m:mrow>
+                         <m:msup>
+                            <m:mfenced close=")" open="(">
+                               <m:mrow>
+                                  <m:msub>
+                                     <m:mi>p</m:mi>
+                                     <m:mi>c</m:mi>
+                                  </m:msub>
+                                  <m:mo>&#8722;</m:mo>
+                                  <m:msub>
+                                     <m:mi>p</m:mi>
+                                     <m:mi>t</m:mi>
+                                  </m:msub>
+                               </m:mrow>
+                            </m:mfenced>
+                            <m:mn>2</m:mn>
+                         </m:msup>
+                      </m:mfrac>
+                   </m:math>
+                </display-formula></p>
+          </sec>
+          <sec>
+             <st>
+                <p>Statistical analyses</p>
+             </st>
+             <p>According to the principle of intention-to-treat, all randomized participants will be analyzed using SPSS version 18.0 (SPSS Inc., Chicago, IL, USA) software. All data will be represented as mean &#177; standard deviation (SD) or number (%). For comparisons of two groups, an independent samples <it>t</it>-test or Mann- Whitney <it>U</it> test will be used for continuous outcomes, and a &#967;<sup>2</sup>-test or Fisher&#8217;s exact test will be used for noncontinuous outcomes. To control for possible confounding factors (for example, age, Hunt and Hess Scale, modified Rankin Scale, <it>etcetera</it>), multiple regression analysis will be performed for the comparison of two groups. Confidence limits of 95% will be calculated and <it>P</it> values of &lt; 0.05 will be considered statistically significant.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Discussion</p>
+          </st>
+          <p>In this randomized controlled trial, we aim to observe the effect of acupuncture treatment on the prevention of vasospasm after SAH. In addition to the occurrence of DIND and vasospasm, plasma levels of NO and endothelin-1 will be evaluated to identify the mechanism of action of the treatments used. Stratified block randomization will be used according to sex and severity (HHS). For the placebo control, we will use an electric stimulator without electrical flow and sham intradermal acupuncture designed not to penetrate the skin. With use of the same electrical stimulator and intradermal acupuncture method as the treatment group, better blinding of the control group is expected. Participants will be treated alone in a treatment room in order to avoid any communication with other participants.</p>
+          <p>In summary, the effect of acupuncture treatment on the prevention of vasospasm after SAH will be assessed in this trial. The placebo effect should be excluded and the trial design should allow for evaluation of the efficacy and safety of acupuncture for SAH patients.</p>
+          <sec>
+             <st>
+                <p>Trial status</p>
+             </st>
+             <p>Recruitment started in September 2014 and will be completed by the end of May 2016.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Abbreviations</p>
+          </st>
+          <p>CT: Computed tomography</p>
+          <p>DIND: Delayed ischemic neurological deficit</p>
+          <p>FG: Fisher grade</p>
+          <p>HHS: Hunt and Hess Scale</p>
+          <p>MRI: Magnetic resonance imaging</p>
+          <p>mRS: Modified Rankin Scale</p>
+          <p>NO: Nitric oxide</p>
+          <p>SAH: Subarachnoid hemorrhage</p>
+          <p>TCD: Transcranial doppler</p>
+          <p>triple-H: Hypertensive, hypervolemic, and hemodilution</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Competing interests</p>
+          </st>
+          <p>The authors declare that they have no competing interests.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Authors&#8217; contributions</p>
+          </st>
+          <p>SY Cho wrote the paper; DH Lee designed the protocol; HS Shin, SH Lee and JS Koh contributed to the conception; WS Jung and SK Moon reviewed the method; JM Park and CN Ko reviewed the manuscript; H Kim advised on statistics; SU Park contributed to the conception and designed the protocol. All authors read and approved the final manuscript.</p>
+       </sec>
+    </bdy>
+    <bm>
+       <ack>
+          <sec>
+             <st>
+                <p>Acknowledgements</p>
+             </st>
+             <p>This research was supported by a grant of the Korea Health Technology R&amp;D Project through the Korea Health Industry Development Institute (KHIDI), funded by the Ministry of Health &amp; Welfare, Republic of Korea (grant number: HI 14C0870).</p>
+          </sec>
+       </ack>
+       <refgrp>
+          
+          <bibl id="B1">
+             <title>
+                <p>Cerebral vasospasm following traumatic subarachnoid hemorrhage</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Aminmansour</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Ghorbani</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Sharifi</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Shemshaki</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Ahmadi</snm>
+                   <fnm>A</fnm>
+                </au>
+             </aug>
+             <source>J Res Med Sci</source>
+             <pubdate>2009</pubdate>
+             <volume>14</volume>
+             <fpage>343</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">21772907</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B2">
+             <title>
+                <p>Subarachnoid haemorrhage: diagnosis, causes and management</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>van Gijn</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Rinkel</snm>
+                   <fnm>GJE</fnm>
+                </au>
+             </aug>
+             <source>Brain</source>
+             <pubdate>2001</pubdate>
+             <volume>124</volume>
+             <fpage>249</fpage>
+             <lpage>78</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/brain/124.2.249</pubid>
+                   <pubid idtype="pmpid" link="fulltext">11157554</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B3">
+             <title>
+                <p>Subarachnoid haemorrhage</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Van Gijn</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Kerr</snm>
+                   <fnm>RS</fnm>
+                </au>
+                <au>
+                   <snm>Rinkel</snm>
+                   <fnm>GJ</fnm>
+                </au>
+             </aug>
+             <source>Lancet</source>
+             <pubdate>2007</pubdate>
+             <volume>369</volume>
+             <fpage>306</fpage>
+             <lpage>18</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/S0140-6736(07)60153-6</pubid>
+                   <pubid idtype="pmpid" link="fulltext">17258671</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B4">
+             <title>
+                <p>European Stroke Organization guidelines for the management of intracranial aneurysms and subarachnoid haemorrhage</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Steiner</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Juvela</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Unterberg</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Jung</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Forsting</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Rinkel</snm>
+                   <fnm>G</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Cerebrovasc Dis</source>
+             <pubdate>2013</pubdate>
+             <volume>35</volume>
+             <fpage>93</fpage>
+             <lpage>112</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1159/000346087</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23406828</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B5">
+             <title>
+                <p>Insurance status is associated with treatment allocation and outcomes after subarachnoid hemorrhage</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hobson</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Dortch</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Ozrazgat Baslanti</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Layon</snm>
+                   <fnm>DR</fnm>
+                </au>
+                <au>
+                   <snm>Roche</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Rioux</snm>
+                   <fnm>A</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>PLoS One</source>
+             <pubdate>2014</pubdate>
+             <volume>9</volume>
+             <fpage>e105124</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1371/journal.pone.0105124</pubid>
+                   <pubid idtype="pmpid" link="fulltext">25141303</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B6">
+             <title>
+                <p>Pathophysiological role of global cerebral ischemia following subarachnoid hemorrhage: the current experimental evidence</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Plesnila</snm>
+                   <fnm>N</fnm>
+                </au>
+             </aug>
+             <source>Stroke Res Treat</source>
+             <pubdate>2013</pubdate>
+             <volume>2013</volume>
+             <fpage>e651958</fpage>
+          </bibl>
+          <bibl id="B7">
+             <title>
+                <p>Management of subarachnoid haemorrhage in a non-neurosurgical centre</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Wilson</snm>
+                   <fnm>SR</fnm>
+                </au>
+                <au>
+                   <snm>Hirsch</snm>
+                   <fnm>NP</fnm>
+                </au>
+                <au>
+                   <snm>Appleby</snm>
+                   <fnm>I</fnm>
+                </au>
+             </aug>
+             <source>Anaesthesia</source>
+             <pubdate>2005</pubdate>
+             <volume>60</volume>
+             <fpage>470</fpage>
+             <lpage>85</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1365-2044.2005.04152.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15819768</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B8">
+             <title>
+                <p>Guidelines for the management of aneurysmal subarachnoid hemorrhage: a guideline for healthcare professionals from the American Heart Association/American Stroke Association</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Connolly</snm>
+                   <fnm>ES</fnm>
+                </au>
+                <au>
+                   <snm>Rabinstein</snm>
+                   <fnm>AA</fnm>
+                </au>
+                <au>
+                   <snm>Carhuapoma</snm>
+                   <fnm>JR</fnm>
+                </au>
+                <au>
+                   <snm>Derdeyn</snm>
+                   <fnm>CP</fnm>
+                </au>
+                <au>
+                   <snm>Dion</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Higashida</snm>
+                   <fnm>RT</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Stroke</source>
+             <pubdate>2012</pubdate>
+             <volume>43</volume>
+             <fpage>1711</fpage>
+             <lpage>37</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1161/STR.0b013e3182587839</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22556195</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B9">
+             <title>
+                <p>Cerebral vasospasm pharmacological treatment: an update</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Siasios</snm>
+                   <fnm>I</fnm>
+                </au>
+                <au>
+                   <snm>Kapsalaki</snm>
+                   <fnm>EZ</fnm>
+                </au>
+                <au>
+                   <snm>Fountas</snm>
+                   <fnm>KN</fnm>
+                </au>
+             </aug>
+             <source>Neurol Res Int</source>
+             <pubdate>2013</pubdate>
+             <volume>2013</volume>
+             <fpage>e571328</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1155/2013/571328</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B10">
+             <title>
+                <p>Clinical review: prevention and therapy of vasospasm in subarachnoid hemorrhage</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Keyrouz</snm>
+                   <fnm>SG</fnm>
+                </au>
+                <au>
+                   <snm>Diringer</snm>
+                   <fnm>MN</fnm>
+                </au>
+             </aug>
+             <source>Crit Care</source>
+             <pubdate>2007</pubdate>
+             <volume>11</volume>
+             <fpage>220</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1186/cc5958</pubid>
+                   <pubid idtype="pmpid" link="fulltext">17705883</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B11">
+             <title>
+                <p>MR angiography for the diagnosis of vasospasm after subarachnoid hemorrhage. Is it accurate? Is it safe?</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Heiserman</snm>
+                   <fnm>JE</fnm>
+                </au>
+             </aug>
+             <source>Am J Neuroradiol</source>
+             <pubdate>2000</pubdate>
+             <volume>21</volume>
+             <fpage>1571</fpage>
+             <lpage>2</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">11039333</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B12">
+             <title>
+                <p>&#8220;Triple-H&#8221; therapy for cerebral vasospasm following subarachnoid hemorrhage</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Lee</snm>
+                   <fnm>KH</fnm>
+                </au>
+                <au>
+                   <snm>Lukovits</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Friedman</snm>
+                   <fnm>JA</fnm>
+                </au>
+             </aug>
+             <source>Neurocrit Care</source>
+             <pubdate>2006</pubdate>
+             <volume>4</volume>
+             <fpage>68</fpage>
+             <lpage>76</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1385/NCC:4:1:068</pubid>
+                   <pubid idtype="pmpid" link="fulltext">16498198</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B13">
+             <title>
+                <p>Relationship between brain interstitial fluid tumor necrosis factor-? and cerebral vasospasm after aneurysmal subarachnoid hemorrhage</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hanafy</snm>
+                   <fnm>KA</fnm>
+                </au>
+                <au>
+                   <snm>Stuart</snm>
+                   <fnm>RM</fnm>
+                </au>
+                <au>
+                   <snm>Khandji</snm>
+                   <fnm>AG</fnm>
+                </au>
+                <au>
+                   <snm>Connolly</snm>
+                   <fnm>ES</fnm>
+                </au>
+                <au>
+                   <snm>Badjatia</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Mayer</snm>
+                   <fnm>SA</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>J Clin Neurosci</source>
+             <pubdate>2010</pubdate>
+             <volume>17</volume>
+             <fpage>853</fpage>
+             <lpage>6</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.jocn.2009.11.041</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20471835</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B14">
+             <title>
+                <p>Endothelial function and dysfunction testing and clinical relevance</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Deanfield</snm>
+                   <fnm>JE</fnm>
+                </au>
+                <au>
+                   <snm>Halcox</snm>
+                   <fnm>JP</fnm>
+                </au>
+                <au>
+                   <snm>Rabelink</snm>
+                   <fnm>TJ</fnm>
+                </au>
+             </aug>
+             <source>Circulation</source>
+             <pubdate>2007</pubdate>
+             <volume>115</volume>
+             <fpage>1285</fpage>
+             <lpage>95</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">17353456</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B15">
+             <title>
+                <p>The role of the microcirculation in delayed cerebral ischemia and chronic degenerative changes after subarachnoid hemorrhage</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>&#216;stergaard</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Aamand</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Karabegovic</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Tietze</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Blicher</snm>
+                   <fnm>JU</fnm>
+                </au>
+                <au>
+                   <snm>Mikkelsen</snm>
+                   <fnm>IK</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>J Cereb Blood Flow Metab</source>
+             <pubdate>2013</pubdate>
+             <volume>33</volume>
+             <fpage>1825</fpage>
+             <lpage>37</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1038/jcbfm.2013.173</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24064495</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B16">
+             <title>
+                <p>Subarachnoid haemorrhage: what happens to the cerebral arteries?</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Sobey</snm>
+                   <fnm>CG</fnm>
+                </au>
+                <au>
+                   <snm>Faraci</snm>
+                   <fnm>FM</fnm>
+                </au>
+             </aug>
+             <source>Clin Exp Pharmacol Physiol</source>
+             <pubdate>1998</pubdate>
+             <volume>25</volume>
+             <fpage>867</fpage>
+             <lpage>76</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/j.1440-1681.1998.tb02337.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">9807657</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B17">
+             <title>
+                <p>A randomized controlled trial on the treatment for acute partial ischemic stroke with acupuncture</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hu</snm>
+                   <fnm>H-H</fnm>
+                </au>
+                <au>
+                   <snm>Chung</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Liu</snm>
+                   <fnm>TJ</fnm>
+                </au>
+                <au>
+                   <snm>Chen</snm>
+                   <fnm>RC</fnm>
+                </au>
+                <au>
+                   <snm>Chen</snm>
+                   <fnm>C-H</fnm>
+                </au>
+                <au>
+                   <snm>Chou</snm>
+                   <fnm>P</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Neuroepidemiology</source>
+             <pubdate>1993</pubdate>
+             <volume>12</volume>
+             <fpage>106</fpage>
+             <lpage>13</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1159/000110308</pubid>
+                   <pubid idtype="pmpid" link="fulltext">8232703</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B18">
+             <title>
+                <p>Nitric oxide in the gracile nucleus mediates depressor response to acupuncture (ST36)</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Chen</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Ma</snm>
+                   <fnm>S-X</fnm>
+                </au>
+             </aug>
+             <source>J Neurophysiol</source>
+             <pubdate>2003</pubdate>
+             <volume>90</volume>
+             <fpage>780</fpage>
+             <lpage>5</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1152/jn.00170.2003</pubid>
+                   <pubid idtype="pmpid" link="fulltext">12672780</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B19">
+             <title>
+                <p>Acupuncture reduces experimental renovascular hypertension through mechanisms involving nitric oxide synthases</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kim</snm>
+                   <fnm>DD</fnm>
+                </au>
+                <au>
+                   <snm>Pica</snm>
+                   <fnm>AM</fnm>
+                </au>
+                <au>
+                   <snm>Duran</snm>
+                   <fnm>RG</fnm>
+                </au>
+                <au>
+                   <snm>Duran</snm>
+                   <fnm>WN</fnm>
+                </au>
+             </aug>
+             <source>Microcirc</source>
+             <pubdate>2006</pubdate>
+             <volume>13</volume>
+             <fpage>577</fpage>
+             <lpage>85</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1080/10739680600885210</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B20">
+             <title>
+                <p>Protective role of endothelial nitric oxide synthase</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Albrecht</snm>
+                   <fnm>EW</fnm>
+                </au>
+                <au>
+                   <snm>Stegeman</snm>
+                   <fnm>CA</fnm>
+                </au>
+                <au>
+                   <snm>Heeringa</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Henning</snm>
+                   <fnm>RH</fnm>
+                </au>
+                <au>
+                   <snm>van Goor</snm>
+                   <fnm>H</fnm>
+                </au>
+             </aug>
+             <source>J Pathol</source>
+             <pubdate>2003</pubdate>
+             <volume>199</volume>
+             <fpage>8</fpage>
+             <lpage>17</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1002/path.1250</pubid>
+                   <pubid idtype="pmpid" link="fulltext">12474221</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B21">
+             <title>
+                <p>The influence of PC6 on cardiovascular disorders: a review of central neural mechanisms</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Li</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Li</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Chen</snm>
+                   <fnm>Z</fnm>
+                </au>
+                <au>
+                   <snm>Liang</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Wu</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Wang</snm>
+                   <fnm>H</fnm>
+                </au>
+             </aug>
+             <source>Acupunct Med</source>
+             <pubdate>2012</pubdate>
+             <volume>30</volume>
+             <fpage>47</fpage>
+             <lpage>50</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/acupmed-2011-010060</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22378585</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B22">
+             <title>
+                <p>Assessment of the vascular effects of PC6 (Neiguan) using the second derivative of the finger photoplethysmogram in healthy and hypertensive subjects</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Rivas-Vilchis</snm>
+                   <fnm>JF</fnm>
+                </au>
+                <au>
+                   <snm>Hern&#225;ndez-S&#225;nchez</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Gonz&#225;lez-Camarena</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Su&#225;rez-Rodr&#237;guez</snm>
+                   <fnm>LD</fnm>
+                </au>
+                <au>
+                   <snm>Escorcia-Gaona</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Cervantes-Reyes</snm>
+                   <fnm>JA</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Am J Chin Med</source>
+             <pubdate>2007</pubdate>
+             <volume>35</volume>
+             <fpage>427</fpage>
+             <lpage>36</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1142/S0192415X07004941</pubid>
+                   <pubid idtype="pmpid" link="fulltext">17597501</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B23">
+             <title>
+                <p>Can acupuncture affect the circadian rhythm of blood pressure? A randomized, double-blind, controlled trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kim</snm>
+                   <fnm>H-M</fnm>
+                </au>
+                <au>
+                   <snm>Cho</snm>
+                   <fnm>S-Y</fnm>
+                </au>
+                <au>
+                   <snm>Park</snm>
+                   <fnm>S-U</fnm>
+                </au>
+                <au>
+                   <snm>Sohn</snm>
+                   <fnm>I-S</fnm>
+                </au>
+                <au>
+                   <snm>Jung</snm>
+                   <fnm>W-S</fnm>
+                </au>
+                <au>
+                   <snm>Moon</snm>
+                   <fnm>S-K</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>J Altern Complement Med</source>
+             <pubdate>2012</pubdate>
+             <volume>18</volume>
+             <fpage>918</fpage>
+             <lpage>23</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1089/acm.2011.0508</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22906144</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B24">
+             <title>
+                <p>Acupuncture for cerebral vasospasm after subarachnoid hemorrhage: a retrospective case&#8211;control study</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Ko</snm>
+                   <fnm>C-N</fnm>
+                </au>
+                <au>
+                   <snm>Lee</snm>
+                   <fnm>I-W</fnm>
+                </au>
+                <au>
+                   <snm>Cho</snm>
+                   <fnm>S-Y</fnm>
+                </au>
+                <au>
+                   <snm>Lee</snm>
+                   <fnm>SH</fnm>
+                </au>
+                <au>
+                   <snm>Park</snm>
+                   <fnm>S-U</fnm>
+                </au>
+                <au>
+                   <snm>Koh</snm>
+                   <fnm>JS</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>J Altern Complement Med</source>
+             <pubdate>2013</pubdate>
+             <volume>19</volume>
+             <fpage>471</fpage>
+             <lpage>3</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1089/acm.2012.0076</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23176375</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B25">
+             <title>
+                <p>Surgical risk as related to time of intervention in the repair of intracranial aneurysms</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hunt</snm>
+                   <fnm>WE</fnm>
+                </au>
+                <au>
+                   <snm>Hess</snm>
+                   <fnm>RM</fnm>
+                </au>
+             </aug>
+             <source>J Neurosurg</source>
+             <pubdate>1968</pubdate>
+             <volume>28</volume>
+             <fpage>14</fpage>
+             <lpage>20</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.3171/jns.1968.28.1.0014</pubid>
+                   <pubid idtype="pmpid" link="fulltext">5635959</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B26">
+             <title>
+                <p>Subarachnoid hemorrhage grading scales: a systematic review</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Rosen</snm>
+                   <fnm>DS</fnm>
+                </au>
+                <au>
+                   <snm>Macdonald</snm>
+                   <fnm>RL</fnm>
+                </au>
+             </aug>
+             <source>Neurocrit Care</source>
+             <pubdate>2005</pubdate>
+             <volume>2</volume>
+             <fpage>110</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1385/NCC:2:2:110</pubid>
+                   <pubid idtype="pmpid" link="fulltext">16159052</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B27">
+             <title>
+                <p>Endovascular treatment or neurosurgical clipping of ruptured intracranial aneurysms; effect on angiographic vasospasm, delayed ischemic neurological deficit, cerebral infarction, and clinical outcome</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Dumont</snm>
+                   <fnm>AS</fnm>
+                </au>
+                <au>
+                   <snm>Crowley</snm>
+                   <fnm>RW</fnm>
+                </au>
+                <au>
+                   <snm>Monteith</snm>
+                   <fnm>SJ</fnm>
+                </au>
+                <au>
+                   <snm>Llodiqwe</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Kassell</snm>
+                   <fnm>NF</fnm>
+                </au>
+                <au>
+                   <snm>Mayer</snm>
+                   <fnm>S</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Stroke</source>
+             <pubdate>2010</pubdate>
+             <volume>41</volume>
+             <fpage>2519</fpage>
+             <lpage>24</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1161/STROKEAHA.110.579383</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20813994</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B28">
+             <title>
+                <p>Evaluation of cerebrovascular spasm with transcranial Doppler ultrasound</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Aaslid</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Huber</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Nornes</snm>
+                   <fnm>H</fnm>
+                </au>
+             </aug>
+             <source>J Neurosurg</source>
+             <pubdate>1984</pubdate>
+             <volume>60</volume>
+             <fpage>37</fpage>
+             <lpage>41</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.3171/jns.1984.60.1.0037</pubid>
+                   <pubid idtype="pmpid" link="fulltext">6689726</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B29">
+             <title>
+                <p>Role of Transcranial doppler monitoring in the diagnosis of cerebral vasospasm after subarachnoid hemorrhage</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Vora</snm>
+                   <fnm>YY</fnm>
+                </au>
+                <au>
+                   <snm>Suarez-Almazor</snm>
+                   <fnm>MMD</fnm>
+                </au>
+                <au>
+                   <snm>Steinke</snm>
+                   <fnm>DE</fnm>
+                </au>
+                <au>
+                   <snm>Martin</snm>
+                   <fnm>ML</fnm>
+                </au>
+                <au>
+                   <snm>Findlay</snm>
+                   <fnm>JMMD</fnm>
+                </au>
+             </aug>
+             <source>Neurosurgery</source>
+             <pubdate>1999</pubdate>
+             <volume>44</volume>
+             <fpage>1237</fpage>
+             <lpage>47</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">10371622</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B30">
+             <title>
+                <p>Cerebral vasospasm after subarachnoid haemorrhage investigated by means of transcranial Doppler ultrasound</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Lindegaard</snm>
+                   <fnm>KF</fnm>
+                </au>
+                <au>
+                   <snm>Nornes</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Bakke</snm>
+                   <fnm>SJ</fnm>
+                </au>
+                <au>
+                   <snm>Sorteberg</snm>
+                   <fnm>W</fnm>
+                </au>
+                <au>
+                   <snm>Nakstad</snm>
+                   <fnm>P</fnm>
+                </au>
+             </aug>
+             <source>Acta Neurochir Suppl (Wien)</source>
+             <pubdate>1988</pubdate>
+             <volume>42</volume>
+             <fpage>81</fpage>
+             <lpage>4</lpage>
+          </bibl>
+          <bibl id="B31">
+             <aug>
+                <au>
+                   <snm>Shuster</snm>
+                   <fnm>JJ</fnm>
+                </au>
+             </aug>
+             <source>Practical handbook of sample size guidelines clinical trials MAC</source>
+             <publisher>CRC Press, Florida</publisher>
+             <pubdate>1992</pubdate>
+          </bibl>
+       </refgrp>
+    </bm>
+ </art>

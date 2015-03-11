@@ -1,0 +1,1108 @@
+<?xml version='1.0'?>
+<!DOCTYPE art SYSTEM 'http://www.biomedcentral.com/xml/article.dtd'>
+<art>
+	<ui>1745-6215-16-9</ui>
+	<ji>1745-6215</ji>
+	<fm>
+		<dochead>Study protocol</dochead>
+		<bibl>
+			<title>
+				<p>A randomised double-blind placebo-controlled 12- week feasibility trial of methotrexate added to treatment as usual in early schizophrenia: study protocol for a randomised controlled trial</p>
+			</title>
+			<aug>
+				<au id="A1" ca="yes"><snm>Chaudhry</snm><mi>B</mi><fnm>Imran</fnm><insr iid="I1"/><email>ibchaudhry@btinternet.com</email></au>
+				<au id="A2"><snm>Husain</snm><fnm>Nusrat</fnm><insr iid="I1"/><email>nusrat.husain@manchester.ac.uk</email></au>
+				<au id="A3"><snm>ur Rahman</snm><fnm>Raza</fnm><insr iid="I2"/><email>razaur@yahoo.com</email></au>
+				<au id="A4"><snm>Husain</snm><mnm>Omair</mnm><fnm>Mohammed</fnm><insr iid="I3"/><email>so_moo@hotmail.com</email></au>
+				<au id="A5"><snm>Hamirani</snm><mi>M</mi><fnm>Mohammed</fnm><insr iid="I4"/><email>mmmham@yahoo.com</email></au>
+				<au id="A6"><snm>Kazmi</snm><fnm>Ajmal</fnm><insr iid="I5"/><email>kazmiajmal@yahoo.com</email></au>
+				<au id="A7"><snm>Baig</snm><fnm>Shakeel</fnm><insr iid="I6"/><email>brukarachi@yahoo.com</email></au>
+				<au id="A8"><snm>Haddad</snm><mi>M</mi><fnm>Peter</fnm><insr iid="I7"/><email>peter.haddad@gmw.nhs.uk</email></au>
+				<au id="A9"><snm>Buch</snm><mi>H</mi><fnm>Maya</fnm><insr iid="I8"/><email>m.buch@leeds.ac.uk</email></au>
+				<au id="A10"><snm>Qureshi</snm><fnm>Inti</fnm><insr iid="I9"/><email>Inti.Qurashi@merseycare.nhs.uk</email></au>
+				<au id="A11"><snm>Mehmood</snm><fnm>Nasir</fnm><insr iid="I5"/><email>nasir.mehmood@manchester.ac.uk</email></au>
+				<au id="A12"><snm>Kiran</snm><fnm>Tayyeba</fnm><insr iid="I5"/><email>tayyaba.kiran@pill.org.pk</email></au>
+				<au id="A13"><snm>Fu</snm><fnm>Bo</fnm><insr iid="I10"/><email>Bo.fu@manchester.ac.uk</email></au>
+				<au id="A14"><snm>Afsar</snm><fnm>Salahuddin</fnm><insr iid="I2"/><email>salahuddinafsar@hotmail.com</email></au>
+				<au id="A15"><snm>Deakin</snm><fnm>Bill</fnm><insr iid="I10"/><email>bill.deakin@manchester.ac.uk</email></au>
+			</aug>
+			<insg>
+				<ins id="I1"><p>University of Manchester &amp; Lancashire Care Early Intervention Service, Manchester, UK</p></ins>
+				<ins id="I2"><p>Dow University of Health Sciences, Karachi, Pakistan</p></ins>
+				<ins id="I3"><p>Southwest London and St George&#8217;s NHS Trust, London, UK</p></ins>
+				<ins id="I4"><p>Abbassi Shaheed Hospital, Karachi, Pakistan</p></ins>
+				<ins id="I5"><p>Pakistan Institute of Leaning and Living, Karachi, Pakistan</p></ins>
+				<ins id="I6"><p>Baqai University, Karachi, Pakistan</p></ins>
+				<ins id="I7"><p>University of Manchester &amp; Greater Manchester West Mental Health NHS Foundation Trust, Manchester, UK</p></ins>
+				<ins id="I8"><p>University of Leeds, Leeds, UK</p></ins>
+				<ins id="I9"><p>Mersey Care NHS Trust, Liverpool, UK</p></ins>
+				<ins id="I10"><p>University of Manchester, Manchester, UK</p></ins>
+			</insg>
+			<source>Trials</source>
+			<issn>1745-6215</issn>
+			<pubdate>2015</pubdate>
+			<volume>16</volume>
+			<issue>1</issue>
+			<fpage>9</fpage>
+			<url>http://www.trialsjournal.com/content/16/1/9</url>
+			<xrefbib><pubidlist><pubid idtype="doi">10.1186/1745-6215-16-9</pubid><pubid idtype="pmpid">25563714</pubid></pubidlist></xrefbib>
+		</bibl>
+		<history><rec><date><day>20</day><month>5</month><year>2014</year></date></rec><acc><date><day>16</day><month>12</month><year>2014</year></date></acc><pub><date><day>7</day><month>1</month><year>2015</year></date></pub></history>
+		<cpyrt><year>2015</year><collab>Chaudhry et al.; licensee BioMed Central.</collab><note>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/4.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (<url>http://creativecommons.org/publicdomain/zero/1.0/</url>) applies to the data made available in this article, unless otherwise stated.</note></cpyrt>
+		<abs>
+			<sec>
+				<st>
+					<p>Abstract</p>
+				</st>
+				<sec>
+					<st>
+						<p>Background</p>
+					</st>
+					<p>Methotrexate is a commonly used anti-inflammatory and immunosuppressive drug. There is growing evidence that inflammatory processes are involved in the pathogenesis of schizophrenia. In our recent randomised double-blind placebo-controlled clinical trial in Pakistan and Brazil, the addition of minocycline (antibiotic and anti-inflammatory drug) for 1&#160;year to treatment as usual reduced negative symptoms and improved some cognitive measures. A meta-analysis of cytokine changes in the peripheral blood has identified IL-2, IFN-gamma, TNF-alpha and soluble IL-2 receptor as trait markers of schizophrenia because their levels were elevated during acute exacerbations and reduced in remission. This suggests immune activation and an inflammatory syndrome in schizophrenia. Based on the evidence of the strong anti-inflammatory properties of methotrexate, we propose that low-dose methotrexate may be an effective therapy in early schizophrenia.</p>
+				</sec>
+				<sec>
+					<st>
+						<p>Methods/Design</p>
+					</st>
+					<p>This is a double-blind placebo-controlled study of methotrexate added to treatment as usual for patients suffering from schizophrenia, schizoaffective disorder, psychosis not otherwise specified or schizophreniform disorder. This will be with 72 patients, 36 in each arm over 3&#160;months. There will be screening, randomisation and follow-up visits. Full clinical assessments will be carried out at baseline, 2, 4, 8 and 12&#160;weeks. Social and cognitive assessments will be carried out at baseline and 12&#160;weeks. Methotrexate will be given at a dose of 10 mgs orally once a week for a 3-month period.</p>
+				</sec>
+				<sec>
+					<st>
+						<p>Discussion</p>
+					</st>
+					<p>Evidence suggests inflammatory processes are involved in the pathogenesis of schizophrenia and anti-inflammatory treatments have shown to have some beneficial effects. Methotrexate is a known immunosuppressant and anti-inflammatory drug. The aim of this study is to establish the degree of improvement in positive and negative symptoms, as well as cognitive functioning with the addition of methotrexate to treatment as usual.</p>
+					<p>ClinicalTrials.gov identifier: <a href="https://clinicaltrials.gov/ct2/show/NCT02074319">NCT02074319</a> (24 February 2014).</p>
+				</sec>
+			</sec>
+		</abs>
+	</fm>
+	<bdy>
+		<sec>
+			<st>
+				<p>Background</p>
+			</st>
+			<p>Methotrexate (MXTis a commonly used anti-inflammatory and immunosuppressive drug, originally developed and continuing to be used for chemotherapy either alone or in combination with other agents. It is used as a treatment for some autoimmune diseases, including arthritis, psoriasis, psoriatic arthritis, lupus and Crohn's disease. Low-dose MXT has been used for treatment of rheumatoid arthritis for almost 50&#160;years, is very effective and is recognised as treatment of choice and first-line therapy for many patients 
+				<abbrgrp>
+					<abbr bid="B1">1</abbr>
+				</abbrgrp>. MXT is thought to affect cancer and rheumatoid arthritis by two different pathways. For cancer, MXT competitively inhibits dihydrofolate reductase (DHFR), an enzyme that participates in the tetrahydrofolate synthesis 
+				<abbrgrp>
+					<abbr bid="B2">2</abbr>
+				</abbrgrp>. However, in rheumatoid arthritis it most likely acts by the inhibition of enzymes involved in purine metabolism or by inhibition of T cell activation 
+				<abbrgrp>
+					<abbr bid="B3">3</abbr>
+				</abbrgrp>.</p>
+			<p>There has been interest in using MXT in other conditions where excessive immune activation and inflammatory mediators are believed to be involved in the pathogenesis. For example, Gong <it>et al</it>. 
+				<abbrgrp>
+					<abbr bid="B4">4</abbr>
+				</abbrgrp> showed that in cardiac failure patients, low-dose MXT has significant anti-inflammatory effects and improved functional outcomes and quality of life. In an animal model of cardiac failure Zhang <it>et al</it>. 
+				<abbrgrp>
+					<abbr bid="B5">5</abbr>
+				</abbrgrp> showed that MXT has the ability to regulate inflammatory responses and improve cardiac function, hence contributing to prevent the development of post-myocarditis dilated cardiomyopathy.</p>
+			<p>There is growing evidence that inflammatory processes are involved in the pathogenesis of schizophrenia 
+				<abbrgrp>
+					<abbr bid="B6">6</abbr>
+				</abbrgrp>. In our recent randomised double-blind placebo-controlled clinical trial in Pakistan and Brazil, funded by the Stanley Medical Research Institute (SMRI), the addition of minocycline (an antibiotic and anti-inflammatory drug) for 1&#160;year to treatment as usual (TAU) reduced negative symptoms and improved some cognitive measures 
+				<abbrgrp>
+					<abbr bid="B7">7</abbr>
+				</abbrgrp>. Several studies have noted increase in peripheral inflammatory cytokines, such as IL-1, IL-2, IL-6, and TNF-alpha 
+				<abbrgrp>
+					<abbr bid="B8">8</abbr>
+				</abbrgrp>. In the brain, cytokines seem to be involved in regulating the action of several neurotransmitters, such as serotonin, noradrenalin, dopamine, and glutamate. The interaction of cytokines with dopamine and glutamate seems to be especially relevant to the pathophysiology of schizophrenia 
+				<abbrgrp>
+					<abbr bid="B9">9</abbr>
+				</abbrgrp>.</p>
+			<p>A meta-analysis of cytokine changes in the peripheral blood has identified IL-12, IFN-gamma, TNF-alpha, and soluble IL-2 receptor (sIL-2R) as trait markers of schizophrenia because their levels were elevated during acute exacerbations and remission 
+				<abbrgrp>
+					<abbr bid="B10">10</abbr>
+				</abbrgrp>. An extensive meta-analysis by Potvin <it>et al</it>. 
+				<abbrgrp>
+					<abbr bid="B8">8</abbr>
+				</abbrgrp> reports significant increases in <it>in vivo</it> peripheral levels of IL-1RA, sIL-2R, and IL-6 in schizophrenia patients, supporting evidence of immune activation and an inflammatory syndrome in schizophrenia. Studies show that IL-6 mediates the deleterious effects of noncompeting N-methyl-D-aspartate (NMDA) antagonists on cortical interneurons 
+				<abbrgrp>
+					<abbr bid="B11">11</abbr>
+				</abbrgrp> and cytokines have an impact on the regulation of neuroplasticity, cellular resilience, and apoptosis control 
+				<abbrgrp>
+					<abbr bid="B12">12</abbr>
+				</abbrgrp>. TNF-alpha seems to inhibit brain-derived neurotrophic factor (BDNF) release, compromising the protective effect of this neurotrophin.</p>
+			<p>A number of studies report that treatment with antipsychotic drugs affects the cytokine network 
+				<abbrgrp>
+					<abbr bid="B13">13</abbr>
+				</abbrgrp>. This supports the rationale that the influence of antipsychotics on the cytokine systems may be responsible for their clinical efficacy in schizophrenia. Peripheral immune processes may be mirrored in the brain by microglial cells 
+				<abbrgrp>
+					<abbr bid="B6">6</abbr>
+				</abbrgrp>. The 'microglia hypothesis of schizophrenia' suggests that the release of proinflammatory cytokines, kynurenines, nitric oxide (NO) and reactive oxygen species (ROS) by activated microglia might cause neuronal degeneration, white matter abnormalities and decreased neurogenesis 
+				<abbrgrp>
+					<abbr bid="B14">14</abbr>
+					<abbr bid="B15">15</abbr>
+					<abbr bid="B16">16</abbr>
+				</abbrgrp>. Recent positron emission tomography (PET) studies during acute psychotic episodes in early schizophrenia suggest an activation of microglia 
+				<abbrgrp>
+					<abbr bid="B17">17</abbr>
+					<abbr bid="B18">18</abbr>
+				</abbrgrp>.</p>
+			<p>If MXT, which is already on the market for the treatment of heart disease, cancer and rheumatic diseases, proves effective for reducing symptoms of schizophrenia then this could transform the suffering evidenced by patients which severely impairs their quality of life. Targeting the inflammatory response is a major focus of novel drug development especially relevant to the treatment of Treatment Resistant Schizophrenia (TRS). Based on the evidence of strong anti-inflammatory properties of MXT, we propose that low-dose MXT may be an effective therapy in early schizophrenia.</p>
+			<sec>
+				<st>
+					<p>AIMS</p>
+				</st>
+				<p>To test the prediction that addition of MXT to treatment as usual (TAU) for patients with early schizophrenia will result in following outcomes:</p>
+				<p indent="1">
+					<monospace>&#9675;</monospace> To demonstrate that the trial design is acceptable to participants including randomisation to x arms</p>
+				<p indent="1">
+					<monospace>&#9675;</monospace> To demonstrate that the interventions are acceptable to participants and indicate likely attrition rates and tolerabilityImprovement in negative symptoms</p>
+				<p indent="1">
+					<monospace>&#9675;</monospace> Improvement in positive symptoms</p>
+				<p indent="1">
+					<monospace>&#9675;</monospace> Improvement in social functioning</p>
+				<p indent="1">
+					<monospace>&#9675;</monospace> Improvement in cognitive functions</p>
+			</sec>
+		</sec>
+		<sec>
+			<st>
+				<p>Methods/Design</p>
+			</st>
+			<sec>
+				<st>
+					<p>Overview</p>
+				</st>
+				<p>This is a double-blind placebo-controlled trial of MXT added to TAU for patients suffering from schizophrenia, schizoaffective disorder, psychosis not otherwise specified or schizophreniform disorder. The ethical approval covering all sites was obtained from the Research and Ethics Committee of the Pakistan Institute of Learning and Living and was submitted to the funding body, SMRI (Project Reference: PILL/SMRI/12627). Patients will be recruited from inpatient and outpatient settings. They will initially be approached by the treating psychiatrists and the multi-disciplinary teams (MDT). Patients will continue to take TAU during the trial. Although, the study assessments will be carried out by the research assistants (RAs), the responsible clinician (consultant psychiatrist) will remain in charge of the overall treatment. Antipsychotic dosage will be kept constant, unless clinically warranted, any changes will be recorded on monthly reviews.</p>
+				<p>After consenting to take part in the study, 72 patients will be randomised into two groups: 36 in each arm over the 3-month period. Full clinical assessments will be carried out at baseline, 2, 4, 8 and 12&#160;weeks. Social and cognitive assessments will be carried out at baseline and 12&#160;weeks (Table&#160;
+					<tblr tid="T1">1</tblr>). MXT once a week or placebo once a week will be added to TAU. Tolerability will be assessed by self report. During the course of the study the patient will also have additional support by doctors and RAs from the research team and continued support from their mental health care team. If necessary, members of the research team will be available 24&#160;hours a day, 7&#160;days a week.</p>
+				<table id="T1">
+					<title>
+						<p>Table 1</p>
+					</title>
+					<caption>
+						<p>
+							<b>Schedule of assessments</b>
+						</p>
+					</caption>
+					<tgroup align="left" cols="10">
+						<colspec align="left" colname="c1" colnum="1" colwidth="1*"/>
+						<colspec align="left" colname="c2" colnum="2" colwidth="1*"/>
+						<colspec align="left" colname="c3" colnum="3" colwidth="1*"/>
+						<colspec align="left" colname="c4" colnum="4" colwidth="1*"/>
+						<colspec align="left" colname="c5" colnum="5" colwidth="1*"/>
+						<colspec align="left" colname="c6" colnum="6" colwidth="1*"/>
+						<colspec align="left" colname="c7" colnum="7" colwidth="1*"/>
+						<colspec align="left" colname="c8" colnum="8" colwidth="1*"/>
+						<colspec align="left" colname="c9" colnum="9" colwidth="1*"/>
+						<colspec align="left" colname="c10" colnum="10" colwidth="1*"/>
+						<thead valign="top">
+							<row>
+								<entry colname="c1" morerows="1" rowsep="1">
+									<p>
+										<b>Assessment</b>
+									</p>
+								</entry>
+								<entry colname="c2" nameend="c4" namest="c2" rowsep="1">
+									<p>
+										<b>Who</b>
+									</p>
+								</entry>
+								<entry colname="c5" nameend="c10" namest="c5" rowsep="1">
+									<p>
+										<b>When</b>
+									</p>
+								</entry>
+							</row>
+							<row rowsep="1">
+								<entry colname="c2">
+									<p>
+										<b>Patient</b>
+									</p>
+								</entry>
+								<entry colname="c3">
+									<p>
+										<b>Research assistants</b>
+									</p>
+								</entry>
+								<entry colname="c4">
+									<p>
+										<b>RMO team</b>
+									</p>
+								</entry>
+								<entry colname="c5">
+									<p>
+										<b>Screening</b>
+									</p>
+								</entry>
+								<entry colname="c6">
+									<p>
+										<b>Randomisation</b>
+									</p>
+								</entry>
+								<entry colname="c7">
+									<p>
+										<b>Week 2</b>
+									</p>
+								</entry>
+								<entry colname="c8">
+									<p>
+										<b>Week 4</b>
+									</p>
+								</entry>
+								<entry colname="c9">
+									<p>
+										<b>Week 8</b>
+									</p>
+								</entry>
+								<entry colname="c10">
+									<p>
+										<b>Week 12</b>
+									</p>
+								</entry>
+							</row>
+						</thead>
+						<tfoot>
+							<p>
+								<sup>a</sup>Lab screen includes FBC, renal function and liver functions tests. Patients will continue to have these tests at 2-weekly intervals if there are abnormalities on the 6-week blood tests that do not warrant withdrawal from the study. These blood tests are also repeated 4&#160;weeks after finishing the study. Additional blood tests are conducted at baseline and 12&#160;weeks.</p>
+							<p>
+								<it>Abbreviations</it>: <it>BMI</it> body mass index, <it>BP</it> blood pressure, <it>CGI</it> Clinical Global Impression, <it>FBC</it> full blood count, <it>GAF</it> Global Assessment of Functioning, <it>HR</it> heart rate, <it>PANNS</it> Positive and Negative Syndrome Scale, <it>QOL</it> quality of life, <it>RMO</it> resident medical officer, <it>SCID</it> Structured Clinical Interview for DSM-IV.</p>
+						</tfoot>
+						<tbody valign="top">
+							<row>
+								<entry colname="c1">
+									<p>Case note review</p>
+								</entry>
+								<entry colname="c2"/>
+								<entry colname="c3"/>
+								<entry colname="c4">
+									<p>x</p>
+								</entry>
+								<entry colname="c5"/>
+								<entry colname="c6"/>
+								<entry colname="c7"/>
+								<entry colname="c8"/>
+								<entry colname="c9"/>
+								<entry colname="c10">
+									<p>x</p>
+								</entry>
+							</row>
+							<row>
+								<entry colname="c1">
+									<p>SCID</p>
+								</entry>
+								<entry colname="c2"/>
+								<entry colname="c3">
+									<p>x</p>
+								</entry>
+								<entry colname="c4"/>
+								<entry colname="c5">
+									<p>x</p>
+								</entry>
+								<entry colname="c6"/>
+								<entry colname="c7"/>
+								<entry colname="c8"/>
+								<entry colname="c9"/>
+								<entry colname="c10"/>
+							</row>
+							<row>
+								<entry colname="c1">
+									<p>Drug treatment history</p>
+								</entry>
+								<entry colname="c2"/>
+								<entry colname="c3">
+									<p>x</p>
+								</entry>
+								<entry colname="c4"/>
+								<entry colname="c5">
+									<p>x</p>
+								</entry>
+								<entry colname="c6">
+									<p>x</p>
+								</entry>
+								<entry colname="c7">
+									<p>x</p>
+								</entry>
+								<entry colname="c8">
+									<p>x</p>
+								</entry>
+								<entry colname="c9">
+									<p>x</p>
+								</entry>
+								<entry colname="c10">
+									<p>x</p>
+								</entry>
+							</row>
+							<row>
+								<entry colname="c1">
+									<p>Medical history</p>
+								</entry>
+								<entry colname="c2"/>
+								<entry colname="c3"/>
+								<entry colname="c4">
+									<p>x</p>
+								</entry>
+								<entry colname="c5">
+									<p>x</p>
+								</entry>
+								<entry colname="c6"/>
+								<entry colname="c7"/>
+								<entry colname="c8"/>
+								<entry colname="c9"/>
+								<entry colname="c10"/>
+							</row>
+							<row>
+								<entry colname="c1">
+									<p>Physical exam</p>
+								</entry>
+								<entry colname="c2"/>
+								<entry colname="c3">
+									<p>x</p>
+								</entry>
+								<entry colname="c4"/>
+								<entry colname="c5">
+									<p>x</p>
+								</entry>
+								<entry colname="c6"/>
+								<entry colname="c7"/>
+								<entry colname="c8"/>
+								<entry colname="c9"/>
+								<entry colname="c10">
+									<p>x</p>
+								</entry>
+							</row>
+							<row>
+								<entry colname="c1">
+									<p>Body weight and BMI</p>
+								</entry>
+								<entry colname="c2"/>
+								<entry colname="c3">
+									<p>x</p>
+								</entry>
+								<entry colname="c4"/>
+								<entry colname="c5"/>
+								<entry colname="c6">
+									<p>x</p>
+								</entry>
+								<entry colname="c7"/>
+								<entry colname="c8"/>
+								<entry colname="c9"/>
+								<entry colname="c10">
+									<p>x</p>
+								</entry>
+							</row>
+							<row>
+								<entry colname="c1">
+									<p>BP and HR</p>
+								</entry>
+								<entry colname="c2"/>
+								<entry colname="c3">
+									<p>x</p>
+								</entry>
+								<entry colname="c4"/>
+								<entry colname="c5">
+									<p>x</p>
+								</entry>
+								<entry colname="c6">
+									<p>x</p>
+								</entry>
+								<entry colname="c7">
+									<p>x</p>
+								</entry>
+								<entry colname="c8">
+									<p>x</p>
+								</entry>
+								<entry colname="c9">
+									<p>x</p>
+								</entry>
+								<entry colname="c10">
+									<p>x</p>
+								</entry>
+							</row>
+							<row>
+								<entry colname="c1">
+									<p>Lab screen<sup>a</sup>
+									</p>
+								</entry>
+								<entry colname="c2"/>
+								<entry colname="c3"/>
+								<entry colname="c4">
+									<p>x</p>
+								</entry>
+								<entry colname="c5">
+									<p>x</p>
+								</entry>
+								<entry colname="c6"/>
+								<entry colname="c7">
+									<p>x</p>
+								</entry>
+								<entry colname="c8">
+									<p>x</p>
+								</entry>
+								<entry colname="c9">
+									<p>x</p>
+								</entry>
+								<entry colname="c10">
+									<p>x</p>
+								</entry>
+							</row>
+							<row>
+								<entry colname="c1">
+									<p>Pregnancy screen (urine)</p>
+								</entry>
+								<entry colname="c2"/>
+								<entry colname="c3">
+									<p>x</p>
+								</entry>
+								<entry colname="c4"/>
+								<entry colname="c5"/>
+								<entry colname="c6">
+									<p>x</p>
+								</entry>
+								<entry colname="c7"/>
+								<entry colname="c8"/>
+								<entry colname="c9">
+									<p>x</p>
+								</entry>
+								<entry colname="c10">
+									<p>x</p>
+								</entry>
+							</row>
+							<row>
+								<entry colname="c1">
+									<p>Inclusion criteria</p>
+								</entry>
+								<entry colname="c2"/>
+								<entry colname="c3">
+									<p>x</p>
+								</entry>
+								<entry colname="c4"/>
+								<entry colname="c5">
+									<p>x</p>
+								</entry>
+								<entry colname="c6"/>
+								<entry colname="c7"/>
+								<entry colname="c8"/>
+								<entry colname="c9"/>
+								<entry colname="c10"/>
+							</row>
+							<row>
+								<entry colname="c1">
+									<p>Exclusion criteria</p>
+								</entry>
+								<entry colname="c2"/>
+								<entry colname="c3">
+									<p>x</p>
+								</entry>
+								<entry colname="c4"/>
+								<entry colname="c5">
+									<p>x</p>
+								</entry>
+								<entry colname="c6"/>
+								<entry colname="c7"/>
+								<entry colname="c8"/>
+								<entry colname="c9"/>
+								<entry colname="c10"/>
+							</row>
+							<row>
+								<entry colname="c1">
+									<p>Withdrawal criteria</p>
+								</entry>
+								<entry colname="c2"/>
+								<entry colname="c3">
+									<p>x</p>
+								</entry>
+								<entry colname="c4"/>
+								<entry colname="c5"/>
+								<entry colname="c6">
+									<p>x</p>
+								</entry>
+								<entry colname="c7">
+									<p>x</p>
+								</entry>
+								<entry colname="c8">
+									<p>x</p>
+								</entry>
+								<entry colname="c9">
+									<p>x</p>
+								</entry>
+								<entry colname="c10"/>
+							</row>
+							<row>
+								<entry colname="c1">
+									<p>Consent</p>
+								</entry>
+								<entry colname="c2">
+									<p>x</p>
+								</entry>
+								<entry colname="c3">
+									<p>x</p>
+								</entry>
+								<entry colname="c4"/>
+								<entry colname="c5">
+									<p>x</p>
+								</entry>
+								<entry colname="c6">
+									<p>x</p>
+								</entry>
+								<entry colname="c7"/>
+								<entry colname="c8"/>
+								<entry colname="c9"/>
+								<entry colname="c10"/>
+							</row>
+							<row>
+								<entry colname="c1">
+									<p>PANNS</p>
+								</entry>
+								<entry colname="c2"/>
+								<entry colname="c3">
+									<p>x</p>
+								</entry>
+								<entry colname="c4"/>
+								<entry colname="c5"/>
+								<entry colname="c6">
+									<p>x</p>
+								</entry>
+								<entry colname="c7">
+									<p>x</p>
+								</entry>
+								<entry colname="c8">
+									<p>x</p>
+								</entry>
+								<entry colname="c9">
+									<p>x</p>
+								</entry>
+								<entry colname="c10">
+									<p>x</p>
+								</entry>
+							</row>
+							<row>
+								<entry colname="c1">
+									<p>CGI</p>
+								</entry>
+								<entry colname="c2"/>
+								<entry colname="c3">
+									<p>x</p>
+								</entry>
+								<entry colname="c4"/>
+								<entry colname="c5"/>
+								<entry colname="c6">
+									<p>x</p>
+								</entry>
+								<entry colname="c7">
+									<p>x</p>
+								</entry>
+								<entry colname="c8">
+									<p>x</p>
+								</entry>
+								<entry colname="c9">
+									<p>x</p>
+								</entry>
+								<entry colname="c10">
+									<p>x</p>
+								</entry>
+							</row>
+							<row>
+								<entry colname="c1">
+									<p>GAF</p>
+								</entry>
+								<entry colname="c2"/>
+								<entry colname="c3">
+									<p>x</p>
+								</entry>
+								<entry colname="c4"/>
+								<entry colname="c5"/>
+								<entry colname="c6">
+									<p>x</p>
+								</entry>
+								<entry colname="c7"/>
+								<entry colname="c8"/>
+								<entry colname="c9"/>
+								<entry colname="c10">
+									<p>x</p>
+								</entry>
+							</row>
+							<row>
+								<entry colname="c1">
+									<p>QOL</p>
+								</entry>
+								<entry colname="c2"/>
+								<entry colname="c3">
+									<p>x</p>
+								</entry>
+								<entry colname="c4"/>
+								<entry colname="c5"/>
+								<entry colname="c6">
+									<p>x</p>
+								</entry>
+								<entry colname="c7"/>
+								<entry colname="c8"/>
+								<entry colname="c9"/>
+								<entry colname="c10">
+									<p>x</p>
+								</entry>
+							</row>
+							<row>
+								<entry colname="c1">
+									<p>Social function scale</p>
+								</entry>
+								<entry colname="c2"/>
+								<entry colname="c3">
+									<p>x</p>
+								</entry>
+								<entry colname="c4"/>
+								<entry colname="c5"/>
+								<entry colname="c6">
+									<p>x</p>
+								</entry>
+								<entry colname="c7"/>
+								<entry colname="c8"/>
+								<entry colname="c9"/>
+								<entry colname="c10">
+									<p>x</p>
+								</entry>
+							</row>
+							<row>
+								<entry colname="c1">
+									<p>Cognitive assessments</p>
+								</entry>
+								<entry colname="c2"/>
+								<entry colname="c3">
+									<p>x</p>
+								</entry>
+								<entry colname="c4"/>
+								<entry colname="c5"/>
+								<entry colname="c6">
+									<p>x</p>
+								</entry>
+								<entry colname="c7"/>
+								<entry colname="c8"/>
+								<entry colname="c9"/>
+								<entry colname="c10">
+									<p>x</p>
+								</entry>
+							</row>
+							<row>
+								<entry colname="c1">
+									<p>Antipsychotic side-effects</p>
+								</entry>
+								<entry colname="c2"/>
+								<entry colname="c3">
+									<p>x</p>
+								</entry>
+								<entry colname="c4"/>
+								<entry colname="c5"/>
+								<entry colname="c6">
+									<p>x</p>
+								</entry>
+								<entry colname="c7">
+									<p>x</p>
+								</entry>
+								<entry colname="c8">
+									<p>x</p>
+								</entry>
+								<entry colname="c9">
+									<p>x</p>
+								</entry>
+								<entry colname="c10">
+									<p>x</p>
+								</entry>
+							</row>
+							<row>
+								<entry colname="c1">
+									<p>Side-effects</p>
+								</entry>
+								<entry colname="c2"/>
+								<entry colname="c3"/>
+								<entry colname="c4"/>
+								<entry colname="c5"/>
+								<entry colname="c6"/>
+								<entry colname="c7"/>
+								<entry colname="c8"/>
+								<entry colname="c9"/>
+								<entry colname="c10"/>
+							</row>
+							<row>
+								<entry colname="c1">
+									<p>Spontaneously reported adverse effects and</p>
+								</entry>
+								<entry colname="c2"/>
+								<entry colname="c3"/>
+								<entry colname="c4"/>
+								<entry colname="c5"/>
+								<entry colname="c6"/>
+								<entry colname="c7"/>
+								<entry colname="c8"/>
+								<entry colname="c9"/>
+								<entry colname="c10"/>
+							</row>
+							<row>
+								<entry colname="c1">
+									<p>methotrexate toxicity check list</p>
+								</entry>
+								<entry colname="c2">
+									<p>x</p>
+								</entry>
+								<entry colname="c3">
+									<p>x</p>
+								</entry>
+								<entry colname="c4"/>
+								<entry colname="c5"/>
+								<entry colname="c6">
+									<p>x</p>
+								</entry>
+								<entry colname="c7">
+									<p>x</p>
+								</entry>
+								<entry colname="c8">
+									<p>x</p>
+								</entry>
+								<entry colname="c9">
+									<p>x</p>
+								</entry>
+								<entry colname="c10">
+									<p>x</p>
+								</entry>
+							</row>
+							<row rowsep="1">
+								<entry colname="c1">
+									<p>Compliance monitoring</p>
+								</entry>
+								<entry colname="c2"/>
+								<entry colname="c3">
+									<p>x</p>
+								</entry>
+								<entry colname="c4"/>
+								<entry colname="c5"/>
+								<entry colname="c6"/>
+								<entry colname="c7">
+									<p>x</p>
+								</entry>
+								<entry colname="c8">
+									<p>x</p>
+								</entry>
+								<entry colname="c9">
+									<p>x</p>
+								</entry>
+								<entry colname="c10">
+									<p>x</p>
+								</entry>
+							</row>
+						</tbody>
+					</tgroup>
+				</table>
+			</sec>
+			<sec>
+				<st>
+					<p>Allocation</p>
+				</st>
+				<p>In this study patients will be allocated to treatment group according to a randomised permuted blocks algorithm, after stratification by centre. Allocation will be determined in Manchester by pseudo-random number generation by the trial statistician. The results will be conveyed to the trial pharmacist so that medication can be given to participants without anyone else on the team being aware of the allocation (that is, double-blind).</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Blinding</p>
+				</st>
+				<p>This is a double-blind, randomised, placebo-controlled feasibility study. Random allocation to treatments will be undertaken by a statistician who will have no knowledge of the patient characteristics. The details of the allocation will be concealed from the research team until all data collection has been completed. Blinding of participants and treating physicians to allocation status will be assured by identical capsule appearance, by identical labelling between placebo and the active drugs (apart from labels identifying the patient). Blinding of the capsules, packaging and labelling, will be undertaken by pharmacist independent of the study. Study investigators and researchers administering the assessment measures will not be aware of the study drug allocated to the individual. In the event a patient develops any side- effects, where drug unblinding is required, the treating physician will be made aware of the study drug, possible side-effects and make the appropriate decision whether to continue or discontinue the drug. The safety and wellbeing of the patient will be paramount at all times.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Statistical consideration</p>
+				</st>
+				<p>Our sample size consideration is based on the hypothesis that there will be a significant difference in changes from baseline to end-point on the clinical outcome measures and the cognitive function measures between the MXT group and the TAU group. With 32 participants per group, this study will have 80% power to detect a standardised effect size of 0.53 (medium by the definition of Cohen) by using a 2-sided significant level of 0.20. As this is a preliminary study, we used a less stringent significance level so as not to miss a promising effect rather than being too concerned by false positives. The estimated loss to follow-up rate is 10% and, therefore, a total of 72 patients (36 MXT, 36 TAU) are needed. Our sample size is adequate to estimate the parameters of acceptability and tolerability to the necessary degree of precision.</p>
+				<p>The planned analyses will be by intention-to-treat (ITT). Careful consideration will be given to the potential biases arising from the drop-out and missing data. Group differences in the change of clinical outcome measures and cognitive function measures at baseline to 12&#160;weeks will be assessed using the <it>t</it>-test or analysis of covariance (ANCOVA) adjusting for baseline differences. For repeatedly measured clinical outcomes at baseline, 2, 4, 8 and 12&#160;weeks, we will also use generalised estimating equations (GEE) to estimate the effect of MXT treatment on longitudinal outcomes, including baseline values and time terms as covariates. GEE offers a robust method to take account of the within-subject correlation in longitudinal data.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Inclusion/Exclusion criteria</p>
+				</st>
+				<sec>
+					<st>
+						<p>Inclusion criteria</p>
+					</st>
+					<p indent="1">&#8226; Signed informed consent, indicating that the subject understood the purpose of and procedures required for the study, before the initiation of any study specific procedures</p>
+					<p indent="1">&#8226; Aged 18 to 35&#160;years</p>
+					<p indent="1">&#8226; <it>Diagnostic and Statistical Manual-IV</it> (DSM-IV) diagnosed schizophrenia, schizoaffective disorder, psychosis not otherwise specified or schizophreniform disorder</p>
+					<p indent="1">&#8226; Early schizophrenia (within first 5&#160;years of diagnosis)</p>
+					<p indent="1">&#8226; Competent and willing to give informed consent</p>
+					<p indent="1">&#8226; Medication remained stable 4&#160;weeks prior to baseline</p>
+					<p indent="1">&#8226; Able to take oral medication and likely to complete the required evaluations</p>
+					<p indent="1">&#8226; Female participants of child-bearing capability must be willing to use adequate contraceptives for the duration of the study, and willing to have a pregnancy test pre- treatment and at 10-weekly intervals while on study medication. Adequate contraception is defined as use of contraceptive double barrier system (that is condom and spermicide) or contraceptive implant, oral contraceptive or injected depot contraceptive plus other form of contraceptive, that is a condom. Females will be considered incapable of child-bearing if they are 1&#160;year post-menopausal or irreversibly surgically sterilised</p>
+				</sec>
+				<sec>
+					<st>
+						<p>Exclusion criteria</p>
+					</st>
+					<p indent="1">&#8226; Violation of any inclusion criteria</p>
+					<p indent="1">&#8226; Failure to perform screening or baseline examinations</p>
+					<p indent="1">&#8226; Relevant <it>International Statistical Classification of Diseases and Related Health Problems</it> (ICD-10) organic brain disease or neurological diagnoses (including electrocardiogram (ECG) conduction abnormalities, neurological disorder, or an active seizure)</p>
+					<p indent="1">&#8226; Patients with liver disease and polyarthritis</p>
+					<p indent="1">&#8226; Patients who will meet the criteria for a DSM-IV-text revision(TR) diagnosis of alcohol or substance abuse (other than for nicotine) within the last month or the criteria for DSM-IV-TR alcohol or substance dependence (other than for nicotine) within the last 6&#160;months</p>
+					<p indent="1">&#8226; Any change of psychotropic medications within the previous 4&#160;weeks</p>
+					<p indent="1">&#8226; Pregnant or lactating women and those of reproductive age without adequate contraception</p>
+					<p indent="1">&#8226; Relevant medical illness will be determined in the first instance by asking the patient's mental health care team if the patient has any medical condition/problems. After consent has been obtained the research nurse/research doctor will then have access to the patients&#8217; notes and will assess patient eligibility to take part in the clinical trial by scrutinising the patients&#8217; past medical history, most recent blood results, ECGs, as well as any physical tests that have been performed on the patient. If there are any deviations from the &#8216;norm&#8217; the investigators will assess the eligibility of the individual patient. Automatic contraindications will include significantly impaired renal function, significantly impaired hepatic function and pre-existing blood dyscrasias, such as significant marrow hypoplasia, leukopenia, thrombocytopenia or anemia.</p>
+				</sec>
+			</sec>
+			<sec>
+				<st>
+					<p>Interval of assessments</p>
+				</st>
+				<p>There will be a screening, a randomisation and follow-up visits. Full clinical assessments (Positive and Negative Syndrome Scale (PANSS), Clinical Global Impression (CGI), Global Assessment of Functioning (GAF), Social Functioning Scale (SFS) and Quality of Life Scale (QLS)) will be carried out at baseline, 2, 4, 8 and 12&#160;weeks. Social and cognitive assessments (CogState, IQ using Wechsler Adult Intelligence Scale (WAIS) block design, Coughlan Learning Task, Stroop Task, Verbal Fluency) will be carried out at baseline and 12&#160;weeks. The clinical interview and ratings will take approximately 50&#160;minutes. The neuropsychological assessments will take about 60 to 80&#160;minutes. The patients will primarily be seen at their treating team&#8217;s base. In special circumstances, if requested by the treating team or patient, the RAs can visit at home.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>RA training and inter-rater reliability</p>
+				</st>
+				<p>Research assistants in Karachi were trained in Structured Clinical Interview for DSM-IV (SCID), clinical and neuropsychological assessments at the University of Manchester for a previous SMRI-funded study. Inter-rater reliability sessions will be conducted by local principle investigators (PIs) using training videos.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Treatments</p>
+				</st>
+				<sec>
+					<st>
+						<p>Treatment as usual</p>
+					</st>
+					<p>The patients can be on either first or second generation antipsychotic medications, as deemed suitable by the responsible psychiatrist. From our experience with previous studies there is no major advantage of one generation of drugs over the other.</p>
+				</sec>
+			</sec>
+			<sec>
+				<st>
+					<p>Study drug dosage</p>
+				</st>
+				<p>MXT 7.5 mgs orally once a week) for a 3-month period as an augmentation agent with TAU. All participants will also take folic acid 5 mgs/day orally for 6&#160;days a week (except the day MXT is given), which is routinely given with MXT to prevent vitamin deficiencies.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Outcome measures for tolerability and acceptability</p>
+				</st>
+				<p>The definition of tolerability refers to adverse events. An adverse event is the development of an undesirable medical condition or the deterioration of a pre-existing medical condition following or during exposure to a pharmaceutical product, whether or not considered causally related to the product.</p>
+				<p>At each clinical assessment (baseline, 2, 4, 8 and 12&#160;weeks and early exit from the study) we will collect spontaneously reported adverse effects and also administer an adverse effect check list covering 8 key symptoms/signs of MXT toxicity (rash, oral ulceration, nausea and vomiting, diarrhea, new or increasing dyspnea, new or increasing dry cough, severe sore throat, abnormal bruising). If any of these eight symptoms are present MXT will be withheld until the case has been discussed with the onsite investigator. In addition, severe sore throat or abnormal bruising will lead to an urgent full blood count (FBC) being conducted, the result of which will be considered by the investigator in reaching a decision on the patient continuing in the trial. The routine blood tests at baseline, 2, 4, 6 and 12&#160;weeks will be reviewed by the site investigator within 4&#160;days of being taken and the patient withdrawn from the study if any indices give cause for concern (that is are outside pre-specified parameters).</p>
+				<p>Acceptability is defined as treatment discontinuation in terms of the number of patients who terminated the study early (drop-outs) for any reason following randomisation. We will request an exit interview with all participants who did not complete the study to explore tolerability and acceptability.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Clinical outcome measures</p>
+				</st>
+				<p indent="1">1. Negative symptom severity as defined by negative syndrome subscale score on the PANSS and/or Negative Symptom Assessment Scale;</p>
+				<p indent="1">2. Full PANSS and positive syndrome subscale score 
+					<abbrgrp>
+						<abbr bid="B19">19</abbr>
+					</abbrgrp>
+				</p>
+				<p indent="1">3. CGI</p>
+				<p indent="1">4. Functional outcome:</p>
+				<p indent="1">&#8226; GAF from DSM-IV (2000) 
+					<abbrgrp>
+						<abbr bid="B20">20</abbr>
+					</abbrgrp>
+				</p>
+				<p indent="1">&#8226; SFS self-rating in seven domains 
+					<abbrgrp>
+						<abbr bid="B21">21</abbr>
+					</abbrgrp>
+				</p>
+				<p indent="1">&#8226; QLS for treatment effects related to deficit or negative symptoms 
+					<abbrgrp>
+						<abbr bid="B22">22</abbr>
+					</abbrgrp>
+				</p>
+				<sec>
+					<st>
+						<p>Cognitive function measures</p>
+					</st>
+					<p>We will use pencil and paper tests and CogState; measuring all seven domains recommended by MATRICS (NIMH initiative). These domains include speed processing, attention/vigilance, working memory (nonverbal and verbal), verbal learning, visual learning, reasoning and problem solving and social cognitions. We will use the following tests:</p>
+					<p indent="1">1. IQ: using WAIS block design</p>
+					<p indent="1">2. Stroop Task, for divided attention and processing speed</p>
+					<p indent="1">3. Coughlan Learning Task (Verbal and Visual)</p>
+					<p indent="1">4. Verbal Fluency (words and categories)</p>
+				</sec>
+			</sec>
+			<sec>
+				<st>
+					<p>Side-effects</p>
+				</st>
+				<p>Self reported antipsychotic side-effects: Antipsychotic Non-Neurological Side-Effects Rating Scale (ANNSERS) 
+					<abbrgrp>
+						<abbr bid="B23">23</abbr>
+					</abbrgrp>.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Safety assessments</p>
+				</st>
+				<sec>
+					<st>
+						<p>Medical history</p>
+					</st>
+					<p>The primary purpose of screening is to check for inclusion and exclusion criteria. The RAs will arrange for a doctor to complete checklists for medical history, review of systems and physical exam. These assessments will be repeated after 3&#160;months in the trial or at the time of withdrawal from the study.</p>
+				</sec>
+			</sec>
+			<sec>
+				<st>
+					<p>Physical assessments</p>
+				</st>
+				<p>ECG, blood pressure, pulse, height, waist, weight and body mass index (BMI).</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Blood investigations</p>
+				</st>
+				<p>FBC, erythrocyte sedimentation rate, LFTs, lipid profile, urea, electrolytes, cytokines and C-reactive protein.</p>
+				<p>Patients will have FBC and renal and LFTs before starting treatment and repeated at 2, 4, 6 and 12&#160;weeks. Remaining investigations will be at baseline and 12&#160;weeks. Patients will be advised to report all symptoms and signs suggestive of toxicity and infection, especially sore throat. Patients will continue to have a 2-weekly FBC after 6&#160;weeks if there are abnormalities on the 6-week FBC that do not warrant withdrawal from the study. For patient safety, full blood monitoring will be repeated at 4&#160;weeks after finishing the study, at week 16.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Additional safety measures</p>
+				</st>
+				<p indent="1">1. At each clinical assessment (baseline, 2, 4, 8 and 12&#160;weeks and early exit from the study) we will collect spontaneously reported adverse effects and also administer an adverse effect check list covering 8 key symptoms/signs of MXT toxicity (rash, oral ulceration, nausea and vomiting, diarrhea, new or increasing dyspnea, new or increasing dry cough, severe sore throat, abnormal bruising). If any of these eight symptoms are present MXT will be withheld until the case has been discussed with the onsite investigator. In addition, severe sore throat or abnormal bruising will lead to an urgent FBC being conducted the result of which will be considered by the investigator in reaching a decision on the patient continuing in the trial.</p>
+				<p indent="1">2. The routine blood tests at baseline, 2, 4, 6 and 12&#160;weeks will be reviewed by the site investigator within 4&#160;days of being taken and the patient withdrawn from the study if any indices give cause for concern (that is are outside pre-specified parameters).</p>
+				<p indent="1">3. Our administration of a symptoms checklist and monitoring of FBC, LFTs and renal function is similar to monitoring advised in the UK (<url>http://cks.nice.org.uk/dmards#!scenario:8</url>).</p>
+				<p indent="1">4. Folic acid, 5&#160;mg once weekly will be given, not on the same day as MXT, preferably the day after 
+					<abbrgrp>
+						<abbr bid="B24">24</abbr>
+					</abbrgrp>. Folic acid reduces toxic effects of MXT and improves continuation of therapy and compliance 
+					<abbrgrp>
+						<abbr bid="B25">25</abbr>
+						<abbr bid="B26">26</abbr>
+					</abbrgrp>. There is also evidence that increasing folate levels improves outcomes in schizophrenia 
+					<abbrgrp>
+						<abbr bid="B27">27</abbr>
+					</abbrgrp>.</p>
+				<p indent="1">5. Given that participating psychiatrists will have little or no experience in prescribing MXT, we will ensure that there is an on-call system such that all investigators can get immediate expert advice from a physician in Pakistan who is experienced in prescribing and monitoring methotrexate.</p>
+				<p indent="1">6. MXT will be dispensed 2-weekly throughout the study to limit the supply participants have, facilitate monitoring and adherence. The label will state: &#8216;Take once a week&#8217;.</p>
+				<p indent="1">7. Participants will all have an information leaflet with safety information.</p>
+				<p indent="1">8. The patients will have access to their RA at all times, who will be able to contact the research team medical staff 24&#160;hours a day, 7&#160;days a week for support and advice.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Study procedures</p>
+				</st>
+				<sec>
+					<st>
+						<p>Recruitment</p>
+					</st>
+					<p>Responsible consultant psychiatrists will be approached and asked if they will allow their patients to take part in this research study. The research clinician, initially, will approach the clinical teams to inform them about the research study, specifically with regard to inclusion and exclusion criteria. The research clinician will establish a good working relationship with individual clinical teams. With regular contact, either by phone or by visits, patients who are suitable to take part in the research study will be identified in collaboration with the treating teams. The consultant psychiatrist will then introduce the study to the patient if they meet the inclusion criteria, are clinically stable, and the MDT agree the patient could be a possible participant. With the patient&#8217;s consent, the research clinician will visit them and explain the research study verbally as well as provide them with the written information. At least 24&#160;hours will be given to the patient to allow time to read and understand the patient information sheet. If they are willing to take part, a meeting will be organised with the patient in order to obtain consent for the research and also consent for the research team to have access to their medical notes.</p>
+				</sec>
+				<sec>
+					<st>
+						<p>Screening visit</p>
+					</st>
+					<p>At the screening visit a confirmation of a patient&#8217;s suitability for the trial will be carried out. The patient will be assessed against the inclusion/exclusion criteria, have a confirmation of their diagnosis, confirmation of consent to take part in the trial and pregnancy testing if appropriate. The RAs will arrange for a doctor to complete a checklist for medical history, physical examination and hematological investigations.</p>
+				</sec>
+				<sec>
+					<st>
+						<p>Randomisation visit</p>
+					</st>
+					<p>The baseline clinical and neuropsychological measures will be completed and the patient will be randomised to one of the two arms, allocated a unique identification number and will commence study drug treatment.</p>
+					<p>The patient will be given a study information card explaining that they are in a clinical study and are taking MXT or placebo; the telephone numbers of the senior research clinicians, the clinical trial office and the name of the local PIs will be provided.</p>
+					<p>In accordance with (International Conference for Harmonisation) Good Clinical Practice ((ICH) GCP) (1996) 
+						<abbrgrp>
+							<abbr bid="B28">28</abbr>
+						</abbrgrp>, copies of all the above will be placed in the patient&#8217;s medical notes along with contact names and telephone numbers.</p>
+				</sec>
+				<sec>
+					<st>
+						<p>Follow-up visits</p>
+					</st>
+					<p>The first follow-up visit will be after 2&#160;weeks of the randomisation to complete clinical assessments. There will be subsequent visits at week 4, 8 and 12. The study drugs will be dispensed from the local pharmacy departments. The RAs will collect and deliver these to the patient at a previously agreed upon location. This will give the opportunity for the research team to closely monitor the patient&#8217;s physical and mental health, side-effects and compliance.</p>
+					<p>Female patients of childbearing capacity taking part in the clinical trial will have a pregnancy test at baseline, 8 and 12&#160;weeks. If they should become pregnant during the course of the study, they will be withdrawn from the study.</p>
+					<p>During the course of the study the patient&#8217;s individual consultant and mental health care team will be responsible for their overall care. If any concerns do occur with regard to the research study, the research team will be contactable to discuss these concerns 24&#160;hours a day, 7&#160;days a week.</p>
+				</sec>
+				<sec>
+					<st>
+						<p>Final visit</p>
+					</st>
+					<p>At this visit all clinical, social, cognitive, physical and hematological assessments will be completed. Trial medication will cease.</p>
+					<p>At all visits the patient&#8217;s cumulative clinical drug treatment will be updated from the case notes.</p>
+				</sec>
+				<sec>
+					<st>
+						<p>Study coordination</p>
+					</st>
+					<p>Weekly meetings by local investigators will occur to coordinate the study. The chief investigator will conduct 2-weekly tele- and video-conference meeting. The access grid facility at the University of Manchester will also be available.</p>
+				</sec>
+				<sec>
+					<st>
+						<p>Patient safety</p>
+					</st>
+					<p>Day-to-day care will remain the responsibility of the consultant in charge of the patient. However, study related safety concerns will be the responsibility of the local PI. The PIs and the co-investigators will be contactable at any time via the clinical trials office or/and through the senior research clinicians.</p>
+				</sec>
+				<sec>
+					<st>
+						<p>Patient withdrawal</p>
+					</st>
+					<p>Patients may be withdrawn from the treatment study for the following reasons:</p>
+					<p indent="1">1. At their own request.</p>
+					<p indent="1">2. At the discretion of the investigator.</p>
+					<p indent="1">3. If any patients suffers a serious adverse event, or moderate to severe adverse drug reaction.</p>
+					<p indent="1">4. Any patients who meet the criteria for insufficient compliance. This is defined as either taking less than 75% of antipsychotic or trial medication between assessment points at baseline, 6&#160;weeks and 12&#160;weeks; or missing trial medications or antipsychotic medication altogether for 7&#160;days or more at any period.</p>
+					<p indent="1">5. If a patient becomes pregnant.</p>
+				</sec>
+				<sec>
+					<st>
+						<p>Ethical and regulatory standards</p>
+					</st>
+					<sec>
+						<st>
+							<p>Local Research Ethics Committee (LREC)</p>
+						</st>
+						<p>Ethical approval was obtained from the research and ethics committee of the Pakistan Institute of Learning and Living and was submitted to the funding body, Stanley Medical Research Institute.</p>
+					</sec>
+					<sec>
+						<st>
+							<p>Data and Safety Monitoring Board (DSMB)</p>
+						</st>
+						<p>The DSMB will be constituted according to NIH guidelines, for oversight and monitoring of the conduct of clinical trial. DSMB will meet every 6&#160;months to ensure the safety of participants and the validity and integrity of the data.</p>
+					</sec>
+					<sec>
+						<st>
+							<p>Declaration of Helsinki</p>
+						</st>
+						<p>The research study will be performed in accordance with the guidelines in the Declaration of Helsinki (1974) as revised in Tokyo (1975), Venice (1983), Hong Kong (1989), South Africa (1996) and Scotland (2000).</p>
+						<p>All members of the research team will comply with ICH/GCP Guidelines (1996), which are consistent with principles that have their origin in the Declaration of Helsinki.</p>
+					</sec>
+					<sec>
+						<st>
+							<p>Team expertise</p>
+						</st>
+						<p>Five of the investigators have extensive experience in treatment and management of schizophrenia (Chaudhry, Haddad, Husain, Kazmi, Rahman and Deakin). Kazmi and Rahman as local investigators will be important components of success in recruitment. All investigators have been closely involved in setting up the methodology and software for gathering clinical and research data in patients with psychosis. Chaudhry and Husain will oversee the training of RAs in recruiting patients and in diagnostic and symptom ratings. All of the investigators were involved in feasibility study for this trial. Deakin, Haddad and Chaudhry are experts in psychopharmacology. Chaudhry and Husain have been PIs in a number of multicentre trials funded by the Medical Research Council (MRC) and SMRI in schizophrenia and have much experience of large-scale treatment studies in psychosis. Chaudhry and Husain have published longitudinal studies on negative symptoms, cognition and quality of life. Husain, Chaudhry, Kazmi, Rahman and colleagues ran the SMRI trial of minocycline.</p>
+					</sec>
+				</sec>
+			</sec>
+		</sec>
+		<sec>
+			<st>
+				<p>Discussion</p>
+			</st>
+			<p>Evidence suggests inflammatory processes are involved in the pathogenesis of schizophrenia and anti-inflammatory treatments have shown to have some beneficial effects. MXT is a known immuno-suppressant and anti-inflammatory drug. The aim of the this study is to evaluate the effectiveness of MXT added to TAU on positive and negative symptoms, cognitive and social functioning and quality of life of patients suffering from schizophrenia.</p>
+		</sec>
+		<sec>
+			<st>
+				<p>Trial status</p>
+			</st>
+			<p>This clinical trial was registered in February of 2014. The study is currently recruiting participants. The estimated study completion date is December 2015. Please refer to this study by its ClinicalTrials.gov identifier: NCT02074319.</p>
+		</sec>
+		<sec>
+			<st>
+				<p>Abbreviations</p>
+			</st>
+			<p>ANCOVA: analysis of covariance; ANNSERS: Antipsychotic Non-Neurological Side-Effects Rating Scale; BDNF: brain-derived neurotrophic factor; BMI: body Mass Index; BP: blood Pressure; CGI: Clinical Global Impression; CRP: C-reactive protein; DHFR: dihydrofolate reductase; DSMB: Data and Safety Monitoring Board; DSM-IV-TR: <it>Diagnostic and Statistical Manual-IV-text revision</it>; ECG: electrocardiogram; FBC: full blood count; GAF: Global Assessment of Functioning; GCP: Good Clinical Practice; GEE: generalised estimating equations; ICD-10: <it>International Statistical Classification of Diseases and Related Health Problems</it>; ICH: International Conference for Harmonisation; IFN-gamma: interferon-gamma; IL: interleukin; IL-1RA: interleukin 1 receptor antagonist; IQ: Intelligence Quotient, ITT, intention-to-treat; LFTs: liver function tests; LREC: Local Research Ethics Committee; MATRICS: Measurement and Treatment Research to Improve Cognition in Schizophrenia; MDT: multi-disciplinary teams; MRC: Medical Research Council; MXT: methotrexate; NMDA: N-methyl-D-aspartate; NO: nitric oxide; PANSS: Positive and Negative Syndrome Scale; PET: positron emission tomography; PI: principal investigator; QLS: Quality of Life Scale; QOL: quality of life; RA: research assistants; RMO: resident medical officer; ROS: reactive oxygen species; SFS: Social Functioning Scale; SCID: Structured Clinical Interview for DSM-IV; sIL-2R: soluble IL-2 receptor; SMRI: Stanley Medical Research Institute; TAU: treatment as usual; TNF-alpha: tumour necrosis factor-alpha; TRS: Treatment Resistant Schizophrenia; UK: United Kingdom; WAIS: Wechsler Adult Intelligence Scale.</p>
+		</sec>
+		<sec>
+			<st>
+				<p>Competing interests</p>
+			</st>
+			<p>IBC, JFWD, PH and NH have given lectures and advice to Lilly, Bristol Myers Squibb, Lundbeck, Astra Zeneca and Janssen pharmaceuticals for which they or their employing institution have been reimbursed. None of the companies they have worked with have a financial interest in this research. All other authors have no reported conflicts of interest.</p>
+		</sec>
+		<sec>
+			<st>
+				<p>Authors&#8217; contributions</p>
+			</st>
+			<p>IBC has extensive experience of clinical trials and management of schizophrenia, conceived the study, participated in its design and draft the manuscript. NH has extensive experience of clinical trials and management of schizophrenia, conceived the study, participated in its design and draft the manuscript. RR contributed to design and methodology of study, supervision and training of RAs, has extensive experience of clinical trials and management of schizophrenia. MOH contributed to design and methodology and writing of manuscript. MH contributed to design and methodology of study, supervision and training of RAs, has extensive experience of clinical trials and management of schizophrenia. AK contributed to design and methodology of study, supervision and training of RAs, has extensive experience in management of schizophrenia. SB has extensive experience in use of methotrexate, helped conceive the study and is involved in setting up the drug related components of trial such as dose, potency, and adverse effect monitoring. PMH has extensive experience of clinical trials and management of schizophrenia, contributed to design and methodology of the study. MB is clinical trialist of biologic therapies and translational research of autoimmune diseases, contributed to design and was closely involved in setting up the drug related components of trial like dose, potency, and adverse effect monitoring. IQ contributed to design and methodology and writing of manuscript. NM contributed to methodology and procedure, was involved in screening, recruitment and assessment. TK contributed to methodology and procedure, was involved in screening, recruitment and assessment. BF is a biostatistician and is involved in designing trial statistical methodology. SA has extensive experience of use of methotrexate and contributed to methodology of the study. JFWD has extensive experience of clinical trials and management of schizophrenia, conceived the study, participated in its design and methodology. All authors read and approved the final manuscript.</p>
+		</sec>
+	</bdy>
+	<bm>
+		<ack>
+			<sec>
+				<st>
+					<p>Acknowledgments</p>
+				</st>
+				<p>This research was funded by the Stanley Medical Research Institute (SMRI). We would like to thank Pakistan Institute of Living and Learning for their logistical support.</p>
+			</sec>
+		</ack>
+		<refgrp><bibl id="B1"><title><p>Low-dose methotrexate: a mainstay in the treatment of rheumatoid arthritis</p></title><aug><au><snm>Cronstein</snm><fnm>BN</fnm></au></aug><source>Pharmacol Rev</source><pubdate>2005</pubdate><volume>57</volume><issue>2</issue><fpage>163</fpage><lpage>72</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1124/pr.57.2.3</pubid><pubid idtype="pmpid" link="fulltext">15914465</pubid></pubidlist></xrefbib></bibl><bibl id="B2"><title><p>Interaction of dihydrofolate reductase with methotrexate: ensemble and single-molecule kinetics</p></title><aug><au><snm>Ravi Rajagopalan</snm><fnm>PT</fnm></au><au><snm>Zhang</snm><fnm>Z</fnm></au><au><snm>McCourt</snm><fnm>L</fnm></au><au><snm>Dwyer</snm><fnm>M</fnm></au><au><snm>Benkovic</snm><fnm>SJ</fnm></au><au><snm>Hammes</snm><fnm>G</fnm></au></aug><source>Proc Natl Acad Sci</source><pubdate>2002</pubdate><volume>99</volume><issue>21</issue><fpage>13481</fpage><lpage>6</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1073/pnas.172501499</pubid><pubid idtype="pmcid">129699</pubid><pubid idtype="pmpid" link="fulltext">12359872</pubid></pubidlist></xrefbib></bibl><bibl id="B3"><title><p>The anti-inflammatory action of methotrexate is not mediated by lymphocyte apoptosis, but by the suppression of activation and adhesion molecules</p></title><aug><au><snm>Johnston</snm><fnm>A</fnm></au><au><snm>Gudjonsson</snm><fnm>JE</fnm></au><au><snm>Sigmundsdottir</snm><fnm>H</fnm></au><au><snm>Runar Ludviksson</snm><fnm>B</fnm></au><au><snm>Valdimarsson</snm><fnm>H</fnm></au></aug><source>Clin Immunol</source><pubdate>2005</pubdate><volume>114</volume><issue>2</issue><fpage>154</fpage><lpage>63</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1016/j.clim.2004.09.001</pubid><pubid idtype="pmpid" link="fulltext">15639649</pubid></pubidlist></xrefbib></bibl><bibl id="B4"><title><p>The nonspecific anti-inflammatory therapy with methotrexate for patients with chronic heart failure</p></title><aug><au><snm>Gong</snm><fnm>K</fnm></au><au><snm>Zhang</snm><fnm>Z</fnm></au><au><snm>Sun</snm><fnm>X</fnm></au><au><snm>Zhang</snm><fnm>X</fnm></au><au><snm>Li</snm><fnm>A</fnm></au><au><snm>Yan</snm><fnm>J</fnm></au><au><snm>Luo</snm><fnm>Q</fnm></au><au><snm>Gao</snm><fnm>Y</fnm></au><au><snm>Feng</snm><fnm>Y</fnm></au></aug><source>Am Heart J</source><pubdate>2006</pubdate><volume>151</volume><issue>1</issue><fpage>62</fpage><lpage>8</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1016/j.ahj.2005.02.040</pubid><pubid idtype="pmpid" link="fulltext">16368293</pubid></pubidlist></xrefbib></bibl><bibl id="B5"><title><p>Effects of methotrexate on plasma cytokines and cardiac remodeling and function in postmyocarditis rats</p></title><aug><au><snm>Zhang</snm><fnm>Z</fnm></au><au><snm>Zhao</snm><fnm>P</fnm></au><au><snm>Li</snm><fnm>A</fnm></au><au><snm>Lv</snm><fnm>X</fnm></au><au><snm>Gao</snm><fnm>Y</fnm></au><au><snm>Sun</snm><fnm>H</fnm></au><au><snm>Ding</snm><fnm>Y</fnm></au><au><snm>Liu</snm><fnm>J</fnm></au></aug><source>Mediators Inflamm</source><pubdate>2009</pubdate><volume>389720</volume></bibl><bibl id="B6"><title><p>Different distribution patterns of lymphocytes and microglia in the hippocampus of patients with residual versus paranoid schizophrenia: further evidence for disease course-related immune alterations?</p></title><aug><au><snm>Busse</snm><fnm>S</fnm></au><au><snm>Busse</snm><fnm>M</fnm></au><au><snm>Schiltz</snm><fnm>K</fnm></au><au><snm>Bielau</snm><fnm>H</fnm></au><au><snm>Gos</snm><fnm>T</fnm></au><au><snm>Brisch</snm><fnm>R</fnm></au><au><snm>Mawrin</snm><fnm>C</fnm></au><au><snm>Schmitt</snm><fnm>A</fnm></au><au><snm>Jordan</snm><fnm>W</fnm></au><au><snm>M&#252;ller</snm><fnm>UJ</fnm></au><au><snm>Bernstein</snm><fnm>HG</fnm></au><au><snm>Bogerts</snm><fnm>B</fnm></au><au><snm>Steiner</snm><fnm>J</fnm></au></aug><source>Brain Behav Immun</source><pubdate>2012</pubdate><volume>26</volume><issue>8</issue><fpage>1273</fpage><lpage>9</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1016/j.bbi.2012.08.005</pubid><pubid idtype="pmpid" link="fulltext">22917959</pubid></pubidlist></xrefbib></bibl><bibl id="B7"><title><p>Minocycline benefits negative symptoms in early schizophrenia: a randomised double-blind placebo-controlled clinical trial in patients on standard treatment</p></title><aug><au><snm>Chaudhry</snm><fnm>IB</fnm></au><au><snm>Hallak</snm><fnm>J</fnm></au><au><snm>Husain</snm><fnm>N</fnm></au><au><snm>Minhas</snm><fnm>F</fnm></au><au><snm>Stirling</snm><fnm>J</fnm></au><au><snm>Richardson</snm><fnm>P</fnm></au><au><snm>Dursun</snm><fnm>S</fnm></au><au><snm>Dunn</snm><fnm>G</fnm></au><au><snm>Deakin</snm><fnm>B</fnm></au></aug><source>J Psychopharmacol</source><pubdate>2012</pubdate><volume>26</volume><issue>9</issue><fpage>1185</fpage><lpage>93</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1177/0269881112444941</pubid><pubid idtype="pmpid" link="fulltext">22526685</pubid></pubidlist></xrefbib></bibl><bibl id="B8"><title><p>Inflammatory cytokine alterations in schizophrenia: a systematic quantitative review</p></title><aug><au><snm>Potvin</snm><fnm>S</fnm></au><au><snm>Stip</snm><fnm>E</fnm></au><au><snm>Sepehry</snm><fnm>AA</fnm></au><au><snm>Gendron</snm><fnm>A</fnm></au><au><snm>Bah</snm><fnm>R</fnm></au><au><snm>Kouassi</snm><fnm>E</fnm></au></aug><source>Biol Psychiatry</source><pubdate>2008</pubdate><volume>63</volume><issue>8</issue><fpage>801</fpage><lpage>8</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1016/j.biopsych.2007.09.024</pubid><pubid idtype="pmpid" link="fulltext">18005941</pubid></pubidlist></xrefbib></bibl><bibl id="B9"><title><p>Cytokines in schizophrenia: possible role of anti-inflammatory medications in clinical and preclinical stages</p></title><aug><au><snm>Mansur</snm><fnm>RB</fnm></au><au><snm>Zugman</snm><fnm>A</fnm></au><au><snm>Asevedo</snm><fnm>EM</fnm></au><au><snm>da Cunha</snm><fnm>GR</fnm></au><au><snm>Bressan</snm><fnm>RA</fnm></au><au><snm>Brietzke</snm><fnm>E</fnm></au></aug><source>Psychiatry Clin Neurosci</source><pubdate>2012</pubdate><volume>66</volume><issue>4</issue><fpage>247</fpage><lpage>60</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1111/j.1440-1819.2012.02354.x</pubid><pubid idtype="pmpid" link="fulltext">22624729</pubid></pubidlist></xrefbib></bibl><bibl id="B10"><title><p>Meta-analysis of cytokine alterations in schizophrenia: clinical status and antipsychotic effects</p></title><aug><au><snm>Miller</snm><fnm>BJ</fnm></au><au><snm>Buckley</snm><fnm>P</fnm></au><au><snm>Seabolt</snm><fnm>W</fnm></au><au><snm>Mellor</snm><fnm>A</fnm></au><au><snm>Kirkpatrick</snm><fnm>B</fnm></au></aug><source>Biol Psychiatry</source><pubdate>2011</pubdate><volume>70</volume><fpage>663</fpage><lpage>71</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1016/j.biopsych.2011.04.013</pubid><pubid idtype="pmcid">4071300</pubid><pubid idtype="pmpid" link="fulltext">21641581</pubid></pubidlist></xrefbib></bibl><bibl id="B11"><title><p>Interleukin-6 mediates the increase in NADPH-oxidase in the ketamine model of schizophrenia</p></title><aug><au><snm>Behrens</snm><fnm>MM</fnm></au><au><snm>Ali</snm><fnm>SS</fnm></au><au><snm>Dugan</snm><fnm>LL</fnm></au></aug><source>J Neurosci</source><pubdate>2008</pubdate><volume>28</volume><fpage>13957</fpage><lpage>66</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1523/JNEUROSCI.4457-08.2008</pubid><pubid idtype="pmcid">2752712</pubid><pubid idtype="pmpid" link="fulltext">19091984</pubid></pubidlist></xrefbib></bibl><bibl id="B12"><title><p>Tumor necrosis factor-alpha and interleukin-6 regulate secretion of brain derived neurotrophic factor in human monocytes</p></title><aug><au><snm>Schulte-Herbruggen</snm><fnm>O</fnm></au><au><snm>Nassenstein</snm><fnm>C</fnm></au><au><snm>Lommatzsch</snm><fnm>M</fnm></au><au><snm>Quarcoo</snm><fnm>D</fnm></au><au><snm>Renz</snm><fnm>H</fnm></au><au><snm>Braun</snm><fnm>A</fnm></au></aug><source>J Neuroimmunol</source><pubdate>2005</pubdate><volume>160</volume><fpage>204</fpage><lpage>9</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1016/j.jneuroim.2004.10.026</pubid><pubid idtype="pmpid" link="fulltext">15710474</pubid></pubidlist></xrefbib></bibl><bibl id="B13"><title><p>Cytokines in schizophrenia and the effects of antipsychotic drugs</p></title><aug><au><snm>Drzyzga</snm><fnm>L</fnm></au><au><snm>Obuchowicz</snm><fnm>E</fnm></au><au><snm>Marcinowska</snm><fnm>A</fnm></au><au><snm>Herman</snm><fnm>ZS</fnm></au></aug><source>Brain Behav Immun</source><pubdate>2006</pubdate><volume>20</volume><issue>6</issue><fpage>532</fpage><lpage>45</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1016/j.bbi.2006.02.002</pubid><pubid idtype="pmpid" link="fulltext">16580814</pubid></pubidlist></xrefbib></bibl><bibl id="B14"><title><p>Glial cells in schizophrenia: pathophysiological significance and possible consequences for therapy</p></title><aug><au><snm>Bernstein</snm><fnm>HG</fnm></au><au><snm>Steiner</snm><fnm>J</fnm></au><au><snm>Bogerts</snm><fnm>B</fnm></au></aug><source>Expert Rev Neurother</source><pubdate>2009</pubdate><volume>9</volume><fpage>1059</fpage><lpage>71</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1586/ern.09.59</pubid><pubid idtype="pmpid" link="fulltext">19589054</pubid></pubidlist></xrefbib></bibl><bibl id="B15"><title><p>Cytokines and schizophrenia: microglia hypothesis of schizophrenia</p></title><aug><au><snm>Monji</snm><fnm>A</fnm></au><au><snm>Kato</snm><fnm>T</fnm></au><au><snm>Kanba</snm><fnm>S</fnm></au></aug><source>Psychiatry Clin Neurosci</source><pubdate>2009</pubdate><volume>63</volume><fpage>257</fpage><lpage>65</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1111/j.1440-1819.2009.01945.x</pubid><pubid idtype="pmpid">19579286</pubid></pubidlist></xrefbib></bibl><bibl id="B16"><title><p>Kynurenines: from the perspective of major psychiatric disorders</p></title><aug><au><snm>Myint</snm><fnm>AM</fnm></au></aug><source>FEBS J</source><pubdate>2012</pubdate><volume>2009</volume><issue>279</issue><fpage>1375</fpage><lpage>85</lpage></bibl><bibl id="B17"><title><p>Neuroinflammation in schizophrenia-related psychosis: a PET study</p></title><aug><au><snm>Doorduin</snm><fnm>J</fnm></au><au><snm>de Vries</snm><fnm>EF</fnm></au><au><snm>Willemsen</snm><fnm>AT</fnm></au><au><snm>de Groot</snm><fnm>JC</fnm></au><au><snm>Dierckx</snm><fnm>RA</fnm></au><au><snm>Klein</snm><fnm>HC</fnm></au></aug><source>J Nucl Med</source><pubdate>2009</pubdate><volume>50</volume><fpage>1801</fpage><lpage>7</lpage><xrefbib><pubidlist><pubid idtype="doi">10.2967/jnumed.109.066647</pubid><pubid idtype="pmpid" link="fulltext">19837763</pubid></pubidlist></xrefbib></bibl><bibl id="B18"><title><p>Microglia activation in recent-onset schizophrenia: a quantitative (R)-[11C]PK11195 positron emission tomography study</p></title><aug><au><snm>van Berckel</snm><fnm>BN</fnm></au><au><snm>Bossong</snm><fnm>MG</fnm></au><au><snm>Boellaard</snm><fnm>R</fnm></au><au><snm>Kloet</snm><fnm>R</fnm></au><au><snm>Schuitemaker</snm><fnm>A</fnm></au><au><snm>Caspers</snm><fnm>E</fnm></au><au><snm>Luurtsema</snm><fnm>G</fnm></au><au><snm>Windhorst</snm><fnm>AD</fnm></au><au><snm>Cahn</snm><fnm>W</fnm></au><au><snm>Lammertsma</snm><fnm>AA</fnm></au><au><snm>Kahn</snm><fnm>RS</fnm></au></aug><source>Biol Psychiatry</source><pubdate>2008</pubdate><volume>64</volume><fpage>820</fpage><lpage>2</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1016/j.biopsych.2008.04.025</pubid><pubid idtype="pmpid" link="fulltext">18534557</pubid></pubidlist></xrefbib></bibl><bibl id="B19"><title><p>The positive and negative syndrome scale (PANSS) for schizophrenia</p></title><aug><au><snm>Kay</snm><fnm>SR</fnm></au><au><snm>Fiszbein</snm><fnm>A</fnm></au><au><snm>Opler</snm><fnm>LA</fnm></au></aug><source>Schizophr Bull</source><pubdate>1987</pubdate><volume>13</volume><fpage>261</fpage><lpage>76</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1093/schbul/13.2.261</pubid><pubid idtype="pmpid" link="fulltext">3616518</pubid></pubidlist></xrefbib></bibl><bibl id="B20"><aug><au><cnm>American Psychiatric Association</cnm></au></aug><source>Diagnostic and statistical manual of mental disorders</source><publisher>Washington, DC: American Psychiatric Association</publisher><edition>4</edition><pubdate>2000</pubdate></bibl><bibl id="B21"><title><p>The development and validation of a new scale of social adjustment for use in family intervention programmes with schizophrenic patients</p></title><aug><au><snm>Birchwood</snm><fnm>M</fnm></au><au><cnm>The Social Functioning Scale</cnm></au></aug><source>Br J Psychiatry</source><pubdate>1990</pubdate><volume>157</volume><fpage>853</fpage><lpage>9</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1192/bjp.157.6.853</pubid><pubid idtype="pmpid">2289094</pubid></pubidlist></xrefbib></bibl><bibl id="B22"><title><p>The quality of life scale: an instrument for rating the schizophrenic deficit syndrome</p></title><aug><au><snm>Heinrichs</snm><fnm>DW</fnm></au><au><snm>Hanlon</snm><fnm>TE</fnm></au><au><snm>Carpenter</snm><fnm>WT</fnm></au></aug><source>Schizophr Bull</source><pubdate>1984</pubdate><volume>10</volume><fpage>388</fpage><lpage>98</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1093/schbul/10.3.388</pubid><pubid idtype="pmpid" link="fulltext">6474101</pubid></pubidlist></xrefbib></bibl><bibl id="B23"><title><p>Inter-rater reliability of the antipsychotic non-neurological side-effects rating scale (ANNSERS)</p></title><aug><au><snm>Yusufi</snm><fnm>BZ</fnm></au><au><snm>Mukherjee</snm><fnm>S</fnm></au><au><snm>Aitchison</snm><fnm>K</fnm></au><au><snm>Dunn</snm><fnm>G</fnm></au><au><snm>Page</snm><fnm>E</fnm></au><au><snm>Barnes</snm><fnm>TR</fnm></au></aug><source>Abstracts of the XX International Congress on Schizophrenia Research, April 2 &#8211; April 6, 2005, Volume 31</source><publisher>Savannah, Georgia: Schizophr Bull</publisher><pubdate>2005</pubdate><fpage>574</fpage></bibl><bibl id="B24"><title><p>Folate supplementation and methotrexate treatment in rheumatoid arthritis: a review</p></title><aug><au><snm>Whittle</snm><fnm>SL</fnm></au><au><snm>Hughes</snm><fnm>RA</fnm></au></aug><source>Rheumatology</source><pubdate>2004</pubdate><volume>43</volume><fpage>267</fpage><lpage>71</lpage><xrefbib><pubid idtype="pmpid" link="fulltext">14963199</pubid></xrefbib></bibl><bibl id="B25"><title><p>The efficacy of folic acid and folinic acid in reducing methotrexate gastrointestinal toxicity in rheumatoid arthritis: a meta-analysis of randomised controlled trials</p></title><aug><au><snm>Ortiz</snm><fnm>Z</fnm></au><au><snm>Shea</snm><fnm>B</fnm></au><au><snm>Suarez-Almazor</snm><fnm>ME</fnm></au><au><snm>Moher</snm><fnm>D</fnm></au><au><snm>Wells</snm><fnm>GA</fnm></au><au><snm>Tugwell</snm><fnm>P</fnm></au></aug><source>J Rheumatol</source><pubdate>1998</pubdate><volume>25</volume><fpage>36</fpage><lpage>43</lpage><xrefbib><pubid idtype="pmpid">9458200</pubid></xrefbib></bibl><bibl id="B26"><title><p>Supplementation with folic acid during methotrexate therapy for rheumatoid arthritis: a double-blind placebo-controlled trial</p></title><aug><au><snm>Morgan</snm><fnm>SL</fnm></au><au><snm>Baggott</snm><fnm>JE</fnm></au><au><snm>Vaughn</snm><fnm>WH</fnm></au><au><snm>Austin</snm><fnm>JS</fnm></au><au><snm>Veitch</snm><fnm>TA</fnm></au><au><snm>Lee</snm><fnm>JY</fnm></au><au><snm>Koopman</snm><fnm>WJ</fnm></au><au><snm>Krumdieck</snm><fnm>CL</fnm></au><au><snm>Alarc&#243;n</snm><fnm>GS</fnm></au></aug><source>Ann Intern Med</source><pubdate>1994</pubdate><volume>121</volume><fpage>833</fpage><lpage>41</lpage><xrefbib><pubidlist><pubid idtype="doi">10.7326/0003-4819-121-11-199412010-00002</pubid><pubid idtype="pmpid" link="fulltext">7978695</pubid></pubidlist></xrefbib></bibl><bibl id="B27"><title><p>Enhancement of recovery from psychiatric illness by methylfolate</p></title><aug><au><snm>Procter</snm><fnm>A</fnm></au></aug><source>Br J Psychiatry</source><pubdate>1991</pubdate><volume>159</volume><fpage>271</fpage><lpage>2</lpage><xrefbib><pubidlist><pubid idtype="doi">10.1192/bjp.159.2.271</pubid><pubid idtype="pmpid">1773245</pubid></pubidlist></xrefbib></bibl><bibl id="B28"><title><p>Harmonised Tripartite Guideline for Good Clinical Practice 1996</p></title><publisher>Geneva: International Federation of the Pharmaceutical Manufacturers Association</publisher><pubdate>1996</pubdate></bibl></refgrp>
+	</bm>
+</art>

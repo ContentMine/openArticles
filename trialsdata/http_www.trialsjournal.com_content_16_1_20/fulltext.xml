@@ -1,0 +1,1303 @@
+<?xml version='1.0'?>
+<!DOCTYPE art SYSTEM 'http://www.biomedcentral.com/xml/article.dtd'>
+<art>
+    <ui>s13063-014-0532-x</ui>
+    <ji>1745-6215</ji>
+    <fm>
+       <dochead>Study protocol</dochead>
+       <bibl>
+          <title>
+             <p>The effects of stimulation of the autonomic nervous system via perioperative nutrition on postoperative ileus and anastomotic leakage following colorectal surgery (SANICS II trial): a study protocol for a double-blind randomized controlled trial</p>
+          </title>
+          <aug>
+             <au id="A1">
+                <snm>Peters</snm>
+                <mi>G</mi>
+                <fnm>Emmeline</fnm>
+                <insr iid="I1"/>
+                <insr iid="I2"/>
+                <email>emmeline.peters@cze.nl</email>
+             </au>
+             <au id="A2">
+                <snm>Smeets</snm>
+                <mnm>JJ</mnm>
+                <fnm>Boudewijn</fnm>
+                <insr iid="I1"/>
+                <email>boudewijn.smeets@cze.nl</email>
+             </au>
+             <au id="A3">
+                <snm>Dekkers</snm>
+                <fnm>Marloes</fnm>
+                <insr iid="I1"/>
+                <email>dekkers_marloes@hotmail.com</email>
+             </au>
+             <au id="A4">
+                <snm>Buise</snm>
+                <mi>D</mi>
+                <fnm>Marc</fnm>
+                <insr iid="I3"/>
+                <email>marc.buise@cze.nl</email>
+             </au>
+             <au id="A5">
+                <snm>de Jonge</snm>
+                <mi>J</mi>
+                <fnm>Wouter</fnm>
+                <insr iid="I2"/>
+                <email>w.j.dejonge@amc.nl</email>
+             </au>
+             <au id="A6">
+                <snm>Slooter</snm>
+                <mi>D</mi>
+                <fnm>Gerrit</fnm>
+                <insr iid="I4"/>
+                <email>g.slooter@mmc.nl</email>
+             </au>
+             <au id="A7">
+                <snm>Reilingh</snm>
+                <mi>S de Vries</mi>
+                <fnm>Tammo</fnm>
+                <insr iid="I5"/>
+                <email>tdevriesreilingh@elkerliek.nl</email>
+             </au>
+             <au id="A8">
+                <snm>Wegdam</snm>
+                <mi>A</mi>
+                <fnm>Johannes</fnm>
+                <insr iid="I5"/>
+                <email>jwegdam@elkerliek.nl</email>
+             </au>
+             <au id="A9">
+                <snm>Nieuwenhuijzen</snm>
+                <mnm>AP</mnm>
+                <fnm>Grard</fnm>
+                <insr iid="I1"/>
+                <email>grard.nieuwenhuijzen@cze.nl</email>
+             </au>
+             <au id="A10">
+                <snm>Rutten</snm>
+                <mnm>JT</mnm>
+                <fnm>Harm</fnm>
+                <insr iid="I1"/>
+                <email>harm.rutten@cze.nl</email>
+             </au>
+             <au id="A11">
+                <snm>de Hingh</snm>
+                <mnm>HJT</mnm>
+                <fnm>Ignace</fnm>
+                <insr iid="I1"/>
+                <email>ignace.d.Hingh@cze.nl</email>
+             </au>
+             <au id="A12">
+                <snm>Hiligsmann</snm>
+                <fnm>Mickael</fnm>
+                <insr iid="I6"/>
+                <email>m.hiligsmann@maastrichtuniversity.nl</email>
+             </au>
+             <au id="A13">
+                <snm>Buurman</snm>
+                <mi>A</mi>
+                <fnm>Wim</fnm>
+                <insr iid="I7"/>
+                <email>w.buurman@maastrichtuniversity.nl</email>
+             </au>
+             <au id="A14" ca="yes">
+                <snm>Luyer</snm>
+                <mnm>DP</mnm>
+                <fnm>Misha</fnm>
+                <insr iid="I1"/>
+                <email>misha.luyer@cze.nl</email>
+             </au>
+          </aug>
+          <insg>
+             <ins id="I1">
+                <p>Department of Surgery, Catharina Hospital, Michelangelolaan 2, Eindhoven, 5623 EJ, The Netherlands</p>
+             </ins>
+             <ins id="I2">
+                <p>Academic Medical Center, Tytgat Institute for Intestinal and Liver Research, Department of Gastroenterology, Meibergdreef 69-71, Amsterdam, 1105 BK, The Netherlands</p>
+             </ins>
+             <ins id="I3">
+                <p>Department of Anesthesiology, Catharina Hospital, Michelangelolaan 2, Eindhoven, 5623 EJ, The Netherlands</p>
+             </ins>
+             <ins id="I4">
+                <p>Department of Surgery, Maxima Medical Center, De Run 4600, Veldhoven, 5504 DB, The Netherlands</p>
+             </ins>
+             <ins id="I5">
+                <p>Department of Surgery, Elkerliek Hospital, Wesselmanlaan 25, Helmond, 5707 HA, The Netherlands</p>
+             </ins>
+             <ins id="I6">
+                <p>Department of Health Services Research, Maastricht University, Duboisdomein 30, Maastricht, 6229 GT, The Netherlands</p>
+             </ins>
+             <ins id="I7">
+                <p>Institute MHeNS, Maastricht University, Maastricht, 6200 MD, The Netherlands</p>
+             </ins>
+          </insg>
+          <source>Trials</source>
+          <issn>1745-6215</issn>
+          <pubdate>2015</pubdate>
+          <volume>16</volume>
+          <issue>1</issue>
+          <fpage>20</fpage>
+          <url>http://www.trialsjournal.com/content/16/1/20</url>
+          <xrefbib>
+             <pubidlist>
+                <pubid idtype="doi">10.1186/s13063-014-0532-x</pubid>
+             </pubidlist>
+          </xrefbib>
+       </bibl>
+       <history>
+          <rec>
+             <date>
+                <day>13</day>
+                <month>10</month>
+                <year>2014</year>
+             </date>
+          </rec>
+          <acc>
+             <date>
+                <day>19</day>
+                <month>12</month>
+                <year>2014</year>
+             </date>
+          </acc>
+          <pub>
+             <date>
+                <day>27</day>
+                <month>1</month>
+                <year>2015</year>
+             </date>
+          </pub>
+       </history>
+       <cpyrt>
+          <year>2015</year>
+          <collab>Peters et al.; licensee BioMed Central.</collab>
+          <note>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/4.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (<url>http://creativecommons.org/publicdomain/zero/1.0/</url>) applies to the data made available in this article, unless otherwise stated.</note>
+       </cpyrt>
+       <kwdg>
+          <kwd>Perioperative nutrition</kwd>
+          <kwd>Colorectal surgery</kwd>
+          <kwd>Postoperative ileus</kwd>
+          <kwd>Anastomotic leakage</kwd>
+          <kwd>Autonomic nervous system</kwd>
+          <kwd>Inflammation</kwd>
+       </kwdg>
+       <abs>
+          <sec>
+             <st>
+                <p>Abstract</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Background</p>
+                </st>
+                <p>Postoperative ileus and anastomotic leakage are important complications following colorectal surgery associated with short-term morbidity and mortality. Previous experimental and preclinical studies have shown that a short intervention with enriched enteral nutrition dampens inflammation via stimulation of the autonomic nervous system and thereby reduces postoperative ileus. Furthermore, early administration of enteral nutrition reduced anastomotic leakage. This study will investigate the effect of nutritional stimulation of the autonomic nervous system just before, during and early after colorectal surgery on inflammation, postoperative ileus and anastomotic leakage.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Methods/Design</p>
+                </st>
+                <p>This multicenter, prospective, double-blind, randomized controlled trial will include 280 patients undergoing colorectal surgery. All patients will receive a selfmigrating nasojejunal tube that will be connected to a specially designed blinded tubing system. Patients will be allocated either to the intervention group, receiving perioperative nutrition, or to the control group, receiving no nutrition. The primary endpoint is postoperative ileus. Secondary endpoints include anastomotic leakage, local and systemic inflammation, (aspiration) pneumonia, surgical complications classified according to Clavien-Dindo, quality of life, gut barrier integrity and time until functional recovery. Furthermore, a cost-effectiveness analysis will be performed.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Discussion</p>
+                </st>
+                <p>Activation of the autonomic nervous system via perioperative enteral feeding is expected to dampen the local and systemic inflammatory response. Consequently, postoperative ileus will be reduced as well as anastomotic leakage. The present study is the first to investigate the effects of enriched nutrition given shortly before, during and after surgery in a clinical setting.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Trial registration</p>
+                </st>
+                <p>ClinicalTrials.gov: <url>NCT02175979</url> - date of registration: 25 June 2014.</p>
+                <p>Dutch Trial Registry: <url>NTR4670</url> - date of registration: 1 August 2014.</p>
+             </sec>
+          </sec>
+       </abs>
+    </fm>
+    <bdy>
+       <sec>
+          <st>
+             <p>Background</p>
+          </st>
+          <p>Postoperative ileus (POI) is considered to be an inevitable consequence of colorectal surgery by many clinicians and is associated with an increased morbidity and prolonged hospital stay. Therapeutic strategies to cure this condition of decreased gastrointestinal motility in our current health system are lacking and at this moment only supportive care is given to optimize the patient&#8217;s condition. Although perioperative care is improved by several measures, such as encouraging early mobilization, minimally invasive surgery and standard anesthetic protocols as part of the Enhanced Recovery After Surgery (ERAS) guidelines, POI cannot be completely avoided and the incidence remains substantial <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp>. POI is caused by a local and systemic inflammatory response associated with bowel manipulation <abbrgrp>
+                <abbr bid="B3">3</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B4">4</abbr>
+             </abbrgrp>. In experimental studies, it is shown that nutritional stimulation of the autonomic nervous system reduces the inflammatory response and POI via a specific mechanism <abbrgrp>
+                <abbr bid="B5">5</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B7">7</abbr>
+             </abbrgrp>. Ingestion of dietary lipids, proteins and peptides triggers release of cholecystokinin (CCK) via chylomicron formation <abbrgrp>
+                <abbr bid="B8">8</abbr>
+             </abbrgrp>. CCK binds to CCK-1 receptors located on vagal afferents, thereby rapidly activating the autonomic nervous system and subsequently activating efferent vagal nerve fibers leading to the release of acetylcholine. Acetylcholine then binds to alpha-7-nicotinic receptors, located on inflammatory cells such as mast cells, triggering an intracellular pathway that results in a decreased release of inflammatory mediators <abbrgrp>
+                <abbr bid="B9">9</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B11">11</abbr>
+             </abbrgrp>. Via this mechanism, POI can be inhibited <abbrgrp>
+                <abbr bid="B9">9</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B10">10</abbr>
+             </abbrgrp>.</p>
+          <p>Also, in previous preclinical and clinical studies, our group has shown that enteral nutrition and sham-feeding via chewing gum are very effective means in the reduction of POI and inflammation. When enteral nutrition was started very early after colorectal surgery, POI was reduced from 35% to 16%. In a second study, using chewing gum as a means to stimulate the autonomic nervous system, a reduction of POI was seen from 48% in the control group to 27% in the intervention group <abbrgrp>
+                <abbr bid="B12">12</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B13">13</abbr>
+             </abbrgrp>. These studies also revealed an as yet unaccountable effect on anastomotic leakage (AL), resulting in an average reduction of 73%. AL is a dreaded complication following colorectal surgery, which is associated with significant morbidity and even mortality. It is a risk factor for local recurrence of colorectal cancer and has a significant impact on overall survival and quality of life <abbrgrp>
+                <abbr bid="B14">14</abbr>
+             </abbrgrp>.</p>
+          <p>Composition of the enteral nutrition and timing of administration are essential for the magnitude of this response. Administration of an enriched enteral formula that optimally stimulates release of CCK via chylomicrons just before, during and directly after the inciting event for inflammation is pivotal <abbrgrp>
+                <abbr bid="B9">9</abbr>
+             </abbrgrp>. The current study will investigate whether enriched enteral nutrition given shortly before, during and early after colorectal surgery reduces POI and AL via stimulation of the autonomic nervous system in a clinical setting. Given limited healthcare resources and the increasing importance of economic evaluation, we also plan to estimate the cost-effectiveness of this intervention in the current medical healthcare system.</p>
+          <sec>
+             <st>
+                <p>Study objectives</p>
+             </st>
+             <p>The objective is to investigate whether enriched enteral nutrition given shortly before, during and early after colorectal surgery, reduces POI and AL via stimulation of the autonomic nervous system in a clinical setting, compared with standard care. The primary outcome will be POI. Secondary outcomes will include effects of perioperative nutrition compared with standard of care on AL, aspiration pneumonia, gastric volumes preoperatively, time until functional recovery, inflammatory markers, intestinal barrier integrity, surgical complications according to Clavien-Dindo and health-related quality of life. Furthermore, a cost-effectiveness analysis and a cost-utility analysis will be performed.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Methods/Design</p>
+          </st>
+          <p>This is a multicenter, prospective, double-blind, randomized controlled superiority trial with two parallel groups. A written informed consent needs to be obtained from every patient. The trial will be conducted according to the rules of Good Clinical Practice, and a Data Safety Monitoring Board (DSMB) is installed to monitor (serious) adverse events. Ethical approval for this study was granted by the Medical Ethics Committee Catharina Hospital (Eindhoven, The Netherlands) under reference number NL45640.060.13.</p>
+          <sec>
+             <st>
+                <p>Study population</p>
+             </st>
+             <p>Patients aged &gt;18 undergoing elective segmental colorectal resection with an anastomosis are eligible for inclusion. A total of 280 patients will be included. Exclusion criteria are previous gastric or esophageal resection, peritoneal carcinomatosis, pre-existent or creation of an ileostomy, steroid use and use of medication that disrupts the acetylcholine metabolism, such as selective serotonin reuptake inhibitors and anticonvulsants. Both the investigator and the responsible surgeon will verify eligibility. If the indication for operation is established, the patient will receive written and oral information about the trial during a scheduled outpatient appointment. Patients will be offered sufficient time to enquire about details of the trial and to decide whether or not they wish to participate. Patients will have to sign the informed consent form in the physical presence of the surgeon or investigator. A participant flow diagram is shown in Figure&#160;<figr fid="F1">1</figr>.
+                  </p>
+             
+                <fig id="F1">
+                   <title>
+                      <p>Figure 1</p>
+                   </title>
+                   <caption>
+                      <p>Flow diagram for participants who will be included in the study. </p>
+                   </caption>
+                   <text>
+                      <p>
+                            <b>Flow diagram for participants who will be included in the study.</b> *Blinded groups and blinded outcome. NJ tube = nasojejunal tube.</p>
+                   </text>
+                   <graphic file="s13063-014-0532-x-1"/>
+                </fig>
+             
+          </sec>
+          <sec>
+             <st>
+                <p>Participating centers</p>
+             </st>
+             <p>Patients eligible for this study will be initially included in the Catharina Hospital, Eindhoven, The Netherlands. After inclusion of 40 patients, a safety analysis will be performed to assess feasibility and safety of perioperative nutrition. After this first safety analysis, this study will be conducted in a multicenter setting. Also, when 140 patients are included, an interim-analysis will be performed. The estimated duration of the recruitment period is 2&#160;years.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Randomization</p>
+             </st>
+             <p>Patients will be randomized as block randomization with a 1:1 allocation by means of randomization software (TENALEA Clinical Trial Data Management System, Amsterdam, The Netherlands). A selfmigrating nasojejunal tube (Bengmark, Nutricia Flocare, Zoetermeer, The Netherlands) will be inserted in all included patients. To minimize aspiration, the nasojejunal tube needs to be positioned postpylorically, which will be confirmed by an abdominal X-ray. The patient will be randomized after confirmation of a correct position of the nasojejunal tube. Blinded stratification will be applied to ensure an equal distribution between colonic or rectal surgery and between a laparoscopic or an open procedure.</p>
+             <p>After randomization, enriched enteral nutrition (Nutricia Research, Utrecht, The Netherlands) will be started via an electronic feeding pump (Infinity, Nutricia Flocare, Zoetermeer, The Netherlands) in all patients. The nutrition and the pump will be connected to a specially designed opaque tubing system (ECMbv, Gemert, The Netherlands) that is similar to what is used in daily practice. However, the tubing has a bifurcation with two branches; one branch leads to the nasojejunal feeding tube in the patient and one branch leads to a sealed container (attached to the bed in all patients). For patients who will be allocated to the intervention group, the tubing system is open towards the patient and occluded towards the container. For patients in the control group, the tubing system is occluded towards the patient and open towards the container. In this way, the patients in the intervention group will receive enriched enteral nutrition, while the patients in the control group will not. The tubing will be labeled with a randomization number provided by TENALEA. Independent research nurses will provide the labeling of the tubing and store the allocation list.</p>
+             <p>The tubing system can easily be connected to all materials, including the standard enteral feeding system, the nasojejunal feeding tube, and the container. The containers will be sealed and weighted to prevent differentiation between the groups by examining the containers. Neither the patient, nor the nursing staff or the researchers will be able to see which branch of the tubing system is occluded.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Study outline</p>
+             </st>
+             <p>The day before surgery, all patients will receive a selfmigrating nasojejunal feeding tube at the ward. The position of the nasojejunal tube will be verified by means of abdominal X-ray. Preoperatively, all patients will be fasted for oral solid foods for a period of 6&#160;hours, and oral liquids for a period of 2&#160;hours. Three hours before surgery, the pump with enriched tube feeding will be started at a continuous rate of 1.5&#160;ml/minute in all patients. Subsequently, 6&#160;hours after surgery, the feeding pump will be stopped and the nasojejunal tube will be removed. Depending on the randomization outcome, the nutrition will be administered either to the patient, or into the sealed container. This setup allows a double-blind comparison between the control group and the intervention group, receiving enriched enteral nutrition. The fixed timeframe and the administration of feeding by electronic pump will support adherence to the study protocol. Anesthetic regimens will be standardized and registered per patient, as will the standardized postoperative care. Participants should continue to take medication for other conditions as usual.</p>
+             <p>Both the rate of infusion and the composition of the nutrition have been described in previous studies <abbrgrp>
+                   <abbr bid="B9">9</abbr>
+                </abbrgrp>. Furthermore, the nutrition has been tested in healthy volunteers and is well tolerated <abbrgrp>
+                   <abbr bid="B9">9</abbr>
+                </abbrgrp>. The enriched nutrition contains 44 energy percent (en%) fat, 25 en% protein, and 31 en% carbohydrates. The protein fraction consists of intact casein, whey protein, and soy protein hydrolysate. The lipid fraction contains less than 5 weight percent omega-3 fatty acids.</p>
+             <p>Perioperative nutrition is a new concept with a potential risk of aspiration pneumonia. In this trial, nutrition will be administered postpylorically, thereby reducing gastric volumes. To minimize risk of aspiration pneumonia the stomach will be emptied by means of a gastric tube before surgery. Gastric volumes will be measured in every patient when the stomach is emptied before surgery in the operating room. By giving the nutrition postpylorically, in a low volume and assuring an empty stomach before intubation, the risk of complications will be minimized.</p>
+             <p>A Data Safety Monitoring Board (DSMB) has been installed to evaluate all complications and monitor patient safety. If a serious event regarding safety of preoperative feeding (for example, aspiration pneumonia) occurs, the DSMB will be informed, who will then discuss the consequences and report their advice to the investigator and Medical Ethics Committee.</p>
+             <p>POI is defined in accordance with a standardized definition, and will be measured clinically. POI is established if both of the following criteria are met: lack of passage of flatus or stool, and inability to tolerate an oral diet in the interval between surgery and postoperative day 4 <abbrgrp>
+                   <abbr bid="B15">15</abbr>
+                </abbrgrp>.</p>
+             <p>Prolonged POI is established if 2 or more of the following criteria are met on or after postoperative day 4 without prior resolution of POI: nausea or vomiting, inability to tolerate an oral diet over the last 24&#160;hours, absence of flatus over the last 24&#160;hours, abdominal distension, and/or radiologic confirmation.</p>
+             <p>In addition, gastric motility will be measured by means of ultrasound of the gastric antrum before and after a standardized meal on the second postoperative day. Previous studies have shown that ultrasonic gastric antrum measurements are representative for determining gastric emptying and gastric motility by determining the change in the gastric antral cross sectional area of the stomach before a standardized meal, and 15 and 90&#160;minutes postprandially <abbrgrp>
+                   <abbr bid="B16">16</abbr>
+                </abbrgrp>.</p>
+             <p>AL is defined as clinical and radiological signs of anastomotic leakage, if confirmed by re-operation or if an enterocutaneous fistula occurs. Blood plasma, peritoneal lavage fluid and tissue samples will be collected at predefined time-points before, during and after surgery. All samples will be stored at &#8722;80&#176;C until further analysis. These samples will be analyzed for markers of the inflammatory response and gut barrier integrity using immunohistochemistry, Western blot, ELISA and/or PCR.</p>
+             <p>Patient characteristics, nutritional status and clinical parameters will be registered prospectively. Surgical complications will be classified using the Clavien-Dindo classification <abbrgrp>
+                   <abbr bid="B17">17</abbr>
+                </abbrgrp>. Quality of life will be measured preoperatively and postoperatively at 3 and 6&#160;months after surgery via checklists (EORTC QLQ C-30 in cancer patients and EuroQol-5D-5L (EQ-5D-5L)).</p>
+             <p>The total follow-up for this study is 6&#160;months. All data will be registered on a paper case report form and in an electronic database. The principal investigator and the local investigators will have access to the dataset.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Statistical analysis</p>
+             </st>
+             <p>The sample size is calculated with a power analysis and is aimed at POI and AL, based on previous studies of our group <abbrgrp>
+                   <abbr bid="B12">12</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B13">13</abbr>
+                </abbrgrp>. For POI, these previous data show a mean incidence of 40% and a reduction of almost 50% by nutrition or sham-feeding. Based on a power of 0.8 and an alpha of 0.05, a total of 91 patients are needed per group. For AL, our previous data show a mean incidence of 13% and a reduction to 3.5% by nutrition or sham-feeding. Using a power of 0.8 and a drop-out percentage of 5%, a total of 140 patients are needed per group. In this way both the primary endpoint and the most important secondary endpoint AL will be adequately powered and a multicomparison correction will not be applied in the final analysis.</p>
+             <p>All analyses will be done according to the intention-to-treat approach, which includes all randomized patients, regardless of adherence to study protocol. Occurrences of the primary and secondary endpoints will be compared between the intervention group and the control group. Results will be presented as risk ratios with corresponding 95% confidence intervals. A 2-tailed <it>P</it>-value&#8201;&lt;&#8201;0.05 is considered statistically significant. To compare the groups, the data will be tested for normal distribution, and an unpaired <it>t</it>-test will be performed if appropriate, otherwise the Mann-Whitney <it>U</it>-test, Chi-square test or Fisher's exact test will be used.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Economic evaluation design</p>
+             </st>
+             <p>A cost-effectiveness analysis and a cost-utility analysis will be performed to assess the economic value of perioperative nutrition compared with usual care. The incremental cost-effectiveness ratio (ICER) will be expressed as the incremental costs per point change in POI and AL, and the incremental cost-utility ratio (ICUR) will be expressed as the incremental costs per quality-adjusted life years (QALYs) gained. Quality of life will be measured using the EORTC QLQ C-30 and EQ-5D-5L questionnaires.</p>
+             <p>A societal perspective will be used for cost evaluation. We will consider cost factors in three categories: healthcare sector costs (direct costs such as personnel, operation, or diagnostics), patient and family costs (out-of-pocket expenses, travel expenses), and costs in other sectors (mainly cost due to absenteeism in paid work and production losses in the domestic sphere). Healthcare costs, costs to patients and family, and costs occurring in other sectors will be measured at the individual (participant) level using data from registration systems of the hospitals and patient questionnaires (including adapted version of the iMTA Medical Consumption Questionnaire (iMCQ) and the iMTA Productivity Cost Questionnaire (iPCQ)). Finally, monetary values will be assigned to the relevant cost factors. The identified health services consumed by study participants will be multiplied with their corresponding unit prices. Total costs will be determined by summing up the costs of individual services. The updated Dutch manual for costing in economic evaluations in healthcare will be used in the valuation step of healthcare costs and patient cost. Costs will be indexed for the year 2014.</p>
+             <p>ICER (and ICUR) will be estimated as the difference in costs between perioperative nutrition and standard care divided by their differences in outcomes. To quantify the uncertainty around the ICER, non-parametric bootstrapping will be conducted in Excel (Microsoft, Redmond, WA, USA) (1,000 simulations). The results of the bootstrapping will be plotted in the cost-effectiveness plane, where the horizontal axis reflects differences in effects and the vertical axis differences in costs, and will be represented as a cost-effective acceptability curve showing the probability that perioperative nutrition is cost-effective for a range of willingness-to-pay values. Additional sensitivity analyses will be done to test the robustness of the results.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Discussion</p>
+          </st>
+          <p>Despite advances that are being made in surgical technique and improvement in postoperative care, POI and AL remain very important clinical determinants of short-term morbidity and mortality following colorectal surgery. In previous studies it was shown that 35 to 45% and 7 to 13% of patients experience POI and AL after elective colorectal surgery, respectively <abbrgrp>
+                <abbr bid="B12">12</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B13">13</abbr>
+             </abbrgrp>. Both POI and AL have proven to be significant predictors of increased hospital length of stay and hospital costs <abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B18">18</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B19">19</abbr>
+             </abbrgrp>. Furthermore, AL is a risk factor for local recurrence of colorectal cancer and has a significant impact on disease-free and overall survival <abbrgrp>
+                <abbr bid="B14">14</abbr>
+             </abbrgrp>. It is, therefore, believed that improving postoperative outcome following colorectal surgery will also improve long-term oncological outcomes regarding overall survival and tumor recurrence <abbrgrp>
+                <abbr bid="B20">20</abbr>
+             </abbrgrp>.</p>
+          <p>Although the mechanism underlying POI has been studied extensively in animal experiments, targeted therapeutic strategies are currently lacking in a clinical setting and only supportive measures are taken to optimize the patient&#8217;s recovery <abbrgrp>
+                <abbr bid="B21">21</abbr>
+             </abbrgrp>. For POI it is believed that formation of an inflammatory infiltrate in the muscular layers of the intestine following bowel manipulation during surgery leads to a decreased gastrointestinal motility <abbrgrp>
+                <abbr bid="B4">4</abbr>
+             </abbrgrp>. In previous experimental and clinical studies our group has shown that a short intervention with enriched enteral nutrition given just before and directly after the inciting event, dampens the inflammatory response and reduces POI by stimulation of the autonomic nervous system through release of CCK. Evidence on the relation between POI and AL is scarce, but has a great impact. Early inhibition of the inflammatory response may play a role, since release of proinflammatory cytokines such as TNF-&#945; modulates intestinal epithelial function and is an inhibitory factor in the wound healing process of intestinal anastomoses <abbrgrp>
+                <abbr bid="B22">22</abbr>
+             </abbrgrp>.</p>
+          <p>Nutrition is usually given to provide nutrients, or to administer specific nutrients with a potential therapeutic effect (for example, probiotics, omega-3 fatty acids) <abbrgrp>
+                <abbr bid="B23">23</abbr>
+             </abbrgrp>. However, in this study enteral nutrition is used to directly alter the immune response following colorectal surgery via a newly discovered neuro-immunological feedback mechanism. This is a new concept and changes the way of thinking about the usage of enteral nutrition in a clinical setting.</p>
+          <p>To optimally stimulate the release of CCK and thereby activating the autonomic nervous system, a specific nutritional formula will be used that is enriched in lipids and proteins. Furthermore, this nutrition is administered during surgery, which has been found to be most effective in experimental studies. We are not aware of previous, current or proposed studies with similar innovative approaches. To ensure patient safety this study is conducted according to the rules of Good Clinical Practice and a Data Safety Monitoring Board is installed.</p>
+          <p>Improvement of postoperative care and reduction of POI and AL is a complex challenge that requires a multidisciplinary approach. This clinical study will be performed based on the hypothesis that early modulation of the immune response by enriched enteral nutrition will reduce POI and also affect AL. A reduction of postoperative morbidity by this nutritional intervention may contribute to an enhanced efficiency, resulting in measurable improvements of productivity, cost and quality.</p>
+          <p>In conclusion, this study will investigate whether nutrition can be used to reduce POI and AL following colorectal surgery. Nutrition will be administered as a means to stimulate the autonomic nervous system and to modulate the immune response directly. Furthermore, the timing is essential for the magnitude of effect. Reduction of POI and AL following colorectal surgery would not only optimize surgical care for this large patient group and thereby reduce healthcare costs, but may also open new therapeutic opportunities and changes the way of thinking about the usage of enteral nutrition in a clinical setting.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Trial status</p>
+          </st>
+          <p>Open for inclusion since August 2014.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Abbreviations</p>
+          </st>
+          <p>AL: anastomotic leakage</p>
+          <p>CCK: cholecystokinin</p>
+          <p>DSMB: Data Safety Monitoring Board</p>
+          <p>ELISA: enzyme-linked immunosorbent assay</p>
+          <p>en%: energy percent</p>
+          <p>ERAS: Enhanced Recovery After Surgery</p>
+          <p>EQ-5D-5L: EuroQol-5D-5L</p>
+          <p>ICER: incremental cost-effectiveness ratio</p>
+          <p>ICUR: incremental cost-utility ratio</p>
+          <p>PCR: polymerase chain reaction</p>
+          <p>POI: postoperative ileus</p>
+          <p>QALYs: quality-adjusted life years</p>
+          <p>TNF-&#945;: tumor necrosis factor alpha</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Competing interests</p>
+          </st>
+          <p>The authors declare that they have no competing interests.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Authors&#8217; contributions</p>
+          </st>
+          <p>ML conceived the study. EP, BS, MD, MH and ML drafted the manuscript. EP, WdJ, MH, WB and ML designed the study. EP, BS, MD, MB, GS, TdV, JW, GN, HR, IdH and ML are local investigators at the participating centers. The study is supervised and coordinated by WdJ, WB and ML. All authors read, edited and approved the final manuscript.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Authors&#8217; information</p>
+          </st>
+          <p>EP is a PhD candidate in surgery and gastroenterology in the Catharina Hospital, Eindhoven and the Academic Medical Center, Amsterdam.</p>
+          <p>BS is a senior medical student in surgery.</p>
+          <p>MD is a senior medical student in surgery.</p>
+          <p>MB is an anesthesiologist in the Catharina Hospital, Eindhoven.</p>
+          <p>WdJ is professor in experimental neurogastroenterology at the Tytgat Institute for Intestinal and Liver Research, at the Academic Medical Center, Amsterdam.</p>
+          <p>GS is a surgeon in the Maxima Medical Center, Veldhoven.</p>
+          <p>TdV is a surgeon in the Elkerliek Hospital, Helmond.</p>
+          <p>JW is a surgeon in the Elkerliek Hospital, Helmond.</p>
+          <p>GN is a surgeon in the Catharina Hospital, Eindhoven.</p>
+          <p>HR is a surgeon and professor in oncological surgery in the Catharina Hospital, Eindhoven.</p>
+          <p>IdH is a surgeon in the Catharina Hospital, Eindhoven.</p>
+          <p>MH is an assistant professor in Health Economics and Health Technology Assessment at the Maastricht University.</p>
+          <p>WB is an emeritus professor of metabolism and immunity at the Maastricht University Medical Center.</p>
+          <p>ML is a surgeon in the Catharina Hospital, Eindhoven.</p>
+       </sec>
+    </bdy>
+    <bm>
+       <ack>
+          <sec>
+             <st>
+                <p>Acknowledgements</p>
+             </st>
+             <p>This is an investigator initiated study.</p>
+             <sec>
+                <st>
+                   <p>Funding</p>
+                </st>
+                <p>The nutrition used in this study is manufactured and funded by Danone/Nutricia research (The Netherlands). ZonMw, Danone/Nutricia Research and the NutsOhra Fund together are funding the local organization costs and materials used in the study. The specific fund recipient is the Catharina Hospital, Eindhoven.</p>
+                <p>The funding sources had no role in the design of this study and will not have any role during its execution, analyses, interpretation of the data, or decision to submit results.</p>
+             </sec>
+          </sec>
+       </ack>
+       <refgrp>
+          
+          <bibl id="B1">
+             <title>
+                <p>Fast track surgery versus conventional recovery strategies for colorectal surgery</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Spanjersberg</snm>
+                   <fnm>WR</fnm>
+                </au>
+                <au>
+                   <snm>Reurings</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Keus</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>van Laarhoven</snm>
+                   <fnm>CJ</fnm>
+                </au>
+             </aug>
+             <source>Cochrane Database Syst Rev.</source>
+             <pubdate>2011</pubdate>
+             <volume>2</volume>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">21328298</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B2">
+             <title>
+                <p>Enhanced recovery after surgery programs versus traditional care for colorectal surgery: a meta-analysis of randomized controlled trials</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Zhuang</snm>
+                   <fnm>CL</fnm>
+                </au>
+                <au>
+                   <snm>Ye</snm>
+                   <fnm>XZ</fnm>
+                </au>
+                <au>
+                   <snm>Zhang</snm>
+                   <fnm>XD</fnm>
+                </au>
+                <au>
+                   <snm>Chen</snm>
+                   <fnm>BC</fnm>
+                </au>
+                <au>
+                   <snm>Yu</snm>
+                   <fnm>Z</fnm>
+                </au>
+             </aug>
+             <source>Dis Colon Rectum</source>
+             <pubdate>2013</pubdate>
+             <volume>56</volume>
+             <issue>5</issue>
+             <fpage>667</fpage>
+             <lpage>78</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/DCR.0b013e3182812842</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23575408</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B3">
+             <title>
+                <p>Surgical manipulation of the gut elicits an intestinal muscularis inflammatory response resulting in postsurgical ileus</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kalff</snm>
+                   <fnm>JC</fnm>
+                </au>
+                <au>
+                   <snm>Schraut</snm>
+                   <fnm>WH</fnm>
+                </au>
+                <au>
+                   <snm>Simmons</snm>
+                   <fnm>RL</fnm>
+                </au>
+                <au>
+                   <snm>Bauer</snm>
+                   <fnm>AJ</fnm>
+                </au>
+             </aug>
+             <source>Ann Surg</source>
+             <pubdate>1998</pubdate>
+             <volume>228</volume>
+             <issue>5</issue>
+             <fpage>652</fpage>
+             <lpage>63</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/00000658-199811000-00004</pubid>
+                   <pubid idtype="pmpid" link="fulltext">9833803</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B4">
+             <title>
+                <p>Neuroimmune mechanisms in postoperative ileus</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Boeckxstaens</snm>
+                   <fnm>GE</fnm>
+                </au>
+                <au>
+                   <snm>de Jonge</snm>
+                   <fnm>WJ</fnm>
+                </au>
+             </aug>
+             <source>Gut</source>
+             <pubdate>2009</pubdate>
+             <volume>58</volume>
+             <issue>9</issue>
+             <fpage>1300</fpage>
+             <lpage>11</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/gut.2008.169250</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19671558</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B5">
+             <title>
+                <p>Pretreatment with high-fat enteral nutrition reduces endotoxin and tumor necrosis factor-alpha and preserves gut barrier function early after hemorrhagic shock</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Luyer</snm>
+                   <fnm>MD</fnm>
+                </au>
+                <au>
+                   <snm>Buurman</snm>
+                   <fnm>WA</fnm>
+                </au>
+                <au>
+                   <snm>Hadfoune</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Jacobs</snm>
+                   <fnm>JA</fnm>
+                </au>
+                <au>
+                   <snm>Konstantinov</snm>
+                   <fnm>SR</fnm>
+                </au>
+                <au>
+                   <snm>Dejong</snm>
+                   <fnm>CH</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Shock</source>
+             <pubdate>2004</pubdate>
+             <volume>21</volume>
+             <issue>1</issue>
+             <fpage>65</fpage>
+             <lpage>71</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/01.shk.0000101671.49265.cf</pubid>
+                   <pubid idtype="pmpid" link="fulltext">14676686</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B6">
+             <title>
+                <p>High-fat enteral nutrition reduces endotoxin, tumor necrosis factor-alpha and gut permeability in bile duct-ligated rats subjected to hemorrhagic shock</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Luyer</snm>
+                   <fnm>MD</fnm>
+                </au>
+                <au>
+                   <snm>Buurman</snm>
+                   <fnm>WA</fnm>
+                </au>
+                <au>
+                   <snm>Hadfoune</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Jacobs</snm>
+                   <fnm>JA</fnm>
+                </au>
+                <au>
+                   <snm>Dejong</snm>
+                   <fnm>CH</fnm>
+                </au>
+                <au>
+                   <snm>Greve</snm>
+                   <fnm>JW</fnm>
+                </au>
+             </aug>
+             <source>J Hepatol</source>
+             <pubdate>2004</pubdate>
+             <volume>41</volume>
+             <issue>3</issue>
+             <fpage>377</fpage>
+             <lpage>83</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1016/j.jhep.2004.04.026</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15336439</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B7">
+             <title>
+                <p>Cholecystokinin/Cholecystokinin-1 receptor-mediated peripheral activation of the afferent vagus by enteral nutrients attenuates inflammation in rats</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Lubbers</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>de Haan</snm>
+                   <fnm>JJ</fnm>
+                </au>
+                <au>
+                   <snm>Luyer</snm>
+                   <fnm>MD</fnm>
+                </au>
+                <au>
+                   <snm>Verbaeys</snm>
+                   <fnm>I</fnm>
+                </au>
+                <au>
+                   <snm>Hadfoune</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Dejong</snm>
+                   <fnm>CH</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Ann Surg</source>
+             <pubdate>2010</pubdate>
+             <volume>252</volume>
+             <issue>2</issue>
+             <fpage>376</fpage>
+             <lpage>82</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/SLA.0b013e3181dae411</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20585240</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B8">
+             <title>
+                <p>Nutritional stimulation of cholecystokinin receptors inhibits inflammation via the vagus nerve</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Luyer</snm>
+                   <fnm>MD</fnm>
+                </au>
+                <au>
+                   <snm>Greve</snm>
+                   <fnm>JW</fnm>
+                </au>
+                <au>
+                   <snm>Hadfoune</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Jacobs</snm>
+                   <fnm>JA</fnm>
+                </au>
+                <au>
+                   <snm>Dejong</snm>
+                   <fnm>CH</fnm>
+                </au>
+                <au>
+                   <snm>Buurman</snm>
+                   <fnm>WA</fnm>
+                </au>
+             </aug>
+             <source>J Exp Med</source>
+             <pubdate>2005</pubdate>
+             <volume>202</volume>
+             <issue>8</issue>
+             <fpage>1023</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1084/jem.20042397</pubid>
+                   <pubid idtype="pmpid" link="fulltext">16216887</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B9">
+             <title>
+                <p>Continuous administration of enteral lipid- and protein-rich nutrition limits inflammation in a human endotoxemia model</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Lubbers</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Kox</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>de Haan</snm>
+                   <fnm>JJ</fnm>
+                </au>
+                <au>
+                   <snm>Greve</snm>
+                   <fnm>JW</fnm>
+                </au>
+                <au>
+                   <snm>Pompe</snm>
+                   <fnm>JC</fnm>
+                </au>
+                <au>
+                   <snm>Ramakers</snm>
+                   <fnm>BP</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Crit Care Med</source>
+             <pubdate>2013</pubdate>
+             <volume>41</volume>
+             <issue>5</issue>
+             <fpage>1258</fpage>
+             <lpage>65</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/CCM.0b013e31827c0a17</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23388517</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B10">
+             <title>
+                <p>Stimulation of the vagus nerve attenuates macrophage activation by activating the Jak2-STAT3 signaling pathway</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>de Jonge</snm>
+                   <fnm>WJ</fnm>
+                </au>
+                <au>
+                   <snm>van der Zanden</snm>
+                   <fnm>EP</fnm>
+                </au>
+                <au>
+                   <snm>The</snm>
+                   <fnm>FO</fnm>
+                </au>
+                <au>
+                   <snm>Bijlsma</snm>
+                   <fnm>MF</fnm>
+                </au>
+                <au>
+                   <snm>van Westerloo</snm>
+                   <fnm>DJ</fnm>
+                </au>
+                <au>
+                   <snm>Bennink</snm>
+                   <fnm>RJ</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Nat Immunol</source>
+             <pubdate>2005</pubdate>
+             <volume>6</volume>
+             <issue>8</issue>
+             <fpage>844</fpage>
+             <lpage>51</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1038/ni1229</pubid>
+                   <pubid idtype="pmpid" link="fulltext">16025117</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B11">
+             <title>
+                <p>Nicotinic acetylcholine receptor alpha7 subunit is an essential regulator of inflammation</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Wang</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Yu</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Ochani</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Amella</snm>
+                   <fnm>CA</fnm>
+                </au>
+                <au>
+                   <snm>Tanovic</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Susarla</snm>
+                   <fnm>S</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Nature</source>
+             <pubdate>2003</pubdate>
+             <volume>421</volume>
+             <issue>6921</issue>
+             <fpage>384</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1038/nature01339</pubid>
+                   <pubid idtype="pmpid" link="fulltext">12508119</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B12">
+             <title>
+                <p>Reduction of postoperative ileus by early enteral nutrition in patients undergoing major rectal surgery: prospective, randomized, controlled trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Boelens</snm>
+                   <fnm>PG</fnm>
+                </au>
+                <au>
+                   <snm>Heesakkers</snm>
+                   <fnm>FF</fnm>
+                </au>
+                <au>
+                   <snm>Luyer</snm>
+                   <fnm>MD</fnm>
+                </au>
+                <au>
+                   <snm>van Barneveld</snm>
+                   <fnm>KW</fnm>
+                </au>
+                <au>
+                   <snm>de Hingh</snm>
+                   <fnm>IH</fnm>
+                </au>
+                <au>
+                   <snm>Nieuwenhuijzen</snm>
+                   <fnm>GA</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Ann Surg</source>
+             <pubdate>2014</pubdate>
+             <volume>259</volume>
+             <issue>4</issue>
+             <fpage>649</fpage>
+             <lpage>55</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/SLA.0000000000000288</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24169163</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B13">
+             <note>van den Heijkant TC, Costes LMM, van der Lee DGC, Aerts B, Osinga-de Jong M, Rutten HJT, et al. Randomized clinical trial on the effect of gum chewing on postoperative ileus and inflammation in colorectal surgery. Br J Surg<it>.</it> 2014. doi: 10.1002/bjs.9691.</note>
+          </bibl>
+          <bibl id="B14">
+             <title>
+                <p>Increased local recurrence and reduced survival from colorectal cancer following anastomotic leak: systematic review and meta-analysis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Mirnezami</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Mirnezami</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Chandrakumaran</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Sasapu</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Sagar</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Finan</snm>
+                   <fnm>P</fnm>
+                </au>
+             </aug>
+             <source>Ann Surg</source>
+             <pubdate>2011</pubdate>
+             <volume>253</volume>
+             <issue>5</issue>
+             <fpage>890</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/SLA.0b013e3182128929</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21394013</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B15">
+             <title>
+                <p>Defining postoperative ileus: results of a systematic review and global survey</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Vather</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Trivedi</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Bissett</snm>
+                   <fnm>I</fnm>
+                </au>
+             </aug>
+             <source>J Gastrointest Surg</source>
+             <pubdate>2013</pubdate>
+             <volume>17</volume>
+             <issue>5</issue>
+             <fpage>962</fpage>
+             <lpage>72</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1007/s11605-013-2148-y</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23377782</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B16">
+             <title>
+                <p>Correlation between simultaneous scintigraphic and ultrasonographic measurement of gastric emptying in patients with type 1 diabetes mellitus</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Darwiche</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Bjorgell</snm>
+                   <fnm>O</fnm>
+                </au>
+                <au>
+                   <snm>Thorsson</snm>
+                   <fnm>O</fnm>
+                </au>
+                <au>
+                   <snm>Almer</snm>
+                   <fnm>LO</fnm>
+                </au>
+             </aug>
+             <source>J Ultrasound Med</source>
+             <pubdate>2003</pubdate>
+             <volume>22</volume>
+             <issue>5</issue>
+             <fpage>459</fpage>
+             <lpage>66</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">12751857</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B17">
+             <title>
+                <p>Classification of surgical complications: a new proposal with evaluation in a cohort of 6336 patients and results of a survey</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Dindo</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Demartines</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Clavien</snm>
+                   <fnm>PA</fnm>
+                </au>
+             </aug>
+             <source>Ann Surg</source>
+             <pubdate>2004</pubdate>
+             <volume>240</volume>
+             <issue>2</issue>
+             <fpage>205</fpage>
+             <lpage>13</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1097/01.sla.0000133083.54934.ae</pubid>
+                   <pubid idtype="pmpid" link="fulltext">15273542</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B18">
+             <title>
+                <p>The economic impact of anastomotic leakage after anterior resections in English NHS hospitals: are we adequately remunerating them?</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Ashraf</snm>
+                   <fnm>SQ</fnm>
+                </au>
+                <au>
+                   <snm>Burns</snm>
+                   <fnm>EM</fnm>
+                </au>
+                <au>
+                   <snm>Jani</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Altman</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Young</snm>
+                   <fnm>JD</fnm>
+                </au>
+                <au>
+                   <snm>Cunningham</snm>
+                   <fnm>C</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Colorectal Dis</source>
+             <pubdate>2013</pubdate>
+             <volume>15</volume>
+             <issue>4</issue>
+             <fpage>e190</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1111/codi.12125</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23331871</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B19">
+             <title>
+                <p>Economic burden of postoperative ileus associated with colectomy in the United States</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Iyer</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Saunders</snm>
+                   <fnm>WB</fnm>
+                </au>
+                <au>
+                   <snm>Stemkowski</snm>
+                   <fnm>S</fnm>
+                </au>
+             </aug>
+             <source>J Manag Care Pharm</source>
+             <pubdate>2009</pubdate>
+             <volume>15</volume>
+             <issue>6</issue>
+             <fpage>485</fpage>
+             <lpage>94</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">19610681</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B20">
+             <title>
+                <p>Risk factors for excess mortality in the first year after curative surgery for colorectal cancer</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Gooiker</snm>
+                   <fnm>GA</fnm>
+                </au>
+                <au>
+                   <snm>Dekker</snm>
+                   <fnm>JW</fnm>
+                </au>
+                <au>
+                   <snm>Bastiaannet</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>van der Geest</snm>
+                   <fnm>LG</fnm>
+                </au>
+                <au>
+                   <snm>Merkus</snm>
+                   <fnm>JW</fnm>
+                </au>
+                <au>
+                   <snm>van de Velde</snm>
+                   <fnm>CJ</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Ann Surg Oncol</source>
+             <pubdate>2012</pubdate>
+             <volume>19</volume>
+             <issue>8</issue>
+             <fpage>2428</fpage>
+             <lpage>34</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1245/s10434-012-2294-6</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22396000</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B21">
+             <title>
+                <p>A comprehensive review of evidence-based strategies to prevent and treat postoperative ileus</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Story</snm>
+                   <fnm>SK</fnm>
+                </au>
+                <au>
+                   <snm>Chamberlain</snm>
+                   <fnm>RS</fnm>
+                </au>
+             </aug>
+             <source>Dig Surg</source>
+             <pubdate>2009</pubdate>
+             <volume>26</volume>
+             <issue>4</issue>
+             <fpage>265</fpage>
+             <lpage>75</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1159/000227765</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19590205</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B22">
+             <title>
+                <p>Local expression of tumor necrosis factor-alpha and interleukin-10 on wound healing of intestinal anastomosis during endotoxemia in mice</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Ishimura</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Moroguchi</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Okano</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Maeba</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Maeta</snm>
+                   <fnm>H</fnm>
+                </au>
+             </aug>
+             <source>J Surg Res</source>
+             <pubdate>2002</pubdate>
+             <volume>108</volume>
+             <issue>1</issue>
+             <fpage>91</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1006/jsre.2002.6526</pubid>
+                   <pubid idtype="pmpid" link="fulltext">12443720</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B23">
+             <title>
+                <p>Immunonutrition in gastrointestinal surgery</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Cerantola</snm>
+                   <fnm>Y</fnm>
+                </au>
+                <au>
+                   <snm>Hubner</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Grass</snm>
+                   <fnm>F</fnm>
+                </au>
+                <au>
+                   <snm>Demartines</snm>
+                   <fnm>N</fnm>
+                </au>
+                <au>
+                   <snm>Schafer</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>Br J Surg</source>
+             <pubdate>2011</pubdate>
+             <volume>98</volume>
+             <issue>1</issue>
+             <fpage>37</fpage>
+             <lpage>48</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1002/bjs.7273</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20931620</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+       </refgrp>
+    </bm>
+ </art>

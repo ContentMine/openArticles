@@ -1,0 +1,1130 @@
+<?xml version='1.0'?>
+<!DOCTYPE art SYSTEM 'http://www.biomedcentral.com/xml/article.dtd'>
+<art>
+    <ui>s13063-015-0556-x</ui>
+    <ji>1745-6215</ji>
+    <fm>
+       <dochead>Study protocol</dochead>
+       <bibl>
+          <title>
+             <p>Immediate access arteriovenous grafts versus tunnelled central venous catheters: study protocol for a randomised controlled trial</p>
+          </title>
+          <aug>
+             <au id="A1" ca="yes">
+                <snm>Aitken</snm>
+                <fnm>Emma</fnm>
+                <insr iid="I1"/>
+                <insr iid="I2"/>
+                <email>e.aitken.1@research.gla.ac.uk</email>
+             </au>
+             <au id="A2">
+                <snm>Geddes</snm>
+                <fnm>Colin</fnm>
+                <insr iid="I3"/>
+                <email>colin.geddes@ggc.scot.nhs.uk</email>
+             </au>
+             <au id="A3">
+                <snm>Thomson</snm>
+                <fnm>Pete</fnm>
+                <insr iid="I3"/>
+                <email>peter.thomson@ggc.scot.nhs.uk</email>
+             </au>
+             <au id="A4">
+                <snm>Kasthuri</snm>
+                <fnm>Ram</fnm>
+                <insr iid="I4"/>
+                <email>ram.kasthuri@nhs.net</email>
+             </au>
+             <au id="A5">
+                <snm>Chandramohan</snm>
+                <fnm>Mohan</fnm>
+                <insr iid="I4"/>
+                <email>s.chandramohan@nhs.net</email>
+             </au>
+             <au id="A6">
+                <snm>Berry</snm>
+                <fnm>Colin</fnm>
+                <insr iid="I5"/>
+                <email>colin.berry@glasgow.ac.uk</email>
+             </au>
+             <au id="A7">
+                <snm>Kingsmore</snm>
+                <fnm>David</fnm>
+                <insr iid="I1"/>
+                <email>david.kingsmore@ggc.scot.nhs.uk</email>
+             </au>
+          </aug>
+          <insg>
+             <ins id="I1">
+                <p>Department of Renal Surgery, Western Infirmary, Dumbarton Road, Glasgow G11 6NT, UK</p>
+             </ins>
+             <ins id="I2">
+                <p>School of Medical, Veterinary and Life Science, University of Glasgow, University Avenue, Glasgow G12 8TA, UK</p>
+             </ins>
+             <ins id="I3">
+                <p>Department of Nephrology, Western Infirmary, Dumbarton Road, Glasgow G11 6NT, UK</p>
+             </ins>
+             <ins id="I4">
+                <p>Department of Radiology, Western Infirmary, Dumbarton Road, Glasgow G11 6NT, UK</p>
+             </ins>
+             <ins id="I5">
+                <p>British Heart Foundation Cardiovascular Research Centre, Institute of Cardiovascular and Medical Sciences, University of Glasgow, University Avenue, Glasgow G12 8TA, UK</p>
+             </ins>
+          </insg>
+          <source>Trials</source>
+          <issn>1745-6215</issn>
+          <pubdate>2015</pubdate>
+          <volume>16</volume>
+          <issue>1</issue>
+          <fpage>42</fpage>
+          <url>http://www.trialsjournal.com/content/16/1/42</url>
+          <xrefbib>
+             <pubidlist>
+                <pubid idtype="doi">10.1186/s13063-015-0556-x</pubid>
+             </pubidlist>
+          </xrefbib>
+       </bibl>
+       <history>
+          <rec>
+             <date>
+                <day>1</day>
+                <month>6</month>
+                <year>2014</year>
+             </date>
+          </rec>
+          <acc>
+             <date>
+                <day>7</day>
+                <month>1</month>
+                <year>2015</year>
+             </date>
+          </acc>
+          <pub>
+             <date>
+                <day>8</day>
+                <month>2</month>
+                <year>2015</year>
+             </date>
+          </pub>
+       </history>
+       <cpyrt>
+          <year>2015</year>
+          <collab>Aitken et al.; licensee BioMed Central.</collab>
+          <note>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/4.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (<url>http://creativecommons.org/publicdomain/zero/1.0/</url>) applies to the data made available in this article, unless otherwise stated.</note>
+       </cpyrt>
+       <kwdg>
+          <kwd>Tunnelled central venous catheter</kwd>
+          <kwd>Arteriovenous graft</kwd>
+          <kwd>Vascular access</kwd>
+          <kwd>End-stage renal disease</kwd>
+       </kwdg>
+       <abs>
+          <sec>
+             <st>
+                <p>Abstract</p>
+             </st>
+             <sec>
+                <st>
+                   <p>Background</p>
+                </st>
+                <p>Autologous arteriovenous fistulae (AVF) are the optimal form of vascular access for haemodialysis. AVFs typically require 6 to 8&#160;weeks to &#8220;mature&#8221; from the time of surgery before they can be cannulated. Patients with end-stage renal disease needing urgent vascular access therefore traditionally require insertion of a tunnelled central venous catheter (TCVC). TCVCs are associated with high infection rates and central venous stenosis.</p>
+                <p>Early cannulation synthetic arteriovenous grafts (ecAVG) provide a novel alternative to TCVCs, permitting rapid access to the bloodstream and immediate needling for haemodialysis. Published rates of infection in small series are low.</p>
+                <p>The aim of this study is to compare whether TCVC&#8201;&#177;&#8201;AVF or ecAVG&#8201;&#177;&#8201;AVF provide a better strategy for managing patients requiring immediate vascular access for haemodialysis.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Methods/design</p>
+                </st>
+                <p>This is a prospective randomised controlled trial comparing the strategy of TCVC&#8201;&#177;&#8201;AVF to ecAVG&#8201;&#177;&#8201;AVF. Patients requiring urgent vascular access will receive a study information sheet and written consent will be obtained. Patients will be randomised to receive either: (i) TCVC (and native AVF if this is anatomically possible) or (ii) ecAVG (&#177; AVF).</p>
+                <p>118 patients will be recruited. The primary outcome is systemic bacteraemia at 6&#160;months. Secondary outcomes include culture-proven bacteraemia rates at 1&#160;year and 2&#160;years; primary and secondary patency rates at 3, 6, 12 and 24&#160;months; stenoses; re-intervention rates; re-admission rate; mortality and quality of life. Additionally, treatment delays, impact on service provision and cost-effectiveness will be evaluated.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Discussion</p>
+                </st>
+                <p>This is the first randomised controlled trial comparing TCVC to ecAVG for patients requiring urgent vascular access for haemodialysis. The complications of TCVC are considered an unfortunate necessity in patients requiring urgent haemodialysis who do not have autologous vascular access. If this study demonstrates that ecAVGs provide a safe and practical alternative to TCVC, this could instigate a paradigm shift in nephrology thinking and access planning.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Trial registration</p>
+                </st>
+                <p>This study has been approved by the West of Scotland Research Ethics Committee 4 (reference no. 13/WS/0087, 28 August 2013) and is registered with the International Standard Randomised Controlled Trial Number Register (reference no. <url>ISRCTN80588541</url>, 27 May 2014).</p>
+             </sec>
+          </sec>
+       </abs>
+    </fm>
+    <bdy>
+       <sec>
+          <st>
+             <p>Background</p>
+          </st>
+          <p>Vascular access dysfunction is the leading cause of morbidity amongst patients with end-stage renal disease (ESRD) and is a key performance indicator for haemodialysis service provision <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>. Complications of vascular access are responsible for over 20% of all hospitalisations in patients on haemodialysis and account for one-third of all inpatient renal bed use <abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp>.</p>
+          <p>Autologous arteriovenous fistulae (AVFs) are the vascular access modality of choice <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B3">3</abbr>
+             </abbrgrp> with fewer infective and thrombotic complications than the alternatives <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B4">4</abbr>
+             </abbrgrp>: tunnelled central venous catheters (TCVCs) and prosthetic arteriovenous grafts (AVGs). The major limitations to native AVF usage are a 6 to 8&#160;week &#8220;maturation&#8221; lag from creation to first cannulation and 30 to 50% early failure rate <abbrgrp>
+                <abbr bid="B5">5</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B6">6</abbr>
+             </abbrgrp>. Unfortunately, due to a combination of late referral, primary access failure and acute presentation of renal failure, 40 to 50% of incident patients do not have a functioning AVF when they commence dialysis <abbrgrp>
+                <abbr bid="B3">3</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B7">7</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B8">8</abbr>
+             </abbrgrp>. Given the unpredictable progression of decline in renal function to ESRD <abbrgrp>
+                <abbr bid="B9">9</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B10">10</abbr>
+             </abbrgrp> and the fact that 30 to 35% of patients needing to start haemodialysis are &#8220;crashlanders&#8221; (known to the renal services for &lt;90&#160;days) <abbrgrp>
+                <abbr bid="B3">3</abbr>
+             </abbrgrp>, whilst desirable, it is not always practicably possible to achieve autologous vascular access for all patients prior to commencing haemodialysis. Current practice necessitates TCVC for these patients until definitive vascular access can be secured. Patients who began haemodialysis via a TCVC are more likely to remain with TCVC <abbrgrp>
+                <abbr bid="B11">11</abbr>
+             </abbrgrp>; therefore, optimizing incident vascular access is vitally important.</p>
+          <p>TCVCs are associated with a significantly higher risk of infection, mortality, mechanical complications and other chronic problems such as immunosuppression, malnutrition and central venous stenosis than other forms of vascular access <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>,<abbrgrp>
+                <abbr bid="B12">12</abbr>
+             </abbrgrp>. A recent Scottish study of 2,666 patients revealed a two- to threefold increased risk in mortality (all-cause mortality, cardiovascular or infection-related mortality) and a sevenfold increase in death from septicaemia with the use of TCVCs <abbrgrp>
+                <abbr bid="B12">12</abbr>
+             </abbrgrp>. For these reasons, TCVC are considered an option of last resort.</p>
+          <p>AVGs provide an intermediate option between AVF and TCVCs, permitting earlier cannulation than AVF but lower bacteraemia rates than TCVC (0.6 per 1,000 dialysis days) <abbrgrp>
+                <abbr bid="B13">13</abbr>
+             </abbrgrp>. The longevity and patency of AVGs are variable and almost certainly poorer than native AVF with 1-year primary patency rates ranging from 40 to 60% <abbrgrp>
+                <abbr bid="B14">14</abbr>
+             </abbrgrp>. However, with aggressive re-intervention for the management of thrombosis, secondary patency rates of as high as 90% at 1&#160;year can be achieved <abbrgrp>
+                <abbr bid="B15">15</abbr>
+             </abbrgrp>.</p>
+          <p>Traditional AVGs still require a delay of approximately 2&#160;weeks from implantation to initial cannulation, compelling TCVC insertion as a stop-gap measure in the majority of cases. However, early cannulation arteriovenous grafts (ecAVGs), which permit immediate needling, may provide a novel alternative permitting TCVC avoidance in many cases <abbrgrp>
+                <abbr bid="B16">16</abbr>
+             </abbrgrp>. The GORE<b>&#174;</b> Acuseal&#8482; (W.L.Gore Associates Ltd., Flagstaff, Arizona) vascular access graft is one such ecAVG. It is a tri-layer graft with unique sealing properties to permit safe cannulation within 24&#160;hours of insertion. The tri-layer construction comprises an inner layer of heparinised expanded polytetrafluoroethylene, an outer layer of standard expanded polytetrafluoroethylene graft, and a central elastomeric layer <abbrgrp>
+                <abbr bid="B17">17</abbr>
+             </abbrgrp>. This central layer gives the graft its unique &#8220;low bleed&#8221; properties and permits early cannulation, reducing the time to achieve haemostasis significantly compared to standard expanded polytetrafluoroethylene.</p>
+          <p>These unique properties of Acuseal&#8482; and other ecAVGs make them an attractive alternative to TCVCs in patients requiring urgent vascular access for haemodialysis with theoretical benefits of reduced infection and avoidance of long-term TCVC complications such as central venous stenosis. In small series, the Acuseal&#8482; graft has been shown to be beneficial in patients requiring urgent access for haemodialysis as a &#8220;bridge&#8221; to AVF maturation or transplantation, as well as in patients with pre-existing occlusion of their central veins <abbrgrp>
+                <abbr bid="B18">18</abbr>
+             </abbrgrp>. A recent observational study conducted in our unit has indicated that ecAVG provide a practical, feasible and acceptable alternative to TCVCs in patients requiring urgent vascular access for haemodialysis <abbrgrp>
+                <abbr bid="B19">19</abbr>
+             </abbrgrp>. Furthermore, cost-analysis has shown that the additional initial outlay costs of consumables can be offset against reduced septic complications, hospital admissions and bed days, with potential cost savings of nearly &#163;1,000 at 6&#160;months with ecAVG compared to TCVCs <abbrgrp>
+                <abbr bid="B20">20</abbr>
+             </abbrgrp>.</p>
+          <p>We now intend to test this hypothesis in a randomised controlled trial comparing TCVCs (&#177; AVF) to ecAVG (&#177;AVF).</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Methods/design</p>
+          </st>
+          <sec>
+             <st>
+                <p>Overview</p>
+             </st>
+             <p>This is a single centre randomised controlled trial. This study has been approved by the West of Scotland Research Ethics Committee 4 (reference no. 13/WS/0087) and is registered with the International Standard Randomised Controlled Trial Number Register (<url>ISRCTN80588541</url>). This study will be performed in keeping with the requirements of the Declaration of Helsinki.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Hypothesis</p>
+             </st>
+             <p>The use of ecAVGs&#8201;&#177;&#8201;AVFs will reduce the rate of culture-proven bacteraemia at 6&#160;months compared to the use of TCVCs&#8201;&#177;&#8201;AVFs in patients with ESRD requiring urgent vascular access for haemodialysis.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Objectives and outcome measures</p>
+             </st>
+             <p>This study aims for a strategy of comparing ecAVG&#8201;&#177;&#8201;autologous AVF (if anatomically suitable) to TCVC&#8201;&#177;&#8201;autologous AVF in patients requiring urgent vascular access for haemodialysis. The primary outcome measure is culture-proven bacteraemia at 6&#160;months. Secondary outcomes include culture-proven bacteraemia at 12 and 24&#160;months; primary, secondary and functional patency rates at 3, 6, 12 and 24&#160;months; stenosis, thrombosis and re-intervention rates (including the need for urokinase infusions, AVG declotting procedures and TCVC replacement); other complications, including local infection, suspected access-related infection, steal syndrome, cardiovascular compromise, central venous stenosis; mortality at 6, 12 and 24&#160;months, quality of life (assessed by EQ-5D) at 6&#160;months; future sites of vascular access; re-admission rates and bed day utilisation and efficiency and efficacy of dialysis (urea reduction ratio, access flows, and recirculation). Additionally delays to treatment and the impact on service provision (access to theatre, and so forth) will be assessed to evaluate the practicalities of each treatment regimen. Cost-utility analysis will also be performed. Definitions of patency and other access-related complications will be as described by Sidawy and colleagues <abbrgrp>
+                   <abbr bid="B21">21</abbr>
+                </abbrgrp>.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Study centre</p>
+             </st>
+             <p>The study will be conducted at the Western Infirmary, Glasgow, UK. This university teaching hospital provides a tertiary referral vascular access service for 650 haemodialysis patients in the West of Scotland. We perform approximately 400 vascular access procedures, including 100 complex access procedures, annually. We have a wealth of experience using ecAVGs with published local outcomes highlighting our current practice <abbrgrp>
+                   <abbr bid="B18">18</abbr>
+                </abbrgrp>-<abbrgrp>
+                   <abbr bid="B20">20</abbr>
+                </abbrgrp>. The necessary volume of clinical cases, presence of clinical expertise and equipment required for this study is well established in this unit.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Patients and enrolment</p>
+             </st>
+             <p>All patients will be admitted under the care of the Nephrology Team at the Western Infirmary. Patients requiring urgent vascular access for haemodialysis will be assessed by their clinical team. Temporary venous catheter will be inserted to permit life-saving haemodialysis if required. The clinical team will then refer the patient to the Vascular Access Co-ordinator for TCVC insertion and definitive vascular access creation.</p>
+             <p>All patients referred for TCVC insertion will be assessed by a member of the research team within 6&#160;hours of referral. All adult patients (&#8805;18&#160;years old) with ESRD requiring urgent vascular access for haemodialysis will be eligible to participate. Patients will be excluded if they have significant cardiorespiratory co-morbidities or peripheral vascular disease precluding anaesthesia or ecAVG creation, a brachial artery &lt;2&#160;mm diameter on duplex ultrasound, significant and untreated systemic sepsis with positive blood cultures, women who are pregnant or breast-feeding, lack of capacity or ability to provide informed consent or if they decline to participate.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Consent</p>
+             </st>
+             <p>The process of consent will be in accordance with the Declaration of Helsinki. All suitable patients will be fully informed that they are being asked to participate in a research study. The procedures involved in the study, and the chances of being assigned randomly to one of two groups will be explained in person and via an information sheet approved by the West of Scotland Ethics Committee. A signed consent form will be obtained from each patient and retained by the investigators. Patients will be made aware of their right to withdraw from the study at any time without adverse effects on their clinical care.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Pre-operative management</p>
+             </st>
+             <p>All patients will undergo Duplex ultrasound of both arms. Both the venous and arterial tree will be assessed and a pre-operative plan made to site both ecAVG and native AVF. Wherever possible, care will be taken to preserve all sites for future autologous access and the site of native AVF will always be favoured in the non-dominant arm and distally first. ecAVG will be placed to accommodate optimal AVF placement. For example, a native left radiocephalic fistula and right forearm loop or right brachioaxillary graft would be favoured in a left-handed patient with good native vessels and no previous vascular access; whilst revision of an existing occluded left brachiocephalic fistula with outflow stenosis using an interposition ecAVG and contralateral elbow AVF would be considered in an elderly patient with poor vessels and occluded existing AVF.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Randomisation</p>
+             </st>
+             <p>A computer generated 1:1 allocation sequence will be created by an independent operator who is not directly involved with the study. Allocation concealment will be achieved using sequentially numbered sealed opaque envelopes.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Blinding</p>
+             </st>
+             <p>Due to the nature of the treatment and any subsequent interventions, it is not possible to blind either patient, surgeon or investigator to the treatment allocation.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Treatment strategies</p>
+             </st>
+             <p>Patients will be randomized to receive either ecAVG&#8201;&#177;&#8201;AVF or TCVC&#8201;&#177;&#8201;AVF.</p>
+             <sec>
+                <st>
+                   <p>TCVC&#8201;&#177;&#8201;AVF</p>
+                </st>
+                <p>TCVC&#8201;&#177;&#8201;AVF reflects standard practice at our institution. Patients randomized to receive TCVC&#8201;&#177;&#8201;AVF will be referred to the Interventional Radiology Department for TCVC insertion (either by a radiologist or nurse specializing in TCVC insertion).</p>
+                <p>Tunnelled Ash Split<b>&#174;</b> (Medcomp, Harleysville, PA, USA) 14Fr double-lumen polyurethane haemodialysis catheters will be inserted with 280- or 320-mm catheters used for right- and left-sided cannulation, respectively. Catheters will be inserted via a Seldinger technique under image guidance. A standard catheter care protocol will be employed throughout the study period. This demands complete sterile precautions during catheter insertion and upon manipulation of the hub. Following catheter hub manipulation, the skin surrounding the insertion site is soaked with chlorhexidine solution prior to a sterile dressing being applied. An interdialytic lock with heparin 5,000 iU/ml to the internal volume of the catheter will be employed.</p>
+                <p>First haemodialysis via the TCVC will be performed by trained nursing staff within the InPatient Renal Unit at the Western Infirmary. A record of any difficulties or complications with initial dialysis will be made. The timing of the first dialysis via the TCVC will be made at the discretion of the nephrology team, as will the need for anticoagulation. A record of these factors will be kept.</p>
+                <p>The patient will be discharged to dialyse at their Outpatient Dialysis Unit at the discretion of the nephrology team. Any problems that subsequently develop with the TCVC will be referred to and managed by the nephrology team at the Western Infirmary as is standard practice. These will be recorded in the patient&#8217;s electronic patient record and reported to the Principal Investigator.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>ecAVG&#8201;&#177;&#8201;AVF</p>
+                </st>
+                <p>Patients randomised to the ecAVG&#8201;&#177;&#8201;AVF arm of the study will be immediately assessed by a member of the anaesthetic team. An operative slot will be found within either emergency or elective theatres at the Western Infirmary for ecAVG creation within 24&#160;hours.</p>
+                <p>All patients will be treated with pre-operative prophylactic vancomycin 1&#160;g intravenously (or teicoplanin if the patient is vancomycin allergic). ecAVG insertion will be performed by a single operating surgeon either under supraclavicular block or general anaesthetic.</p>
+                <p>The patient&#8217;s skin will be prepared with alcoholic betadine, draped in a standard fashion and an Ioban&#8482; skin covering (3&#160;M Healthcare, Bracknell, UK) applied to maintain strict asepsis. The vessels will be exposed and controlled in a standard fashion. The Acuseal&#8482; graft will then be tunnelled in the subcutaneous fat using standard tunnelling tools. A 4-cm longitudinal venotomy will be performed and the graft spatulated at the venous end in an attempt to minimize venous stenosis. The arteriotomy will be a standard size to accommodate the graft. Arterial and venous anastomoses will be performed using continuous 5.0 Prolene. Collatamp&#8482; (Tribute Pharmaceuticals, Milton, Ontario, Canada) will be inserted into the wounds prior to closure to minimize the risk of infection. Drains will be placed at the surgeon&#8217;s discretion.</p>
+                <p>Post-operatively the patient will be managed within the Inpatient Renal Unit of the Western Infirmary. First cannulation of the ecAVG will be performed by our trained dialysis nursing staff in agreement between the Nephrology and Surgical Teams as the patient&#8217;s clinical condition dictates. This may be as soon as 30&#160;minutes post-operatively.</p>
+                <p>Sharp needles (17&#160;G), low flows (200 to 250&#160;ml/min) and minimal heparin will be used for first cannulation of ecAVGs. Full aseptic technique will be used for cannulation and direct pressure applied at the needle sites for at least 10&#160;minutes after the needles have been removed. These same techniques will be used for the first 2&#160;weeks of cannulation. Thereafter, higher flow rates may be used if necessary to achieve adequate dialysis clearance. Success and complications of dialysis sessions and cannulation will be recorded. At least two successful cannulations of the ecAVG will be performed prior to discharge to the Outpatient Dialysis Unit. All patients will continue on intravenous vancomycin for a week post-operatively. Heparin, warfarin and anti-platelet agents will be administered at the discretion of the operating surgeon. All patients who re-present with thrombotic complications will be anti-coagulated with warfarin (international normalised ratio 2&#8211;3) unless contraindicated.</p>
+                <p>Should the patient develop any problems with their ecAVG upon discharge they will be reviewed immediately by a member of the Renal Surgical Team at the Western Infirmary as is standard practice. In the event of thrombosis of ecAVG, aggressive attempts will be made by both the surgical and radiological teams to salvage the dialysis access as is standard practice. All complications will be recorded within the patient&#8217;s electronic case record and reported to the research team.</p>
+             </sec>
+             <sec>
+                <st>
+                   <p>Autologous AVF</p>
+                </st>
+                <p>Patients in both treatment arms will also undergo creation of an autologous AVF (if this is anatomically possible) at the first available opportunity. The ecAVG/TCVC will continue to be utilized for haemodialysis until the AVF is mature enough to cannulate. The decision to undertake first cannulation of the AVF will be taken by the clinical team (normally ~6&#160;weeks after creation) and recorded within the patient&#8217;s electronic patient record.</p>
+                <p>Once the patient is successfully dialyzing via their AVF, the fate of an ecAVG, which is no longer required, will be decided after discussion between the patient and surgical team. In the majority of cases it will be left <it>in situ</it> but can be removed or ligated if required/wished. TCVCs will be removed by the surgical team after six successful AVF cannulations as is standard practice.</p>
+             </sec>
+          </sec>
+          <sec>
+             <st>
+                <p>Follow-up and data collection</p>
+             </st>
+             <p>All patients will be reviewed by the research team on day 1, day 7 and 3, 6, 12 and 24&#160;months following insertion of ecAVG/TCVC and 6&#160;weeks following creation of AVF. Additionally surveillance of ecAVG will be performed by both ultrasound and venography at 3-monthly intervals. Data will be collected prospectively from the operative notes and Scottish Electronic Renal Patient Record.</p>
+             <p>Patient demographics will be obtained including age, gender, ethnicity, weight, body mass index, dialysis status, current access modality and co-morbidities. Details of operative surgery, anaesthetic, site of ecAVG, TCVC and AVF and perioperative complications will be recorded. Date and details of first cannulation/utilisation of ecAVG/TCVC will be recorded in the case report form along with the date and nature of any complications. Quality of life will be assessed at 6, 12 and 24&#160;months. All data will be anonymised. Case report files will be archived in a locked facility for a period of 5&#160;years.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Criteria for discontinuation</p>
+             </st>
+             <p>Every effort will be made to retain patients in the trial and to minimise withdrawals. However, any severe or life-threatening event will be sufficient to remove a patient from the study. Data collected prior to the point of withdrawal from the study will be retained. Patients may request to be withdrawn from this study at any time. Reasons for withdrawal will be documented. Intention-to-treat analysis will be performed.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Sample size and statistical considerations</p>
+             </st>
+             <p>Locally, 24% of TCVCs result in systemic bacteraemia within 6&#160;months <abbrgrp>
+                   <abbr bid="B19">19</abbr>
+                </abbrgrp>. In order to calculate sample size, we made the following assumptions: type 1 error (&#945;) was set at 0.05 and type 2 error (&#946;) at 0.8. Therefore, if we assume a systemic bacteraemia rate in the TCVC arm of 24% at 6&#160;months and propose a bacteraemia rate of 5% at 6&#160;months in the ecAVG arm, then 53 patients are required in each group. In order to account for attrition of around 10%, we aim to recruit 118 patients. This magnitude of difference between the two treatment arms is considered to be clinically significant and realistic given the published rates of systemic bacteraemia for ecAVG in our institution <abbrgrp>
+                   <abbr bid="B18">18</abbr>
+                </abbrgrp>.</p>
+             <p>The null hypothesis for this study is that there is no difference between systemic bacteraemia rates at 6&#160;months in patients who require urgent vascular access for haemodialysis treated with TCVC&#8201;&#177;&#8201;AVF and those treated with ecAVG&#8201;&#177;&#8201;AVF.</p>
+             <p>Descriptive statistics will be used to describe continuous variables. Results for continuous variables will be reported as mean (&#177; standard deviation) or median (interquartile range). Assuming normal distribution, treatment groups will be compared using a student&#8217;s t-test or, if data are found to not be normally distributed, a Mann&#8211;Whitney U-test will be used. Analysis will be performed on an intention-to-treat basis. Additionally, a cost-consequence analysis will be conducted, comparing the costs (for example, treatment, procedures, hospital stay, and so forth) and the consequences (for example, health outcomes such as bacteraemia episodes, mortality, and so forth) of both treatment arms.</p>
+             <p>Based on the results of our recent observational study <abbrgrp>
+                   <abbr bid="B19">19</abbr>
+                </abbrgrp> in which 53 eligible patients presented in a 6-month period, it is anticipated that recruitment will take approximately 18&#160;months. Data collection will continue for 2&#160;years beyond the date of last recruitment, though the primary outcome will be assessed after 6&#160;months.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Adverse event reporting and safety</p>
+             </st>
+             <p>All adverse events will be fully recorded in the medical records and on the study case report forms. A Data Monitoring Committee comprising of the Chief Investigator, trial statistician and an independent nephrologist will convene at the mid-point of the trial to evaluate recruitment and data collection. The Data Monitoring Committee will monitor adverse events and make recommendations as required. An interim analysis of results will be performed at the mid-point of the trial.</p>
+             <p>All adverse events will be evaluated by the Chief Investigator for severity, expectedness and causality. Any serious adverse events (SAEs) will be reported to the main Research Ethics Committee and sponsor where, in the opinion of the Chief Investigator, the event was related (resulted from administration of any of the research procedures) and unexpected (not listed in the protocol as an expected outcome). SAEs will be reported using the National Research Ethics Service SAE report form for Clinical Trials of Non-Investigational Medical Products.</p>
+             <p>Both TCVCs and AVGs are used routinely in clinical practice with minimal complications. The most common risk of TCVC usage is systemic bacteraemia, quoted in the range of 1.4 to 1.8 per 1,000 catheter days <abbrgrp>
+                   <abbr bid="B4">4</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B12">12</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B13">13</abbr>
+                </abbrgrp>,<abbrgrp>
+                   <abbr bid="B22">22</abbr>
+                </abbrgrp>. Most commonly, Gram-positive organisms, for example <it>Staphylococcus Aureus</it>, cause catheter-related bacteremia <abbrgrp>
+                   <abbr bid="B23">23</abbr>
+                </abbrgrp>. Otherwise, catheter replacement for dysfunction (thrombosis and malposition) occurs in approximately 0.2 per 1,000 catheter days <abbrgrp>
+                   <abbr bid="B23">23</abbr>
+                </abbrgrp>. The well-described complications of pneumothorax and carotid artery puncture are very rare with image-guided TCVC insertion.</p>
+             <p>Similarly, operative complications of ecAVG, including steal syndrome and bleeding, are rare <abbrgrp>
+                   <abbr bid="B18">18</abbr>
+                </abbrgrp>. Infection rates are lower than TCVC (approximately 0.6 per 1,000 dialysis days in most published series). The most common infective organisms are Gram-negatives, which are more common in lower rather than upper limb accesses <abbrgrp>
+                   <abbr bid="B24">24</abbr>
+                </abbrgrp>. Thrombosis of ecAVG is the most common complication, with approximately half of ecAVGs requiring re-intervention during the first year <abbrgrp>
+                   <abbr bid="B14">14</abbr>
+                </abbrgrp>. With aggressive management strategies for thrombosis, however, it is possible to achieve secondary patency rates approaching 90% at 1&#160;year <abbrgrp>
+                   <abbr bid="B15">15</abbr>
+                </abbrgrp>.</p>
+             <p>Any adverse events relating to either procedure will be recorded by the staff performing the study, and necessary investigations, treatment or follow-up arranged thereafter.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Limitations and potential solutions</p>
+             </st>
+             <p>Traditionally, recruitment in trials relating to vascular access can be difficult. In one recent large study, over 2,000 patients were screened to recruit just 225 <abbrgrp>
+                   <abbr bid="B25">25</abbr>
+                </abbrgrp>. This study had very strict inclusion criteria, which can be difficult to achieve in a heterogeneous patient population such as ESRD. It is not anticipated that such problems will be encountered in our study for several reasons: firstly, this will be an inclusive study (rather than having strict inclusion/exclusion criteria); secondly, a local pilot study <abbrgrp>
+                   <abbr bid="B19">19</abbr>
+                </abbrgrp> has demonstrated that 79 patients had TCVCs inserted over a 6-month period and therefore might be approached for inclusion in this study.</p>
+             <p>The power calculation for this study is based on a bacteraemia rate of 24% in the TCVC arm. This rate is higher than that described in many series, but is derived directly from our local pilot study <abbrgrp>
+                   <abbr bid="B19">19</abbr>
+                </abbrgrp>. It may be that these higher rates of infection relate to early post-insertion infection rates, rather than overall bacteraemia rates for static prevalent TCVCs.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Discussion</p>
+          </st>
+          <p>The purpose of this trial is to investigate the hypothesis that, in patients requiring urgent vascular access for haemodialysis, the 6-month culture-proven bacteraemia rate is improved by a strategy of ecAVG&#8201;&#177;&#8201;AVF compared to TCVC&#8201;&#177;&#8201;AVF as this has not yet been demonstrated in a large randomised controlled trial.</p>
+          <p>Complications of vascular access are a leading cause of morbidity and mortality in patients with ESRD. The healthcare costs from a catheter-related bacteraemia range from $6,000 to $29,000 <abbrgrp>
+                <abbr bid="B26">26</abbr>
+             </abbrgrp>. If the proposed strategy of ecAVG&#8201;&#177;&#8201;AVF is found to reduce culture-proven bacteraemia rates, it could result in significant reduction in healthcare costs and reduced morbidity and hospitalisation for patients with ESRD. This could lead to a paradigm shift away from TCVC in patients requiring urgent vascular access. Conversely if TCVC&#8201;&#177;&#8201;AVF is found to be superior, this finding would support our current strategy of TCVC usage in this patient cohort. Therefore, either a positive or negative result will help inform future practice regarding the optimal strategy of vascular access in patients requiring urgent haemodialysis.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Trial status</p>
+          </st>
+          <p>Recruiting.</p>
+          <sec>
+             <st>
+                <p>Finance and indemnity</p>
+             </st>
+             <p>A small Investigator Led research grant from W.L. Gore Associates will assist in analysis of secondary end-point data. The funders have no role in the study design, data collection or analysis, decision to publish or preparation of the manuscript. NHS employed researchers will be covered for negligent harm through the NHS CNORIS indemnity scheme.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Abbreviations</p>
+          </st>
+          <p>AVF: arteriovenous fistula</p>
+          <p>AVG: arteriovenous graft</p>
+          <p>ecAVG: early cannulation arteriovenous graft</p>
+          <p>ESRD: end-stage renal disease</p>
+          <p>SAE: serious adverse event</p>
+          <p>TCVC: tunnelled central venous catheter</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Competing interests</p>
+          </st>
+          <p>DK has received a small Investigator Led Research Grant from W.L. Gore Associates. The remaining authors declare that they have no competing interests.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Authors&#8217; contributions</p>
+          </st>
+          <p>DK conceived the study. EA and DK designed the study. EA wrote the protocol. DK, RK, MC, CG, PT and CB reviewed and optimised the protocol. EA is responsible for communicating with the Governing Bodies (West of Scotland Research Ethics Committee, NHS Research and Development and NHS Finance Departments). EA is the Principle Investigator for the study. All authors have read and approved the final version of the manuscript.</p>
+       </sec>
+    </bdy>
+    <bm>
+       <ack>
+          <sec>
+             <st>
+                <p>Acknowledgements</p>
+             </st>
+             <p>We are grateful to David Young, University of Strathclyde, for his statistical advice and Kashfa Iqbal, W.L. Gore Associates, for her input regarding health economic analysis. A small Investigator Led research grant from W.L. Gore Associates will assist in analysis of secondary end-point data. The funders have no role in the study design, data collection or analysis, decision to publish or preparation of the manuscript.</p>
+          </sec>
+       </ack>
+       <refgrp>
+          
+          <bibl id="B1">
+             <note>Fluck R, Kumwenda M. Clinical Practice Guidelines Vascular Access for Haemodialysis. UK Renal Association 5th Edition, 2011. Published online at: <url>http://www.renal.org/docs/default-source/guidelines-resources/Vascular_Access_for_Haemodialysis_-_FINAL_VERSION_-_05_January_2011.pdf?sfvrsn=0</url>
+             </note>
+          </bibl>
+          <bibl id="B2">
+             <title>
+                <p>Creation, cannulation and survival of arteriovenous fistulae: data from the Dialysis Outcomes and Practice Patterns Study</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Rayner</snm>
+                   <fnm>HC</fnm>
+                </au>
+                <au>
+                   <snm>Pisoni</snm>
+                   <fnm>RL</fnm>
+                </au>
+                <au>
+                   <snm>Gillespie</snm>
+                   <fnm>BW</fnm>
+                </au>
+                <au>
+                   <snm>Goodkin</snm>
+                   <fnm>DA</fnm>
+                </au>
+                <au>
+                   <snm>Akiba</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Akizawa</snm>
+                   <fnm>T</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Kidney Int</source>
+             <pubdate>2003</pubdate>
+             <volume>63</volume>
+             <fpage>323</fpage>
+             <lpage>30</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1046/j.1523-1755.2003.00724.x</pubid>
+                   <pubid idtype="pmpid" link="fulltext">12472799</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B3">
+             <note>National Kidney Care Vascular Access Report 2011. <url>http://www.hqip.org.uk/assets/NCAPOP-Library/VAReport2011Interactive03082011-FINAL.pdf</url>. Accessed 25 May 2104.</note>
+          </bibl>
+          <bibl id="B4">
+             <title>
+                <p>Vascular access in haemodialysis patients: a modifiable risk factor for bacteraemia and death</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Thomson</snm>
+                   <fnm>PC</fnm>
+                </au>
+                <au>
+                   <snm>Stirling</snm>
+                   <fnm>CM</fnm>
+                </au>
+                <au>
+                   <snm>Geddes</snm>
+                   <fnm>CC</fnm>
+                </au>
+                <au>
+                   <snm>Morris</snm>
+                   <fnm>ST</fnm>
+                </au>
+                <au>
+                   <snm>Mactier</snm>
+                   <fnm>RA</fnm>
+                </au>
+             </aug>
+             <source>QJM</source>
+             <pubdate>2007</pubdate>
+             <volume>100</volume>
+             <fpage>415</fpage>
+             <lpage>22</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/qjmed/hcm040</pubid>
+                   <pubid idtype="pmpid" link="fulltext">17526532</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B5">
+             <title>
+                <p>The function of permanent vascular access</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Rodriguez</snm>
+                   <fnm>JA</fnm>
+                </au>
+                <au>
+                   <snm>Armadans</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Ferrer</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Olmos</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Codina</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Bartolome</snm>
+                   <fnm>J</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Nephrol Dial Transplant</source>
+             <pubdate>2000</pubdate>
+             <volume>15</volume>
+             <fpage>402</fpage>
+             <lpage>8</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/ndt/15.3.402</pubid>
+                   <pubid idtype="pmpid" link="fulltext">10692528</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B6">
+             <title>
+                <p>Effect of clopidogrel on early failure of arteriovenous fistulas for haemodialysis: a randomised controlled trial</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Dember</snm>
+                   <fnm>LM</fnm>
+                </au>
+                <au>
+                   <snm>Beck</snm>
+                   <fnm>GJ</fnm>
+                </au>
+                <au>
+                   <snm>Allon</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Delmez</snm>
+                   <fnm>JA</fnm>
+                </au>
+                <au>
+                   <snm>Dixon</snm>
+                   <fnm>BS</fnm>
+                </au>
+                <au>
+                   <snm>Greenberg</snm>
+                   <fnm>A</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>JAMA</source>
+             <pubdate>2008</pubdate>
+             <volume>299</volume>
+             <fpage>2164</fpage>
+             <lpage>71</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1001/jama.299.18.2164</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18477783</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B7">
+             <note>Scottish Renal Registry Report, ISD Scotland. <url>http://www.srr.scot.nhs.uk/Publications/PDF/scottish-renal-registry-report-2013-web.pdf?2</url>. Accessed 28 September 2013.</note>
+          </bibl>
+          <bibl id="B8">
+             <note>Aitken EL, Stevenson KS, Gingell-Littlejohn M, Aitken M, Clancy M, Kingsmore DB. The use of tunneled central venous catheters: inevitable or system failure. J Vasc Access. 2014. doi:10.5301/jva.5000206</note>
+          </bibl>
+          <bibl id="B9">
+             <title>
+                <p>Vascular access use and outcomes: an international perspective from the dialysis outcomes and practice patterns study</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Ethier</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Mendelssohn</snm>
+                   <fnm>DC</fnm>
+                </au>
+                <au>
+                   <snm>Elder</snm>
+                   <fnm>SJ</fnm>
+                </au>
+                <au>
+                   <snm>Hasegawa</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Akizawa</snm>
+                   <fnm>T</fnm>
+                </au>
+                <au>
+                   <snm>Akiba</snm>
+                   <fnm>T</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Nephrol Dial Transplant</source>
+             <pubdate>2008</pubdate>
+             <volume>23</volume>
+             <fpage>3219</fpage>
+             <lpage>26</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/ndt/gfn261</pubid>
+                   <pubid idtype="pmpid" link="fulltext">18511606</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B10">
+             <title>
+                <p>When to refer patients with chronic kidney disease for vascular access surgery: should age be a consideration?</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>O&#8217;Hare</snm>
+                   <fnm>AM</fnm>
+                </au>
+                <au>
+                   <snm>Bertenthal</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Walter</snm>
+                   <fnm>LC</fnm>
+                </au>
+                <au>
+                   <snm>Garg</snm>
+                   <fnm>AX</fnm>
+                </au>
+                <au>
+                   <snm>Covinsky</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Kaufman</snm>
+                   <fnm>JS</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Kidney Int</source>
+             <pubdate>2007</pubdate>
+             <volume>71</volume>
+             <fpage>555</fpage>
+             <lpage>61</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1038/sj.ki.5002078</pubid>
+                   <pubid idtype="pmpid" link="fulltext">17245396</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B11">
+             <title>
+                <p>Factors associated with suboptimal initiation of dialysis despite early nephrologist referral</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hughes</snm>
+                   <fnm>SA</fnm>
+                </au>
+                <au>
+                   <snm>Mendelssohn</snm>
+                   <fnm>JG</fnm>
+                </au>
+                <au>
+                   <snm>Tobe</snm>
+                   <fnm>SW</fnm>
+                </au>
+                <au>
+                   <snm>McFarlane</snm>
+                   <fnm>PA</fnm>
+                </au>
+                <au>
+                   <snm>Mendelssohn</snm>
+                   <fnm>DC</fnm>
+                </au>
+             </aug>
+             <source>Nephrol Dial Transplant</source>
+             <pubdate>2013</pubdate>
+             <volume>28</volume>
+             <fpage>392</fpage>
+             <lpage>7</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/ndt/gfs431</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23222418</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B12">
+             <title>
+                <p>Vascular access type and risk of mortality in a national prospective cohort of haemodialysis patients</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Bray</snm>
+                   <fnm>BD</fnm>
+                </au>
+                <au>
+                   <snm>Boyd</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Daly</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Donaldson</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Doyle</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Fox</snm>
+                   <fnm>JG</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>QJM</source>
+             <pubdate>2012</pubdate>
+             <volume>105</volume>
+             <fpage>1097</fpage>
+             <lpage>102</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/qjmed/hcs143</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22908320</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B13">
+             <title>
+                <p>Prospective surveillance for primary bloodstream infections occurring in Canadian hemodialysis units</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Taylor</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Gravel</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Johnston</snm>
+                   <fnm>L</fnm>
+                </au>
+                <au>
+                   <snm>Embil</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Holton</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Paton</snm>
+                   <fnm>S</fnm>
+                </au>
+             </aug>
+             <source>Infect Control Hosp Epidemiol</source>
+             <pubdate>2002</pubdate>
+             <volume>23</volume>
+             <fpage>716</fpage>
+             <lpage>20</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1086/501999</pubid>
+                   <pubid idtype="pmpid" link="fulltext">12517012</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B14">
+             <title>
+                <p>Maintaining vascular access: the management of haemodialysis arteriovenous grafts</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Schild</snm>
+                   <fnm>AF</fnm>
+                </au>
+             </aug>
+             <source>J Vasc Access</source>
+             <pubdate>2010</pubdate>
+             <volume>11</volume>
+             <fpage>92</fpage>
+             <lpage>9</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">20155717</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B15">
+             <title>
+                <p>Prosthetic arteriovenous grafts for haemodialysis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Akoh</snm>
+                   <fnm>JA</fnm>
+                </au>
+             </aug>
+             <source>J Vasc Access</source>
+             <pubdate>2009</pubdate>
+             <volume>10</volume>
+             <fpage>137</fpage>
+             <lpage>47</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">19670164</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B16">
+             <title>
+                <p>Early cannulation prosthetic graft (Flixene&#8482;) for arteriovenous access</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Schild</snm>
+                   <fnm>AF</fnm>
+                </au>
+                <au>
+                   <snm>Schuman</snm>
+                   <fnm>ES</fnm>
+                </au>
+                <au>
+                   <snm>Noicely</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Kaufman</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Gillaspie</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Fuller</snm>
+                   <fnm>J</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>J Vasc Access</source>
+             <pubdate>2011</pubdate>
+             <volume>12</volume>
+             <fpage>248</fpage>
+             <lpage>52</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.5301/JVA.2011.6351</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21319129</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B17">
+             <title>
+                <p>A review of prospective trials to evaluate angioaccess graft materials</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Katzman</snm>
+                   <fnm>HE</fnm>
+                </au>
+             </aug>
+             <source>Vascular Access for Haemodialysis VI.W.L</source>
+             <publisher>Gore and Associates Inc., Prescott Press, Tyler, TX, USA</publisher>
+             <editor>Henry ML</editor>
+             <pubdate>1999</pubdate>
+             <fpage>263</fpage>
+             <lpage>72</lpage>
+          </bibl>
+          <bibl id="B18">
+             <note>Aitken EL, Jackson AJ, Kingsmore DB. Early cannulation prosthetic graft (Acuseal&#8482;) for arteriovenous access: a useful option to provide a personal vascular access solution. J Vasc Access. 2014. doi:10.5301/jva.5000238</note>
+          </bibl>
+          <bibl id="B19">
+             <note>Aitken EL, Thompson P, Kingsmore DB. Early cannulation arteriovenous grafts (ecAVG) for haemodialysis: a viable alternative to tunneled central venous catheters (TCVCs)? Clin Nephrol. 2014. in press.</note>
+          </bibl>
+          <bibl id="B20">
+             <title>
+                <p>Early cannulation arteriovenous grafts for haemodialysis: a cost-saving alternative to tunneled central venous catheters? An estimated budget impact analysis in a single centre. Poster presentation at 19th ISPOR International Conference, 31 May-4 June 2014, Montreal, Canada</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Iqbal</snm>
+                   <fnm>K</fnm>
+                </au>
+                <au>
+                   <snm>Aitken</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Thompson</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Kingsmore</snm>
+                   <fnm>D</fnm>
+                </au>
+             </aug>
+             <source>J Int Soc Socioecon Outcomes Res</source>
+             <pubdate>2014</pubdate>
+             <volume>17</volume>
+             <issue>3</issue>
+             <fpage>A291</fpage>
+          </bibl>
+          <bibl id="B21">
+             <title>
+                <p>Recommended standards for reports dealing with arteriovenous access</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Sidawy</snm>
+                   <fnm>AN</fnm>
+                </au>
+                <au>
+                   <snm>Gray</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Besarab</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Henry</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Ascher</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Silva</snm>
+                   <fnm>M</fnm>
+                   <suf>Jr</suf>
+                </au>
+                <etal/>
+             </aug>
+             <source>J Vasc Surg</source>
+             <pubdate>2002</pubdate>
+             <volume>35</volume>
+             <fpage>603</fpage>
+             <lpage>10</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1067/mva.2002.122025</pubid>
+                   <pubid idtype="pmpid" link="fulltext">11877717</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B22">
+             <title>
+                <p>A prospective observational study of catheter-related bacteraemia and thrombosis in a haemodialysis cohort: univariate and multivariate analyses of risk association</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Thomson</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Stirling</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>Traynor</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Morris</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Mactier</snm>
+                   <fnm>RA</fnm>
+                </au>
+             </aug>
+             <source>Nephrol Dial Transplant</source>
+             <pubdate>2010</pubdate>
+             <volume>25</volume>
+             <fpage>1596</fpage>
+             <lpage>602</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1093/ndt/gfp667</pubid>
+                   <pubid idtype="pmpid" link="fulltext">20054025</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B23">
+             <note>Mandolfo S, Acconcia P, Bucci R, Corradi B, Farina M, Rizzo MA, et al. Hemodialysis tunneled central venous catheters: five-year outcome analysis. J Vasc Access. 2014. doi:10.5301/jva.5000236</note>
+          </bibl>
+          <bibl id="B24">
+             <title>
+                <p>Arteriovenous graft infection: a comparison of thigh and upper extremity grafts</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Harish</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Allon</snm>
+                   <fnm>M</fnm>
+                </au>
+             </aug>
+             <source>CJASN</source>
+             <pubdate>2011</pubdate>
+             <volume>6</volume>
+             <fpage>1739</fpage>
+             <lpage>43</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">21642365</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B25">
+             <title>
+                <p>Prevention of dialysis catheter malfunction with recombinant tissue plasminogen activator</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Hemmelgarn</snm>
+                   <fnm>BR</fnm>
+                </au>
+                <au>
+                   <snm>Moist</snm>
+                   <fnm>LM</fnm>
+                </au>
+                <au>
+                   <snm>Lok</snm>
+                   <fnm>CE</fnm>
+                </au>
+                <au>
+                   <snm>Tonelli</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Manns</snm>
+                   <fnm>BJ</fnm>
+                </au>
+                <au>
+                   <snm>Holden</snm>
+                   <fnm>RM</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>N Engl J Med</source>
+             <pubdate>2011</pubdate>
+             <volume>364</volume>
+             <fpage>303</fpage>
+             <lpage>12</lpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1056/NEJMoa1011376</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21268722</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B26">
+             <note>Centre for Disease Control. Cost of catheter related bacteraemia. <url>http://www.cdc.gov/HAI/pdfs/hai/Scott_CostPaper.pdf</url>. Accessed 26 May 2014.</note>
+          </bibl>
+       </refgrp>
+    </bm>
+ </art>

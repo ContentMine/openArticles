@@ -1,0 +1,1177 @@
+<?xml version='1.0'?>
+<!DOCTYPE art SYSTEM 'http://www.biomedcentral.com/xml/article.dtd'>
+<art>
+    <ui>s13063-015-0588-2</ui>
+    <ji>1745-6215</ji>
+    <fm>
+       <dochead>Commentary</dochead>
+       <bibl>
+          <title>
+             <p>Recruiting to inpatient-based rehabilitation trials: lessons learned</p>
+          </title>
+          <aug>
+             <au id="A1" ca="yes">
+                <snm>Tyson</snm>
+                <mi>F</mi>
+                <fnm>Sarah</fnm>
+                <insr iid="I1"/>
+                <insr iid="I2"/>
+                <insr iid="I6"/>
+                <email>Sarah.tyson@manchester.ac.uk</email>
+             </au>
+             <au id="A2">
+                <snm>Thomas</snm>
+                <fnm>Nessa</fnm>
+                <insr iid="I1"/>
+                <insr iid="I2"/>
+                <insr iid="I6"/>
+                <email>Nessa.tomas@manchester.ac.uk</email>
+             </au>
+             <au id="A3">
+                <snm>Vail</snm>
+                <fnm>Andy</fnm>
+                <insr iid="I2"/>
+                <insr iid="I3"/>
+                <insr iid="I6"/>
+                <email>Andy.vail@manchester.ac.uk</email>
+             </au>
+             <au id="A4">
+                <snm>Tyrrell</snm>
+                <fnm>Pippa</fnm>
+                <insr iid="I2"/>
+                <insr iid="I4"/>
+                <insr iid="I5"/>
+                <email>Pippa.tyrrell@manchester.ac.uk</email>
+             </au>
+          </aug>
+          <insg>
+             <ins id="I1">
+                <p>School of Nursing Midwifery &amp; Social Work, University of Manchester, Manchester, UK</p>
+             </ins>
+             <ins id="I2">
+                <p>Stroke Research Centre, University of Manchester, Manchester, UK</p>
+             </ins>
+             <ins id="I3">
+                <p>Centre for Biostatistics, University of Manchester, Manchester, UK</p>
+             </ins>
+             <ins id="I4">
+                <p>Salford Royal Foundation NHS Trust, Stott Lane, Salford M6 8D, UK</p>
+             </ins>
+             <ins id="I5">
+                <p>Manchester Academics Health Sciences Centre, Manchester, UK</p>
+             </ins>
+             <ins id="I6">
+                <p>Jean McFarlane Building University of Manchester, Oxford Rd, Manchester M13 9PL, UK</p>
+             </ins>
+          </insg>
+          <source>Trials</source>
+          <issn>1745-6215</issn>
+          <pubdate>2015</pubdate>
+          <volume>16</volume>
+          <issue>1</issue>
+          <fpage>75</fpage>
+          <url>http://www.trialsjournal.com/content/16/1/75</url>
+          <xrefbib>
+             <pubidlist>
+                <pubid idtype="doi">10.1186/s13063-015-0588-2</pubid>
+             </pubidlist>
+          </xrefbib>
+       </bibl>
+       <history>
+          <rec>
+             <date>
+                <day>3</day>
+                <month>7</month>
+                <year>2014</year>
+             </date>
+          </rec>
+          <acc>
+             <date>
+                <day>3</day>
+                <month>2</month>
+                <year>2015</year>
+             </date>
+          </acc>
+          <pub>
+             <date>
+                <day>4</day>
+                <month>3</month>
+                <year>2015</year>
+             </date>
+          </pub>
+       </history>
+       <cpyrt>
+          <year>2015</year>
+          <collab>Tyson et al.; licensee BioMed Central.</collab>
+          <note>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/4.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (<url>http://creativecommons.org/publicdomain/zero/1.0/</url>) applies to the data made available in this article, unless otherwise stated.</note>
+       </cpyrt>
+       <kwdg>
+          <kwd>Stroke</kwd>
+          <kwd>Rehabilitation</kwd>
+          <kwd>Trial</kwd>
+          <kwd>Recruitment</kwd>
+       </kwdg>
+       <abs>
+          <sec>
+             <st>
+                <p>Abstract</p>
+             </st>
+             <p>Effective recruitment is central to successful trials but is often problematic. This article reports the lessons learnt while recruiting stroke rehabilitation patients to a multi-centre randomised control trial. As intended, 94 participants were recruited from 12 inpatient stroke rehabilitation services in Northwest England over 12&#160;months; however, recruitment rates were highly varied (from 0.6 to 2.5 participants per site per month) as were the nature of the stroke services and the personnel available. Consequently, bespoke recruitment procedures were needed at each site. As the assessment skills needed to screen for the selection criteria were specific to therapists, our most common strategy was for the hospital therapists to screen patients and make referrals directly to the trial team. However, we identified several strategies undertaken by the research nurse in the highest recruiting site that appeared to positively impact on recruitment. These strategies included involving the whole multidisciplinary team, being part of the stroke team, facilitating contact between the clinical and trial teams and using inclusive recruitment and watchful waiting strategies.</p>
+             <p>Rehabilitation trials frequently require skilled assessments by therapists, rather than by doctors or nurses to identify potential participants. Thus, research support models need to include suitably skilled trial therapists. Recruitment can be enhanced by enthusiastic, regular and structured engagement with the entire stroke multidisciplinary team and by using inclusive recruitment and &#8216;watchful waiting&#8217; strategies to identify and monitor potential participants.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Trial registration</p>
+             </st>
+             <p>
+                    <url>ISRCTN29533052</url>. Registered May 2011</p>
+          </sec>
+       </abs>
+    </fm>
+    <bdy>
+       <sec>
+          <st>
+             <p>Background</p>
+          </st>
+          <p>Randomised controlled trials (RCTs) are the standard criterion for assessing healthcare interventions, but effective recruitment is required to maintain statistical power, ensure external validity and prevent unnecessary costs and delays. This is a challenge that few trials overcome <abbrgrp>
+                <abbr bid="B1">1</abbr>
+             </abbrgrp>. There is a growing body of literature highlighting these difficulties and suggesting solutions in different settings and clinical groups, although strategies for best practice are yet to be established <abbrgrp>
+                <abbr bid="B2">2</abbr>
+             </abbrgrp>-<abbrgrp>
+                <abbr bid="B5">5</abbr>
+             </abbrgrp>.</p>
+          <p>As stroke rehabilitation trialists, we need to know how best to recruit eligible participants, whether from inpatient stroke units or following discharge to community settings. Inclusion criteria for rehabilitation trials tend to include objective measures of activity limitations (for example, walking speed) or enduring impairments (for example, arm weakness), as well as clinical diagnosis. Such information is rarely recorded in medical records, which mean conventional recruitment techniques, such as screening case notes are ineffective.</p>
+          <p>Here we report the lessons learnt from a stroke-rehabilitation RCT on effective recruitment strategies. We aimed to recruit 90 patients over a 12-month period for randomisation to a trial where they would receive 4&#160;weeks of patient-led upper limb mirror therapy or lower limb exercises (the attentional control) in 12 inpatient stroke-rehabilitation units in Northwest England. Ethical approval was provided by Lancaster National Research Ethics Committee (Registration number 10/H1015/85). All participants gave informed consent.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Main text</p>
+          </st>
+          <p>We based our expected recruitment rate (one participant per site per month) on service activity records, our experience of previous studies in the participating hospitals, and published data regarding the frequency of impairments and activity limitations after stroke. Stroke Research Network staff identified potential participants from stroke unit admission data, screened against eligibility criteria (with the help of stroke therapists, if necessary), and referred eligible patients to the trial team, whose members would seek consent and then perform baseline assessments before randomisation.</p>
+          <p>Although all sites were able to recruit, recruitment rates differed markedly, ranging from 0.6 to 2.5 participants per site per month (Table&#160;<tblr tid="T1">1</tblr>), making it difficult to predict recruitment potential for this, or future trials. The size, nature and organisation of the stroke services and staff skill mix were also highly varied, as were the personalities involved and the team climate within the service. There was no obvious organisational or clinical explanation for the variability in recruitment rate, and in effect, a bespoke strategy needed to be developed at each site.
+                </p>
+          
+             <table id="T1">
+                <title>
+                   <p>Table 1</p>
+                </title>
+                <caption>
+                   <p>
+                          <b>Details of recruitment at each participating site</b>                        
+                   </p>
+                </caption>
+                <tgroup align="left" cols="14">
+                   <colspec align="left" colname="c1" colnum="1" colwidth="*"/>
+                   <colspec align="left" colname="c2" colnum="2" colwidth="*"/>
+                   <colspec align="left" colname="c3" colnum="3" colwidth="*"/>
+                   <colspec align="left" colname="c4" colnum="4" colwidth="*"/>
+                   <colspec align="left" colname="c5" colnum="5" colwidth="*"/>
+                   <colspec align="left" colname="c6" colnum="6" colwidth="*"/>
+                   <colspec align="left" colname="c7" colnum="7" colwidth="*"/>
+                   <colspec align="left" colname="c8" colnum="8" colwidth="*"/>
+                   <colspec align="left" colname="c9" colnum="9" colwidth="*"/>
+                   <colspec align="left" colname="c10" colnum="10" colwidth="*"/>
+                   <colspec align="left" colname="c11" colnum="11" colwidth="*"/>
+                   <colspec align="left" colname="c12" colnum="12" colwidth="*"/>
+                   <colspec align="left" colname="c13" colnum="13" colwidth="*"/>
+                   <colspec align="left" colname="c14" colnum="14" colwidth="*"/>
+                   <thead>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>
+                              <b>Site</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>
+                              <b>Participants/month</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>
+                              <b>Total recruited</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>
+                              <b>Month 1</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c5">
+                            <p>
+                              <b>Month 2</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c6">
+                            <p>
+                              <b>Month 3</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c7">
+                            <p>
+                              <b>Month 4</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c8">
+                            <p>
+                              <b>Month 5</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c9">
+                            <p>
+                              <b>Month 6</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c10">
+                            <p>
+                              <b>Month 7</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c11">
+                            <p>
+                              <b>Month 8</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c12">
+                            <p>
+                              <b>Month 9</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c13">
+                            <p>
+                              <b>Month 10</b>                            
+                            </p>
+                         </entry>
+                         <entry colname="c14">
+                            <p>
+                              <b>Month 11</b>                            
+                            </p>
+                         </entry>
+                      </row>
+                   </thead>
+                   <tbody>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Site 1</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>0.8</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>9</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>4</p>
+                         </entry>
+                         <entry colname="c5">
+                            <p>0</p>
+                         </entry>
+                         <entry colname="c6">
+                            <p>0</p>
+                         </entry>
+                         <entry colname="c7">
+                            <p>0</p>
+                         </entry>
+                         <entry colname="c8">
+                            <p>2</p>
+                         </entry>
+                         <entry colname="c9">
+                            <p>1</p>
+                         </entry>
+                         <entry colname="c10">
+                            <p>1</p>
+                         </entry>
+                         <entry colname="c11">
+                            <p>0</p>
+                         </entry>
+                         <entry colname="c12">
+                            <p>1</p>
+                         </entry>
+                         <entry colname="c13">
+                            <p>0</p>
+                         </entry>
+                         <entry colname="c14">
+                            <p>0</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Site 2</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>0.9</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>10</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>1</p>
+                         </entry>
+                         <entry colname="c5">
+                            <p>0</p>
+                         </entry>
+                         <entry colname="c6">
+                            <p>0</p>
+                         </entry>
+                         <entry colname="c7">
+                            <p>0</p>
+                         </entry>
+                         <entry colname="c8">
+                            <p>1</p>
+                         </entry>
+                         <entry colname="c9">
+                            <p>1</p>
+                         </entry>
+                         <entry colname="c10">
+                            <p>3</p>
+                         </entry>
+                         <entry colname="c11">
+                            <p>0</p>
+                         </entry>
+                         <entry colname="c12">
+                            <p>2</p>
+                         </entry>
+                         <entry colname="c13">
+                            <p>1</p>
+                         </entry>
+                         <entry colname="c14">
+                            <p>1</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Site 3</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>0.7</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>8</p>
+                         </entry>
+                         <entry colname="c4">
+                            <p>1</p>
+                         </entry>
+                         <entry colname="c5">
+                            <p>1</p>
+                         </entry>
+                         <entry colname="c6">
+                            <p>1</p>
+                         </entry>
+                         <entry colname="c7">
+                            <p>1</p>
+                         </entry>
+                         <entry colname="c8">
+                            <p>0</p>
+                         </entry>
+                         <entry colname="c9">
+                            <p>0</p>
+                         </entry>
+                         <entry colname="c10">
+                            <p>2</p>
+                         </entry>
+                         <entry colname="c11">
+                            <p>0</p>
+                         </entry>
+                         <entry colname="c12">
+                            <p>0</p>
+                         </entry>
+                         <entry colname="c13">
+                            <p>2</p>
+                         </entry>
+                         <entry colname="c14">
+                            <p>0</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Site 4</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>2.5</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>25</p>
+                         </entry>
+                         <entry colname="c4"/>
+                         <entry colname="c5">
+                            <p>4</p>
+                         </entry>
+                         <entry colname="c6">
+                            <p>3</p>
+                         </entry>
+                         <entry colname="c7">
+                            <p>5</p>
+                         </entry>
+                         <entry colname="c8">
+                            <p>4</p>
+                         </entry>
+                         <entry colname="c9">
+                            <p>3</p>
+                         </entry>
+                         <entry colname="c10">
+                            <p>1</p>
+                         </entry>
+                         <entry colname="c11">
+                            <p>0</p>
+                         </entry>
+                         <entry colname="c12">
+                            <p>2</p>
+                         </entry>
+                         <entry colname="c13">
+                            <p>2</p>
+                         </entry>
+                         <entry colname="c14">
+                            <p>1</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Site 5</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>0.5</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>5</p>
+                         </entry>
+                         <entry colname="c4"/>
+                         <entry colname="c5">
+                            <p>2</p>
+                         </entry>
+                         <entry colname="c6">
+                            <p>1</p>
+                         </entry>
+                         <entry colname="c7">
+                            <p>0</p>
+                         </entry>
+                         <entry colname="c8">
+                            <p>1</p>
+                         </entry>
+                         <entry colname="c9">
+                            <p>0</p>
+                         </entry>
+                         <entry colname="c10">
+                            <p>1</p>
+                         </entry>
+                         <entry colname="c11">
+                            <p>0</p>
+                         </entry>
+                         <entry colname="c12">
+                            <p>0</p>
+                         </entry>
+                         <entry colname="c13">
+                            <p>0</p>
+                         </entry>
+                         <entry colname="c14">
+                            <p>0</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Site 6</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>0.8</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>8</p>
+                         </entry>
+                         <entry colname="c4"/>
+                         <entry colname="c5">
+                            <p>3</p>
+                         </entry>
+                         <entry colname="c6">
+                            <p>1</p>
+                         </entry>
+                         <entry colname="c7">
+                            <p>1</p>
+                         </entry>
+                         <entry colname="c8">
+                            <p>2</p>
+                         </entry>
+                         <entry colname="c9">
+                            <p>0</p>
+                         </entry>
+                         <entry colname="c10">
+                            <p>0</p>
+                         </entry>
+                         <entry colname="c11">
+                            <p>1</p>
+                         </entry>
+                         <entry colname="c12">
+                            <p>0</p>
+                         </entry>
+                         <entry colname="c13">
+                            <p>0</p>
+                         </entry>
+                         <entry colname="c14">
+                            <p>0</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Site 7</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>0.4</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>4</p>
+                         </entry>
+                         <entry colname="c4"/>
+                         <entry colname="c5"/>
+                         <entry colname="c6">
+                            <p>1</p>
+                         </entry>
+                         <entry colname="c7">
+                            <p>0</p>
+                         </entry>
+                         <entry colname="c8">
+                            <p>1</p>
+                         </entry>
+                         <entry colname="c9">
+                            <p>0</p>
+                         </entry>
+                         <entry colname="c10">
+                            <p>1</p>
+                         </entry>
+                         <entry colname="c11">
+                            <p>0</p>
+                         </entry>
+                         <entry colname="c12">
+                            <p>0</p>
+                         </entry>
+                         <entry colname="c13">
+                            <p>1</p>
+                         </entry>
+                         <entry colname="c14">
+                            <p>0</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Site 8</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>1.1</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>9</p>
+                         </entry>
+                         <entry colname="c4"/>
+                         <entry colname="c5"/>
+                         <entry colname="c6"/>
+                         <entry colname="c7">
+                            <p>2</p>
+                         </entry>
+                         <entry colname="c8">
+                            <p>1</p>
+                         </entry>
+                         <entry colname="c9">
+                            <p>2</p>
+                         </entry>
+                         <entry colname="c10">
+                            <p>1</p>
+                         </entry>
+                         <entry colname="c11">
+                            <p>1</p>
+                         </entry>
+                         <entry colname="c12">
+                            <p>1</p>
+                         </entry>
+                         <entry colname="c13">
+                            <p>1</p>
+                         </entry>
+                         <entry colname="c14">
+                            <p>0</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Site 9</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>0.6</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>5</p>
+                         </entry>
+                         <entry colname="c4"/>
+                         <entry colname="c5"/>
+                         <entry colname="c6"/>
+                         <entry colname="c7">
+                            <p>1</p>
+                         </entry>
+                         <entry colname="c8">
+                            <p>0</p>
+                         </entry>
+                         <entry colname="c9">
+                            <p>1</p>
+                         </entry>
+                         <entry colname="c10">
+                            <p>1</p>
+                         </entry>
+                         <entry colname="c11">
+                            <p>0</p>
+                         </entry>
+                         <entry colname="c12">
+                            <p>2</p>
+                         </entry>
+                         <entry colname="c13">
+                            <p>0</p>
+                         </entry>
+                         <entry colname="c14">
+                            <p>0</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Site 10</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>0.4</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>3</p>
+                         </entry>
+                         <entry colname="c4"/>
+                         <entry colname="c5"/>
+                         <entry colname="c6"/>
+                         <entry colname="c7"/>
+                         <entry colname="c8">
+                            <p>1</p>
+                         </entry>
+                         <entry colname="c9">
+                            <p>0</p>
+                         </entry>
+                         <entry colname="c10">
+                            <p>1</p>
+                         </entry>
+                         <entry colname="c11">
+                            <p>0</p>
+                         </entry>
+                         <entry colname="c12">
+                            <p>1</p>
+                         </entry>
+                         <entry colname="c13">
+                            <p>0</p>
+                         </entry>
+                         <entry colname="c14">
+                            <p>0</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Site 11</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>0.5</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>3</p>
+                         </entry>
+                         <entry colname="c4"/>
+                         <entry colname="c5"/>
+                         <entry colname="c6"/>
+                         <entry colname="c7"/>
+                         <entry colname="c8"/>
+                         <entry colname="c9">
+                            <p>1</p>
+                         </entry>
+                         <entry colname="c10">
+                            <p>1</p>
+                         </entry>
+                         <entry colname="c11">
+                            <p>0</p>
+                         </entry>
+                         <entry colname="c12">
+                            <p>1</p>
+                         </entry>
+                         <entry colname="c13">
+                            <p>0</p>
+                         </entry>
+                         <entry colname="c14">
+                            <p>0</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Site 12</p>
+                         </entry>
+                         <entry colname="c2">
+                            <p>2.5</p>
+                         </entry>
+                         <entry colname="c3">
+                            <p>5</p>
+                         </entry>
+                         <entry colname="c4"/>
+                         <entry colname="c5"/>
+                         <entry colname="c6"/>
+                         <entry colname="c7"/>
+                         <entry colname="c8"/>
+                         <entry colname="c9"/>
+                         <entry colname="c10"/>
+                         <entry colname="c11"/>
+                         <entry colname="c12"/>
+                         <entry colname="c13">
+                            <p>0</p>
+                         </entry>
+                         <entry colname="c14">
+                            <p>5</p>
+                         </entry>
+                      </row>
+                      <row valign="top">
+                         <entry colname="c1">
+                            <p>Total</p>
+                         </entry>
+                         <entry colname="c2"/>
+                         <entry colname="c3"/>
+                         <entry colname="c4">
+                            <p>6</p>
+                         </entry>
+                         <entry colname="c5">
+                            <p>10</p>
+                         </entry>
+                         <entry colname="c6">
+                            <p>7</p>
+                         </entry>
+                         <entry colname="c7">
+                            <p>10</p>
+                         </entry>
+                         <entry colname="c8">
+                            <p>13</p>
+                         </entry>
+                         <entry colname="c9">
+                            <p>9</p>
+                         </entry>
+                         <entry colname="c10">
+                            <p>13</p>
+                         </entry>
+                         <entry colname="c11">
+                            <p>2</p>
+                         </entry>
+                         <entry colname="c12">
+                            <p>10</p>
+                         </entry>
+                         <entry colname="c13">
+                            <p>7</p>
+                         </entry>
+                         <entry colname="c14">
+                            <p>7</p>
+                         </entry>
+                      </row>
+                   </tbody>
+                </tgroup>
+             </table>
+          
+          <p>The clinical teams&#8217; research experience, skills and enthusiasm, and the research network staff&#8217;s clinical and assessment skills impacted strongly on the tasks that individuals could be asked to perform. In most cases, the research network staff did not have the assessment skills to screen for potential participants, as these assessments are usually the domain of stroke therapists. Consequently, our most common strategy was for the hospital therapists to screen patients and then liaise directly with the trial team. Research network staff&#8217;s confidence to extend their sphere of influence by engaging with the stroke therapists varied. Again, in some instances, the solution was for the trial team to work directly and build a relationship with the clinicians.</p>
+          <p>One site (Site 4, Table&#160;<tblr tid="T1">1</tblr>) had a notably higher recruitment rate than the other sites throughout the trial, recruiting 25% of all participants. During informal discussions with the clinicians and research nurses at this site (and others), we identified several differences in approach used by the research network nurse in Site 4, which appeared to positively impact the recruitment rate. These are detailed below.</p>
+          <sec>
+             <st>
+                <p>Clinician-related strategies</p>
+             </st>
+             <p>The research nurse at Site 4 ensured she had a good knowledge of the whole stroke service (rather than focussing on admissions), built an effective working relationship with all members of the multidisciplinary stroke team (rather than just the principal investigator and research staff) and was perceived as part of the team by being seen on the ward daily and assisting when appropriate. This made involvement in research and recruitment a role for all team members She gave frequent briefings; held regular, structured liaison meetings with the team regarding recruitment rates and progress of the trial; and kept a &#8216;research board&#8217; on the ward up-to-date with progress. She also facilitated on-going contact between the clinical and trial teams. This helped the clinical team maintain their attention on recruitment and better understand the trial and their role, which created a sense of allegiance to the trial.</p>
+          </sec>
+          <sec>
+             <st>
+                <p>Patient-related strategies</p>
+             </st>
+             <p>The research nurse at Site 4 took a more inclusive approach than most. It was her view that, wherever possible, participation should be the patients&#8217;, rather than the healthcare professionals&#8217; choice. She viewed all patients as potential participants unless/until there was an overwhelming reason for why they should not be considered, rather than excluding on potential reasons. If in doubt, she discussed it with the principal investigator, trial team or offered the trial to the patient so they could make the choice. The trial&#8217;s service user consultation group was fully supportive of this approach, expressing dismay at the notion of &#8216;gate-keeping&#8217; and &#8216;cherry-picking&#8217;.</p>
+             <p>Like many rehabilitation trials, the nature of our selection criteria meant patients who were unsuitable to participate early after their stroke may become eligible at a later stage. A &#8216;watchful waiting&#8217; strategy (that is, monitoring patients&#8217; progress and approaching them if/when they improved or their condition changed) required meticulous record keeping and ongoing discussions within the multidisciplinary team, but enabled many more suitable potential participants to be identified in the post-acute stage of stroke.</p>
+             <p>At the other recruitment sites, these strategies were adopted to some degree. Site 12 (Table&#160;<tblr tid="T1">1</tblr>) was the last site to start recruiting, due to long delays obtaining approvals, and adopted the strategies described above with similar success, albeit only for a short period.</p>
+             <p>To the authors&#8217; knowledge, this is the first paper to specifically explore recruitment to inpatient rehabilitation trials involving a multidisciplinary stroke team; the findings and solutions may be generalisable to rehabilitation trials in other clinical groups. We found that recruitment to rehabilitation trials requires assessment skills that are beyond the scope of most nurses and many doctors, and information is rarely available in clinical notes. Thus, research support needs to ensure a workforce with a suitable skill mix. Like rehabilitation trialists in other settings <abbrgrp>
+                   <abbr bid="B6">6</abbr>
+                </abbrgrp>, we felt this support could be most effectively and efficiently provided by dedicated research therapists working across the research sites rather than generic staff working on multiple trials at a single site.</p>
+             <p>Perhaps our most striking finding is that a few apparently simple, no-cost strategies appeared to positively affect recruitment rates. An inclusive recruitment strategy, &#8216;watchful waiting&#8217;, and a close relationship between the research nurse and the clinical team achieved a recruitment rate in Site 4 that was twice as high as the average for the trial. If this observation could be generalised, there is potential to dramatically reduce the cost and duration of clinical trials and the time scale that will impact clinical practice. However, we fully acknowledge the limitations of the narrative nature of this report, which merely indicates that further research is warranted.</p>
+             <p>There are clear parallels between the challenges of rehabilitation trials and other complex interventions, such as surgery and oncology, where research has tended to focus on patient- and design-related factors <abbrgrp>
+                   <abbr bid="B6">6</abbr>
+                </abbrgrp>-<abbrgrp>
+                   <abbr bid="B9">9</abbr>
+                </abbrgrp>. Recently, Donovan <it>et al</it>. <abbrgrp>
+                   <abbr bid="B10">10</abbr>
+                </abbrgrp> explored staff-related issues, describing how staff&#8217;s clinical and professional priorities, responsibilities and beliefs can inadvertently contribute to recruitment difficulties. Our experience supports these findings and adds to them by suggesting that simple changes to operational processes may enhance recruitment rates. Like Donovan <it>et al</it>. <abbrgrp>
+                   <abbr bid="B10">10</abbr>
+                </abbrgrp>, we recommend support and training to enable staff to develop skills and confidence. In our experience, mere dissemination and discussion highlighting the potential benefits of these processes and how they can be achieved is largely ineffective.</p>
+          </sec>
+       </sec>
+       <sec>
+          <st>
+             <p>Conclusions</p>
+          </st>
+          <p>Recruitment to rehabilitation trials often requires therapists&#8217; assessment skills rather than those provided by doctors or nurses, which, in turn, necessitate a flexible research support workforce, including dedicated trial therapists. Recruitment can be further enhanced by engaging the multidisciplinary stroke team, and using inclusive recruitment and &#8216;watchful waiting&#8217; strategies to identify and monitor potential participants.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Competing interests</p>
+          </st>
+          <p>The authors declare that they have no competing interests.</p>
+       </sec>
+       <sec>
+          <st>
+             <p>Authors&#8217; contributions</p>
+          </st>
+          <p>ST was the chief investigator and led the conception and design, acquisition and interpretation of data. NT was the project manager on the project and made substantial contributions to the acquisition, analysis and interpretation of data. PT made substantial contributions to the conception and design of the trial and to the interpretation of data. AV made substantial contributions to the conception and design of the trial and to the analysis and interpretation of data. ST drafted the manuscript and all contributed. All authors read and approved the final manuscript.</p>
+       </sec>
+    </bdy>
+    <bm>
+       <ack>
+          <sec>
+             <st>
+                <p>Acknowledgements</p>
+             </st>
+             <p>This paper presents independent research funded by the National Institute for Health Research under its Research for Patient Benefit (RfPB) Programme (Grant Reference Number PB-PG-1208-18077). The views expressed are those of the author(s) and not necessarily those of the NHS, the NIHR or the Department of Health.</p>
+          </sec>
+       </ack>
+       <refgrp>
+          
+          <bibl id="B1">
+             <title>
+                <p>A reinvestigation of recruitment to randomised, controlled, multicenter trials: a review of trials funded by two UK funding agencies</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Sully</snm>
+                   <fnm>BGO</fnm>
+                </au>
+                <au>
+                   <snm>Julious</snm>
+                   <fnm>SA</fnm>
+                </au>
+                <au>
+                   <snm>Nicholl</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>Trials</source>
+             <pubdate>2013</pubdate>
+             <volume>14</volume>
+             <fpage>166</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1186/1745-6215-14-166</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23758961</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B2">
+             <title>
+                <p>Methods to improve recruitment to randomised controlled trials: cochrane systematic review and meta-analysis</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Treweek</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Lockhart</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Pitkethly</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Cook</snm>
+                   <fnm>JA</fnm>
+                </au>
+                <au>
+                   <snm>Kjeldstr&#248;m</snm>
+                   <fnm>M</fnm>
+                </au>
+                <au>
+                   <snm>Johansen</snm>
+                   <fnm>M</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>BMJ Open</source>
+             <pubdate>2013</pubdate>
+             <volume>3</volume>
+             <fpage>e002360</fpage>
+             <note> 9</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/bmjopen-2012-002360</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23396504</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B3">
+             <title>
+                <p>Incentives and disincentives to participation by clinicians in randomised controlled trials (Review)</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Rendell</snm>
+                   <fnm>JM</fnm>
+                </au>
+                <au>
+                   <snm>Merritt</snm>
+                   <fnm>RD</fnm>
+                </au>
+                <au>
+                   <snm>Geddes</snm>
+                   <fnm>J</fnm>
+                </au>
+             </aug>
+             <source>Cochrane Database Syst Rev</source>
+             <pubdate>2007</pubdate>
+             <volume>2</volume>
+             <note>Article ID MR000021</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="pmpid" link="fulltext">17443636</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B4">
+             <title>
+                <p>Strategies for increasing recruitment to randomised controlled trials: systematic review</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Caldwell</snm>
+                   <fnm>PHY</fnm>
+                </au>
+                <au>
+                   <snm>Hamilton</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Tan</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Craig</snm>
+                   <fnm>JC</fnm>
+                </au>
+             </aug>
+             <source>PLoS Med</source>
+             <pubdate>2010</pubdate>
+             <volume>7</volume>
+             <fpage>e1000368</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1371/journal.pmed.1000368</pubid>
+                   <pubid idtype="pmpid" link="fulltext">21085696</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B5">
+             <title>
+                <p>Improving the recruitment activity of clinicians in randomised controlled trials: a systematic review</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Fletcher</snm>
+                   <fnm>B</fnm>
+                </au>
+                <au>
+                   <snm>Gheorghe</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Moore</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Wilson</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Damery</snm>
+                   <fnm>S</fnm>
+                </au>
+             </aug>
+             <source>BMJ Open</source>
+             <pubdate>2012</pubdate>
+             <volume>2</volume>
+             <fpage>e000496</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/bmjopen-2011-000496</pubid>
+                   <pubid idtype="pmpid" link="fulltext">22228729</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B6">
+             <title>
+                <p>Reflecting on the methodological challenges of recruiting to a United Kingdom-wide, multi-centre, randomised controlled trial in gynaecology outpatient settings</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Dickson</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Logan</snm>
+                   <fnm>J</fnm>
+                </au>
+                <au>
+                   <snm>Hagen</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Stark</snm>
+                   <fnm>D</fnm>
+                </au>
+                <au>
+                   <snm>Glazener</snm>
+                   <fnm>C</fnm>
+                </au>
+                <au>
+                   <snm>McDonald</snm>
+                   <fnm>AM</fnm>
+                </au>
+                <etal/>
+             </aug>
+             <source>Trials</source>
+             <pubdate>2013</pubdate>
+             <volume>14</volume>
+             <fpage>389</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1186/1745-6215-14-389</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24228935</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B7">
+             <title>
+                <p>Key issues in recruitment to randomised controlled trials with very different interventions: a qualitative investigation of recruitment to the SPARE trial (CRUK/07/011)</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Paramasivan</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Huddart</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Hall</snm>
+                   <fnm>E</fnm>
+                </au>
+                <au>
+                   <snm>Lewis</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Birtle</snm>
+                   <fnm>A</fnm>
+                </au>
+                <au>
+                   <snm>Donovan</snm>
+                   <fnm>JL</fnm>
+                </au>
+             </aug>
+             <source>Trials</source>
+             <pubdate>2011</pubdate>
+             <volume>15</volume>
+             <fpage>78</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1186/1745-6215-12-78</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B8">
+             <title>
+                <p>The challenges faced in the design, conduct and analysis of surgical randomised controlled trials</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Cook</snm>
+                   <fnm>JA</fnm>
+                </au>
+             </aug>
+             <source>Trials</source>
+             <pubdate>2009</pubdate>
+             <volume>10</volume>
+             <fpage>9</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1186/1745-6215-10-9</pubid>
+                   <pubid idtype="pmpid" link="fulltext">19200379</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B9">
+             <title>
+                <p>Barriers to recruitment for surgical trials in head and neck oncology: a survey of trial investigators</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Kaur</snm>
+                   <fnm>G</fnm>
+                </au>
+                <au>
+                   <snm>Hutchison</snm>
+                   <fnm>I</fnm>
+                </au>
+                <au>
+                   <snm>Mehanna</snm>
+                   <fnm>H</fnm>
+                </au>
+                <au>
+                   <snm>Williamson</snm>
+                   <fnm>P</fnm>
+                </au>
+                <au>
+                   <snm>Shaw</snm>
+                   <fnm>R</fnm>
+                </au>
+                <au>
+                   <snm>Tudur</snm>
+                   <fnm>SC</fnm>
+                </au>
+             </aug>
+             <source>BMJ Open</source>
+             <pubdate>2013</pubdate>
+             <volume>3</volume>
+             <fpage>e002625</fpage>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1136/bmjopen-2013-002625</pubid>
+                   <pubid idtype="pmpid" link="fulltext">23585392</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+          <bibl id="B10">
+             <title>
+                <p>Clear obstacles and hidden challenges: understanding recruiter perspectives in six pragmatic randomised controlled trials</p>
+             </title>
+             <aug>
+                <au>
+                   <snm>Donovan</snm>
+                   <fnm>JL</fnm>
+                </au>
+                <au>
+                   <snm>Paramasivan</snm>
+                   <fnm>S</fnm>
+                </au>
+                <au>
+                   <snm>Salis</snm>
+                   <fnm>I</fnm>
+                </au>
+                <au>
+                   <snm>Toerien</snm>
+                   <fnm>MG</fnm>
+                </au>
+             </aug>
+             <source>Trials</source>
+             <pubdate>2014</pubdate>
+             <volume>15</volume>
+             <fpage>5</fpage>
+             <note> doi:10.1186/1745-6215-15-5</note>
+             <xrefbib>
+                <pubidlist>
+                   <pubid idtype="doi">10.1186/1745-6215-15-5</pubid>
+                   <pubid idtype="pmpid" link="fulltext">24393291</pubid>
+                </pubidlist>
+             </xrefbib>
+          </bibl>
+       </refgrp>
+    </bm>
+ </art>
